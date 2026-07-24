@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T13:43:43.227790+00:00",
+  "lastUpdated": "2026-07-24T19:24:05.932995+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,66 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_5cb17b44",
+          "name": "HOCO UPA21 – 2-in-1 3.5mm Headset Audio Adapter Cable (Male to 2x Female)",
+          "brand": "HOCO",
+          "category": "headset",
+          "price": 940,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-upa21-2in1-3-5mm-audio-cable-male-to-2xfemale-price-in-pakistan-pakbyte_2.webp?v=1784916608",
+          "url": "https://www.pakbyte.pk/products/hoco-upa21-2-in-1-3-5mm-headset-audio-adapter-cable-male-to-2x-female",
+          "history": [
+            940
+          ]
+        },
+        {
+          "id": "pakbyte_09a66f32",
+          "name": "HOCO EW98 – ANC Intelligent AI Translation + Heart Rate Monitoring Wireless Earbuds",
+          "brand": "Intel",
+          "category": "monitor",
+          "price": 3490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Hoco-EW980-Earbud-Price-in-Pakistan-Pakbyte_1.webp?v=1784906863",
+          "url": "https://www.pakbyte.pk/products/hoco-ew98-anc-intelligent-ai-translation-heart-rate-monitoring-wireless-earbuds",
+          "history": [
+            3490
+          ]
+        },
+        {
+          "id": "pakbyte_7bb023f4",
+          "name": "HOCO GM60 – Cool Wired Keyboard (English Version)",
+          "brand": "HOCO",
+          "category": "keyboard",
+          "price": 1590,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm60-cool-wired-keyboard-price-in-pakistan-pakbyte_1.webp?v=1784906636",
+          "url": "https://www.pakbyte.pk/products/hoco-gm60-cool-wired-keyboard-english-version",
+          "history": [
+            1590
+          ]
+        },
+        {
+          "id": "pakbyte_5158e9c1",
+          "name": "HOCO GM42 – Platino 2.4G Wireless Mouse - White",
+          "brand": "HOCO",
+          "category": "mouse",
+          "price": 1340,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm42-platino-mouse-price-in-pakistan-pakbyte_3.webp?v=1784906104",
+          "url": "https://www.pakbyte.pk/products/hoco-gm42-platino-2-4g-wireless-mouse-white",
+          "history": [
+            1340
+          ]
+        },
         {
           "id": "pakbyte_f87a83ef",
           "name": "HOCO GM42 – Platino 2.4G Wireless Mouse - Black",
@@ -20,6 +80,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm42-platino-2_1.webp?v=1784824205",
           "url": "https://www.pakbyte.pk/products/hoco-gm42-platino-2-4g-wireless-mouse-black",
           "history": [
+            1340,
             1340,
             1340,
             1340,
@@ -41,6 +102,7 @@
             2290,
             2290,
             2290,
+            2290,
             2290
           ]
         },
@@ -56,6 +118,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm29-mysterious-dual-mode-silent-wireless-mouse-price-in-pakistan-pakbyte_1.webp?v=1784823747",
           "url": "https://www.pakbyte.pk/products/hoco-gm29-mysterious-dual-mode-silent-wireless-mouse-white",
           "history": [
+            2290,
             2290,
             2290,
             2290,
@@ -77,6 +140,7 @@
             1390,
             1390,
             1390,
+            1390,
             1390
           ]
         },
@@ -92,6 +156,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm37-wonderful-gaming-luminous-wired-mouse-price-in-pakistan-pakbyte_1.webp?v=1784823299",
           "url": "https://www.pakbyte.pk/products/hoco-gm37-wonderful-gaming-luminous-wired-mouse-black",
           "history": [
+            1390,
             1390,
             1390,
             1390,
@@ -113,6 +178,7 @@
             3990,
             3990,
             3990,
+            3990,
             3990
           ]
         },
@@ -128,6 +194,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w35-max-price-in-pakistan-pakbyte.webp?v=1784822611",
           "url": "https://www.pakbyte.pk/products/hoco-w35-max-auspicious-anc-noise-reduction-bt-headphones-silver",
           "history": [
+            3990,
             3990,
             3990,
             3990,
@@ -149,6 +216,7 @@
             3490,
             3490,
             3490,
+            3490,
             3490
           ]
         },
@@ -164,6 +232,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w56-brown-price-in-pakistan-pakbyte.webp?v=1784820530",
           "url": "https://www.pakbyte.pk/products/hoco-w56-earl-wireless-bluetooth-headphones-brown",
           "history": [
+            3490,
             3490,
             3490,
             3490,
@@ -185,6 +254,7 @@
             3390,
             3390,
             3390,
+            3390,
             3390
           ]
         },
@@ -200,6 +270,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w55-silver-price-in-pakistan-pakbyte.webp?v=1784819155",
           "url": "https://www.pakbyte.pk/products/hoco-w55-pleasing-wireless-bluetooth-headphones-silver",
           "history": [
+            3390,
             3390,
             3390,
             3390,
@@ -221,6 +292,7 @@
             3390,
             3390,
             3390,
+            3390,
             3390
           ]
         },
@@ -239,6 +311,7 @@
             2990,
             2990,
             2990,
+            2990,
             2990
           ]
         },
@@ -254,6 +327,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-m1-pro-original-series-earphones-price-in-pakistan-pakbyte.webp?v=1784793930",
           "url": "https://www.pakbyte.pk/products/hoco-m101-pro-crystal-sound-wire-controlled-digital-earphones-with-microphone-white",
           "history": [
+            1140,
             1140,
             1140,
             1140,
@@ -279,6 +353,7 @@
             1140,
             1140,
             1140,
+            1140,
             1140
           ]
         },
@@ -294,6 +369,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm34-nuevo-dual-mode-business-wireless-mouse-palm-price-in-pakistan-pakbyte_1.webp?v=1784792685",
           "url": "https://www.pakbyte.pk/products/hoco-gm34-nuevo-dual-mode-business-wireless-mouse-black-metal-gray",
           "history": [
+            1990,
             1990,
             1990,
             1990,
@@ -319,6 +395,7 @@
             2390,
             2390,
             2390,
+            2390,
             2390
           ]
         },
@@ -334,6 +411,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm17-wireless-business-keyboard-mouse-set-english-black-price-in-pakistan-pakbyte_1.webp?v=1784792135",
           "url": "https://www.pakbyte.pk/products/hoco-gm17-wireless-business-keyboard-and-mouse-combo-set",
           "history": [
+            3290,
             3290,
             3290,
             3290,
@@ -359,6 +437,7 @@
             2490,
             2490,
             2490,
+            2490,
             2490
           ]
         },
@@ -374,6 +453,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm14-platinum-2-4g-business-wireless-mouse-black-price-in-pakistan-pakbyte_1.webp?v=1784791220",
           "url": "https://www.pakbyte.pk/products/hoco-gm14-platinum-2-4g-business-wireless-mouse-black",
           "history": [
+            1490,
             1490,
             1490,
             1490,
@@ -399,6 +479,7 @@
             1590,
             1590,
             1590,
+            1590,
             1590
           ]
         },
@@ -414,6 +495,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w53-wireless-headphones-price-in-pakistan-pakbyte.webp?v=1784786856",
           "url": "https://www.pakbyte.pk/products/hoco-w53-tone-wireless-bluetooth-headphones-classic-black",
           "history": [
+            3190,
             3190,
             3190,
             3190,
@@ -439,6 +521,7 @@
             2990,
             2990,
             2990,
+            2990,
             2990
           ]
         },
@@ -459,6 +542,7 @@
             4290,
             4290,
             4290,
+            4290,
             4290
           ]
         },
@@ -474,6 +558,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-CASING-GB-AC601G-WITH-4-ARGB-FANS-Price-in-Pakistan-Pakbyte_3.webp?v=1784745052",
           "url": "https://www.pakbyte.pk/products/gigabyte-aorus-c601-glass-mid-tower-computer-case-black",
           "history": [
+            81790,
             81790,
             81790,
             81790,
@@ -503,6 +588,7 @@
             56790,
             56790,
             56790,
+            56790,
             56790
           ]
         },
@@ -518,6 +604,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c500p-pc-casing-price-in-pakistan-pakbyte_2.jpg?v=1784741840",
           "url": "https://www.pakbyte.pk/products/gigabyte-c500-panoramic-stealth-ice-atx-mid-tower-pc-gaming-case-pre-installed-4x-argb-fans-white-1",
           "history": [
+            24990,
             24990,
             24990,
             24990,
@@ -547,6 +634,7 @@
             26490,
             26490,
             26490,
+            26490,
             26490
           ]
         },
@@ -562,6 +650,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c301-glass-black-pc-casing-price-in-pakistan-pakbyte_1.jpg?v=1784740944",
           "url": "https://www.pakbyte.pk/products/gigabyte-c301-glass-argb-mid-tower-atx-case-black",
           "history": [
+            22990,
             22990,
             22990,
             22990,
@@ -591,6 +680,7 @@
             17990,
             17990,
             17990,
+            17990,
             17990
           ]
         },
@@ -606,6 +696,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c201-panoramic-micro-atx-pc-gaming-case-price-in-pakistan-pakbyte_1.webp?v=1784740244",
           "url": "https://www.pakbyte.pk/products/gigabyte-c201-panoramic-micro-atx-mid-tower-pc-gaming-case-pre-installed-3x-argb-fans-black",
           "history": [
+            16990,
             16990,
             16990,
             16990,
@@ -635,6 +726,7 @@
             15490,
             15490,
             15490,
+            15490,
             15490
           ]
         },
@@ -650,6 +742,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c103-glass-price-in-pakistan-pakbyte_5.webp?v=1784739583",
           "url": "https://www.pakbyte.pk/products/gigabyte-c103-glass-mid-tower-gaming-pc-case-with-4-argb-fans",
           "history": [
+            13490,
             13490,
             13490,
             13490,
@@ -679,6 +772,7 @@
             10990,
             10990,
             10990,
+            10990,
             10990
           ]
         },
@@ -694,6 +788,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rx-9070-xt-gaming-oc-16g-gpu-price-in-pakistan-pakbyte_1.webp?v=1784738280",
           "url": "https://www.pakbyte.pk/products/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-card",
           "history": [
+            274990,
             274990,
             274990,
             274990,
@@ -723,6 +818,7 @@
             119990,
             119990,
             119990,
+            119990,
             119990
           ]
         },
@@ -738,6 +834,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rtx-5080-windforce-oc-sff-gpu-price-in-pakistan-pakbyte_1.jpg?v=1784736682",
           "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-gddr7-256-bit-graphics-card",
           "history": [
+            469990,
             469990,
             469990,
             469990,
@@ -767,6 +864,7 @@
             354990,
             354990,
             354990,
+            354990,
             354990
           ]
         },
@@ -782,6 +880,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rtx-5070-eagle-oc-sff-12gb-price-in-pakistan-pakbyte_1.webp?v=1784735011",
           "url": "https://www.pakbyte.pk/products/gigabyte-nvidia-geforce-rtx-5070-eagle-oc-sff-12gb-graphics-card",
           "history": [
+            279990,
             279990,
             279990,
             279990,
@@ -811,6 +910,7 @@
             129990,
             129990,
             129990,
+            129990,
             129990
           ]
         },
@@ -826,6 +926,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-GeForce-RTX-5060-EAGLE-OC-8G-Graphics-Card-Price-in-Pakistan-Pakbyte_1.webp?v=1784733977",
           "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-5060-eagle-oc-8g-graphics-card",
           "history": [
+            124990,
             124990,
             124990,
             124990,
@@ -855,6 +956,7 @@
             102990,
             102990,
             102990,
+            102990,
             102990
           ]
         },
@@ -870,6 +972,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-g34wqc2-price-in-pakistan-pakbyte_1.webp?v=1784713438",
           "url": "https://www.pakbyte.pk/products/gigabyte-g34wqc2-34-wqhd-curved-ultrawide-gaming-monitor",
           "history": [
+            111990,
             111990,
             111990,
             111990,
@@ -901,6 +1004,7 @@
             52990,
             52990,
             52990,
+            52990,
             52990
           ]
         },
@@ -916,6 +1020,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-gs25f2-monitor-price-in-pakistan-pakbyte_1.png?v=1784712656",
           "url": "https://www.pakbyte.pk/products/gigabyte-gs25f2-24-5-fhd-200hz-1080p-gaming-monitor",
           "history": [
+            40990,
             40990,
             40990,
             40990,
@@ -947,6 +1052,7 @@
             34490,
             34490,
             34490,
+            34490,
             34490
           ]
         },
@@ -970,6 +1076,7 @@
             129990,
             129990,
             129990,
+            129990,
             129990
           ]
         },
@@ -985,6 +1092,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-a620m-h-rev-1-0-am5-ddr5-motherboard-price-in-pakistan-pakbyte_1.webp?v=1784711295",
           "url": "https://www.pakbyte.pk/products/gigabyte-a620m-h-am5-ddr5-motherboard",
           "history": [
+            28990,
             28990,
             28990,
             28990,
@@ -23735,7 +23843,7 @@
             150999,
             150999,
             150999,
-            150999,
+            159990,
             159990,
             159990,
             159990,
@@ -38008,7 +38116,7 @@
           "history": [
             94800,
             94800,
-            94800,
+            94790,
             94790,
             94790,
             94790,
@@ -38137,7 +38245,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-b860-eagle-wifi6e-motherboard",
           "history": [
             62800,
-            62800,
+            65490,
             65490,
             65490,
             65490,
@@ -49135,7 +49243,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-h610m-k-ddr4-intel-12-13th-gen-microatx-motherboard",
           "history": [
             23700,
-            23700,
+            24490,
             24490,
             24490,
             24490,
@@ -49161,7 +49269,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-h610m-k-ddr5-motherboard",
           "history": [
             25700,
-            25700,
+            25990,
             25990,
             25990,
             25990,
@@ -49187,7 +49295,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-h610m-h-v2-ddr5-intel-12-13-14th-gen-microatx-motherboard",
           "history": [
             26999,
-            26999,
+            26490,
             26490,
             26490,
             26490,
@@ -49213,7 +49321,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-b760m-h-ddr4-motherboard-supports-intel-core-14th-gen-cpus",
           "history": [
             29200,
-            29200,
+            37990,
             37990,
             37990,
             37990,
@@ -49291,7 +49399,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-b860-ds3h-ddr5-lga-1851-atx-motherboard",
           "history": [
             47000,
-            47000,
+            48990,
             48990,
             48990,
             48990,
@@ -49317,7 +49425,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-z790-eagle-ddr5-intel-12-13-14th-gen-atx-motherboard",
           "history": [
             61800,
-            61800,
+            64990,
             64990,
             64990,
             64990,
@@ -49343,7 +49451,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-z790-eagle-ax-ddr5-intel-12-13-14th-gen-atx-motherboard",
           "history": [
             67490,
-            67490,
+            69990,
             69990,
             69990,
             69990,
@@ -49395,7 +49503,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-z890-ud-wifi6e-ddr5-motherboard",
           "history": [
             72800,
-            72800,
+            78990,
             78990,
             78990,
             78990,
@@ -49421,7 +49529,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-z890-eagle-wifi7-intel-core-ultra-atx-ddr5-lga-1851-motherboard",
           "history": [
             78800,
-            78800,
+            78990,
             78990,
             78990,
             78990,
@@ -49448,7 +49556,7 @@
           "history": [
             71990,
             71990,
-            71990,
+            77990,
             77990,
             77990,
             77990,
@@ -49474,7 +49582,7 @@
           "history": [
             31500,
             31500,
-            31500,
+            34990,
             34990,
             34990,
             34990,
@@ -49578,7 +49686,7 @@
           "history": [
             21900,
             21900,
-            21900,
+            28890,
             28890,
             28890,
             28890,
@@ -49604,7 +49712,7 @@
           "history": [
             21780,
             21780,
-            21780,
+            21790,
             21790,
             21790,
             21790,
@@ -59176,7 +59284,7 @@
             18999,
             18999,
             18999,
-            18999,
+            19999,
             19999,
             19999,
             19999,
@@ -83616,7 +83724,7 @@
             18999,
             18999,
             18999,
-            18999,
+            19999,
             19999,
             19999,
             19999,
@@ -96533,7 +96641,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-h610m-h-v3-ddr4-motherboard",
           "history": [
             24700,
-            24700,
+            25490,
             25490,
             25490,
             25490,
@@ -105011,7 +105119,7 @@
             11000,
             11000,
             11000,
-            11000,
+            13990,
             13990,
             13990,
             13990,
@@ -105089,7 +105197,7 @@
             27200,
             27200,
             27200,
-            27200,
+            28990,
             28990,
             28990,
             28990,
@@ -109821,7 +109929,7 @@
             34500,
             34500,
             34500,
-            34500,
+            35990,
             35990,
             35990,
             35990,
@@ -144162,6 +144270,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-LOQ-15IRX9-Intel®-Core™-i7-13650HX-24GB-SO-DIMM-DDR5-4800-2x12GB-512GB-SSD-M.2-2242-PCIe®-4.0x4-NVMe-15.6-FHD-1920x1080-IPS-300nits-Anti-glare-100-sRGB-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-loq-15irx9-gaming-laptop-13th-gen-core-i7-13650hx-16gb-ddr5-512tb-ssd-nvidia-rtx-4050-6gb-graphics-15-6-fhd-ips-144hz-dos-luna-grey",
           "history": [
+            34500000,
             34500000
           ]
         },
@@ -144177,6 +144286,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Lenovo-LOQ-15IRX10-Gaming-Laptop-14th-Gen-Core-i7-14700HX-24GB-DDR5-512GB-SSD-NVIDIA-RTX-5060-8GB-Graphics-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-loq-15irx10-gaming-laptop",
           "history": [
+            40000000,
             40000000
           ]
         },
@@ -144192,6 +144302,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Lenovo-LOQ-15-Gaming-Laptop-13th-Gen-Core-i5-13450HX-16GB-DDR5-512GB-SSD-NVIDIA-RTX-5050-8GB-Graphics-15.6-FHD-IPS-144Hz-DOS-Luna-Gray-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-loq-15-gaming-laptop",
           "history": [
+            31000000,
             31000000
           ]
         },
@@ -144207,6 +144318,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/EKSA-E1000-V2-RGB-Wired-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/eksa-e1000-v2-rgb-wired-gaming-headset",
           "history": [
+            550000,
             550000
           ]
         },
@@ -144222,6 +144334,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Corsair-VENGEANCE®-RGB-32GB-2x16GB-DDR5-DRAM-6000MTs-CL36-AMD-EXPO-Intel-XMP-Memory-Kit-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/corsair-vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mt-s-cl36-memory-kit-cmg32-black",
           "history": [
+            14950000,
             14950000,
             14950000,
             14950000,
@@ -144244,6 +144357,7 @@
             6800000,
             6800000,
             6800000,
+            6800000,
             6800000
           ]
         },
@@ -144259,6 +144373,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM63-MORI-MK874V2-63-Key-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom104s-mori-mk878s-full-size-mechanical-gaming-keyboard",
           "history": [
+            730000,
             730000,
             730000,
             730000,
@@ -144282,6 +144397,7 @@
             5500000,
             5500000,
             5500000,
+            5500000,
             5500000
           ]
         },
@@ -144297,6 +144413,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM63-MORI-MK874V2-63-Key-Mechanical-Gaming-Keyboard.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom63-mori-mk874v2-63-key-mechanical-gaming-keyboard",
           "history": [
+            580000,
             580000,
             580000,
             580000,
@@ -144319,6 +144436,7 @@
             550000,
             550000,
             550000,
+            550000,
             550000
           ]
         },
@@ -144334,6 +144452,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-Kanata-Wireless-WG9RD-Gaming-Mouse-Black.jpg",
           "url": "https://zahcomputers.pk/product/fantech-kanata-wireless-wg9rd-gaming-mouse",
           "history": [
+            550000,
             550000,
             550000,
             550000,
@@ -144357,6 +144476,7 @@
             550000,
             550000,
             550000,
+            550000,
             550000
           ]
         },
@@ -144372,6 +144492,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-Crypto-II-Wireless-WG7V2RD-Gaming-Mouse-Black-01.jpg",
           "url": "https://zahcomputers.pk/product/fantech-crypto-ii-wireless-wg7v2rd-gaming-mouse",
           "history": [
+            550000,
             550000,
             550000,
             550000,
@@ -144395,6 +144516,7 @@
             300000,
             300000,
             300000,
+            300000,
             300000
           ]
         },
@@ -144410,6 +144532,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ZOTAC-GAMING-GeForce-RTX™-3050-6GB-GDDR6-Twin-Edge-OC-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-3050-6gb-gddr6-twin-edge-oc-graphics-card",
           "history": [
+            7000000,
             7000000,
             7000000,
             7000000,
@@ -144433,6 +144556,7 @@
             10779900,
             10779900,
             10779900,
+            10779900,
             10779900
           ]
         },
@@ -144448,6 +144572,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/GIGABYTE-C201-PANORAMIC-Mid-Tower-Gaming-Case-White.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-c201-panoramic-mid-tower-gaming-case-white",
           "history": [
+            1799900,
             1799900,
             1799900,
             1799900,
@@ -144471,6 +144596,7 @@
             2579900,
             2579900,
             2579900,
+            2579900,
             2579900
           ]
         },
@@ -144486,6 +144612,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Gigabyte-A520M-DS3H-AMD-AM4-MicroATX-Motherboard-Price-in-Pakistan-04.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-a520m-ds3h-amd-am4-microatx-motherboard",
           "history": [
+            2899000,
             2899000,
             2899000,
             2899000,
@@ -144517,6 +144644,7 @@
             720000,
             720000,
             720000,
+            720000,
             720000
           ]
         },
@@ -144527,11 +144655,12 @@
           "category": "ram",
           "price": 4300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Kingston-KC3000-1TB-PCIe-4.0-NVMe-M.2-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/kingston-kc3000-1tb-pcie-4-0-nvme-m-2-ssd",
           "history": [
+            4300000,
             4300000,
             4300000,
             4300000,
@@ -144555,6 +144684,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/GIGABYTE-Radeon™-RX-9070-XT-GAMING-OC-16G-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-card",
           "history": [
+            26400000,
             26400000,
             26400000,
             26400000,
@@ -145143,8 +145273,8 @@
           "name": "Apacer 16GB DDR5 5600MHz Desktop Memory – CL40, 288-Pin UDIMM, 1.1V, On-Die ECC",
           "brand": "Apacer",
           "category": "ram",
-          "price": 5700000,
-          "oldPrice": null,
+          "price": 5800000,
+          "oldPrice": 5700000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/APACER-16GB-5600MHz-DDR5-Desktop-Memory.jpg",
@@ -145161,7 +145291,7 @@
             5700000,
             5700000,
             5700000,
-            5700000
+            5800000
           ]
         },
         {
@@ -146349,6 +146479,7 @@
             14950000,
             14950000,
             14950000,
+            14950000,
             14950000
           ]
         },
@@ -146357,8 +146488,8 @@
           "name": "Crucial 32GB Pro (2 x 16GB) DDR5 6400MHz Memory Kit",
           "brand": "Crucial",
           "category": "ram",
-          "price": 13999900,
-          "oldPrice": null,
+          "price": 13500000,
+          "oldPrice": 13999900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Crucial-32GB-Pro-2-x-16GB-DDR5-6400MHz-Memory-Kit.jpg",
@@ -146375,7 +146506,7 @@
             13999900,
             13999900,
             13999900,
-            13999900
+            13500000
           ]
         },
         {
@@ -146461,8 +146592,8 @@
           "name": "Lexar 32GB (1x32GB) 5600MT/s DDR5 UDIMM Desktop Memory",
           "brand": "Lexar",
           "category": "ram",
-          "price": 10200000,
-          "oldPrice": null,
+          "price": 10800000,
+          "oldPrice": 10200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Lexar-16GB-1x16GB-5600MTs-DDR5-UDIMM-Desktop-Memory-Price-in-Pakistan.jpg",
@@ -146479,7 +146610,7 @@
             10200000,
             10200000,
             10200000,
-            10200000
+            10800000
           ]
         },
         {
@@ -146539,8 +146670,8 @@
           "name": "Apacer 32GB DDR4 3200MHz, CL22, 1.2V Desktop Memory",
           "brand": "Apacer",
           "category": "ram",
-          "price": 5080000,
-          "oldPrice": null,
+          "price": 5200000,
+          "oldPrice": 5080000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Apacer-32GB-DDR4-3200MHz-CL22-1.2V-Desktop-Memory-Price-in-Pakistan.webp",
@@ -146557,7 +146688,7 @@
             5080000,
             5080000,
             5080000,
-            5080000
+            5200000
           ]
         },
         {
@@ -146773,8 +146904,8 @@
           "name": "CORSAIR Vengeance LPX 32GB (2 x 16GB) 288-Pin DDR4 SDRAM DDR4 3200Mhz Desktop Memory",
           "brand": "Corsair",
           "category": "ram",
-          "price": 6500000,
-          "oldPrice": null,
+          "price": 7000000,
+          "oldPrice": 6500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/12/CORSAIR-Vengeance-LPX-16GB-2-x-8GB-288-Pin-DDR4-SDRAM-DDR4-3200-PC4-25600-Intel-XMP-2.0-Desktop-Memory-Price-in-Pakistan-ZahComputers.jpg",
@@ -146791,7 +146922,7 @@
             6500000,
             6500000,
             6500000,
-            6500000
+            7000000
           ]
         },
         {
@@ -148491,7 +148622,7 @@
           "category": "headset",
           "price": 800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-G7-Pro-Wireless-Gaming-Headset-Black-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-g7-pro-wireless-gaming-headset-dual-bt-5-3-2-4ghz-7-1-surround-sound-80-hour-battery-rgb-noise-canceling-mic-wing-black",
@@ -149425,8 +149556,8 @@
           "name": "Lexar ARES Gen2 RGB DDR5 32GB Kit (2 x 16GB) 7600MHz Desktop Memory 288-Pin UDIMM CL36-46-",
           "brand": "Lexar",
           "category": "ram",
-          "price": 12000000,
-          "oldPrice": null,
+          "price": 12500000,
+          "oldPrice": 12000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Lexar-ARES-Gen2-RGB-DDR5-32GB-Kit-2-x-16GB-7600MHz-Desktop-Memory-288-Pin-UDIMM-CL36-46-46-961.4V-DRAM-Empowered-by-SK-hynix-Price-in-Pakistan.jpg",
@@ -149443,7 +149574,7 @@
             12000000,
             12000000,
             12000000,
-            12000000
+            12500000
           ]
         },
         {
@@ -149531,7 +149662,7 @@
           "category": "ram",
           "price": 2800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Netac-Basic-16GB-DDR4-C22-U-DIMM-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/netac-basic-16gb-ddr4-c22-u-dimm-desktop-memory",
@@ -149583,7 +149714,7 @@
           "category": "ram",
           "price": 6500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Lexar-Hades-DDR4-32GB-16GBx2-3200MHz-CL16-XMP-RGB-Dual-Channel-Kit-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-hades-ddr4-32gb-16gbx2-3200mhz-cl16-xmp-rgb-dual-channel-kit",
@@ -149608,7 +149739,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 75000,
-          "oldPrice": 95000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/A4Tech-OP-550S-Silent-Click-Wired-USB-Mouse-Price-in-Pakistan.jpg",
@@ -149624,7 +149755,7 @@
             95000,
             95000,
             95000,
-            95000,
+            75000,
             75000
           ]
         },
@@ -150465,8 +150596,8 @@
           "name": "Kingston 32GB DDR5 5600 MHz SODIMM RAM",
           "brand": "Kingston",
           "category": "ram",
-          "price": 10500000,
-          "oldPrice": null,
+          "price": 10800000,
+          "oldPrice": 10500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/Kingston-32GB-DDR5-5600-MHz-SODIMM-RAM-Price-in-Pakistan.jpg",
@@ -150483,7 +150614,7 @@
             10500000,
             10500000,
             10500000,
-            10500000
+            10800000
           ]
         },
         {
@@ -151462,7 +151593,7 @@
           "history": [
             12200000,
             12200000,
-            12200000,
+            12649900,
             12649900,
             12649900,
             12649900,
@@ -152398,7 +152529,7 @@
           "history": [
             23000000,
             23000000,
-            23000000,
+            21399900,
             21399900,
             21399900,
             21399900,
@@ -152424,7 +152555,7 @@
           "history": [
             12299900,
             12299900,
-            12299900,
+            11549900,
             11549900,
             11549900,
             11549900,
@@ -152450,7 +152581,7 @@
           "history": [
             2999900,
             2999900,
-            2999900,
+            2899900,
             2899900,
             2899900,
             2899900,
@@ -152554,7 +152685,7 @@
           "history": [
             1339900,
             1339900,
-            1339900,
+            1319900,
             1319900,
             1319900,
             1319900,
@@ -155237,7 +155368,7 @@
             1900000,
             1900000,
             1900000,
-            1900000,
+            2100000,
             2100000,
             2100000,
             2100000,
@@ -157720,7 +157851,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 105000,
-          "oldPrice": 99000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-OP-730D-Wired-Mouse-USB-Black-Price-in-Pakistan.jpg",
@@ -157736,7 +157867,7 @@
             99000,
             99000,
             99000,
-            99000,
+            105000,
             105000
           ]
         },
@@ -162063,7 +162194,7 @@
           "category": "mouse",
           "price": 169900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-M930-Wired-RGB-Gaming-Mouse-–-Adjustable-DPI-up-to-2400-3200-6-Buttons-Ergonomic-Design-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-m930-wired-rgb-gaming-mouse-adjustable-dpi-up-to-2400-3200-6-buttons-ergonomic-design",
@@ -163128,7 +163259,7 @@
           "brand": "Intel",
           "category": "cpu",
           "price": 26500000,
-          "oldPrice": 25000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/HP-Elitebook-840-G6-CI5-8th-Generation-8GB-Ram-256GB-SSD-14-Display-Used-Price-in-Pakistan-1.jpg",
@@ -163144,7 +163275,7 @@
             25000000,
             25000000,
             25000000,
-            25000000,
+            26500000,
             26500000
           ]
         },
@@ -163519,7 +163650,7 @@
           "category": "ram",
           "price": 9500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Patriot-32GB-Signature-Line-DDR5-5600-MHz-SO-DIMM-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/patriot-32gb-signature-line-ddr5-5600-mhz-so-dimm-memory",
@@ -163683,7 +163814,7 @@
             2679900,
             2679900,
             2679900,
-            2679900,
+            2689900,
             2689900,
             2689900,
             2689900,
@@ -163735,7 +163866,7 @@
             1169900,
             1169900,
             1169900,
-            1169900,
+            1099900,
             1099900,
             1099900,
             1099900,
@@ -164923,7 +165054,7 @@
           "category": "ram",
           "price": 3499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Transcend-JetFlash-16GB-1x16GB-3200MHz-C22-DDR4-SO-DIMM-Laptop-Memory-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetflash-16gb-1x16gb-3200mhz-c22-ddr4-so-dimm-laptop-memory",
@@ -165351,7 +165482,7 @@
             720000,
             720000,
             720000,
-            720000,
+            670000,
             670000,
             670000,
             670000,
@@ -165429,7 +165560,7 @@
             284900,
             284900,
             284900,
-            284900,
+            280000,
             280000,
             280000,
             280000,
@@ -165547,7 +165678,7 @@
           "category": "ram",
           "price": 6049900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-8GB-5600MHz-SO-DIMM-DDR5-Laptop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/adata-16gb-5600mhz-c46-ddr5-so-dimm-laptop-memory",
@@ -165630,7 +165761,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Logitech-MX-Master-4-Ergonomic-Wireless-Mouse-with-Advanced-Performance-Haptic-Feedback-Ultra-Fast-Scrolling-USB-C-Charging-Bluetooth-Windows-MacOS-Graphite-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/logitech-mx-master-4-ergonomic-wireless-mouse-with-advanced-performance-haptic-feedback-ultra-fast-scrolling-usb-c-charging-bluetooth-windows-macos-graphite",
           "history": [
-            2999900,
+            2850000,
             2850000,
             2850000,
             2850000,
@@ -165651,7 +165782,7 @@
           "category": "ram",
           "price": 6399900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-16GB-3200MHz-C22-DDR4-SO-DIMM-Memory-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/adata-premier-32gb-3200mhz-c22-ddr4-so-dimm-memory",
@@ -165677,7 +165808,7 @@
           "category": "ram",
           "price": 6399900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-16GB-3200MHz-C22-DDR4-U-DIMM-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/adata-premier-32gb-3200mhz-c22-ddr4-u-dimm-memory",
@@ -165703,7 +165834,7 @@
           "category": "ram",
           "price": 3499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-16GB-3200MHz-C22-DDR4-SO-DIMM-Memory-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/adata-premier-16gb-3200mhz-c22-ddr4-so-dimm-memory",
@@ -165727,8 +165858,8 @@
           "name": "ADATA Premier 16GB 3200MHz C22 DDR4 U-DIMM Memory",
           "brand": "ADATA",
           "category": "ram",
-          "price": 2850000,
-          "oldPrice": null,
+          "price": 2900000,
+          "oldPrice": 2850000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-16GB-3200MHz-C22-DDR4-U-DIMM-Memory-Price-in-Pakistan.jpg",
@@ -165745,7 +165876,7 @@
             2850000,
             2850000,
             2850000,
-            2850000
+            2900000
           ]
         },
         {
@@ -166327,7 +166458,7 @@
           "category": "ram",
           "price": 5500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Lexar-16GB-1x16GB-5600MTs-DDR5-UDIMM-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-16gb-1x16gb-5600mt-s-ddr5-udimm-desktop-memory",
@@ -166353,7 +166484,7 @@
           "category": "ram",
           "price": 13799900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Transcend-32GB-1x32GB-6400MHz-C52-U-DIMM-DDR5-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-32gb-1x32gb-6400mhz-c52-u-dimm-ddr5-desktop-memory",
@@ -166379,7 +166510,7 @@
           "category": "ram",
           "price": 12999900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Transcend-32GB-1x32GB-5600MHz-C46-SO-DIMM-DDR5-Laptop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-32gb-1x32gb-5600mhz-c46-so-dimm-ddr5-laptop-memory",
@@ -166431,7 +166562,7 @@
           "category": "ram",
           "price": 7149900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Transcend-JetRam-16GB-1x16GB-6400MHz-C52-DDR5-SO-DIMM-Laptop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-1x16gb-6400mhz-c52-ddr5-so-dimm-laptop-memory",
@@ -166457,7 +166588,7 @@
           "category": "ram",
           "price": 7149900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Transcend-JetRam-16GB-1x16GB-6400MHz-C52-DDR5-U-DIMM-Desktop-Memory-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-1x16gb-6400mhz-c52-ddr5-u-dimm-desktop-memory",
@@ -166976,7 +167107,7 @@
           "brand": "Acer",
           "category": "storage",
           "price": 6350000,
-          "oldPrice": 6100000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Acer-Predator-GM7-2TB-Price-in-Pakistan.jpg",
@@ -166992,7 +167123,7 @@
             6100000,
             6100000,
             6100000,
-            6100000,
+            6350000,
             6350000
           ]
         },
@@ -167185,7 +167316,7 @@
           "category": "gpu",
           "price": 12300000,
           "oldPrice": 13200000,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ZOTAC-GAMING-GeForce-RTX-5060-Twin-Edge-OC-8GB-White-Edition-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5060-twin-edge-oc-8gb-white-edition-graphics-card",
@@ -167219,7 +167350,7 @@
             28799900,
             28799900,
             28799900,
-            28799900,
+            23899900,
             23899900,
             23899900,
             23899900,
@@ -167271,7 +167402,7 @@
             13299900,
             13299900,
             13299900,
-            13299900,
+            13199900,
             13199900,
             13199900,
             13199900,
@@ -167323,7 +167454,7 @@
             12999900,
             12999900,
             12999900,
-            12999900,
+            13499900,
             13499900,
             13499900,
             13499900,
@@ -167350,7 +167481,7 @@
             4800000,
             4800000,
             4800000,
-            4800000,
+            4900000,
             4900000,
             4900000,
             4900000,
@@ -167679,7 +167810,7 @@
           "category": "storage",
           "price": 1450000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ADATA-Legend-710-256GB-PCIe-Gen3-x4-M.2-2280-NVMe-Solid-State-Drive-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/adata-legend-710-256gb-pcie-gen3-x4-m-2-2280-nvme-solid-state-drive",
@@ -170053,7 +170184,7 @@
             17099900,
             17099900,
             17099900,
-            17099900,
+            16499900,
             16499900,
             16499900,
             16499900,
@@ -170849,8 +170980,8 @@
           "name": "Kingston FURY Beast 16GB 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory",
           "brand": "Kingston",
           "category": "ram",
-          "price": 5800000,
-          "oldPrice": null,
+          "price": 6000000,
+          "oldPrice": 5800000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Kingston-FURY-Beast-16GB-288-Pin-PC-RAM-DDR5-5600-PC5-44800-Desktop-Memory-Price-in-Pakistan.jpg",
@@ -170867,7 +170998,7 @@
             5800000,
             5800000,
             5800000,
-            5800000
+            6000000
           ]
         },
         {
@@ -170955,7 +171086,7 @@
           "category": "ram",
           "price": 11000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-JetRam-32GB-1x32GB-4800MHz-C40-DDR5-SO-DIMM-Laptop-Memory-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetram-32gb-1x32gb-4800mhz-c40-ddr5-so-dimm-laptop-memory-2",
@@ -170981,7 +171112,7 @@
           "category": "ram",
           "price": 10499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-JetRam-32GB-1x32GB-4800MHz-C40-DDR5-U-DIMM-Desktop-Memory-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetram-32gb-1x32gb-4800mhz-c40-ddr5-u-dimm-desktop-memory-2",
@@ -171007,7 +171138,7 @@
           "category": "ram",
           "price": 6699900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-JetRam-16GB-1x16GB-5600MHz-C46-DDR5-SO-DIMM-Laptop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-1x16gb-5600mhz-c46-ddr5-so-dimm-laptop-memory",
@@ -171033,7 +171164,7 @@
           "category": "ram",
           "price": 6699900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-JetRam-16GB-1x16GB-5600MHz-C46-DDR5-U-DIMM-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-1x16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory",
@@ -171059,7 +171190,7 @@
           "category": "ram",
           "price": 5949900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-JetRam-16GB-4800MHz-C40-DDR5-SO-DIMM-Laptop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetram-16gb-4800mhz-c40-ddr5-so-dimm-laptop-memory",
@@ -171137,7 +171268,7 @@
           "category": "ram",
           "price": 6399900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-JetFlash-32GB-1x32GB-3200MHz-C22-DDR4-U-DIMM-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetflash-32gb-1x32gb-3200mhz-c22-ddr4-u-dimm-desktop-memory",
@@ -171163,7 +171294,7 @@
           "category": "ram",
           "price": 3499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-JetFlash-16GB-1x16GB-3200MHz-C22-DDR4-U-DIMM-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-jetflash-16gb-1x16gb-3200mhz-c22-ddr4-u-dimm-desktop-memory",
@@ -171709,7 +171840,7 @@
           "category": "ram",
           "price": 2949900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-16GB-2666MHz-DDR4-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-16gb-2666mhz-ddr4-desktop-memory",
@@ -174881,7 +175012,7 @@
           "category": "ram",
           "price": 2700000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Crucial-16GB-Laptop-DDR4-3200-MHz-SODIMM-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/crucial-16gb-ddr4-3200mhz-so-dimm-laptop-memory",
@@ -176283,8 +176414,8 @@
           "name": "Viper Venom RGB 32GB (2x16GB) 6000MT/s CL30 DDR5 Ram",
           "brand": "Viper",
           "category": "ram",
-          "price": 14500000,
-          "oldPrice": null,
+          "price": 13500000,
+          "oldPrice": 14500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Viper-Venom-RGB-32GB-2x16GB-6000MTs-CL30-DDR5-Ram-01.jpg",
@@ -176301,7 +176432,7 @@
             14500000,
             14500000,
             14500000,
-            14500000
+            13500000
           ]
         },
         {
@@ -176493,7 +176624,7 @@
           "category": "storage",
           "price": 6500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lexar-NQ790-2TB-Gen4-M.2-2280-NVMe-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-nq790-2tb-gen4-m-2-2280-nvme-ssd",
@@ -177177,7 +177308,7 @@
             9799900,
             9799900,
             9799900,
-            9799900,
+            9899900,
             9899900,
             9899900,
             9899900,
@@ -177333,7 +177464,7 @@
             8249900,
             8249900,
             8249900,
-            8249900,
+            8199900,
             8199900,
             8199900,
             8199900,
@@ -177385,7 +177516,7 @@
             7000000,
             7000000,
             7000000,
-            7000000,
+            7399900,
             7399900,
             7399900,
             7399900,
@@ -177411,7 +177542,7 @@
             6679900,
             6679900,
             6679900,
-            6679900,
+            6699900,
             6699900,
             6699900,
             6699900,
@@ -177463,7 +177594,7 @@
             5099900,
             5099900,
             5099900,
-            5099900,
+            4999900,
             4999900,
             4999900,
             4999900,
@@ -177541,7 +177672,7 @@
             2669900,
             2669900,
             2669900,
-            2669900,
+            2689900,
             2689900,
             2689900,
             2689900,
@@ -177843,8 +177974,8 @@
           "name": "Lexar 32GB DDR5 5600MHz SO-DIMM Laptop RAM",
           "brand": "Lexar",
           "category": "ram",
-          "price": 10500000,
-          "oldPrice": null,
+          "price": 11000000,
+          "oldPrice": 10500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lexar-32GB-DDR5-5600MHz-SO-DIMM-Laptop-RAM-Price-in-pakistan.jpg",
@@ -177861,7 +177992,7 @@
             10500000,
             10500000,
             10500000,
-            10500000
+            11000000
           ]
         },
         {
@@ -177897,7 +178028,7 @@
           "category": "ram",
           "price": 5500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": null,
           "url": "https://zahcomputers.pk/product/16gb-3200mhz-laptop-pulled",
@@ -178009,7 +178140,7 @@
             4750000,
             4750000,
             4750000,
-            4750000,
+            7900000,
             7900000,
             7900000,
             7900000,
@@ -180666,7 +180797,7 @@
             3600000,
             3600000,
             3600000,
-            3600000,
+            3900000,
             3900000,
             3900000,
             3900000
@@ -181900,7 +182031,7 @@
           "brand": "NVIDIA",
           "category": "gpu",
           "price": 34500000,
-          "oldPrice": 28500000,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-LOQ-15IRX9-Intel®-Core™-i7-13650HX-24GB-SO-DIMM-DDR5-4800-2x12GB-512GB-SSD-M.2-2242-PCIe®-4.0x4-NVMe-15.6-FHD-1920x1080-IPS-300nits-Anti-glare-100-sRGB-Price-in-Pakistan.jpg",
@@ -181916,7 +182047,7 @@
             28500000,
             28500000,
             28500000,
-            28500000,
+            34500000,
             34500000
           ]
         },
@@ -182369,7 +182500,7 @@
           "category": "ram",
           "price": 11500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Team-T-Force-Delta-RGB-32GB-2-x-16GB-288-Pin-PC-RAM-DDR5-6400-CL40-PC5-51200-Desktop-Memory-Model-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/teamgroup-t-force-delta-rgb-32gb-2x16gb-5600mhz-c36-ddr5-dram-desktop-memory-black",
@@ -184345,7 +184476,7 @@
           "category": "ram",
           "price": 11000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Team-T-Force-Vulcan-32GB-2-x-16GB-288-Pin-PC-RAM-DDR5-6000-CL38-PC5-48000-Desktop-Memory-Red-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/teamgroup-t-force-vulcan-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-cl38-pc5-48000-desktop-memory-red",
@@ -184501,7 +184632,7 @@
           "category": "ram",
           "price": 12900000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Team-T-Force-Delta-RGB-32GB-2-x-16GB-288-Pin-PC-RAM-DDR5-6400-CL40-PC5-51200-Desktop-Memory-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/team-t-force-delta-rgb-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6400-cl40-pc5-51200-desktop-memory-white",
@@ -184527,7 +184658,7 @@
           "category": "ram",
           "price": 12900000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Team-T-Force-Delta-RGB-32GB-2-x-16GB-288-Pin-PC-RAM-DDR5-6400-CL40-PC5-51200-Desktop-Memory-Model-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/team-t-force-delta-rgb-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6400-cl40-pc5-51200-desktop-model",
@@ -184579,7 +184710,7 @@
           "category": "storage",
           "price": 4500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/TeamGroup-T-FORCE-G70-PRO-Aluminum-M.2-2280-2TB-PCIe-4.0-x4-with-NVMe-1.4-TLC-Internal-Solid-State-Drive-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/team-group-t-force-g70-pro-aluminum-m-2-2280-1tb-pcie-4-0-x4-with-nvme-1-4-tlc-internal-solid-state-drive-ssd",
@@ -185279,8 +185410,8 @@
           "name": "Kingston NV3 2TB M.2 2280 PCIe 4.0 NVMe SSD SNV3S/2000G, 6000MB/s",
           "brand": "Kingston",
           "category": "storage",
-          "price": 6200000,
-          "oldPrice": null,
+          "price": 6800000,
+          "oldPrice": 6200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Kingston-NV3-2TB-M.2-2280-PCIe-4.0-NVMe-SSD-SNV3S2000G-6000MBs-Price-in-Pakistan.jpg",
@@ -185297,7 +185428,7 @@
             6200000,
             6200000,
             6200000,
-            6200000
+            6800000
           ]
         },
         {
@@ -185593,7 +185724,7 @@
           "category": "ram",
           "price": 5950000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lexar-8GB-DDR4-3200-SODIMM-Laptop-Memory-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/lexar-32gb-ddr4-3200mhz-so-dimm-laptop-ram",
@@ -186191,7 +186322,7 @@
           "category": "ram",
           "price": 6500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Lexar-SODIMM-16GB-DDR5-RAM-5600-MHz-Laptop-RAM-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-sodimm-16gb-ddr5-ram-5600-mhz-laptop-ram-memory",
@@ -187854,7 +187985,7 @@
           "brand": "Apple",
           "category": "keyboard",
           "price": 7500000,
-          "oldPrice": 6500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Apple-MXK73-Magic-Keyboard-USB-C-White-Price-is-Pakistan.jpg",
@@ -187870,7 +188001,7 @@
             6500000,
             6500000,
             6500000,
-            6500000,
+            7500000,
             7500000
           ]
         },
@@ -188531,7 +188662,7 @@
           "category": "mouse",
           "price": 1000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Attack-Shark-X3-Lightweight-Wireless-Gaming-Mouse-PAW3395-Superlight-White-Price-in-pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-x3-lightweight-wireless-gaming-mouse-paw3395-superlight-white",
@@ -188557,7 +188688,7 @@
           "category": "mouse",
           "price": 1000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Attack-Shark-X3-Lightweight-Wireless-Gaming-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-x3-lightweight-wireless-gaming-mouse-black",
@@ -189075,8 +189206,8 @@
           "name": "ADATA 16GB 5600MHz C46 DDR5 U-DIMM Desktop Memory",
           "brand": "ADATA",
           "category": "ram",
-          "price": 5200000,
-          "oldPrice": null,
+          "price": 5500000,
+          "oldPrice": 5200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-8GB-5600MHz-U-DIMM-DDR5-Desktop-Memory-Price-in-Pakistan.jpg",
@@ -189093,7 +189224,7 @@
             5200000,
             5200000,
             5200000,
-            5200000
+            5500000
           ]
         },
         {
@@ -189181,7 +189312,7 @@
           "category": "storage",
           "price": 4250000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/WD-Green-SN350-1TB-NVMe-Internal-Solid-State-Drive-SSD-WDS100T4G0E-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/wd-green-sn3000-1tb-gen-4-5000mb-s-nvme-m-2-ssd",
@@ -189413,8 +189544,8 @@
           "name": "HikSemi WAVE 512GB PCIe 3.0 NVMe SSD",
           "brand": "HikSemi",
           "category": "storage",
-          "price": 2050000,
-          "oldPrice": null,
+          "price": 1950000,
+          "oldPrice": 2050000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/HikSemi-WAVE-512GB-PCIe-3.0-NVMe-SSD-Price-in-Pakistan.jpg",
@@ -189428,10 +189559,10 @@
             1950000,
             1950000,
             1950000,
-            1950000,
             2050000,
             2050000,
-            2050000
+            2050000,
+            1950000
           ]
         },
         {
@@ -189557,7 +189688,7 @@
             39000000,
             39000000,
             39000000,
-            39000000,
+            34500000,
             34500000,
             34500000,
             34500000,
@@ -189605,7 +189736,7 @@
             3499900,
             3499900,
             3499900,
-            3499900,
+            3399900,
             3399900,
             3399900,
             3399900,
@@ -189649,7 +189780,7 @@
           "category": "ram",
           "price": 9800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/TeamGroup-Elite-DDR5-32GB-5600MHz-C46-UDIMM-Desktop-RAM-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/teamgroup-elite-ddr5-32gb-5600mhz-c46-udimm-desktop-ram",
@@ -190559,7 +190690,7 @@
           "category": "ram",
           "price": 15200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/G.SKILL-Trident-Z5-Neo-RGB-Series-AMD-EXPO-32GB-2-x-16GB-288-Pin-PC-RAM-DDR5-6000-PC5-48000-Desktop-Memory-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/g-skill-trident-z5-neo-rgb-series-amd-expo-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory",
@@ -190663,7 +190794,7 @@
           "category": "ram",
           "price": 15200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/G.SKILL-Trident-Z5-RGB-Series-32GB-2-x-16GB-288-Pin-PC-RAM-DDR5-6000-PC5-48000-Desktop-Memory-Model-White-Price-in-Pakistan-02.jpg",
           "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory-model-white",
@@ -190689,7 +190820,7 @@
           "category": "ram",
           "price": 15200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/G.SKILL-Trident-Z5-RGB-Series-32GB-2-x-16GB-288-Pin-PC-RAM-DDR5-6000-PC5-48000-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6000-pc5-48000-desktop-memory",
@@ -191321,7 +191452,7 @@
             11549900,
             11549900,
             11549900,
-            11549900,
+            13500000,
             13500000,
             13500000,
             13500000,
@@ -201149,7 +201280,7 @@
             23999900,
             23999900,
             23999900,
-            23999900,
+            23099900,
             23099900,
             23099900,
             23099900,
@@ -201893,8 +202024,8 @@
           "name": "HikSemi Future 1TB M.2 PCIe 4.0 NVMe SSD",
           "brand": "HikSemi",
           "category": "storage",
-          "price": 4850000,
-          "oldPrice": null,
+          "price": 4500000,
+          "oldPrice": 4850000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/04/HikSemi-Future-M.2-PCIe-4.0-NVMe-SSD-Price-in-Pakistan.webp",
@@ -201911,7 +202042,7 @@
             4850000,
             4850000,
             4850000,
-            4850000
+            4500000
           ]
         },
         {
@@ -205205,7 +205336,7 @@
             42500000,
             42500000,
             42500000,
-            42500000,
+            45599900,
             45599900,
             45599900,
             45599900,
@@ -205257,7 +205388,7 @@
             36000000,
             36000000,
             36000000,
-            36000000,
+            36799900,
             36799900,
             36799900,
             36799900,
@@ -211159,7 +211290,7 @@
             25299900,
             25299900,
             25299900,
-            25299900,
+            25499900,
             25499900,
             25499900,
             25499900,
@@ -212061,7 +212192,7 @@
           "category": "ram",
           "price": 29200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/06/G.SKILL-Trident-Z5-Neo-RGB-Series-AMD-EXPO-32GB-2x16GB-288-Pin-PC-RAM-DDR5-6000Mhz-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/g-skill-trident-z5-neo-rgb-series-amd-expo-64gb-2x32gb-288-pin-pc-ram-ddr5-6000mhz",
@@ -213257,7 +213388,7 @@
           "category": "cpu",
           "price": 22600000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/HP-ProBook-460-G11-Ultra-7-155U-Processor.jpg",
           "url": "https://zahcomputers.pk/product/hp-probook-440-g11-ultra-5-125u-12-core-processor-8gb-512gb-ssd-intel-integrated-gc-14-wuxga-1200p-ips-ag-300nits-display-polystudio-audio-backlit-kb-fp-reader-pike-silver",
@@ -213413,7 +213544,7 @@
           "category": "cpu",
           "price": 26500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/HP-ProBook-460-G11-Ultra-7-155U-Processor.jpg",
           "url": "https://zahcomputers.pk/product/hp-probook-440-g11-ultra-7-155u-12-core-processor-8gb-512gb-ssd-intel-integrated-gc-14-wuxga-1200p-ips-ag-300nits-display-polystudio-audio-backlit-kb-fp-reader-pike-silver",
@@ -216905,7 +217036,7 @@
             7399900,
             7399900,
             7399900,
-            7399900,
+            8099900,
             8099900,
             8099900,
             8099900,
@@ -216983,7 +217114,7 @@
             6449900,
             6449900,
             6449900,
-            6449900,
+            6869900,
             6869900,
             6869900,
             6869900,
@@ -217009,7 +217140,7 @@
             3950000,
             3950000,
             3950000,
-            3950000,
+            4069900,
             4069900,
             4069900,
             4069900,
@@ -217035,7 +217166,7 @@
             3749900,
             3749900,
             3749900,
-            3749900,
+            3399900,
             3399900,
             3399900,
             3399900,
@@ -217061,7 +217192,7 @@
             2549900,
             2549900,
             2549900,
-            2549900,
+            2579900,
             2579900,
             2579900,
             2579900,
@@ -220875,7 +221006,7 @@
           "category": "ram",
           "price": 5950000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/10/Lexar-16GB.jpg",
           "url": "https://zahcomputers.pk/product/lexar-32gb-dram-ddr4-3200-mhz-udimm-desktop-memory",
@@ -223599,32 +223730,6 @@
           ]
         },
         {
-          "id": "zah_9496c244",
-          "name": "Crucial 1TB P3 NVMe PCIe 3.0 M.2 Internal SSD",
-          "brand": "Crucial",
-          "category": "storage",
-          "price": 1680000,
-          "oldPrice": null,
-          "inStock": false,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/Crucial-1TB-P3-NVMe-PCIe-3.0-M.2-Internal-SSD-Lowest-Price-in-Pakistan.jpg",
-          "url": "https://zahcomputers.pk/product/crucial-1tb-p3-nvme-pcie-3-0-m-2-internal-ssd",
-          "history": [
-            1680000,
-            1680000,
-            1680000,
-            1680000,
-            1680000,
-            1680000,
-            1680000,
-            1680000,
-            1680000,
-            1680000,
-            1680000,
-            1680000
-          ]
-        },
-        {
           "id": "zah_84ade06c",
           "name": "Lexar NM790 1TB M.2 2280 PCIe Gen 4×4 NVMe SSD",
           "brand": "Lexar",
@@ -223655,9 +223760,9 @@
           "name": "Lexar NM620 M.2 2280 NVMe SSD 1TB PCle Gen 3&#215;4",
           "brand": "Lexar",
           "category": "storage",
-          "price": 3700000,
-          "oldPrice": null,
-          "inStock": true,
+          "price": 3900000,
+          "oldPrice": 3700000,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/Lexar-NM620-M.2-2280-NVMe-SSD-PCle-Gen-3x4-Lowest-Price-in-Pakistan.png",
           "url": "https://zahcomputers.pk/product/lexar-nm620-m-2-2280-nvme-ssd-1tb-pcle-gen-3x4",
@@ -223673,7 +223778,7 @@
             3700000,
             3700000,
             3700000,
-            3700000
+            3900000
           ]
         },
         {
@@ -227609,7 +227714,7 @@
           "category": "ram",
           "price": 16200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/107716-g-skill-trident-z5-ddr5-1-1.webp",
           "url": "https://zahcomputers.pk/product/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-pc-ram-ddr5-6000-mhz-desktop-memory",
@@ -234559,7 +234664,7 @@
             2669900,
             2669900,
             2669900,
-            2669900,
+            2749900,
             2749900,
             2749900,
             2749900,
@@ -234585,7 +234690,7 @@
             2549900,
             2549900,
             2549900,
-            2549900,
+            2639900,
             2639900,
             2639900,
             2639900,
@@ -244908,7 +245013,7 @@
             7199900,
             7199900,
             7199900,
-            7199900,
+            7560000,
             7560000,
             7560000,
             7560000,
@@ -256073,32 +256178,6 @@
           ]
         },
         {
-          "id": "zah_3db3e4c0",
-          "name": "Gigabyte 1TB SSD Solid State Drive &#8211; M.2 2280 Internal &#8211; PCI Express NVMe",
-          "brand": "Gigabyte",
-          "category": "storage",
-          "price": 2150000,
-          "oldPrice": null,
-          "inStock": false,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2022/05/Gigabyte-512-GB-SSD-Solid-State-Drive-M.2-2280-Internal-PCI-Express-NVMe-Price-in-Pakistan.jpg",
-          "url": "https://zahcomputers.pk/product/gigabyte-1tb-ssd-solid-state-drive-m-2-2280-internal-pci-express-nvme",
-          "history": [
-            2150000,
-            2150000,
-            2150000,
-            2150000,
-            2150000,
-            2150000,
-            2150000,
-            2150000,
-            2150000,
-            2150000,
-            2150000,
-            2150000
-          ]
-        },
-        {
           "id": "zah_584b387e",
           "name": "Gigabyte 512 GB SSD Solid State Drive &#8211; M.2 2280 Internal &#8211; PCI Express NVMe",
           "brand": "Gigabyte",
@@ -259108,7 +259187,7 @@
             1900000,
             1900000,
             1900000,
-            1900000,
+            1950000,
             1950000,
             1950000,
             1950000
@@ -266167,7 +266246,7 @@
           "category": "ram",
           "price": 6500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/09/V-Color-Prism-Pro-RGB-32GB16GBx2DDR4-DRAM-3600MHz-Memory-Kit-Silver-Copper-Alloy-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-32gb16gbx2ddr4-dram-3600mhz-memory-kit-silver-copper-alloy",
@@ -266919,9 +266998,9 @@
           "name": "Samsung 2TB 970 EVO Plus NVMe M.2 Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 4700000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 8600000,
+          "oldPrice": 4700000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/09/Samsung-2TB-970-EVO-Plus-NVMe-M.2-Internal-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/samsung-2tb-970-evo-plus-nvme-m-2-internal-ssd",
@@ -266937,33 +267016,7 @@
             4700000,
             4700000,
             4700000,
-            4700000
-          ]
-        },
-        {
-          "id": "zah_5526f983",
-          "name": "Samsung 1TB 970 EVO Plus NVMe M.2 Internal SSD",
-          "brand": "Samsung",
-          "category": "storage",
-          "price": 2700000,
-          "oldPrice": null,
-          "inStock": false,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2021/09/Samsung-1TB-970-EVO-Plus-NVMe-M.2-Internal-SSD-Price-in-Pakistan.jpg",
-          "url": "https://zahcomputers.pk/product/samsung-1tb-970-evo-plus-nvme-m-2-internal-ssd",
-          "history": [
-            2700000,
-            2700000,
-            2700000,
-            2700000,
-            2700000,
-            2700000,
-            2700000,
-            2700000,
-            2700000,
-            2700000,
-            2700000,
-            2700000
+            8600000
           ]
         },
         {
@@ -276392,6 +276445,7 @@
             39499,
             39499,
             39499,
+            39499,
             39499
           ]
         },
@@ -276407,6 +276461,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_falchion_ace_hfx_zywoo.png",
           "url": "https://rbtechngames.com/product/asus-rog-falchion-ace-hfx-zywoo-edition-m606-8k-magnetic-gaming-keyboard-with-rapid-trigger",
           "history": [
+            48499,
             48499,
             48499,
             48499,
@@ -276436,6 +276491,7 @@
             29799,
             29799,
             29799,
+            29799,
             29799
           ]
         },
@@ -276458,6 +276514,7 @@
             14499,
             14499,
             14499,
+            14499,
             14499
           ]
         },
@@ -276473,6 +276530,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_harpe_ii_ace.png",
           "url": "https://rbtechngames.com/product/asus-rog-harpe-ii-ace-p723-8k-wireless-48g-gaming-mouse-black-white-red",
           "history": [
+            34999,
             34999,
             34999,
             34999,
@@ -276503,6 +276561,7 @@
             68999,
             68999,
             68999,
+            68999,
             68999
           ]
         },
@@ -276518,6 +276577,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_gladius_iii_core_black.png",
           "url": "https://rbtechngames.com/product/asus-rog-gladius-iii-core-p523-wired-gaming-mouse-black",
           "history": [
+            11799,
             11799,
             11799,
             11799,
@@ -281434,6 +281494,7 @@
             54999,
             54999,
             54999,
+            54999,
             54999
           ]
         },
@@ -281449,6 +281510,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/gigabyte_x870_eagle_wifi7.webp",
           "url": "https://rbtechngames.com/product/gigabyte-x870-eagle-wifi7-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            75500,
             75500,
             75500,
             75500,
@@ -282758,6 +282820,7 @@
             32999,
             32999,
             32999,
+            32999,
             32999
           ]
         },
@@ -282877,6 +282940,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/09/rbtech_asus_tuf_b650m-e_wifi_4.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-b650m-e-wifi-ddr5-m-atx-am5-gaming-motherboard",
           "history": [
+            51999,
             51999
           ]
         },
@@ -283265,6 +283329,7 @@
             9499,
             9499,
             9499,
+            9499,
             9499
           ]
         },
@@ -283471,6 +283536,7 @@
             19999,
             19999,
             19999,
+            19999,
             19999
           ]
         },
@@ -283486,6 +283552,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/05/asus_tuf_gaming_m3_gen_ii_p309.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-m3-gen-ii-p309-gaming-mouse",
           "history": [
+            6499,
             6499,
             6499,
             6499,
@@ -283536,6 +283603,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/05/rbtech_asus_rog_falchion_ace_m602.png",
           "url": "https://rbtechngames.com/product/asus-rog-falchion-ace-m602-65-compact-gaming-keyboard-black-nx-red-switches-with-abs-keycaps",
           "history": [
+            28499,
             28499,
             28499,
             28499,
@@ -283614,7 +283682,7 @@
           "history": [
             89999,
             89999,
-            89999,
+            82499,
             82499,
             82499,
             82499,
@@ -283631,8 +283699,8 @@
           "name": "AMD RYZEN 5 7500F AM5 (6C/12T) Processor &#8211; Tray &#8211; NEW",
           "brand": "AMD",
           "category": "cpu",
-          "price": 35999,
-          "oldPrice": null,
+          "price": 33499,
+          "oldPrice": 35999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/04/AMD_RYZEN_5_7500F.jpg",
@@ -283649,7 +283717,7 @@
             35999,
             35999,
             35999,
-            35999
+            33499
           ]
         },
         {
@@ -284290,7 +284358,7 @@
           "history": [
             50499,
             50499,
-            50499,
+            44999,
             44999,
             44999,
             44999,
@@ -284496,6 +284564,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/02/asus_tuf_m4wireless_1.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-m4-wireless-p306-lightweight-gaming-mouse",
           "history": [
+            12500,
             12500,
             12500,
             12500,
@@ -284754,6 +284823,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/03/rog_claymore2_1.jpg",
           "url": "https://rbtechngames.com/product/asus-rog-claymore-ii-modular-tkl-ma02-80-100-rgb-gaming-mechanical-keyboard-red-switch",
           "history": [
+            64999,
             64999,
             64999,
             64999,
@@ -285066,7 +285136,7 @@
           "history": [
             19499,
             19499,
-            19499,
+            18499,
             18499,
             18499,
             18499,
@@ -285274,7 +285344,7 @@
           "history": [
             56999,
             56999,
-            56999,
+            54999,
             54999,
             54999,
             54999,
