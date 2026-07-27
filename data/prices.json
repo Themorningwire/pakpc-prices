@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T09:50:36.689531+00:00",
+  "lastUpdated": "2026-07-27T14:31:59.385081+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-upa21-2in1-3-5mm-audio-cable-male-to-2xfemale-price-in-pakistan-pakbyte_2.webp?v=1784916608",
           "url": "https://www.pakbyte.pk/products/hoco-upa21-2-in-1-3-5mm-headset-audio-adapter-cable-male-to-2x-female",
           "history": [
+            940,
             940,
             940,
             940,
@@ -55,6 +56,7 @@
             3490,
             3490,
             3490,
+            3490,
             3490
           ]
         },
@@ -80,6 +82,7 @@
             1590,
             1590,
             1590,
+            1590,
             1590
           ]
         },
@@ -95,6 +98,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm42-platino-mouse-price-in-pakistan-pakbyte_3.webp?v=1784906104",
           "url": "https://www.pakbyte.pk/products/hoco-gm42-platino-2-4g-wireless-mouse-white",
           "history": [
+            1340,
             1340,
             1340,
             1340,
@@ -6459,7 +6463,7 @@
           "category": "mouse",
           "price": 20990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-z7-purple-price-in-pakistan-pakbyte.webp?v=1781767360",
           "url": "https://www.pakbyte.pk/products/eweadn-z7-flagship-wireless-gaming-mouse-purple",
@@ -144511,6 +144515,141 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_0c16e918",
+          "name": "Fantech ATOM X66 MK614 Mechanical Gaming Keyboard Ice Apricot Switch – Retro Beige",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 850000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ATOM-X66-MK614-Beige.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom-x66-mk614-mechanical-gaming-keyboard-ice-apricot-switch-retro-beige",
+          "history": [
+            850000
+          ]
+        },
+        {
+          "id": "zah_d50f106a",
+          "name": "Fantech ATOM X66 MK614 Mechanical Gaming Keyboard Ice Apricot Switch – Retro Black",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 850000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ATOM-X66-MK614-B.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom-x66-mk614-mechanical-gaming-keyboard-ice-apricot-switch-retro-black",
+          "history": [
+            850000
+          ]
+        },
+        {
+          "id": "zah_7c09014f",
+          "name": "Fantech ATOM X83 MK612 AME Edition Mechanical Gaming Keyboard Taro Switch – White",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 800000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X83-MK612-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom-x83-mk612-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
+          "history": [
+            800000
+          ]
+        },
+        {
+          "id": "zah_90f9510d",
+          "name": "Fantech ATOM X63 MK611 AME Edition Mechanical Gaming Keyboard Taro Switch – Blue",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 750000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X63-MK611-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-Blue.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom-x63-mk611-ame-edition-mechanical-gaming-keyboard-taro-switch-blue",
+          "history": [
+            750000
+          ]
+        },
+        {
+          "id": "zah_add796df",
+          "name": "Fantech ATOM X63 MK611 AME Edition Mechanical Gaming Keyboard Taro Switch – White",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 750000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X63-MK611-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom-x63-mk611-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
+          "history": [
+            750000
+          ]
+        },
+        {
+          "id": "zah_84bda587",
+          "name": "Fantech ATOM81 MK875V2 MIZU Series Mechanical Gaming Keyboard Taro Switch – Sky Blue",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 750000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM81-MK875V2-MIZU-Series.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom81-mk875v2-mizu-series-mechanical-gaming-keyboard-taro-switch-sky-blue",
+          "history": [
+            750000
+          ]
+        },
+        {
+          "id": "zah_6838d52a",
+          "name": "Fantech ATOM81 MK875V2 MIZU Series Mechanical Gaming Keyboard Taro Switch – Navy Blue",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 750000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM81-MK875V2-MIZU-Navy-Blue.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom81-mk875v2-mizu-series-mechanical-gaming-keyboard-taro-switch-navy-blue",
+          "history": [
+            750000
+          ]
+        },
+        {
+          "id": "zah_026cb225",
+          "name": "Fantech ATOM63 MK874V2 MIZU Series Mechanical Gaming Keyboard – Hot-Swappable, Double-Shot",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 640000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM63-MK874V2-MIZU-Series.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom63-mk874v2-mizu-series-mechanical-gaming-keyboard-hot-swappable-double-shot-keycaps-usb-c-17-lighting-modes-navy-blue-taro-switch",
+          "history": [
+            640000
+          ]
+        },
+        {
+          "id": "zah_0f34784b",
+          "name": "Lenovo ThinkPad E14 Gen 7 Business Laptop – 14&#8243; WUXGA | Intel Core Ultra 5 225H | 16",
+          "brand": "Intel",
+          "category": "ram",
+          "price": 31500000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-ThinkPad-E14-Gen-4-Intel-Core-i5-1235U-16GB-2x-8GB-DDR4-3200-512-GB-SSD-PCIe-14-FHD-Intel®-Iris®-Xe-Graphics-NO-OS-Price-in-Pakistan-1.jpg",
+          "url": "https://zahcomputers.pk/product/lenovo-thinkpad-e14-gen-7-business-laptop",
+          "history": [
+            31500000
+          ]
+        },
+        {
           "id": "zah_a4b9228f",
           "name": "Asus Prime GeForce RTX 5070 12GB GDDR7 PCI Express 5.0 x16 ATX Graphics Card DLSS 4.0 Prim",
           "brand": "ASUS",
@@ -144522,6 +144661,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Asus-Prime-GeForce-RTX-5070-OC-12GB-Graphics-Card-–-White-Edition-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-geforce-rtx-5070-oc-12gb-graphics-card-white-edition",
           "history": [
+            22800000,
             22800000,
             22800000,
             22800000,
@@ -144549,6 +144689,7 @@
             3400000,
             3400000,
             3400000,
+            3400000,
             3400000
           ]
         },
@@ -144564,6 +144705,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/WESTERN-DIGITAL-6TB-Purple-SATA-III-3.5-Internal-Surveillance-HDD.webp",
           "url": "https://zahcomputers.pk/product/western-digital-6tb-purple-sata-iii-3-5-internal-surveillance-hdd",
           "history": [
+            6800000,
             6800000,
             6800000,
             6800000,
@@ -144593,6 +144735,7 @@
             6500000,
             6500000,
             6500000,
+            6500000,
             6500000
           ]
         },
@@ -144601,8 +144744,8 @@
           "name": "Lenovo LOQ 15IRX9 Gaming Laptop 13th Gen Core i7-13650HX 16GB DDR5 512TB SSD NVIDIA RTX 40",
           "brand": "NVIDIA",
           "category": "gpu",
-          "price": 34500000,
-          "oldPrice": null,
+          "price": 34000000,
+          "oldPrice": 34500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-LOQ-15IRX9-Intel®-Core™-i7-13650HX-24GB-SO-DIMM-DDR5-4800-2x12GB-512GB-SSD-M.2-2242-PCIe®-4.0x4-NVMe-15.6-FHD-1920x1080-IPS-300nits-Anti-glare-100-sRGB-Price-in-Pakistan.jpg",
@@ -144619,7 +144762,7 @@
             34500000,
             34500000,
             34500000,
-            34500000
+            34000000
           ]
         },
         {
@@ -144653,8 +144796,8 @@
           "name": "Lenovo LOQ 15 Gaming Laptop – Intel® Core™ i5-13450HX, 16GB DDR5, 512GB NVMe SSD, NVIDIA® ",
           "brand": "Intel",
           "category": "gpu",
-          "price": 31000000,
-          "oldPrice": null,
+          "price": 30500000,
+          "oldPrice": 31000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Lenovo-LOQ-15-Gaming-Laptop-13th-Gen-Core-i5-13450HX-16GB-DDR5-512GB-SSD-NVIDIA-RTX-5050-8GB-Graphics-15.6-FHD-IPS-144Hz-DOS-Luna-Gray-Price-in-Pakistan.jpg",
@@ -144671,7 +144814,7 @@
             31000000,
             31000000,
             31000000,
-            31000000
+            30500000
           ]
         },
         {
@@ -144976,7 +145119,7 @@
             7000000,
             7000000,
             7000000,
-            7000000,
+            7500000,
             7500000,
             7500000,
             7500000,
@@ -145752,7 +145895,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/APACER-16GB-5600MHz-DDR5-Desktop-Memory.jpg",
           "url": "https://zahcomputers.pk/product/apacer-16gb-ddr5-5600mhz-desktop-memory",
           "history": [
-            5700000,
+            5800000,
             5800000,
             5800000,
             5800000,
@@ -146974,7 +147117,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Crucial-32GB-Pro-2-x-16GB-DDR5-6400MHz-Memory-Kit.jpg",
           "url": "https://zahcomputers.pk/product/crucial-32gb-pro-2-x-16gb-ddr5-6400mhz-memory-kit",
           "history": [
-            13999900,
+            13500000,
             13500000,
             13500000,
             13500000,
@@ -147019,8 +147162,8 @@
           "name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz CL16 DDR4 DRAM Desktop Memory Black",
           "brand": "XPG",
           "category": "ram",
-          "price": 6049900,
-          "oldPrice": null,
+          "price": 6499900,
+          "oldPrice": 6049900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/XPG-Spectrix-D35G-RGB-Lowest-Price-in-Pakistan.jpg",
@@ -147037,7 +147180,7 @@
             6049900,
             6049900,
             6049900,
-            6049900
+            6499900
           ]
         },
         {
@@ -147078,7 +147221,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Lexar-16GB-1x16GB-5600MTs-DDR5-UDIMM-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-32gb-1x32gb-5600mt-s-ddr5-udimm-desktop-memory",
           "history": [
-            10200000,
+            10800000,
             10800000,
             10800000,
             10800000,
@@ -147156,7 +147299,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Apacer-32GB-DDR4-3200MHz-CL22-1.2V-Desktop-Memory-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/apacer-32gb-ddr4-3200mhz-cl22-1-2v-desktop-memory",
           "history": [
-            5080000,
+            5200000,
             5200000,
             5200000,
             5200000,
@@ -147390,7 +147533,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/12/CORSAIR-Vengeance-LPX-16GB-2-x-8GB-288-Pin-DDR4-SDRAM-DDR4-3200-PC4-25600-Intel-XMP-2.0-Desktop-Memory-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/corsair-vengeance-lpx-32gb-2-x-16gb-288-pin-ddr4-sdram-ddr4-3200mhz-desktop-memory",
           "history": [
-            6500000,
+            7000000,
             7000000,
             7000000,
             7000000,
@@ -147437,7 +147580,7 @@
           "category": "gpu",
           "price": 7699900,
           "oldPrice": 8299900,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/MSI-Ventus-GeForce-RTX-3050-6GB-2X-E-OC.jpg",
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-3050-6gb-2x-oc-gddr6-pci-express-4-0-x8-atx-graphics-cards",
@@ -147541,7 +147684,7 @@
           "category": "mouse",
           "price": 2100000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/EWEADN-Z7-8K-Red.jpg",
           "url": "https://zahcomputers.pk/product/eweadn-z7-8k-dual-mode-flagship-wireless-gaming-mouse-carbon-fiber-shell-red",
@@ -148555,7 +148698,7 @@
           "category": "ram",
           "price": 200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-Wind-F815-RGB-Wired-Gaming-Mouse-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/aula-f815-rgb-wired-gaming-mouse-12800-dpi-7-programmable-buttons-13-rgb-lighting-modes-ergonomic-design",
@@ -149541,8 +149684,8 @@
           "name": "XPG Spectrix D35G RGB 32GB (2x16GB) 3200MHz CL16 DDR4 DRAM Desktop Memory White",
           "brand": "XPG",
           "category": "ram",
-          "price": 6049900,
-          "oldPrice": null,
+          "price": 6499900,
+          "oldPrice": 6049900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/XPG-Spectrix-D35G-RGB-White-Lowest-Price-in-Pakistan.jpg",
@@ -149559,7 +149702,7 @@
             6049900,
             6049900,
             6049900,
-            6049900
+            6499900
           ]
         },
         {
@@ -150042,7 +150185,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Lexar-ARES-Gen2-RGB-DDR5-32GB-Kit-2-x-16GB-7600MHz-Desktop-Memory-288-Pin-UDIMM-CL36-46-46-961.4V-DRAM-Empowered-by-SK-hynix-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-ares-gen2-rgb-ddr5-32gb-kit-2-x-16gb-7600mhz-desktop-memory-288-pin-udimm-cl36-46-46-96-1-4v-dram-empowered-by-sk-hynix",
           "history": [
-            12000000,
+            12500000,
             12500000,
             12500000,
             12500000,
@@ -151082,7 +151225,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/Kingston-32GB-DDR5-5600-MHz-SODIMM-RAM-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/kingston-32gb-ddr5-5600-mhz-sodimm-ram",
           "history": [
-            10500000,
+            10800000,
             10800000,
             10800000,
             10800000,
@@ -158615,8 +158758,8 @@
           "name": "Rapoo VH500C Virtual 7.1 Channels Gaming Headset Black",
           "brand": "Rapoo",
           "category": "headset",
-          "price": 489500,
-          "oldPrice": null,
+          "price": 589500,
+          "oldPrice": 489500,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-VH500C-Virtual-7.1-Channels-Gaming-Headset-Black-Price-in-Pakistan.jpg",
@@ -158633,7 +158776,7 @@
             489500,
             489500,
             489500,
-            489500
+            589500
           ]
         },
         {
@@ -161217,7 +161360,7 @@
           "category": "keyboard",
           "price": 589900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-ikey-K230-Full-Keys-2.4G-and-Bluetooth-Three-Modes-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-ikey-k230-full-keys-2-4g-and-bluetooth-three-modes-keyboard",
@@ -164051,7 +164194,7 @@
           "category": "cooler",
           "price": 250000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Viola-Top-Tier-Scented-Performance-Thermal-Paste-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-viola-top-tier-scented-performance-thermal-paste-4g",
@@ -164077,7 +164220,7 @@
           "category": "cooler",
           "price": 269900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Poma-Top-Tier-Scented-Performance-Thermal-Paste-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-poma-top-tier-scented-performance-thermal-paste-4g",
@@ -164103,7 +164246,7 @@
           "category": "cooler",
           "price": 269900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Luna-Top-Tier-Scented-Performance-Thermal-Paste-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-luna-top-tier-scented-performance-thermal-paste-4g",
@@ -164519,7 +164662,7 @@
           "category": "cooler",
           "price": 269900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Top-Tier-Scented-Performance-Thermal-Paste-BELLA-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-top-tier-scented-performance-thermal-paste-4g",
@@ -166344,7 +166487,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-16GB-3200MHz-C22-DDR4-U-DIMM-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/adata-premier-16gb-3200mhz-c22-ddr4-u-dimm-memory",
           "history": [
-            2850000,
+            2900000,
             2900000,
             2900000,
             2900000,
@@ -171466,7 +171609,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Kingston-FURY-Beast-16GB-288-Pin-PC-RAM-DDR5-5600-PC5-44800-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/kingston-fury-beast-16gb-288-pin-pc-ram-ddr5-5600-pc5-44800-desktop-memory",
           "history": [
-            5800000,
+            6000000,
             6000000,
             6000000,
             6000000,
@@ -173773,8 +173916,8 @@
           "name": "XPG Spectrix D35G RGB 16GB (2x8GB) 3200MHz C16 DDR4 DRAM Desktop Memory White",
           "brand": "XPG",
           "category": "ram",
-          "price": 3799900,
-          "oldPrice": null,
+          "price": 4400000,
+          "oldPrice": 3799900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/XPG-Spectrix-D35G-RGB-White-Lowest-Price-in-Pakistan.jpg",
@@ -173791,7 +173934,7 @@
             3799900,
             3799900,
             3799900,
-            3799900
+            4400000
           ]
         },
         {
@@ -173799,8 +173942,8 @@
           "name": "XPG Spectrix D35G RGB 16GB (2x8GB) 3200MHz C16 DDR4 DRAM Desktop Memory Black",
           "brand": "XPG",
           "category": "ram",
-          "price": 3799900,
-          "oldPrice": null,
+          "price": 4400000,
+          "oldPrice": 3799900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/XPG-Spectrix-D35G-RGB-Lowest-Price-in-Pakistan.jpg",
@@ -173817,7 +173960,7 @@
             3799900,
             3799900,
             3799900,
-            3799900
+            4400000
           ]
         },
         {
@@ -176900,7 +177043,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Viper-Venom-RGB-32GB-2x16GB-6000MTs-CL30-DDR5-Ram-01.jpg",
           "url": "https://zahcomputers.pk/product/viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram",
           "history": [
-            14500000,
+            13500000,
             13500000,
             13500000,
             13500000,
@@ -178460,7 +178603,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lexar-32GB-DDR5-5600MHz-SO-DIMM-Laptop-RAM-Price-in-pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-32gb-ddr5-5600mhz-so-dimm-laptop-ram",
           "history": [
-            10500000,
+            11000000,
             11000000,
             11000000,
             11000000,
@@ -179209,7 +179352,7 @@
           "category": "cooler",
           "price": 550000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/SNOWMAN-LK120-ARGB-120mm-Triple-Fan-Pack-Forward-Blade-H1YK-ARGB-5V-3PIN-TO-SATA-and-Remote-Controller-–-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/snowman-lk120-argb-120mm-triple-fan-pack-reverse-blade-h1yk-argb-5v-3pin-to-sata-and-remote-controller-white",
@@ -179894,7 +180037,7 @@
             27000000,
             27000000,
             27000000,
-            27000000,
+            25500000,
             25500000,
             25500000,
             25500000,
@@ -180221,8 +180364,8 @@
           "name": "ZOTAC  GAMING GeForce Twin Edge OC White Edition GeForce RTX 5060 Ti 16GB GDDR7 PCI Expres",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 20500000,
-          "oldPrice": null,
+          "price": 19500000,
+          "oldPrice": 20500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ZOTAC-GAMING-GeForce-RTX-5060-Ti-Twin-Edge-OC-16GB-GDDR7-Graphics-Card-–-White-Price-in-Pakistan.jpg",
@@ -180239,7 +180382,7 @@
             20500000,
             20500000,
             20500000,
-            20500000
+            19500000
           ]
         },
         {
@@ -185896,7 +186039,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Kingston-NV3-2TB-M.2-2280-PCIe-4.0-NVMe-SSD-SNV3S2000G-6000MBs-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/kingston-nv3-2tb-m-2-2280-pcie-4-0-nvme-ssd-snv3s-2000g-6000mb-s",
           "history": [
-            6200000,
+            6800000,
             6800000,
             6800000,
             6800000,
@@ -189692,7 +189835,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-8GB-5600MHz-U-DIMM-DDR5-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/adata-16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory",
           "history": [
-            5200000,
+            5500000,
             5500000,
             5500000,
             5500000,
@@ -189737,7 +189880,7 @@
           "name": "ZOTAC GAMING GeForce Twin Edge RTX 5060  8GB 128-bit 28 GDDR7 PCI Express 5.0 x8 DLSS 4 Gr",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 11400000,
+          "price": 11900000,
           "oldPrice": 12500000,
           "inStock": true,
           "lowStock": false,
@@ -189755,7 +189898,7 @@
             11400000,
             11400000,
             11400000,
-            11400000
+            11900000
           ]
         },
         {
@@ -190030,7 +190173,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/HikSemi-WAVE-512GB-PCIe-3.0-NVMe-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hiksemi-wave-pro-512gb-pcie-3-0-nvme-ssd",
           "history": [
-            2050000,
+            1950000,
             1950000,
             1950000,
             1950000,
@@ -195951,9 +196094,9 @@
           "name": "ZOTAC GAMING GeForce Twin Edge OC RTX 5060 Ti 8GB 128-Bit GDDR7 PCI Express 5.0 x8 DLSS 4.",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 14800000,
-          "oldPrice": null,
-          "inStock": true,
+          "price": 14000000,
+          "oldPrice": 14800000,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/ZOTAC-GAMING-GeForce-Twin-Edge-OC-RTX-5060-Ti.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-twin-edge-oc-rtx-5060-ti-8gb-128-bit-gddr7-pci-express-5-0-x8-dlss-4-0-graphics-card",
@@ -195969,7 +196112,7 @@
             14800000,
             14800000,
             14800000,
-            14800000
+            14000000
           ]
         },
         {
@@ -202510,7 +202653,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/04/HikSemi-Future-M.2-PCIe-4.0-NVMe-SSD-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/hiksemi-future-1tb-m-2-pcie-4-0-nvme-ssd",
           "history": [
-            4850000,
+            4500000,
             4500000,
             4500000,
             4500000,
@@ -215765,7 +215908,7 @@
           "category": "gpu",
           "price": 7699900,
           "oldPrice": 8299900,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/MSI-Ventus-GeForce-RTX-3050-6GB-2X-E-OC.jpg",
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-3050-6gb-2x-e-oc-gddr6-pci-express-4-0-x8-atx-graphics-cards",
@@ -224246,7 +224389,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/Lexar-NM620-M.2-2280-NVMe-SSD-PCle-Gen-3x4-Lowest-Price-in-Pakistan.png",
           "url": "https://zahcomputers.pk/product/lexar-nm620-m-2-2280-nvme-ssd-1tb-pcle-gen-3x4",
           "history": [
-            3700000,
+            3900000,
             3900000,
             3900000,
             3900000,
@@ -267484,7 +267627,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/09/Samsung-2TB-970-EVO-Plus-NVMe-M.2-Internal-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/samsung-2tb-970-evo-plus-nvme-m-2-internal-ssd",
           "history": [
-            4700000,
+            8600000,
             8600000,
             8600000,
             8600000,
@@ -276923,12 +277066,13 @@
           "history": [
             799999,
             799999,
+            799999,
             799999
           ]
         },
         {
-          "id": "rbtechgames_ec07dd0a",
-          "name": "ASUS ROG Zephyrus G16 2024 (GA605WV), AMD Ryzen AI 9 370, 32GB RAM, 1TB SSD, RTX 4060, 16&",
+          "id": "rbtechgames_6c75aa64",
+          "name": "ASUS ROG Zephyrus G16 2024 (GA605WV), AMD Ryzen AI 9 HX 370, 32GB RAM, 1TB SSD, RTX 4060, ",
           "brand": "ASUS",
           "category": "gpu",
           "price": 534999,
@@ -276938,8 +277082,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_zephrus_g14_ga403_platinum_white.png",
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g16-2024-ga605wv-amd-ryzen-ai-9-370-32gb-ram-1tb-ssd-rtx-4060-16-qhd-240hz-oled-display-platinum-white-new",
           "history": [
-            534999,
-            534999,
             534999
           ]
         },
@@ -276955,6 +277097,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_loq_15_15iax9e_luna_grey.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15iax9e-intel-core-i5-12th-gen-8gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-luna-gray-new",
           "history": [
+            266999,
             266999,
             266999,
             266999
@@ -276974,6 +277117,7 @@
           "history": [
             369999,
             369999,
+            369999,
             369999
           ]
         },
@@ -276989,6 +277133,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/ASUS-TUF-A16-2.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-a16-fa608uhi-tu148-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-165hz-ips-display-jaeger-gray-new",
           "history": [
+            374999,
             374999,
             374999,
             374999
@@ -277008,24 +277153,23 @@
           "history": [
             214999,
             214999,
+            214999,
             214999
           ]
         },
         {
-          "id": "rbtechgames_7d102706",
-          "name": "Acer Nitro 16S AI (AN16S-61-R96T), AMD Ryzen 7 AI 350, 16GB RAM, 512GB SSD, RTX 5050, 16&#",
+          "id": "rbtechgames_0f25152d",
+          "name": "Acer Nitro 16S AI (AN16S-61-R96T), AMD Ryzen 7 AI 350, 16GB RAM, 512GB SSD, RTX 5060, 16&#",
           "brand": "AMD",
           "category": "gpu",
-          "price": 384999,
+          "price": 389999,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_acer_nitro_16s_ai.png",
           "url": "https://rbtechngames.com/product/acer-nitro-16s-ai-an16s-61-r96t-amd-ryzen-7-ai-350-16gb-ram-512gb-ssd-rtx-5050-16-qhd-180hz-ips-display-obsidian-black-open-box",
           "history": [
-            384999,
-            384999,
-            384999
+            389999
           ]
         },
         {
@@ -277033,8 +277177,8 @@
           "name": "Acer Nitro V 16S AI (ANV16S-41-R9SV), AMD Ryzen 7 260, 16GB RAM, 512GB SSD, RTX 5050, 16&#",
           "brand": "AMD",
           "category": "gpu",
-          "price": 349999,
-          "oldPrice": null,
+          "price": 374999,
+          "oldPrice": 349999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_v_16_ai.webp",
@@ -277042,7 +277186,8 @@
           "history": [
             349999,
             349999,
-            349999
+            349999,
+            374999
           ]
         },
         {
@@ -277057,6 +277202,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hyperx_omen_15.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-15-15-ga0031tx-intel-core-i7-14th-gen-24gb-ram-1tb-ssd-rtx-5060-15-3-qhd-180hz-ips-display-shadow-black-new",
           "history": [
+            464999,
             464999,
             464999,
             464999
@@ -277076,6 +277222,7 @@
           "history": [
             664999,
             664999,
+            664999,
             664999
           ]
         },
@@ -277091,6 +277238,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_thinkpad_t14s_gen_6.png",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-gen-6-intel-core-ultra-7-32gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-black-used",
           "history": [
+            384999,
             384999,
             384999,
             384999
@@ -277110,6 +277258,7 @@
           "history": [
             84999,
             84999,
+            84999,
             84999
           ]
         },
@@ -277125,6 +277274,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_dell_latitude_5540.webp",
           "url": "https://rbtechngames.com/product/dell-latitude-5540-intel-i5-1350p-16gb-ram-256gb-ssd-15-6%e2%80%b3-fhd-ips-display-titan-grey-used",
           "history": [
+            154999,
             154999,
             154999,
             154999
@@ -277144,6 +277294,7 @@
           "history": [
             109999,
             109999,
+            109999,
             109999
           ]
         },
@@ -277159,6 +277310,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/11/hp-elitebook-840-aero-g8-11thgen-ci7-silver-laptop-rates-in-pakistan.jpg",
           "url": "https://rbtechngames.com/product/hp-elitebook-840-g8-intel-i5-11th-gen-16gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-pike-silver-used",
           "history": [
+            86999,
             86999,
             86999,
             86999
@@ -277178,6 +277330,7 @@
           "history": [
             287999,
             287999,
+            287999,
             287999
           ]
         },
@@ -277193,6 +277346,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_b850m_ayw_gaming_wifi.webp",
           "url": "https://rbtechngames.com/product/asus-b850m-ayw-gaming-wifi-m-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            48499,
             48499,
             48499,
             48499,
@@ -277214,6 +277368,7 @@
             40999,
             40999,
             40999,
+            40999,
             40999
           ]
         },
@@ -277229,6 +277384,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_x870-p_wifi-csm.webp",
           "url": "https://rbtechngames.com/product/asus-prime-x870-p-wifi-csm-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            86499,
             86499,
             86499,
             86499,
@@ -277250,6 +277406,7 @@
             59499,
             59499,
             59499,
+            59499,
             59499
           ]
         },
@@ -277265,6 +277422,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_a620am-k-csm.webp",
           "url": "https://rbtechngames.com/product/asus-prime-a620am-k-csm-m-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            31999,
             31999,
             31999,
             31999,
@@ -280796,6 +280954,7 @@
             78999,
             78999,
             78999,
+            78999,
             78999
           ]
         },
@@ -280837,6 +280996,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_asus_rog_azoth_x.png",
           "url": "https://rbtechngames.com/product/asus-rog-azoth-x-75-custom-mechanical-wireless-rgb-gaming-keyboard-snow-v2-storm-v2",
           "history": [
+            68999,
             68999,
             68999,
             68999,
@@ -281404,6 +281564,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -281474,7 +281635,7 @@
             109999,
             109999,
             109999,
-            109999,
+            119999,
             119999,
             119999,
             119999,
@@ -281486,29 +281647,18 @@
           ]
         },
         {
-          "id": "rbtechgames_44611c68",
-          "name": "Aula F108 Pro RGB Full Size Wireless Mechanical Gaming Keyboard &#8211; Black Blue/Grey Ye",
+          "id": "rbtechgames_fc469038",
+          "name": "Aula F108 RGB Full Size Wireless Mechanical Gaming Keyboard &#8211; Black Blue/Grey Yellow",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 16999,
+          "price": 16499,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_aula_f108_pro_black_blue.webp",
-          "url": "https://rbtechngames.com/product/aula-f108-pro-rgb-full-size-wireless-mechanical-gaming-keyboard-black-blue-grey-yellow-white-blue-white-yellow-grey-side-printed-pink-side-printed-reaper-numbus-v3-greywood-v3-zephyr-v3-silent",
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_aula_f108_black_blue.webp",
+          "url": "https://rbtechngames.com/product/aula-f108-rgb-full-size-wireless-mechanical-gaming-keyboard-black-blue-grey-yellow-white-blue-white-yellow-grey-side-printed-pink-side-printed-numbus-v3-greywood-v3-dream-sakura-volcano-switche",
           "history": [
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999
+            16499
           ]
         },
         {
@@ -281578,7 +281728,7 @@
             109999,
             109999,
             109999,
-            109999,
+            124999,
             124999,
             124999,
             124999,
@@ -281838,7 +281988,7 @@
             34999,
             34999,
             34999,
-            34999,
+            38499,
             38499,
             38499,
             38499,
@@ -282566,6 +282716,7 @@
             339999,
             339999,
             339999,
+            339999,
             339999
           ]
         },
@@ -282870,7 +283021,7 @@
             34999,
             34999,
             34999,
-            34999,
+            38499,
             38499,
             38499,
             38499,
@@ -283075,6 +283226,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/02/rbtech_asus_rog_falchion_ace_hfx.png",
           "url": "https://rbtechngames.com/product/asus-falchion-ace-hfx-m605-65-rgb-gaming-keyboard-black-magnetic-switches",
           "history": [
+            49999,
             49999,
             49999,
             49999,
@@ -283365,32 +283517,6 @@
             25499,
             25499,
             25499
-          ]
-        },
-        {
-          "id": "rbtechgames_3ed97a95",
-          "name": "ASUS TUF Gaming A15 (FA507UV-HQ095), Ryzen 7 8845HS, 16GB RAM, 512GB SSD, RTX 4060, 15.6&#",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 304999,
-          "oldPrice": 314999,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/01/02_fa507_2_2.jpg",
-          "url": "https://rbtechngames.com/product/asus-tuf-gaming-a15-fa507uv-hq095-ryzen-7-8845hs-16gb-ram-512gb-ssd-rtx-4060-15-6-qhd-165hz-ips-display-used",
-          "history": [
-            304999,
-            304999,
-            304999,
-            304999,
-            304999,
-            304999,
-            304999,
-            304999,
-            304999,
-            304999,
-            304999,
-            304999
           ]
         },
         {
@@ -283720,6 +283846,7 @@
             29999,
             29999,
             29999,
+            29999,
             29999
           ]
         },
@@ -283844,6 +283971,7 @@
             51999,
             51999,
             51999,
+            51999,
             51999
           ]
         },
@@ -283885,6 +284013,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/08/rbtech_asus_rog_chakram_x_1.png",
           "url": "https://rbtechngames.com/product/asus-rog-chakram-x-p708-wireless-rgb-gaming-mouse",
           "history": [
+            37499,
             37499,
             37499,
             37499,
@@ -284579,7 +284708,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/04/AMD_RYZEN_5_7500F.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-5-7500f-am5-6c-12t-processor-tray-new",
           "history": [
-            35999,
+            33499,
             33499,
             33499,
             33499,
@@ -285726,6 +285855,7 @@
             37499,
             37499,
             37499,
+            37499,
             37499
           ]
         },
@@ -285961,32 +286091,6 @@
             5300,
             5300,
             5300
-          ]
-        },
-        {
-          "id": "rbtechgames_7917ba05",
-          "name": "Thermal Grizzly Kryonaut Thermal Grease Paste – 1.0 Gram",
-          "brand": "EASE",
-          "category": "ram",
-          "price": 2700,
-          "oldPrice": 3000,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/05/thermal_grizzly_kryonaut_1g.jpg",
-          "url": "https://rbtechngames.com/product/thermal-grizzly-kryonaut-thermal-grease-paste-1-0-gram",
-          "history": [
-            2700,
-            2700,
-            2700,
-            2700,
-            2700,
-            2700,
-            2700,
-            2700,
-            2700,
-            2700,
-            2700,
-            2700
           ]
         },
         {
