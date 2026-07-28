@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T08:32:34.859699+00:00",
+  "lastUpdated": "2026-07-28T14:04:49.047660+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -14419,7 +14419,7 @@
           "category": "case",
           "price": 7990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gamemax-vista-mb-price-in-pakistan-pakbyte_2.webp?v=1773814882",
           "url": "https://www.pakbyte.pk/products/gamemax-vista-mb-micro-atx-tower-pc-gaming-case-black",
@@ -32515,7 +32515,7 @@
           "category": "keyboard",
           "price": 6190,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K617-FIZZ-WG-RGB-Wired-Gaming-Keyboard-price-in-pakistan-pakbyte_3.webp?v=1765824898",
           "url": "https://www.pakbyte.pk/products/redragon-fizz-k617-60-rgb-mechanical-keyboard-with-red-switches-white-gray",
@@ -58671,7 +58671,7 @@
           "category": "ram",
           "price": 72490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Z790-Gaming-Plus-Wifi-DDR5-Intel-12-13-14th-Gen-ATX-Motherboard-PakByte-Computers-26188455182403.jpg?v=1753670505",
           "url": "https://www.pakbyte.pk/products/msi-z790-gaming-plus-wifi-ddr5-intel-12-13-14th-gen-atx-motherboard",
@@ -116131,7 +116131,7 @@
           "category": "ram",
           "price": 72999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-RipJaws-S5-5200MHZ-32GB-16x2-DDR5-Desktop-Memory-Matte-Black-PakByte-Computers-24397540130883.webp?v=1753681539",
           "url": "https://www.pakbyte.pk/products/g-skill-ripjaws-s5-series-32gb-ddr5-desktop-memory-matte-black",
@@ -144515,6 +144515,51 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_e657386d",
+          "name": "Dell L-108 RGB Wired Gaming Keyboard | Full-Size 104 Keys | Rainbow LED Backlight | USB Pl",
+          "brand": "Dell",
+          "category": "keyboard",
+          "price": 500000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Dell-L-108-RGB-Wired-Gaming-Keyboard.jpg",
+          "url": "https://zahcomputers.pk/product/dell-l-108-rgb-wired-gaming-keyboard",
+          "history": [
+            500000
+          ]
+        },
+        {
+          "id": "zah_cb4bcaa5",
+          "name": "Dell KB5023D Wired Mechanical Gaming Keyboard | 87-Key TKL | RGB Backlit | Blue Mechanical",
+          "brand": "Dell",
+          "category": "keyboard",
+          "price": 600000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Dell-KB5023D-Wired-Mechanical-Gaming-Keyboard.webp",
+          "url": "https://zahcomputers.pk/product/dell-kb5023d-wired-mechanical-gaming-keyboard-2",
+          "history": [
+            600000
+          ]
+        },
+        {
+          "id": "zah_bcf2d5d1",
+          "name": "Sony WF-1000XM5 Noise-Canceling True Wireless Earphones (Silver)",
+          "brand": "Sony",
+          "category": "headset",
+          "price": 6500000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-WF-1000XM5-Noise-Canceling-True-Wireless-Earphones-White.jpg",
+          "url": "https://zahcomputers.pk/product/sony-wf-1000xm5-noise-canceling-true-wireless-earphones-silver",
+          "history": [
+            6500000
+          ]
+        },
+        {
           "id": "zah_2ae63ac0",
           "name": "Fantech ATOM HE68 PRO MK922 TOPO Edition Wireless Magnetic Gaming Keyboard Emerald Switch",
           "brand": "Fantech",
@@ -144526,6 +144571,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-HE68-PRO-MK922-TOPO-Edition-Wireless-Magnetic-Gaming-Keyboard-Emerald-Switch.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-he68-pro-mk922-topo-edition-wireless-magnetic-gaming-keyboard-emerald-switch",
           "history": [
+            1400000,
             1400000,
             1400000,
             1400000
@@ -144545,6 +144591,7 @@
           "history": [
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -144562,6 +144609,7 @@
           "history": [
             990000,
             990000,
+            990000,
             990000
           ]
         },
@@ -144577,6 +144625,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ATOM-X66-MK614-Beige.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x66-mk614-mechanical-gaming-keyboard-ice-apricot-switch-retro-beige",
           "history": [
+            850000,
             850000,
             850000,
             850000,
@@ -144598,6 +144647,7 @@
             850000,
             850000,
             850000,
+            850000,
             850000
           ]
         },
@@ -144613,6 +144663,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X83-MK612-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x83-mk612-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
           "history": [
+            800000,
             800000,
             800000,
             800000,
@@ -144634,6 +144685,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -144649,6 +144701,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X63-MK611-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x63-mk611-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
           "history": [
+            750000,
             750000,
             750000,
             750000,
@@ -144670,6 +144723,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -144685,6 +144739,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM81-MK875V2-MIZU-Navy-Blue.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom81-mk875v2-mizu-series-mechanical-gaming-keyboard-taro-switch-navy-blue",
           "history": [
+            750000,
             750000,
             750000,
             750000,
@@ -144706,6 +144761,7 @@
             640000,
             640000,
             640000,
+            640000,
             640000
           ]
         },
@@ -144721,6 +144777,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-ThinkPad-E14-Gen-4-Intel-Core-i5-1235U-16GB-2x-8GB-DDR4-3200-512-GB-SSD-PCIe-14-FHD-Intel®-Iris®-Xe-Graphics-NO-OS-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-thinkpad-e14-gen-7-business-laptop",
           "history": [
+            31500000,
             31500000,
             31500000,
             31500000,
@@ -144749,6 +144806,7 @@
             22800000,
             22800000,
             22800000,
+            22800000,
             22800000
           ]
         },
@@ -144764,6 +144822,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-PRIME-B760M-A-DDR4-LGA-1700-Micro-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b760m-a-ddr4-lga-1700-micro-atx-motherboard",
           "history": [
+            3400000,
             3400000,
             3400000,
             3400000,
@@ -144848,7 +144907,7 @@
             34500000,
             34500000,
             34500000,
-            34500000,
+            34000000,
             34000000,
             34000000,
             34000000,
@@ -144900,7 +144959,7 @@
             31000000,
             31000000,
             31000000,
-            31000000,
+            30500000,
             30500000,
             30500000,
             30500000,
@@ -145205,7 +145264,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ZOTAC-GAMING-GeForce-RTX™-3050-6GB-GDDR6-Twin-Edge-OC-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-3050-6gb-gddr6-twin-edge-oc-graphics-card",
           "history": [
-            7000000,
+            7500000,
             7500000,
             7500000,
             7500000,
@@ -145517,6 +145576,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-IdeaPad-Slim-3-15IRH10R-83K4000RUS-Laptop.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-ideapad-slim-3-15irh10r-83k4000rus-laptop",
           "history": [
+            22000000,
             22000000,
             22000000,
             22000000
@@ -147257,7 +147317,7 @@
             6049900,
             6049900,
             6049900,
-            6049900,
+            6499900,
             6499900,
             6499900,
             6499900,
@@ -147687,7 +147747,7 @@
           "category": "headset",
           "price": 6199000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/SteelSeries-Arctis-Nova-7P-Wireless-Gen-2-Gaming-Headset-White.webp",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-7p-wireless-gen-2-gaming-headset-white",
@@ -149779,7 +149839,7 @@
             6049900,
             6049900,
             6049900,
-            6049900,
+            6499900,
             6499900,
             6499900,
             6499900,
@@ -151405,7 +151465,7 @@
           "category": "headset",
           "price": 1450000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/SteelSeries-Arctis-Raw-Removable-Microphone-Wired-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-raw-removable-microphone-wired-headset-for-pc-mac-mobile-black",
@@ -151457,7 +151517,7 @@
           "category": "headset",
           "price": 1100000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/SteelSeries-Siberia-200-Gaming-Headset-Black.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-siberia-200-gaming-headset-black",
@@ -152627,7 +152687,7 @@
           "category": "headset",
           "price": 6200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/SteelSeries-Arctis-Nova-7-Wireless-Gen-2-Headset-White-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-7-wireless-gen-2-headset-white",
@@ -158853,7 +158913,7 @@
             489500,
             489500,
             489500,
-            489500,
+            589500,
             589500,
             589500,
             589500,
@@ -162247,7 +162307,7 @@
           "category": "cpu",
           "price": 4000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Dell-Latitude-5480-Core-i5-7th-Gen-8-GB-RAM-256-GB-SSD-14-Display-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/dell-latitude-e7470-14-intel-core-i5-2-4ghz-12gb-256gb-ssd-used",
@@ -163668,32 +163728,6 @@
             47900000,
             47900000,
             47900000
-          ]
-        },
-        {
-          "id": "zah_996078cc",
-          "name": "HP OmniBook Ultra Flip 14 FH0068TU Intel Core Ultra 7 258v 32GB 1TB SSD 14″ 3K OLED Touchs",
-          "brand": "Intel",
-          "category": "storage",
-          "price": 47500000,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/HP-OmniBook-Ultra-Flip-14-FH0068TU-Intel-Core-Ultra-7-258v-32GB-1TB-SSD-14-3K-OLED-Touchscreen-x360-Display-Fingerprint-Reader-Backlit-KB-Win11-Eclipse-Gray-Price-in-Pakistan-Small.jpg",
-          "url": "https://zahcomputers.pk/product/hp-omnibook-ultra-flip-14-fh0068tu-intel-core-ultra-7-258v-32gb-1tb-ssd-14%e2%80%b3-3k-oled-touchscreen-x360-display-fingerprint-reader-backlit-kb-win11-eclipse-gray",
-          "history": [
-            47500000,
-            47500000,
-            47500000,
-            47500000,
-            47500000,
-            47500000,
-            47500000,
-            47500000,
-            47500000,
-            47500000,
-            47500000,
-            47500000
           ]
         },
         {
@@ -174011,7 +174045,7 @@
             3799900,
             3799900,
             3799900,
-            3799900,
+            4400000,
             4400000,
             4400000,
             4400000,
@@ -174037,7 +174071,7 @@
             3799900,
             3799900,
             3799900,
-            3799900,
+            4400000,
             4400000,
             4400000,
             4400000,
@@ -175871,7 +175905,7 @@
           "category": "headset",
           "price": 3300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/SteelSeries-Arctis-Nova-3P-Wireless-Multi-Platform-Gaming-Headset-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-3p-wireless-multi-platform-gaming-headset-white",
@@ -180114,7 +180148,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-12GB-Video-RAM-GDDR7-VRAM-Type-6144-Cuda-Cores-28GBps-Memory-Speed-Graphic-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-5070-12gb-video-ram-gddr7-vram-type-6144-cuda-cores-28gbps-memory-speed-graphic-card",
           "history": [
-            27000000,
+            25500000,
             25500000,
             25500000,
             25500000,
@@ -180459,7 +180493,7 @@
             20500000,
             20500000,
             20500000,
-            20500000,
+            19500000,
             19500000,
             19500000,
             19500000,
@@ -187545,7 +187579,7 @@
           "category": "headset",
           "price": 4999900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Sony-WH-ULT900N-HC-Noise-Canceling-ULT-Power-Sound-Headphones-With-Upto-50-Hours-Battery-Life-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/sony-wh-ult900n-hc-noise-canceling-ult-power-sound-headphones-with-upto-50-hours-battery-life-white",
@@ -189975,7 +190009,7 @@
             11400000,
             11400000,
             11400000,
-            11400000,
+            11900000,
             11900000,
             11900000,
             11900000,
@@ -192823,7 +192857,7 @@
           "category": "cpu",
           "price": 22500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Dell-Latitude-5440-Intel-Core-i7-13th-Gen-16GB-256GB-SSD-14-FHD-Backlit-KB-FingerPrint-Reader-Dos-Grey-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/dell-latitude-5440-intel-core-i7-13th-gen-16gb-256gb-ssd-14-fhd-backlit-kb-fingerprint-reader-dos-grey",
@@ -196189,7 +196223,7 @@
             14800000,
             14800000,
             14800000,
-            14800000,
+            14000000,
             14000000,
             14000000,
             14000000,
@@ -202417,7 +202451,7 @@
           "category": "headset",
           "price": 6200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/04/SteelSeries-Arctis-Nova-7P-Wireless-Gaming-Headset-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-7p-wireless-gaming-headset-white",
@@ -218641,7 +218675,7 @@
           "category": "motherboard",
           "price": 12499900,
           "oldPrice": 14799900,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/ASUS-ROG-STRIX-X870-A-GAMING-WIFI.jpeg",
           "url": "https://zahcomputers.pk/product/asus-rog-strix-x870-a-gaming-wifi-amd-am5-x870-atx-motherboard",
@@ -219499,7 +219533,7 @@
           "category": "headset",
           "price": 11500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/SteelSeries-Arctis-Nova-Pro-Wireless-Gaming-Headset-for-Xbox-Black.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-pro-wireless-gaming-headset-for-xbox-black",
@@ -219525,7 +219559,7 @@
           "category": "headset",
           "price": 11500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/SteelSeries-Arctis-Nova-Pro-Wireless-Multi-System-Gaming-Headset-White.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-pro-wireless-headphone-for-playstation-white",
@@ -219603,7 +219637,7 @@
           "category": "headset",
           "price": 4700000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Steelseries-Arctis-Nova-5-Wireless-Gaming-Headset-White.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-5-wireless-gaming-headset-white",
@@ -219861,9 +219895,9 @@
           "name": "Sony WF-1000XM5 Noise-Canceling True Wireless Earphones (Black)",
           "brand": "Sony",
           "category": "headset",
-          "price": 5999900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 6500000,
+          "oldPrice": 5999900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-WF-1000XM5-Noise-Canceling-True-Wireless-Earphones-Black.jpg",
           "url": "https://zahcomputers.pk/product/sony-wf-1000xm5-noise-canceling-true-wireless-earphones-black",
@@ -219879,7 +219913,7 @@
             5999900,
             5999900,
             5999900,
-            5999900
+            6500000
           ]
         },
         {
@@ -221007,7 +221041,7 @@
           "category": "headset",
           "price": 4700000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/SteelSeries-Arctis-Nova-5P-Wireless-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-5p-wireless-gaming-headset",
@@ -221059,7 +221093,7 @@
           "category": "headset",
           "price": 4600000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/SteelSeries-Arctis-Nova-4X-Wireless-Multi-Platform-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-4x-wireless-multi-platform-gaming-headset",
@@ -241417,7 +241451,7 @@
           "category": "headset",
           "price": 6200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/SteelSeries-Arctis-Nova-7X-Wireless-61565-Wireless-Gaming-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-7x-wireless-gaming-headset",
@@ -241989,7 +242023,7 @@
           "category": "headset",
           "price": 2000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/SteelSeries-Arctis-Nova-1P-Multi-System-PlayStation-Edition-Gaming-Headset-White-Price-in-Pakistan-2.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-1p-multi-system-playstation-edition-gaming-headset-white",
@@ -242041,7 +242075,7 @@
           "category": "headset",
           "price": 5200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/SteelSeries-Arctis-9X-Wireless-for-Xbox-One-and-Series-X-Gaming-Bluetooth-Headset-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-9x-wireless-for-xbox-one-and-series-x-gaming-bluetooth-headset-black",
@@ -243861,7 +243895,7 @@
           "category": "headset",
           "price": 11500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/07/SteelSeries-Arctis-Nova-Pro-Wireless-Multi-System-Gaming-Headset-Price-in-Pakistan-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-pro-wireless-multi-system-gaming-headset",
@@ -244095,7 +244129,7 @@
           "category": "headset",
           "price": 1700000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/07/SteelSeries-Arctis-1-Wired-Gaming-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-1-wired-gaming-headset-for-xbox-xs-and-xbox-one-black",
@@ -244121,7 +244155,7 @@
           "category": "headset",
           "price": 4100000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/06/Arctis-1-Wireless-Gaming-Headset-61519-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-1-wireless-gaming-headset-for-playstation-usb-c-wireless-detachable-clearcast-microphone-for-ps5-ps4-pc-nintendo-switch-android-black",
@@ -251297,7 +251331,7 @@
           "category": "headset",
           "price": 6200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/01/SteelSeries-Arctis-Nova-7P-Wireless-Gaming-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-7p-wireless-gaming-headset",
@@ -251427,7 +251461,7 @@
           "category": "headset",
           "price": 3300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/01/SteelSeries-Arctis-Nova-3-Gaming-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-nova-3-gaming-headset",
@@ -266793,7 +266827,7 @@
           "category": "headset",
           "price": 5000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/09/SteelSeries-Arctis-Pro-RGB-High-Fidelity-Gaming-Headset-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-pro-rgb-high-fidelity-gaming-headset",
@@ -266897,7 +266931,7 @@
           "category": "headset",
           "price": 1700000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/09/SteelSeries-Arctis-1-Wired-Gaming-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/steelseries-arctis-1-wired-gaming-headset",
@@ -277151,6 +277185,7 @@
             799999,
             799999,
             799999,
+            799999,
             799999
           ]
         },
@@ -277169,6 +277204,7 @@
             534999,
             534999,
             534999,
+            534999,
             534999
           ]
         },
@@ -277184,6 +277220,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_loq_15_15iax9e_luna_grey.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15iax9e-intel-core-i5-12th-gen-8gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-luna-gray-new",
           "history": [
+            266999,
             266999,
             266999,
             266999,
@@ -277211,6 +277248,7 @@
             369999,
             369999,
             369999,
+            369999,
             369999
           ]
         },
@@ -277226,6 +277264,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/ASUS-TUF-A16-2.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-a16-fa608uhi-tu148-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-165hz-ips-display-jaeger-gray-new",
           "history": [
+            374999,
             374999,
             374999,
             374999,
@@ -277253,6 +277292,7 @@
             214999,
             214999,
             214999,
+            214999,
             214999
           ]
         },
@@ -277268,6 +277308,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_acer_nitro_16s_ai.png",
           "url": "https://rbtechngames.com/product/acer-nitro-16s-ai-an16s-61-r96t-amd-ryzen-7-ai-350-16gb-ram-512gb-ssd-rtx-5050-16-qhd-180hz-ips-display-obsidian-black-open-box",
           "history": [
+            389999,
             389999,
             389999,
             389999,
@@ -277287,6 +277328,7 @@
           "url": "https://rbtechngames.com/product/acer-nitro-v-16s-ai-anv16s-41-r9sv-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-180hz-ips-display-obsidian-black-new",
           "history": [
             374999,
+            374999,
             374999
           ]
         },
@@ -277302,6 +277344,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hyperx_omen_15.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-15-15-ga0031tx-intel-core-i7-14th-gen-24gb-ram-1tb-ssd-rtx-5060-15-3-qhd-180hz-ips-display-shadow-black-new",
           "history": [
+            464999,
             464999,
             464999,
             464999,
@@ -277329,6 +277372,7 @@
             664999,
             664999,
             664999,
+            664999,
             664999
           ]
         },
@@ -277344,6 +277388,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_thinkpad_t14s_gen_6.png",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-gen-6-intel-core-ultra-7-32gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-black-used",
           "history": [
+            384999,
             384999,
             384999,
             384999,
@@ -277371,6 +277416,7 @@
             84999,
             84999,
             84999,
+            84999,
             84999
           ]
         },
@@ -277386,6 +277432,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_dell_latitude_5540.webp",
           "url": "https://rbtechngames.com/product/dell-latitude-5540-intel-i5-1350p-16gb-ram-256gb-ssd-15-6%e2%80%b3-fhd-ips-display-titan-grey-used",
           "history": [
+            154999,
             154999,
             154999,
             154999,
@@ -277413,6 +277460,7 @@
             109999,
             109999,
             109999,
+            109999,
             109999
           ]
         },
@@ -277428,6 +277476,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/11/hp-elitebook-840-aero-g8-11thgen-ci7-silver-laptop-rates-in-pakistan.jpg",
           "url": "https://rbtechngames.com/product/hp-elitebook-840-g8-intel-i5-11th-gen-16gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-pike-silver-used",
           "history": [
+            86999,
             86999,
             86999,
             86999,
@@ -277455,6 +277504,7 @@
             287999,
             287999,
             287999,
+            287999,
             287999
           ]
         },
@@ -277470,6 +277520,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_b850m_ayw_gaming_wifi.webp",
           "url": "https://rbtechngames.com/product/asus-b850m-ayw-gaming-wifi-m-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            48499,
             48499,
             48499,
             48499,
@@ -277499,6 +277550,7 @@
             40999,
             40999,
             40999,
+            40999,
             40999
           ]
         },
@@ -277514,6 +277566,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_x870-p_wifi-csm.webp",
           "url": "https://rbtechngames.com/product/asus-prime-x870-p-wifi-csm-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            86499,
             86499,
             86499,
             86499,
@@ -277543,6 +277596,7 @@
             59499,
             59499,
             59499,
+            59499,
             59499
           ]
         },
@@ -277558,6 +277612,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_a620am-k-csm.webp",
           "url": "https://rbtechngames.com/product/asus-prime-a620am-k-csm-m-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            31999,
             31999,
             31999,
             31999,
@@ -280875,8 +280930,8 @@
           "name": "Attack Shark X820Ultra 75% Wireless RGB Mechanical Gaming Keyboard &#8211; Star White/Star",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 18499,
-          "oldPrice": 16499,
+          "price": 16499,
+          "oldPrice": 18499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_attack_shark_x820ultra_star_white.webp",
@@ -280892,8 +280947,8 @@
             16499,
             16499,
             16499,
-            16499,
-            18499
+            18499,
+            16499
           ]
         },
         {
@@ -281071,6 +281126,7 @@
             78999,
             78999,
             78999,
+            78999,
             78999
           ]
         },
@@ -281112,6 +281168,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_asus_rog_azoth_x.png",
           "url": "https://rbtechngames.com/product/asus-rog-azoth-x-75-custom-mechanical-wireless-rgb-gaming-keyboard-snow-v2-storm-v2",
           "history": [
+            68999,
             68999,
             68999,
             68999,
@@ -281687,6 +281744,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -281754,6 +281812,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_aula_f108_black_blue.webp",
           "url": "https://rbtechngames.com/product/aula-f108-rgb-full-size-wireless-mechanical-gaming-keyboard-black-blue-grey-yellow-white-blue-white-yellow-grey-side-printed-pink-side-printed-numbus-v3-greywood-v3-dream-sakura-volcano-switche",
           "history": [
+            16499,
             16499,
             16499,
             16499,
@@ -282801,6 +282860,32 @@
           ]
         },
         {
+          "id": "rbtechgames_b882965f",
+          "name": "Zotac Gaming GeForce RTX 5060 Ti AMP 16GB Graphics Card",
+          "brand": "Zotac",
+          "category": "gpu",
+          "price": 189999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_zotac_rtx_5060_ti_amp_16gb.jpg",
+          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-amp-16gb-graphics-card",
+          "history": [
+            184999,
+            189999,
+            189999,
+            189999,
+            189999,
+            189999,
+            189999,
+            189999,
+            189999,
+            189999,
+            189999,
+            189999
+          ]
+        },
+        {
           "id": "rbtechgames_5b25e43f",
           "name": "Asus Prime GeForce RTX 5070 Ti 16GB OC Graphics Card",
           "brand": "ASUS",
@@ -282812,6 +282897,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_asus_prime_rtx_5070_ti_16gb.png",
           "url": "https://rbtechngames.com/product/asus-prime-geforce-rtx-5070-ti-16gb-oc-graphics-card",
           "history": [
+            339999,
             339999,
             339999,
             339999,
@@ -283161,6 +283247,32 @@
           ]
         },
         {
+          "id": "rbtechgames_d583685a",
+          "name": "Lexar 16GB (1x16GB) 3200MHz DDR4 Memory",
+          "brand": "Lexar",
+          "category": "ram",
+          "price": 27999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_lexar_16gb.webp",
+          "url": "https://rbtechngames.com/product/lexar-16gb-1x16gb-3200mhz-ddr4-memory",
+          "history": [
+            27999,
+            27999,
+            27999,
+            27999,
+            27999,
+            27999,
+            27999,
+            27999,
+            27999,
+            27999,
+            27999,
+            27999
+          ]
+        },
+        {
           "id": "rbtechgames_a9f33845",
           "name": "ATTACK SHARK X66 Wireless Mechanical 60% RGB Gaming Keyboard &#8211; White Cheese/Starry B",
           "brand": "ATTACK",
@@ -283276,6 +283388,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/02/rbtech_asus_rog_falchion_ace_hfx.png",
           "url": "https://rbtechngames.com/product/asus-falchion-ace-hfx-m605-65-rgb-gaming-keyboard-black-magnetic-switches",
           "history": [
+            49999,
             49999,
             49999,
             49999,
@@ -283877,6 +283990,7 @@
             29999,
             29999,
             29999,
+            29999,
             29999
           ]
         },
@@ -284005,6 +284119,7 @@
             51999,
             51999,
             51999,
+            51999,
             51999
           ]
         },
@@ -284020,6 +284135,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/08/rbtech_asus_rog_chakram_x_1.png",
           "url": "https://rbtechngames.com/product/asus-rog-chakram-x-p708-wireless-rgb-gaming-mouse",
           "history": [
+            37499,
             37499,
             37499,
             37499,
@@ -284600,6 +284716,21 @@
             64999,
             64999,
             64999
+          ]
+        },
+        {
+          "id": "rbtechgames_1711a0b9",
+          "name": "ASUS ROG Falchion RX Low Profile M603 65% Compact Gaming Keyboard &#8211; RX Red Switches ",
+          "brand": "ASUS",
+          "category": "keyboard",
+          "price": 39499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/05/rbtech_asus_rog_falchion_rx_low_profile_m603.png",
+          "url": "https://rbtechngames.com/product/asus-rog-falchion-rx-low-profile-m603-65-compact-gaming-keyboard-rx-red-switches-with-abs-keycaps",
+          "history": [
+            39499
           ]
         },
         {
@@ -285869,6 +286000,7 @@
             37499,
             37499,
             37499,
+            37499,
             37499
           ]
         },
@@ -286237,32 +286369,6 @@
           ]
         },
         {
-          "id": "rbtechgames_eb426f68",
-          "name": "Logitech G102 LightSync Gaming Mouse &#8211; Black",
-          "brand": "Logitech",
-          "category": "mouse",
-          "price": 5500,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/01/logitech-g102.jpg",
-          "url": "https://rbtechngames.com/product/logitech-g102-prodigy-gaming-mouse",
-          "history": [
-            5500,
-            5500,
-            5500,
-            5500,
-            5500,
-            5500,
-            5500,
-            5500,
-            5500,
-            5500,
-            5500,
-            5500
-          ]
-        },
-        {
           "id": "rbtechgames_cf6547d2",
           "name": "Logitech B100 Optical USB Mouse",
           "brand": "Logitech",
@@ -286322,164 +286428,7 @@
       "url": "https://www.paklap.pk",
       "city": "Nationwide",
       "verified": true,
-      "products": [
-        {
-          "id": "paklap_2b437f24",
-          "name": "Ninja Nvidia GeForce 4GB GT 730 128-Bit Graphic Card",
-          "brand": "NVIDIA",
-          "category": "gpu",
-          "price": 24900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/d/o/download_80__1.jpg",
-          "url": "https://www.paklap.pk/ninja-nvidia-geforce-4gb-gt-730-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900
-          ]
-        },
-        {
-          "id": "paklap_842a569c",
-          "name": "EASE GeForce RTX 3050 6GB GDDR6 128-Bit Graphics Card",
-          "brand": "EASE",
-          "category": "gpu",
-          "price": 75900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/e/a/ease_geforce_rtx_3050_gddr6_128-bit_graphics_card_2.jpg",
-          "url": "https://www.paklap.pk/ease-geforce-rtx-3050-gddr6-128-bit-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900
-          ]
-        },
-        {
-          "id": "paklap_81761541",
-          "name": "MSI GeForce RTX 4060 Ti Gaming X Trio 8G (8GB GDDR6/PCI Express 4.0/2685MHz/18000MHz)",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 166900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/7/1/713uqznzghl._ac_sx679_.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4060-ti-gaming-x-trio-8g-8gb-gddr6-pci-express-4-0-2685mhz-18000mhz.html",
-          "history": [
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900
-          ]
-        },
-        {
-          "id": "paklap_a291d46d",
-          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 2x OC GDDR6X 256-Bit Graphics Card (White)",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 305900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_2x_oc_gddr6x_256-bit_graphics_card_white_.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-2x-oc-256-bit-graphic-card-white-price-reviews-pakistan.html",
-          "history": [
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900
-          ]
-        },
-        {
-          "id": "paklap_95010bc1",
-          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 3X OC GDDR6X 256-Bit Graphics Card",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 310900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_3x_oc_gddr6x_256-bit_graphics_card_1.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-3x-oc-256-bit-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900
-          ]
-        },
-        {
-          "id": "paklap_f39f7953",
-          "name": "PALIT NVIDIA GeForce 16GB RTX4080 Gaming Pro 256-Bit GDDR6X",
-          "brand": "NVIDIA",
-          "category": "gpu",
-          "price": 372900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/p/a/palit_nvidia_geforce_16gb_rtx4080_gaming_pro_gddr6x.jpg",
-          "url": "https://www.paklap.pk/palit-nvidia-geforce-16gb-rtx-4080-gaming-pro-256-bit-gddr6x-price-reviews-pakistan.html",
-          "history": [
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900
-          ]
-        }
-      ]
+      "products": []
     },
     {
       "id": "sigma",
