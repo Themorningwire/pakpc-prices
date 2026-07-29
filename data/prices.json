@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T08:39:13.716675+00:00",
+  "lastUpdated": "2026-07-29T14:08:14.449060+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w46-charm-bt-headset-brown-price-in-pakistan-pakbyte.webp?v=1785252928",
           "url": "https://www.pakbyte.pk/products/hoco-w46-charm-wireless-bt-headset-gray",
           "history": [
+            2790,
             2790,
             2790,
             2790
@@ -144532,6 +144533,51 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_c3048c92",
+          "name": "Fantech ATOM HE68 PRO MK922 RETRO Beige Wireless Magnetic Gaming Keyboard Emerald Switch",
+          "brand": "Fantech",
+          "category": "keyboard",
+          "price": 1400000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-HE68-PRO-MK922-RETRO-Beige.jpg",
+          "url": "https://zahcomputers.pk/product/fantech-atom-he68-pro-mk922-retro-beige-wireless-magnetic-gaming-keyboard-emerald-switch",
+          "history": [
+            1400000
+          ]
+        },
+        {
+          "id": "zah_2daa4a93",
+          "name": "Lenovo Legion 5 15IAX10 Gaming Laptop | Intel Core Ultra 7 255HX | 16GB DDR5 | 1TB PCIe Ge",
+          "brand": "Intel",
+          "category": "gpu",
+          "price": 44000000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/Lenovo-Legion-5-15-Raptor-Lake-14th-Gen-Core-i7-14700HX-20-Core-Processor-Price-in-Pakistan.webp",
+          "url": "https://zahcomputers.pk/product/lenovo-legion-5-15iax10-gaming-laptop",
+          "history": [
+            44000000
+          ]
+        },
+        {
+          "id": "zah_32380af3",
+          "name": "Apple MacBook Air 13&#8243; MDHE4 M5 Chip 10-Core 16GB Unified RAM | 1TB SSD Midnight",
+          "brand": "Apple",
+          "category": "ram",
+          "price": 46799900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/apple-macbook-air-13-mdhe4-m5-chip-10-core-16gb-unified-ram-1tb-ssd-midnight",
+          "history": [
+            46799900
+          ]
+        },
+        {
           "id": "zah_a3f607c2",
           "name": "Fantech VALOR II MH89 Multi-Platform Wired Gaming Headset | 40mm Drivers | 3.5mm TRRS | Om",
           "brand": "Fantech",
@@ -144543,6 +144589,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-VALOR-II-MH89-Multi-Platform-Wired-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/fantech-valor-ii-mh89-multi-platform-wired-gaming-headset-white",
           "history": [
+            420000,
             420000,
             420000,
             420000
@@ -144562,6 +144609,7 @@
           "history": [
             700000,
             700000,
+            700000,
             700000
           ]
         },
@@ -144577,6 +144625,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ORBIT-HG25-RGB-7.1-Virtual-Surround.jpg",
           "url": "https://zahcomputers.pk/product/fantech-orbit-hg25-rgb-7-1-virtual-surround-sound-wired-gaming-headset",
           "history": [
+            430000,
             430000,
             430000,
             430000
@@ -144596,6 +144645,7 @@
           "history": [
             260000,
             260000,
+            260000,
             260000
           ]
         },
@@ -144611,6 +144661,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-FLASH-HQ53-Wired-RGB-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/fantech-flash-hq53-wired-rgb-gaming-headset-white",
           "history": [
+            400000,
             400000,
             400000,
             400000
@@ -144630,6 +144681,7 @@
           "history": [
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -144647,6 +144699,7 @@
           "history": [
             3399900,
             3399900,
+            3399900,
             3399900
           ]
         },
@@ -144662,6 +144715,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Dell-L-108-RGB-Wired-Gaming-Keyboard.jpg",
           "url": "https://zahcomputers.pk/product/dell-l-108-rgb-wired-gaming-keyboard",
           "history": [
+            500000,
             500000,
             500000,
             500000,
@@ -144683,6 +144737,7 @@
             600000,
             600000,
             600000,
+            600000,
             600000
           ]
         },
@@ -144701,6 +144756,7 @@
             6500000,
             6500000,
             6500000,
+            6500000,
             6500000
           ]
         },
@@ -144716,6 +144772,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-HE68-PRO-MK922-TOPO-Edition-Wireless-Magnetic-Gaming-Keyboard-Emerald-Switch.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-he68-pro-mk922-topo-edition-wireless-magnetic-gaming-keyboard-emerald-switch",
           "history": [
+            1400000,
             1400000,
             1400000,
             1400000,
@@ -144743,6 +144800,7 @@
             1400000,
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -144764,6 +144822,7 @@
             990000,
             990000,
             990000,
+            990000,
             990000
           ]
         },
@@ -144779,6 +144838,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ATOM-X66-MK614-Beige.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x66-mk614-mechanical-gaming-keyboard-ice-apricot-switch-retro-beige",
           "history": [
+            850000,
             850000,
             850000,
             850000,
@@ -144808,6 +144868,7 @@
             850000,
             850000,
             850000,
+            850000,
             850000
           ]
         },
@@ -144823,6 +144884,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X83-MK612-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x83-mk612-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
           "history": [
+            800000,
             800000,
             800000,
             800000,
@@ -144852,6 +144914,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -144867,6 +144930,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X63-MK611-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x63-mk611-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
           "history": [
+            750000,
             750000,
             750000,
             750000,
@@ -144896,6 +144960,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -144911,6 +144976,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM81-MK875V2-MIZU-Navy-Blue.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom81-mk875v2-mizu-series-mechanical-gaming-keyboard-taro-switch-navy-blue",
           "history": [
+            750000,
             750000,
             750000,
             750000,
@@ -144940,6 +145006,7 @@
             640000,
             640000,
             640000,
+            640000,
             640000
           ]
         },
@@ -144955,6 +145022,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-ThinkPad-E14-Gen-4-Intel-Core-i5-1235U-16GB-2x-8GB-DDR4-3200-512-GB-SSD-PCIe-14-FHD-Intel®-Iris®-Xe-Graphics-NO-OS-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-thinkpad-e14-gen-7-business-laptop",
           "history": [
+            31500000,
             31500000,
             31500000,
             31500000,
@@ -145084,7 +145152,7 @@
             34500000,
             34500000,
             34500000,
-            34500000,
+            34000000,
             34000000,
             34000000,
             34000000,
@@ -145136,7 +145204,7 @@
             31000000,
             31000000,
             31000000,
-            31000000,
+            30500000,
             30500000,
             30500000,
             30500000,
@@ -145466,7 +145534,7 @@
           "category": "gpu",
           "price": 10779900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/GIGABYTE-GeForce-RTX™-5050-WINDFORCE-OC-8G-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5050-windforce-oc-8g-graphics-card",
@@ -145746,8 +145814,8 @@
           ]
         },
         {
-          "id": "zah_889aee2e",
-          "name": "Lenovo IdeaPad Slim 3 15IRH10R (83K4000RUS) Laptop – Intel Core 7 210H, Intel Graphics, 16",
+          "id": "zah_4e759f0e",
+          "name": "Lenovo IdeaPad Slim 3 15IRH10R (83K4000RUS) Laptop – Intel Core 5 210H, Intel Graphics, 16",
           "brand": "Intel",
           "category": "ram",
           "price": 22000000,
@@ -145757,12 +145825,6 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-IdeaPad-Slim-3-15IRH10R-83K4000RUS-Laptop.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-ideapad-slim-3-15irh10r-83k4000rus-laptop",
           "history": [
-            22000000,
-            22000000,
-            22000000,
-            22000000,
-            22000000,
-            22000000,
             22000000
           ]
         },
@@ -146683,7 +146745,7 @@
           "category": "mouse",
           "price": 1000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Attack-Shark-X3-Lightweight-Wireless-Gaming-Mouse-PAW3395-Superlight-Red-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-x3-lightweight-wireless-gaming-mouse-paw3395-superlight-red",
@@ -147497,7 +147559,7 @@
             6049900,
             6049900,
             6049900,
-            6049900,
+            6499900,
             6499900,
             6499900,
             6499900,
@@ -150019,7 +150081,7 @@
             6049900,
             6049900,
             6049900,
-            6049900,
+            6499900,
             6499900,
             6499900,
             6499900,
@@ -150555,8 +150617,8 @@
           "name": "Palit GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Graphics Card",
           "brand": "Palit",
           "category": "gpu",
-          "price": 32500000,
-          "oldPrice": null,
+          "price": 33500000,
+          "oldPrice": 32500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Palit-GeForce-RTX-5070-Ti-GamingPro-S-16GB-GDDR7-Graphics-Card-Price-in-Pakistan.jpg",
@@ -150573,7 +150635,7 @@
             32500000,
             32500000,
             32500000,
-            32500000
+            33500000
           ]
         },
         {
@@ -150633,8 +150695,8 @@
           "name": "PNY GeForce RTX 5060 Ti 16GB Stealth OC Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 18500000,
-          "oldPrice": null,
+          "price": 20600000,
+          "oldPrice": 18500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/PNY-GeForce-RTX-5060-Ti-16GB-Stealth-OC-Graphics-Card-Price-in-Pakistan.webp",
@@ -150651,7 +150713,7 @@
             18500000,
             18500000,
             18500000,
-            18500000
+            20600000
           ]
         },
         {
@@ -152531,8 +152593,8 @@
           "name": "Gigabyte GeForce RTX 5060 EAGLE OC 8GB GDDR7 PCI-Express 5.0 Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 12649900,
-          "oldPrice": null,
+          "price": 13400000,
+          "oldPrice": 12649900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Gigabyte-GeForce-RTX-5060-EAGLE-OC-8GB-GDDR7-PCI-Express-5.0-Graphics-Card-Price-in-Pakistan.jpg",
@@ -152549,7 +152611,7 @@
             12649900,
             12649900,
             12649900,
-            12649900
+            13400000
           ]
         },
         {
@@ -153181,8 +153243,8 @@
           "name": "Apple MacBook Air 15&#8243; MDVQ4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Sky Blue",
           "brand": "Apple",
           "category": "ram",
-          "price": 42500000,
-          "oldPrice": null,
+          "price": 46000000,
+          "oldPrice": 42500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-15-MDVQ4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -153199,7 +153261,7 @@
             42500000,
             42500000,
             42500000,
-            42500000
+            46000000
           ]
         },
         {
@@ -153207,8 +153269,8 @@
           "name": "Apple MacBook Air 13&#8243; MDHA4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Starlight",
           "brand": "Apple",
           "category": "ram",
-          "price": 40500000,
-          "oldPrice": null,
+          "price": 39099900,
+          "oldPrice": 40500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHA4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
@@ -153225,7 +153287,7 @@
             40500000,
             40500000,
             40500000,
-            40500000
+            39099900
           ]
         },
         {
@@ -153233,8 +153295,8 @@
           "name": "Apple MacBook Air 13&#8243; MDH74 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Silver",
           "brand": "Apple",
           "category": "ram",
-          "price": 38000000,
-          "oldPrice": null,
+          "price": 39399900,
+          "oldPrice": 38000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDH74-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
@@ -153251,7 +153313,7 @@
             38000000,
             38000000,
             38000000,
-            38000000
+            39399900
           ]
         },
         {
@@ -153259,8 +153321,8 @@
           "name": "Apple MacBook Air 13&#8243; MDHH4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Sky Blue",
           "brand": "Apple",
           "category": "ram",
-          "price": 38000000,
-          "oldPrice": null,
+          "price": 39099900,
+          "oldPrice": 38000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -153277,7 +153339,7 @@
             38000000,
             38000000,
             38000000,
-            38000000
+            39099900
           ]
         },
         {
@@ -153337,8 +153399,8 @@
           "name": "Apple MacBook Neo MHFG4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 512GB SSD Indigo T",
           "brand": "Apple",
           "category": "ram",
-          "price": 25000000,
-          "oldPrice": null,
+          "price": 27849900,
+          "oldPrice": 25000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Neo-MHFC4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-512GB-SSD-Indigo-Touch-ID-Price-in-Pakistan.jpg",
@@ -153355,7 +153417,7 @@
             25000000,
             25000000,
             25000000,
-            25000000
+            27849900
           ]
         },
         {
@@ -153415,8 +153477,8 @@
           "name": "Apple MacBook Air 15&#8243; MW1H3 M4 10-Core Chip 16GB Unified RAM | 512GB SSD Silver",
           "brand": "Apple",
           "category": "ram",
-          "price": 43750000,
-          "oldPrice": null,
+          "price": 42599900,
+          "oldPrice": 43750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-15-MW1H3-M4-10-Core-Chip-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
@@ -153433,7 +153495,7 @@
             43750000,
             43750000,
             43750000,
-            43750000
+            42599900
           ]
         },
         {
@@ -153701,8 +153763,8 @@
           "name": "Asus Prime GeForce RTX 5060 8GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 12600000,
-          "oldPrice": 13200000,
+          "price": 13600000,
+          "oldPrice": 12600000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Asus-Prime-GeForce-RTX-5060-8GB-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -153719,7 +153781,7 @@
             12600000,
             12600000,
             12600000,
-            12600000
+            13600000
           ]
         },
         {
@@ -153937,7 +153999,7 @@
           "category": "headset",
           "price": 1199900,
           "oldPrice": 1300000,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/ATTACK-SHARK-L30-PRO-Wireless-Gaming-Headset-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-l30-pro-wireless-gaming-headset-white",
@@ -156509,8 +156571,8 @@
           "name": "Apple MacBook Neo MHFC4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 512GB SSD Silver T",
           "brand": "Apple",
           "category": "ram",
-          "price": 29160000,
-          "oldPrice": null,
+          "price": 27849900,
+          "oldPrice": 29160000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFA4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Silver.jpg",
@@ -156527,7 +156589,7 @@
             29160000,
             29160000,
             29160000,
-            29160000
+            27849900
           ]
         },
         {
@@ -156535,8 +156597,8 @@
           "name": "Apple MacBook Neo MHFH4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 256GB SSD Blush",
           "brand": "Apple",
           "category": "ram",
-          "price": 26460000,
-          "oldPrice": null,
+          "price": 24899900,
+          "oldPrice": 26460000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFH4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Blush-Price-in-Pakistan.jpg",
@@ -156553,7 +156615,7 @@
             26460000,
             26460000,
             26460000,
-            26460000
+            24899900
           ]
         },
         {
@@ -156639,8 +156701,8 @@
           "name": "Apple MacBook Air 15&#8243; MDVH4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Midnight",
           "brand": "Apple",
           "category": "ram",
-          "price": 42500000,
-          "oldPrice": null,
+          "price": 47299900,
+          "oldPrice": 42500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-15-MDVH4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight.jpg",
@@ -156657,7 +156719,7 @@
             42500000,
             42500000,
             42500000,
-            42500000
+            47299900
           ]
         },
         {
@@ -156691,8 +156753,8 @@
           "name": "Apple MacBook Air 13&#8243; MDHE4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Midnight",
           "brand": "Apple",
           "category": "ram",
-          "price": 38000000,
-          "oldPrice": null,
+          "price": 39099900,
+          "oldPrice": 38000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
@@ -156709,7 +156771,7 @@
             38000000,
             38000000,
             38000000,
-            38000000
+            39099900
           ]
         },
         {
@@ -159093,7 +159155,7 @@
             489500,
             489500,
             489500,
-            489500,
+            589500,
             589500,
             589500,
             589500,
@@ -168235,8 +168297,8 @@
           "name": "ZOTAC GAMING GeForce RTX 5060 Twin Edge OC 8GB White Edition Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 12500000,
-          "oldPrice": 13200000,
+          "price": 13200000,
+          "oldPrice": 12500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ZOTAC-GAMING-GeForce-RTX-5060-Twin-Edge-OC-8GB-White-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -168250,10 +168312,10 @@
             12300000,
             12300000,
             12300000,
-            12300000,
             12500000,
             12500000,
-            12500000
+            12500000,
+            13200000
           ]
         },
         {
@@ -168315,7 +168377,7 @@
           "category": "gpu",
           "price": 13199900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/GIGABYTE-GeForce-RTX-5060-EAGLE-MAX-OC-8GB-GDDR7-PCI-Express-5.0-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5060-eagle-max-oc-8gb-gddr7-pci-express-5-0-graphics-card",
@@ -174225,7 +174287,7 @@
             3799900,
             3799900,
             3799900,
-            3799900,
+            4400000,
             4400000,
             4400000,
             4400000,
@@ -174251,7 +174313,7 @@
             3799900,
             3799900,
             3799900,
-            3799900,
+            4400000,
             4400000,
             4400000,
             4400000,
@@ -176765,7 +176827,7 @@
           "category": "gpu",
           "price": 41900000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-ROG-Strix-GeForce-RTX-5070-Ti-OC-Edition-16GB-256-Bit-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-strix-geforce-rtx-5070-ti-oc-edition-16gb-256-bit-gddr7-pci-express-5-0-dlss-4-0-graphics-card",
@@ -177259,7 +177321,7 @@
           "category": "gpu",
           "price": 23999900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-Dual-GeForce-RTX-5070-12GB-GDDR7-OC-Edition-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-gaming-graphics-card",
@@ -177415,7 +177477,7 @@
           "category": "gpu",
           "price": 10499900,
           "oldPrice": 11199900,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-Dual-GeForce-RTX-5050-8GB-GDDR6-PCI-Express-5.0-x8-ATX-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5050-8gb-gddr6-pci-express-5-0-x8-atx-graphics-card",
@@ -179052,7 +179114,7 @@
           "brand": "Sandisk",
           "category": "storage",
           "price": 8200000,
-          "oldPrice": 7900000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Sandisk-Extreme-E61-4TB-External-SSD.jpg",
@@ -179068,7 +179130,7 @@
             7900000,
             7900000,
             7900000,
-            7900000,
+            8200000,
             8200000
           ]
         },
@@ -180299,8 +180361,8 @@
           "name": "ASUS TUF Gaming GeForce RTX 5070 Ti OC Edition 16GB GDDR7 TUF-RTX5070TI-O16G-GAMING PCI-Ex",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 36000000,
-          "oldPrice": null,
+          "price": 37800000,
+          "oldPrice": 36000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-Ti-OC-Edition-16GB-GDDR7-TUF-RTX5070TI-O16G-GAMING-PCI-Express-5.0-DLSS-4.0-Graphics-Card-price-inPakistan.jpg",
@@ -180317,7 +180379,7 @@
             36000000,
             36000000,
             36000000,
-            36000000
+            37800000
           ]
         },
         {
@@ -180663,8 +180725,8 @@
           "name": "ZOTAC  GAMING GeForce Twin Edge OC White Edition GeForce RTX 5060 Ti 16GB GDDR7 PCI Expres",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 19500000,
-          "oldPrice": 20500000,
+          "price": 21500000,
+          "oldPrice": 19500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ZOTAC-GAMING-GeForce-RTX-5060-Ti-Twin-Edge-OC-16GB-GDDR7-Graphics-Card-–-White-Price-in-Pakistan.jpg",
@@ -180673,7 +180735,6 @@
             20500000,
             20500000,
             20500000,
-            20500000,
             19500000,
             19500000,
             19500000,
@@ -180681,7 +180742,8 @@
             19500000,
             19500000,
             19500000,
-            19500000
+            19500000,
+            21500000
           ]
         },
         {
@@ -184253,7 +184315,7 @@
           "category": "gpu",
           "price": 24749900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/MSI-VENTUS-GeForce-RTX-5060-Ti-16GB-2X-OC-PLUS-GDDR7-PCIe-5.0-x16-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-5060-ti-16gb-2x-oc-plus-gddr7-pcie-5-0-x16-graphics-card",
@@ -185157,6 +185219,32 @@
           ]
         },
         {
+          "id": "zah_03d10d74",
+          "name": "HP OmniBook X Flip 16-AS0023DX Intel Core Ultra 7 256V 16GB 1TB SSD 16&#8243; 2K Touchscre",
+          "brand": "Intel",
+          "category": "storage",
+          "price": 30000000,
+          "oldPrice": 27000000,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/HP-OmniBook-X-Flip-16-AS0023DX-Intel-Core-Ultra-7-256V-16GB-1TB-SSD-16-2K-Touchscreen-x360-Display-Backlit-KB-Win11-Eclipse-Gray-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/hp-omnibook-x-flip-16-as0023dx-intel-core-ultra-7-256v-16gb-1tb-ssd-16-2k-touchscreen-x360-display-backlit-kb-win11-eclipse-gray",
+          "history": [
+            27000000,
+            27000000,
+            27000000,
+            27000000,
+            27000000,
+            27000000,
+            27000000,
+            27000000,
+            27000000,
+            27000000,
+            27000000,
+            30000000
+          ]
+        },
+        {
           "id": "zah_046c7930",
           "name": "Apple MDFW4 Magic Keyboard for 13&#8243; iPad Air M3 US English",
           "brand": "Apple",
@@ -185265,8 +185353,8 @@
           "name": "Apple MacBook Air 15&#8243; MW1K3 M4 10-Core Chip 16GB Memory 512GB SSD Starlight",
           "brand": "Apple",
           "category": "storage",
-          "price": 43750000,
-          "oldPrice": null,
+          "price": 42599900,
+          "oldPrice": 43750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Apple-MacBook-Air-15-MW1K3-M4-10-Core-Chip-16GB-Memory-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
@@ -185283,7 +185371,7 @@
             43750000,
             43750000,
             43750000,
-            43750000
+            42599900
           ]
         },
         {
@@ -188049,7 +188137,7 @@
           "category": "gpu",
           "price": 21500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ZOTAC-Twin-Edge-OC-GeForce-RTX-5060-Ti-PCI-Express-5.0-x8-16GB-128-Bit-GDDR7-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-twin-edge-oc-geforce-rtx-5060-ti-pci-express-5-0-x8-16gb-128-bit-gddr7-graphics-card",
@@ -189919,8 +190007,8 @@
           "name": "MSI VENTUS GeForce RTX 5060 8GB 2X OC GDDR7 PCIe 5.0 x16 Graphics Card White",
           "brand": "MSI",
           "category": "gpu",
-          "price": 12649900,
-          "oldPrice": 13899900,
+          "price": 13899900,
+          "oldPrice": 12649900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-VENTUS-GeForce-RTX-5060-8GB-2X-OC-GDDR7-PCIe-5.0-x16-Interface-Graphics-Card-White-Price-in-Pakistan.jpg",
@@ -189937,7 +190025,7 @@
             12649900,
             12649900,
             12649900,
-            12649900
+            13899900
           ]
         },
         {
@@ -189945,8 +190033,8 @@
           "name": "MSI VENTUS GeForce RTX 5060 8GB 2X OC GDDR7 PCIe 5.0 x16  Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 12299900,
-          "oldPrice": 13499900,
+          "price": 13499900,
+          "oldPrice": 12299900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-VENTUS-GeForce-RTX-5060-8GB-2X-OC-GDDR7-PCIe-5.0-x16-Interface-Graphics-Card-Price-in-Pakistan.jpg",
@@ -189963,7 +190051,7 @@
             12299900,
             12299900,
             12299900,
-            12299900
+            13499900
           ]
         },
         {
@@ -189971,8 +190059,8 @@
           "name": "MSI SHADOW GeForce RTX 5060 8GB 2X OC GDDR7 PCI Express 5.0 x 16 (use x8) Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 11899900,
-          "oldPrice": 13499900,
+          "price": 13499900,
+          "oldPrice": 11899900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-SHADOW-GeForce-RTX-5060-8GB-GDDR7-PCI-Express-5.0-x-16-use-x8-Graphics-Card-Price-in-Pakistan.jpg",
@@ -189989,7 +190077,7 @@
             11899900,
             11899900,
             11899900,
-            11899900
+            13499900
           ]
         },
         {
@@ -190179,9 +190267,9 @@
           "name": "ZOTAC GAMING GeForce Twin Edge RTX 5060  8GB 128-bit 28 GDDR7 PCI Express 5.0 x8 DLSS 4 Gr",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 11900000,
-          "oldPrice": 12500000,
-          "inStock": true,
+          "price": 12500000,
+          "oldPrice": 11900000,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ZOTAC-GAMING-GeForce-Twin-Edge-RTX-5060-8GB-128-bit-28-GDDR7-PCI-Express-5.0-x8-DLSS-4-Graphics-Card-Price-in-pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-twin-edge-rtx-5060-8gb-128-bit-28-gddr7-pci-express-5-0-x8-dlss-4-graphics-card",
@@ -190189,7 +190277,6 @@
             11400000,
             11400000,
             11400000,
-            11400000,
             11900000,
             11900000,
             11900000,
@@ -190197,7 +190284,8 @@
             11900000,
             11900000,
             11900000,
-            11900000
+            11900000,
+            12500000
           ]
         },
         {
@@ -193065,8 +193153,8 @@
           "name": "Apple Macbook Air 15&#8243; MC7C4 M4 Chip 10 core CPU 10 core GPU 16GB Ram | 512GB SSD Sky",
           "brand": "Apple",
           "category": "ram",
-          "price": 43750000,
-          "oldPrice": null,
+          "price": 42599900,
+          "oldPrice": 43750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Apple-Macbook-Air-15-MC7A4-M4-Chip-10-core-CPU-10-core-GPU-16GB-Ram-256GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -193083,7 +193171,7 @@
             43750000,
             43750000,
             43750000,
-            43750000
+            42599900
           ]
         },
         {
@@ -196403,7 +196491,7 @@
             14800000,
             14800000,
             14800000,
-            14800000,
+            14000000,
             14000000,
             14000000,
             14000000,
@@ -200293,8 +200381,8 @@
           "name": "Apple Macbook Air 15&#8243; MW1M3 Apple M4 Chip,10 core CPU,10 core GPU,16GB Ram,512GB SSD",
           "brand": "Apple",
           "category": "ram",
-          "price": 43740000,
-          "oldPrice": null,
+          "price": 42599900,
+          "oldPrice": 43740000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Apple-Macbook-Air-15-MW1M3-Apple-M4-Chip10-core-CPU10-core-GPU16GB-Ram512GB-SSD-Midnight-Price-in-Pakistan.jpg",
@@ -200311,7 +200399,7 @@
             43740000,
             43740000,
             43740000,
-            43740000
+            42599900
           ]
         },
         {
@@ -212227,8 +212315,8 @@
           "name": "Apple MXK63 Magic Mouse USB-C, Black",
           "brand": "Apple",
           "category": "mouse",
-          "price": 3800000,
-          "oldPrice": null,
+          "price": 3465000,
+          "oldPrice": 3800000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/Apple-MXK63-Magic-Mouse-USB-C-White-Price-in-Pakistan.jpg",
@@ -212245,7 +212333,7 @@
             3800000,
             3800000,
             3800000,
-            3800000
+            3465000
           ]
         },
         {
@@ -220093,7 +220181,7 @@
             5999900,
             5999900,
             5999900,
-            5999900,
+            6500000,
             6500000,
             6500000,
             6500000,
@@ -228165,8 +228253,8 @@
           "name": "Apple MacBook Air Z160008FZ M2 Chip 8-core CPU 16GB 1TB SSD 13.6″ IPS Retina LED Display W",
           "brand": "Apple",
           "category": "storage",
-          "price": 37800000,
-          "oldPrice": null,
+          "price": 36750000,
+          "oldPrice": 37800000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/Apple-MacBook-Air-Z160008FZ-Lowest-Price-in-Pakistan.jpg",
@@ -228183,7 +228271,7 @@
             37800000,
             37800000,
             37800000,
-            37800000
+            36750000
           ]
         },
         {
@@ -237228,7 +237316,7 @@
             1050000,
             1050000,
             1050000,
-            1050000,
+            1100000,
             1100000,
             1100000,
             1100000
@@ -241425,8 +241513,8 @@
           "name": "Apple MacBook Air CTO Z18U000T5 M2 Chip 8-core CPU 16GB 1TB SSD 15″ IPS Retina LED Display",
           "brand": "Apple",
           "category": "storage",
-          "price": 40500000,
-          "oldPrice": null,
+          "price": 39399900,
+          "oldPrice": 40500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/07/Apple-MacBook-Air-Price-in-Pakistan.jpg",
@@ -241443,7 +241531,7 @@
             40500000,
             40500000,
             40500000,
-            40500000
+            39399900
           ]
         },
         {
@@ -264320,7 +264408,7 @@
             450000,
             450000,
             450000,
-            450000,
+            500000,
             500000,
             500000,
             500000
@@ -277365,6 +277453,7 @@
           "history": [
             119999,
             119999,
+            119999,
             119999
           ]
         },
@@ -277380,6 +277469,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_strix_g18_2025_g815_eclipse_gray.png",
           "url": "https://rbtechngames.com/product/asus-rog-strix-g18-2025-g815lr-s9199-intel-core-ultra-9-32gb-ram-1tb-ssd-rtx-5070-ti-18-qhd-240hz-ips-display-eclipse-grey-used",
           "history": [
+            799999,
             799999,
             799999,
             799999,
@@ -277412,6 +277502,7 @@
             534999,
             534999,
             534999,
+            534999,
             534999
           ]
         },
@@ -277427,6 +277518,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_loq_15_15iax9e_luna_grey.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15iax9e-intel-core-i5-12th-gen-8gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-luna-gray-new",
           "history": [
+            266999,
             266999,
             266999,
             266999,
@@ -277462,6 +277554,7 @@
             369999,
             369999,
             369999,
+            369999,
             369999
           ]
         },
@@ -277477,6 +277570,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/ASUS-TUF-A16-2.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-a16-fa608uhi-tu148-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-165hz-ips-display-jaeger-gray-new",
           "history": [
+            374999,
             374999,
             374999,
             374999,
@@ -277503,6 +277597,7 @@
           "url": "https://rbtechngames.com/product/dell-g15-5535-amd-ryzen-7-5800h-16gb-ram-512gb-ssd-rtx-3060-15-6-fhd-165hz-display-specter-green-used",
           "history": [
             214999,
+            214999,
             214999
           ]
         },
@@ -277518,6 +277613,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_acer_nitro_16s_ai.png",
           "url": "https://rbtechngames.com/product/acer-nitro-16s-ai-an16s-61-r96t-amd-ryzen-7-ai-350-16gb-ram-512gb-ssd-rtx-5050-16-qhd-180hz-ips-display-obsidian-black-open-box",
           "history": [
+            389999,
             389999,
             389999,
             389999,
@@ -277545,6 +277641,7 @@
             374999,
             374999,
             374999,
+            374999,
             374999
           ]
         },
@@ -277560,6 +277657,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hyperx_omen_15.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-15-15-ga0031tx-intel-core-i7-14th-gen-24gb-ram-1tb-ssd-rtx-5060-15-3-qhd-180hz-ips-display-shadow-black-new",
           "history": [
+            464999,
             464999,
             464999,
             464999,
@@ -277595,6 +277693,7 @@
             664999,
             664999,
             664999,
+            664999,
             664999
           ]
         },
@@ -277610,6 +277709,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_thinkpad_t14s_gen_6.png",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-gen-6-intel-core-ultra-7-32gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-black-used",
           "history": [
+            384999,
             384999,
             384999,
             384999,
@@ -277645,6 +277745,7 @@
             84999,
             84999,
             84999,
+            84999,
             84999
           ]
         },
@@ -277660,6 +277761,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_dell_latitude_5540.webp",
           "url": "https://rbtechngames.com/product/dell-latitude-5540-intel-i5-1350p-16gb-ram-256gb-ssd-15-6%e2%80%b3-fhd-ips-display-titan-grey-used",
           "history": [
+            154999,
             154999,
             154999,
             154999,
@@ -277695,6 +277797,7 @@
             109999,
             109999,
             109999,
+            109999,
             109999
           ]
         },
@@ -277720,6 +277823,7 @@
             86999,
             86999,
             86999,
+            86999,
             86999
           ]
         },
@@ -277735,6 +277839,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_tuf_gaming_rx_9070_xt_oc.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-radeon-rx-9070-xt-16gb-oc-graphics-card",
           "history": [
+            287999,
             287999,
             287999,
             287999,
@@ -279529,6 +279634,7 @@
           "url": "https://rbtechngames.com/product/hp-omen-16-wf0032tx-intel-core-i9-13th-gen-16gb-ram-512gb-ssd-rtx-4060-16-qhd-240hz-ips-display-shadow-black-used",
           "history": [
             319999,
+            319999,
             319999
           ]
         },
@@ -280551,8 +280657,8 @@
           "name": "ASUS TUF Gaming F16 (FX608JMR-QT040), Intel Core i7 14th Gen, 16GB RAM, 512GB SSD, RTX 506",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 449999,
-          "oldPrice": null,
+          "price": 399999,
+          "oldPrice": 449999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_asus_tuf_f16_2025.webp",
@@ -280569,7 +280675,7 @@
             449999,
             449999,
             449999,
-            449999
+            399999
           ]
         },
         {
@@ -281782,6 +281888,7 @@
           "history": [
             154999,
             154999,
+            154999,
             154999
           ]
         },
@@ -281823,6 +281930,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_lexar_ares_rgb_ddr5.webp",
           "url": "https://rbtechngames.com/product/lexar-ares-rgb-32gb-2x16gb-6400mhz-cl32-ddr5-desktop-memory-black",
           "history": [
+            131999,
             131999,
             131999,
             131999,
@@ -282089,6 +282197,7 @@
             16499,
             16499,
             16499,
+            16499,
             16499
           ]
         },
@@ -282227,8 +282336,8 @@
           "name": "ASUS TUF Gaming A16 (FA608UM-QT043), AMD Ryzen 7 260, 16GB RAM, 512GB SSD, RTX 5060 8GB, 1",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 439999,
-          "oldPrice": null,
+          "price": 399999,
+          "oldPrice": 439999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/ASUS-TUF-A16-2.png",
@@ -282245,7 +282354,7 @@
             439999,
             439999,
             439999,
-            439999
+            399999
           ]
         },
         {
@@ -282294,7 +282403,7 @@
             344999,
             344999,
             344999,
-            344999,
+            334999,
             334999,
             334999,
             334999
@@ -285045,6 +285154,7 @@
             39499,
             39499,
             39499,
+            39499,
             39499
           ]
         },
@@ -286320,32 +286430,6 @@
             37499,
             37499,
             37499
-          ]
-        },
-        {
-          "id": "rbtechgames_50aaba94",
-          "name": "Logitech MX Keys Wireless Keyboard with Backlit Keys",
-          "brand": "Logitech",
-          "category": "keyboard",
-          "price": 28999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/10/LOGITECH_MX_KEYS_1.jpg",
-          "url": "https://rbtechngames.com/product/logitech-mx-keys-wireless-keyboard-with-backlit-keys",
-          "history": [
-            28999,
-            28999,
-            28999,
-            28999,
-            28999,
-            28999,
-            28999,
-            28999,
-            28999,
-            28999,
-            28999,
-            28999
           ]
         },
         {
