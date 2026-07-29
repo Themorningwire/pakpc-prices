@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T14:08:14.449060+00:00",
+  "lastUpdated": "2026-07-29T19:14:32.289009+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w46-charm-bt-headset-brown-price-in-pakistan-pakbyte.webp?v=1785252928",
           "url": "https://www.pakbyte.pk/products/hoco-w46-charm-wireless-bt-headset-gray",
           "history": [
+            2790,
             2790,
             2790,
             2790,
@@ -144533,6 +144534,21 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_b5b74fff",
+          "name": "Colorful BATTLE-AX B450M-T M.2 V14 AMD B450 Micro-ATX Motherboard | AM4 Socket | DDR4 3600",
+          "brand": "AMD",
+          "category": "ram",
+          "price": 2299900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Colorful-BATTLE-AX-B450M-T-M.2-V14-AMD-B450-Price-in-Pakistan.webp",
+          "url": "https://zahcomputers.pk/product/colorful-battle-ax-b450m-t-m-2-v14-amd-b450-micro-atx-motherboard",
+          "history": [
+            2299900
+          ]
+        },
+        {
           "id": "zah_c3048c92",
           "name": "Fantech ATOM HE68 PRO MK922 RETRO Beige Wireless Magnetic Gaming Keyboard Emerald Switch",
           "brand": "Fantech",
@@ -144544,6 +144560,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-HE68-PRO-MK922-RETRO-Beige.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-he68-pro-mk922-retro-beige-wireless-magnetic-gaming-keyboard-emerald-switch",
           "history": [
+            1400000,
             1400000
           ]
         },
@@ -144559,6 +144576,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/Lenovo-Legion-5-15-Raptor-Lake-14th-Gen-Core-i7-14700HX-20-Core-Processor-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/lenovo-legion-5-15iax10-gaming-laptop",
           "history": [
+            44000000,
             44000000
           ]
         },
@@ -144574,6 +144592,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-13-mdhe4-m5-chip-10-core-16gb-unified-ram-1tb-ssd-midnight",
           "history": [
+            46799900,
             46799900
           ]
         },
@@ -144589,6 +144608,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-VALOR-II-MH89-Multi-Platform-Wired-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/fantech-valor-ii-mh89-multi-platform-wired-gaming-headset-white",
           "history": [
+            420000,
             420000,
             420000,
             420000,
@@ -144610,6 +144630,7 @@
             700000,
             700000,
             700000,
+            700000,
             700000
           ]
         },
@@ -144625,6 +144646,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ORBIT-HG25-RGB-7.1-Virtual-Surround.jpg",
           "url": "https://zahcomputers.pk/product/fantech-orbit-hg25-rgb-7-1-virtual-surround-sound-wired-gaming-headset",
           "history": [
+            430000,
             430000,
             430000,
             430000,
@@ -144646,6 +144668,7 @@
             260000,
             260000,
             260000,
+            260000,
             260000
           ]
         },
@@ -144661,6 +144684,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-FLASH-HQ53-Wired-RGB-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/fantech-flash-hq53-wired-rgb-gaming-headset-white",
           "history": [
+            400000,
             400000,
             400000,
             400000,
@@ -144682,6 +144706,7 @@
             1400000,
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -144700,6 +144725,7 @@
             3399900,
             3399900,
             3399900,
+            3399900,
             3399900
           ]
         },
@@ -144715,6 +144741,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Dell-L-108-RGB-Wired-Gaming-Keyboard.jpg",
           "url": "https://zahcomputers.pk/product/dell-l-108-rgb-wired-gaming-keyboard",
           "history": [
+            500000,
             500000,
             500000,
             500000,
@@ -144738,6 +144765,7 @@
             600000,
             600000,
             600000,
+            600000,
             600000
           ]
         },
@@ -144757,6 +144785,7 @@
             6500000,
             6500000,
             6500000,
+            6500000,
             6500000
           ]
         },
@@ -144772,6 +144801,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-HE68-PRO-MK922-TOPO-Edition-Wireless-Magnetic-Gaming-Keyboard-Emerald-Switch.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-he68-pro-mk922-topo-edition-wireless-magnetic-gaming-keyboard-emerald-switch",
           "history": [
+            1400000,
             1400000,
             1400000,
             1400000,
@@ -144801,6 +144831,7 @@
             1400000,
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -144823,6 +144854,7 @@
             990000,
             990000,
             990000,
+            990000,
             990000
           ]
         },
@@ -144838,6 +144870,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ATOM-X66-MK614-Beige.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x66-mk614-mechanical-gaming-keyboard-ice-apricot-switch-retro-beige",
           "history": [
+            850000,
             850000,
             850000,
             850000,
@@ -144869,6 +144902,7 @@
             850000,
             850000,
             850000,
+            850000,
             850000
           ]
         },
@@ -144884,6 +144918,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X83-MK612-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x83-mk612-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
           "history": [
+            800000,
             800000,
             800000,
             800000,
@@ -144915,6 +144950,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -144930,6 +144966,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X63-MK611-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x63-mk611-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
           "history": [
+            750000,
             750000,
             750000,
             750000,
@@ -144961,6 +144998,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -144976,6 +145014,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM81-MK875V2-MIZU-Navy-Blue.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom81-mk875v2-mizu-series-mechanical-gaming-keyboard-taro-switch-navy-blue",
           "history": [
+            750000,
             750000,
             750000,
             750000,
@@ -145007,6 +145046,7 @@
             640000,
             640000,
             640000,
+            640000,
             640000
           ]
         },
@@ -145030,6 +145070,7 @@
             31500000,
             31500000,
             31500000,
+            31500000,
             31500000
           ]
         },
@@ -145040,7 +145081,7 @@
           "category": "gpu",
           "price": 22800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Asus-Prime-GeForce-RTX-5070-OC-12GB-Graphics-Card-–-White-Edition-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-geforce-rtx-5070-oc-12gb-graphics-card-white-edition",
@@ -145151,7 +145192,7 @@
           "history": [
             34500000,
             34500000,
-            34500000,
+            34000000,
             34000000,
             34000000,
             34000000,
@@ -145203,7 +145244,7 @@
           "history": [
             31000000,
             31000000,
-            31000000,
+            30500000,
             30500000,
             30500000,
             30500000,
@@ -145825,6 +145866,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-IdeaPad-Slim-3-15IRH10R-83K4000RUS-Laptop.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-ideapad-slim-3-15irh10r-83k4000rus-laptop",
           "history": [
+            22000000,
             22000000
           ]
         },
@@ -147558,7 +147600,7 @@
           "history": [
             6049900,
             6049900,
-            6049900,
+            6499900,
             6499900,
             6499900,
             6499900,
@@ -150080,7 +150122,7 @@
           "history": [
             6049900,
             6049900,
-            6049900,
+            6499900,
             6499900,
             6499900,
             6499900,
@@ -150618,7 +150660,7 @@
           "brand": "Palit",
           "category": "gpu",
           "price": 33500000,
-          "oldPrice": 32500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Palit-GeForce-RTX-5070-Ti-GamingPro-S-16GB-GDDR7-Graphics-Card-Price-in-Pakistan.jpg",
@@ -150634,7 +150676,7 @@
             32500000,
             32500000,
             32500000,
-            32500000,
+            33500000,
             33500000
           ]
         },
@@ -150696,7 +150738,7 @@
           "brand": "PNY",
           "category": "gpu",
           "price": 20600000,
-          "oldPrice": 18500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/PNY-GeForce-RTX-5060-Ti-16GB-Stealth-OC-Graphics-Card-Price-in-Pakistan.webp",
@@ -150712,7 +150754,7 @@
             18500000,
             18500000,
             18500000,
-            18500000,
+            20600000,
             20600000
           ]
         },
@@ -152594,7 +152636,7 @@
           "brand": "Gigabyte",
           "category": "gpu",
           "price": 13400000,
-          "oldPrice": 12649900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Gigabyte-GeForce-RTX-5060-EAGLE-OC-8GB-GDDR7-PCI-Express-5.0-Graphics-Card-Price-in-Pakistan.jpg",
@@ -152610,7 +152652,7 @@
             12649900,
             12649900,
             12649900,
-            12649900,
+            13400000,
             13400000
           ]
         },
@@ -153244,7 +153286,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 46000000,
-          "oldPrice": 42500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-15-MDVQ4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -153260,7 +153302,7 @@
             42500000,
             42500000,
             42500000,
-            42500000,
+            46000000,
             46000000
           ]
         },
@@ -153270,7 +153312,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 39099900,
-          "oldPrice": 40500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHA4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
@@ -153286,7 +153328,7 @@
             40500000,
             40500000,
             40500000,
-            40500000,
+            39099900,
             39099900
           ]
         },
@@ -153296,7 +153338,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 39399900,
-          "oldPrice": 38000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDH74-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
@@ -153312,7 +153354,7 @@
             38000000,
             38000000,
             38000000,
-            38000000,
+            39399900,
             39399900
           ]
         },
@@ -153322,7 +153364,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 39099900,
-          "oldPrice": 38000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -153338,7 +153380,7 @@
             38000000,
             38000000,
             38000000,
-            38000000,
+            39099900,
             39099900
           ]
         },
@@ -153400,7 +153442,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 27849900,
-          "oldPrice": 25000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Neo-MHFC4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-512GB-SSD-Indigo-Touch-ID-Price-in-Pakistan.jpg",
@@ -153416,7 +153458,7 @@
             25000000,
             25000000,
             25000000,
-            25000000,
+            27849900,
             27849900
           ]
         },
@@ -153478,7 +153520,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 42599900,
-          "oldPrice": 43750000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-15-MW1H3-M4-10-Core-Chip-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
@@ -153494,7 +153536,7 @@
             43750000,
             43750000,
             43750000,
-            43750000,
+            42599900,
             42599900
           ]
         },
@@ -153764,7 +153806,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 13600000,
-          "oldPrice": 12600000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Asus-Prime-GeForce-RTX-5060-8GB-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -153780,7 +153822,7 @@
             12600000,
             12600000,
             12600000,
-            12600000,
+            13600000,
             13600000
           ]
         },
@@ -156572,7 +156614,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 27849900,
-          "oldPrice": 29160000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFA4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Silver.jpg",
@@ -156588,7 +156630,7 @@
             29160000,
             29160000,
             29160000,
-            29160000,
+            27849900,
             27849900
           ]
         },
@@ -156598,7 +156640,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 24899900,
-          "oldPrice": 26460000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFH4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Blush-Price-in-Pakistan.jpg",
@@ -156614,7 +156656,7 @@
             26460000,
             26460000,
             26460000,
-            26460000,
+            24899900,
             24899900
           ]
         },
@@ -156702,7 +156744,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 47299900,
-          "oldPrice": 42500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-15-MDVH4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight.jpg",
@@ -156718,7 +156760,7 @@
             42500000,
             42500000,
             42500000,
-            42500000,
+            47299900,
             47299900
           ]
         },
@@ -156754,7 +156796,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 39099900,
-          "oldPrice": 38000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
@@ -156770,7 +156812,7 @@
             38000000,
             38000000,
             38000000,
-            38000000,
+            39099900,
             39099900
           ]
         },
@@ -159154,7 +159196,7 @@
           "history": [
             489500,
             489500,
-            489500,
+            589500,
             589500,
             589500,
             589500,
@@ -168298,7 +168340,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 13200000,
-          "oldPrice": 12500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ZOTAC-GAMING-GeForce-RTX-5060-Twin-Edge-OC-8GB-White-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -168311,10 +168353,10 @@
             12300000,
             12300000,
             12300000,
-            12300000,
             12500000,
             12500000,
             12500000,
+            13200000,
             13200000
           ]
         },
@@ -168325,7 +168367,7 @@
           "category": "gpu",
           "price": 23899900,
           "oldPrice": 28799900,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/GIGABYTE-GeForce-RTX-5070-EAGLE-OC-SFF-Graphics-Card-12GB-GDDR7-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5070-eagle-oc-sff-graphics-card-12gb-gddr7-192-bit-memory-2587-mhz-core-clock-28-gbps-memory-clock-6144-cuda-cores-pci-express-5-0",
@@ -168481,7 +168523,7 @@
           "category": "gpu",
           "price": 22500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/PNY-GeForce-RTX-5070-ARGB-EPIC-X-RGB-OC-Triple-Fan-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5070-argb-epic-x-rgb-oc-triple-fan-graphics-card-12gb-gddr7-192-bit-memory-2-16-ghz-base-clock-28-gbps-memory-speed-6144-cuda-cores-pci-express-5-0",
@@ -174286,7 +174328,7 @@
           "history": [
             3799900,
             3799900,
-            3799900,
+            4400000,
             4400000,
             4400000,
             4400000,
@@ -174312,7 +174354,7 @@
           "history": [
             3799900,
             3799900,
-            3799900,
+            4400000,
             4400000,
             4400000,
             4400000,
@@ -179129,7 +179171,7 @@
             7900000,
             7900000,
             7900000,
-            7900000,
+            8200000,
             8200000,
             8200000
           ]
@@ -180361,8 +180403,8 @@
           "name": "ASUS TUF Gaming GeForce RTX 5070 Ti OC Edition 16GB GDDR7 TUF-RTX5070TI-O16G-GAMING PCI-Ex",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 37800000,
-          "oldPrice": 36000000,
+          "price": 38500000,
+          "oldPrice": 37800000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-Ti-OC-Edition-16GB-GDDR7-TUF-RTX5070TI-O16G-GAMING-PCI-Express-5.0-DLSS-4.0-Graphics-Card-price-inPakistan.jpg",
@@ -180378,8 +180420,8 @@
             36000000,
             36000000,
             36000000,
-            36000000,
-            37800000
+            37800000,
+            38500000
           ]
         },
         {
@@ -180387,8 +180429,8 @@
           "name": "ASUS TUF Gaming GeForce RTX 5070 12GB Video RAM GDDR7 VRAM Type 6144 Cuda Cores 28GBps Mem",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 25500000,
-          "oldPrice": null,
+          "price": 26800000,
+          "oldPrice": 25500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-12GB-Video-RAM-GDDR7-VRAM-Type-6144-Cuda-Cores-28GBps-Memory-Speed-Graphic-Card-Price-in-Pakistan.jpg",
@@ -180405,7 +180447,7 @@
             25500000,
             25500000,
             25500000,
-            25500000
+            26800000
           ]
         },
         {
@@ -180726,7 +180768,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 21500000,
-          "oldPrice": 19500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ZOTAC-GAMING-GeForce-RTX-5060-Ti-Twin-Edge-OC-16GB-GDDR7-Graphics-Card-–-White-Price-in-Pakistan.jpg",
@@ -180734,7 +180776,6 @@
           "history": [
             20500000,
             20500000,
-            20500000,
             19500000,
             19500000,
             19500000,
@@ -180743,6 +180784,7 @@
             19500000,
             19500000,
             19500000,
+            21500000,
             21500000
           ]
         },
@@ -183741,8 +183783,8 @@
           "name": "ASUS PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition PCI Express 5.0 DLSS 4.0 Graphics Car",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 33000000,
-          "oldPrice": null,
+          "price": 35500000,
+          "oldPrice": 33000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-PRIME-GeForce-RTX-5070-Ti-16GB-256-Bit-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan.jpg",
@@ -183759,7 +183801,7 @@
             33000000,
             33000000,
             33000000,
-            33000000
+            35500000
           ]
         },
         {
@@ -185224,7 +185266,7 @@
           "brand": "Intel",
           "category": "storage",
           "price": 30000000,
-          "oldPrice": 27000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/HP-OmniBook-X-Flip-16-AS0023DX-Intel-Core-Ultra-7-256V-16GB-1TB-SSD-16-2K-Touchscreen-x360-Display-Backlit-KB-Win11-Eclipse-Gray-Price-in-Pakistan.jpg",
@@ -185240,7 +185282,7 @@
             27000000,
             27000000,
             27000000,
-            27000000,
+            30000000,
             30000000
           ]
         },
@@ -185354,7 +185396,7 @@
           "brand": "Apple",
           "category": "storage",
           "price": 42599900,
-          "oldPrice": 43750000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Apple-MacBook-Air-15-MW1K3-M4-10-Core-Chip-16GB-Memory-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
@@ -185370,7 +185412,7 @@
             43750000,
             43750000,
             43750000,
-            43750000,
+            42599900,
             42599900
           ]
         },
@@ -190008,7 +190050,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 13899900,
-          "oldPrice": 12649900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-VENTUS-GeForce-RTX-5060-8GB-2X-OC-GDDR7-PCIe-5.0-x16-Interface-Graphics-Card-White-Price-in-Pakistan.jpg",
@@ -190024,7 +190066,7 @@
             12649900,
             12649900,
             12649900,
-            12649900,
+            13899900,
             13899900
           ]
         },
@@ -190034,7 +190076,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 13499900,
-          "oldPrice": 12299900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-VENTUS-GeForce-RTX-5060-8GB-2X-OC-GDDR7-PCIe-5.0-x16-Interface-Graphics-Card-Price-in-Pakistan.jpg",
@@ -190050,7 +190092,7 @@
             12299900,
             12299900,
             12299900,
-            12299900,
+            13499900,
             13499900
           ]
         },
@@ -190060,7 +190102,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 13499900,
-          "oldPrice": 11899900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-SHADOW-GeForce-RTX-5060-8GB-GDDR7-PCI-Express-5.0-x-16-use-x8-Graphics-Card-Price-in-Pakistan.jpg",
@@ -190076,7 +190118,7 @@
             11899900,
             11899900,
             11899900,
-            11899900,
+            13499900,
             13499900
           ]
         },
@@ -190268,7 +190310,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 12500000,
-          "oldPrice": 11900000,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ZOTAC-GAMING-GeForce-Twin-Edge-RTX-5060-8GB-128-bit-28-GDDR7-PCI-Express-5.0-x8-DLSS-4-Graphics-Card-Price-in-pakistan.jpg",
@@ -190276,7 +190318,6 @@
           "history": [
             11400000,
             11400000,
-            11400000,
             11900000,
             11900000,
             11900000,
@@ -190285,6 +190326,7 @@
             11900000,
             11900000,
             11900000,
+            12500000,
             12500000
           ]
         },
@@ -193103,7 +193145,7 @@
           "category": "gpu",
           "price": 49999900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Gigabyte-AERO-GeForce-RTX-5080-OC-16GB-GDDR7-PCI-Express-5.0-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-aero-geforce-rtx-5080-oc-16gb-gddr7-pci-express-5-0-graphics-card",
@@ -193154,7 +193196,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 42599900,
-          "oldPrice": 43750000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Apple-Macbook-Air-15-MC7A4-M4-Chip-10-core-CPU-10-core-GPU-16GB-Ram-256GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -193170,7 +193212,7 @@
             43750000,
             43750000,
             43750000,
-            43750000,
+            42599900,
             42599900
           ]
         },
@@ -196490,7 +196532,7 @@
           "history": [
             14800000,
             14800000,
-            14800000,
+            14000000,
             14000000,
             14000000,
             14000000,
@@ -200382,7 +200424,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 42599900,
-          "oldPrice": 43740000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Apple-Macbook-Air-15-MW1M3-Apple-M4-Chip10-core-CPU10-core-GPU16GB-Ram512GB-SSD-Midnight-Price-in-Pakistan.jpg",
@@ -200398,7 +200440,7 @@
             43740000,
             43740000,
             43740000,
-            43740000,
+            42599900,
             42599900
           ]
         },
@@ -203399,7 +203441,7 @@
           "category": "gpu",
           "price": 45999900,
           "oldPrice": 48399900,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/03/MSI-GeForce-RTX-5080-SHADOW-3X-Overclocked-Triple-Fan-16GB-GDDR7-PCIe-5.0-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5080-shadow-3x-overclocked-triple-fan-16gb-gddr7-pcie-5-0-graphics-card",
@@ -212316,7 +212358,7 @@
           "brand": "Apple",
           "category": "mouse",
           "price": 3465000,
-          "oldPrice": 3800000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/Apple-MXK63-Magic-Mouse-USB-C-White-Price-in-Pakistan.jpg",
@@ -212332,7 +212374,7 @@
             3800000,
             3800000,
             3800000,
-            3800000,
+            3465000,
             3465000
           ]
         },
@@ -220180,7 +220222,7 @@
             5999900,
             5999900,
             5999900,
-            5999900,
+            6500000,
             6500000,
             6500000,
             6500000,
@@ -225447,7 +225489,7 @@
           "category": "cpu",
           "price": 5299900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/B650-GAMING-PLUS-WIFI-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-b650-gaming-plus-wifi-ddr5-amd-ryzen-9000-8000-7000-motherboard",
@@ -228254,7 +228296,7 @@
           "brand": "Apple",
           "category": "storage",
           "price": 36750000,
-          "oldPrice": 37800000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/Apple-MacBook-Air-Z160008FZ-Lowest-Price-in-Pakistan.jpg",
@@ -228270,7 +228312,7 @@
             37800000,
             37800000,
             37800000,
-            37800000,
+            36750000,
             36750000
           ]
         },
@@ -237315,7 +237357,7 @@
             1050000,
             1050000,
             1050000,
-            1050000,
+            1100000,
             1100000,
             1100000,
             1100000,
@@ -240813,7 +240855,7 @@
           "category": "cpu",
           "price": 6879900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/09/MSI-MAG-B650-TOMAHAWK-WIFI-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-mag-b650-tomahawk-wifi-am5-amd-b650-sata-6gb-s-ddr5-ryzen-7000-atx-motherboard",
@@ -241514,7 +241556,7 @@
           "brand": "Apple",
           "category": "storage",
           "price": 39399900,
-          "oldPrice": 40500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/07/Apple-MacBook-Air-Price-in-Pakistan.jpg",
@@ -241530,7 +241572,7 @@
             40500000,
             40500000,
             40500000,
-            40500000,
+            39399900,
             39399900
           ]
         },
@@ -264407,7 +264449,7 @@
             450000,
             450000,
             450000,
-            450000,
+            500000,
             500000,
             500000,
             500000,
@@ -277454,6 +277496,7 @@
             119999,
             119999,
             119999,
+            119999,
             119999
           ]
         },
@@ -277495,6 +277538,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_zephrus_g14_ga403_platinum_white.png",
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g16-2024-ga605wv-amd-ryzen-ai-9-370-32gb-ram-1tb-ssd-rtx-4060-16-qhd-240hz-oled-display-platinum-white-new",
           "history": [
+            534999,
             534999,
             534999,
             534999,
@@ -277598,6 +277642,7 @@
           "history": [
             214999,
             214999,
+            214999,
             214999
           ]
         },
@@ -277621,6 +277666,7 @@
             389999,
             389999,
             389999,
+            389999,
             389999
           ]
         },
@@ -277636,6 +277682,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_v_16_ai.webp",
           "url": "https://rbtechngames.com/product/acer-nitro-v-16s-ai-anv16s-41-r9sv-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-180hz-ips-display-obsidian-black-new",
           "history": [
+            374999,
             374999,
             374999,
             374999,
@@ -277832,8 +277879,8 @@
           "name": "Asus TUF Gaming Radeon RX 9070 XT 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 287999,
-          "oldPrice": null,
+          "price": 292499,
+          "oldPrice": 287999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_tuf_gaming_rx_9070_xt_oc.webp",
@@ -277850,7 +277897,7 @@
             287999,
             287999,
             287999,
-            287999
+            292499
           ]
         },
         {
@@ -277858,8 +277905,8 @@
           "name": "Asus B850M AYW Gaming WiFi M-ATX AM5 DDR5 Gaming Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 48499,
-          "oldPrice": null,
+          "price": 47999,
+          "oldPrice": 48499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_b850m_ayw_gaming_wifi.webp",
@@ -277876,7 +277923,7 @@
             48499,
             48499,
             48499,
-            48499
+            47999
           ]
         },
         {
@@ -277962,8 +278009,8 @@
           "name": "Asus Prime A620AM-K-CSM M-ATX AM5 DDR5 Gaming Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 31999,
-          "oldPrice": null,
+          "price": 29999,
+          "oldPrice": 31999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_a620am-k-csm.webp",
@@ -277980,7 +278027,7 @@
             31999,
             31999,
             31999,
-            31999
+            29999
           ]
         },
         {
@@ -278248,8 +278295,8 @@
           "name": "Zotac Gaming GeForce RTX 5060 Ti 8GB Twin Edge Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 129999,
-          "oldPrice": null,
+          "price": 144999,
+          "oldPrice": 129999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_zotac_rtx_5060_ti_8gb.jpg",
@@ -278266,7 +278313,7 @@
             129999,
             129999,
             129999,
-            129999
+            144999
           ]
         },
         {
@@ -279028,8 +279075,8 @@
           "name": "Gigabyte GeForce RTX 5070 Eagle OC Ice SFF 12Gb Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 234999,
-          "oldPrice": null,
+          "price": 244999,
+          "oldPrice": 234999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_gigabyte_rtx_5070_eagle_oc_ice_sff_12gb.webp",
@@ -279046,7 +279093,7 @@
             234999,
             234999,
             234999,
-            234999
+            244999
           ]
         },
         {
@@ -279054,8 +279101,8 @@
           "name": "Corsair Vengeance 32GB (2x16GB) 6000MT/s CL38 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Corsair",
           "category": "ram",
-          "price": 109999,
-          "oldPrice": null,
+          "price": 129999,
+          "oldPrice": 109999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_corsair_vengeance_ddr5.jpg",
@@ -279072,7 +279119,7 @@
             109999,
             109999,
             109999,
-            109999
+            129999
           ]
         },
         {
@@ -279184,8 +279231,8 @@
           "name": "MSI GeForce RTX 5050 8GB Gaming OC Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 103499,
-          "oldPrice": null,
+          "price": 109999,
+          "oldPrice": 103499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_msi_rtx_5050_8gb_gaming_oc.webp",
@@ -279202,7 +279249,7 @@
             103499,
             103499,
             103499,
-            103499
+            109999
           ]
         },
         {
@@ -279210,8 +279257,8 @@
           "name": "Asus ProArt Z890-Creator WiFi ATX LGA1851 DDR5 Gaming Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 178499,
-          "oldPrice": null,
+          "price": 174999,
+          "oldPrice": 178499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_asus_proart_z890-creator_wifi.webp",
@@ -279228,7 +279275,7 @@
             178499,
             178499,
             178499,
-            178499
+            174999
           ]
         },
         {
@@ -279574,8 +279621,8 @@
           "name": "Asus Tuf Gaming B850-E WiFi AM5 DDR5 Gaming Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 74999,
-          "oldPrice": null,
+          "price": 68999,
+          "oldPrice": 74999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_asus_ruf_b850-e_wifi.webp",
@@ -279592,7 +279639,7 @@
             74999,
             74999,
             74999,
-            74999
+            68999
           ]
         },
         {
@@ -279600,8 +279647,8 @@
           "name": "Zotac Gaming GeForce RTX 5050 Twin Edge 8GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 94499,
-          "oldPrice": null,
+          "price": 104999,
+          "oldPrice": 94499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_zotac_rtx_5050_twin_edge.jpg",
@@ -279618,7 +279665,7 @@
             94499,
             94499,
             94499,
-            94499
+            104999
           ]
         },
         {
@@ -279633,6 +279680,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_omen_16_wf0032tx_shadow_black.webp",
           "url": "https://rbtechngames.com/product/hp-omen-16-wf0032tx-intel-core-i9-13th-gen-16gb-ram-512gb-ssd-rtx-4060-16-qhd-240hz-ips-display-shadow-black-used",
           "history": [
+            319999,
             319999,
             319999,
             319999
@@ -280579,8 +280627,8 @@
           "name": "Asus TUF Gaming GeForce RTX 5070 Ti 16GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 359999,
-          "oldPrice": 364999,
+          "price": 374999,
+          "oldPrice": 359999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_asus_tuf_gaming_rtx_5070_ti_16gb_oc.webp",
@@ -280597,7 +280645,7 @@
             359999,
             359999,
             359999,
-            359999
+            374999
           ]
         },
         {
@@ -280674,7 +280722,7 @@
             449999,
             449999,
             449999,
-            449999,
+            399999,
             399999
           ]
         },
@@ -280891,8 +280939,8 @@
           "name": "Crucial Pro OC 32GB (2x16GB) 6400MT/s CL38 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Crucial",
           "category": "ram",
-          "price": 104999,
-          "oldPrice": null,
+          "price": 124999,
+          "oldPrice": 104999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_crucial_pro_oc_ddr5_black.png",
@@ -280909,7 +280957,7 @@
             104999,
             104999,
             104999,
-            104999
+            124999
           ]
         },
         {
@@ -280917,8 +280965,8 @@
           "name": "Corsair Vengeance 32GB (2x16GB) 6400MT/s CL36 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Corsair",
           "category": "ram",
-          "price": 114999,
-          "oldPrice": null,
+          "price": 124999,
+          "oldPrice": 114999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_corsair_vengeance_ddr5.jpg",
@@ -280935,7 +280983,7 @@
             114999,
             114999,
             114999,
-            114999
+            124999
           ]
         },
         {
@@ -281047,8 +281095,8 @@
           "name": "Kingston FURY Beast 32GB (2x16GB) 5600MT/s CL40 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Kingston",
           "category": "ram",
-          "price": 104999,
-          "oldPrice": null,
+          "price": 114999,
+          "oldPrice": 104999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_kingston_fury_beast_ddr5.jpg",
@@ -281065,7 +281113,7 @@
             104999,
             104999,
             104999,
-            104999
+            114999
           ]
         },
         {
@@ -281073,8 +281121,8 @@
           "name": "Apacer NOX 32GB (2x16GB) 6000Mhz CL40 DDR5 Ram – Black/White",
           "brand": "Apacer",
           "category": "ram",
-          "price": 107499,
-          "oldPrice": null,
+          "price": 114999,
+          "oldPrice": 107499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_apacer_nox_ddr5_black.png",
@@ -281091,7 +281139,7 @@
             107499,
             107499,
             107499,
-            107499
+            114999
           ]
         },
         {
@@ -281177,8 +281225,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Twin Edge 12GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 208499,
-          "oldPrice": 209999,
+          "price": 224999,
+          "oldPrice": 208499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_zotac_rtx_5070_twin_edge_12gb.jpg",
@@ -281195,7 +281243,7 @@
             208499,
             208499,
             208499,
-            208499
+            224999
           ]
         },
         {
@@ -281203,8 +281251,8 @@
           "name": "PNY GeForce RTX 5060 Ti Overclocked Dual Fan 16GB Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 181999,
-          "oldPrice": null,
+          "price": 214999,
+          "oldPrice": 181999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_pny_rtx_5060_ti_overclocked_dual_fan_16gb.png",
@@ -281221,7 +281269,7 @@
             181999,
             181999,
             181999,
-            181999
+            214999
           ]
         },
         {
@@ -281333,8 +281381,8 @@
           "name": "Kingston Fury Beast 16GB (1x16GB) 4800Mhz CL38 DDR5 Ram &#8211; Black/White",
           "brand": "Kingston",
           "category": "ram",
-          "price": 44999,
-          "oldPrice": null,
+          "price": 50499,
+          "oldPrice": 44999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_kingston_fury_beast_ddr5.jpg",
@@ -281351,7 +281399,7 @@
             44999,
             44999,
             44999,
-            44999
+            50499
           ]
         },
         {
@@ -281463,8 +281511,8 @@
           "name": "Transcend Jetram 16GB (1x16GB) 6400Mhz CL52 CUDIMM DDR5 Ram",
           "brand": "Transcend",
           "category": "ram",
-          "price": 47999,
-          "oldPrice": null,
+          "price": 49999,
+          "oldPrice": 47999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_transcend_jetram_16gb_cudimm.jpg",
@@ -281481,7 +281529,7 @@
             47999,
             47999,
             47999,
-            47999
+            49999
           ]
         },
         {
@@ -281889,6 +281937,7 @@
             154999,
             154999,
             154999,
+            154999,
             154999
           ]
         },
@@ -281923,8 +281972,8 @@
           "name": "Lexar Ares RGB 32GB (2x16GB) 6400MHz CL32 DDR5 Desktop Memory &#8211; Black",
           "brand": "Lexar",
           "category": "ram",
-          "price": 131999,
-          "oldPrice": null,
+          "price": 134999,
+          "oldPrice": 131999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_lexar_ares_rgb_ddr5.webp",
@@ -281941,7 +281990,7 @@
             131999,
             131999,
             131999,
-            131999
+            134999
           ]
         },
         {
@@ -282001,8 +282050,8 @@
           "name": "Gigabyte GeForce RTX 5060 Windforce Max OC 8GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 114999,
-          "oldPrice": null,
+          "price": 134999,
+          "oldPrice": 114999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_gigabyte_rtx_5060_windforce_max_oc_8gb.webp",
@@ -282019,7 +282068,7 @@
             114999,
             114999,
             114999,
-            114999
+            134999
           ]
         },
         {
@@ -282079,8 +282128,8 @@
           "name": "PNY GeForce RTX 5070 ARGB Epic-X RGB OC 12GB Triple Fan Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 214999,
-          "oldPrice": null,
+          "price": 234999,
+          "oldPrice": 214999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_pny_rtx_5070_epic-x_rgb_oc.png",
@@ -282097,7 +282146,7 @@
             214999,
             214999,
             214999,
-            214999
+            234999
           ]
         },
         {
@@ -282198,6 +282247,7 @@
             16499,
             16499,
             16499,
+            16499,
             16499
           ]
         },
@@ -282232,8 +282282,8 @@
           "name": "AMD Ryzen 9 9950X3D Desktop Processor &#8211; Tray",
           "brand": "AMD",
           "category": "cpu",
-          "price": 174999,
-          "oldPrice": null,
+          "price": 164999,
+          "oldPrice": 174999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_amd_ryzen_9_9950x3d.avif",
@@ -282250,7 +282300,7 @@
             174999,
             174999,
             174999,
-            174999
+            164999
           ]
         },
         {
@@ -282258,8 +282308,8 @@
           "name": "XPG Lancer Blade RGB 32GB DDR5 6000MHz CL36 (2x16GB) Desktop Memory",
           "brand": "XPG",
           "category": "ram",
-          "price": 124999,
-          "oldPrice": null,
+          "price": 134999,
+          "oldPrice": 124999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_xpg_lancer_32GB_6000mhz.jpg",
@@ -282276,7 +282326,7 @@
             124999,
             124999,
             124999,
-            124999
+            134999
           ]
         },
         {
@@ -282353,7 +282403,7 @@
             439999,
             439999,
             439999,
-            439999,
+            399999,
             399999
           ]
         },
@@ -282362,8 +282412,8 @@
           "name": "Adata Legend 860 M.2 2280 PCIe Gen 4&#215;4 NVMe SSD &#8211; 500GB/1TB/2TB",
           "brand": "Adata",
           "category": "storage",
-          "price": 34999,
-          "oldPrice": null,
+          "price": 37499,
+          "oldPrice": 34999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_adata_legend_860.png",
@@ -282380,7 +282430,7 @@
             34999,
             34999,
             34999,
-            34999
+            37499
           ]
         },
         {
@@ -282388,8 +282438,8 @@
           "name": "Gigabyte GeForce RTX 5070 Ti Windforce OC SFF 16GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 334999,
-          "oldPrice": 344999,
+          "price": 359999,
+          "oldPrice": 334999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_gigabyte_rtx_5070_ti_windforce_oc_sff_16gb.webp",
@@ -282402,11 +282452,11 @@
             344999,
             344999,
             344999,
-            344999,
             334999,
             334999,
             334999,
-            334999
+            334999,
+            359999
           ]
         },
         {
@@ -282414,8 +282464,8 @@
           "name": "Gigabyte GeForce RTX 5070 Ti Gaming OC 16GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 349999,
-          "oldPrice": null,
+          "price": 359999,
+          "oldPrice": 349999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5070_ti_gaming_oc_16gb.webp",
@@ -282432,7 +282482,7 @@
             349999,
             349999,
             349999,
-            349999
+            359999
           ]
         },
         {
@@ -282440,8 +282490,8 @@
           "name": "Asus Prime GeForce RTX 5070 OC 12GB Graphics Card &#8211; White Edition",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 224999,
-          "oldPrice": null,
+          "price": 244999,
+          "oldPrice": 224999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_asus_prime_rtx_5070_oc_12gb_white_4.png",
@@ -282458,7 +282508,7 @@
             224999,
             224999,
             224999,
-            224999
+            244999
           ]
         },
         {
@@ -282804,8 +282854,8 @@
           "name": "Asus ProArt X870E-Creator WiFi ATX AM5 DDR5 Gaming Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 189999,
-          "oldPrice": null,
+          "price": 184999,
+          "oldPrice": 189999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_asus_proart_x870e-creator_wifi.png",
@@ -282822,7 +282872,7 @@
             189999,
             189999,
             189999,
-            189999
+            184999
           ]
         },
         {
@@ -283246,8 +283296,8 @@
           "name": "Zotac Gaming GeForce RTX 5060 Ti AMP 16GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 189999,
-          "oldPrice": null,
+          "price": 219999,
+          "oldPrice": 189999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_zotac_rtx_5060_ti_amp_16gb.jpg",
@@ -283264,7 +283314,7 @@
             189999,
             189999,
             189999,
-            189999
+            219999
           ]
         },
         {
@@ -283272,8 +283322,8 @@
           "name": "Asus Prime GeForce RTX 5070 Ti 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 339999,
-          "oldPrice": null,
+          "price": 364999,
+          "oldPrice": 339999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_asus_prime_rtx_5070_ti_16gb.png",
@@ -283290,7 +283340,7 @@
             339999,
             339999,
             339999,
-            339999
+            364999
           ]
         },
         {
@@ -283298,8 +283348,8 @@
           "name": "MSI GeForce RTX 5060 Ventus 2X 8GB OC Graphics Card &#8211; Black",
           "brand": "MSI",
           "category": "gpu",
-          "price": 119499,
-          "oldPrice": null,
+          "price": 134999,
+          "oldPrice": 119499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_msi_rtx_5060_ventus_2x_8gb_oc.png",
@@ -283316,7 +283366,7 @@
             119499,
             119499,
             119499,
-            119499
+            134999
           ]
         },
         {
@@ -283584,8 +283634,8 @@
           "name": "Gigabyte GeForce RTX 5070 Windforce 12GB OC SFF Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 214999,
-          "oldPrice": null,
+          "price": 234999,
+          "oldPrice": 214999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_gigabyte_rtx_5070_windforce_oc_sff_12gb.webp",
@@ -283602,7 +283652,7 @@
             214999,
             214999,
             214999,
-            214999
+            234999
           ]
         },
         {
@@ -283636,8 +283686,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Solid OC 12GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 219999,
-          "oldPrice": null,
+          "price": 239499,
+          "oldPrice": 219999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
@@ -283654,7 +283704,7 @@
             219999,
             219999,
             219999,
-            219999
+            239499
           ]
         },
         {
@@ -283662,8 +283712,8 @@
           "name": "Lexar 16GB (1x16GB) 3200MHz DDR4 Memory",
           "brand": "Lexar",
           "category": "ram",
-          "price": 27999,
-          "oldPrice": null,
+          "price": 28499,
+          "oldPrice": 27999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_lexar_16gb.webp",
@@ -283680,7 +283730,7 @@
             27999,
             27999,
             27999,
-            27999
+            28499
           ]
         },
         {
@@ -284390,8 +284440,8 @@
           "name": "Asus Prime B760M-K D4 M-ATX LGA1700 DDR4 Gaming Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 29999,
-          "oldPrice": null,
+          "price": 28499,
+          "oldPrice": 29999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/11/rbtech_asus_prime_b760m-k_d4.png",
@@ -284408,7 +284458,7 @@
             29999,
             29999,
             29999,
-            29999
+            28499
           ]
         },
         {
@@ -284416,7 +284466,7 @@
           "name": "HYTE Keeb TKL RGB Mechanical Gaming Keyboard",
           "brand": "HYTE",
           "category": "keyboard",
-          "price": 29999,
+          "price": 24999,
           "oldPrice": 34999,
           "inStock": true,
           "lowStock": false,
@@ -284434,7 +284484,7 @@
             29999,
             29999,
             29999,
-            29999
+            24999
           ]
         },
         {
@@ -285155,6 +285205,7 @@
             39499,
             39499,
             39499,
+            39499,
             39499
           ]
         },
@@ -285345,8 +285396,8 @@
           "name": "XPG GAMMIX S70 BLADE PCIe Gen4x4 M.2 2280 SSD &#8211; 512GB/1TB/2TB/4TB",
           "brand": "XPG",
           "category": "storage",
-          "price": 41999,
-          "oldPrice": null,
+          "price": 47499,
+          "oldPrice": 41999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/xpg_s70blade_1.webp",
@@ -285363,7 +285414,7 @@
             41999,
             41999,
             41999,
-            41999
+            47499
           ]
         },
         {
@@ -285371,8 +285422,8 @@
           "name": "Adata 16GB (1x16GB) 5600MHz C46 DDR5 U-DIMM Desktop Memory",
           "brand": "Adata",
           "category": "ram",
-          "price": 50999,
-          "oldPrice": null,
+          "price": 52499,
+          "oldPrice": 50999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_adata_ddr5_16gb_5600mhz_2.jpg",
@@ -285389,7 +285440,7 @@
             50999,
             50999,
             50999,
-            50999
+            52499
           ]
         },
         {
@@ -285501,8 +285552,8 @@
           "name": "Transcend JetRam 16GB (16GBx1) 5600MHZ CL46 DDR5",
           "brand": "Transcend",
           "category": "ram",
-          "price": 50999,
-          "oldPrice": null,
+          "price": 52499,
+          "oldPrice": 50999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/12/rbtech_transcend_jetram_8GB_ddr5_4800mhz.jpg",
@@ -285519,7 +285570,7 @@
             50999,
             50999,
             50999,
-            50999
+            52499
           ]
         },
         {
@@ -285787,8 +285838,8 @@
           "name": "ADATA SU650 1TB 2.5&#8243; SATA III 3D NAND Internal Solid State Drive (SSD)",
           "brand": "ADATA",
           "category": "storage",
-          "price": 33499,
-          "oldPrice": null,
+          "price": 39999,
+          "oldPrice": 33499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/10/rbtech_adata_su650_1TB.png",
@@ -285805,7 +285856,7 @@
             33499,
             33499,
             33499,
-            33499
+            39999
           ]
         },
         {
@@ -286177,8 +286228,8 @@
           "name": "Corsair VENGEANCE RGB 32GB (2x16GB) DDR5 DRAM 6000MT/s C36 Memory Kit &#8211; Black",
           "brand": "Corsair",
           "category": "ram",
-          "price": 114999,
-          "oldPrice": null,
+          "price": 124999,
+          "oldPrice": 114999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2022/11/corsair_ddr5.jpg",
@@ -286195,7 +286246,7 @@
             114999,
             114999,
             114999,
-            114999
+            124999
           ]
         },
         {
@@ -286563,6 +286614,32 @@
           ]
         },
         {
+          "id": "rbtechgames_d02eef0f",
+          "name": "SteelSeries QcK Edge Cloth Gaming Mouse Pad &#8211; Large",
+          "brand": "SteelSeries",
+          "category": "mouse",
+          "price": 5300,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_mini.jpg",
+          "url": "https://rbtechngames.com/product/steelseries-qck-edge-cloth-gaming-mouse-pad-large",
+          "history": [
+            5300,
+            5300,
+            5300,
+            5300,
+            5300,
+            5300,
+            5300,
+            5300,
+            5300,
+            5300,
+            5300,
+            5300
+          ]
+        },
+        {
           "id": "rbtechgames_10f40b50",
           "name": "Glorious Model D RGB Gaming Mouse – Matte Black",
           "brand": "Glorious",
@@ -286593,8 +286670,8 @@
           "name": "ADATA 16GB (1&#215;16) DDR4 3200MHz Premier Desktop Memory Stick",
           "brand": "ADATA",
           "category": "ram",
-          "price": 27999,
-          "oldPrice": null,
+          "price": 28499,
+          "oldPrice": 27999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2021/02/adata_2666.jpg",
@@ -286611,7 +286688,7 @@
             27999,
             27999,
             27999,
-            27999
+            28499
           ]
         },
         {
