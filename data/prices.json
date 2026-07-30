@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T02:21:48.595992+00:00",
+  "lastUpdated": "2026-07-30T08:25:21.502712+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w46-charm-bt-headset-brown-price-in-pakistan-pakbyte.webp?v=1785252928",
           "url": "https://www.pakbyte.pk/products/hoco-w46-charm-wireless-bt-headset-gray",
           "history": [
+            2790,
             2790,
             2790,
             2790,
@@ -11005,8 +11006,8 @@
           "name": "PNY GeForce RTX 5070 12GB GDDR7 Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 224990,
-          "oldPrice": null,
+          "price": 234990,
+          "oldPrice": 224990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/PNY-GeForce-RTX-5070-ARGB-EPIC-X-RGB-OC-Triple-Fan-Graphics-Card-Price-in-Pakistan-Pakbyte.jpg?v=1776352198",
@@ -11023,7 +11024,7 @@
             224990,
             224990,
             224990,
-            224990
+            234990
           ]
         },
         {
@@ -144547,6 +144548,7 @@
           "url": "https://zahcomputers.pk/product/colorful-battle-ax-b450m-t-m-2-v14-amd-b450-micro-atx-motherboard",
           "history": [
             2299900,
+            2299900,
             2299900
           ]
         },
@@ -144562,6 +144564,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-HE68-PRO-MK922-RETRO-Beige.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-he68-pro-mk922-retro-beige-wireless-magnetic-gaming-keyboard-emerald-switch",
           "history": [
+            1400000,
             1400000,
             1400000,
             1400000
@@ -144581,6 +144584,7 @@
           "history": [
             44000000,
             44000000,
+            44000000,
             44000000
           ]
         },
@@ -144598,6 +144602,7 @@
           "history": [
             46799900,
             46799900,
+            46799900,
             46799900
           ]
         },
@@ -144613,6 +144618,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-VALOR-II-MH89-Multi-Platform-Wired-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/fantech-valor-ii-mh89-multi-platform-wired-gaming-headset-white",
           "history": [
+            420000,
             420000,
             420000,
             420000,
@@ -144638,6 +144644,7 @@
             700000,
             700000,
             700000,
+            700000,
             700000
           ]
         },
@@ -144653,6 +144660,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ORBIT-HG25-RGB-7.1-Virtual-Surround.jpg",
           "url": "https://zahcomputers.pk/product/fantech-orbit-hg25-rgb-7-1-virtual-surround-sound-wired-gaming-headset",
           "history": [
+            430000,
             430000,
             430000,
             430000,
@@ -144678,6 +144686,7 @@
             260000,
             260000,
             260000,
+            260000,
             260000
           ]
         },
@@ -144693,6 +144702,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-FLASH-HQ53-Wired-RGB-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/fantech-flash-hq53-wired-rgb-gaming-headset-white",
           "history": [
+            400000,
             400000,
             400000,
             400000,
@@ -144718,6 +144728,7 @@
             1400000,
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -144738,6 +144749,7 @@
             3399900,
             3399900,
             3399900,
+            3399900,
             3399900
           ]
         },
@@ -144753,6 +144765,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Dell-L-108-RGB-Wired-Gaming-Keyboard.jpg",
           "url": "https://zahcomputers.pk/product/dell-l-108-rgb-wired-gaming-keyboard",
           "history": [
+            500000,
             500000,
             500000,
             500000,
@@ -144780,6 +144793,7 @@
             600000,
             600000,
             600000,
+            600000,
             600000
           ]
         },
@@ -144801,6 +144815,7 @@
             6500000,
             6500000,
             6500000,
+            6500000,
             6500000
           ]
         },
@@ -144816,6 +144831,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-HE68-PRO-MK922-TOPO-Edition-Wireless-Magnetic-Gaming-Keyboard-Emerald-Switch.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-he68-pro-mk922-topo-edition-wireless-magnetic-gaming-keyboard-emerald-switch",
           "history": [
+            1400000,
             1400000,
             1400000,
             1400000,
@@ -144849,6 +144865,7 @@
             1400000,
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -144873,6 +144890,7 @@
             990000,
             990000,
             990000,
+            990000,
             990000
           ]
         },
@@ -144888,6 +144906,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ATOM-X66-MK614-Beige.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x66-mk614-mechanical-gaming-keyboard-ice-apricot-switch-retro-beige",
           "history": [
+            850000,
             850000,
             850000,
             850000,
@@ -144923,6 +144942,7 @@
             850000,
             850000,
             850000,
+            850000,
             850000
           ]
         },
@@ -144938,6 +144958,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X83-MK612-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x83-mk612-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
           "history": [
+            800000,
             800000,
             800000,
             800000,
@@ -144973,6 +144994,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -144988,6 +145010,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM-X63-MK611-AME-Edition-Mechanical-Gaming-Keyboard-Taro-Switch-–-White.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom-x63-mk611-ame-edition-mechanical-gaming-keyboard-taro-switch-white",
           "history": [
+            750000,
             750000,
             750000,
             750000,
@@ -145023,6 +145046,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -145038,6 +145062,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Fantech-ATOM81-MK875V2-MIZU-Navy-Blue.jpg",
           "url": "https://zahcomputers.pk/product/fantech-atom81-mk875v2-mizu-series-mechanical-gaming-keyboard-taro-switch-navy-blue",
           "history": [
+            750000,
             750000,
             750000,
             750000,
@@ -145073,6 +145098,7 @@
             640000,
             640000,
             640000,
+            640000,
             640000
           ]
         },
@@ -145088,6 +145114,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-ThinkPad-E14-Gen-4-Intel-Core-i5-1235U-16GB-2x-8GB-DDR4-3200-512-GB-SSD-PCIe-14-FHD-Intel®-Iris®-Xe-Graphics-NO-OS-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-thinkpad-e14-gen-7-business-laptop",
           "history": [
+            31500000,
             31500000,
             31500000,
             31500000,
@@ -145217,7 +145244,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-LOQ-15IRX9-Intel®-Core™-i7-13650HX-24GB-SO-DIMM-DDR5-4800-2x12GB-512GB-SSD-M.2-2242-PCIe®-4.0x4-NVMe-15.6-FHD-1920x1080-IPS-300nits-Anti-glare-100-sRGB-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-loq-15irx9-gaming-laptop-13th-gen-core-i7-13650hx-16gb-ddr5-512tb-ssd-nvidia-rtx-4050-6gb-graphics-15-6-fhd-ips-144hz-dos-luna-grey",
           "history": [
-            34500000,
+            34000000,
             34000000,
             34000000,
             34000000,
@@ -145269,7 +145296,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Lenovo-LOQ-15-Gaming-Laptop-13th-Gen-Core-i5-13450HX-16GB-DDR5-512GB-SSD-NVIDIA-RTX-5050-8GB-Graphics-15.6-FHD-IPS-144Hz-DOS-Luna-Gray-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-loq-15-gaming-laptop",
           "history": [
-            31000000,
+            30500000,
             30500000,
             30500000,
             30500000,
@@ -145893,6 +145920,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-IdeaPad-Slim-3-15IRH10R-83K4000RUS-Laptop.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-ideapad-slim-3-15irh10r-83k4000rus-laptop",
           "history": [
+            22000000,
             22000000,
             22000000,
             22000000
@@ -147626,7 +147654,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/XPG-Spectrix-D35G-RGB-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-cl16-ddr4-dram-desktop-memory-black",
           "history": [
-            6049900,
+            6499900,
             6499900,
             6499900,
             6499900,
@@ -150148,7 +150176,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/XPG-Spectrix-D35G-RGB-White-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-32gb-2x16gb-3200mhz-cl16-ddr4-dram-desktop-memory-white",
           "history": [
-            6049900,
+            6499900,
             6499900,
             6499900,
             6499900,
@@ -150702,7 +150730,7 @@
             32500000,
             32500000,
             32500000,
-            32500000,
+            33500000,
             33500000,
             33500000,
             33500000
@@ -150780,7 +150808,7 @@
             18500000,
             18500000,
             18500000,
-            18500000,
+            20600000,
             20600000,
             20600000,
             20600000
@@ -152678,7 +152706,7 @@
             12649900,
             12649900,
             12649900,
-            12649900,
+            13400000,
             13400000,
             13400000,
             13400000
@@ -153328,7 +153356,7 @@
             42500000,
             42500000,
             42500000,
-            42500000,
+            46000000,
             46000000,
             46000000,
             46000000
@@ -153354,7 +153382,7 @@
             40500000,
             40500000,
             40500000,
-            40500000,
+            39099900,
             39099900,
             39099900,
             39099900
@@ -153380,7 +153408,7 @@
             38000000,
             38000000,
             38000000,
-            38000000,
+            39399900,
             39399900,
             39399900,
             39399900
@@ -153406,7 +153434,7 @@
             38000000,
             38000000,
             38000000,
-            38000000,
+            39099900,
             39099900,
             39099900,
             39099900
@@ -153484,7 +153512,7 @@
             25000000,
             25000000,
             25000000,
-            25000000,
+            27849900,
             27849900,
             27849900,
             27849900
@@ -153562,7 +153590,7 @@
             43750000,
             43750000,
             43750000,
-            43750000,
+            42599900,
             42599900,
             42599900,
             42599900
@@ -153848,7 +153876,7 @@
             12600000,
             12600000,
             12600000,
-            12600000,
+            13600000,
             13600000,
             13600000,
             13600000
@@ -156656,7 +156684,7 @@
             29160000,
             29160000,
             29160000,
-            29160000,
+            27849900,
             27849900,
             27849900,
             27849900
@@ -156682,7 +156710,7 @@
             26460000,
             26460000,
             26460000,
-            26460000,
+            24899900,
             24899900,
             24899900,
             24899900
@@ -156786,7 +156814,7 @@
             42500000,
             42500000,
             42500000,
-            42500000,
+            47299900,
             47299900,
             47299900,
             47299900
@@ -156838,7 +156866,7 @@
             38000000,
             38000000,
             38000000,
-            38000000,
+            39099900,
             39099900,
             39099900,
             39099900
@@ -159222,7 +159250,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-VH500C-Virtual-7.1-Channels-Gaming-Headset-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/rapoo-vh500c-virtual-7-1-channels-gaming-headset-black",
           "history": [
-            489500,
+            589500,
             589500,
             589500,
             589500,
@@ -168379,10 +168407,10 @@
             12300000,
             12300000,
             12300000,
-            12300000,
             12500000,
             12500000,
             12500000,
+            13200000,
             13200000,
             13200000,
             13200000
@@ -174354,7 +174382,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/XPG-Spectrix-D35G-RGB-White-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-16gb-2x8gb-3200mhz-c18-ddr4-dram-desktop-memory-white",
           "history": [
-            3799900,
+            4400000,
             4400000,
             4400000,
             4400000,
@@ -174380,7 +174408,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/XPG-Spectrix-D35G-RGB-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/xpg-spectrix-d35g-rgb-16gb-2x8gb-3200mhz-c18-ddr4-dram-desktop-memory-black",
           "history": [
-            3799900,
+            4400000,
             4400000,
             4400000,
             4400000,
@@ -179197,7 +179225,7 @@
             7900000,
             7900000,
             7900000,
-            7900000,
+            8200000,
             8200000,
             8200000,
             8200000,
@@ -180446,8 +180474,8 @@
             36000000,
             36000000,
             36000000,
-            36000000,
             37800000,
+            38500000,
             38500000,
             38500000
           ]
@@ -180473,7 +180501,7 @@
             25500000,
             25500000,
             25500000,
-            25500000,
+            26800000,
             26800000,
             26800000
           ]
@@ -180802,7 +180830,6 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ZOTAC-GAMING-GeForce-RTX-5060-Ti-Twin-Edge-OC-16GB-GDDR7-Graphics-Card-–-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-16gb-gddr7-graphics-card-white",
           "history": [
-            20500000,
             19500000,
             19500000,
             19500000,
@@ -180811,6 +180838,7 @@
             19500000,
             19500000,
             19500000,
+            21500000,
             21500000,
             21500000,
             21500000
@@ -183827,7 +183855,7 @@
             33000000,
             33000000,
             33000000,
-            33000000,
+            35500000,
             35500000,
             35500000
           ]
@@ -185308,7 +185336,7 @@
             27000000,
             27000000,
             27000000,
-            27000000,
+            30000000,
             30000000,
             30000000,
             30000000
@@ -185438,7 +185466,7 @@
             43750000,
             43750000,
             43750000,
-            43750000,
+            42599900,
             42599900,
             42599900,
             42599900
@@ -190092,7 +190120,7 @@
             12649900,
             12649900,
             12649900,
-            12649900,
+            13899900,
             13899900,
             13899900,
             13899900
@@ -190118,7 +190146,7 @@
             12299900,
             12299900,
             12299900,
-            12299900,
+            13499900,
             13499900,
             13499900,
             13499900
@@ -190144,7 +190172,7 @@
             11899900,
             11899900,
             11899900,
-            11899900,
+            13499900,
             13499900,
             13499900,
             13499900
@@ -190344,7 +190372,6 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ZOTAC-GAMING-GeForce-Twin-Edge-RTX-5060-8GB-128-bit-28-GDDR7-PCI-Express-5.0-x8-DLSS-4-Graphics-Card-Price-in-pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-twin-edge-rtx-5060-8gb-128-bit-28-gddr7-pci-express-5-0-x8-dlss-4-graphics-card",
           "history": [
-            11400000,
             11900000,
             11900000,
             11900000,
@@ -190353,6 +190380,7 @@
             11900000,
             11900000,
             11900000,
+            12500000,
             12500000,
             12500000,
             12500000
@@ -193238,7 +193266,7 @@
             43750000,
             43750000,
             43750000,
-            43750000,
+            42599900,
             42599900,
             42599900,
             42599900
@@ -196558,7 +196586,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/ZOTAC-GAMING-GeForce-Twin-Edge-OC-RTX-5060-Ti.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-twin-edge-oc-rtx-5060-ti-8gb-128-bit-gddr7-pci-express-5-0-x8-dlss-4-0-graphics-card",
           "history": [
-            14800000,
+            14000000,
             14000000,
             14000000,
             14000000,
@@ -200466,7 +200494,7 @@
             43740000,
             43740000,
             43740000,
-            43740000,
+            42599900,
             42599900,
             42599900,
             42599900
@@ -212400,7 +212428,7 @@
             3800000,
             3800000,
             3800000,
-            3800000,
+            3465000,
             3465000,
             3465000,
             3465000
@@ -220248,7 +220276,7 @@
             5999900,
             5999900,
             5999900,
-            5999900,
+            6500000,
             6500000,
             6500000,
             6500000,
@@ -228338,7 +228366,7 @@
             37800000,
             37800000,
             37800000,
-            37800000,
+            36750000,
             36750000,
             36750000,
             36750000
@@ -237383,7 +237411,7 @@
             1050000,
             1050000,
             1050000,
-            1050000,
+            1100000,
             1100000,
             1100000,
             1100000,
@@ -241598,7 +241626,7 @@
             40500000,
             40500000,
             40500000,
-            40500000,
+            39399900,
             39399900,
             39399900,
             39399900
@@ -264475,7 +264503,7 @@
             450000,
             450000,
             450000,
-            450000,
+            500000,
             500000,
             500000,
             500000,
@@ -277526,6 +277554,7 @@
             119999,
             119999,
             119999,
+            119999,
             119999
           ]
         },
@@ -277567,6 +277596,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_zephrus_g14_ga403_platinum_white.png",
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g16-2024-ga605wv-amd-ryzen-ai-9-370-32gb-ram-1tb-ssd-rtx-4060-16-qhd-240hz-oled-display-platinum-white-new",
           "history": [
+            534999,
             534999,
             534999,
             534999,
@@ -277674,6 +277704,7 @@
             214999,
             214999,
             214999,
+            214999,
             214999
           ]
         },
@@ -277699,6 +277730,7 @@
             389999,
             389999,
             389999,
+            389999,
             389999
           ]
         },
@@ -277714,6 +277746,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_v_16_ai.webp",
           "url": "https://rbtechngames.com/product/acer-nitro-v-16s-ai-anv16s-41-r9sv-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-180hz-ips-display-obsidian-black-new",
           "history": [
+            374999,
             374999,
             374999,
             374999,
@@ -277804,8 +277837,8 @@
           ]
         },
         {
-          "id": "rbtechgames_0c44d1fc",
-          "name": "Lenovo ThinkPad X1 Carbon Gen 8, Intel i7 10th Gen, 16GB RAM, 512GB SSD, 14.0″ QHD, IPS Di",
+          "id": "rbtechgames_f3d5d266",
+          "name": "Lenovo ThinkPad X1 Carbon Gen 8, Intel i7 10th Gen, 16GB RAM, 512GB SSD, 14.0″ FHD, IPS Di",
           "brand": "Intel",
           "category": "ram",
           "price": 84999,
@@ -277815,17 +277848,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_thinkpad_x1_carbon_gen_8_1.webp",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-x1-carbon-gen-8-intel-i7-10th-gen-16gb-ram-512gb-ssd-14-0%e2%80%b3-qhd-ips-display-matte-black-used",
           "history": [
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
             84999
           ]
         },
@@ -277928,7 +277950,7 @@
             287999,
             287999,
             287999,
-            287999,
+            292499,
             292499,
             292499
           ]
@@ -277954,7 +277976,7 @@
             48499,
             48499,
             48499,
-            48499,
+            47999,
             47999,
             47999
           ]
@@ -278058,7 +278080,7 @@
             31999,
             31999,
             31999,
-            31999,
+            29999,
             29999,
             29999
           ]
@@ -278344,7 +278366,7 @@
             129999,
             129999,
             129999,
-            129999,
+            144999,
             144999,
             144999
           ]
@@ -279124,7 +279146,7 @@
             234999,
             234999,
             234999,
-            234999,
+            244999,
             244999,
             244999
           ]
@@ -279150,7 +279172,7 @@
             109999,
             109999,
             109999,
-            109999,
+            129999,
             129999,
             129999
           ]
@@ -279280,7 +279302,7 @@
             103499,
             103499,
             103499,
-            103499,
+            109999,
             109999,
             109999
           ]
@@ -279306,7 +279328,7 @@
             178499,
             178499,
             178499,
-            178499,
+            174999,
             174999,
             174999
           ]
@@ -279670,7 +279692,7 @@
             74999,
             74999,
             74999,
-            74999,
+            68999,
             68999,
             68999
           ]
@@ -279696,7 +279718,7 @@
             94499,
             94499,
             94499,
-            94499,
+            104999,
             104999,
             104999
           ]
@@ -279713,6 +279735,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_omen_16_wf0032tx_shadow_black.webp",
           "url": "https://rbtechngames.com/product/hp-omen-16-wf0032tx-intel-core-i9-13th-gen-16gb-ram-512gb-ssd-rtx-4060-16-qhd-240hz-ips-display-shadow-black-used",
           "history": [
+            319999,
             319999,
             319999,
             319999,
@@ -280677,7 +280700,7 @@
             359999,
             359999,
             359999,
-            359999,
+            374999,
             374999,
             374999
           ]
@@ -280754,7 +280777,7 @@
             449999,
             449999,
             449999,
-            449999,
+            399999,
             399999,
             399999,
             399999
@@ -280989,7 +281012,7 @@
             104999,
             104999,
             104999,
-            104999,
+            124999,
             124999,
             124999
           ]
@@ -281015,7 +281038,7 @@
             114999,
             114999,
             114999,
-            114999,
+            124999,
             124999,
             124999
           ]
@@ -281145,7 +281168,7 @@
             104999,
             104999,
             104999,
-            104999,
+            114999,
             114999,
             114999
           ]
@@ -281171,7 +281194,7 @@
             107499,
             107499,
             107499,
-            107499,
+            114999,
             114999,
             114999
           ]
@@ -281275,7 +281298,7 @@
             208499,
             208499,
             208499,
-            208499,
+            224999,
             224999,
             224999
           ]
@@ -281301,7 +281324,7 @@
             181999,
             181999,
             181999,
-            181999,
+            214999,
             214999,
             214999
           ]
@@ -281431,7 +281454,7 @@
             44999,
             44999,
             44999,
-            44999,
+            50499,
             50499,
             50499
           ]
@@ -281561,7 +281584,7 @@
             47999,
             47999,
             47999,
-            47999,
+            49999,
             49999,
             49999
           ]
@@ -281973,6 +281996,7 @@
             154999,
             154999,
             154999,
+            154999,
             154999
           ]
         },
@@ -282023,7 +282047,7 @@
             131999,
             131999,
             131999,
-            131999,
+            134999,
             134999,
             134999
           ]
@@ -282101,35 +282125,9 @@
             114999,
             114999,
             114999,
-            114999,
+            134999,
             134999,
             134999
-          ]
-        },
-        {
-          "id": "rbtechgames_fcd9ead2",
-          "name": "UGREEN 45792 Wireless Mouse",
-          "brand": "UGREEN",
-          "category": "mouse",
-          "price": 5499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_ugreen_45792.webp",
-          "url": "https://rbtechngames.com/product/ugreen-45792-wireless-mouse",
-          "history": [
-            5499,
-            5499,
-            5499,
-            5499,
-            5499,
-            5499,
-            5499,
-            5499,
-            5499,
-            5499,
-            5499,
-            5499
           ]
         },
         {
@@ -282179,7 +282177,7 @@
             214999,
             214999,
             214999,
-            214999,
+            234999,
             234999,
             234999
           ]
@@ -282284,6 +282282,7 @@
             16499,
             16499,
             16499,
+            16499,
             16499
           ]
         },
@@ -282334,7 +282333,7 @@
             174999,
             174999,
             174999,
-            174999,
+            164999,
             164999,
             164999
           ]
@@ -282360,7 +282359,7 @@
             124999,
             124999,
             124999,
-            124999,
+            134999,
             134999,
             134999
           ]
@@ -282418,6 +282417,21 @@
           ]
         },
         {
+          "id": "rbtechgames_41717f7c",
+          "name": "Asus ROG Strix GeForce RTX 5070 Ti 16GB OC Graphics Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 399999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_asus_rog_strix_rtx_5070_ti_16gb_oc.png",
+          "url": "https://rbtechngames.com/product/asus-rog-strix-geforce-rtx-5070-ti-16gb-oc-graphics-card",
+          "history": [
+            399999
+          ]
+        },
+        {
           "id": "rbtechgames_bc53e69d",
           "name": "ASUS TUF Gaming A16 (FA608UM-QT043), AMD Ryzen 7 260, 16GB RAM, 512GB SSD, RTX 5060 8GB, 1",
           "brand": "ASUS",
@@ -282437,7 +282451,7 @@
             439999,
             439999,
             439999,
-            439999,
+            399999,
             399999,
             399999,
             399999
@@ -282464,7 +282478,7 @@
             34999,
             34999,
             34999,
-            34999,
+            37499,
             37499,
             37499
           ]
@@ -282486,11 +282500,11 @@
             344999,
             344999,
             344999,
-            344999,
             334999,
             334999,
             334999,
             334999,
+            359999,
             359999,
             359999
           ]
@@ -282516,7 +282530,7 @@
             349999,
             349999,
             349999,
-            349999,
+            359999,
             359999,
             359999
           ]
@@ -282542,7 +282556,7 @@
             224999,
             224999,
             224999,
-            224999,
+            244999,
             244999,
             244999
           ]
@@ -282906,7 +282920,7 @@
             189999,
             189999,
             189999,
-            189999,
+            184999,
             184999,
             184999
           ]
@@ -283348,7 +283362,7 @@
             189999,
             189999,
             189999,
-            189999,
+            219999,
             219999,
             219999
           ]
@@ -283374,7 +283388,7 @@
             339999,
             339999,
             339999,
-            339999,
+            364999,
             364999,
             364999
           ]
@@ -283400,7 +283414,7 @@
             119499,
             119499,
             119499,
-            119499,
+            134999,
             134999,
             134999
           ]
@@ -283614,32 +283628,6 @@
           ]
         },
         {
-          "id": "rbtechgames_c991e494",
-          "name": "Samsung 990 EVO Plus NVMe M.2 Gen 4 SSD &#8211; 1TB/2TB/4TB",
-          "brand": "Samsung",
-          "category": "storage",
-          "price": 72999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_samsung_990_evo_plus_1tb.webp",
-          "url": "https://rbtechngames.com/product/samsung-990-evo-plus-nvme-m-2-gen-4-ssd-1tb-2tb-4tb",
-          "history": [
-            72999,
-            72999,
-            72999,
-            72999,
-            72999,
-            72999,
-            72999,
-            72999,
-            72999,
-            72999,
-            72999,
-            72999
-          ]
-        },
-        {
           "id": "rbtechgames_f169efc4",
           "name": "WD Blue SN5000 NVMe Gen 4 SSD &#8211; 500GB/1TB/2TB/4TB",
           "brand": "WD",
@@ -283686,7 +283674,7 @@
             214999,
             214999,
             214999,
-            214999,
+            234999,
             234999,
             234999
           ]
@@ -283738,7 +283726,7 @@
             219999,
             219999,
             219999,
-            219999,
+            239499,
             239499,
             239499
           ]
@@ -283764,7 +283752,7 @@
             27999,
             27999,
             27999,
-            27999,
+            28499,
             28499,
             28499
           ]
@@ -284492,7 +284480,7 @@
             29999,
             29999,
             29999,
-            29999,
+            28499,
             28499,
             28499
           ]
@@ -284518,7 +284506,7 @@
             29999,
             29999,
             29999,
-            29999,
+            24999,
             24999,
             24999
           ]
@@ -285243,6 +285231,7 @@
             39499,
             39499,
             39499,
+            39499,
             39499
           ]
         },
@@ -285449,7 +285438,7 @@
             41999,
             41999,
             41999,
-            41999,
+            47499,
             47499,
             47499
           ]
@@ -285475,7 +285464,7 @@
             50999,
             50999,
             50999,
-            50999,
+            52499,
             52499,
             52499
           ]
@@ -285605,7 +285594,7 @@
             50999,
             50999,
             50999,
-            50999,
+            52499,
             52499,
             52499
           ]
@@ -285891,7 +285880,7 @@
             33499,
             33499,
             33499,
-            33499,
+            39999,
             39999,
             39999
           ]
@@ -286281,7 +286270,7 @@
             114999,
             114999,
             114999,
-            114999,
+            124999,
             124999,
             124999
           ]
@@ -286723,7 +286712,7 @@
             27999,
             27999,
             27999,
-            27999,
+            28499,
             28499,
             28499
           ]
@@ -286778,32 +286767,6 @@
             13499,
             13499,
             13499
-          ]
-        },
-        {
-          "id": "rbtechgames_7c02565e",
-          "name": "Patriot P210 2.5&#8243; 512GB SATA III Internal Solid State Drive (SSD)",
-          "brand": "Patriot",
-          "category": "storage",
-          "price": 19999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/02/patriot_512gb_2.jpg",
-          "url": "https://rbtechngames.com/product/patriot-p210-2-5-512gb-sata-iii-internal-solid-state-drive-ssd",
-          "history": [
-            19999,
-            19999,
-            19999,
-            19999,
-            19999,
-            19999,
-            19999,
-            19999,
-            19999,
-            19999,
-            19999,
-            19999
           ]
         },
         {
