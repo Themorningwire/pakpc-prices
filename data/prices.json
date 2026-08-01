@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T13:18:36.354233+00:00",
+  "lastUpdated": "2026-08-01T19:06:16.587269+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -25,6 +25,7 @@
             13990,
             13990,
             13990,
+            13990,
             13990
           ]
         },
@@ -40,6 +41,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-nova75-price-in-pakistan-pakbyte_1_51b5bd64-8cfd-41ad-8252-9dcfa9e64d13.webp?v=1785481285",
           "url": "https://www.pakbyte.pk/products/aula-nova75-mechanical-gaming-keyboard-white-grey",
           "history": [
+            18890,
             18890,
             18890,
             18890,
@@ -65,6 +67,7 @@
             17990,
             17990,
             17990,
+            17990,
             17990
           ]
         },
@@ -80,6 +83,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rtx-5070-ti-16gb-epic-x-rgb-plus-gpu-price-in-pakistan-pakbyte.webp?v=1785473720",
           "url": "https://www.pakbyte.pk/products/pny-geforce-rtx-5070-ti-16gb-epic-x-rgb-plus-oc-graphics-card",
           "history": [
+            349990,
             349990,
             349990,
             349990,
@@ -1223,7 +1227,7 @@
             279990,
             279990,
             279990,
-            279990,
+            244990,
             244990,
             244990,
             244990,
@@ -1472,7 +1476,7 @@
           "brand": "Patriot",
           "category": "ram",
           "price": 132999,
-          "oldPrice": 110999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/patriot-viper-venom-32gb-16gbx2-rgb-memory-kit-cl30-price-in-pakistan-pakbyte1.jpg?v=1784637713",
@@ -1488,7 +1492,7 @@
             110999,
             110999,
             110999,
-            110999,
+            132999,
             132999
           ]
         },
@@ -5384,7 +5388,7 @@
             8290,
             8290,
             8290,
-            8290,
+            9499,
             9499,
             9499,
             9499,
@@ -9387,7 +9391,7 @@
             20990,
             20990,
             20990,
-            20990,
+            18990,
             18990,
             18990,
             18990,
@@ -9855,7 +9859,7 @@
             528990,
             528990,
             528990,
-            528990,
+            469990,
             469990,
             469990,
             469990,
@@ -10453,7 +10457,7 @@
             399990,
             399990,
             399990,
-            399990,
+            389990,
             389990,
             389990,
             389990,
@@ -11099,7 +11103,7 @@
           "url": "https://www.pakbyte.pk/products/pny-geforce-rtx-5070-12gb-gddr7-graphics-card",
           "history": [
             224990,
-            224990,
+            234990,
             234990,
             234990,
             234990,
@@ -11155,7 +11159,7 @@
             496990,
             496990,
             496990,
-            496990,
+            443990,
             443990,
             443990,
             443990,
@@ -41991,7 +41995,7 @@
             547999,
             547999,
             547999,
-            547999,
+            549990,
             549990,
             549990,
             549990,
@@ -45836,7 +45840,7 @@
           "history": [
             230990,
             230990,
-            230990,
+            227990,
             227990,
             227990,
             227990,
@@ -144633,7 +144637,23 @@
           "url": "https://zahcomputers.pk/product/asus-proart-geforce-rtx-5080-16gb-gddr7-graphics-card",
           "history": [
             46000000,
+            46000000,
             46000000
+          ]
+        },
+        {
+          "id": "zah_ed2aef35",
+          "name": "ASUS Vivobook S16 OLED M5606WA-IS99 Copilot+ PC | AMD Ryzen AI 9 365 | 32GB LPDDR5X | 1TB ",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 37000000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-Vivobook-S16-OLED-M5606WA-IS99-Copilot-PC.jpg",
+          "url": "https://zahcomputers.pk/product/asus-vivobook-s16-oled-m5606wa-is99-copilot",
+          "history": [
+            37000000
           ]
         },
         {
@@ -144648,6 +144668,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-WARE-310-ARGB-Mid-Tower-Gaming-PC-Case-Black.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-ware-310-argb-mid-tower-gaming-pc-case-black",
           "history": [
+            1250000,
             1250000,
             1250000,
             1250000,
@@ -144677,6 +144698,7 @@
             1300000,
             1300000,
             1300000,
+            1300000,
             1300000
           ]
         },
@@ -144692,6 +144714,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-WARE-510-ARGB-Mid-Tower-Gaming-PC-Case-Black.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-ware-510-argb-mid-tower-gaming-pc-case-black",
           "history": [
+            1450000,
             1450000,
             1450000,
             1450000,
@@ -144721,6 +144744,7 @@
             1500000,
             1500000,
             1500000,
+            1500000,
             1500000
           ]
         },
@@ -144736,6 +144760,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-VIEW-500-ARGB-Micro-ATX-Gaming-PC-Case-Black.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-view-500-argb-micro-atx-gaming-pc-case-black",
           "history": [
+            1350000,
             1350000,
             1350000,
             1350000,
@@ -144765,6 +144790,7 @@
             1400000,
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -144787,6 +144813,7 @@
             1650000,
             1650000,
             1650000,
+            1650000,
             1650000
           ]
         },
@@ -144802,6 +144829,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-VIEW-510-ARGB-ATX-Mid-Tower-PC-Case-White.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-view-510-argb-atx-mid-tower-pc-case-white",
           "history": [
+            1700000,
             1700000,
             1700000,
             1700000,
@@ -144832,6 +144860,7 @@
             1599900,
             1599900,
             1599900,
+            1599900,
             1599900
           ]
         },
@@ -144847,6 +144876,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-FLOW-500-AIR-Micro-ATX-Mini-Tower-PC-Case-White.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-flow-500-air-micro-atx-mini-tower-pc-case-white",
           "history": [
+            1679900,
             1679900,
             1679900,
             1679900,
@@ -146347,7 +146377,7 @@
           "category": "ram",
           "price": 27000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-IdeaPad-5-2-in-1-16IAL10-2025-Convertible-AI-Laptop.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-ideapad-5-2-in-1-16ial10-2025-convertible-ai-laptop",
@@ -151129,8 +151159,8 @@
           "name": "Palit GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Graphics Card",
           "brand": "Palit",
           "category": "gpu",
-          "price": 33500000,
-          "oldPrice": null,
+          "price": 34500000,
+          "oldPrice": 33500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Palit-GeForce-RTX-5070-Ti-GamingPro-S-16GB-GDDR7-Graphics-Card-Price-in-Pakistan.jpg",
@@ -151147,7 +151177,7 @@
             33500000,
             33500000,
             33500000,
-            33500000
+            34500000
           ]
         },
         {
@@ -151207,8 +151237,8 @@
           "name": "PNY GeForce RTX 5060 Ti 16GB Stealth OC Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 22000000,
-          "oldPrice": 21000000,
+          "price": 22500000,
+          "oldPrice": 22000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/PNY-GeForce-RTX-5060-Ti-16GB-Stealth-OC-Graphics-Card-Price-in-Pakistan.webp",
@@ -151216,7 +151246,6 @@
           "history": [
             20600000,
             20600000,
-            20600000,
             21000000,
             21000000,
             21000000,
@@ -151225,7 +151254,8 @@
             21000000,
             21000000,
             21000000,
-            22000000
+            22000000,
+            22500000
           ]
         },
         {
@@ -154081,7 +154111,7 @@
             11549900,
             11549900,
             11549900,
-            11549900,
+            12500000,
             12500000,
             12500000,
             12500000,
@@ -154275,8 +154305,8 @@
           "name": "Asus Prime GeForce RTX 5060 8GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 14500000,
-          "oldPrice": 13600000,
+          "price": 15500000,
+          "oldPrice": 14500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Asus-Prime-GeForce-RTX-5060-8GB-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -154292,8 +154322,8 @@
             13600000,
             13600000,
             13600000,
-            13600000,
-            14500000
+            14500000,
+            15500000
           ]
         },
         {
@@ -157631,7 +157661,7 @@
           "category": "ram",
           "price": 18500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Lenovo-Ideapad-5-2-in-1-Laptop-Intel-Core-Ultra-5-225U-8GB-DDR5-512GB-SSD-Integrated-Intel-Graphics-14-WUXGA-IPS-Touch-Screen-Windows-11-Home-Prie-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-ideapad-5-2-in-1-laptop-intel-core-ultra-5-225u-8gb-ddr5-512gb-ssd-integrated-intel-graphics-14-wuxga-ips-touch-screen-windows-11-home",
@@ -159450,7 +159480,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 125000,
-          "oldPrice": 114500,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-V1L-Gaming-Fabric-Mouse-Pad-Black-Price-in-Pakistan-.jpg",
@@ -159466,7 +159496,7 @@
             114500,
             114500,
             114500,
-            114500,
+            125000,
             125000
           ]
         },
@@ -164623,8 +164653,8 @@
           "name": "ZOTAC Twin Edge GAMING GeForce RTX 5050 8GB GDDR6 PCI Express 5.0 x8 Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 11000000,
-          "oldPrice": null,
+          "price": 11200000,
+          "oldPrice": 11000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/ZOTAC-Twin-Edge-GAMING-GeForce-RTX-5050-8GB-GDDR6-PCI-Express-5.0-x8-Graphics-Card-Price-in-Pakistan.jpg",
@@ -164632,7 +164662,6 @@
           "history": [
             10200000,
             10200000,
-            10200000,
             11000000,
             11000000,
             11000000,
@@ -164641,7 +164670,8 @@
             11000000,
             11000000,
             11000000,
-            11000000
+            11000000,
+            11200000
           ]
         },
         {
@@ -166573,8 +166603,8 @@
           "name": "MSI GeForce RTX 5050 SHADOW 2X OC 8GB GDDR6 Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 11500000,
-          "oldPrice": null,
+          "price": 11800000,
+          "oldPrice": 11500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/MSI-GeForce-RTX-5050-SHADOW-2X-OC-8GB-GDDR6-Graphics-Card-Price-in-Pakistan.jpg",
@@ -166582,7 +166612,6 @@
           "history": [
             10299900,
             10299900,
-            10299900,
             11500000,
             11500000,
             11500000,
@@ -166591,7 +166620,8 @@
             11500000,
             11500000,
             11500000,
-            11500000
+            11500000,
+            11800000
           ]
         },
         {
@@ -168809,8 +168839,8 @@
           "name": "ZOTAC GAMING GeForce RTX 5060 Twin Edge OC 8GB White Edition Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 14400000,
-          "oldPrice": 13200000,
+          "price": 14700000,
+          "oldPrice": 14400000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ZOTAC-GAMING-GeForce-RTX-5060-Twin-Edge-OC-8GB-White-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -168826,8 +168856,8 @@
             13200000,
             13200000,
             13200000,
-            13200000,
-            14400000
+            14400000,
+            14700000
           ]
         },
         {
@@ -168913,9 +168943,9 @@
           "name": "GIGABYTE GeForce RTX 5060 Windforce Max OC 8G Graphics Card 8GB 128-bit GDDR7 PCIe 5.0 WIN",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 12500000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 14600000,
+          "oldPrice": 12500000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Gigabyte-GeForce-RTX-5060-Windforce-Max-OC-8G-Graphics-Card-8GB-128-bit-GDDR7-PCIe-5.0-WINDFORCE-Cooling-System-Video-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5060-windforce-max-oc-8g-graphics-card-8gb-128-bit-gddr7-pcie-5-0-windforce-cooling-system-video-card",
@@ -168931,7 +168961,7 @@
             12500000,
             12500000,
             12500000,
-            12500000
+            14600000
           ]
         },
         {
@@ -168966,7 +168996,7 @@
           "brand": "WESTERN",
           "category": "storage",
           "price": 4500000,
-          "oldPrice": 4900000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/WD-My-Passport-2TB-External-USB-3.0-Portable-Hard-Drive-Black-Price-in-Pakistan.jpg",
@@ -168982,7 +169012,7 @@
             4900000,
             4900000,
             4900000,
-            4900000,
+            4500000,
             4500000
           ]
         },
@@ -176609,7 +176639,7 @@
           "name": "Logitech G304 LIGHTSPEED Wireless Gaming Mouse &#8211; Black &#8211; 910-005286",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 899900,
+          "price": 740000,
           "oldPrice": 1350000,
           "inStock": true,
           "lowStock": false,
@@ -176627,7 +176657,7 @@
             899900,
             899900,
             899900,
-            899900
+            740000
           ]
         },
         {
@@ -177117,7 +177147,7 @@
             45000000,
             45000000,
             45000000,
-            45000000,
+            46500000,
             46500000,
             46500000,
             46500000,
@@ -177477,11 +177507,11 @@
             14999900,
             14999900,
             14999900,
-            14999900,
             16800000,
             16800000,
             16800000,
             16800000,
+            16999900,
             16999900,
             16999900,
             16999900,
@@ -177753,8 +177783,8 @@
           "name": "ASUS Prime Radeon RX 9070 16GB GDDR6 OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 2300000,
-          "oldPrice": 21500000,
+          "price": 24000000,
+          "oldPrice": 2300000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Asus-Prime-Radeon-RX-9070-16GB-GDDR6-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -177770,8 +177800,8 @@
             21500000,
             21500000,
             21500000,
-            21500000,
-            2300000
+            2300000,
+            24000000
           ]
         },
         {
@@ -177789,11 +177819,11 @@
             17000000,
             17000000,
             17000000,
-            17000000,
             18500000,
             18500000,
             18500000,
             18500000,
+            19000000,
             19000000,
             19000000,
             19000000,
@@ -177961,9 +177991,9 @@
           "name": "Asus Dual GeForce RTX 5060 8GB GDDR7 OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 12999900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 15000000,
+          "oldPrice": 12999900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Asus-Dual-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
@@ -177979,7 +178009,7 @@
             12999900,
             12999900,
             12999900,
-            12999900
+            15000000
           ]
         },
         {
@@ -181211,8 +181241,8 @@
           "name": "ZOTAC  GAMING GeForce Twin Edge OC White Edition GeForce RTX 5060 Ti 16GB GDDR7 PCI Expres",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 21500000,
-          "oldPrice": null,
+          "price": 23000000,
+          "oldPrice": 21500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ZOTAC-GAMING-GeForce-RTX-5060-Ti-Twin-Edge-OC-16GB-GDDR7-Graphics-Card-–-White-Price-in-Pakistan.jpg",
@@ -181229,7 +181259,7 @@
             21500000,
             21500000,
             21500000,
-            21500000
+            23000000
           ]
         },
         {
@@ -183222,7 +183252,7 @@
           "history": [
             49000000,
             49000000,
-            49000000,
+            50000000,
             50000000,
             50000000,
             50000000,
@@ -184227,8 +184257,8 @@
           "name": "ASUS PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition PCI Express 5.0 DLSS 4.0 Graphics Car",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 35500000,
-          "oldPrice": null,
+          "price": 36500000,
+          "oldPrice": 35500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-PRIME-GeForce-RTX-5070-Ti-16GB-256-Bit-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan.jpg",
@@ -184245,7 +184275,7 @@
             35500000,
             35500000,
             35500000,
-            35500000
+            36500000
           ]
         },
         {
@@ -186671,8 +186701,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Twin Edge DLSS 4 12GB GDDR7 192-bit 28 Gbps PCIe 5.0 Gaming ",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 21999900,
-          "oldPrice": 23000000,
+          "price": 22500000,
+          "oldPrice": 21999900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Zotac-Gaming-GeForce-RTX-5070-Twin-Edge-DLSS-4-12GB-GDDR7-192-bit-28-Gbps-PCIe-5.0-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
@@ -186689,7 +186719,7 @@
             21999900,
             21999900,
             21999900,
-            21999900
+            22500000
           ]
         },
         {
@@ -188322,7 +188352,7 @@
             23999900,
             23999900,
             23999900,
-            23999900,
+            25000000,
             25000000,
             25000000,
             25000000,
@@ -190494,7 +190524,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 14500000,
-          "oldPrice": 13899900,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-VENTUS-GeForce-RTX-5060-8GB-2X-OC-GDDR7-PCIe-5.0-x16-Interface-Graphics-Card-White-Price-in-Pakistan.jpg",
@@ -190510,7 +190540,7 @@
             13899900,
             13899900,
             13899900,
-            13899900,
+            14500000,
             14500000
           ]
         },
@@ -190520,7 +190550,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 14500000,
-          "oldPrice": 13499900,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-VENTUS-GeForce-RTX-5060-8GB-2X-OC-GDDR7-PCIe-5.0-x16-Interface-Graphics-Card-Price-in-Pakistan.jpg",
@@ -190536,7 +190566,7 @@
             13499900,
             13499900,
             13499900,
-            13499900,
+            14500000,
             14500000
           ]
         },
@@ -190545,8 +190575,8 @@
           "name": "MSI SHADOW GeForce RTX 5060 8GB 2X OC GDDR7 PCI Express 5.0 x 16 (use x8) Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 14500000,
-          "oldPrice": 13600000,
+          "price": 14800000,
+          "oldPrice": 14500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-SHADOW-GeForce-RTX-5060-8GB-GDDR7-PCI-Express-5.0-x-16-use-x8-Graphics-Card-Price-in-Pakistan.jpg",
@@ -190559,11 +190589,11 @@
             13499900,
             13499900,
             13499900,
-            13499900,
             13600000,
             13600000,
             13600000,
-            14500000
+            14500000,
+            14800000
           ]
         },
         {
@@ -191169,7 +191199,7 @@
           "name": "Gigabyte WindForce GeForce RTX 5070 Ti 16GB GDDR7 PCI Express 5.0 ATX Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 34500000,
+          "price": 35500000,
           "oldPrice": 39000000,
           "inStock": true,
           "lowStock": false,
@@ -191187,7 +191217,7 @@
             34500000,
             34500000,
             34500000,
-            34500000
+            35500000
           ]
         },
         {
@@ -196941,7 +196971,7 @@
           "name": "ZOTAC GAMING GeForce SOLID SFF OC RTX 5070 Ti 16GB 256-Bit GDDR7 DLSS 4.0 PIC-Express 5.0 ",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 34000000,
+          "price": 34500000,
           "oldPrice": 35000000,
           "inStock": true,
           "lowStock": false,
@@ -196951,7 +196981,6 @@
             32500000,
             32500000,
             32500000,
-            32500000,
             34000000,
             34000000,
             34000000,
@@ -196959,7 +196988,8 @@
             34000000,
             34000000,
             34000000,
-            34000000
+            34000000,
+            34500000
           ]
         },
         {
@@ -201917,7 +201947,7 @@
             22999900,
             22999900,
             22999900,
-            22999900,
+            24500000,
             24500000,
             24500000,
             24500000,
@@ -202775,7 +202805,7 @@
             23099900,
             23099900,
             23099900,
-            23099900,
+            24000000,
             24000000,
             24000000,
             24000000,
@@ -220811,7 +220841,7 @@
           "category": "headset",
           "price": 2599000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-WH-CH720N-Wireless-Over-Ear-Noise-Canceling-Headphones-Blue.jpg",
           "url": "https://zahcomputers.pk/product/sony-wh-ch720n-wireless-over-ear-noise-canceling-headphones-blue",
@@ -220837,7 +220867,7 @@
           "category": "headset",
           "price": 2599000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-WH-CH720N-Wireless-Over-Ear-Noise-Canceling-Headphones-White-.jpg",
           "url": "https://zahcomputers.pk/product/sony-wh-ch720n-wireless-over-ear-noise-canceling-headphones-white",
@@ -220863,7 +220893,7 @@
           "category": "headset",
           "price": 2599000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-WH-CH720N-Wireless-Over-Ear-Noise-Canceling-Headphones-Black.jpg",
           "url": "https://zahcomputers.pk/product/sony-wh-ch720n-wireless-over-ear-noise-canceling-headphones-black",
@@ -242520,7 +242550,7 @@
           "brand": "SteelSeries",
           "category": "mouse",
           "price": 1450000,
-          "oldPrice": 1250000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/SteelSeries-QcK-3XL-Gaming-Surface-Mouse-Pad-Price-in-Pakistan.jpg",
@@ -242536,7 +242566,7 @@
             1250000,
             1250000,
             1250000,
-            1250000,
+            1450000,
             1450000
           ]
         },
@@ -277937,6 +277967,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_aula_f108_pro_black_blue.webp",
           "url": "https://rbtechngames.com/product/aula-f108-pro-rgb-full-size-wireless-mechanical-gaming-keyboard-black-blue-grey-yellow-white-blue-white-yellow-grey-side-printed-white-yellow-reaper-greywood-v3-zephyr-v3-volcano-switches",
           "history": [
+            17999,
             17999
           ]
         },
@@ -278264,6 +278295,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_thinkpad_x1_carbon_gen_8_1.webp",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-x1-carbon-gen-8-intel-i7-10th-gen-16gb-ram-512gb-ssd-14-0%e2%80%b3-qhd-ips-display-matte-black-used",
           "history": [
+            84999,
             84999,
             84999,
             84999,
@@ -282533,7 +282565,7 @@
             119999,
             119999,
             119999,
-            119999,
+            134999,
             134999,
             134999,
             134999,
@@ -282708,6 +282740,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_asus_rog_strix_rtx_5070_ti_16gb_oc.png",
           "url": "https://rbtechngames.com/product/asus-rog-strix-geforce-rtx-5070-ti-16gb-oc-graphics-card",
           "history": [
+            399999,
             399999,
             399999,
             399999,
@@ -282973,7 +283006,7 @@
             424999,
             424999,
             424999,
-            424999,
+            454999,
             454999,
             454999,
             454999,
@@ -284429,7 +284462,7 @@
             25499,
             25499,
             25499,
-            25499,
+            38499,
             38499,
             38499,
             38499,
@@ -285058,32 +285091,6 @@
             7200,
             7200,
             7200
-          ]
-        },
-        {
-          "id": "rbtechgames_b3c0921e",
-          "name": "Attack Shark X11 Wireless Gaming Mouse with Charging Dock &#8211; Black/White/Red",
-          "brand": "Attack",
-          "category": "mouse",
-          "price": 7299,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/07/rbtech_attack_shark_x11_white_3.webp",
-          "url": "https://rbtechngames.com/product/attack-shark-x11-wireless-gaming-mouse-with-charging-dock-white",
-          "history": [
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299
           ]
         },
         {
