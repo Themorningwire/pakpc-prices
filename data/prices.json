@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T09:42:23.763089+00:00",
+  "lastUpdated": "2026-08-03T14:37:05.289971+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -1505,7 +1505,7 @@
             110999,
             110999,
             110999,
-            110999,
+            132999,
             132999,
             132999,
             132999,
@@ -2771,7 +2771,7 @@
           "category": "keyboard",
           "price": 19990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X68-PRO-HE-Wireless-Rapid-Trigger-Keyboard-Black-Contour-Price-in-Pakistan-Pakbyte_1.jpg?v=1784211756",
           "url": "https://www.pakbyte.pk/products/attack-shark-x68-pro-he-wireless-rapid-trigger-gaming-keyboard-black-contour",
@@ -7945,7 +7945,7 @@
           "category": "monitor",
           "price": 46990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-tuf-gaming-series-5-vg259ql5a-price-in-pakistan-pakbyte_1.webp?v=1780301133",
           "url": "https://www.pakbyte.pk/products/asus-tuf-series-5-vg259ql5a-24-5-inch-full-hd-200hz-gaming-monitor",
@@ -26379,7 +26379,7 @@
           "category": "monitor",
           "price": 46500,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-Gaming-VG249Q5R-23_2.webp?v=1767112293",
           "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-vg249q5r-23-8-fhd-gaming-monitor",
@@ -28849,7 +28849,7 @@
           "category": "cooler",
           "price": 2190,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Cooler-Master-CryoFuze-7-4g-Thermal-Paste-Price-in-Pakistan-Pakbyte_1.jpg?v=1766394253",
           "url": "https://www.pakbyte.pk/products/cooler-master-cryofuze-7-4g-thermal-paste",
@@ -50973,8 +50973,8 @@
           "name": "Asus Vivobook X1504VA-NJ104 Intel Core i5 13th Gen 8GB 512GB SSD 15.6 FHD DOS",
           "brand": "ASUS",
           "category": "cpu",
-          "price": 149000,
-          "oldPrice": null,
+          "price": 159999,
+          "oldPrice": 149000,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Vivobook-X1504VA_1.png?v=1755064700",
@@ -50991,7 +50991,7 @@
             149000,
             149000,
             149000,
-            149000
+            159999
           ]
         },
         {
@@ -59397,8 +59397,8 @@
           "name": "G.Skill Trident Z5 Neo RGB 32GB (2x16GB) 6000MHz CL30 DDR5 Desktop Memory - Matte Black",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 119999,
-          "oldPrice": null,
+          "price": 133999,
+          "oldPrice": 119999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-Neo-RGB-32GB-2x16GB-6000MHz-C36-DDR5-36-36-36-96-DRAM-Desktop-Memory-Matte-Black-PakByte-Computers-26167513579587.jpg?v=1753670835",
@@ -59415,7 +59415,7 @@
             119999,
             119999,
             119999,
-            119999
+            133999
           ]
         },
         {
@@ -61843,7 +61843,7 @@
           "category": "monitor",
           "price": 42799,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-Gaming-VG259Q3A-25-180hz-Gaming-Monitor-PakByte-Computers-26067617022019.webp?v=1753671165",
           "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-vg259q3a-25-1080p-gaming-monitor",
@@ -63377,7 +63377,7 @@
           "category": "storage",
           "price": 61399,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Seagate-IronWolf-6TB-NAS-3-5-SATA-Hard-Drive-PakByte-Computers-25965286654019.jpg?v=1753671203",
           "url": "https://www.pakbyte.pk/products/seagate-ironwolf-6tb-nas-3-5-sata-hard-drive",
@@ -75207,7 +75207,7 @@
           "category": "monitor",
           "price": 4990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-25158-Thunderbolt-USB-C-to-DisplayPort-Cable-DP-1-4-2-Meter-PakByte-Computers-25763510845507.jpg?v=1753673932",
           "url": "https://www.pakbyte.pk/products/ugreen-25158-thunderbolt-usb-c-to-displayport-cable-dp-1-4-2-meter",
@@ -97801,7 +97801,7 @@
           "category": "mouse",
           "price": 5690,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Corsair-Katar-Pro-Wireless-Gaming-Mouse-PakByte-Computers-24397893369923.webp?v=1753678495",
           "url": "https://www.pakbyte.pk/products/corsair-katar-pro-wireless-gaming-mouse",
@@ -144645,6 +144645,36 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_2d8f4bfc",
+          "name": "PUSKILL DDR4 Desktop Memory RAM 16GB 3200MHz 288-Pin UDIMM | Intel &#038; AMD Compatible",
+          "brand": "AMD",
+          "category": "ram",
+          "price": 2700000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/PUSKILL-DDR4-Desktop-Memory-RAM-16GB-3200MHz-288-Pin-UDIMM.webp",
+          "url": "https://zahcomputers.pk/product/puskill-ddr4-desktop-memory-ram-16gb-3200mhz-288-pin-udimm-intel-amd-compatible",
+          "history": [
+            2700000
+          ]
+        },
+        {
+          "id": "zah_ff420da2",
+          "name": "Lenovo ThinkPad T14s Gen 6 21R1002TUS Business Laptop | Intel Core Ultra 7 255U | 16GB LPD",
+          "brand": "Intel",
+          "category": "ram",
+          "price": 40000000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Lenovo-ThinkPad-T14s-Gen-6-21R1002TUS-Business-Laptop.jpg",
+          "url": "https://zahcomputers.pk/product/lenovo-thinkpad-t14s-gen-6-21r1002tus-business-laptop",
+          "history": [
+            40000000
+          ]
+        },
+        {
           "id": "zah_e18c378a",
           "name": "ASUS ProArt GeForce RTX 5080 16GB GDDR7 Graphics Card | PCIe 5.0 | 16GB GDDR7 | 2.5-Slot |",
           "brand": "ASUS",
@@ -144656,6 +144686,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-ProArt-GeForce-RTX-5080-16GB-GDDR7-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/asus-proart-geforce-rtx-5080-16gb-gddr7-graphics-card",
           "history": [
+            46000000,
             46000000,
             46000000,
             46000000,
@@ -144679,6 +144710,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-Vivobook-S16-OLED-M5606WA-IS99-Copilot-PC.jpg",
           "url": "https://zahcomputers.pk/product/asus-vivobook-s16-oled-m5606wa-is99-copilot",
           "history": [
+            37000000,
             37000000,
             37000000,
             37000000,
@@ -147503,7 +147535,7 @@
           "category": "keyboard",
           "price": 2099900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ATTACK-SHARK-X68PRO-HE-Wireless-Rapid-Trigger-Keyboard-Magnetic-Switch-Moonlit-Night-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-x68pro-he-wireless-rapid-trigger-keyboard-magnetic-switch-moonlit-night",
@@ -149373,9 +149405,9 @@
           "name": "PNY GeForce RTX™ 5060 8GB Dual Fan DLSS 4 Gaming Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 11000000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 13800000,
+          "oldPrice": 11000000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/PNY-GeForce-RTX-5060-8GB-Dual-Fan-DLSS-4-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5060-8gb-dual-fan-dlss-4-gaming-graphics-card",
@@ -149391,7 +149423,7 @@
             11000000,
             11000000,
             11000000,
-            11000000
+            13800000
           ]
         },
         {
@@ -151230,7 +151262,7 @@
             33500000,
             33500000,
             33500000,
-            33500000,
+            34500000,
             34500000,
             34500000,
             34500000,
@@ -151307,8 +151339,8 @@
             21000000,
             21000000,
             21000000,
-            21000000,
             22000000,
+            22500000,
             22500000,
             22500000,
             22500000,
@@ -151739,8 +151771,8 @@
           "name": "HOCO UPA21 2-in-1 3.5 Headset Audio Adapter Cable (Female to 2x Male)",
           "brand": "HOCO",
           "category": "headset",
-          "price": 89900,
-          "oldPrice": null,
+          "price": 74000,
+          "oldPrice": 89900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-UPA21-2-in-1-3.5-headset-audio-adapter-cable-female-to-2male-Price-in-Pakistan.jpg",
@@ -151757,7 +151789,7 @@
             89900,
             89900,
             89900,
-            89900
+            74000
           ]
         },
         {
@@ -151765,8 +151797,8 @@
           "name": "HOCO UPA21 2-in-1 3.5 Headset Audio Adapter Cable (Male to 2x Female)",
           "brand": "HOCO",
           "category": "headset",
-          "price": 89900,
-          "oldPrice": null,
+          "price": 74000,
+          "oldPrice": 89900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-UPA21-2-in-1-3.5-Headset-Audio-Adapter-Cable-male-to-2female-Price-in-Pakistan-01.jpg",
@@ -151783,7 +151815,7 @@
             89900,
             89900,
             89900,
-            89900
+            74000
           ]
         },
         {
@@ -151791,8 +151823,8 @@
           "name": "HOCO M101 Pro Crystal sound Type C Wire-Controlled Digital Earphones With Microphone &#821",
           "brand": "HOCO",
           "category": "headset",
-          "price": 109900,
-          "oldPrice": null,
+          "price": 102000,
+          "oldPrice": 109900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-M101-Pro-Crystal-sound-Type-C-Wire-Controlled-Digital-Earphones-With-Microphone-White-Price-in-Pakistan.jpg",
@@ -151809,7 +151841,7 @@
             109900,
             109900,
             109900,
-            109900
+            102000
           ]
         },
         {
@@ -151817,8 +151849,8 @@
           "name": "HOCO M101 Pro Crystal sound Type C Wire-Controlled Digital Earphones With Microphone &#821",
           "brand": "HOCO",
           "category": "headset",
-          "price": 109900,
-          "oldPrice": null,
+          "price": 102000,
+          "oldPrice": 109900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-M101-Pro-Crystal-sound-Type-C-Wire-Controlled-Digital-Earphones-With-Microphone-Black-Price-in-Pakistan.jpg",
@@ -151835,7 +151867,7 @@
             109900,
             109900,
             109900,
-            109900
+            102000
           ]
         },
         {
@@ -151895,8 +151927,8 @@
           "name": "HOCO W106 Tiger Gaming Wired 3.5mm Jack Headset &#8211; Black",
           "brand": "HOCO",
           "category": "headset",
-          "price": 289900,
-          "oldPrice": null,
+          "price": 405000,
+          "oldPrice": 289900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-W106-Tiger-Gaming-Wired-3.5mm-Jack-Headset-Black-Price-in-Pakistan.jpg",
@@ -151913,7 +151945,7 @@
             289900,
             289900,
             289900,
-            289900
+            405000
           ]
         },
         {
@@ -151921,8 +151953,8 @@
           "name": "HOCO W55 Pleasing Wireless Bluetooth Headphones &#8211; Silver",
           "brand": "HOCO",
           "category": "headset",
-          "price": 329900,
-          "oldPrice": null,
+          "price": 465000,
+          "oldPrice": 329900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-W55-Pleasing-Wireless-Bluetooth-Headphones-Silver-Price-in-Pakistan.jpg",
@@ -151939,7 +151971,7 @@
             329900,
             329900,
             329900,
-            329900
+            465000
           ]
         },
         {
@@ -151973,8 +152005,8 @@
           "name": "HOCO W55 Pleasing Wireless Bluetooth Headphones &#8211; Space Gray",
           "brand": "HOCO",
           "category": "headset",
-          "price": 329900,
-          "oldPrice": null,
+          "price": 465000,
+          "oldPrice": 329900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-W55-Pleasing-Wireless-Bluetooth-Headphones-Space-Gray-Price-in-Pakistan.jpg",
@@ -151991,7 +152023,7 @@
             329900,
             329900,
             329900,
-            329900
+            465000
           ]
         },
         {
@@ -151999,8 +152031,8 @@
           "name": "HOCO W56 Earl Wireless Bluetooth Headphones &#8211; Black",
           "brand": "HOCO",
           "category": "headset",
-          "price": 339900,
-          "oldPrice": null,
+          "price": 485000,
+          "oldPrice": 339900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-W56-Earl-Wireless-Bluetooth-Headphones-Black-Price-in-Pakistan-1.jpg",
@@ -152017,7 +152049,7 @@
             339900,
             339900,
             339900,
-            339900
+            485000
           ]
         },
         {
@@ -152025,8 +152057,8 @@
           "name": "HOCO W56 Earl Wireless Bluetooth Headphones &#8211; Brown",
           "brand": "HOCO",
           "category": "headset",
-          "price": 339900,
-          "oldPrice": null,
+          "price": 485000,
+          "oldPrice": 339900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-W56-Earl-Wireless-Bluetooth-Headphones-Brown-Price-in-Pakistan.jpg",
@@ -152043,7 +152075,7 @@
             339900,
             339900,
             339900,
-            339900
+            485000
           ]
         },
         {
@@ -152051,8 +152083,8 @@
           "name": "HOCO W35 Max Auspicious ANC Noise Reduction BT Headphones &#8211; Silver",
           "brand": "HOCO",
           "category": "headset",
-          "price": 389900,
-          "oldPrice": null,
+          "price": 567000,
+          "oldPrice": 389900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-W35-Max-Auspicious-ANC-Noise-Reduction-BT-Headphones-Silver-Price-in-Pakistan.jpg",
@@ -152069,7 +152101,7 @@
             389900,
             389900,
             389900,
-            389900
+            567000
           ]
         },
         {
@@ -152077,8 +152109,8 @@
           "name": "HOCO W35 Max Auspicious ANC Noise Reduction BT Headphones &#8211; Black",
           "brand": "HOCO",
           "category": "headset",
-          "price": 389900,
-          "oldPrice": null,
+          "price": 567000,
+          "oldPrice": 389900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-W35-Max-Auspicious-ANC-Noise-Reduction-BT-Headphones-Black-Price-in-Pakistan.jpg",
@@ -152095,7 +152127,7 @@
             389900,
             389900,
             389900,
-            389900
+            567000
           ]
         },
         {
@@ -152103,8 +152135,8 @@
           "name": "HOCO GM17 Wireless Business Keyboard and Mouse Combo Set (English Version)",
           "brand": "HOCO",
           "category": "keyboard",
-          "price": 319900,
-          "oldPrice": null,
+          "price": 480000,
+          "oldPrice": 319900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM17-Wireless-Business-Keyboard-and-Mouse-Combo-Set-English-Version-Price-in-Pakistan.jpg",
@@ -152121,7 +152153,7 @@
             319900,
             319900,
             319900,
-            319900
+            480000
           ]
         },
         {
@@ -152129,8 +152161,8 @@
           "name": "HOCO GM60 UltraCool Professional Wired Keyboard &#8211; Black",
           "brand": "HOCO",
           "category": "keyboard",
-          "price": 149900,
-          "oldPrice": null,
+          "price": 185000,
+          "oldPrice": 149900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM60-UltraCool-Professional-Wired-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -152147,7 +152179,7 @@
             149900,
             149900,
             149900,
-            149900
+            185000
           ]
         },
         {
@@ -152155,8 +152187,8 @@
           "name": "HOCO GM31 Overlord Luminous Gaming Wired Mouse &#8211; White Blue",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 149900,
-          "oldPrice": null,
+          "price": 185000,
+          "oldPrice": 149900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM31-Overlord-Luminous-Gaming-Wired-Mouse-White-Blue-Price-in-Pakistan.jpg",
@@ -152173,7 +152205,7 @@
             149900,
             149900,
             149900,
-            149900
+            185000
           ]
         },
         {
@@ -152181,8 +152213,8 @@
           "name": "HOCO GM14 Platinum 3D Button 2.4G Business Wireless Mouse &#8211; Black",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 109900,
-          "oldPrice": null,
+          "price": 165000,
+          "oldPrice": 109900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM14-Platinum-3D-Button-2.4G-Business-Wireless-Mouse-Black-Price-in-Pakistan.jpg",
@@ -152199,7 +152231,7 @@
             109900,
             109900,
             109900,
-            109900
+            165000
           ]
         },
         {
@@ -152233,8 +152265,8 @@
           "name": "HOCO GM40 Dixon Dual Mode Wireless Mouse Bluetooth &amp; 2.4G – Black",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 239900,
-          "oldPrice": null,
+          "price": 305000,
+          "oldPrice": 239900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM40-Dixon-Dual-Mode-Wireless-Mouse-Bluetooth-amp-2.4G-–-Black-Price-in-Pakistan-02.jpg",
@@ -152251,7 +152283,7 @@
             239900,
             239900,
             239900,
-            239900
+            305000
           ]
         },
         {
@@ -152259,8 +152291,8 @@
           "name": "HOCO GM34 Nuevo Dual-Mode Wireless Business Mouse – Black",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 199900,
-          "oldPrice": null,
+          "price": 245000,
+          "oldPrice": 199900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM34-Nuevo-Dual-Mode-Wireless-Business-Mouse-–-Black-Price-in-Pakistan.jpg",
@@ -152277,7 +152309,7 @@
             199900,
             199900,
             199900,
-            199900
+            245000
           ]
         },
         {
@@ -152285,8 +152317,8 @@
           "name": "HOCO GM37 Wonderful Gaming Luminous Wired Mouse &#8211; White",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 129900,
-          "oldPrice": null,
+          "price": 145000,
+          "oldPrice": 129900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM37-Wonderful-Gaming-Luminous-Wired-Mouse-White-Price-in-Pakistan.jpg",
@@ -152303,7 +152335,7 @@
             129900,
             129900,
             129900,
-            129900
+            145000
           ]
         },
         {
@@ -152493,8 +152525,8 @@
           "name": "HOCO GM37 Wonderful Gaming Luminous Wired Mouse &#8211; Black",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 129900,
-          "oldPrice": null,
+          "price": 145000,
+          "oldPrice": 129900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM37-Wonderful-Gaming-Luminous-Wired-Mouse-–-Black-Price-in-Pakistan.jpg",
@@ -152511,7 +152543,7 @@
             129900,
             129900,
             129900,
-            129900
+            145000
           ]
         },
         {
@@ -152519,8 +152551,8 @@
           "name": "HOCO GM29 Mysterious Dual-Mode Silent Wireless Mouse &#8211; White",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 209900,
-          "oldPrice": null,
+          "price": 290000,
+          "oldPrice": 209900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM29-Mysterious-Dual-Mode-Silent-Wireless-Mouse-White-Price-in-Pakistan.jpg",
@@ -152537,7 +152569,7 @@
             209900,
             209900,
             209900,
-            209900
+            290000
           ]
         },
         {
@@ -152545,8 +152577,8 @@
           "name": "HOCO GM29 Mysterious Dual-Mode Silent Wireless Mouse &#8211; Black",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 209900,
-          "oldPrice": null,
+          "price": 290000,
+          "oldPrice": 209900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM29-Mysterious-Dual-Mode-Silent-Wireless-Mouse-Black-Price-in-Pakistan.jpg",
@@ -152563,7 +152595,7 @@
             209900,
             209900,
             209900,
-            209900
+            290000
           ]
         },
         {
@@ -152571,8 +152603,8 @@
           "name": "HOCO GM42 Platino 2.4G Wireless Mouse &#8211; White",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 129900,
-          "oldPrice": null,
+          "price": 115000,
+          "oldPrice": 129900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM42-Platino-2.4G-Wireless-Mouse-White-Price-in-Pakistan.jpg",
@@ -152589,7 +152621,7 @@
             129900,
             129900,
             129900,
-            129900
+            115000
           ]
         },
         {
@@ -152623,8 +152655,8 @@
           "name": "HOCO GM42 Platino 2.4G Wireless Mouse &#8211; Black",
           "brand": "HOCO",
           "category": "mouse",
-          "price": 129900,
-          "oldPrice": null,
+          "price": 115000,
+          "oldPrice": 129900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/HOCO-GM42-Platino-2.4G-Wireless-Mouse-Black-Price-in-Pakistan.webp",
@@ -152641,7 +152673,7 @@
             129900,
             129900,
             129900,
-            129900
+            115000
           ]
         },
         {
@@ -154164,7 +154196,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Gigabyte-Radeon-RX-9060-XT-GAMING-8G-Video-Graphics-Card-8GB-GDDR6-20Gbps-128-Bit-Boost-Up-To-3130MHz-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-9060-xt-gaming-8g-video-graphics-card-8gb-gddr6-20gbps-128-bit-boost-up-to-3130mhz",
           "history": [
-            11549900,
+            12500000,
             12500000,
             12500000,
             12500000,
@@ -154375,8 +154407,8 @@
             13600000,
             13600000,
             13600000,
-            13600000,
             14500000,
+            15500000,
             15500000,
             15500000,
             15500000,
@@ -157797,8 +157829,8 @@
           "name": "MSI PRO X870E-P WIFI AM5 ATX AMD Motherboards USB 4.0 (40G) 4x SATA 6Gb/s Wi-Fi 7 Triple M",
           "brand": "MSI",
           "category": "storage",
-          "price": 8999900,
-          "oldPrice": 9250000,
+          "price": 9899900,
+          "oldPrice": 8999900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/MSI-PRO-X870E-P-WIFI-AM5-ATX-AMD-Motherboards-USB-4.0-40G-4x-SATA-6Gbs-Wi-Fi-7-Triple-M.2-Connectors-Price-in-Pakistan.jpg",
@@ -157815,7 +157847,7 @@
             8999900,
             8999900,
             8999900,
-            8999900
+            9899900
           ]
         },
         {
@@ -158421,8 +158453,8 @@
           "name": "HP OMEN Gaming Laptop 16-AM0073DX Intel Core Ultra 7 255H Processor | 16GB DDR5 Ram | 1TB ",
           "brand": "Intel",
           "category": "gpu",
-          "price": 39500000,
-          "oldPrice": null,
+          "price": 41000000,
+          "oldPrice": 39500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/HP-OMEN-16-AP0167AX-Gaming-Laptop-–-AMD-Ryzen-9-8940HX-16GB-RAM-512GB-SSD-RTX-5060-8GB-16-2K-Display-Shadow-Black-Price-in-Pakistan.jpg",
@@ -158439,7 +158471,7 @@
             39500000,
             39500000,
             39500000,
-            39500000
+            41000000
           ]
         },
         {
@@ -159549,7 +159581,7 @@
             114500,
             114500,
             114500,
-            114500,
+            125000,
             125000,
             125000,
             125000,
@@ -164143,7 +164175,7 @@
           "category": "keyboard",
           "price": 680000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK008-Pro-Anti-Ghosting-ABS-Keycaps-HighQuality-Metal-Mechanical-Gaming-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-mk008-pro-anti-ghosting-abs-keycaps-highquality-metal-mechanical-gaming-keyboard",
@@ -164724,7 +164756,7 @@
             11000000,
             11000000,
             11000000,
-            11000000,
+            11200000,
             11200000,
             11200000,
             11200000,
@@ -166674,7 +166706,7 @@
             11500000,
             11500000,
             11500000,
-            11500000,
+            11800000,
             11800000,
             11800000,
             11800000,
@@ -168899,14 +168931,13 @@
           "name": "ZOTAC GAMING GeForce RTX 5060 Twin Edge OC 8GB White Edition Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 14700000,
-          "oldPrice": null,
+          "price": 14500000,
+          "oldPrice": 14700000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ZOTAC-GAMING-GeForce-RTX-5060-Twin-Edge-OC-8GB-White-Edition-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5060-twin-edge-oc-8gb-white-edition-graphics-card",
           "history": [
-            13200000,
             13200000,
             13200000,
             13200000,
@@ -168917,7 +168948,8 @@
             14700000,
             14700000,
             14700000,
-            14700000
+            14700000,
+            14500000
           ]
         },
         {
@@ -169003,8 +169035,8 @@
           "name": "GIGABYTE GeForce RTX 5060 Windforce Max OC 8G Graphics Card 8GB 128-bit GDDR7 PCIe 5.0 WIN",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 14600000,
-          "oldPrice": null,
+          "price": 14800000,
+          "oldPrice": 14600000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Gigabyte-GeForce-RTX-5060-Windforce-Max-OC-8G-Graphics-Card-8GB-128-bit-GDDR7-PCIe-5.0-WINDFORCE-Cooling-System-Video-Card-Price-in-Pakistan.jpg",
@@ -169014,14 +169046,14 @@
             12500000,
             12500000,
             12500000,
-            12500000,
             14600000,
             14600000,
             14600000,
             14600000,
             14600000,
             14600000,
-            14600000
+            14600000,
+            14800000
           ]
         },
         {
@@ -169065,7 +169097,7 @@
             4900000,
             4900000,
             4900000,
-            4900000,
+            4500000,
             4500000,
             4500000,
             4500000,
@@ -173841,7 +173873,7 @@
           "category": "storage",
           "price": 1499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Transcend-225s-250GB-SATA-III-6Gbs-2.5-inch-Internal-SSD-Solid-State-Drive-for-PC-and-Laptop-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/transcend-225s-250gb-sata-iii-6gb-s-2-5-inch-internal-ssd-solid-state-drive-for-pc-and-laptop",
@@ -176710,7 +176742,7 @@
             899900,
             899900,
             899900,
-            899900,
+            740000,
             740000,
             740000,
             740000,
@@ -177200,7 +177232,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ZOTAC-GAMING-GeForce-RTX-5080-SOLID-OC-Graphics-Card-16GB-GDDR7-256-Bit-Memory-2640MHz-Engine-Clock-30-Gbps-Memory-Clock-10752-CUDA-Cores-PCI-Express-5.0-x16-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5080-solid-oc-16gb-graphics-card-white",
           "history": [
-            45000000,
+            46500000,
             46500000,
             46500000,
             46500000,
@@ -177221,7 +177253,7 @@
           "category": "gpu",
           "price": 34000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Acer-Nitro-V-16S-AI-ANV16S-41-R89V-Gaming-Laptop-AMD-Ryzen-7-260-16GB-DDR5-512GB-SSD-NVIDIA-RTX-5060-8GB-Graphics-4-Zone-RGB-Keyboard-16-WUXGA-IPS-180Hz-Windows-11-Home-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/acer-nitro-v-16s-ai-anv16s-41-r89v-gaming-laptop-amd-ryzen-7-260-16gb-ddr5-512gb-ssd-nvidia-rtx-5060-8gb-graphics-4-zone-rgb-keyboard-16-wuxga-ips-180hz-windows-11-home-black",
@@ -177564,7 +177596,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-Dual-Radeon-RX-9060-XT-16GB-GDDR6-PCI-Express-5.0-x16-ATX-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-radeon-rx-9060-xt-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card",
           "history": [
-            16800000,
+            16999900,
             16999900,
             16999900,
             16999900,
@@ -177853,8 +177885,8 @@
             21500000,
             21500000,
             21500000,
-            21500000,
             2300000,
+            24000000,
             24000000,
             24000000,
             24000000,
@@ -177876,7 +177908,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-TUF-Gaming-Radeon-RX-9060-XT-16GB-GDDR6-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-radeon-rx-9060-xt-16gb-gddr6-oc-edition-graphics-card",
           "history": [
-            18500000,
+            19000000,
             19000000,
             19000000,
             19000000,
@@ -178062,7 +178094,7 @@
             12999900,
             12999900,
             12999900,
-            12999900,
+            15000000,
             15000000,
             15000000,
             15000000,
@@ -181301,8 +181333,8 @@
           "name": "ZOTAC  GAMING GeForce Twin Edge OC White Edition GeForce RTX 5060 Ti 16GB GDDR7 PCI Expres",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 23000000,
-          "oldPrice": null,
+          "price": 22500000,
+          "oldPrice": 23000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ZOTAC-GAMING-GeForce-RTX-5060-Ti-Twin-Edge-OC-16GB-GDDR7-Graphics-Card-–-White-Price-in-Pakistan.jpg",
@@ -181312,14 +181344,14 @@
             21500000,
             21500000,
             21500000,
-            21500000,
             23000000,
             23000000,
             23000000,
             23000000,
             23000000,
             23000000,
-            23000000
+            23000000,
+            22500000
           ]
         },
         {
@@ -184328,7 +184360,7 @@
             35500000,
             35500000,
             35500000,
-            35500000,
+            36500000,
             36500000,
             36500000,
             36500000,
@@ -186772,7 +186804,7 @@
             21999900,
             21999900,
             21999900,
-            21999900,
+            22500000,
             22500000,
             22500000,
             22500000,
@@ -186839,8 +186871,8 @@
           "name": "MSI PRO B550M-A PRO AM4 AMD B550 Micro ATX AMD Motherboard",
           "brand": "MSI",
           "category": "motherboard",
-          "price": 2850000,
-          "oldPrice": null,
+          "price": 2799900,
+          "oldPrice": 2850000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/MSI-PRO-B550M-A-PRO-AM4-AMD-B550-Micro-ATX-AMD-Motherboard.jpg",
@@ -186857,7 +186889,7 @@
             2850000,
             2850000,
             2850000,
-            2850000
+            2799900
           ]
         },
         {
@@ -190593,7 +190625,7 @@
             13899900,
             13899900,
             13899900,
-            13899900,
+            14500000,
             14500000,
             14500000,
             14500000,
@@ -190619,7 +190651,7 @@
             13499900,
             13499900,
             13499900,
-            13499900,
+            14500000,
             14500000,
             14500000,
             14500000,
@@ -190642,11 +190674,11 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-SHADOW-GeForce-RTX-5060-8GB-GDDR7-PCI-Express-5.0-x-16-use-x8-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-shadow-geforce-rtx-5060-8gb-gddr7-pci-express-5-0-x-16-use-x8-graphics-card",
           "history": [
-            13499900,
             13600000,
             13600000,
             13600000,
             14500000,
+            14800000,
             14800000,
             14800000,
             14800000,
@@ -190661,9 +190693,9 @@
           "name": "MSI MAG X870E TOMOHAWK WIFI AM5 AMD X870E SATA 6Gb/s M.2 DDR5 Wi-Fi 7 5G LAN ATX Motherboa",
           "brand": "MSI",
           "category": "ram",
-          "price": 11899900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 12299900,
+          "oldPrice": 11899900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/12/MSI-MAG-MAG-X870E-TOMAHAWK-WIFI-AM5-AMD-X870E-SATA-6Gbs-M.2-DDR5-Wi-Fi-7-5G-LAN-ATX-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-mag-mag-x870e-tomahawk-wifi-am5-amd-x870e-sata-6gb-s-m-2-ddr5-wi-fi-7-5g-lan-atx-motherboard",
@@ -190679,7 +190711,7 @@
             11899900,
             11899900,
             11899900,
-            11899900
+            12299900
           ]
         },
         {
@@ -191270,7 +191302,7 @@
             34500000,
             34500000,
             34500000,
-            34500000,
+            35500000,
             35500000,
             35500000,
             35500000,
@@ -197042,7 +197074,7 @@
             34000000,
             34000000,
             34000000,
-            34000000,
+            34500000,
             34500000,
             34500000,
             34500000,
@@ -219287,9 +219319,9 @@
           "name": "MSI B450M-A PRO MAX II DDR4 AM4 Micro-ATX, Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 2300000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 2299900,
+          "oldPrice": 2300000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/12/msi-b450m-a-pro-max-ii-ddr4-am4-motherboard-1-price-in-pakistan.webp",
           "url": "https://zahcomputers.pk/product/msi-b450m-a-pro-max-ii-ddr4-am4-micro-atx-motherboard",
@@ -219305,7 +219337,7 @@
             2300000,
             2300000,
             2300000,
-            2300000
+            2299900
           ]
         },
         {
@@ -223813,7 +223845,7 @@
           "category": "cooler",
           "price": 199900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117495-id-cooling-frost-ptm-2-thermal-pad-price-in-pakistan-1-techarc.pk_.webp",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-ptm-2-thermal-pad",
@@ -226073,8 +226105,8 @@
           "name": "MSI Z790 GAMING PLUS WIFI DDR5 LGA 1700 SATA 6Gb/s ATX Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 7249900,
-          "oldPrice": 7499900,
+          "price": 7589900,
+          "oldPrice": 7249900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/Z790-GAMING-PLUS-WIFI-DDR5-Lowest-Price-in-Pakistan.jpg",
@@ -226091,7 +226123,7 @@
             7249900,
             7249900,
             7249900,
-            7249900
+            7589900
           ]
         },
         {
@@ -227919,8 +227951,8 @@
           "name": "MSI PRO B650-S WIFI AM5 AMD B650 Ryzen 7000 DDR5 ATX Motherboard",
           "brand": "MSI",
           "category": "cpu",
-          "price": 4989900,
-          "oldPrice": 5349900,
+          "price": 5349900,
+          "oldPrice": 4989900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/07/MSI-PRO-B650-S-WIFI-AM5-AMD-B650-Ryzen-7000-DDR5-ATX-Motherboard-Lowest-Price-in-Pakistan.jpg",
@@ -227937,7 +227969,7 @@
             4989900,
             4989900,
             4989900,
-            4989900
+            5349900
           ]
         },
         {
@@ -234913,8 +234945,8 @@
           "name": "MSI MAG Z790 TOMAHAWK MAX WIFI LGA 1700 ATX Motherboard",
           "brand": "MSI",
           "category": "motherboard",
-          "price": 9199900,
-          "oldPrice": null,
+          "price": 9599900,
+          "oldPrice": 9199900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/MSI-MAG-Z790-TOMAHAWK-MAX-WIFI-LGA-1700-ATX-Motherboard.jpg",
@@ -234931,7 +234963,7 @@
             9199900,
             9199900,
             9199900,
-            9199900
+            9599900
           ]
         },
         {
@@ -242619,7 +242651,7 @@
             1250000,
             1250000,
             1250000,
-            1250000,
+            1450000,
             1450000,
             1450000,
             1450000,
@@ -260913,9 +260945,9 @@
           "name": "MSI PRO B550M PRO-VDH AM4 AMD B550 SATA 6Gb/s Micro ATX AMD Motherboard",
           "brand": "MSI",
           "category": "motherboard",
-          "price": 3629900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 3649900,
+          "oldPrice": 3629900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/03/MSI-PRO-B550M-PRO-VDH-AM4-AMD-B550-SATA-6Gbs-Micro-ATX-AMD-Motherboard-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/msi-pro-b550m-pro-vdh-am4-amd-b550-sata-6gb-s-micro-atx-amd-motherboard",
@@ -260931,7 +260963,7 @@
             3629900,
             3629900,
             3629900,
-            3629900
+            3649900
           ]
         },
         {
@@ -278034,6 +278066,7 @@
             17999,
             17999,
             17999,
+            17999,
             17999
           ]
         },
@@ -279260,58 +279293,6 @@
           ]
         },
         {
-          "id": "rbtechgames_98775471",
-          "name": "ASUS TUF Gaming A16 (FA607NUG), AMD Ryzen 7 7445HS, 16GB RAM, 512GB SSD, RTX 4050, 16&#824",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 284999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_tuf_gaming_a16_fa607nug_mecha_grey.webp",
-          "url": "https://rbtechngames.com/product/asus-tuf-gaming-a16-fa607nug-amd-ryzen-7-7445hs-16gb-ram-512gb-ssd-rtx-4050-16-fhd-144hz-ips-display-mecha-gray-used",
-          "history": [
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999
-          ]
-        },
-        {
-          "id": "rbtechgames_40a6ae86",
-          "name": "ASUS ROG Zephyrus G14 2025 (GA403UM), AMD Ryzen 9 270, 16GB RAM, 1TB SSD, RTX 5060, 14&#82",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 474999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_zephrus_g14_ga403_platinum_white.png",
-          "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g14-2025-ga403um-amd-ryzen-9-270-16gb-ram-1tb-ssd-rtx-5060-14-3k-120hz-oled-display-platinum-white-used",
-          "history": [
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999
-          ]
-        },
-        {
           "id": "rbtechgames_c7d700df",
           "name": "MCHOSE K7 Ultra 8K Lightweight Wireless Gaming Mouse &#8211; Black/White Gold/Rose Red/Iro",
           "brand": "MCHOSE",
@@ -279453,6 +279434,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_hp_hyperx_omen_max_16_shadow_black.webp",
           "url": "https://rbtechngames.com/product/hp-omen-max-16-16z-ak000-amd-ryzen-ai-7-32gb-ram-2tb-ssd-rtx-5070-16-qhd-240hz-ips-display-shadow-black-used",
           "history": [
+            554999,
             554999,
             554999
           ]
@@ -279686,7 +279668,7 @@
             894999,
             894999,
             894999,
-            894999,
+            854999,
             854999,
             854999
           ]
@@ -279868,7 +279850,7 @@
             1249999,
             1249999,
             1249999,
-            1249999,
+            1149999,
             1149999,
             1149999
           ]
@@ -280212,32 +280194,6 @@
           ]
         },
         {
-          "id": "rbtechgames_2bd6690f",
-          "name": "ASUS TUF Gaming F16 (FX608JH-RV034), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, RTX 5050",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 359999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/09/asus_tuf_gaming_f16_2.webp",
-          "url": "https://rbtechngames.com/product/asus-tuf-gaming-f16-fx608jh-rv034-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-5050-15-6-fhd-165hz-ips-display-jaeger-gray-new",
-          "history": [
-            359999,
-            359999,
-            359999,
-            359999,
-            359999,
-            359999,
-            359999,
-            359999,
-            359999,
-            359999,
-            359999,
-            359999
-          ]
-        },
-        {
           "id": "rbtechgames_4d192e58",
           "name": "HP EliteBook 840 G9, Intel i5 1240P, 16GB RAM, 256GB SSD, 14&#8243; FHD, IPS Touch Display",
           "brand": "Intel",
@@ -280339,32 +280295,6 @@
             127999,
             127999,
             127999
-          ]
-        },
-        {
-          "id": "rbtechgames_64b85fd3",
-          "name": "HP EliteBook 860 G10, Intel i7 13th Gen, 16GB RAM, 512GB SSD, 16&#8243; FHD, IPS Display, ",
-          "brand": "Intel",
-          "category": "ram",
-          "price": 189999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_elitebook_860_g10_pike_silver.jpg",
-          "url": "https://rbtechngames.com/product/hp-elitebook-860-g10-intel-i7-13th-gen-16gb-ram-512gb-ssd-16-fhd-ips-display-pike-silver-used",
-          "history": [
-            189999,
-            189999,
-            189999,
-            189999,
-            189999,
-            189999,
-            189999,
-            189999,
-            189999,
-            189999,
-            189999,
-            189999
           ]
         },
         {
@@ -281112,6 +281042,7 @@
             84999,
             84999,
             84999,
+            84999,
             84999
           ]
         },
@@ -281162,35 +281093,9 @@
             359999,
             359999,
             359999,
-            359999,
+            364999,
             364999,
             364999
-          ]
-        },
-        {
-          "id": "rbtechgames_04fad0b1",
-          "name": "Lenovo ThinkPad T14 Gen 2, Intel Core i7 11th Gen, 16GB RAM, 512GB SSD, 14&#8243; FHD IPS ",
-          "brand": "Intel",
-          "category": "cpu",
-          "price": 94999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_thinkpad_t14_gen_2_black_1.webp",
-          "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14-gen-2-intel-core-i7-11th-gen-16gb-ram-512gb-ssd-14-fhd-ips-touch-display-used",
-          "history": [
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999
           ]
         },
         {
@@ -282531,7 +282436,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_patriot_viper_venom_rgb_ddr5.jpg",
           "url": "https://rbtechngames.com/product/patriot-viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram",
           "history": [
-            119999,
+            134999,
             134999,
             134999,
             134999,
@@ -282569,32 +282474,6 @@
             16499,
             16499,
             16499
-          ]
-        },
-        {
-          "id": "rbtechgames_7a3b96d6",
-          "name": "HP Victus 15 (fb3093dx), Ryzen 7 7445HS, 16GB RAM, 512GB SSD, RTX 4050, 15.6&#8243; FHD 14",
-          "brand": "HP",
-          "category": "gpu",
-          "price": 299999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/10/678661_685651_01_front_zoom.jpg",
-          "url": "https://rbtechngames.com/product/hp-victus-15-fb3093dx-ryzen-7-7445hs-16gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-windows-11-home-mica-silver-new",
-          "history": [
-            299999,
-            299999,
-            299999,
-            299999,
-            299999,
-            299999,
-            299999,
-            299999,
-            299999,
-            299999,
-            299999,
-            299999
           ]
         },
         {
@@ -282832,32 +282711,6 @@
           ]
         },
         {
-          "id": "rbtechgames_8f031443",
-          "name": "Asus Prime GeForce RTX 5070 OC 12GB Graphics Card &#8211; White Edition",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 244999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_asus_prime_rtx_5070_oc_12gb_white_4.png",
-          "url": "https://rbtechngames.com/product/asus-prime-geforce-rtx-5070-oc-12gb-graphics-card-white-edition",
-          "history": [
-            244999,
-            244999,
-            244999,
-            244999,
-            244999,
-            244999,
-            244999,
-            244999,
-            244999,
-            244999,
-            244999,
-            244999
-          ]
-        },
-        {
           "id": "rbtechgames_4ff41c1c",
           "name": "MSI B760M Project Zero ATX LGA1700 DDR5 Gaming Motherboard",
           "brand": "MSI",
@@ -282973,7 +282826,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5080_windforce_oc_sff_16gb.webp",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card",
           "history": [
-            424999,
+            454999,
             454999,
             454999,
             454999,
@@ -284429,7 +284282,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_kingston_nv3_1.webp",
           "url": "https://rbtechngames.com/product/kingston-nv3-pcie-nvme-gen-4-ssd-500gb-1tb-2tb-4tb",
           "history": [
-            25499,
+            38499,
             38499,
             38499,
             38499,
@@ -284545,32 +284398,6 @@
             94999,
             94999,
             94999
-          ]
-        },
-        {
-          "id": "rbtechgames_cfd77229",
-          "name": "AULA F87 Pro TKL Mechanical Wireless RGB Gaming Keyboard &#8211; Black/Smoke Blue/Sea Salt",
-          "brand": "AULA",
-          "category": "keyboard",
-          "price": 12999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/12/rbtech_aula_f87_pro_black.webp",
-          "url": "https://rbtechngames.com/product/aula-f87-pro-tkl-mechanical-wireless-rgb-gaming-keyboard-black-smoke-blue-black-grey-leobog-greywood-switches",
-          "history": [
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999
           ]
         },
         {
@@ -285091,32 +284918,6 @@
             7200,
             7200,
             7200
-          ]
-        },
-        {
-          "id": "rbtechgames_b3c0921e",
-          "name": "Attack Shark X11 Wireless Gaming Mouse with Charging Dock &#8211; Black/White/Red",
-          "brand": "Attack",
-          "category": "mouse",
-          "price": 7299,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/07/rbtech_attack_shark_x11_white_3.webp",
-          "url": "https://rbtechngames.com/product/attack-shark-x11-wireless-gaming-mouse-with-charging-dock-white",
-          "history": [
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299,
-            7299
           ]
         },
         {
@@ -286254,7 +286055,7 @@
             44999,
             44999,
             44999,
-            44999,
+            48999,
             48999,
             48999,
             48999,
