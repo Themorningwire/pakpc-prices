@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:34:19.613955+00:00",
+  "lastUpdated": "2026-08-06T14:07:06.093891+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -7035,7 +7035,7 @@
           "category": "mouse",
           "price": 3790,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-e7-black-price-in-pakistan-pakbyte.webp?v=1781760800",
           "url": "https://www.pakbyte.pk/products/eweadn-e7-tri-mode-wireless-gaming-mouse-black",
@@ -11663,7 +11663,7 @@
           "category": "headset",
           "price": 5899,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kz-castor-harman-target-price-in-pakistan-pakbyte.webp?v=1776095075",
           "url": "https://www.pakbyte.pk/products/kz-castor-dynamic-drivers-earphones-harman-target-version",
@@ -18267,7 +18267,7 @@
           "category": "monitor",
           "price": 67990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/koorui-32e6qc-price-in-pakistan-pakbyte_1.webp?v=1772447221",
           "url": "https://www.pakbyte.pk/products/koorui-32e6qc-32-va-display-qhd-170hz-gaming-curved-monitor",
@@ -31397,7 +31397,7 @@
           "category": "monitor",
           "price": 85990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/mxg-g34wic-65-price-in-pakistan-pakbyte_1.webp?v=1765974742",
           "url": "https://www.pakbyte.pk/products/mxg-g34wic-65-34-nano-ips-165hz-qhd-3440x1440-ultrawide-curved-gaming-monitor",
@@ -37645,7 +37645,7 @@
             149990,
             149990,
             149990,
-            149990,
+            157999,
             157999,
             157999,
             157999,
@@ -43781,7 +43781,7 @@
             12490,
             12490,
             12490,
-            12490,
+            18499,
             18499,
             18499,
             18499,
@@ -49493,7 +49493,7 @@
           "category": "keyboard",
           "price": 11490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x68-he-keyboard-black-contours-price-in-pakistan-pakbyte_1.jpg?v=1755314806",
           "url": "https://www.pakbyte.pk/products/attack-shark-x68-he-60-wired-gaming-keyboard-black-contours",
@@ -50741,7 +50741,7 @@
           "category": "monitor",
           "price": 8490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-win60-he-keyboard-price-in-pakistan-pakbyte_1.webp?v=1755090489",
           "url": "https://www.pakbyte.pk/products/aula-win60-he-60-wired-magnetic-keyboard-8000-hz-polling-rate-black",
@@ -94005,7 +94005,7 @@
           "category": "cooler",
           "price": 8500,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Cooler-Master-ARGB-LED-Controller-MFP-ACBN-NNUNN-R1-PakByte-Computers-24807129022531.jpg?v=1753677783",
           "url": "https://www.pakbyte.pk/products/cooler-master-argb-led-controller-with-4-x-3-pin-ports-multiple-colour-effects-thermal-detection-mode-4-pin-rgb-device-compatible",
@@ -144659,6 +144659,7 @@
             9000000,
             9000000,
             9000000,
+            9000000,
             9000000
           ]
         },
@@ -144684,6 +144685,7 @@
             8699900,
             8699900,
             8699900,
+            8699900,
             8699900
           ]
         },
@@ -144699,6 +144701,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-HydroShift-II-LCD-S-360-AIO-Liquid-CPU-Cooler.webp",
           "url": "https://zahcomputers.pk/product/lian-li-hydroshift-ii-lcd-s-360-aio-liquid-cpu-cooler",
           "history": [
+            4700000,
             4700000,
             4700000,
             4700000,
@@ -165293,7 +165296,7 @@
             250000,
             250000,
             250000,
-            250000,
+            270000,
             270000,
             270000,
             270000,
@@ -181098,7 +181101,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-12GB-Video-RAM-GDDR7-VRAM-Type-6144-Cuda-Cores-28GBps-Memory-Speed-Graphic-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-5070-12gb-video-ram-gddr7-vram-type-6144-cuda-cores-28gbps-memory-speed-graphic-card",
           "history": [
-            26800000,
+            27500000,
             27500000,
             27500000,
             27500000,
@@ -200029,7 +200032,7 @@
             7400000,
             7400000,
             7400000,
-            7400000,
+            8000000,
             8000000,
             8000000,
             8000000,
@@ -215473,7 +215476,7 @@
             46500000,
             46500000,
             46500000,
-            46500000,
+            48500000,
             48500000,
             48500000,
             48500000,
@@ -219425,7 +219428,7 @@
             2299900,
             2299900,
             2299900,
-            2299900,
+            2300000,
             2300000,
             2300000,
             2300000,
@@ -278157,6 +278160,7 @@
           "history": [
             374999,
             374999,
+            374999,
             374999
           ]
         },
@@ -278177,6 +278181,7 @@
             33499,
             33499,
             33499,
+            33499,
             33499
           ]
         },
@@ -278192,6 +278197,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/Legion_5_15IRX10_CT1_02.avif",
           "url": "https://rbtechngames.com/product/lenovo-legion-5i-15irx10-intel-core-i9-14th-16gb-32gb-ram-1tb-ssd-rtx-5070-15-1-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            544999,
             544999,
             544999,
             544999,
@@ -278227,6 +278233,7 @@
             579999,
             579999,
             579999,
+            579999,
             579999
           ]
         },
@@ -278242,6 +278249,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hyperx_omen_15.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-15-amd-ryzen-ai-7-450-16gb-ram-512gb-ssd-rtx-5050-15-3-fhd-165hz-ips-display-shadow-black-used",
           "history": [
+            354999,
             354999,
             354999,
             354999,
@@ -278277,6 +278285,7 @@
             229999,
             229999,
             229999,
+            229999,
             229999
           ]
         },
@@ -278302,6 +278311,7 @@
             171999,
             171999,
             171999,
+            171999,
             171999
           ]
         },
@@ -278317,6 +278327,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_dell_latitude_5450_1.webp",
           "url": "https://rbtechngames.com/product/dell-latitude-5450-intel-core-ultra-7-16gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-titan-grey-used",
           "history": [
+            182999,
             182999,
             182999,
             182999,
@@ -278349,6 +278360,7 @@
             89999,
             89999,
             89999,
+            84999,
             84999,
             84999,
             84999,
@@ -278663,6 +278675,7 @@
             664999,
             664999,
             664999,
+            664999,
             664999
           ]
         },
@@ -278737,7 +278750,7 @@
             154999,
             154999,
             154999,
-            154999,
+            137999,
             137999,
             137999,
             137999,
@@ -278789,7 +278802,7 @@
             86999,
             86999,
             86999,
-            86999,
+            79999,
             79999,
             79999,
             79999,
@@ -279191,8 +279204,8 @@
           "name": "Zotac Gaming GeForce RTX 5060 Ti 8GB Twin Edge Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 144999,
-          "oldPrice": null,
+          "price": 149999,
+          "oldPrice": 144999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_zotac_rtx_5060_ti_8gb.jpg",
@@ -279209,7 +279222,7 @@
             144999,
             144999,
             144999,
-            144999
+            149999
           ]
         },
         {
@@ -279217,8 +279230,8 @@
           "name": "Asus Prime GeForce RTX 5080 16GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 458999,
-          "oldPrice": null,
+          "price": 484999,
+          "oldPrice": 458999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_rtx_5080_16gb_oc.webp",
@@ -279235,7 +279248,7 @@
             458999,
             458999,
             458999,
-            458999
+            484999
           ]
         },
         {
@@ -279633,8 +279646,8 @@
           "name": "Asus ROG Astral GeForce RTX 5090 32GB White OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 1449999,
-          "oldPrice": null,
+          "price": 1649999,
+          "oldPrice": 1449999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
@@ -279651,7 +279664,7 @@
             1449999,
             1449999,
             1449999,
-            1449999
+            1649999
           ]
         },
         {
@@ -279841,8 +279854,8 @@
           "name": "Gigabyte GeForce RTX 5070 Eagle OC Ice SFF 12Gb Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 244999,
-          "oldPrice": null,
+          "price": 249999,
+          "oldPrice": 244999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_gigabyte_rtx_5070_eagle_oc_ice_sff_12gb.webp",
@@ -279859,7 +279872,7 @@
             244999,
             244999,
             244999,
-            244999
+            249999
           ]
         },
         {
@@ -280505,7 +280518,7 @@
             127999,
             127999,
             127999,
-            127999,
+            114999,
             114999,
             114999,
             114999,
@@ -280531,7 +280544,7 @@
             194999,
             194999,
             194999,
-            194999,
+            179999,
             179999,
             179999,
             179999,
@@ -280557,7 +280570,7 @@
             159999,
             159999,
             159999,
-            159999,
+            154999,
             154999,
             154999,
             154999,
@@ -281713,8 +281726,8 @@
           "name": "Asus ProArt GeForce RTX 5080 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 468999,
-          "oldPrice": null,
+          "price": 499999,
+          "oldPrice": 468999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_asus_proart_rtx_5080_16gb_oc.webp",
@@ -281731,7 +281744,7 @@
             468999,
             468999,
             468999,
-            468999
+            499999
           ]
         },
         {
@@ -281739,8 +281752,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Twin Edge 12GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 224999,
-          "oldPrice": null,
+          "price": 234999,
+          "oldPrice": 224999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_zotac_rtx_5070_twin_edge_12gb.jpg",
@@ -281757,7 +281770,7 @@
             224999,
             224999,
             224999,
-            224999
+            234999
           ]
         },
         {
@@ -281869,8 +281882,8 @@
           "name": "Gigabyte Aorus GeForce RTX 5090 Master Ice 32GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 1349999,
-          "oldPrice": null,
+          "price": 1449999,
+          "oldPrice": 1349999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_gigabyte_aorus_rtx_5090_master_ice.webp",
@@ -281887,7 +281900,7 @@
             1349999,
             1349999,
             1349999,
-            1349999
+            1449999
           ]
         },
         {
@@ -282103,8 +282116,8 @@
           "name": "Colorful iGame GeForce RTX 5080 Ultra W OC 16GB-V Graphics Card",
           "brand": "Colorful",
           "category": "gpu",
-          "price": 459999,
-          "oldPrice": null,
+          "price": 484999,
+          "oldPrice": 459999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_colorful_igame_rtx_5080_ultra_w_oc_16gb.webp",
@@ -282121,7 +282134,7 @@
             459999,
             459999,
             459999,
-            459999
+            484999
           ]
         },
         {
@@ -282259,8 +282272,8 @@
           "name": "Asus ROG Astral GeForce RTX 5080 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 594999,
-          "oldPrice": null,
+          "price": 624999,
+          "oldPrice": 594999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_asus_rog_astral_rtx_5080_16gb_oc.png",
@@ -282277,7 +282290,7 @@
             594999,
             594999,
             594999,
-            594999
+            624999
           ]
         },
         {
@@ -282311,8 +282324,8 @@
           "name": "Asus ROG Astral GeForce RTX 5080 16GB White OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 539999,
-          "oldPrice": null,
+          "price": 584999,
+          "oldPrice": 539999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_asus_rog_astral_rtx_5080_16gb_oc_white.png",
@@ -282329,7 +282342,7 @@
             539999,
             539999,
             539999,
-            539999
+            584999
           ]
         },
         {
@@ -282415,8 +282428,8 @@
           "name": "Sapphire Pulse AMD Radeon RX 9060 XT OC 16GB Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 154999,
-          "oldPrice": null,
+          "price": 164999,
+          "oldPrice": 154999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_sapphire_pulse__rx_9060_xt_oc_16gb.webp",
@@ -282433,7 +282446,7 @@
             154999,
             154999,
             154999,
-            154999
+            164999
           ]
         },
         {
@@ -282857,8 +282870,8 @@
           "name": "Gigabyte GeForce RTX 5070 Ti Windforce OC SFF 16GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 359999,
-          "oldPrice": null,
+          "price": 364999,
+          "oldPrice": 359999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_gigabyte_rtx_5070_ti_windforce_oc_sff_16gb.webp",
@@ -282875,7 +282888,7 @@
             359999,
             359999,
             359999,
-            359999
+            364999
           ]
         },
         {
@@ -282883,8 +282896,8 @@
           "name": "Gigabyte GeForce RTX 5070 Ti Gaming OC 16GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 359999,
-          "oldPrice": null,
+          "price": 364999,
+          "oldPrice": 359999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5070_ti_gaming_oc_16gb.webp",
@@ -282901,7 +282914,7 @@
             359999,
             359999,
             359999,
-            359999
+            364999
           ]
         },
         {
@@ -283013,8 +283026,8 @@
           "name": "Gigabyte GeForce RTX 5080 Windforce OC SFF 16GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 454999,
-          "oldPrice": null,
+          "price": 484999,
+          "oldPrice": 454999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5080_windforce_oc_sff_16gb.webp",
@@ -283031,7 +283044,7 @@
             454999,
             454999,
             454999,
-            454999
+            484999
           ]
         },
         {
@@ -283429,8 +283442,8 @@
           "name": "Gigabyte GeForce RTX 5080 Aero OC SFF 16GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 464999,
-          "oldPrice": null,
+          "price": 484999,
+          "oldPrice": 464999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_gigabyte_rtx_5080_aero_oc_sff_16gb.webp",
@@ -283447,7 +283460,7 @@
             464999,
             464999,
             464999,
-            464999
+            484999
           ]
         },
         {
@@ -283559,8 +283572,8 @@
           "name": "Zotac Gaming GeForce RTX 5090 AMP Extreme Infinity 32GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 1349999,
-          "oldPrice": null,
+          "price": 1489999,
+          "oldPrice": 1349999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_zotac_rtx_5090_amp_extreme_infinity_32gb.jpg",
@@ -283577,7 +283590,7 @@
             1349999,
             1349999,
             1349999,
-            1349999
+            1489999
           ]
         },
         {
@@ -283689,8 +283702,8 @@
           "name": "Asus Prime GeForce RTX 5070 Ti 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 364999,
-          "oldPrice": null,
+          "price": 374999,
+          "oldPrice": 364999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_asus_prime_rtx_5070_ti_16gb.png",
@@ -283707,7 +283720,7 @@
             364999,
             364999,
             364999,
-            364999
+            374999
           ]
         },
         {
@@ -283975,8 +283988,8 @@
           "name": "Gigabyte GeForce RTX 5070 Windforce 12GB OC SFF Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 234999,
-          "oldPrice": null,
+          "price": 244999,
+          "oldPrice": 234999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_gigabyte_rtx_5070_windforce_oc_sff_12gb.webp",
@@ -283993,7 +284006,7 @@
             234999,
             234999,
             234999,
-            234999
+            244999
           ]
         },
         {
@@ -284027,8 +284040,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Solid OC 12GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 239499,
-          "oldPrice": null,
+          "price": 244999,
+          "oldPrice": 239499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
@@ -284045,7 +284058,7 @@
             239499,
             239499,
             239499,
-            239499
+            244999
           ]
         },
         {
