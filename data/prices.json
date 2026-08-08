@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T18:55:09.473040+00:00",
+  "lastUpdated": "2026-08-08T01:35:58.361696+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hiksemi-waves-256gb-ssd-price-in-pakistan-pakbyte-1.jpg?v=1786106368",
           "url": "https://www.pakbyte.pk/products/hiksemi-waves-256gb-2-5-sata-internal-ssd",
           "history": [
+            10990,
             10990,
             10990
           ]
@@ -48171,7 +48172,7 @@
             47999,
             47999,
             47999,
-            47999,
+            50999,
             50999,
             50999
           ]
@@ -48197,7 +48198,7 @@
             46999,
             46999,
             46999,
-            46999,
+            49999,
             49999,
             49999
           ]
@@ -59533,7 +59534,7 @@
             119999,
             119999,
             119999,
-            119999,
+            151499,
             151499,
             151499
           ]
@@ -63875,7 +63876,7 @@
             115490,
             115490,
             115490,
-            115490,
+            142999,
             142999,
             142999
           ]
@@ -79345,7 +79346,7 @@
             1290,
             1290,
             1290,
-            1290,
+            1499,
             1499,
             1499
           ]
@@ -144672,6 +144673,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/MSI-GeForce-RTX-5060-Ti-8G-GAMING-TRIO-OC-Graphics-Card-Price-In-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5060-ti-8g-gaming-trio-oc-graphics-card",
           "history": [
+            16500000,
             16500000
           ]
         },
@@ -144687,6 +144689,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-Yoga-Slim-7i-Aura-Edition.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-slim-7-14-aura-edition-2026-copilot-pc",
           "history": [
+            38000000,
             38000000,
             38000000
           ]
@@ -144704,6 +144707,7 @@
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-3060ti-oc-8gb-gddr6-pci-express-4-0-x16-video-card-used",
           "history": [
             9000000,
+            9000000,
             9000000
           ]
         },
@@ -144719,6 +144723,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/02/ASUS-Dual-GeForce-RTX-3060-Ti-V2-OC-Edition-8GB-GDDR6-PCI-Express-4.0-Video-Card-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-3060ti-8gb-gddr6-pci-express-4-0-x16-video-card-used",
           "history": [
+            9000000,
             9000000,
             9000000,
             9000000,
@@ -144841,7 +144846,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 49000000,
-          "oldPrice": 46000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-ProArt-GeForce-RTX-5080-16GB-GDDR7-Graphics-Card.jpg",
@@ -144857,7 +144862,7 @@
             46000000,
             46000000,
             46000000,
-            46000000,
+            49000000,
             49000000
           ]
         },
@@ -147051,7 +147056,7 @@
           "brand": "ASUS",
           "category": "ram",
           "price": 40000000,
-          "oldPrice": 37000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-Vivobook-S16-S5606CA-SB92-AI-Laptop-Price-in-Pakistan.jpg",
@@ -147067,7 +147072,7 @@
             37000000,
             37000000,
             37000000,
-            37000000,
+            40000000,
             40000000
           ]
         },
@@ -154565,7 +154570,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 15800000,
-          "oldPrice": 15500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Asus-Prime-GeForce-RTX-5060-8GB-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -154581,7 +154586,7 @@
             15500000,
             15500000,
             15500000,
-            15500000,
+            15800000,
             15800000
           ]
         },
@@ -169073,7 +169078,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 14800000,
-          "oldPrice": 14500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ZOTAC-GAMING-GeForce-RTX-5060-Twin-Edge-OC-8GB-White-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -169089,7 +169094,7 @@
             14500000,
             14500000,
             14500000,
-            14500000,
+            14800000,
             14800000
           ]
         },
@@ -177613,7 +177618,7 @@
             41900000,
             41900000,
             41900000,
-            41900000,
+            45500000,
             45500000,
             45500000,
             45500000,
@@ -178225,7 +178230,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 15300000,
-          "oldPrice": 15000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Asus-Dual-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -178241,7 +178246,7 @@
             15000000,
             15000000,
             15000000,
-            15000000,
+            15300000,
             15300000
           ]
         },
@@ -181137,13 +181142,12 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 39800000,
-          "oldPrice": 39000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-Ti-OC-Edition-16GB-GDDR7-TUF-RTX5070TI-O16G-GAMING-PCI-Express-5.0-DLSS-4.0-Graphics-Card-price-inPakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-5070-ti-oc-edition-16gb-gddr7-tuf-rtx5070ti-o16g-gaming-pci-express-5-0-dlss-4-0-graphics-card",
           "history": [
-            36000000,
             36000000,
             36000000,
             36000000,
@@ -181154,6 +181158,7 @@
             38500000,
             38500000,
             39000000,
+            39800000,
             39800000
           ]
         },
@@ -184491,7 +184496,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 37500000,
-          "oldPrice": 36500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-PRIME-GeForce-RTX-5070-Ti-16GB-256-Bit-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan.jpg",
@@ -184507,7 +184512,7 @@
             36500000,
             36500000,
             36500000,
-            36500000,
+            37500000,
             37500000
           ]
         },
@@ -190939,7 +190944,7 @@
           "brand": "ADATA",
           "category": "ram",
           "price": 5600000,
-          "oldPrice": 5500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-8GB-5600MHz-U-DIMM-DDR5-Desktop-Memory-Price-in-Pakistan.jpg",
@@ -190955,7 +190960,7 @@
             5500000,
             5500000,
             5500000,
-            5500000,
+            5600000,
             5600000
           ]
         },
@@ -197205,7 +197210,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 15800000,
-          "oldPrice": 14000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/ZOTAC-GAMING-GeForce-Twin-Edge-OC-RTX-5060-Ti.jpg",
@@ -197221,7 +197226,7 @@
             14000000,
             14000000,
             14000000,
-            14000000,
+            15800000,
             15800000
           ]
         },
@@ -198130,7 +198135,7 @@
             33000000,
             33000000,
             33000000,
-            33000000,
+            35000000,
             35000000,
             35000000
           ]
@@ -207059,7 +207064,7 @@
           "brand": "Gigabyte",
           "category": "gpu",
           "price": 47500000,
-          "oldPrice": 45599900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/03/Gigabyte-GeForce-RTX-5080-WINDFORCE-OC-SFF-Graphics-Card-Price-in-Pakistan.jpg",
@@ -207075,7 +207080,7 @@
             45599900,
             45599900,
             45599900,
-            45599900,
+            47500000,
             47500000
           ]
         },
@@ -215483,7 +215488,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 49800000,
-          "oldPrice": 48500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Zotac-Gaming-Geforce-RTX-5080-AMP-Extreme-INFINITY.jpg",
@@ -215499,7 +215504,7 @@
             48500000,
             48500000,
             48500000,
-            48500000,
+            49800000,
             49800000
           ]
         },
@@ -215515,6 +215520,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Zotac-Gaming-Geforce-RTX-5080-Solid-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5080-solid-16gb-gddr57-256-bit-graphics-card",
           "history": [
+            46000000,
             46000000
           ]
         },
@@ -278197,6 +278203,7 @@
             374999,
             374999,
             374999,
+            374999,
             374999
           ]
         },
@@ -278343,7 +278350,7 @@
           "url": "https://rbtechngames.com/product/hp-elitebook-840-g11-intel-core-ultra-5-16gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-pike-silver-used",
           "history": [
             182999,
-            182999,
+            171999,
             171999,
             171999,
             171999,
@@ -278395,7 +278402,7 @@
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-x13-yoga-gen-2-intel-i7-11th-gen-16gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-villi-black-used",
           "history": [
             89999,
-            89999,
+            84999,
             84999,
             84999,
             84999,
@@ -278785,7 +278792,7 @@
           "url": "https://rbtechngames.com/product/dell-latitude-5540-intel-i5-1350p-16gb-ram-256gb-ssd-15-6%e2%80%b3-fhd-ips-display-titan-grey-used",
           "history": [
             154999,
-            154999,
+            137999,
             137999,
             137999,
             137999,
@@ -278837,7 +278844,7 @@
           "url": "https://rbtechngames.com/product/hp-elitebook-840-g8-intel-i5-11th-gen-16gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-pike-silver-used",
           "history": [
             86999,
-            86999,
+            79999,
             79999,
             79999,
             79999,
@@ -279257,7 +279264,7 @@
             144999,
             144999,
             144999,
-            144999,
+            149999,
             149999,
             149999,
             149999,
@@ -279283,7 +279290,7 @@
             458999,
             458999,
             458999,
-            458999,
+            484999,
             484999,
             484999,
             484999,
@@ -279699,7 +279706,7 @@
             1449999,
             1449999,
             1449999,
-            1449999,
+            1649999,
             1649999,
             1649999,
             1649999,
@@ -279907,7 +279914,7 @@
             244999,
             244999,
             244999,
-            244999,
+            249999,
             249999,
             249999,
             249999,
@@ -280553,7 +280560,7 @@
           "url": "https://rbtechngames.com/product/hp-elitebook-850-g8-intel-i7-11th-gen-16gb-ram-256gb-ssd-15-6-fhd-ips-touch-display-pike-silver-used",
           "history": [
             127999,
-            127999,
+            114999,
             114999,
             114999,
             114999,
@@ -280579,7 +280586,7 @@
           "url": "https://rbtechngames.com/product/dell-latitude-7450-intel-core-ultra-7-32gb-ram-512gb-ssd-14-fhd-ips-display-titan-gray-used",
           "history": [
             194999,
-            194999,
+            179999,
             179999,
             179999,
             179999,
@@ -280605,7 +280612,7 @@
           "url": "https://rbtechngames.com/product/hp-elitebook-840-g10-intel-i7-13th-gen-16gb-ram-512gb-ssd-14-fhd-ips-display-pike-silver-used",
           "history": [
             159999,
-            159999,
+            154999,
             154999,
             154999,
             154999,
@@ -280832,7 +280839,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 7499,
-          "oldPrice": 5995,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_rapoo_v30l.webp",
@@ -280848,7 +280855,7 @@
             5995,
             5995,
             5995,
-            5995,
+            7499,
             7499
           ]
         },
@@ -281092,7 +281099,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 11999,
-          "oldPrice": 8845,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_rapoo_vt9pro-scaled.webp",
@@ -281108,7 +281115,7 @@
             8845,
             8845,
             8845,
-            8845,
+            11999,
             11999
           ]
         },
@@ -281118,7 +281125,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 5499,
-          "oldPrice": 4195,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_rapoo_vt200-scaled.webp",
@@ -281134,7 +281141,7 @@
             4195,
             4195,
             4195,
-            4195,
+            5499,
             5499
           ]
         },
@@ -281779,7 +281786,7 @@
             468999,
             468999,
             468999,
-            468999,
+            499999,
             499999,
             499999,
             499999,
@@ -281805,7 +281812,7 @@
             224999,
             224999,
             224999,
-            224999,
+            234999,
             234999,
             234999,
             234999,
@@ -281909,7 +281916,7 @@
             1349999,
             1349999,
             1349999,
-            1349999,
+            1449999,
             1449999,
             1449999,
             1449999,
@@ -281991,7 +281998,7 @@
             63999,
             63999,
             63999,
-            63999,
+            69999,
             69999,
             69999
           ]
@@ -282143,7 +282150,7 @@
             459999,
             459999,
             459999,
-            459999,
+            484999,
             484999,
             484999,
             484999,
@@ -282299,7 +282306,7 @@
             594999,
             594999,
             594999,
-            594999,
+            624999,
             624999,
             624999,
             624999,
@@ -282351,7 +282358,7 @@
             539999,
             539999,
             539999,
-            539999,
+            584999,
             584999,
             584999,
             584999,
@@ -282845,7 +282852,7 @@
             359999,
             359999,
             359999,
-            359999,
+            364999,
             364999,
             364999,
             364999,
@@ -282871,7 +282878,7 @@
             359999,
             359999,
             359999,
-            359999,
+            364999,
             364999,
             364999,
             364999,
@@ -283001,7 +283008,7 @@
             454999,
             454999,
             454999,
-            454999,
+            484999,
             484999,
             484999,
             484999,
@@ -283417,7 +283424,7 @@
             464999,
             464999,
             464999,
-            464999,
+            484999,
             484999,
             484999,
             484999,
@@ -283547,7 +283554,7 @@
             1349999,
             1349999,
             1349999,
-            1349999,
+            1489999,
             1489999,
             1489999,
             1489999,
@@ -283677,7 +283684,7 @@
             364999,
             364999,
             364999,
-            364999,
+            374999,
             374999,
             374999,
             374999,
@@ -283963,7 +283970,7 @@
             234999,
             234999,
             234999,
-            234999,
+            244999,
             244999,
             244999,
             244999,
@@ -284015,7 +284022,7 @@
             239499,
             239499,
             239499,
-            239499,
+            244999,
             244999,
             244999,
             244999,
@@ -284539,7 +284546,7 @@
             49499,
             49499,
             49499,
-            49499,
+            51499,
             51499,
             51499
           ]
