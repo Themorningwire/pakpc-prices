@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T13:05:13.136564+00:00",
+  "lastUpdated": "2026-08-10T18:56:02.272327+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -21,6 +21,7 @@
           "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5060-8gb-gddr7-graphic-card",
           "history": [
             119990,
+            119990,
             119990
           ]
         },
@@ -36,6 +37,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Manli-RTX5050-Nebula-Price-in-Pakistan-Pakbyte_1.webp?v=1786342009",
           "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5050-8gb-gddr6-graphic-card",
           "history": [
+            98990,
             98990,
             98990
           ]
@@ -5826,7 +5828,7 @@
           "history": [
             62990,
             62990,
-            62990,
+            64990,
             64990,
             64990,
             64990,
@@ -5852,7 +5854,7 @@
           "history": [
             55490,
             55490,
-            55490,
+            57490,
             57490,
             57490,
             57490,
@@ -5878,7 +5880,7 @@
           "history": [
             46490,
             46490,
-            46490,
+            47490,
             47490,
             47490,
             47490,
@@ -9128,7 +9130,7 @@
           "history": [
             234990,
             234990,
-            234990,
+            269999,
             269999,
             269999,
             269999,
@@ -18729,7 +18731,7 @@
             129990,
             129990,
             129990,
-            129990,
+            119990,
             119990,
             119990
           ]
@@ -18807,7 +18809,7 @@
             51990,
             51990,
             51990,
-            51990,
+            49990,
             49990,
             49990
           ]
@@ -18833,7 +18835,7 @@
             40990,
             40990,
             40990,
-            40990,
+            37490,
             37490,
             37490
           ]
@@ -31116,7 +31118,7 @@
           "brand": "Transcend",
           "category": "storage",
           "price": 19499,
-          "oldPrice": 14990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/transcend-225s-250gb-ssd-price-in-pakistan-pakbyte.png?v=1765982598",
@@ -31132,7 +31134,7 @@
             14990,
             14990,
             14990,
-            14990,
+            19499,
             19499
           ]
         },
@@ -37702,7 +37704,7 @@
           "history": [
             157999,
             157999,
-            157999,
+            149990,
             149990,
             149990,
             149990,
@@ -57688,7 +57690,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 209999,
-          "oldPrice": 230000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ZOTAC-GAMING-GeForce-RTX-4070-SUPER-TWIN-EDGE-OC-WHITE-Edition-12GB-GDDR6X-PakByte-Computers-26301135224899.jpg?v=1753670277",
@@ -57704,7 +57706,7 @@
             230000,
             230000,
             230000,
-            230000,
+            209999,
             209999
           ]
         },
@@ -61681,7 +61683,7 @@
             76790,
             76790,
             76790,
-            76790,
+            89990,
             89990,
             89990
           ]
@@ -62428,7 +62430,7 @@
           "history": [
             35890,
             35890,
-            35890,
+            38999,
             38999,
             38999,
             38999,
@@ -71208,7 +71210,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 6299,
-          "oldPrice": 5399,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Pebble-Mouse-2-M350s-Slim-Bluetooth-Wireless-Mouse-Tonal-Graphite-PakByte-Computers-25788233089091.jpg?v=1753672795",
@@ -71224,7 +71226,7 @@
             5399,
             5399,
             5399,
-            5399,
+            6299,
             6299
           ]
         },
@@ -96870,7 +96872,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 209999,
-          "oldPrice": 197000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ZOTAC-GeForce-RTX-4070-Super-12GB-GDDR6-Graphics-Card-PakByte-Computers-24653047660611.jpg?v=1753678234",
@@ -96886,7 +96888,7 @@
             197000,
             197000,
             197000,
-            197000,
+            209999,
             209999
           ]
         },
@@ -144714,6 +144716,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/GeForce-RTX™-5060-GAMING-OC-8G-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5060-gaming-oc-8g-graphics-card",
           "history": [
+            15500000,
             15500000
           ]
         },
@@ -144737,6 +144740,7 @@
             520000,
             520000,
             520000,
+            520000,
             520000
           ]
         },
@@ -144752,6 +144756,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Hp-Elitebook-840-G8-Core-i7-11th-Gen-16GB-Ram-256GB-SSD-14.1-FHD-Display-Backlit-Keyboard-Fingerprint-Face-Recognition-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-630-g10-touchscreen-business-laptop",
           "history": [
+            13000000,
             13000000,
             13000000,
             13000000,
@@ -144801,6 +144806,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-Yoga-Slim-7i-Aura-Edition.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-slim-7-14-aura-edition-2026-copilot-pc",
           "history": [
+            38000000,
             38000000,
             38000000,
             38000000,
@@ -148308,6 +148314,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Hp-Elitebook-840-G8-Core-i7-11th-Gen-16GB-Ram-256GB-SSD-14.1-FHD-Display-Backlit-Keyboard-Fingerprint-Face-Recognition-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-840-g9-14-wuxga-ips-display-intel-core-i7-1265u-12th-gen-16gb-ddr5-ram-512gb-nvme-ssd-used",
           "history": [
+            13000000,
             13000000,
             13000000,
             13000000,
@@ -165485,7 +165492,7 @@
           "category": "cooler",
           "price": 270000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Viola-Top-Tier-Scented-Performance-Thermal-Paste-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-viola-top-tier-scented-performance-thermal-paste-4g",
@@ -165537,7 +165544,7 @@
           "category": "cooler",
           "price": 269900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Luna-Top-Tier-Scented-Performance-Thermal-Paste-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-luna-top-tier-scented-performance-thermal-paste-4g",
@@ -167499,7 +167506,7 @@
             2099900,
             2099900,
             2099900,
-            2099900,
+            1790000,
             1790000,
             1790000,
             1790000,
@@ -167538,7 +167545,7 @@
           "brand": "ADATA",
           "category": "ram",
           "price": 11000000,
-          "oldPrice": 12099900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-8GB-5600MHz-SO-DIMM-DDR5-Laptop-Memory-Price-in-Pakistan.jpg",
@@ -167554,7 +167561,7 @@
             12099900,
             12099900,
             12099900,
-            12099900,
+            11000000,
             11000000
           ]
         },
@@ -169293,7 +169300,7 @@
             13199900,
             13199900,
             13199900,
-            13199900,
+            14600000,
             14600000,
             14600000,
             14600000,
@@ -169315,7 +169322,7 @@
             14800000,
             14800000,
             14800000,
-            14800000,
+            13600000,
             13600000,
             13600000,
             13600000,
@@ -175623,8 +175630,8 @@
           "name": "LIAN LI UNI FAN SL INFINITY Wireless 120 RGB 3 PCS PACK UF-SLIN120 ( L Connect 3.0 Control",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 3000000,
-          "oldPrice": null,
+          "price": 2750000,
+          "oldPrice": 3000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/LIAN-LI-UNI-FAN-SL-INFINITY-Wireless-120-RGB-3-PCS-PACK-UF-SLIN120-L-Connect-3.0-Controller-included-White-Price-in-Pakistan.jpg",
@@ -175641,7 +175648,7 @@
             3000000,
             3000000,
             3000000,
-            3000000
+            2750000
           ]
         },
         {
@@ -175649,8 +175656,8 @@
           "name": "LIAN LI UNI FAN SL INFINITY Wireless 120 RGB 3 PCS PACK UF-SLIN120 ( L Connect 3.0 Control",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 3000000,
-          "oldPrice": null,
+          "price": 2750000,
+          "oldPrice": 3000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/LIAN-LI-UNI-FAN-SL-INFINITY-Wireless-120-RGB-3-PCS-PACK-UF-SLIN120-L-Connect-3.0-Controller-included-Black-Price-in-Pakistan.jpg",
@@ -175667,7 +175674,7 @@
             3000000,
             3000000,
             3000000,
-            3000000
+            2750000
           ]
         },
         {
@@ -180173,8 +180180,8 @@
           "name": "Lian Li GALAHAD II Lite AIO ARGB 360mm Liquid CPU Cooler",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 2649900,
-          "oldPrice": null,
+          "price": 3100000,
+          "oldPrice": 2649900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/11/Lian-Li-Galahad-II-Lite-AIO-ARGB-360mm-Liquid-CPU-Cooler-Price-in-Pakistan.jpg",
@@ -180191,7 +180198,7 @@
             2649900,
             2649900,
             2649900,
-            2649900
+            3100000
           ]
         },
         {
@@ -180277,8 +180284,8 @@
           "name": "Lian Li UNI FAN CL120 Reverse Blade Wireless White RGB Triple Fan Pack &#8211; 120mm",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 1750000,
-          "oldPrice": null,
+          "price": 1550000,
+          "oldPrice": 1750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lian-Li-UNI-FAN-CL120-Wireless-Black-RGB-Triple-Fan-Pack-120mm-Price-in-Pakistan.jpg",
@@ -180295,7 +180302,7 @@
             1750000,
             1750000,
             1750000,
-            1750000
+            1550000
           ]
         },
         {
@@ -180303,8 +180310,8 @@
           "name": "Lian Li UNI FAN CL120 Reverse Blade Wireless Black RGB Triple Fan Pack &#8211; 120mm",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 1750000,
-          "oldPrice": null,
+          "price": 1550000,
+          "oldPrice": 1750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lian-Li-UNI-FAN-CL120-Wireless-Black-RGB-Triple-Fan-Pack-120mm-Price-in-Paksiatan.jpg",
@@ -180321,7 +180328,7 @@
             1750000,
             1750000,
             1750000,
-            1750000
+            1550000
           ]
         },
         {
@@ -180329,8 +180336,8 @@
           "name": "Lian Li UNI FAN CL120 Wireless Black RGB Triple Fan Pack &#8211; 120mm",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 1750000,
-          "oldPrice": null,
+          "price": 1550000,
+          "oldPrice": 1750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lian-Li-UNI-FAN-CL120-Wireless-Black-RGB-Triple-Fan-Pack-120mm-Price-in-Paksiatan.jpg",
@@ -180347,7 +180354,7 @@
             1750000,
             1750000,
             1750000,
-            1750000
+            1550000
           ]
         },
         {
@@ -180355,8 +180362,8 @@
           "name": "Lian Li UNI FAN CL120 Wireless White RGB Triple Fan Pack &#8211; 120mm",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 1750000,
-          "oldPrice": null,
+          "price": 1550000,
+          "oldPrice": 1750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lian-Li-UNI-FAN-CL120-Wireless-Black-RGB-Triple-Fan-Pack-120mm-Price-in-Pakistan.jpg",
@@ -180373,7 +180380,7 @@
             1750000,
             1750000,
             1750000,
-            1750000
+            1550000
           ]
         },
         {
@@ -191614,7 +191621,7 @@
           "brand": "Lexar",
           "category": "storage",
           "price": 7300000,
-          "oldPrice": 6900000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Lexar-NM790-2TB-Gen4-M.2-NVMe-SSD-Price-in-pakistan.jpg",
@@ -191630,7 +191637,7 @@
             6900000,
             6900000,
             6900000,
-            6900000,
+            7300000,
             7300000
           ]
         },
@@ -203131,7 +203138,7 @@
           "name": "Gigabyte GeForce RTX 5070 WINDFORCE OC SFF 12GB GDDR7 PCI Express 5.0 ATX Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 24000000,
+          "price": 24900000,
           "oldPrice": 27799900,
           "inStock": true,
           "lowStock": false,
@@ -203149,7 +203156,7 @@
             24000000,
             24000000,
             24000000,
-            24000000
+            24900000
           ]
         },
         {
@@ -211903,7 +211910,7 @@
             340000,
             340000,
             340000,
-            340000,
+            370000,
             370000,
             370000,
             370000,
@@ -229677,8 +229684,8 @@
           "name": "ASUS ProArt LC 420 Liquid CPU Cooler, 3 Phase Motor, 3x Noctua NF-A14 Fans, Illuminated St",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 6850000,
-          "oldPrice": null,
+          "price": 8500000,
+          "oldPrice": 6850000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/107647-asus-proart-lc-420-liquid-cpu-cooler-price-in-pakistan-1.webp",
@@ -229695,7 +229702,7 @@
             6850000,
             6850000,
             6850000,
-            6850000
+            8500000
           ]
         },
         {
@@ -238519,7 +238526,7 @@
           "category": "cooler",
           "price": 850000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/12/Lian-Li-Uni-Fan-SL120-V2-Reverse-Blade-ARGB-120mm-Single-Black.jpg",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl120-v2-reverse-blade-argb-120mm-single-black",
@@ -238881,8 +238888,8 @@
           "name": "Lian Li GALAHAD II Trinity 240 AIO CPU Cooler Black",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 3000000,
-          "oldPrice": null,
+          "price": 2800000,
+          "oldPrice": 3000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/11/Lian-Li-GALAHAD-II-Trinity-240-Black.jpg",
@@ -238899,7 +238906,7 @@
             3000000,
             3000000,
             3000000,
-            3000000
+            2800000
           ]
         },
         {
@@ -238907,8 +238914,8 @@
           "name": "Lian Li GALAHAD II Trinity 240 AIO CPU Cooler White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 3000000,
-          "oldPrice": null,
+          "price": 2800000,
+          "oldPrice": 3000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/11/Lian-Li-GALAHAD-II-Trinity-240-White.jpg",
@@ -238925,7 +238932,7 @@
             3000000,
             3000000,
             3000000,
-            3000000
+            2800000
           ]
         },
         {
@@ -238959,8 +238966,8 @@
           "name": "Lian Li GALAHAD II Trinity SL-INF 240 AIO SL120 CPU Cooler ARGB White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 4000000,
-          "oldPrice": null,
+          "price": 3500000,
+          "oldPrice": 4000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/11/Lian-Li-GALAHAD-II-Trinity-SL-INF-240-White.jpg",
@@ -238977,7 +238984,7 @@
             4000000,
             4000000,
             4000000,
-            4000000
+            3500000
           ]
         },
         {
@@ -242027,8 +242034,8 @@
           "name": "Lian Li Uni Fan P28 Triple Case Fan White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 2000000,
-          "oldPrice": null,
+          "price": 1750000,
+          "oldPrice": 2000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/Lian-Li-Uni-Fan-P28-Triple-Case-Fan-White.jpg",
@@ -242045,7 +242052,7 @@
             2000000,
             2000000,
             2000000,
-            2000000
+            1750000
           ]
         },
         {
@@ -242055,7 +242062,7 @@
           "category": "cooler",
           "price": 2000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/Lian-Li-Uni-Fan-P28-Triple-Case-Fan-Black.jpg",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-p28-triple-case-fan-black",
@@ -265167,8 +265174,8 @@
           "name": "Lian Li GALAHAD 240 AIO SL120 Edition CPU Cooler ARGB White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 2750000,
-          "oldPrice": null,
+          "price": 2200000,
+          "oldPrice": 2750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/12/Lian-Li-GALAHAD-240-AIO-SL120-Edition-CPU-Cooler-ARGB-White-Price-in-Pakistan-ZahComputers.jpg",
@@ -265185,7 +265192,7 @@
             2750000,
             2750000,
             2750000,
-            2750000
+            2200000
           ]
         },
         {
@@ -271017,8 +271024,8 @@
           "name": "Lian Li GALAHAD 240 AIO CPU Cooler ARGB White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 2500000,
-          "oldPrice": null,
+          "price": 2000000,
+          "oldPrice": 2500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/03/Lian-Li-GALAHAD-240-White-Price-in-Pakistan.jpg",
@@ -271035,7 +271042,7 @@
             2500000,
             2500000,
             2500000,
-            2500000
+            2000000
           ]
         },
         {
@@ -278318,6 +278325,36 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_b22bfd18",
+          "name": "Lenovo Legion Pro 5 (16ADR10), AMD Ryzen 7 8745HX, 32GB RAM, 1TB SSD, RTX 5060, 16&#8243; ",
+          "brand": "AMD",
+          "category": "gpu",
+          "price": 474999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_legion_5_15ahp10.webp",
+          "url": "https://rbtechngames.com/product/lenovo-legion-pro-5-16adr10-amd-ryzen-7-8745hx-32gb-ram-1tb-ssd-rtx-5060-16-qhd-165hz-oled-display-eclipse-black-open-box",
+          "history": [
+            474999
+          ]
+        },
+        {
+          "id": "rbtechgames_d231b650",
+          "name": "Lenovo ThinkPad T14S, Intel Core i7 10th Gen, 32GB RAM, 256GB SSD, 14.0″ FHD, IPS Display,",
+          "brand": "Intel",
+          "category": "cpu",
+          "price": 89999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_lenovo_thinkpad_t14s_gen_1.webp",
+          "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-intel-core-i7-10th-gen-32gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-black-used",
+          "history": [
+            89999
+          ]
+        },
+        {
           "id": "rbtechgames_6a2e4c8c",
           "name": "Asus TUF Gaming GeForce RTX 5070 Ti 16GB White OC Graphics Card",
           "brand": "ASUS",
@@ -278448,32 +278485,6 @@
           ]
         },
         {
-          "id": "rbtechgames_93130e4e",
-          "name": "Dell G15 5525, AMD Ryzen 7 6800H, 16GB RAM, 512GB SSD, RTX 3060, 15.6&#8243; FHD 165Hz Dis",
-          "brand": "AMD",
-          "category": "gpu",
-          "price": 229999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_dell_g15_5525_phantom_grey.jpg",
-          "url": "https://rbtechngames.com/product/dell-g15-5525-amd-ryzen-7-6800h-16gb-ram-512gb-ssd-rtx-3060-15-6-fhd-165hz-display-phantom-grey-used",
-          "history": [
-            229999,
-            229999,
-            229999,
-            229999,
-            229999,
-            229999,
-            229999,
-            229999,
-            229999,
-            229999,
-            229999,
-            229999
-          ]
-        },
-        {
           "id": "rbtechgames_bdc305d0",
           "name": "HP EliteBook 840 G11, Intel Core Ultra 5, 16GB RAM, 512GB SSD, 14.0″ FHD+, IPS Touch Displ",
           "brand": "Intel",
@@ -278526,8 +278537,8 @@
           ]
         },
         {
-          "id": "rbtechgames_2b69408f",
-          "name": "Lenovo ThinkPad X13 Yoga Gen 2, Intel i7 11th Gen, 16GB RAM, 512GB SSD, 14.0″ FHD+, IPS To",
+          "id": "rbtechgames_115d2804",
+          "name": "Lenovo ThinkPad X13 Yoga Gen 2, Intel i7 11th Gen, 16GB RAM, 512GB SSD, 13.3″ FHD+, IPS To",
           "brand": "Intel",
           "category": "ram",
           "price": 84999,
@@ -278537,17 +278548,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_lenovo_thinkpad_x13_yoga_gen_2.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-x13-yoga-gen-2-intel-i7-11th-gen-16gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-villi-black-used",
           "history": [
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
             84999
           ]
         },
@@ -281386,6 +281386,32 @@
           ]
         },
         {
+          "id": "rbtechgames_ed474768",
+          "name": "AMD Ryzen 5 5500X3D Desktop Processor &#8211; Tray",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 54999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_amd_ryzen_5_5500x3d.webp",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-5500x3d-desktop-processor-tray",
+          "history": [
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999
+          ]
+        },
+        {
           "id": "rbtechgames_984e8628",
           "name": "Asus TUF Gaming GeForce RTX 5070 Ti 16GB OC Edition Graphics Card",
           "brand": "ASUS",
@@ -281773,32 +281799,6 @@
             94999,
             94999,
             94999
-          ]
-        },
-        {
-          "id": "rbtechgames_fbdda3b8",
-          "name": "Apacer NOX 32GB (2x16GB) 6000Mhz CL40 DDR5 Ram – Black/White",
-          "brand": "Apacer",
-          "category": "ram",
-          "price": 114999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_apacer_nox_ddr5_black.png",
-          "url": "https://rbtechngames.com/product/apacer-nox-32gb-2x16gb-6000mhz-cl40-ddr5-ram-black-white",
-          "history": [
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999
           ]
         },
         {
@@ -282872,8 +282872,8 @@
           "name": "Adata Legend 860 M.2 2280 PCIe Gen 4&#215;4 NVMe SSD &#8211; 500GB/1TB/2TB",
           "brand": "Adata",
           "category": "storage",
-          "price": 37499,
-          "oldPrice": null,
+          "price": 38499,
+          "oldPrice": 37499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_adata_legend_860.png",
@@ -282890,7 +282890,7 @@
             37499,
             37499,
             37499,
-            37499
+            38499
           ]
         },
         {
@@ -283002,8 +283002,8 @@
           "name": "Lexar NQ780 M.2 2280 PCIe Gen 4 NVMe SSD &#8211; 1TB/2TB/4TB",
           "brand": "Lexar",
           "category": "storage",
-          "price": 38499,
-          "oldPrice": null,
+          "price": 40499,
+          "oldPrice": 38499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
@@ -283020,7 +283020,7 @@
             38499,
             38499,
             38499,
-            38499
+            40499
           ]
         },
         {
@@ -283964,8 +283964,8 @@
           "name": "WD Blue SN5000 NVMe Gen 4 SSD &#8211; 500GB/1TB/2TB/4TB",
           "brand": "WD",
           "category": "storage",
-          "price": 38499,
-          "oldPrice": null,
+          "price": 40499,
+          "oldPrice": 38499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_wd_blue_sn5000_500gb.webp",
@@ -283982,7 +283982,7 @@
             38499,
             38499,
             38499,
-            38499
+            40499
           ]
         },
         {
@@ -284458,8 +284458,8 @@
           "name": "Kingston NV3 PCIe NVMe Gen 4 SSD &#8211; 500GB/1TB/2TB/4TB",
           "brand": "Kingston",
           "category": "storage",
-          "price": 38499,
-          "oldPrice": null,
+          "price": 40499,
+          "oldPrice": 38499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_kingston_nv3_1.webp",
@@ -284476,7 +284476,7 @@
             38499,
             38499,
             38499,
-            38499
+            40499
           ]
         },
         {
@@ -284971,6 +284971,32 @@
             44999,
             44999,
             44999
+          ]
+        },
+        {
+          "id": "rbtechgames_c50e2e5b",
+          "name": "AMD Ryzen 7 7700 Gaming Processor &#8211; TRAY",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 53999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/07/rbtech_amd_ryzen_7_7700_tray.jpg",
+          "url": "https://rbtechngames.com/product/amd-ryzen-7-7700-gaming-processor-tray",
+          "history": [
+            53999,
+            53999,
+            53999,
+            53999,
+            53999,
+            53999,
+            53999,
+            53999,
+            53999,
+            53999,
+            53999,
+            53999
           ]
         },
         {
