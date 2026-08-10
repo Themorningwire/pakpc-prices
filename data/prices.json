@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T01:44:13.830218+00:00",
+  "lastUpdated": "2026-08-10T07:39:15.231404+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,36 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_e009a0bf",
+          "name": "Manli Nebula GeForce RTX 5060 8GB GDDR7 Graphic Card",
+          "brand": "Manli",
+          "category": "gpu",
+          "price": 119990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Manli-RTX5060-Nebula-Price-in-Pakistan-Pakistan_4.webp?v=1786342349",
+          "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5060-8gb-gddr7-graphic-card",
+          "history": [
+            119990
+          ]
+        },
+        {
+          "id": "pakbyte_51e797e9",
+          "name": "Manli Nebula GeForce RTX 5050 8GB GDDR6 Graphic Card",
+          "brand": "Manli",
+          "category": "gpu",
+          "price": 98990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Manli-RTX5050-Nebula-Price-in-Pakistan-Pakbyte_1.webp?v=1786342009",
+          "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5050-8gb-gddr6-graphic-card",
+          "history": [
+            98990
+          ]
+        },
         {
           "id": "pakbyte_6817fd84",
           "name": "HikSemi Wave(S) 256GB 2.5\" SATA Internal SSD",
@@ -20,6 +50,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hiksemi-waves-256gb-ssd-price-in-pakistan-pakbyte-1.jpg?v=1786106368",
           "url": "https://www.pakbyte.pk/products/hiksemi-waves-256gb-2-5-sata-internal-ssd",
           "history": [
+            10990,
             10990,
             10990,
             10990,
@@ -5795,7 +5826,7 @@
             62990,
             62990,
             62990,
-            62990,
+            64990,
             64990,
             64990,
             64990,
@@ -5821,7 +5852,7 @@
             55490,
             55490,
             55490,
-            55490,
+            57490,
             57490,
             57490,
             57490,
@@ -5847,7 +5878,7 @@
             46490,
             46490,
             46490,
-            46490,
+            47490,
             47490,
             47490,
             47490,
@@ -9097,7 +9128,7 @@
             234990,
             234990,
             234990,
-            234990,
+            269999,
             269999,
             269999,
             269999,
@@ -18680,8 +18711,8 @@
           "name": "Leadtek GeForce RTX 5060 Hurricane 8GB GDDR7 Graphics Card",
           "brand": "Leadtek",
           "category": "gpu",
-          "price": 129990,
-          "oldPrice": null,
+          "price": 119990,
+          "oldPrice": 129990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Leadtek-Hurricane-8GB-Graphic-card-Price-in-Pakistan-Pakbyte_1.webp?v=1772087052",
@@ -18698,7 +18729,7 @@
             129990,
             129990,
             129990,
-            129990
+            119990
           ]
         },
         {
@@ -18758,8 +18789,8 @@
           "name": "Arktek NVIDIA GEFORCE GTX1650 4GB GDDR6 128-bit Graphics Card",
           "brand": "NVIDIA",
           "category": "gpu",
-          "price": 51990,
-          "oldPrice": null,
+          "price": 49990,
+          "oldPrice": 51990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Arktek-NVIDIA-GEFORCE-GTX1650-4GB-GDDR6-128-bit-Graphics-Card-Price-in-Pakistan-Pakbyte_1.jpg?v=1772080568",
@@ -18776,7 +18807,7 @@
             51990,
             51990,
             51990,
-            51990
+            49990
           ]
         },
         {
@@ -18784,8 +18815,8 @@
           "name": "Arktek NVIDIA GeForce GTX1050Ti 4GB GDDR5 128-bit Graphics Card",
           "brand": "NVIDIA",
           "category": "gpu",
-          "price": 40990,
-          "oldPrice": null,
+          "price": 37490,
+          "oldPrice": 40990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Arktek-1050Ti-4GB-graphics-card-price-in-pakistan-pakbyte_1.jpg?v=1772079503",
@@ -18802,7 +18833,7 @@
             40990,
             40990,
             40990,
-            40990
+            37490
           ]
         },
         {
@@ -37671,7 +37702,7 @@
             157999,
             157999,
             157999,
-            157999,
+            149990,
             149990,
             149990,
             149990,
@@ -48171,7 +48202,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-gtx-1660-super-gaming-price-in-pakistan-pakbyte_2.jpg?v=1756113465",
           "url": "https://www.pakbyte.pk/products/gigabyte-gtx-1660-super-gaming-oc-6g-graphic-card",
           "history": [
-            47999,
+            50999,
             50999,
             50999,
             50999,
@@ -48197,7 +48228,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-GeForce-GTX-1660-SUPER-VENTUS-XS-6GB-Graphic-Card-Price-in-Pakistan-pakbyte_1.jpg?v=1756113219",
           "url": "https://www.pakbyte.pk/products/msi-gtx-1660-super-ventus-xs-6gb-gddr6-graphic-card",
           "history": [
-            46999,
+            49999,
             49999,
             49999,
             49999,
@@ -59533,7 +59564,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-RGB-32GB-2x16GB-6000MT-s-CL30-Intel-XMP-3-0-30-40-40-96-DDR5-RAM-1-35V-Desktop-Computer-Memory-UDIMM-Matte-Black-PakByte-Computers-26167511318595.jpg?v=1753670625",
           "url": "https://www.pakbyte.pk/products/g-skill-trident-z5-rgb-32gb-2x16gb-6000mt-s-cl30-intel-xmp-3-0-30-40-40-96-ddr5-ram-1-35v-desktop-computer-memory-udimm-matte-black",
           "history": [
-            119999,
+            151499,
             151499,
             151499,
             151499,
@@ -61632,8 +61663,8 @@
           "name": "ASUS Dual NVIDIA GeForce RTX 3050 6GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 76790,
-          "oldPrice": null,
+          "price": 89990,
+          "oldPrice": 76790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-Dual-NVIDIA-GeForce-RTX-3050-6GB-OC-Edition-Gaming-Graphics-Card-PakByte-Computers-26071616454723.webp?v=1748004226",
@@ -61650,7 +61681,7 @@
             76790,
             76790,
             76790,
-            76790
+            89990
           ]
         },
         {
@@ -62397,7 +62428,7 @@
             35890,
             35890,
             35890,
-            35890,
+            38999,
             38999,
             38999,
             38999,
@@ -63875,7 +63906,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/xpg-lancer-blade-rgb-32gb-6000mhz-ddr5-ram-price-in-pakistan-pakbyte_1.jpg?v=1757460569",
           "url": "https://www.pakbyte.pk/products/xpg-lancer-blade-32gb-2x16gb-6000mhz-c30-ddr5-dram-memory-black",
           "history": [
-            115490,
+            142999,
             142999,
             142999,
             142999,
@@ -79345,7 +79376,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/A4TECH-FP70-BLACK-MOUSE-PAD-PakByte-Computers-25575318552643.jpg?v=1753674934",
           "url": "https://www.pakbyte.pk/products/a4tech-fp70-black-mouse-pad",
           "history": [
-            1290,
+            1499,
             1499,
             1499,
             1499,
@@ -144687,6 +144718,7 @@
             520000,
             520000,
             520000,
+            520000,
             520000
           ]
         },
@@ -144702,6 +144734,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Hp-Elitebook-840-G8-Core-i7-11th-Gen-16GB-Ram-256GB-SSD-14.1-FHD-Display-Backlit-Keyboard-Fingerprint-Face-Recognition-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-630-g10-touchscreen-business-laptop",
           "history": [
+            13000000,
             13000000,
             13000000,
             13000000,
@@ -144732,6 +144765,7 @@
             16500000,
             16500000,
             16500000,
+            16500000,
             16500000
           ]
         },
@@ -144753,6 +144787,7 @@
             38000000,
             38000000,
             38000000,
+            38000000,
             38000000
           ]
         },
@@ -144768,6 +144803,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/02/ASUS-Dual-GeForce-RTX-3060-Ti-V2-OC-Edition-8GB-GDDR6-PCI-Express-4.0-Video-Card-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-3060ti-oc-8gb-gddr6-pci-express-4-0-x16-video-card-used",
           "history": [
+            9000000,
             9000000,
             9000000,
             9000000,
@@ -144924,7 +144960,7 @@
           "url": "https://zahcomputers.pk/product/asus-proart-geforce-rtx-5080-16gb-gddr7-graphics-card",
           "history": [
             46000000,
-            46000000,
+            49000000,
             49000000,
             49000000,
             49000000,
@@ -147134,7 +147170,7 @@
           "url": "https://zahcomputers.pk/product/asus-vivobook-s16-s5606ca-sb92-ai-laptop",
           "history": [
             37000000,
-            37000000,
+            40000000,
             40000000,
             40000000,
             40000000,
@@ -148251,6 +148287,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Hp-Elitebook-840-G8-Core-i7-11th-Gen-16GB-Ram-256GB-SSD-14.1-FHD-Display-Backlit-Keyboard-Fingerprint-Face-Recognition-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-840-g9-14-wuxga-ips-display-intel-core-i7-1265u-12th-gen-16gb-ddr5-ram-512gb-nvme-ssd-used",
           "history": [
+            13000000,
             13000000,
             13000000,
             13000000,
@@ -154642,7 +154679,7 @@
           "url": "https://zahcomputers.pk/product/asus-prime-geforce-rtx-5060-8gb-oc-edition-graphics-card",
           "history": [
             15500000,
-            15500000,
+            15800000,
             15800000,
             15800000,
             15800000,
@@ -167442,7 +167479,7 @@
             2099900,
             2099900,
             2099900,
-            2099900,
+            1790000,
             1790000,
             1790000
           ]
@@ -169150,7 +169187,7 @@
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5060-twin-edge-oc-8gb-white-edition-graphics-card",
           "history": [
             14500000,
-            14500000,
+            14800000,
             14800000,
             14800000,
             14800000,
@@ -169236,7 +169273,7 @@
             13199900,
             13199900,
             13199900,
-            13199900,
+            14600000,
             14600000,
             14600000
           ]
@@ -169258,7 +169295,7 @@
             14800000,
             14800000,
             14800000,
-            14800000,
+            13600000,
             13600000,
             13600000,
             13600000,
@@ -178302,7 +178339,7 @@
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
           "history": [
             15000000,
-            15000000,
+            15300000,
             15300000,
             15300000,
             15300000,
@@ -181213,8 +181250,8 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-Ti-OC-Edition-16GB-GDDR7-TUF-RTX5070TI-O16G-GAMING-PCI-Express-5.0-DLSS-4.0-Graphics-Card-price-inPakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-5070-ti-oc-edition-16gb-gddr7-tuf-rtx5070ti-o16g-gaming-pci-express-5-0-dlss-4-0-graphics-card",
           "history": [
-            38500000,
             39000000,
+            39800000,
             39800000,
             39800000,
             39800000,
@@ -184568,7 +184605,7 @@
           "url": "https://zahcomputers.pk/product/asus-prime-geforce-rtx-5070-ti-16gb-256-bit-gddr7-pci-express-5-0-dlss-4-0-graphics-card",
           "history": [
             36500000,
-            36500000,
+            37500000,
             37500000,
             37500000,
             37500000,
@@ -191016,7 +191053,7 @@
           "url": "https://zahcomputers.pk/product/adata-16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory",
           "history": [
             5500000,
-            5500000,
+            5600000,
             5600000,
             5600000,
             5600000,
@@ -197282,7 +197319,7 @@
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-twin-edge-oc-rtx-5060-ti-8gb-128-bit-gddr7-pci-express-5-0-x8-dlss-4-0-graphics-card",
           "history": [
             14000000,
-            14000000,
+            15800000,
             15800000,
             15800000,
             15800000,
@@ -198191,7 +198228,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/HP-EliteBook-660-G11-Intel-Core-Ultra-5-125U-8-GB-DDR5-5600-MT-s-512-GB-PCIe-NVMe-SSD-16-diagonal-WUXGA-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-660-g11-intel-core-ultra-7-155u-8-gb-ddr5-5600-mt-s-512-gb-pcie-nvme-ssd-16-diagonal-wuxga-1920-x-1200-ips-anti-glare-300-nits-fingerprint-backlit-ke",
           "history": [
-            33000000,
+            35000000,
             35000000,
             35000000,
             35000000,
@@ -207136,7 +207173,7 @@
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-gddr7-vram-pcie-5-0-x16-interface-graphics-card",
           "history": [
             45599900,
-            45599900,
+            47500000,
             47500000,
             47500000,
             47500000,
@@ -211846,7 +211883,7 @@
             340000,
             340000,
             340000,
-            340000,
+            370000,
             370000,
             370000,
             370000,
@@ -215560,7 +215597,7 @@
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5080-amp-extreme-infinity-16gb-gddr7-256-bit-graphics-card",
           "history": [
             48500000,
-            48500000,
+            49800000,
             49800000,
             49800000,
             49800000,
@@ -215585,6 +215622,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Zotac-Gaming-Geforce-RTX-5080-Solid-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5080-solid-16gb-gddr57-256-bit-graphics-card",
           "history": [
+            46000000,
             46000000,
             46000000,
             46000000,
@@ -219868,7 +219906,7 @@
           "category": "cooler",
           "price": 1199900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Thermalright-Phantom-Spirit-120.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-phantom-spirit-120-7-heat-pipes-with-aghp-technology-dual-tower-cpu-cooler",
@@ -280895,7 +280933,7 @@
           "url": "https://rbtechngames.com/product/rapoo-v30l-wireless-e-sports-gaming-mouse-black",
           "history": [
             5995,
-            5995,
+            7499,
             7499,
             7499,
             7499,
@@ -281155,7 +281193,7 @@
           "url": "https://rbtechngames.com/product/rapoo-vt9pro-gaming-wireless-optical-mouse-black",
           "history": [
             8845,
-            8845,
+            11999,
             11999,
             11999,
             11999,
@@ -281181,7 +281219,7 @@
           "url": "https://rbtechngames.com/product/rapoo-vt200-ir-gaming-optical-mouse-black",
           "history": [
             4195,
-            4195,
+            5499,
             5499,
             5499,
             5499,
@@ -284534,7 +284572,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_b650-s_wifi.png",
           "url": "https://rbtechngames.com/product/msi-pro-b650-s-wifi-atx-am5-ddr5-gaming-motherboard",
           "history": [
-            49499,
+            51499,
             51499,
             51499,
             51499,
