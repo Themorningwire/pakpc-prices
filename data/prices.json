@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T19:00:48.120845+00:00",
+  "lastUpdated": "2026-08-12T01:52:25.427808+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -26,6 +26,7 @@
             119990,
             119990,
             119990,
+            119990,
             119990
           ]
         },
@@ -41,6 +42,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Manli-RTX5050-Nebula-Price-in-Pakistan-Pakbyte_1.webp?v=1786342009",
           "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5050-8gb-gddr6-graphic-card",
           "history": [
+            98990,
             98990,
             98990,
             98990,
@@ -18734,7 +18736,7 @@
             129990,
             129990,
             129990,
-            129990,
+            119990,
             119990,
             119990,
             119990,
@@ -18812,7 +18814,7 @@
             51990,
             51990,
             51990,
-            51990,
+            49990,
             49990,
             49990,
             49990,
@@ -18838,7 +18840,7 @@
             40990,
             40990,
             40990,
-            40990,
+            37490,
             37490,
             37490,
             37490,
@@ -31137,7 +31139,7 @@
             14990,
             14990,
             14990,
-            14990,
+            19499,
             19499,
             19499,
             19499,
@@ -57709,7 +57711,7 @@
             230000,
             230000,
             230000,
-            230000,
+            209999,
             209999,
             209999,
             209999,
@@ -61686,7 +61688,7 @@
             76790,
             76790,
             76790,
-            76790,
+            89990,
             89990,
             89990,
             89990,
@@ -71229,7 +71231,7 @@
             5399,
             5399,
             5399,
-            5399,
+            6299,
             6299,
             6299,
             6299,
@@ -96891,7 +96893,7 @@
             197000,
             197000,
             197000,
-            197000,
+            209999,
             209999,
             209999,
             209999,
@@ -144724,6 +144726,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-HydroShift-II-LCD-S-360N-Black.webp",
           "url": "https://zahcomputers.pk/product/lian-li-hydroshift-ii-lcd-s-360n-black-aio-liquid-cpu-cooler",
           "history": [
+            4500000,
             4500000
           ]
         },
@@ -144739,6 +144742,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-HydroShift-II-LCD-S-360N-White-AIO-Liquid-CPU-Cooler.webp",
           "url": "https://zahcomputers.pk/product/lian-li-hydroshift-ii-lcd-s-360n-white-aio-liquid-cpu-cooler",
           "history": [
+            4500000,
             4500000
           ]
         },
@@ -144748,7 +144752,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 4850000,
-          "oldPrice": 4999900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Lian-Li-HydroShift-II-LCD-C-360R-ARGB-360mm-AIO-Liquid-CPU-Cooler-Black-01.webp",
@@ -144764,7 +144768,7 @@
             4999900,
             4999900,
             4999900,
-            4999900,
+            4850000,
             4850000
           ]
         },
@@ -144780,6 +144784,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-HydroShift-II-LCD-C-360N-Black-AIO-Liquid-CPU-Cooler.webp",
           "url": "https://zahcomputers.pk/product/lian-li-hydroshift-ii-lcd-c-360n-black-aio-liquid-cpu-cooler",
           "history": [
+            4500000,
             4500000
           ]
         },
@@ -144795,6 +144800,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-Black-Case-Fans.webp",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-inf-flex-3-pack-120mm-reverse-blade-argb-black",
           "history": [
+            2850000,
             2850000
           ]
         },
@@ -144810,6 +144816,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-Case-Fans.webp",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-inf-flex-3-pack-120mm-reverse-blade-argb-white-case-fans",
           "history": [
+            2850000,
             2850000
           ]
         },
@@ -144825,6 +144832,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-Case-Fans.webp",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-inf-flex-3-pack-120mm-argb-white-case-fans",
           "history": [
+            2850000,
             2850000
           ]
         },
@@ -144840,6 +144848,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-Black-Case-Fans.webp",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-inf-flex-3-pack-120mm-argb-black-case-fans",
           "history": [
+            2850000,
             2850000
           ]
         },
@@ -144855,6 +144864,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-O11-VISION-M-White-Micro-ATX-PC-Case-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lian-li-o11-vision-m-white",
           "history": [
+            2250000,
             2250000
           ]
         },
@@ -144871,6 +144881,7 @@
           "url": "https://zahcomputers.pk/product/verbatim-pocket-ssd-1tb-external-ssd",
           "history": [
             3000000,
+            3000000,
             3000000
           ]
         },
@@ -144886,6 +144897,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-O11-VISION-M-Black-Micro-ATX-PC-Case-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lian-li-o11-vision-m-black-micro-atx-pc-case",
           "history": [
+            2250000,
             2250000
           ]
         },
@@ -144901,6 +144913,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Lian-Li-VECTOR-V150-INF-Black-Micro-ATX-PC-Case.webp",
           "url": "https://zahcomputers.pk/product/lian-li-vector-v150-inf-black-micro-atx-pc-case",
           "history": [
+            2450000,
             2450000,
             2450000
           ]
@@ -144918,6 +144931,7 @@
           "url": "https://zahcomputers.pk/product/thunder-spartan-tgc-2142-mid-tower-microatx-gaming-case-4x-argb-infinity-fans-preinstalled-white",
           "history": [
             1149900,
+            1149900,
             1149900
           ]
         },
@@ -144933,6 +144947,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/GeForce-RTX™-5060-GAMING-OC-8G-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5060-gaming-oc-8g-graphics-card",
           "history": [
+            15500000,
             15500000,
             15500000,
             15500000,
@@ -167731,7 +167746,7 @@
           "history": [
             2099900,
             2099900,
-            2099900,
+            1790000,
             1790000,
             1790000,
             1790000,
@@ -167786,7 +167801,7 @@
             12099900,
             12099900,
             12099900,
-            12099900,
+            11000000,
             11000000,
             11000000,
             11000000,
@@ -169525,7 +169540,7 @@
           "history": [
             13199900,
             13199900,
-            13199900,
+            14600000,
             14600000,
             14600000,
             14600000,
@@ -175705,7 +175720,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 4850000,
-          "oldPrice": 4999900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Lian-Li-HydroShift-II-LCD-C-360R-ARGB-360mm-AIO-Liquid-CPU-Cooler-White-Price-in-Pakistan.jpg",
@@ -175721,7 +175736,7 @@
             4999900,
             4999900,
             4999900,
-            4999900,
+            4850000,
             4850000
           ]
         },
@@ -175847,7 +175862,7 @@
             3000000,
             3000000,
             3000000,
-            3000000,
+            2750000,
             2750000,
             2750000,
             2750000,
@@ -175873,7 +175888,7 @@
             3000000,
             3000000,
             3000000,
-            3000000,
+            2750000,
             2750000,
             2750000,
             2750000,
@@ -180073,7 +180088,7 @@
           "brand": "Lexar",
           "category": "ram",
           "price": 12200000,
-          "oldPrice": 11000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lexar-32GB-DDR5-5600MHz-SO-DIMM-Laptop-RAM-Price-in-pakistan.jpg",
@@ -180089,7 +180104,7 @@
             11000000,
             11000000,
             11000000,
-            11000000,
+            12200000,
             12200000
           ]
         },
@@ -180397,7 +180412,7 @@
             2649900,
             2649900,
             2649900,
-            2649900,
+            3100000,
             3100000,
             3100000,
             3100000,
@@ -180501,7 +180516,7 @@
             1750000,
             1750000,
             1750000,
-            1750000,
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -180527,7 +180542,7 @@
             1750000,
             1750000,
             1750000,
-            1750000,
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -180553,7 +180568,7 @@
             1750000,
             1750000,
             1750000,
-            1750000,
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -180579,7 +180594,7 @@
             1750000,
             1750000,
             1750000,
-            1750000,
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -191836,7 +191851,7 @@
             6900000,
             6900000,
             6900000,
-            6900000,
+            7300000,
             7300000,
             7300000,
             7300000,
@@ -203355,7 +203370,7 @@
             24000000,
             24000000,
             24000000,
-            24000000,
+            24900000,
             24900000,
             24900000,
             24900000,
@@ -223681,6 +223696,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-X-120-Refined-SE-ARGB-CPU-Air-Cooler.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-x-120-refined-se-argb-cpu-air-cooler",
           "history": [
+            480000,
             480000
           ]
         },
@@ -229890,7 +229906,7 @@
             6850000,
             6850000,
             6850000,
-            6850000,
+            8500000,
             8500000,
             8500000,
             8500000,
@@ -239094,7 +239110,7 @@
             3000000,
             3000000,
             3000000,
-            3000000,
+            2800000,
             2800000,
             2800000,
             2800000,
@@ -239120,7 +239136,7 @@
             3000000,
             3000000,
             3000000,
-            3000000,
+            2800000,
             2800000,
             2800000,
             2800000,
@@ -239172,7 +239188,7 @@
             4000000,
             4000000,
             4000000,
-            4000000,
+            3500000,
             3500000,
             3500000,
             3500000,
@@ -242240,7 +242256,7 @@
             2000000,
             2000000,
             2000000,
-            2000000,
+            1750000,
             1750000,
             1750000,
             1750000,
@@ -265380,7 +265396,7 @@
             2750000,
             2750000,
             2750000,
-            2750000,
+            2200000,
             2200000,
             2200000,
             2200000,
@@ -271230,7 +271246,7 @@
             2500000,
             2500000,
             2500000,
-            2500000,
+            2000000,
             2000000,
             2000000,
             2000000,
@@ -278533,6 +278549,7 @@
             474999,
             474999,
             474999,
+            474999,
             474999
           ]
         },
@@ -278548,6 +278565,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_lenovo_thinkpad_t14s_gen_1.webp",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-intel-core-i7-10th-gen-32gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-black-used",
           "history": [
+            89999,
             89999,
             89999,
             89999,
@@ -278749,6 +278767,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_lenovo_thinkpad_x13_yoga_gen_2.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-x13-yoga-gen-2-intel-i7-11th-gen-16gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-villi-black-used",
           "history": [
+            84999,
             84999,
             84999,
             84999,
@@ -278986,7 +279005,7 @@
             374999,
             374999,
             374999,
-            374999,
+            364999,
             364999
           ]
         },
@@ -280236,32 +280255,6 @@
             129999,
             129999,
             129999
-          ]
-        },
-        {
-          "id": "rbtechgames_6cc6e3cd",
-          "name": "Attack Shark X87 Ultra Wireless 8K TKL RGB Mechanical Gaming Keyboard &#8211; Forged Carbo",
-          "brand": "Attack",
-          "category": "keyboard",
-          "price": 20999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_attack_shark_x87_ultra_forged_Carbon.webp",
-          "url": "https://rbtechngames.com/product/attack-shark-x87-ultra-wireless-8k-tkl-rgb-mechanical-gaming-keyboard-forged-carbon-iced-orange-shadow-jade-megalodon-switches",
-          "history": [
-            20999,
-            20999,
-            20999,
-            20999,
-            20999,
-            20999,
-            20999,
-            20999,
-            20999,
-            20999,
-            20999,
-            20999
           ]
         },
         {
@@ -281617,32 +281610,6 @@
           ]
         },
         {
-          "id": "rbtechgames_984e8628",
-          "name": "Asus TUF Gaming GeForce RTX 5070 Ti 16GB OC Edition Graphics Card",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 374999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_asus_tuf_gaming_rtx_5070_ti_16gb_oc.webp",
-          "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-rtx-5070-ti-16gb-oc-edition-graphics-card",
-          "history": [
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999
-          ]
-        },
-        {
           "id": "rbtechgames_d956d306",
           "name": "Lenovo LOQ 15 (15AHP10), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.6&#8243; FHD 1",
           "brand": "AMD",
@@ -282116,7 +282083,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 244999,
-          "oldPrice": 229999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_asus_prime_rx_9070_16gb_oc.webp",
@@ -282132,34 +282099,8 @@
             229999,
             229999,
             229999,
-            229999,
+            244999,
             244999
-          ]
-        },
-        {
-          "id": "rbtechgames_7f44e0d5",
-          "name": "Gigabyte Aorus GeForce RTX 5090 Master Ice 32GB Graphics Card",
-          "brand": "Gigabyte",
-          "category": "gpu",
-          "price": 1449999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_gigabyte_aorus_rtx_5090_master_ice.webp",
-          "url": "https://rbtechngames.com/product/gigabyte-aorus-geforce-rtx-5090-master-ice-32gb-graphics-card",
-          "history": [
-            1449999,
-            1449999,
-            1449999,
-            1449999,
-            1449999,
-            1449999,
-            1449999,
-            1449999,
-            1449999,
-            1449999,
-            1449999,
-            1449999
           ]
         },
         {
@@ -283064,7 +283005,7 @@
             37499,
             37499,
             37499,
-            37499,
+            38499,
             38499,
             38499,
             38499,
@@ -283194,7 +283135,7 @@
             38499,
             38499,
             38499,
-            38499,
+            40499,
             40499,
             40499,
             40499,
@@ -283259,8 +283200,8 @@
           "name": "Crucial P310 NVMe 2280 M.2 PCIe Gen 4 SSD &#8211; 500GB/1TB/2TB/4TB (Non-Heatsink/Heatsink",
           "brand": "Crucial",
           "category": "storage",
-          "price": 74999,
-          "oldPrice": 69999,
+          "price": 89999,
+          "oldPrice": 74999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_crucial_p310.png",
@@ -283276,8 +283217,8 @@
             69999,
             69999,
             69999,
-            69999,
-            74999
+            74999,
+            89999
           ]
         },
         {
@@ -283382,32 +283323,6 @@
             139999,
             139999,
             139999
-          ]
-        },
-        {
-          "id": "rbtechgames_4111a303",
-          "name": "Attack Shark M86 RGB 75% Wireless Mechanical Gaming Keyboard &#8211; Gradient Black/Gradie",
-          "brand": "Attack",
-          "category": "keyboard",
-          "price": 11499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_attack_shark_m86_gradient_black.webp",
-          "url": "https://rbtechngames.com/product/attack-shark-m86-rgb-75-wireless-mechanical-gaming-keyboard-gradient-black-gradient-pink-white-black",
-          "history": [
-            11499,
-            11499,
-            11499,
-            11499,
-            11499,
-            11499,
-            11499,
-            11499,
-            11499,
-            11499,
-            11499,
-            11499
           ]
         },
         {
@@ -283642,6 +283557,21 @@
             16999,
             16999,
             16999
+          ]
+        },
+        {
+          "id": "rbtechgames_102d3604",
+          "name": "Glorious Model D Wired RGB Gaming Mouse &#8211; Glossy Black/Glossy White",
+          "brand": "Glorious",
+          "category": "mouse",
+          "price": 14499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_glorious_model_d_glossy_black.webp",
+          "url": "https://rbtechngames.com/product/glorious-model-d-wired-rgb-gaming-mouse-glossy-black-glossy-white",
+          "history": [
+            14499
           ]
         },
         {
@@ -284156,7 +284086,7 @@
             38499,
             38499,
             38499,
-            38499,
+            40499,
             40499,
             40499,
             40499,
@@ -284451,32 +284381,6 @@
           ]
         },
         {
-          "id": "rbtechgames_74fa1dc7",
-          "name": "Asus Tuf Gaming X870-Plus Wifi ATX AM5 DDR5 Gaming Motherboard",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 114999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/02/rbtech_asus_tuf_gaming_x870-plus_wifi_3.png",
-          "url": "https://rbtechngames.com/product/asus-tuf-gaming-x870-plus-wifi-atx-am5-ddr5-gaming-motherboard",
-          "history": [
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999
-          ]
-        },
-        {
           "id": "rbtechgames_62887dd0",
           "name": "Asus Rog Strix X870-A Gaming Wifi ATX AM5 DDR5 Gaming Motherboard",
           "brand": "ASUS",
@@ -284650,38 +284554,12 @@
             38499,
             38499,
             38499,
-            38499,
+            40499,
             40499,
             40499,
             40499,
             40499,
             40499
-          ]
-        },
-        {
-          "id": "rbtechgames_e6a9fbd9",
-          "name": "MSI MPG X870E CARBON WIFI ATX AM5 DDR5 Gaming Motherboard",
-          "brand": "MSI",
-          "category": "ram",
-          "price": 144499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_mpg_x870e_carbon_wifi.png",
-          "url": "https://rbtechngames.com/product/msi-mpg-x870e-carbon-wifi-atx-am5-ddr5-gaming-motherboard",
-          "history": [
-            144499,
-            144499,
-            144499,
-            144499,
-            144499,
-            144499,
-            144499,
-            144499,
-            144499,
-            144499,
-            144499,
-            144499
           ]
         },
         {
@@ -285592,6 +285470,32 @@
             19999,
             19999,
             19999
+          ]
+        },
+        {
+          "id": "rbtechgames_5937d1a9",
+          "name": "ASUS TUF Gaming M3 Gen II (P309) Gaming Mouse",
+          "brand": "ASUS",
+          "category": "mouse",
+          "price": 6499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/05/asus_tuf_gaming_m3_gen_ii_p309.webp",
+          "url": "https://rbtechngames.com/product/asus-tuf-gaming-m3-gen-ii-p309-gaming-mouse",
+          "history": [
+            6499,
+            6499,
+            6499,
+            6499,
+            6499,
+            6499,
+            6499,
+            6499,
+            6499,
+            6499,
+            6499,
+            6499
           ]
         },
         {
@@ -286892,32 +286796,6 @@
             5300,
             5300,
             5300
-          ]
-        },
-        {
-          "id": "rbtechgames_10f40b50",
-          "name": "Glorious Model D RGB Gaming Mouse – Matte Black",
-          "brand": "Glorious",
-          "category": "mouse",
-          "price": 14499,
-          "oldPrice": 16500,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/05/glorious_model_d_matte_black.jpg",
-          "url": "https://rbtechngames.com/product/glorious-model-d-rgb-gaming-mouse-matte-black",
-          "history": [
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499
           ]
         },
         {
