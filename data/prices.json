@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T01:54:44.529710+00:00",
+  "lastUpdated": "2026-08-13T07:25:08.759274+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,51 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_ffc69a53",
+          "name": "Jabra Evolve 30 II Stereo USB Headphones",
+          "brand": "Jabra",
+          "category": "headset",
+          "price": 15990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/jabra-evolve-30-ii-stereo-usb-headphones-price-in-pakistan-pakbyte_2.webp?v=1786598227",
+          "url": "https://www.pakbyte.pk/products/jabra-evolve-30-ii-stereo-usb-headphones",
+          "history": [
+            15990
+          ]
+        },
+        {
+          "id": "pakbyte_eb3d6a06",
+          "name": "Manli Nebula GeForce RTX 5080 16GB GDDR7 Graphic Card",
+          "brand": "Manli",
+          "category": "gpu",
+          "price": 434990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Manli-Nebula-RTX-5080-16GB-Price-in-Pakistan-Pakbyte_1.webp?v=1786597612",
+          "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5080-16gb-gddr7-graphic-card",
+          "history": [
+            434990
+          ]
+        },
+        {
+          "id": "pakbyte_73b08d22",
+          "name": "Manli Nebula GeForce RTX 5070 12GB GDDR7 Graphic Card",
+          "brand": "Manli",
+          "category": "gpu",
+          "price": 214990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Manli-Nebula-RTX5070-12GB-Graphics-Card-Price-in-Paistan-Pakbyte_1.webp?v=1786597053",
+          "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5070-12gb-gddr7-graphic-card",
+          "history": [
+            214990
+          ]
+        },
         {
           "id": "pakbyte_b93258f1",
           "name": "Aula F108 Wireless Mechanical Keyboard, Full Size Gaming Keyboard - Star Black",
@@ -20,6 +65,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f108-wireless-gaming-keyboard-star-black-price-in-pakistan-pakbyte.webp?v=1786532393",
           "url": "https://www.pakbyte.pk/products/aula-f108-wireless-mechanical-keyboard-full-size-gaming-keyboard-star-black",
           "history": [
+            15999,
             15999,
             15999,
             15999
@@ -31159,7 +31205,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/transcend-225s-250gb-ssd-price-in-pakistan-pakbyte.png?v=1765982598",
           "url": "https://www.pakbyte.pk/products/transcend-225s-250gb-2-5-sata-ssd",
           "history": [
-            14990,
+            19499,
             19499,
             19499,
             19499,
@@ -57731,7 +57777,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ZOTAC-GAMING-GeForce-RTX-4070-SUPER-TWIN-EDGE-OC-WHITE-Edition-12GB-GDDR6X-PakByte-Computers-26301135224899.jpg?v=1753670277",
           "url": "https://www.pakbyte.pk/products/zotac-gaming-geforce-rtx-4070-super-twin-edge-oc-white-edition-12gb-gddr6x",
           "history": [
-            230000,
+            209999,
             209999,
             209999,
             209999,
@@ -64785,7 +64831,7 @@
             174999,
             174999,
             174999,
-            174999,
+            209999,
             209999,
             209999,
             209999
@@ -71251,7 +71297,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Pebble-Mouse-2-M350s-Slim-Bluetooth-Wireless-Mouse-Tonal-Graphite-PakByte-Computers-25788233089091.jpg?v=1753672795",
           "url": "https://www.pakbyte.pk/products/logitech-pebble-mouse-2-m350s-slim-bluetooth-wireless-mouse-tonal-graphite",
           "history": [
-            5399,
+            6299,
             6299,
             6299,
             6299,
@@ -96913,7 +96959,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ZOTAC-GeForce-RTX-4070-Super-12GB-GDDR6-Graphics-Card-PakByte-Computers-24653047660611.jpg?v=1753678234",
           "url": "https://www.pakbyte.pk/products/zotac-geforce-rtx-4070-super-12gb-gddr6-graphics-card",
           "history": [
-            197000,
+            209999,
             209999,
             209999,
             209999,
@@ -104888,8 +104934,8 @@
           "name": "Plantronics C3225 USB-A Blackwire Headset",
           "brand": "Plantronics",
           "category": "headset",
-          "price": 16490,
-          "oldPrice": null,
+          "price": 12990,
+          "oldPrice": 16490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Plantronics-C3225-USB-A-Blackwire-Headset-PakByte-Computers-24397764198467.webp?v=1753679621",
@@ -104906,7 +104952,7 @@
             16490,
             16490,
             16490,
-            16490
+            12990
           ]
         },
         {
@@ -144752,6 +144798,7 @@
           "url": "https://zahcomputers.pk/product/thermalright-assassin-x-120-refined-se-argb-black-cpu-air-cooler",
           "history": [
             580000,
+            580000,
             580000
           ]
         },
@@ -144769,6 +144816,7 @@
           "history": [
             6500000,
             6500000,
+            6500000,
             6500000
           ]
         },
@@ -144784,6 +144832,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-HydroShift-II-LCD-S-360N-Black.webp",
           "url": "https://zahcomputers.pk/product/lian-li-hydroshift-ii-lcd-s-360n-black-aio-liquid-cpu-cooler",
           "history": [
+            4500000,
             4500000,
             4500000,
             4500000,
@@ -144809,6 +144858,7 @@
             4500000,
             4500000,
             4500000,
+            4500000,
             4500000
           ]
         },
@@ -144829,7 +144879,7 @@
             4999900,
             4999900,
             4999900,
-            4999900,
+            4850000,
             4850000,
             4850000,
             4850000,
@@ -144855,6 +144905,7 @@
             4500000,
             4500000,
             4500000,
+            4500000,
             4500000
           ]
         },
@@ -144870,6 +144921,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-Black-Case-Fans.webp",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-inf-flex-3-pack-120mm-reverse-blade-argb-black",
           "history": [
+            2850000,
             2850000,
             2850000,
             2850000,
@@ -144895,6 +144947,7 @@
             2850000,
             2850000,
             2850000,
+            2850000,
             2850000
           ]
         },
@@ -144910,6 +144963,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-Case-Fans.webp",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-inf-flex-3-pack-120mm-argb-white-case-fans",
           "history": [
+            2850000,
             2850000,
             2850000,
             2850000,
@@ -144935,6 +144989,7 @@
             2850000,
             2850000,
             2850000,
+            2850000,
             2850000
           ]
         },
@@ -144950,6 +145005,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-O11-VISION-M-White-Micro-ATX-PC-Case-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lian-li-o11-vision-m-white",
           "history": [
+            2250000,
             2250000,
             2250000,
             2250000,
@@ -144976,6 +145032,7 @@
             3000000,
             3000000,
             3000000,
+            3000000,
             3000000
           ]
         },
@@ -144996,6 +145053,7 @@
             2250000,
             2250000,
             2250000,
+            2250000,
             2250000
           ]
         },
@@ -145011,6 +145069,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Lian-Li-VECTOR-V150-INF-Black-Micro-ATX-PC-Case.webp",
           "url": "https://zahcomputers.pk/product/lian-li-vector-v150-inf-black-micro-atx-pc-case",
           "history": [
+            2450000,
             2450000,
             2450000,
             2450000,
@@ -145038,6 +145097,7 @@
             1149900,
             1149900,
             1200000,
+            1200000,
             1200000
           ]
         },
@@ -145053,6 +145113,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/GeForce-RTX™-5060-GAMING-OC-8G-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5060-gaming-oc-8g-graphics-card",
           "history": [
+            15500000,
             15500000,
             15500000,
             15500000,
@@ -167906,7 +167967,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ADATA-Premier-8GB-5600MHz-SO-DIMM-DDR5-Laptop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/adata-32gb-5600mhz-c46-ddr5-so-dimm-laptop-memory",
           "history": [
-            12099900,
+            11000000,
             11000000,
             11000000,
             11000000,
@@ -175841,7 +175902,7 @@
             4999900,
             4999900,
             4999900,
-            4999900,
+            4850000,
             4850000,
             4850000,
             4850000,
@@ -175967,7 +176028,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-infinity-wireless-120-rgb-3-pcs-pack-uf-slin120-l-connect-3-0-controller-included-white",
           "history": [
             3000000,
-            3000000,
+            2750000,
             2750000,
             2750000,
             2750000,
@@ -175993,7 +176054,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-infinity-wireless-120-rgb-3-pcs-pack-uf-slin120-l-connect-3-0-controller-included-black",
           "history": [
             3000000,
-            3000000,
+            2750000,
             2750000,
             2750000,
             2750000,
@@ -178653,7 +178714,7 @@
             13500000,
             13500000,
             13500000,
-            13500000,
+            14500000,
             14500000,
             14500000
           ]
@@ -180209,7 +180270,7 @@
             11000000,
             11000000,
             11000000,
-            11000000,
+            12200000,
             12200000,
             12200000,
             12200000,
@@ -180517,7 +180578,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-galahad-ii-lite-aio-argb-360mm-liquid-cpu-cooler",
           "history": [
             2649900,
-            2649900,
+            3100000,
             3100000,
             3100000,
             3100000,
@@ -180621,7 +180682,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-cl120-reverse-blade-wireless-white-rgb-triple-fan-pack-120mm",
           "history": [
             1750000,
-            1750000,
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -180647,7 +180708,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-cl120-reverse-blade-wireless-black-rgb-single-fan-pack-120mm",
           "history": [
             1750000,
-            1750000,
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -180673,7 +180734,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-cl120-wireless-black-rgb-triple-fan-pack-120mm",
           "history": [
             1750000,
-            1750000,
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -180699,7 +180760,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-cl120-wireless-white-rgb-triple-fan-pack-120mm",
           "history": [
             1750000,
-            1750000,
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -191956,7 +192017,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Lexar-NM790-2TB-Gen4-M.2-NVMe-SSD-Price-in-pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-nm790-2tb-gen4-m-2-nvme-ssd",
           "history": [
-            6900000,
+            7300000,
             7300000,
             7300000,
             7300000,
@@ -193655,7 +193716,7 @@
             13500000,
             13500000,
             13500000,
-            13500000,
+            14800000,
             14800000,
             14800000
           ]
@@ -203475,7 +203536,7 @@
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-pci-express-5-0-atx-graphics-card",
           "history": [
             24000000,
-            24000000,
+            24900000,
             24900000,
             24900000,
             24900000,
@@ -223811,6 +223872,7 @@
             480000,
             480000,
             480000,
+            480000,
             480000
           ]
         },
@@ -230015,7 +230077,7 @@
           "url": "https://zahcomputers.pk/product/asus-proart-lc-420-liquid-cpu-cooler-3-phase-motor-3x-noctua-nf-a14-fans-illuminated-status-meter",
           "history": [
             6850000,
-            6850000,
+            8500000,
             8500000,
             8500000,
             8500000,
@@ -239219,7 +239281,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-galahad-ii-trinity-240-aio-cpu-cooler-black",
           "history": [
             3000000,
-            3000000,
+            2800000,
             2800000,
             2800000,
             2800000,
@@ -239245,7 +239307,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-galahad-ii-trinity-240-aio-cpu-cooler-white",
           "history": [
             3000000,
-            3000000,
+            2800000,
             2800000,
             2800000,
             2800000,
@@ -239297,7 +239359,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-galahad-ii-trinity-sl-inf-240-aio-sl120-cpu-cooler-argb-white",
           "history": [
             4000000,
-            4000000,
+            3500000,
             3500000,
             3500000,
             3500000,
@@ -242365,7 +242427,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-p28-triple-case-fan-white",
           "history": [
             2000000,
-            2000000,
+            1750000,
             1750000,
             1750000,
             1750000,
@@ -265505,7 +265567,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-galahad-240-aio-sl120-edition-cpu-cooler-argb-white",
           "history": [
             2750000,
-            2750000,
+            2200000,
             2200000,
             2200000,
             2200000,
@@ -271355,7 +271417,7 @@
           "url": "https://zahcomputers.pk/product/lian-li-galahad-240-aio-cpu-cooler-argb-white",
           "history": [
             2500000,
-            2500000,
+            2000000,
             2000000,
             2000000,
             2000000,
@@ -278668,6 +278730,7 @@
             474999,
             474999,
             474999,
+            474999,
             474999
           ]
         },
@@ -278683,6 +278746,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_lenovo_thinkpad_t14s_gen_1.webp",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-intel-core-i7-10th-gen-32gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-black-used",
           "history": [
+            89999,
             89999,
             89999,
             89999,
@@ -279076,7 +279140,7 @@
             374999,
             374999,
             374999,
-            374999,
+            364999,
             364999,
             364999,
             364999,
@@ -282170,7 +282234,7 @@
             229999,
             229999,
             229999,
-            229999,
+            244999,
             244999,
             244999,
             244999,
@@ -283076,7 +283140,7 @@
           "url": "https://rbtechngames.com/product/adata-legend-860-m-2-2280-pcie-gen-4x4-nvme-ssd-500gb-1tb-2tb",
           "history": [
             37499,
-            37499,
+            38499,
             38499,
             38499,
             38499,
@@ -283180,7 +283244,7 @@
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
             38499,
-            38499,
+            40499,
             40499,
             40499,
             40499,
@@ -283262,8 +283326,8 @@
             69999,
             69999,
             69999,
-            69999,
             74999,
+            89999,
             89999,
             89999,
             89999,
@@ -283621,6 +283685,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_glorious_model_d_glossy_black.webp",
           "url": "https://rbtechngames.com/product/glorious-model-d-wired-rgb-gaming-mouse-glossy-black-glossy-white",
           "history": [
+            14499,
             14499,
             14499,
             14499,
@@ -284109,7 +284174,7 @@
           "url": "https://rbtechngames.com/product/wd-blue-sn5000-nvme-gen-4-ssd-500gb-1tb-2tb-4tb",
           "history": [
             38499,
-            38499,
+            40499,
             40499,
             40499,
             40499,
@@ -284577,7 +284642,7 @@
           "url": "https://rbtechngames.com/product/kingston-nv3-pcie-nvme-gen-4-ssd-500gb-1tb-2tb-4tb",
           "history": [
             38499,
-            38499,
+            40499,
             40499,
             40499,
             40499,
@@ -285078,7 +285143,7 @@
             53999,
             53999,
             53999,
-            53999,
+            53499,
             53499,
             53499,
             53499
@@ -286248,7 +286313,7 @@
             48999,
             48999,
             48999,
-            48999,
+            44999,
             44999,
             44999,
             44999
@@ -286404,7 +286469,7 @@
             48999,
             48999,
             48999,
-            48999,
+            48499,
             48499,
             48499,
             48499
@@ -286742,7 +286807,7 @@
             21499,
             21499,
             21499,
-            21499,
+            20499,
             20499,
             20499,
             20499
