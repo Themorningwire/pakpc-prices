@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T13:07:52.199544+00:00",
+  "lastUpdated": "2026-08-13T19:01:38.366071+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -21,6 +21,7 @@
           "url": "https://www.pakbyte.pk/products/jabra-evolve-30-ii-stereo-usb-headphones",
           "history": [
             15990,
+            15990,
             15990
           ]
         },
@@ -36,6 +37,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Manli-Nebula-RTX-5080-16GB-Price-in-Pakistan-Pakbyte_1.webp?v=1786597612",
           "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5080-16gb-gddr7-graphic-card",
           "history": [
+            434990,
             434990,
             434990
           ]
@@ -53,6 +55,7 @@
           "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5070-12gb-gddr7-graphic-card",
           "history": [
             214990,
+            214990,
             214990
           ]
         },
@@ -68,6 +71,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f108-wireless-gaming-keyboard-star-black-price-in-pakistan-pakbyte.webp?v=1786532393",
           "url": "https://www.pakbyte.pk/products/aula-f108-wireless-mechanical-keyboard-full-size-gaming-keyboard-star-black",
           "history": [
+            15999,
             15999,
             15999,
             15999,
@@ -10949,7 +10953,7 @@
           "brand": "Mountain",
           "category": "keyboard",
           "price": 9999,
-          "oldPrice": 7990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/mountain-everest-60-price-in-pakistan-pakbyte_1.webp?v=1776923172",
@@ -10965,7 +10969,7 @@
             7990,
             7990,
             7990,
-            7990,
+            9999,
             9999
           ]
         },
@@ -64833,7 +64837,7 @@
             174999,
             174999,
             174999,
-            174999,
+            209999,
             209999,
             209999,
             209999,
@@ -73349,7 +73353,7 @@
           "brand": "AMD",
           "category": "cpu",
           "price": 149999,
-          "oldPrice": 144999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AMD-Ryzen-9-9950X-Processor-Tray-PakByte-Computers-25770865918019.jpg?v=1753673108",
@@ -73365,7 +73369,7 @@
             144999,
             144999,
             144999,
-            144999,
+            149999,
             149999
           ]
         },
@@ -104954,7 +104958,7 @@
             16490,
             16490,
             16490,
-            16490,
+            12990,
             12990,
             12990
           ]
@@ -144804,6 +144808,7 @@
             580000,
             580000,
             580000,
+            580000,
             580000
           ]
         },
@@ -144823,6 +144828,7 @@
             6500000,
             6500000,
             6500000,
+            6500000,
             6500000
           ]
         },
@@ -144838,6 +144844,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-HydroShift-II-LCD-S-360N-Black.webp",
           "url": "https://zahcomputers.pk/product/lian-li-hydroshift-ii-lcd-s-360n-black-aio-liquid-cpu-cooler",
           "history": [
+            4500000,
             4500000,
             4500000,
             4500000,
@@ -144867,6 +144874,7 @@
             4500000,
             4500000,
             4500000,
+            4500000,
             4500000
           ]
         },
@@ -144885,7 +144893,7 @@
             4999900,
             4999900,
             4999900,
-            4999900,
+            4850000,
             4850000,
             4850000,
             4850000,
@@ -144915,6 +144923,7 @@
             4500000,
             4500000,
             4500000,
+            4500000,
             4500000
           ]
         },
@@ -144930,6 +144939,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-Black-Case-Fans.webp",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-inf-flex-3-pack-120mm-reverse-blade-argb-black",
           "history": [
+            2850000,
             2850000,
             2850000,
             2850000,
@@ -144959,6 +144969,7 @@
             2850000,
             2850000,
             2850000,
+            2850000,
             2850000
           ]
         },
@@ -144974,6 +144985,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-Case-Fans.webp",
           "url": "https://zahcomputers.pk/product/lian-li-uni-fan-sl-inf-flex-3-pack-120mm-argb-white-case-fans",
           "history": [
+            2850000,
             2850000,
             2850000,
             2850000,
@@ -145003,6 +145015,7 @@
             2850000,
             2850000,
             2850000,
+            2850000,
             2850000
           ]
         },
@@ -145018,6 +145031,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-O11-VISION-M-White-Micro-ATX-PC-Case-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lian-li-o11-vision-m-white",
           "history": [
+            2250000,
             2250000,
             2250000,
             2250000,
@@ -145048,6 +145062,7 @@
             3000000,
             3000000,
             3000000,
+            3000000,
             3000000
           ]
         },
@@ -145063,6 +145078,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/LIAN-LI-O11-VISION-M-Black-Micro-ATX-PC-Case-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lian-li-o11-vision-m-black-micro-atx-pc-case",
           "history": [
+            2250000,
             2250000,
             2250000,
             2250000,
@@ -145093,6 +145109,7 @@
             2450000,
             2450000,
             2450000,
+            2450000,
             2450000
           ]
         },
@@ -145113,6 +145130,7 @@
             1149900,
             1149900,
             1149900,
+            1200000,
             1200000,
             1200000,
             1200000,
@@ -146476,8 +146494,8 @@
           "name": "Lexar NQ780 2TB Internal SSD – PCIe Gen4 x4 NVMe M.2 2280, Up to 7000MB/s, 3D NAND, PS5 Co",
           "brand": "Lexar",
           "category": "storage",
-          "price": 6500000,
-          "oldPrice": null,
+          "price": 7200000,
+          "oldPrice": 6500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lexar-NQ780-2TB-Internal-SSD-Price-in-Pakistan.webp",
@@ -146494,7 +146512,7 @@
             6500000,
             6500000,
             6500000,
-            6500000
+            7200000
           ]
         },
         {
@@ -147159,6 +147177,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-Vivobook-16-Flip-TP3607SA-2-in-1-AI-Laptop.jpg",
           "url": "https://zahcomputers.pk/product/asus-vivobook-14-flip-tp3407sa-2-in-1-ai-laptop",
           "history": [
+            28000000,
             28000000
           ]
         },
@@ -148961,8 +148980,8 @@
           "name": "Lexar 32GB (1x32GB) 5600MT/s DDR5 UDIMM Desktop Memory",
           "brand": "Lexar",
           "category": "ram",
-          "price": 10800000,
-          "oldPrice": null,
+          "price": 12500000,
+          "oldPrice": 10800000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Lexar-16GB-1x16GB-5600MTs-DDR5-UDIMM-Desktop-Memory-Price-in-Pakistan.jpg",
@@ -148979,7 +148998,7 @@
             10800000,
             10800000,
             10800000,
-            10800000
+            12500000
           ]
         },
         {
@@ -151925,8 +151944,8 @@
           "name": "Lexar ARES Gen2 RGB DDR5 32GB Kit (2 x 16GB) 7600MHz Desktop Memory 288-Pin UDIMM CL36-46-",
           "brand": "Lexar",
           "category": "ram",
-          "price": 12500000,
-          "oldPrice": null,
+          "price": 13900000,
+          "oldPrice": 12500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Lexar-ARES-Gen2-RGB-DDR5-32GB-Kit-2-x-16GB-7600MHz-Desktop-Memory-288-Pin-UDIMM-CL36-46-46-961.4V-DRAM-Empowered-by-SK-hynix-Price-in-Pakistan.jpg",
@@ -151943,7 +151962,7 @@
             12500000,
             12500000,
             12500000,
-            12500000
+            13900000
           ]
         },
         {
@@ -152265,7 +152284,7 @@
           "category": "mouse",
           "price": 3400000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Logitech-MX-Master-4-Ergonomic-Wireless-Mouse-with-Advanced-Performance-Haptic-Feedback-Ultra-Fast-Scrolling-USB-C-Charging-Bluetooth-Windows-MacOS-Pale-Gray-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/logitech-mx-master-4-ergonomic-wireless-mouse-with-advanced-performance-haptic-feedback-ultra-fast-scrolling-usb-c-charging-bluetooth-for-macos-pale-gray",
@@ -168071,7 +168090,7 @@
           "name": "Logitech MX Master 4 Ergonomic Wireless Mouse with Advanced Performance Haptic Feedback Ul",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 2850000,
+          "price": 2799900,
           "oldPrice": 3299900,
           "inStock": true,
           "lowStock": false,
@@ -168089,7 +168108,7 @@
             2850000,
             2850000,
             2850000,
-            2850000
+            2799900
           ]
         },
         {
@@ -168773,9 +168792,9 @@
           "name": "Lexar 16GB (1x16GB) 5600MT/s DDR5 UDIMM Desktop Memory",
           "brand": "Lexar",
           "category": "ram",
-          "price": 5500000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 5950000,
+          "oldPrice": 5500000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Lexar-16GB-1x16GB-5600MTs-DDR5-UDIMM-Desktop-Memory-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-16gb-1x16gb-5600mt-s-ddr5-udimm-desktop-memory",
@@ -168791,7 +168810,7 @@
             5500000,
             5500000,
             5500000,
-            5500000
+            5950000
           ]
         },
         {
@@ -175907,7 +175926,7 @@
             4999900,
             4999900,
             4999900,
-            4999900,
+            4850000,
             4850000,
             4850000,
             4850000,
@@ -178719,7 +178738,7 @@
             13500000,
             13500000,
             13500000,
-            13500000,
+            14500000,
             14500000,
             14500000,
             14500000,
@@ -180265,8 +180284,8 @@
           "name": "Lexar 32GB DDR5 5600MHz SO-DIMM Laptop RAM",
           "brand": "Lexar",
           "category": "ram",
-          "price": 12200000,
-          "oldPrice": null,
+          "price": 12000000,
+          "oldPrice": 12200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Lexar-32GB-DDR5-5600MHz-SO-DIMM-Laptop-RAM-Price-in-pakistan.jpg",
@@ -180275,7 +180294,6 @@
             11000000,
             11000000,
             11000000,
-            11000000,
             12200000,
             12200000,
             12200000,
@@ -180283,7 +180301,8 @@
             12200000,
             12200000,
             12200000,
-            12200000
+            12200000,
+            12000000
           ]
         },
         {
@@ -191155,6 +191174,32 @@
           ]
         },
         {
+          "id": "zah_64cde815",
+          "name": "MSI SHADOW GeForce RTX 5070 Ti 16GB 3X OC GDDR7 PCI Express 5.0 Graphics Card",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 34099900,
+          "oldPrice": null,
+          "inStock": false,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-SHADOW-GeForce-RTX-5070-Ti-16GB-3X-OC-GDDR7-PCI-Express-5.0-Graphics-Card-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/msi-shadow-geforce-rtx-5070-ti-16gb-3x-oc-gddr7-pci-express-5-0-graphics-card",
+          "history": [
+            34099900,
+            34099900,
+            34099900,
+            34099900,
+            34099900,
+            34099900,
+            34099900,
+            34099900,
+            34099900,
+            34099900,
+            34099900,
+            34099900
+          ]
+        },
+        {
           "id": "zah_64b8a745",
           "name": "MSI VENTUS GeForce RTX 5070 12G 2X OC GDDR7 Graphics Card",
           "brand": "MSI",
@@ -193695,7 +193740,7 @@
             13500000,
             13500000,
             13500000,
-            13500000,
+            14800000,
             14800000,
             14800000,
             14800000,
@@ -223855,6 +223900,7 @@
             480000,
             480000,
             480000,
+            480000,
             480000
           ]
         },
@@ -223943,7 +223989,7 @@
           "category": "cooler",
           "price": 499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-Spirit-120-EVO-White-ARGB-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-spirit-120-evo-white-argb-cpu-air-cooler",
@@ -223969,7 +224015,7 @@
           "category": "cooler",
           "price": 499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-Spirit-120-EVO-Black-ARGB-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-spirit-120-evo-black-argb-cpu-air-cooler",
@@ -271158,7 +271204,7 @@
           "brand": "Gigabyte",
           "category": "motherboard",
           "price": 3650000,
-          "oldPrice": 3900000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/04/Gigabyte-B550M-AORUS-ELITE-ZAH-Price-in-Paksitan.jpg",
@@ -271174,7 +271220,7 @@
             3900000,
             3900000,
             3900000,
-            3900000,
+            3650000,
             3650000
           ]
         },
@@ -279122,7 +279168,7 @@
             374999,
             374999,
             374999,
-            374999,
+            364999,
             364999,
             364999,
             364999,
@@ -282216,7 +282262,7 @@
             229999,
             229999,
             229999,
-            229999,
+            244999,
             244999,
             244999,
             244999,
@@ -283308,8 +283354,8 @@
             69999,
             69999,
             69999,
-            69999,
             74999,
+            89999,
             89999,
             89999,
             89999,
@@ -283669,6 +283715,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_glorious_model_d_glossy_black.webp",
           "url": "https://rbtechngames.com/product/glorious-model-d-wired-rgb-gaming-mouse-glossy-black-glossy-white",
           "history": [
+            14499,
             14499,
             14499,
             14499,
@@ -285126,7 +285173,7 @@
             53999,
             53999,
             53999,
-            53999,
+            53499,
             53499,
             53499,
             53499,
@@ -286296,7 +286343,7 @@
             48999,
             48999,
             48999,
-            48999,
+            44999,
             44999,
             44999,
             44999,
@@ -286452,7 +286499,7 @@
             48999,
             48999,
             48999,
-            48999,
+            48499,
             48499,
             48499,
             48499,
@@ -286790,7 +286837,7 @@
             21499,
             21499,
             21499,
-            21499,
+            20499,
             20499,
             20499,
             20499,
