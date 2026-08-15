@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T06:35:54.875196+00:00",
+  "lastUpdated": "2026-08-15T12:34:55.495704+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/jabra-evolve-30-ii-stereo-usb-headphones-price-in-pakistan-pakbyte_2.webp?v=1786598227",
           "url": "https://www.pakbyte.pk/products/jabra-evolve-30-ii-stereo-usb-headphones",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -51,6 +52,7 @@
             434990,
             434990,
             434990,
+            434990,
             434990
           ]
         },
@@ -66,6 +68,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Manli-Nebula-RTX5070-12GB-Graphics-Card-Price-in-Paistan-Pakbyte_1.webp?v=1786597053",
           "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5070-12gb-gddr7-graphic-card",
           "history": [
+            214990,
             214990,
             214990,
             214990,
@@ -3438,7 +3441,7 @@
           "category": "mouse",
           "price": 23990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-a9-air-price-in-pakistan-pakbyte_1.webp?v=1783928863",
           "url": "https://www.pakbyte.pk/products/atk-dragonfly-a9-air-wireless-gaming-mouse-shadow-white",
@@ -5258,7 +5261,7 @@
           "category": "keyboard",
           "price": 7490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk75-price-in-pakistan-pakbyte.webp?v=1783182528",
           "url": "https://www.pakbyte.pk/products/eweadn-dk75-wired-mechanical-gaming-keyboard-black",
@@ -8430,7 +8433,7 @@
           "category": "keyboard",
           "price": 16270,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K761WG-wyvern-LCD-pro-gaming-keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1779464441",
           "url": "https://www.pakbyte.pk/products/redragon-k761wg-rgb-wyvern-pro-keyboard-with-lcd-screen-knob",
@@ -9782,7 +9785,7 @@
           "category": "keyboard",
           "price": 14890,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-F75-Pro-Hot-Swappable-Custom-Keyboard-Price-in-Pakistan-Pakbyte_1.jpg?v=1778402469",
           "url": "https://www.pakbyte.pk/products/aula-f75-pro-75-hot-swappable-custom-keyboard-gradient-blue-star-vector-switches",
@@ -10986,7 +10989,7 @@
             7990,
             7990,
             7990,
-            7990,
+            9999,
             9999,
             9999,
             9999,
@@ -13968,7 +13971,7 @@
           "category": "mouse",
           "price": 14490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Steelseries-QCK-Performance-Balance-mousepad-price-in-pakistan-pakbyte_1.jpg?v=1774336892",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-xl-performance-balance-gaming-mousepad",
@@ -15476,7 +15479,7 @@
           "category": "psu",
           "price": 45990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-sx-platinum-price-in-pakistan-pakbyte_20.webp?v=1773556795",
           "url": "https://www.pakbyte.pk/products/lian-li-sx-platinum-1200w-sxp-compact-atx-form-factor-power-supply-white",
@@ -18882,7 +18885,7 @@
           "category": "monitor",
           "price": 64990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Xp-ppen-Artist-12-graphics-tablet-price-in-pakistan-pakbyte_1.webp?v=1772082484",
           "url": "https://www.pakbyte.pk/products/xp-pen-artist-12-2nd-gen-graphic-drawing-tablet-display-black",
@@ -29646,7 +29649,7 @@
           "category": "keyboard",
           "price": 15490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-F75-Pro-Wireless-Mechanical-Keyboard75-Gasket-Hot-Swappable-Custom-Keyboard-White-Gradient-Purple-Price-in-Pakistan-Pakbyte.jpg?v=1766297357",
           "url": "https://www.pakbyte.pk/products/aula-f75-wireless-75-gasket-hot-swappable-custom-keyboard-gradient-purple",
@@ -37782,8 +37785,8 @@
           "name": "Sapphire NITRO+ AMD Radeon RX 9060 XT OC 16GB Gaming Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 171990,
-          "oldPrice": null,
+          "price": 185999,
+          "oldPrice": 171990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-nitro-amd-radeon-rx-9060-xt-oc-graphics-card-price-in-pakistan-pakbyte.webp?v=1764000828",
@@ -37800,7 +37803,7 @@
             171990,
             171990,
             171990,
-            171990
+            185999
           ]
         },
         {
@@ -41242,7 +41245,7 @@
           "category": "monitor",
           "price": 49990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/koorui-g2421v-price-in-pakistan-pakbyte_7.webp?v=1762343613",
           "url": "https://www.pakbyte.pk/products/koorui-g2421v-24-180hz-1ms-fast-ips-1440p-hdr400-gaming-monitor",
@@ -50186,7 +50189,7 @@
           "category": "ram",
           "price": 23999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-B450M-DS3H-DDR4.webp?v=1755273012",
           "url": "https://www.pakbyte.pk/products/gigabyte-b450m-ds3h-am4-micro-atx-ddr4-motherboard",
@@ -73386,7 +73389,7 @@
             144999,
             144999,
             144999,
-            144999,
+            149999,
             149999,
             149999,
             149999,
@@ -104975,7 +104978,7 @@
           "history": [
             16490,
             16490,
-            16490,
+            12990,
             12990,
             12990,
             12990,
@@ -144818,6 +144821,21 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_ad106efc",
+          "name": "DAHUA C500 Series DDR5 8GB SO-DIMM Laptop Memory, 5600MT/s, CL46, 1.1V",
+          "brand": "DAHUA",
+          "category": "ram",
+          "price": 3000000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/DAHUA-C500-Series-DDR5-8GB-SO-DIMM-Laptop-Memory-Price-in-Pakistan.webp",
+          "url": "https://zahcomputers.pk/product/dahua-c500-series-ddr5-8gb-so-dimm-laptop-memory-5600mt-s-cl46-1-1v",
+          "history": [
+            3000000
+          ]
+        },
+        {
           "id": "zah_66bf5095",
           "name": "Thermalright Assassin X 120 Refined SE ARGB Black CPU Air Cooler | 4×6mm Heat Pipes | 120m",
           "brand": "Thermalright",
@@ -144829,6 +144847,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Thermalright-Assassin-X-120-Refined-SE-ARGB-Black-CPU-Air-Cooler-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-x-120-refined-se-argb-black-cpu-air-cooler",
           "history": [
+            580000,
             580000,
             580000,
             580000,
@@ -145192,7 +145211,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Thunder-Spartan-TGC-2142-Mid-Tower-microATX-Gaming-Case-4x-ARGB-Infinity-Fans-Preinstalled-White.png",
           "url": "https://zahcomputers.pk/product/thunder-spartan-tgc-2142-mid-tower-microatx-gaming-case-4x-argb-infinity-fans-preinstalled-white",
           "history": [
-            1149900,
+            1200000,
             1200000,
             1200000,
             1200000,
@@ -146511,8 +146530,8 @@
           "name": "ASUS PRIME B760M-A DDR4 LGA 1700 Micro-ATX Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 3400000,
-          "oldPrice": null,
+          "price": 3470000,
+          "oldPrice": 3400000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-PRIME-B760M-A-DDR4-LGA-1700-Micro-ATX-Motherboard.jpg",
@@ -146529,7 +146548,7 @@
             3400000,
             3400000,
             3400000,
-            3400000
+            3470000
           ]
         },
         {
@@ -146574,7 +146593,7 @@
             6500000,
             6500000,
             6500000,
-            6500000,
+            7200000,
             7200000,
             7200000,
             7200000,
@@ -147253,6 +147272,7 @@
             28000000,
             28000000,
             28000000,
+            28000000,
             28000000
           ]
         },
@@ -147495,9 +147515,9 @@
           "name": "ASUS Dual GeForce RTX 5060 Ti 16GB GDDR7 Gaming Graphics Card &#8211; PCIe 5.0, 16GB GDDR7",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 22800000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 26200000,
+          "oldPrice": 22800000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-Dual-GeForce-RTX-5060-Ti-16GB-GDDR7-Gaming-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-ti-16gb-gddr7-gaming-graphics-card-pcie-5-0-16gb-gddr7-hdmi-2-1b-displayport-2-1b-axial-tech-cooling",
@@ -147513,7 +147533,7 @@
             22800000,
             22800000,
             22800000,
-            22800000
+            26200000
           ]
         },
         {
@@ -147547,8 +147567,8 @@
           "name": "ASUS PRIME B850-PLUS WIFI-CSM ATX Motherboard – AMD B850, AM5, DDR5, PCIe 5.0, WiFi 6E, 2.",
           "brand": "ASUS",
           "category": "ram",
-          "price": 5950000,
-          "oldPrice": null,
+          "price": 6000000,
+          "oldPrice": 5950000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-PRIME-B850-PLUS-WIFI-CSM-ATX-Motherboard.jpg",
@@ -147565,7 +147585,7 @@
             5950000,
             5950000,
             5950000,
-            5950000
+            6000000
           ]
         },
         {
@@ -147599,8 +147619,8 @@
           "name": "ASUS B850M-AYW GAMING WIFI Micro-ATX Motherboard – AMD B850, AM5, DDR5, PCIe 5.0, WiFi 6, ",
           "brand": "ASUS",
           "category": "ram",
-          "price": 4850000,
-          "oldPrice": null,
+          "price": 4680000,
+          "oldPrice": 4850000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-B850M-AYW-GAMING-WIFI-Micro-ATX-Motherboard.jpg",
@@ -147617,7 +147637,7 @@
             4850000,
             4850000,
             4850000,
-            4850000
+            4680000
           ]
         },
         {
@@ -147625,8 +147645,8 @@
           "name": "ASUS PRIME A620AM-K-CSM Micro-ATX Motherboard – AMD A620A, AM5, DDR5, PCIe 4.0, DisplayPor",
           "brand": "ASUS",
           "category": "ram",
-          "price": 3050000,
-          "oldPrice": null,
+          "price": 2949900,
+          "oldPrice": 3050000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-PRIME-A620AM-K-CSM-Micro-ATX-Motherboard.jpg",
@@ -147643,7 +147663,7 @@
             3050000,
             3050000,
             3050000,
-            3050000
+            2949900
           ]
         },
         {
@@ -147651,8 +147671,8 @@
           "name": "ASUS B760M-AYW WIFI Micro-ATX Motherboard – Intel B760, LGA 1700, DDR5, WiFi 6, PCIe 4.0, ",
           "brand": "ASUS",
           "category": "ram",
-          "price": 4200000,
-          "oldPrice": null,
+          "price": 3849900,
+          "oldPrice": 4200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-B760M-AYW-WIFI-Micro-ATX-Motherboard.jpg",
@@ -147669,7 +147689,7 @@
             4200000,
             4200000,
             4200000,
-            4200000
+            3849900
           ]
         },
         {
@@ -149066,7 +149086,7 @@
             10800000,
             10800000,
             10800000,
-            10800000,
+            12500000,
             12500000,
             12500000,
             12500000,
@@ -152030,7 +152050,7 @@
             12500000,
             12500000,
             12500000,
-            12500000,
+            13900000,
             13900000,
             13900000,
             13900000,
@@ -154229,8 +154249,8 @@
           "name": "ASUS X870 MAX GAMING WIFI7 AM5 ATX Motherboard AMD X870 Chipset 4x DDR5 DIMM Slots Up to 2",
           "brand": "ASUS",
           "category": "ram",
-          "price": 9749900,
-          "oldPrice": null,
+          "price": 9680000,
+          "oldPrice": 9749900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/ASUS-X870-MAX-GAMING-WIFI7-W-AM5-ATX-Motherboard-AMD-X870-Chipset-4x-DDR5-DIMM-Slots-Up-to-256GB-Max-Memory-1x-PCIe-5.0-x16-3x-M.2-Slots-Wi-Fi-7-amp-Bluetooth-v5.4-Price-in-Pakistan-01.jpg",
@@ -154247,7 +154267,7 @@
             9749900,
             9749900,
             9749900,
-            9749900
+            9680000
           ]
         },
         {
@@ -161745,7 +161765,7 @@
           "category": "mouse",
           "price": 599900,
           "oldPrice": 650000,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/ATTACK-SHARK-R1-Wireless-Gaming-Mouse-–-Red-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-r1-wireless-gaming-mouse-red",
@@ -163355,8 +163375,8 @@
           "name": "ASUS PRIME B550M-K ARGB AMD B550 (Ryzen AM4) mATX Motherboard with dual M.2 slots PCIe 4.0",
           "brand": "ASUS",
           "category": "cpu",
-          "price": 3299900,
-          "oldPrice": null,
+          "price": 3359900,
+          "oldPrice": 3299900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/ASUS-PRIME-B550M-K-ARGB-AMD-B550-Ryzen-AM4-mATX-Motherboard-Price-in-Pakistan.jpg",
@@ -163373,7 +163393,7 @@
             3299900,
             3299900,
             3299900,
-            3299900
+            3359900
           ]
         },
         {
@@ -168176,7 +168196,7 @@
             2850000,
             2850000,
             2850000,
-            2850000,
+            2799900,
             2799900,
             2799900,
             2799900,
@@ -168878,7 +168898,7 @@
             5500000,
             5500000,
             5500000,
-            5500000,
+            5950000,
             5950000,
             5950000,
             5950000,
@@ -169517,8 +169537,8 @@
           "name": "Acer Predator GM7 2TB M.2 2280 PCIe Gen 4 x4 NVMe 2.0, Read Speed Up to 7200 MB/s, SSD",
           "brand": "Acer",
           "category": "storage",
-          "price": 6350000,
-          "oldPrice": null,
+          "price": 6450000,
+          "oldPrice": 6350000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Acer-Predator-GM7-2TB-Price-in-Pakistan.jpg",
@@ -169535,7 +169555,7 @@
             6350000,
             6350000,
             6350000,
-            6350000
+            6450000
           ]
         },
         {
@@ -169737,7 +169757,7 @@
             14800000,
             14800000,
             14800000,
-            14800000,
+            13400000,
             13400000,
             13400000,
             13400000,
@@ -170141,8 +170161,8 @@
           "name": "ASUS Prime Z890-P-CSM DDR5 LGA1851 ATX Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 8200000,
-          "oldPrice": null,
+          "price": 8249900,
+          "oldPrice": 8200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ASUS-Prime-Z890-P-Wifi-CSM-DDR5-Intel-LGA-1851-Intel-Motherboard.jpg",
@@ -170159,7 +170179,7 @@
             8200000,
             8200000,
             8200000,
-            8200000
+            8249900
           ]
         },
         {
@@ -173159,7 +173179,7 @@
           "category": "ram",
           "price": 2300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/GameMax-Infinity-PRO-Panoramic-Tempered-Glass-Mid-Tower-Gaming-PC-Case-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gamemax-infinity-pro-panoramic-tempered-glass-mid-tower-gaming-pc-case-white",
@@ -178227,8 +178247,8 @@
           "name": "ASUS ROG Strix GeForce RTX 5070 Ti OC Edition 16GB 256-Bit GDDR7 PCI Express 5.0 DLSS 4.0 ",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 45500000,
-          "oldPrice": null,
+          "price": 45000000,
+          "oldPrice": 45500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-ROG-Strix-GeForce-RTX-5070-Ti-OC-Edition-16GB-256-Bit-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan.jpg",
@@ -178245,7 +178265,7 @@
             45500000,
             45500000,
             45500000,
-            45500000
+            45000000
           ]
         },
         {
@@ -178617,9 +178637,9 @@
           "name": "ASUS TUF Gaming Radeon RX 9070 XT OC Edition 16GB GDDR6 Gaming Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 29800000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 34000000,
+          "oldPrice": 29800000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-TUF-Gaming-Radeon-RX-9070-XT-OC-Edition-16GB-GDDR6-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-radeon-rx-9070-xt-oc-edition-16gb-gddr6-gaming-graphics-card",
@@ -178635,7 +178655,7 @@
             29800000,
             29800000,
             29800000,
-            29800000
+            34000000
           ]
         },
         {
@@ -178721,9 +178741,9 @@
           "name": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition Gaming Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 23999900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 29700000,
+          "oldPrice": 23999900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-Dual-GeForce-RTX-5070-12GB-GDDR7-OC-Edition-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-gaming-graphics-card",
@@ -178739,7 +178759,7 @@
             23999900,
             23999900,
             23999900,
-            23999900
+            29700000
           ]
         },
         {
@@ -178773,9 +178793,9 @@
           "name": "ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 PCI Express 5.0 x8 ATX Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 15499900,
-          "oldPrice": 15799900,
-          "inStock": false,
+          "price": 17000000,
+          "oldPrice": 15499900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-Dual-GeForce-RTX-5060-Ti-8GB-GDDR7-PCI-Express-5.0-x8-ATX-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-pci-express-5-0-x8-atx-graphics-card",
@@ -178791,7 +178811,7 @@
             15499900,
             15499900,
             15499900,
-            15499900
+            17000000
           ]
         },
         {
@@ -178806,7 +178826,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Viper-Venom-RGB-32GB-2x16GB-6000MTs-CL30-DDR5-Ram-01.jpg",
           "url": "https://zahcomputers.pk/product/viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram",
           "history": [
-            13500000,
+            14500000,
             14500000,
             14500000,
             14500000,
@@ -178825,9 +178845,9 @@
           "name": "Asus Dual GeForce RTX 5060 8GB White GDDR7 OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 12999900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 14800000,
+          "oldPrice": 12999900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Asus-Dual-GeForce-RTX-5060-8GB-White-GDDR7-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-8gb-white-gddr7-oc-edition-graphics-card",
@@ -178843,7 +178863,7 @@
             12999900,
             12999900,
             12999900,
-            12999900
+            14800000
           ]
         },
         {
@@ -178851,8 +178871,8 @@
           "name": "Asus Dual GeForce RTX 5060 8GB GDDR7 OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 15300000,
-          "oldPrice": null,
+          "price": 14500000,
+          "oldPrice": 15300000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Asus-Dual-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
@@ -178869,7 +178889,7 @@
             15300000,
             15300000,
             15300000,
-            15300000
+            14500000
           ]
         },
         {
@@ -178878,8 +178898,8 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 10499900,
-          "oldPrice": 11199900,
-          "inStock": false,
+          "oldPrice": 12750000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-Dual-GeForce-RTX-5050-8GB-GDDR6-PCI-Express-5.0-x8-ATX-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5050-8gb-gddr6-pci-express-5-0-x8-atx-graphics-card",
@@ -178903,8 +178923,8 @@
           "name": "ASUS ROG STRIX X870E-H GAMING WIFI7 AMD X870E-H ATX motherboard with 16+2+1 power stages D",
           "brand": "ASUS",
           "category": "ram",
-          "price": 12000000,
-          "oldPrice": null,
+          "price": 11550000,
+          "oldPrice": 12000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-ROG-STRIX-X870E-H-GAMING-WIFI7-AMD-X870E-H-ATX-motherboard-Price-in-Pakistan.jpg",
@@ -178921,7 +178941,7 @@
             12000000,
             12000000,
             12000000,
-            12000000
+            11550000
           ]
         },
         {
@@ -178929,8 +178949,8 @@
           "name": "ASUS TUF GAMING X870E-PLUS WIFI7 AM5 ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 11400000,
-          "oldPrice": null,
+          "price": 11550000,
+          "oldPrice": 11400000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-TUF-GAMING-X870E-PLUS-WIFI7-AM5-ATX-Motherboard-Price-in-Pakistan.jpg",
@@ -178947,7 +178967,7 @@
             11400000,
             11400000,
             11400000,
-            11400000
+            11550000
           ]
         },
         {
@@ -178955,8 +178975,8 @@
           "name": "ASUS X870 MAX GAMING WIFI7 W AM5 ATX Motherboard AMD X870 Chipset 4x DDR5 DIMM Slots Up to",
           "brand": "ASUS",
           "category": "ram",
-          "price": 9749900,
-          "oldPrice": null,
+          "price": 9700000,
+          "oldPrice": 9749900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-X870-MAX-GAMING-WIFI7-W-AM5-ATX-Motherboard-Price-in-Pakistan.jpg",
@@ -178973,7 +178993,7 @@
             9749900,
             9749900,
             9749900,
-            9749900
+            9700000
           ]
         },
         {
@@ -179033,8 +179053,8 @@
           "name": "ASUS B850 MAX GAMING WIFI W &#8211; AMD AM5 ATX Motherboard White PCB DDR5 PCIe 5.0 Ready ",
           "brand": "ASUS",
           "category": "ram",
-          "price": 6499900,
-          "oldPrice": null,
+          "price": 6600000,
+          "oldPrice": 6499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-B850-MAX-GAMING-WIFI-W-AMD-AM5-ATX-Motherboard-Price-in-Pakistan.jpg",
@@ -179051,7 +179071,7 @@
             6499900,
             6499900,
             6499900,
-            6499900
+            6600000
           ]
         },
         {
@@ -180370,7 +180390,7 @@
             12200000,
             12200000,
             12200000,
-            12200000,
+            12000000,
             12000000,
             12000000,
             12000000,
@@ -181763,8 +181783,8 @@
           "name": "ASUS TUF Gaming GeForce RTX 5070 Ti OC Edition 16GB GDDR7 TUF-RTX5070TI-O16G-GAMING PCI-Ex",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 38999900,
-          "oldPrice": null,
+          "price": 41700000,
+          "oldPrice": 38999900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-Ti-OC-Edition-16GB-GDDR7-TUF-RTX5070TI-O16G-GAMING-PCI-Express-5.0-DLSS-4.0-Graphics-Card-price-inPakistan.jpg",
@@ -181775,13 +181795,13 @@
             39800000,
             39800000,
             39800000,
-            39800000,
             38999900,
             38999900,
             38999900,
             38999900,
             38999900,
-            38999900
+            38999900,
+            41700000
           ]
         },
         {
@@ -185091,9 +185111,9 @@
           "name": "ASUS PRIME Radeon RX 9070 XT 16GB 256-Bit GDDR6 PCI Express 5.0 RDNA 4 Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 28000000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 31500000,
+          "oldPrice": 28000000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-PRIME-Radeon-RX-9070-XT-16GB-256-Bit-GDDR6-PCI-Express-5.0-RDNA-4-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-radeon-rx-9070-xt-16gb-256-bit-gddr6-pci-express-5-0-rdna-4-graphics-card",
@@ -185109,7 +185129,7 @@
             28000000,
             28000000,
             28000000,
-            28000000
+            31500000
           ]
         },
         {
@@ -185117,8 +185137,8 @@
           "name": "ASUS PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition PCI Express 5.0 DLSS 4.0 Graphics Car",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 36000000,
-          "oldPrice": null,
+          "price": 40000000,
+          "oldPrice": 36000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-PRIME-GeForce-RTX-5070-Ti-16GB-256-Bit-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan.jpg",
@@ -185129,13 +185149,13 @@
             37500000,
             37500000,
             37500000,
-            37500000,
             36000000,
             36000000,
             36000000,
             36000000,
             36000000,
-            36000000
+            36000000,
+            40000000
           ]
         },
         {
@@ -186393,7 +186413,7 @@
           "category": "mouse",
           "price": 599900,
           "oldPrice": 650000,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/03/ATTACK-SHARK-X11-SE-Wireless-Gaming-Mouse-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-x11-se-wireless-gaming-mouse-white",
@@ -189719,8 +189739,8 @@
           "name": "ASUS Prime LC 360 ARGB White Edition all-in-one CPU liquid cooler with vast CPU contact ar",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 2679900,
-          "oldPrice": null,
+          "price": 2500000,
+          "oldPrice": 2679900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-Prime-LC-ARGB-White-Edition-all-in-one-CPU-liquid-cooler-Price-in-Pakistan.jpg",
@@ -189737,7 +189757,7 @@
             2679900,
             2679900,
             2679900,
-            2679900
+            2500000
           ]
         },
         {
@@ -189745,8 +189765,8 @@
           "name": "ASUS Prime LC 360 ARGB all-in-one CPU liquid cooler with specially designed CPU contact ar",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 2679900,
-          "oldPrice": null,
+          "price": 2500000,
+          "oldPrice": 2679900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-Prime-LC-360-ARGB-all-in-one-CPU-liquid-cooler-Price-in-Pakistan.jpg",
@@ -189763,7 +189783,7 @@
             2679900,
             2679900,
             2679900,
-            2679900
+            2500000
           ]
         },
         {
@@ -189771,8 +189791,8 @@
           "name": "ASUS Prime LC 360 ARGB LCD all-in-one CPU liquid cooler with sharp screen showcasing CPU &",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 3750000,
-          "oldPrice": null,
+          "price": 3500000,
+          "oldPrice": 3750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-Prime-LC-360-ARGB-LCD-all-in-one-CPU-liquid-cooler-Price-in-Pakistna.jpg",
@@ -189789,7 +189809,7 @@
             3750000,
             3750000,
             3750000,
-            3750000
+            3500000
           ]
         },
         {
@@ -189901,8 +189921,8 @@
           "name": "Asus Tuf Gaming B850-E Wifi AMD AM5 B850 ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 6949900,
-          "oldPrice": null,
+          "price": 7050000,
+          "oldPrice": 6949900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Asus-Tuf-Gaming-B850-E-Wifi-AMD-AM5-B850-ATX-Motherboard-Price-in-Pakistan.jpg",
@@ -189919,7 +189939,7 @@
             6949900,
             6949900,
             6949900,
-            6949900
+            7050000
           ]
         },
         {
@@ -191447,7 +191467,7 @@
             14800000,
             14800000,
             14800000,
-            14800000,
+            13400000,
             13400000,
             13400000,
             13400000,
@@ -191532,6 +191552,32 @@
             6000000,
             6000000,
             6000000
+          ]
+        },
+        {
+          "id": "zah_059812bf",
+          "name": "ASUS TUF Gaming GeForce RTX 5070 Ti White OC Edition 16GB GDDR7 PCI-Express 5.0 DLSS 4.0 G",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 43500000,
+          "oldPrice": 39999900,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-TUF-Gaming-GeForce-RTX-5070-Ti-White-OC-Edition-16GB-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan-09.jpg",
+          "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-5070-ti-white-oc-edition-16gb-gddr7-pci-express-5-0-dlss-4-0-graphics-card",
+          "history": [
+            39999900,
+            39999900,
+            39999900,
+            39999900,
+            39999900,
+            39999900,
+            39999900,
+            39999900,
+            39999900,
+            39999900,
+            39999900,
+            43500000
           ]
         },
         {
@@ -193808,7 +193854,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/112614-xpg-lancer-blade-rbg-ddr5-6000mhz-cl30-32gb-1.jpg",
           "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rgb-32gb-2x16gb-6000mhz-c36-ddr5-dram-memory-black",
           "history": [
-            13500000,
+            14800000,
             14800000,
             14800000,
             14800000,
@@ -193881,7 +193927,7 @@
           "category": "keyboard",
           "price": 4999900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Asus-X902-Rog-Strix-Scope-II-96-RX-Wireless-Gaming-Keyboard-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/asus-x902-rog-strix-scope-ii-96-rx-wireless-gaming-keyboard",
@@ -199105,8 +199151,8 @@
           "name": "Asus ROG Strix B860-A Gaming Wifi DDR5 Intel Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 7849900,
-          "oldPrice": null,
+          "price": 7549900,
+          "oldPrice": 7849900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Asus-ROG-Strix-B860-A-Gaming-Wifi-DDR5-Intel-Motherboard-Price-in-Pakistan.jpg",
@@ -199123,7 +199169,7 @@
             7849900,
             7849900,
             7849900,
-            7849900
+            7549900
           ]
         },
         {
@@ -199211,7 +199257,7 @@
           "category": "keyboard",
           "price": 12499900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/ASUS-M702-ROG-Azoth-Extreme-Customizable-75-Wireless-Mechanical-Gaming-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-m702-rog-azoth-extreme-customizable-75-wireless-mechanical-gaming-keyboard",
@@ -199235,8 +199281,8 @@
           "name": "ASUS M603 Falchion ROG RX Low Profile Wireless Gaming Keyboard (RX Red)",
           "brand": "ASUS",
           "category": "keyboard",
-          "price": 3949900,
-          "oldPrice": null,
+          "price": 3800000,
+          "oldPrice": 3949900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/12/ASUS-M603-Falchion-ROG-RX-Low-Profile-Wireless-Gaming-Keyboard-RX-Red-Price-in-Pakistan.jpg",
@@ -199253,7 +199299,7 @@
             3949900,
             3949900,
             3949900,
-            3949900
+            3800000
           ]
         },
         {
@@ -199339,8 +199385,8 @@
           "name": "Asus TUF Gaming B860-PLUS WiFi B860 LGA 1851 ATX Motherboard, Intel® Core™ Ultra Series 2 ",
           "brand": "ASUS",
           "category": "ram",
-          "price": 6799900,
-          "oldPrice": null,
+          "price": 7149900,
+          "oldPrice": 6799900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Asus-TUF-Gaming-B860-PLUS-WiFi-B860-LGA-1851-ATX-Motherboard-Intel®-Core-Price-in-Pakistan.jpg",
@@ -199357,7 +199403,7 @@
             6799900,
             6799900,
             6799900,
-            6799900
+            7149900
           ]
         },
         {
@@ -199365,8 +199411,8 @@
           "name": "ASUS TUF GAMING B860M-PLUS WIFI B860 LGA 1851 mATX motherboard, Intel Core Ultra Series 2 ",
           "brand": "ASUS",
           "category": "ram",
-          "price": 6499900,
-          "oldPrice": null,
+          "price": 6599900,
+          "oldPrice": 6499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/ASUS-TUF-GAMING-B860M-PLUS-WIFI-B860-LGA-1851-mATX-motherboard-Price-in-Pakistan.jpg",
@@ -199383,7 +199429,7 @@
             6499900,
             6499900,
             6499900,
-            6499900
+            6599900
           ]
         },
         {
@@ -199391,8 +199437,8 @@
           "name": "Asus PRIME B860M-A WIFI-CSM B860 LGA 1851 mATX motherboard, Intel® Core™ Ultra Series 2 Re",
           "brand": "ASUS",
           "category": "ram",
-          "price": 4849900,
-          "oldPrice": null,
+          "price": 5059900,
+          "oldPrice": 4849900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Asus-PRIME-B860M-A-WIFI-CSM-B860-LGA-1851-mATX-motherboard-Intel®-Core™-Price-in-Pakistan.jpg",
@@ -199409,7 +199455,7 @@
             4849900,
             4849900,
             4849900,
-            4849900
+            5059900
           ]
         },
         {
@@ -204227,8 +204273,8 @@
           "name": "Asus ProArt LC 360 All-in-One AIO CPU Liquid Cooler AMD AM4 AM5 &amp; Intel LGA 1700, 1200",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 6299900,
-          "oldPrice": null,
+          "price": 6450000,
+          "oldPrice": 6299900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/04/Asus-ProArt-LC-360-All-in-One-AIO-CPU-Liquid-Cooler-AMD-AM4-AM5-Intel-LGA-1700-1200-115X-Support-Price-in-Pakistan.jpg",
@@ -204245,7 +204291,7 @@
             6299900,
             6299900,
             6299900,
-            6299900
+            6450000
           ]
         },
         {
@@ -214107,8 +214153,8 @@
           "name": "ASUS ProArt Z890-CREATOR WIFI Z890 LGA 1851 ATX Motherboard, Intel® Core™ Ultra Processor ",
           "brand": "ASUS",
           "category": "cpu",
-          "price": 17999900,
-          "oldPrice": null,
+          "price": 18149900,
+          "oldPrice": 17999900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ASUS-ProArt-Z890-CREATOR-WIFI-Z890-LGA-1851-ATX-Motherboard.jpg",
@@ -214125,7 +214171,7 @@
             17999900,
             17999900,
             17999900,
-            17999900
+            18149900
           ]
         },
         {
@@ -214185,8 +214231,8 @@
           "name": "ASUS TUF GAMING Z890-PLUS WIFI Z890 LGA 1851 ATX Motherboard, Intel® Core™ Ultra Series 2 ",
           "brand": "ASUS",
           "category": "ram",
-          "price": 11199900,
-          "oldPrice": null,
+          "price": 11449900,
+          "oldPrice": 11199900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ASUS-TUF-GAMING-Z890-PLUS-WIFI-Z890-LGA-1851-ATX-Motherboard.jpg",
@@ -214203,7 +214249,7 @@
             11199900,
             11199900,
             11199900,
-            11199900
+            11449900
           ]
         },
         {
@@ -214211,8 +214257,8 @@
           "name": "ASUS Prime Z890-P Wifi CSM DDR5 Intel LGA 1851 Intel Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 8649900,
-          "oldPrice": null,
+          "price": 8520000,
+          "oldPrice": 8649900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ASUS-Prime-Z890-P-Wifi-CSM-DDR5-Intel-LGA-1851-Intel-Motherboard-Price-in-Pakistan.jpg",
@@ -214229,7 +214275,7 @@
             8649900,
             8649900,
             8649900,
-            8649900
+            8520000
           ]
         },
         {
@@ -216291,8 +216337,8 @@
           "name": "Maxsun Intel Arc B580 iCraft 12G Graphics Card",
           "brand": "Intel",
           "category": "gpu",
-          "price": 11900000,
-          "oldPrice": null,
+          "price": 13000000,
+          "oldPrice": 11900000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/MAXSUN-Intel-Arc-B580-iCraft-12G-Graphics-Cards.webp",
@@ -216309,7 +216355,7 @@
             11900000,
             11900000,
             11900000,
-            11900000
+            13000000
           ]
         },
         {
@@ -217801,7 +217847,7 @@
           "category": "mouse",
           "price": 299000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Swipe-Signature-Performance-Gaming-Mouse-Pad.jpg",
           "url": "https://zahcomputers.pk/product/swipe-signature-performance-gaming-mouse-pad",
@@ -220295,8 +220341,8 @@
           "name": "ASUS ProArt X870E-CREATOR WIFI AMD AM5 X870E ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 18799900,
-          "oldPrice": null,
+          "price": 19250000,
+          "oldPrice": 18799900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/ASUS-ProArt-X870E-CREATOR-WIFI.jpeg",
@@ -220313,7 +220359,7 @@
             18799900,
             18799900,
             18799900,
-            18799900
+            19250000
           ]
         },
         {
@@ -220659,8 +220705,8 @@
           "name": "Logitech G515 TKL G Series Wired Gaming Keyboard Tenkeyless Black Tactile Lightsync RGB",
           "brand": "Logitech",
           "category": "keyboard",
-          "price": 2250000,
-          "oldPrice": null,
+          "price": 2300000,
+          "oldPrice": 2250000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Logitech-G515-TKL-G-Series-Wired-Gaming-Keyboard.jpg",
@@ -220677,7 +220723,7 @@
             2250000,
             2250000,
             2250000,
-            2250000
+            2300000
           ]
         },
         {
@@ -221335,8 +221381,8 @@
           "name": "Asus PRIME X870-P WIFI-CSM AM5 ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 8899900,
-          "oldPrice": null,
+          "price": 9250000,
+          "oldPrice": 8899900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Asus-PRIME-X870-P-WIFI-CSM-AM5-ATX-Motherboard.jpg",
@@ -221353,7 +221399,7 @@
             8899900,
             8899900,
             8899900,
-            8899900
+            9250000
           ]
         },
         {
@@ -223703,7 +223749,7 @@
           "category": "ram",
           "price": 149900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-AM5-Secure-Frame-Kit-Black-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-am5-secure-frame-kit-black",
@@ -227835,8 +227881,8 @@
           "name": "ASUS ROG Cetra True Wireless Gaming Headphones White",
           "brand": "ASUS",
           "category": "headset",
-          "price": 1849900,
-          "oldPrice": null,
+          "price": 1869900,
+          "oldPrice": 1849900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/ASUS-ROG-Cetra-True-Wireless-Gaming-Headphones-White-Lowest-Price-in-Pakistan.jpg",
@@ -227853,7 +227899,7 @@
             1849900,
             1849900,
             1849900,
-            1849900
+            1869900
           ]
         },
         {
@@ -230175,8 +230221,8 @@
           "name": "ASUS ProArt LC 420 Liquid CPU Cooler, 3 Phase Motor, 3x Noctua NF-A14 Fans, Illuminated St",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 8500000,
-          "oldPrice": null,
+          "price": 7900000,
+          "oldPrice": 8500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/107647-asus-proart-lc-420-liquid-cpu-cooler-price-in-pakistan-1.webp",
@@ -230193,7 +230239,7 @@
             8500000,
             8500000,
             8500000,
-            8500000
+            7900000
           ]
         },
         {
@@ -232933,7 +232979,7 @@
           "category": "cooler",
           "price": 140000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/105390-cooler-master-tpx-nopp-9015-r1-1-5mm-high-performance-thermal-pad-1.webp",
           "url": "https://zahcomputers.pk/product/cooler-master-tpx-nopp-9015-r1-thermal-pad-1-5mm-high-performance-thermal-pad-conductivity-w-m-k-13-3m-nano-elements-rapid-cooling-double-sided-adhesive",
@@ -232985,7 +233031,7 @@
           "category": "cooler",
           "price": 65000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/105381-cooler-master-tpx-nopp-9005-r1-0-5mm-thermal-pad-1.webp",
           "url": "https://zahcomputers.pk/product/cooler-master-tpx-nopp-9005-r1-thermal-pad-0-5-mm-high-performance-thermal-pad-conductivity-w-m-k-13-3m-nano-elements-rapid-cooling-double-sided-adhesive",
@@ -234361,8 +234407,8 @@
           "name": "ASUS Prime B550M-A WiFi II AMD AM4 (3rd Gen Ryzen) Micro ATX Motherboard",
           "brand": "ASUS",
           "category": "cpu",
-          "price": 3849900,
-          "oldPrice": null,
+          "price": 3949900,
+          "oldPrice": 3849900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/ASUS-Prime-B550M-A-WiFi-II-Lowest-Price-in-Pakistan.jpg",
@@ -234379,7 +234425,7 @@
             3849900,
             3849900,
             3849900,
-            3849900
+            3949900
           ]
         },
         {
@@ -235375,8 +235421,8 @@
           "name": "ASUS PRIME Z790-P WIFI-CSM LGA 1700 (Intel 12th&#038;13th 14th Gen) ATX  Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 6849900,
-          "oldPrice": null,
+          "price": 7319900,
+          "oldPrice": 6849900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/ASUS-PRIME-Z790-P-WIFI-CSM-Lowest-Price-in-Pakistan.jpg",
@@ -235393,7 +235439,7 @@
             6849900,
             6849900,
             6849900,
-            6849900
+            7319900
           ]
         },
         {
@@ -236285,8 +236331,8 @@
           "name": "ASUS Prime B760M-K D5, LGA 1700 mATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 3099900,
-          "oldPrice": null,
+          "price": 2919900,
+          "oldPrice": 3099900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/04/ASUS-Prime-B760M-K-D5-Lowest-Price-in-Pakistan.jpg",
@@ -236303,7 +236349,7 @@
             3099900,
             3099900,
             3099900,
-            3099900
+            2919900
           ]
         },
         {
@@ -236311,8 +236357,8 @@
           "name": "Asus Prime H610M-K D5 Intel® H610 (LGA 1700) micro-ATX motherboard, DDR5, PCIe 4.0, M.2 sl",
           "brand": "ASUS",
           "category": "ram",
-          "price": 2499900,
-          "oldPrice": null,
+          "price": 2479900,
+          "oldPrice": 2499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/04/Asus-Prime-H610M-K-D5-Lowest-Price-in-Pakistan.jpg",
@@ -236329,7 +236375,7 @@
             2499900,
             2499900,
             2499900,
-            2499900
+            2479900
           ]
         },
         {
@@ -237559,8 +237605,8 @@
           "name": "ASUS A21 White Mid-Tower Support for 360mm Radiators, and 380mm Graphics Card Clean Cable ",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 2300000,
-          "oldPrice": null,
+          "price": 2250000,
+          "oldPrice": 2300000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/01/ASUS-A21-White.jpg",
@@ -237577,7 +237623,7 @@
             2300000,
             2300000,
             2300000,
-            2300000
+            2250000
           ]
         },
         {
@@ -237585,8 +237631,8 @@
           "name": "ASUS A21 Black Mid-Tower Support for 360mm Radiators, and 380mm Graphics Card Clean Cable ",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 2500000,
-          "oldPrice": null,
+          "price": 2250000,
+          "oldPrice": 2500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/01/ASUS-A21-Black.jpg",
@@ -237603,7 +237649,7 @@
             2500000,
             2500000,
             2500000,
-            2500000
+            2250000
           ]
         },
         {
@@ -240873,7 +240919,7 @@
             9500000,
             9500000,
             9500000,
-            9500000,
+            8600000,
             8600000,
             8600000,
             8600000,
@@ -241095,8 +241141,8 @@
           "name": "ASUS ROG Delta S Wireless Gaming Headset",
           "brand": "ASUS",
           "category": "headset",
-          "price": 4199900,
-          "oldPrice": null,
+          "price": 4149900,
+          "oldPrice": 4199900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/10/ASUS-ROG-Delta-S-Wireless-Gaming-Headset.jpg",
@@ -241113,7 +241159,7 @@
             4199900,
             4199900,
             4199900,
-            4199900
+            4149900
           ]
         },
         {
@@ -241121,8 +241167,8 @@
           "name": "ASUS ROG Cetra True Wireless Gaming Headphones",
           "brand": "ASUS",
           "category": "headset",
-          "price": 1849900,
-          "oldPrice": null,
+          "price": 1869900,
+          "oldPrice": 1849900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/10/ASUS-ROG-Cetra-True-Wireless-Gaming-Headphones.jpg",
@@ -241139,7 +241185,7 @@
             1849900,
             1849900,
             1849900,
-            1849900
+            1869900
           ]
         },
         {
@@ -241147,8 +241193,8 @@
           "name": "ASUS  ROG Delta S Core Gaming Headset",
           "brand": "ASUS",
           "category": "headset",
-          "price": 2949900,
-          "oldPrice": null,
+          "price": 2200000,
+          "oldPrice": 2949900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/10/ASUS-ROG-Delta-S-Core-Gaming-Headset.jpg",
@@ -241165,7 +241211,7 @@
             2949900,
             2949900,
             2949900,
-            2949900
+            2200000
           ]
         },
         {
@@ -243175,8 +243221,8 @@
           "name": "ASUS PRIME B760M-A WIFI LGA 1700 Micro-ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 4499900,
-          "oldPrice": null,
+          "price": 4269900,
+          "oldPrice": 4499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/ASUS-PRIME-B760M-A-WIFI-LGA-1700-Micro-ATX-Mortheboard-Price-in-Pakistan.jpg",
@@ -243193,7 +243239,7 @@
             4499900,
             4499900,
             4499900,
-            4499900
+            4269900
           ]
         },
         {
@@ -243201,8 +243247,8 @@
           "name": "ASUS PRIME B760M-A LGA 1700 Micro-ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 3499900,
-          "oldPrice": null,
+          "price": 3519900,
+          "oldPrice": 3499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/ASUS-PRIME-B760M-A-LGA-1700-Micro-ATX-Motherboard.jpg",
@@ -243219,7 +243265,7 @@
             3499900,
             3499900,
             3499900,
-            3499900
+            3519900
           ]
         },
         {
@@ -243227,8 +243273,8 @@
           "name": "ASUS Prime B760M-K D4, LGA 1700 mATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 2949900,
-          "oldPrice": null,
+          "price": 2919900,
+          "oldPrice": 2949900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/PRIME-B760M-K-D4-price-in-Pakistan-04.jpg",
@@ -243245,7 +243291,7 @@
             2949900,
             2949900,
             2949900,
-            2949900
+            2919900
           ]
         },
         {
@@ -244423,8 +244469,8 @@
           "name": "ASUS TUF GAMING 1200W 80+ Gold Certification Full Modular Compatible with PCIe Gen 5.0 and",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 5200000,
-          "oldPrice": null,
+          "price": 5300000,
+          "oldPrice": 5200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/07/ASUS-TUF-GAMING-1200W-Price-in-Pakistan.jpg",
@@ -244441,7 +244487,7 @@
             5200000,
             5200000,
             5200000,
-            5200000
+            5300000
           ]
         },
         {
@@ -246685,8 +246731,8 @@
           "name": "ASUS TUF GAMING 1000W 80+ Gold Certification Full Modular Compatible with PCIe Gen 5.0 and",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 4200000,
-          "oldPrice": null,
+          "price": 4300000,
+          "oldPrice": 4200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/05/ASUS-TUF-GAMING-1000W-price-in-pakistan-11.jpg",
@@ -246703,7 +246749,7 @@
             4200000,
             4200000,
             4200000,
-            4200000
+            4300000
           ]
         },
         {
@@ -254043,8 +254089,8 @@
           "name": "Asus Prime H610M-K D4 Intel® H610 (LGA 1700) mic-ATX motherboard with DDR4, PCIe 4.0, M.2 ",
           "brand": "ASUS",
           "category": "ram",
-          "price": 2499900,
-          "oldPrice": null,
+          "price": 2479900,
+          "oldPrice": 2499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/12/Asus-Prime-H610M-K-D4-Price-in-Pakistan-.jpg",
@@ -254061,7 +254107,7 @@
             2499900,
             2499900,
             2499900,
-            2499900
+            2479900
           ]
         },
         {
@@ -256851,8 +256897,8 @@
           "name": "Logitech G G305 Mouse &#8211; Wireless &#8211; White",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 1400000,
-          "oldPrice": null,
+          "price": 1050000,
+          "oldPrice": 1400000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/08/Logitech-G-G305-Mouse-Wireless-White-Price-in-Pakistan.jpg",
@@ -256869,7 +256915,7 @@
             1400000,
             1400000,
             1400000,
-            1400000
+            1050000
           ]
         },
         {
@@ -262051,8 +262097,8 @@
           "name": "ASUS TUF Gaming RA04 K1 RGB Keyboard Black",
           "brand": "ASUS",
           "category": "keyboard",
-          "price": 1149900,
-          "oldPrice": null,
+          "price": 1099900,
+          "oldPrice": 1149900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/03/ASUS-TUF-Gaming-K1-RGB-Keyboard-Black-Price-in-Pakistan-ZahComputers.jpg",
@@ -262069,7 +262115,7 @@
             1149900,
             1149900,
             1149900,
-            1149900
+            1099900
           ]
         },
         {
@@ -262129,8 +262175,8 @@
           "name": "ASUS TUF Gaming H1 Wireless Headset (Discord Certified Mic, 7.1 Surround Sound, 40mm Drive",
           "brand": "ASUS",
           "category": "headset",
-          "price": 1999900,
-          "oldPrice": null,
+          "price": 1969900,
+          "oldPrice": 1999900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/03/ASUS-TUF-Gaming-H1-Wireless-Headset-Black-Price-in-Pakistan-ZahComputers.jpg",
@@ -262147,7 +262193,7 @@
             1999900,
             1999900,
             1999900,
-            1999900
+            1969900
           ]
         },
         {
@@ -263795,7 +263841,7 @@
           "category": "keyboard",
           "price": 3050000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/02/Logitech-MX-Keys-Mini-Wireless-Keyboard-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/logitech-mx-keys-mini-wireless-keyboard-graphite",
@@ -271291,7 +271337,7 @@
             3900000,
             3900000,
             3900000,
-            3900000,
+            3650000,
             3650000,
             3650000,
             3650000,
@@ -278832,6 +278878,7 @@
             252999,
             252999,
             252999,
+            252999,
             252999
           ]
         },
@@ -278847,6 +278894,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_gmktec_evo-t2_8.webp",
           "url": "https://rbtechngames.com/product/gmktec-evo-t2-ai-mini-pc-intel-core-ultra-x7-358h-64gb-ram-1tb-ssd",
           "history": [
+            499999,
             499999,
             499999,
             499999,
@@ -278872,6 +278920,7 @@
             69999,
             69999,
             69999,
+            69999,
             69999
           ]
         },
@@ -278892,6 +278941,7 @@
             159999,
             159999,
             159999,
+            159999,
             159999
           ]
         },
@@ -278909,6 +278959,7 @@
           "history": [
             74999,
             74999,
+            89999,
             89999,
             89999,
             89999,
@@ -284834,7 +284885,7 @@
             40499,
             40499,
             40499,
-            40499,
+            28499,
             28499,
             28499,
             28499,
