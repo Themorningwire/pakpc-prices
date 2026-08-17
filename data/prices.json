@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T12:41:02.844883+00:00",
+  "lastUpdated": "2026-08-17T18:37:51.696798+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -21,6 +21,7 @@
           "url": "https://www.pakbyte.pk/products/id-cooling-ware-310-argb-atx-pc-case-white",
           "history": [
             12990,
+            12990,
             12990
           ]
         },
@@ -36,6 +37,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-ware-310-argb-price-in-pakistan-pakbyte_2.webp?v=1786948194",
           "url": "https://www.pakbyte.pk/products/id-cooling-ware-310-argb-atx-pc-case-black",
           "history": [
+            12490,
             12490,
             12490
           ]
@@ -53,6 +55,7 @@
           "url": "https://www.pakbyte.pk/products/id-cooling-ware-510-argb-atx-pc-case-white",
           "history": [
             14990,
+            14990,
             14990
           ]
         },
@@ -68,6 +71,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-ware-510-argb-price-in-pakistan-pakbyte_1.webp?v=1786947593",
           "url": "https://www.pakbyte.pk/products/id-cooling-ware-510-argb-atx-pc-case-black",
           "history": [
+            14490,
             14490,
             14490
           ]
@@ -85,6 +89,7 @@
           "url": "https://www.pakbyte.pk/products/id-cooling-view-500-argb-micro-atx-pc-case-white",
           "history": [
             13990,
+            13990,
             13990
           ]
         },
@@ -100,6 +105,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-view-500-argb-price-in-pakistan-pakbyte_3.webp?v=1786946353",
           "url": "https://www.pakbyte.pk/products/id-cooling-view-500-argb-micro-atx-pc-case-black",
           "history": [
+            13490,
             13490,
             13490
           ]
@@ -117,6 +123,7 @@
           "url": "https://www.pakbyte.pk/products/id-cooling-view-510-argb-panoramic-atx-pc-case-white",
           "history": [
             16990,
+            16990,
             16990
           ]
         },
@@ -132,6 +139,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-view-510-argb-price-in-pakistan-pakbyte_1.webp?v=1786944509",
           "url": "https://www.pakbyte.pk/products/id-cooling-view-510-argb-panoramic-atx-pc-case-black",
           "history": [
+            16490,
             16490,
             16490
           ]
@@ -149,6 +157,7 @@
           "url": "https://www.pakbyte.pk/products/id-cooling-flow-500-air-micro-atx-pc-case-white",
           "history": [
             16790,
+            16790,
             16790
           ]
         },
@@ -164,6 +173,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-flow-500-air-price-in-pakistan-pakbyte_1.webp?v=1786943859",
           "url": "https://www.pakbyte.pk/products/id-cooling-flow-500-air-micro-atx-pc-case-black",
           "history": [
+            15990,
             15990,
             15990
           ]
@@ -32986,7 +32996,7 @@
           "brand": "Redragon",
           "category": "keyboard",
           "price": 6999,
-          "oldPrice": 6190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K617-FIZZ-WG-RGB-Wired-Gaming-Keyboard-price-in-pakistan-pakbyte_3.webp?v=1765824898",
@@ -33002,7 +33012,7 @@
             6190,
             6190,
             6190,
-            6190,
+            6999,
             6999
           ]
         },
@@ -37960,7 +37970,7 @@
           "history": [
             171990,
             171990,
-            171990,
+            185999,
             185999,
             185999,
             185999,
@@ -71361,8 +71371,8 @@
           "name": "Logitech POP ICON KEYS Compact Wireless Keyboard - Off White",
           "brand": "Logitech",
           "category": "keyboard",
-          "price": 10390,
-          "oldPrice": null,
+          "price": 10999,
+          "oldPrice": 10390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-POP-ICON-KEYS-Compact-Wireless-Keyboard-920-013084-Off-White-Orange-PakByte-Computers-25789295558723.jpg?v=1753672774",
@@ -71379,7 +71389,7 @@
             10390,
             10390,
             10390,
-            10390
+            10999
           ]
         },
         {
@@ -110102,7 +110112,7 @@
           "brand": "Logitech",
           "category": "keyboard",
           "price": 15499,
-          "oldPrice": 15190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G413-SE-Mechanical-Gaming-Keyboard-920-010439-PakByte-Computers-24397667172419.webp?v=1753680366",
@@ -110118,7 +110128,7 @@
             15190,
             15190,
             15190,
-            15190,
+            15499,
             15499
           ]
         },
@@ -129212,7 +129222,7 @@
           "brand": "Transcend",
           "category": "storage",
           "price": 33999,
-          "oldPrice": 25490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Transcend-StoreJet-25M3-1TB-USB-3-0-Portable-Hard-Drive-TS1TSJ25M3S-Iron-Gray-Slim-PakByte-Computers-24396979273795.jpg?v=1753684312",
@@ -129228,7 +129238,7 @@
             25490,
             25490,
             25490,
-            25490,
+            33999,
             33999
           ]
         },
@@ -145001,6 +145011,7 @@
             100000,
             100000,
             100000,
+            100000,
             100000
           ]
         },
@@ -145016,6 +145027,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/HikSemi-16GB-DDR5-5600MHz-SODIMM.webp",
           "url": "https://zahcomputers.pk/product/hiksemi-16gb-ddr5-5600mhz-sodimm-laptop",
           "history": [
+            5799900,
             5799900,
             5799900,
             5799900,
@@ -145045,6 +145057,7 @@
             9500000,
             9500000,
             9500000,
+            9500000,
             9500000
           ]
         },
@@ -145060,6 +145073,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/DAHUA-C500-Series-DDR5-8GB-SO-DIMM-Laptop-Memory-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/dahua-c500-series-ddr5-8gb-so-dimm-laptop-memory-5600mt-s-cl46-1-1v",
           "history": [
+            3000000,
             3000000,
             3000000,
             3000000,
@@ -146078,7 +146092,7 @@
             2299900,
             2299900,
             2299900,
-            2299900,
+            2100000,
             2100000,
             2100000,
             2100000,
@@ -146775,7 +146789,7 @@
           "history": [
             3400000,
             3400000,
-            3400000,
+            3470000,
             3470000,
             3470000,
             3470000,
@@ -147737,7 +147751,7 @@
           "history": [
             22800000,
             22800000,
-            22800000,
+            26200000,
             26200000,
             26200000,
             26200000,
@@ -147789,7 +147803,7 @@
           "history": [
             5950000,
             5950000,
-            5950000,
+            6000000,
             6000000,
             6000000,
             6000000,
@@ -147841,7 +147855,7 @@
           "history": [
             4850000,
             4850000,
-            4850000,
+            4680000,
             4680000,
             4680000,
             4680000,
@@ -147867,7 +147881,7 @@
           "history": [
             3050000,
             3050000,
-            3050000,
+            2949900,
             2949900,
             2949900,
             2949900,
@@ -147893,7 +147907,7 @@
           "history": [
             4200000,
             4200000,
-            4200000,
+            3849900,
             3849900,
             3849900,
             3849900,
@@ -148378,8 +148392,8 @@
           "name": "Lenovo LN950 4TB M.2 NVMe PCIe Gen4 x4 Internal SSD – Up to 7200MB/s Read, 6850MB/s Write ",
           "brand": "Lenovo",
           "category": "storage",
-          "price": 10200000,
-          "oldPrice": null,
+          "price": 11000000,
+          "oldPrice": 10200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-LN950-4TB-M.2-NVMe-PCIe-Gen4-x4-Internal-SSD-Price-in-Pakistan.webp",
@@ -148396,7 +148410,7 @@
             10200000,
             10200000,
             10200000,
-            10200000
+            11000000
           ]
         },
         {
@@ -149061,6 +149075,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Hp-Elitebook-840-G8-Core-i7-11th-Gen-16GB-Ram-256GB-SSD-14.1-FHD-Display-Backlit-Keyboard-Fingerprint-Face-Recognition-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-840-g9-14-wuxga-ips-display-intel-core-i7-1265u-12th-gen-16gb-ddr5-ram-512gb-nvme-ssd-used",
           "history": [
+            13000000,
             13000000
           ]
         },
@@ -149213,7 +149228,7 @@
             14000000,
             14000000,
             14000000,
-            14000000,
+            13599900,
             13599900,
             13599900,
             13599900,
@@ -154434,7 +154449,7 @@
           "history": [
             9749900,
             9749900,
-            9749900,
+            9680000,
             9680000,
             9680000,
             9680000,
@@ -155219,7 +155234,7 @@
             12500000,
             12500000,
             12500000,
-            12500000,
+            12600000,
             12600000,
             12600000,
             12600000,
@@ -156567,6 +156582,7 @@
             4799900,
             4799900,
             4799900,
+            4799900,
             4799900
           ]
         },
@@ -156582,6 +156598,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/CoolerMaster-MasterLiquid-360-Atmos-II-LCD-Panel-ARGB-Fans-Liquid-Cooler​-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/coolermaster-masterliquid-360-atmos-ii-lcd-panel-argb-fans-liquid-cooler-black",
           "history": [
+            5499900,
             5499900,
             5499900,
             5499900,
@@ -162028,7 +162045,7 @@
           "brand": "Rapoo",
           "category": "ram",
           "price": 749900,
-          "oldPrice": 599500,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-V30L-2.4G-WirelessWired-Dual-Mode-E-Sports-Gaming-Mouse-79g-Lightweight-400-12000DPI-Adjustable-PAW-3311-Sensor-10-Button-Programmable-Rechargable-160h-Play-Price-in-Pakistan.jpg",
@@ -162044,7 +162061,7 @@
             599500,
             599500,
             599500,
-            599500,
+            749900,
             749900
           ]
         },
@@ -163518,7 +163535,7 @@
           "history": [
             3299900,
             3299900,
-            3299900,
+            3359900,
             3359900,
             3359900,
             3359900,
@@ -165019,7 +165036,7 @@
           "category": "keyboard",
           "price": 239900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-K9320-Waterproof-Backlit-Wired-Gaming-Keyboard-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-k9320-waterproof-backlit-wired-gaming-keyboard",
@@ -165487,7 +165504,7 @@
           "category": "headset",
           "price": 1049900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Kinera-Celest-Wyvern-Black-Pro-in-Ear-Earphones-10mm-LCP-Dynamic-Driver-with-Detachable-Boom-Microphone-IEMs-Cable-Audio-Headphones-Type-C-Price-in-Pakistan-Small.jpg",
           "url": "https://zahcomputers.pk/product/kinera-celest-wyvern-black-pro-in-ear-earphones-10mm-lcp-dynamic-driver-with-detachable-boom-microphone-iems-cable-audio-headphones-type-c",
@@ -168228,7 +168245,7 @@
             11000000,
             11000000,
             11000000,
-            11000000,
+            11200000,
             11200000,
             11200000,
             11200000,
@@ -169680,7 +169697,7 @@
           "history": [
             6350000,
             6350000,
-            6350000,
+            6450000,
             6450000,
             6450000,
             6450000,
@@ -170036,7 +170053,7 @@
           "brand": "WESTERN",
           "category": "storage",
           "price": 5200000,
-          "oldPrice": 4500000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/WD-My-Passport-2TB-External-USB-3.0-Portable-Hard-Drive-Black-Price-in-Pakistan.jpg",
@@ -170052,7 +170069,7 @@
             4500000,
             4500000,
             4500000,
-            4500000,
+            5200000,
             5200000
           ]
         },
@@ -170304,7 +170321,7 @@
           "history": [
             8200000,
             8200000,
-            8200000,
+            8249900,
             8249900,
             8249900,
             8249900,
@@ -178338,7 +178355,7 @@
           "history": [
             45500000,
             45500000,
-            45500000,
+            45000000,
             45000000,
             45000000,
             45000000,
@@ -178728,7 +178745,7 @@
           "history": [
             29800000,
             29800000,
-            29800000,
+            34000000,
             34000000,
             34000000,
             34000000,
@@ -178832,7 +178849,7 @@
           "history": [
             23999900,
             23999900,
-            23999900,
+            29700000,
             29700000,
             29700000,
             29700000,
@@ -178884,7 +178901,7 @@
           "history": [
             15499900,
             15499900,
-            15499900,
+            17000000,
             17000000,
             17000000,
             17000000,
@@ -178936,7 +178953,7 @@
           "history": [
             12999900,
             12999900,
-            12999900,
+            14800000,
             14800000,
             14800000,
             14800000,
@@ -178962,7 +178979,7 @@
           "history": [
             15300000,
             15300000,
-            15300000,
+            14500000,
             14500000,
             14500000,
             14500000,
@@ -178993,7 +179010,7 @@
             10499900,
             10499900,
             10499900,
-            10499900,
+            12750000,
             12750000,
             12750000,
             12750000,
@@ -179014,12 +179031,12 @@
           "history": [
             12000000,
             12000000,
-            12000000,
             11550000,
             11550000,
             11550000,
             11550000,
             11550000,
+            11500000,
             11500000,
             11500000,
             11500000,
@@ -179040,7 +179057,7 @@
           "history": [
             11400000,
             11400000,
-            11400000,
+            11550000,
             11550000,
             11550000,
             11550000,
@@ -179066,7 +179083,7 @@
           "history": [
             9749900,
             9749900,
-            9749900,
+            9700000,
             9700000,
             9700000,
             9700000,
@@ -179144,7 +179161,7 @@
           "history": [
             6499900,
             6499900,
-            6499900,
+            6600000,
             6600000,
             6600000,
             6600000,
@@ -179227,7 +179244,7 @@
             13499900,
             13499900,
             13499900,
-            13499900,
+            13850000,
             13850000,
             13850000,
             13850000,
@@ -181848,7 +181865,7 @@
           "history": [
             38999900,
             38999900,
-            38999900,
+            41700000,
             41700000,
             41700000,
             41700000,
@@ -182737,7 +182754,7 @@
             34000000,
             34000000,
             34000000,
-            34000000,
+            34900000,
             34900000,
             34900000,
             34900000,
@@ -185103,7 +185120,7 @@
             12300000,
             12300000,
             12300000,
-            12300000,
+            12000000,
             12000000,
             12000000,
             12000000,
@@ -185176,7 +185193,7 @@
           "history": [
             28000000,
             28000000,
-            28000000,
+            31500000,
             31500000,
             31500000,
             31500000,
@@ -185202,7 +185219,7 @@
           "history": [
             36000000,
             36000000,
-            36000000,
+            40000000,
             40000000,
             40000000,
             40000000,
@@ -187023,7 +187040,7 @@
             12900000,
             12900000,
             12900000,
-            12900000,
+            14000000,
             14000000,
             14000000,
             14000000,
@@ -189674,7 +189691,7 @@
           "history": [
             2679900,
             2679900,
-            2679900,
+            2500000,
             2500000,
             2500000,
             2500000,
@@ -189700,7 +189717,7 @@
           "history": [
             2679900,
             2679900,
-            2679900,
+            2500000,
             2500000,
             2500000,
             2500000,
@@ -189726,7 +189743,7 @@
           "history": [
             3750000,
             3750000,
-            3750000,
+            3500000,
             3500000,
             3500000,
             3500000,
@@ -189856,7 +189873,7 @@
           "history": [
             6949900,
             6949900,
-            6949900,
+            7050000,
             7050000,
             7050000,
             7050000,
@@ -190289,8 +190306,8 @@
           "name": "Samsung 1TB 9100 PRO PCIe 5.0 M.2 Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 7500000,
-          "oldPrice": null,
+          "price": 7300000,
+          "oldPrice": 7500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Samsung-1TB-9100-PRO-PCIe-5.0-M.2-Internal-SSD-Price-in-Pakistan-02.jpg",
@@ -190307,7 +190324,7 @@
             7500000,
             7500000,
             7500000,
-            7500000
+            7300000
           ]
         },
         {
@@ -191494,7 +191511,7 @@
           "history": [
             39999900,
             39999900,
-            39999900,
+            43500000,
             43500000,
             43500000,
             43500000,
@@ -191550,7 +191567,7 @@
             5600000,
             5600000,
             5600000,
-            5600000,
+            5800000,
             5800000,
             5800000,
             5800000,
@@ -193423,7 +193440,7 @@
             19999900,
             19999900,
             19999900,
-            19999900,
+            19500000,
             19500000,
             19500000,
             19500000,
@@ -199060,7 +199077,7 @@
           "history": [
             7849900,
             7849900,
-            7849900,
+            7549900,
             7549900,
             7549900,
             7549900,
@@ -199190,7 +199207,7 @@
           "history": [
             3949900,
             3949900,
-            3949900,
+            3800000,
             3800000,
             3800000,
             3800000,
@@ -199294,7 +199311,7 @@
           "history": [
             6799900,
             6799900,
-            6799900,
+            7149900,
             7149900,
             7149900,
             7149900,
@@ -199320,7 +199337,7 @@
           "history": [
             6499900,
             6499900,
-            6499900,
+            6599900,
             6599900,
             6599900,
             6599900,
@@ -199346,7 +199363,7 @@
           "history": [
             4849900,
             4849900,
-            4849900,
+            5059900,
             5059900,
             5059900,
             5059900,
@@ -203818,7 +203835,7 @@
           "history": [
             6299900,
             6299900,
-            6299900,
+            6450000,
             6450000,
             6450000,
             6450000,
@@ -205773,7 +205790,7 @@
             15999900,
             15999900,
             15999900,
-            15999900,
+            14999900,
             14999900,
             14999900,
             14999900,
@@ -205799,7 +205816,7 @@
             12800000,
             12800000,
             12800000,
-            12800000,
+            10999900,
             10999900,
             10999900,
             10999900,
@@ -213152,7 +213169,7 @@
           "history": [
             17999900,
             17999900,
-            17999900,
+            18149900,
             18149900,
             18149900,
             18149900,
@@ -213230,7 +213247,7 @@
           "history": [
             11199900,
             11199900,
-            11199900,
+            11449900,
             11449900,
             11449900,
             11449900,
@@ -213256,7 +213273,7 @@
           "history": [
             8649900,
             8649900,
-            8649900,
+            8520000,
             8520000,
             8520000,
             8520000,
@@ -215258,7 +215275,7 @@
           "history": [
             11900000,
             11900000,
-            11900000,
+            13000000,
             13000000,
             13000000,
             13000000,
@@ -217261,6 +217278,7 @@
             8299000,
             8299000,
             8299000,
+            8299000,
             8299000
           ]
         },
@@ -219020,7 +219038,7 @@
           "history": [
             18799900,
             18799900,
-            18799900,
+            19250000,
             19250000,
             19250000,
             19250000,
@@ -219306,7 +219324,7 @@
           "history": [
             2250000,
             2250000,
-            2250000,
+            2300000,
             2300000,
             2300000,
             2300000,
@@ -219930,7 +219948,7 @@
           "history": [
             8899900,
             8899900,
-            8899900,
+            9250000,
             9250000,
             9250000,
             9250000,
@@ -224511,7 +224529,7 @@
             5799900,
             5799900,
             5799900,
-            5799900,
+            5450000,
             5450000,
             5450000,
             5450000,
@@ -224537,7 +224555,7 @@
             8999900,
             8999900,
             8999900,
-            8999900,
+            8799900,
             8799900,
             8799900,
             8799900,
@@ -226170,7 +226188,7 @@
           "history": [
             1849900,
             1849900,
-            1849900,
+            1869900,
             1869900,
             1869900,
             1869900,
@@ -226617,7 +226635,7 @@
             155000,
             155000,
             155000,
-            155000,
+            160000,
             160000,
             160000,
             160000,
@@ -228354,7 +228372,7 @@
           "history": [
             8500000,
             8500000,
-            8500000,
+            7900000,
             7900000,
             7900000,
             7900000,
@@ -231760,7 +231778,7 @@
           "history": [
             3849900,
             3849900,
-            3849900,
+            3949900,
             3949900,
             3949900,
             3949900,
@@ -232774,7 +232792,7 @@
           "history": [
             6849900,
             6849900,
-            6849900,
+            7319900,
             7319900,
             7319900,
             7319900,
@@ -233684,7 +233702,7 @@
           "history": [
             3099900,
             3099900,
-            3099900,
+            2919900,
             2919900,
             2919900,
             2919900,
@@ -233710,7 +233728,7 @@
           "history": [
             2499900,
             2499900,
-            2499900,
+            2479900,
             2479900,
             2479900,
             2479900,
@@ -234958,7 +234976,7 @@
           "history": [
             2300000,
             2300000,
-            2300000,
+            2250000,
             2250000,
             2250000,
             2250000,
@@ -234984,7 +235002,7 @@
           "history": [
             2500000,
             2500000,
-            2500000,
+            2250000,
             2250000,
             2250000,
             2250000,
@@ -238390,7 +238408,7 @@
           "history": [
             4199900,
             4199900,
-            4199900,
+            4149900,
             4149900,
             4149900,
             4149900,
@@ -238416,7 +238434,7 @@
           "history": [
             1849900,
             1849900,
-            1849900,
+            1869900,
             1869900,
             1869900,
             1869900,
@@ -238442,7 +238460,7 @@
           "history": [
             2949900,
             2949900,
-            2949900,
+            2200000,
             2200000,
             2200000,
             2200000,
@@ -240106,7 +240124,7 @@
           "history": [
             4499900,
             4499900,
-            4499900,
+            4269900,
             4269900,
             4269900,
             4269900,
@@ -240132,7 +240150,7 @@
           "history": [
             3499900,
             3499900,
-            3499900,
+            3519900,
             3519900,
             3519900,
             3519900,
@@ -240158,7 +240176,7 @@
           "history": [
             2949900,
             2949900,
-            2949900,
+            2919900,
             2919900,
             2919900,
             2919900,
@@ -241276,7 +241294,7 @@
           "history": [
             5200000,
             5200000,
-            5200000,
+            5300000,
             5300000,
             5300000,
             5300000,
@@ -243174,7 +243192,7 @@
           "history": [
             4200000,
             4200000,
-            4200000,
+            4300000,
             4300000,
             4300000,
             4300000,
@@ -250454,7 +250472,7 @@
           "history": [
             2499900,
             2499900,
-            2499900,
+            2479900,
             2479900,
             2479900,
             2479900,
@@ -252924,7 +252942,7 @@
           "history": [
             1400000,
             1400000,
-            1400000,
+            1050000,
             1050000,
             1050000,
             1050000,
@@ -257968,7 +257986,7 @@
           "history": [
             1149900,
             1149900,
-            1149900,
+            1099900,
             1099900,
             1099900,
             1099900,
@@ -258046,7 +258064,7 @@
           "history": [
             1999900,
             1999900,
-            1999900,
+            1969900,
             1969900,
             1969900,
             1969900,
@@ -273866,6 +273884,21 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_21e0ec50",
+          "name": "AMD Ryzen 5 5600X Processor (TRAY) &#8211; USED",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 30000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/10/image_2021-10-04_154104-2.png",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-5600x-processor-tray-used",
+          "history": [
+            30000
+          ]
+        },
+        {
           "id": "rbtechgames_1337e773",
           "name": "Gigabyte Z890 Aorus Pro Ice ATX LGA1851 DDR5 Gaming Motherboard",
           "brand": "Gigabyte",
@@ -273877,6 +273910,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_gigabyte_z890_aorus_pro_ice.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z890-aorus-pro-ice-atx-lga1851-ddr5-gaming-motherboard",
           "history": [
+            143999,
             143999,
             143999,
             143999,
@@ -275366,32 +275400,6 @@
             674999,
             674999,
             674999
-          ]
-        },
-        {
-          "id": "rbtechgames_8eb2fa94",
-          "name": "Lenovo LOQ 15 (15IRX10), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, RTX 5050, 15.6&#8243",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 324999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_loq_15_15irx10.webp",
-          "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-luna-grey-used",
-          "history": [
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999
           ]
         },
         {
@@ -277063,8 +277071,8 @@
           "name": "Lenovo LOQ 15 (15AHP10), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.6&#8243; FHD 1",
           "brand": "AMD",
           "category": "gpu",
-          "price": 385000,
-          "oldPrice": null,
+          "price": 384999,
+          "oldPrice": 385000,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_loq_15_15ahp10.webp",
@@ -277073,7 +277081,6 @@
             364999,
             364999,
             364999,
-            364999,
             385000,
             385000,
             385000,
@@ -277081,33 +277088,8 @@
             385000,
             385000,
             385000,
-            385000
-          ]
-        },
-        {
-          "id": "rbtechgames_ccc41095",
-          "name": "ASUS TUF Gaming F16 (FX608JMR-QT040), Intel Core i7 14th Gen, 16GB RAM, 512GB SSD, RTX 506",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 399999,
-          "oldPrice": 449999,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_asus_tuf_f16_2025.webp",
-          "url": "https://rbtechngames.com/product/asus-tuf-gaming-f16-fx608jmr-qt040-intel-core-i7-14th-gen-16gb-ram-512gb-ssd-rtx-5060-16-qhd-165hz-ips-display-jaeger-gray-new",
-          "history": [
-            399999,
-            399999,
-            399999,
-            399999,
-            399999,
-            399999,
-            399999,
-            399999,
-            399999,
-            399999,
-            399999,
-            399999
+            385000,
+            384999
           ]
         },
         {
@@ -277134,32 +277116,6 @@
             684999,
             684999,
             684999
-          ]
-        },
-        {
-          "id": "rbtechgames_c49a5669",
-          "name": "Lenovo LOQ 15 (15IRX10), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, RTX 5050, 15.6&#8243",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 351999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_loq_15_15irx10.webp",
-          "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-luna-grey-new",
-          "history": [
-            351999,
-            351999,
-            351999,
-            351999,
-            351999,
-            351999,
-            351999,
-            351999,
-            351999,
-            351999,
-            351999,
-            351999
           ]
         },
         {
@@ -278181,8 +278137,8 @@
           "name": "Patriot Viper Venom RGB 32GB (2x16GB) 6000MT/s CL30 DDR5 Ram",
           "brand": "Patriot",
           "category": "ram",
-          "price": 134999,
-          "oldPrice": null,
+          "price": 144999,
+          "oldPrice": 134999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_patriot_viper_venom_rgb_ddr5.jpg",
@@ -278199,7 +278155,7 @@
             134999,
             134999,
             134999,
-            134999
+            144999
           ]
         },
         {
@@ -278259,8 +278215,8 @@
           "name": "XPG Lancer Blade RGB 32GB DDR5 6000MHz CL36 (2x16GB) Desktop Memory",
           "brand": "XPG",
           "category": "ram",
-          "price": 134999,
-          "oldPrice": null,
+          "price": 144999,
+          "oldPrice": 134999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_xpg_lancer_32GB_6000mhz.jpg",
@@ -278277,7 +278233,7 @@
             134999,
             134999,
             134999,
-            134999
+            144999
           ]
         },
         {
@@ -278400,7 +278356,7 @@
             279999,
             279999,
             279999,
-            279999,
+            314999,
             314999,
             314999,
             314999,
@@ -278415,8 +278371,8 @@
           "name": "Adata Legend 860 M.2 2280 PCIe Gen 4&#215;4 NVMe SSD &#8211; 500GB/1TB/2TB",
           "brand": "Adata",
           "category": "storage",
-          "price": 38499,
-          "oldPrice": null,
+          "price": 40499,
+          "oldPrice": 38499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_adata_legend_860.png",
@@ -278433,7 +278389,7 @@
             38499,
             38499,
             38499,
-            38499
+            40499
           ]
         },
         {
@@ -278694,32 +278650,6 @@
             139999,
             139999,
             139999
-          ]
-        },
-        {
-          "id": "rbtechgames_6a2f87d1",
-          "name": "Attack Shark M87Pro TKL RGB Wireless Mechanical Gaming Keyboard &#8211; Gradient Black/Gra",
-          "brand": "Attack",
-          "category": "keyboard",
-          "price": 16999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_attack_shark_m87_pro_gradient_black.webp",
-          "url": "https://rbtechngames.com/product/attack-shark-m87pro-tkl-rgb-wireless-mechanical-gaming-keyboard-gradient-black-gradient-pink-gradient-green-contour-white",
-          "history": [
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999,
-            16999
           ]
         },
         {
@@ -279124,6 +279054,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_asus_prime_rtx_5070_12gb_oc_5.png",
           "url": "https://rbtechngames.com/product/asus-prime-geforce-rtx-5070-12gb-oc-graphics-card",
           "history": [
+            264999,
             264999,
             264999,
             264999,
@@ -280705,6 +280636,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/05/rbtech_lexar_nm620.png",
           "url": "https://rbtechngames.com/product/lexar-nm620-512gb-m-2-2280-nvme-ssd",
           "history": [
+            25499,
             25499,
             25499,
             25499,
