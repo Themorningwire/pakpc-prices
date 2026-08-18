@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T12:42:58.948402+00:00",
+  "lastUpdated": "2026-08-18T18:36:23.229068+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-cu34g4h-price-in-pakistan-pakbyte_1.webp?v=1787037460",
           "url": "https://www.pakbyte.pk/products/aoc-cu34g4h-34-inch-curved-gaming-monitor",
           "history": [
+            95990,
             95990
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-27g50z-price-in-pakistan-pakbyte_1.webp?v=1787035868",
           "url": "https://www.pakbyte.pk/products/aoc-27g50z-27-260hzfhd-gaming-monitor",
           "history": [
+            44990,
             44990
           ]
         },
@@ -50,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-27g50f-price-in-pakistan-pakbyte_1.webp?v=1787035462",
           "url": "https://www.pakbyte.pk/products/aoc-27g50f-27-ips-fhd-144hz-gaming-monitor-black",
           "history": [
+            37990,
             37990
           ]
         },
@@ -66,6 +69,7 @@
           "url": "https://www.pakbyte.pk/products/aoc-24g50f-23-8-180hz-fhd-gaming-monitor",
           "history": [
             31990,
+            31990,
             31990
           ]
         },
@@ -81,6 +85,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-ware-310-argb-price-in-pakistan-pakbyte_5.webp?v=1786948450",
           "url": "https://www.pakbyte.pk/products/id-cooling-ware-310-argb-atx-pc-case-white",
           "history": [
+            12990,
             12990,
             12990,
             12990,
@@ -106,6 +111,7 @@
             12490,
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -121,6 +127,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-ware-510-argb-price-in-pakistan-pakbyte_5.webp?v=1786947831",
           "url": "https://www.pakbyte.pk/products/id-cooling-ware-510-argb-atx-pc-case-white",
           "history": [
+            14990,
             14990,
             14990,
             14990,
@@ -146,6 +153,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -161,6 +169,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-flow-500-air-price-in-pakistan-pakbyte_5_017e35d6-86ce-4e1b-8ec4-fe2a3aa4d001.webp?v=1786947156",
           "url": "https://www.pakbyte.pk/products/id-cooling-view-500-argb-micro-atx-pc-case-white",
           "history": [
+            13990,
             13990,
             13990,
             13990,
@@ -186,6 +195,7 @@
             13490,
             13490,
             13490,
+            13490,
             13490
           ]
         },
@@ -201,6 +211,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-view-510-argb-price-in-pakistan-pakbyte_5.webp?v=1786945865",
           "url": "https://www.pakbyte.pk/products/id-cooling-view-510-argb-panoramic-atx-pc-case-white",
           "history": [
+            16990,
             16990,
             16990,
             16990,
@@ -226,6 +237,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -246,6 +258,7 @@
             16790,
             16790,
             16790,
+            16790,
             16790
           ]
         },
@@ -261,6 +274,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-flow-500-air-price-in-pakistan-pakbyte_1.webp?v=1786943859",
           "url": "https://www.pakbyte.pk/products/id-cooling-flow-500-air-micro-atx-pc-case-black",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -11117,7 +11131,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 61990,
-          "oldPrice": 63990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-32E1CB-100hz-monitor-price-in-pakistan-pakbyte_5.webp?v=1777273740",
@@ -11133,7 +11147,7 @@
             63990,
             63990,
             63990,
-            63990,
+            61990,
             61990
           ]
         },
@@ -11143,7 +11157,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 64990,
-          "oldPrice": 66990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips-32e1n3500-price-in-pakistan-pakbyte_4.webp?v=1777273011",
@@ -11159,7 +11173,7 @@
             66990,
             66990,
             66990,
-            66990,
+            64990,
             64990
           ]
         },
@@ -16603,7 +16617,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 101990,
-          "oldPrice": 106990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-U27G4-27-4K-UHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1773382096",
@@ -16619,7 +16633,7 @@
             106990,
             106990,
             106990,
-            106990,
+            101990,
             101990
           ]
         },
@@ -16670,7 +16684,7 @@
             72990,
             72990,
             72990,
-            72990,
+            68990,
             68990,
             68990
           ]
@@ -16696,7 +16710,7 @@
             43990,
             43990,
             43990,
-            43990,
+            37990,
             37990,
             37990
           ]
@@ -16722,7 +16736,7 @@
             33990,
             33990,
             33990,
-            33990,
+            27990,
             27990,
             27990
           ]
@@ -24871,7 +24885,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 58990,
-          "oldPrice": 72990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips-27e1n1800a-monitor-price-in-pakistan-pakbyte_1_c94d1d7e-cc39-4c5e-8bae-ff20e22494ed.webp?v=1768806967",
@@ -24887,7 +24901,7 @@
             72990,
             72990,
             72990,
-            72990,
+            58990,
             58990
           ]
         },
@@ -24912,7 +24926,7 @@
             37990,
             37990,
             37990,
-            37990,
+            33990,
             33990,
             33990
           ]
@@ -30149,7 +30163,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 88990,
-          "oldPrice": 98800,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips-34m2c3500l-price-in-pakistan-pakbyte_3.webp?v=1766227438",
@@ -30165,7 +30179,7 @@
             98800,
             98800,
             98800,
-            98800,
+            88990,
             88990
           ]
         },
@@ -30175,7 +30189,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 58990,
-          "oldPrice": 62990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-Q27G42ZE-27-260Hz-2K-1440p-WQHD-IPS-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1766226902",
@@ -30191,7 +30205,7 @@
             62990,
             62990,
             62990,
-            62990,
+            58990,
             58990
           ]
         },
@@ -30201,7 +30215,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 41990,
-          "oldPrice": 44990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips_27m2n3200fq_27-inch_gaming_led_monitor_pakistan_pakbyte_3.webp?v=1766226447",
@@ -30217,7 +30231,7 @@
             44990,
             44990,
             44990,
-            44990,
+            41990,
             41990
           ]
         },
@@ -30227,7 +30241,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 65990,
-          "oldPrice": 72990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-q27g4-ws-price-in-pakistan-pakbyte_4.webp?v=1766225895",
@@ -30243,7 +30257,7 @@
             72990,
             72990,
             72990,
-            72990,
+            65990,
             65990
           ]
         },
@@ -33099,7 +33113,7 @@
             6190,
             6190,
             6190,
-            6190,
+            6999,
             6999,
             6999,
             6999,
@@ -54121,7 +54135,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 56990,
-          "oldPrice": 59990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-c27g4ze-monitor-price-in-pakistan_1.jpg?v=1753853680",
@@ -54137,7 +54151,7 @@
             59990,
             59990,
             59990,
-            59990,
+            56990,
             56990
           ]
         },
@@ -59425,7 +59439,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 58990,
-          "oldPrice": 59990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-CQ27G4-27-Curved-Gaming-Monitor-QHD-2K-2560x1440-1500R-VA-180Hz-0-5ms-AMD-FreeSync-Premium-PakByte-Computers-26176145064003.jpg?v=1753670531",
@@ -59441,7 +59455,7 @@
             59990,
             59990,
             59990,
-            59990,
+            58990,
             58990
           ]
         },
@@ -71476,7 +71490,7 @@
             10390,
             10390,
             10390,
-            10390,
+            10999,
             10999,
             10999,
             10999,
@@ -85648,7 +85662,7 @@
             24990,
             24990,
             24990,
-            24990,
+            23490,
             23490,
             23490
           ]
@@ -86179,7 +86193,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 48990,
-          "oldPrice": 49990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-27E1N1300A-100Hz-1080p-FHD-IPS-27-USB-C-Monitor-PakByte-Computers-25277690183747.jpg?v=1753676407",
@@ -86195,7 +86209,7 @@
             49990,
             49990,
             49990,
-            49990,
+            48990,
             48990
           ]
         },
@@ -110215,7 +110229,7 @@
             15190,
             15190,
             15190,
-            15190,
+            15499,
             15499,
             15499,
             15499,
@@ -111347,7 +111361,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 91990,
-          "oldPrice": 92990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/PHILIPS-27E1N5600HE-27-with-Windows-Hello-Webcam-LCD-monitor-PakByte-Computers-24397647577155.webp?v=1753680585",
@@ -111363,7 +111377,7 @@
             92990,
             92990,
             92990,
-            92990,
+            91990,
             91990
           ]
         },
@@ -111440,7 +111454,7 @@
             25990,
             25990,
             25990,
-            25990,
+            23990,
             23990,
             23990
           ]
@@ -114285,7 +114299,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 124990,
-          "oldPrice": 125990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/PHILIPS-34E1C5600HE-34-UltraWide-Monitor-with-Built-in-Windows-Hello-Webcam-Noise-Canceling-Mic-PakByte-Computers-24397598490691.webp?v=1753681061",
@@ -114301,7 +114315,7 @@
             125990,
             125990,
             125990,
-            125990,
+            124990,
             124990
           ]
         },
@@ -120540,7 +120554,7 @@
             77990,
             77990,
             77990,
-            77990,
+            68990,
             68990,
             68990
           ]
@@ -120629,7 +120643,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 319990,
-          "oldPrice": 324990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-AG493UCX2-AGON-Super-Wide-Curved-Gaming-Monitor-49-Dual-QHD-VA-165Hz-1ms-PakByte-Computers-24397439467587.webp?v=1753682292",
@@ -120645,7 +120659,7 @@
             324990,
             324990,
             324990,
-            324990,
+            319990,
             319990
           ]
         },
@@ -129325,7 +129339,7 @@
             25490,
             25490,
             25490,
-            25490,
+            33999,
             33999,
             33999,
             33999,
@@ -145099,6 +145113,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/HP-EliteBook-640-G10-13th-Gen-Core-i7.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-640-g10-13th-gen-core-i5-1345u-processor-16-gb-256-gb-ssd-intel-iris-xe-graphics-14-full-hd-1080p-ips-narrow-bezel-ag-display-backlit-kb-fp-reader-dos-used",
           "history": [
+            10500000,
             10500000
           ]
         },
@@ -145114,6 +145129,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Aula-Numeric-Keycap-Set-21-Keys-scaled.jpeg",
           "url": "https://zahcomputers.pk/product/aula-numeric-keycap-set-21-keys",
           "history": [
+            100000,
             100000,
             100000,
             100000,
@@ -146205,7 +146221,7 @@
             2299900,
             2299900,
             2299900,
-            2299900,
+            2100000,
             2100000,
             2100000,
             2100000,
@@ -148523,7 +148539,7 @@
             10200000,
             10200000,
             10200000,
-            10200000,
+            11000000,
             11000000,
             11000000,
             11000000,
@@ -149196,6 +149212,7 @@
             13000000,
             13000000,
             13000000,
+            13000000,
             13000000
           ]
         },
@@ -149344,7 +149361,7 @@
             14000000,
             14000000,
             14000000,
-            14000000,
+            13599900,
             13599900,
             13599900,
             13599900,
@@ -155350,7 +155367,7 @@
             12500000,
             12500000,
             12500000,
-            12500000,
+            12600000,
             12600000,
             12600000,
             12600000,
@@ -156706,6 +156723,7 @@
             4799900,
             4799900,
             4799900,
+            4799900,
             4799900
           ]
         },
@@ -156721,6 +156739,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/CoolerMaster-MasterLiquid-360-Atmos-II-LCD-Panel-ARGB-Fans-Liquid-Cooler​-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/coolermaster-masterliquid-360-atmos-ii-lcd-panel-argb-fans-liquid-cooler-black",
           "history": [
+            5499900,
             5499900,
             5499900,
             5499900,
@@ -160065,7 +160084,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 355000,
-          "oldPrice": 395000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FBK30-Fstyler-Bluetooth-amp-2.4G-Wireless-Keyboard-White-Price-in-Pakistan.jpg",
@@ -160081,7 +160100,7 @@
             395000,
             395000,
             395000,
-            395000,
+            355000,
             355000
           ]
         },
@@ -160117,7 +160136,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 365000,
-          "oldPrice": 395000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-FBK25-Bluetooth-and-2.4G-Wireless-Keyboard-White-Price-in-Pakistan.png",
@@ -160133,7 +160152,7 @@
             395000,
             395000,
             395000,
-            395000,
+            365000,
             365000
           ]
         },
@@ -160143,7 +160162,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 186000,
-          "oldPrice": 199900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-FK12-Fstyler-FN-Multimedia-USB-Wired-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -160159,7 +160178,7 @@
             199900,
             199900,
             199900,
-            199900,
+            186000,
             186000
           ]
         },
@@ -160195,7 +160214,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 175000,
-          "oldPrice": 170000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-KR-83-Comfortkey-USB-Wired-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -160211,7 +160230,7 @@
             170000,
             170000,
             170000,
-            170000,
+            175000,
             175000
           ]
         },
@@ -160221,7 +160240,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 299900,
-          "oldPrice": 319900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-FB50CS-Plus-Fstyler-Dual-Mode-Bluetooth-2.4GHz-Wireless-Rechargeable-Silent-Click-Mouse-Black-Price-in-Pakistan.jpg",
@@ -160237,7 +160256,7 @@
             319900,
             319900,
             319900,
-            319900,
+            299900,
             299900
           ]
         },
@@ -160247,7 +160266,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 296000,
-          "oldPrice": 319900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-FB26CS-Air2-Bluetooth-and-2.4G-Wireless-Mouse-lcy-White-Price-in-Pakistan.jpg",
@@ -160263,7 +160282,7 @@
             319900,
             319900,
             319900,
-            319900,
+            296000,
             296000
           ]
         },
@@ -160273,7 +160292,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 205000,
-          "oldPrice": 219900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-FB12S-Dual-Mode-Wireless-Mouse-White-Price-in-Pakistana.jpg",
@@ -160289,7 +160308,7 @@
             219900,
             219900,
             219900,
-            219900,
+            205000,
             205000
           ]
         },
@@ -160299,7 +160318,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 215000,
-          "oldPrice": 229900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-FG50S-Plus-Fstyler-2.4G-Wireless-Silent-Click-Mouse-Black-Price-in-Pakistan.jpg",
@@ -160315,7 +160334,7 @@
             229900,
             229900,
             229900,
-            229900,
+            215000,
             215000
           ]
         },
@@ -160325,7 +160344,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 250000,
-          "oldPrice": 265000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-FG35CS-Plus-Fstyler-Wireless-Silent-Click-Mouse-Grey-Price-in-Pakistan.jpg",
@@ -160341,7 +160360,7 @@
             265000,
             265000,
             265000,
-            265000,
+            250000,
             250000
           ]
         },
@@ -160351,7 +160370,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 215000,
-          "oldPrice": 229900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-FG30S-Fstyler-2.4G-Wireless-Mouse-White-Price-in-Pakistan.jpg",
@@ -160367,7 +160386,7 @@
             229900,
             229900,
             229900,
-            229900,
+            215000,
             215000
           ]
         },
@@ -160377,7 +160396,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 249900,
-          "oldPrice": 259900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-FG16CS-Air2-Dual-Function-Air-Mouse-Black-2000dpi-Silent-Clicks-White-Price-in-Pakistan.jpg",
@@ -160393,7 +160412,7 @@
             259900,
             259900,
             259900,
-            259900,
+            249900,
             249900
           ]
         },
@@ -160403,7 +160422,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 249900,
-          "oldPrice": 259900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-FG16CS-Air2-Dual-Function-Air-Mouse-Black-2000dpi-Silent-Clicks-Grey-Price-in-Pakistan.jpg",
@@ -160419,7 +160438,7 @@
             259900,
             259900,
             259900,
-            259900,
+            249900,
             249900
           ]
         },
@@ -160429,7 +160448,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 185000,
-          "oldPrice": 199900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-Fstyler-FG10S-2.4G-Wireless-Mouse-Orange-Price-in-Pakistan.jpg",
@@ -160445,7 +160464,7 @@
             199900,
             199900,
             199900,
-            199900,
+            185000,
             185000
           ]
         },
@@ -160455,7 +160474,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 185000,
-          "oldPrice": 199900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-Fstyler-FG10S-2.4G-Wireless-Mouse-Blue-Price-in-Pakistan.jpg",
@@ -160471,7 +160490,7 @@
             199900,
             199900,
             199900,
-            199900,
+            185000,
             185000
           ]
         },
@@ -160481,7 +160500,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 195000,
-          "oldPrice": 209900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-Fstyler-FG20S-Silent-Click-Wireless-Mouse-Ash-Blue-Price-in-Pakistan.jpg",
@@ -160497,7 +160516,7 @@
             209900,
             209900,
             209900,
-            209900,
+            195000,
             195000
           ]
         },
@@ -160533,7 +160552,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 166000,
-          "oldPrice": 175000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-Fstyler-FG12S-1200-DPI-Optical-Wireless-Mouse-Black-Price-in-Pakistan.jpg",
@@ -160549,7 +160568,7 @@
             175000,
             175000,
             175000,
-            175000,
+            166000,
             166000
           ]
         },
@@ -160585,7 +160604,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 159000,
-          "oldPrice": 170000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-G3-230NS-Wireless-Silent-Click-Mouse-USB-Black-Price-in-Pakistan.jpg",
@@ -160601,7 +160620,7 @@
             170000,
             170000,
             170000,
-            170000,
+            159000,
             159000
           ]
         },
@@ -160611,7 +160630,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 96000,
-          "oldPrice": 105000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4tech-OP-730D-Wired-Mouse-USB-Black-Price-in-Pakistan.jpg",
@@ -160627,7 +160646,7 @@
             105000,
             105000,
             105000,
-            105000,
+            96000,
             96000
           ]
         },
@@ -160950,7 +160969,7 @@
           "category": "headset",
           "price": 999500,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-VH800-Bluetooth-Wireless-Gaming-Headset-Space-Gray-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/rapoo-vh800-bluetooth-wireless-gaming-headset-space-gray",
@@ -162183,7 +162202,7 @@
             599500,
             599500,
             599500,
-            599500,
+            749900,
             749900,
             749900,
             749900,
@@ -168367,7 +168386,7 @@
           "history": [
             11000000,
             11000000,
-            11000000,
+            11200000,
             11200000,
             11200000,
             11200000,
@@ -170191,7 +170210,7 @@
             4500000,
             4500000,
             4500000,
-            4500000,
+            5200000,
             5200000,
             5200000,
             5200000,
@@ -179132,7 +179151,7 @@
             10499900,
             10499900,
             10499900,
-            10499900,
+            12750000,
             12750000,
             12750000,
             12750000,
@@ -179158,7 +179177,7 @@
             11550000,
             11550000,
             11550000,
-            11550000,
+            11500000,
             11500000,
             11500000,
             11500000,
@@ -179366,7 +179385,7 @@
             13499900,
             13499900,
             13499900,
-            13499900,
+            13850000,
             13850000,
             13850000,
             13850000,
@@ -181802,7 +181821,7 @@
           "category": "gpu",
           "price": 360000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Redragon-GCPO3-White-Graphics-Card-Gpu-Support-Bracket-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/redragon-gcpo3-white-graphics-card-gpu-support-bracket",
@@ -181828,7 +181847,7 @@
           "category": "gpu",
           "price": 360000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Redragon-GCPO3-Graphics-Card-Gpu-Support-Bracket-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/redragon-gcpo3-graphics-card-gpu-support-bracket",
@@ -181880,7 +181899,7 @@
           "category": "mouse",
           "price": 150000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Redragon-BM-4049-Wired-Mouse-1200-Dpi-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/redragon-bm-4049-wired-mouse-1200-dpi-black",
@@ -182876,7 +182895,7 @@
             34000000,
             34000000,
             34000000,
-            34000000,
+            34900000,
             34900000,
             34900000,
             34900000,
@@ -185242,7 +185261,7 @@
             12300000,
             12300000,
             12300000,
-            12300000,
+            12000000,
             12000000,
             12000000,
             12000000,
@@ -190446,7 +190465,7 @@
             7500000,
             7500000,
             7500000,
-            7500000,
+            7300000,
             7300000,
             7300000,
             7300000,
@@ -191689,7 +191708,7 @@
           "history": [
             5600000,
             5600000,
-            5600000,
+            5800000,
             5800000,
             5800000,
             5800000,
@@ -193562,7 +193581,7 @@
             19999900,
             19999900,
             19999900,
-            19999900,
+            19500000,
             19500000,
             19500000,
             19500000,
@@ -201587,7 +201606,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 185000,
-          "oldPrice": 199900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/A4Tech-Fstyler-FG10S-2.4G-Wireless-Mouse-White-Price-in-Pakistan.jpg",
@@ -201603,7 +201622,7 @@
             199900,
             199900,
             199900,
-            199900,
+            185000,
             185000
           ]
         },
@@ -201639,7 +201658,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 350000,
-          "oldPrice": 399900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/A4Tech-Fstyler-FBK22-AS-Bluetooth-2.4G-Wireless-Keyboard-Price-in-Pakistan.jpg",
@@ -201655,7 +201674,7 @@
             399900,
             399900,
             399900,
-            399900,
+            350000,
             350000
           ]
         },
@@ -205912,7 +205931,7 @@
             15999900,
             15999900,
             15999900,
-            15999900,
+            14999900,
             14999900,
             14999900,
             14999900,
@@ -205938,7 +205957,7 @@
             12800000,
             12800000,
             12800000,
-            12800000,
+            10999900,
             10999900,
             10999900,
             10999900,
@@ -207801,7 +207820,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 159000,
-          "oldPrice": 199900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-G3-300NS-2.4G-Optical-Wireless-Mouse-Silent-Clicks-Black-Price-in-Pakistan.jpg",
@@ -207817,7 +207836,7 @@
             199900,
             199900,
             199900,
-            199900,
+            159000,
             159000
           ]
         },
@@ -207853,7 +207872,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 159000,
-          "oldPrice": 199900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-G3-280NS-2.4G-Optical-Wireless-Mouse-Silent-Clicks-Glossy-Grey-Price-in-Pakistan.jpg",
@@ -207869,7 +207888,7 @@
             199900,
             199900,
             199900,
-            199900,
+            159000,
             159000
           ]
         },
@@ -208269,7 +208288,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 220000,
-          "oldPrice": 249900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-G7-810-Air2-2.4G-Wireless-Mouse-Black-Price-in-Pakistan.jpg",
@@ -208285,7 +208304,7 @@
             249900,
             249900,
             249900,
-            249900,
+            220000,
             220000
           ]
         },
@@ -208321,7 +208340,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 275000,
-          "oldPrice": 289900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FG45CS-Air-2.4G-Wireless-Mouse-2000-DPI-Stone-Grey-Price-in-Pakistan.jpg",
@@ -208337,7 +208356,7 @@
             289900,
             289900,
             289900,
-            289900,
+            275000,
             275000
           ]
         },
@@ -208347,7 +208366,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 215000,
-          "oldPrice": 229900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FG30S-Fstyler-2.4G-Wireless-Mouse-Grey-Price-in-Pakistan.jpg",
@@ -208363,7 +208382,7 @@
             229900,
             229900,
             229900,
-            229900,
+            215000,
             215000
           ]
         },
@@ -208373,7 +208392,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 195000,
-          "oldPrice": 209900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4tech-Fstyler-FG20S-Silent-Click-Wireless-Mouse-White-Price-in-Pakistan.jpg",
@@ -208389,7 +208408,7 @@
             209900,
             209900,
             209900,
-            209900,
+            195000,
             195000
           ]
         },
@@ -208399,7 +208418,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 195000,
-          "oldPrice": 209900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4tech-Fstyler-FG20S-Silent-Click-Wireless-Mouse-Grey-Price-in-Pakistan.jpg",
@@ -208415,7 +208434,7 @@
             209900,
             209900,
             209900,
-            209900,
+            195000,
             195000
           ]
         },
@@ -208425,7 +208444,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 249900,
-          "oldPrice": 259900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FG16CS-Air2-Dual-Function-Air-Mouse-Black-2000dpi-Silent-Clicks-Price-in-Pakistan.jpg",
@@ -208441,7 +208460,7 @@
             259900,
             259900,
             259900,
-            259900,
+            249900,
             249900
           ]
         },
@@ -208607,7 +208626,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 166000,
-          "oldPrice": 179900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4tech-Fstyler-FG12S-1200-DPI-Optical-Wireless-Mouse-White-Price-in-Pakistan.jpg",
@@ -208623,7 +208642,7 @@
             179900,
             179900,
             179900,
-            179900,
+            166000,
             166000
           ]
         },
@@ -208633,7 +208652,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 185000,
-          "oldPrice": 195000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-Fstyler-FG10S-2.4G-Wireless-Mouse-Grey-Price-in-Pakistan-01.jpg",
@@ -208649,7 +208668,7 @@
             195000,
             195000,
             195000,
-            195000,
+            185000,
             185000
           ]
         },
@@ -208685,7 +208704,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 205000,
-          "oldPrice": 219900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FB12S-Dual-Mode-Wireless-Mouse-Black-Price-in-Pakistan.jpg",
@@ -208701,7 +208720,7 @@
             219900,
             219900,
             219900,
-            219900,
+            205000,
             205000
           ]
         },
@@ -208737,7 +208756,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 296000,
-          "oldPrice": 319900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FB26CS-Air2-Bluetooth-and-2.4G-Wireless-Mouse-Smoky-Grey-Price-in-Pakistan.jpg",
@@ -208753,7 +208772,7 @@
             319900,
             319900,
             319900,
-            319900,
+            296000,
             296000
           ]
         },
@@ -208789,7 +208808,7 @@
           "brand": "A4Tech",
           "category": "mouse",
           "price": 306000,
-          "oldPrice": 319900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FB45CS-Air-Dual-Mode-Mouse-Price-in-Pakistan.jpg",
@@ -208805,7 +208824,7 @@
             319900,
             319900,
             319900,
-            319900,
+            306000,
             306000
           ]
         },
@@ -209049,7 +209068,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 615000,
-          "oldPrice": 599900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FX60-Neon-Backlit-Fstyler-Scissor-Switch-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -209065,7 +209084,7 @@
             599900,
             599900,
             599900,
-            599900,
+            615000,
             615000
           ]
         },
@@ -209465,7 +209484,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 395000,
-          "oldPrice": 419900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FBK36C-AS-QuietKey-Mini-Keyboard-Price-in-Pakistan-1.jpg",
@@ -209481,7 +209500,7 @@
             419900,
             419900,
             419900,
-            419900,
+            395000,
             395000
           ]
         },
@@ -209517,7 +209536,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 355000,
-          "oldPrice": 419900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/A4Tech-FBK30-Fstyler-Bluetooth-amp-2.4G-Wireless-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -209533,7 +209552,7 @@
             419900,
             419900,
             419900,
-            419900,
+            355000,
             355000
           ]
         },
@@ -209543,7 +209562,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 610000,
-          "oldPrice": 649900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FBX50C-Bluetooth-amp-2.4G-Wireless-Keyboard-White-Price-in-pakistan-1.jpg",
@@ -209559,7 +209578,7 @@
             649900,
             649900,
             649900,
-            649900,
+            610000,
             610000
           ]
         },
@@ -209569,7 +209588,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 610000,
-          "oldPrice": 649900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FBX50C-Bluetooth-2.4G-Wireless-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -209585,7 +209604,7 @@
             649900,
             649900,
             649900,
-            649900,
+            610000,
             610000
           ]
         },
@@ -209595,7 +209614,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 365000,
-          "oldPrice": 379900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-FBK25-Bluetooth-and-2.4G-Wireless-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -209611,7 +209630,7 @@
             379900,
             379900,
             379900,
-            379900,
+            365000,
             365000
           ]
         },
@@ -209621,7 +209640,7 @@
           "brand": "A4Tech",
           "category": "keyboard",
           "price": 406000,
-          "oldPrice": 425000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/A4Tech-Fstyler-FBK27C-AS-Bluetooth-amp-2.4G-Rechargeable-Wireless-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -209637,7 +209656,7 @@
             425000,
             425000,
             425000,
-            425000,
+            406000,
             406000
           ]
         },
@@ -217408,6 +217427,7 @@
             8299000,
             8299000,
             8299000,
+            8299000,
             8299000
           ]
         },
@@ -224654,7 +224674,7 @@
             5799900,
             5799900,
             5799900,
-            5799900,
+            5450000,
             5450000,
             5450000,
             5450000,
@@ -224680,7 +224700,7 @@
             8999900,
             8999900,
             8999900,
-            8999900,
+            8799900,
             8799900,
             8799900,
             8799900,
@@ -226760,7 +226780,7 @@
             155000,
             155000,
             155000,
-            155000,
+            160000,
             160000,
             160000,
             160000,
@@ -244120,7 +244140,7 @@
           "category": "headset",
           "price": 1166800,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/03/Redragon-H510-1-Gaming-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/redragon-h510-1-gaming-headset",
@@ -245186,7 +245206,7 @@
           "category": "keyboard",
           "price": 200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/03/Redragon-P035-Meteor-S-Keyboard-Wrist-Rest-Pad-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/redragon-p035-meteor-s-computer-keyboard-wrist-rest-pad",
@@ -246252,7 +246272,7 @@
           "category": "keyboard",
           "price": 340000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/03/Redragon-GA-200-ERIS-Keyboard-Mouse-Converter-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/redragon-ga-200-eris-keyboard-mouse-converter",
@@ -251816,7 +251836,7 @@
           "category": "mouse",
           "price": 800000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/09/Logitech-G640-Large-Cloth-Gaming-Mouse-Mat-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/logitech-g640-large-cloth-gaming-mouse-mat",
@@ -274027,6 +274047,7 @@
             30000,
             30000,
             30000,
+            30000,
             30000
           ]
         },
@@ -274042,6 +274063,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_gigabyte_z890_aorus_pro_ice.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z890-aorus-pro-ice-atx-lga1851-ddr5-gaming-motherboard",
           "history": [
+            143999,
             143999,
             143999,
             143999,
@@ -277116,7 +277138,7 @@
             385000,
             385000,
             385000,
-            385000,
+            384999,
             384999,
             384999,
             384999,
@@ -278008,6 +278030,32 @@
           ]
         },
         {
+          "id": "rbtechgames_44aaa1ea",
+          "name": "Sapphire Pulse AMD Radeon RX 9060 XT OC 16GB Graphics Card",
+          "brand": "Sapphire",
+          "category": "gpu",
+          "price": 164999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_sapphire_pulse__rx_9060_xt_oc_16gb.webp",
+          "url": "https://rbtechngames.com/product/sapphire-pulse-amd-radeon-rx-9060-xt-oc-16gb-graphics-card",
+          "history": [
+            154999,
+            154999,
+            154999,
+            154999,
+            154999,
+            154999,
+            154999,
+            154999,
+            154999,
+            154999,
+            164999,
+            164999
+          ]
+        },
+        {
           "id": "rbtechgames_99019b36",
           "name": "G.Skill Ripjaws S5 48GB (2x24GB) 5200Mhz CL40 DDR5 Ram – Black/White",
           "brand": "G.Skill",
@@ -278182,7 +278230,7 @@
             134999,
             134999,
             134999,
-            134999,
+            144999,
             144999,
             144999,
             144999,
@@ -278260,7 +278308,7 @@
             134999,
             134999,
             134999,
-            134999,
+            144999,
             144999,
             144999,
             144999,
@@ -278383,7 +278431,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_asus_prime_radeon_9070_xt_16gb_oc_1.png",
           "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-16gb-oc-graphics-card",
           "history": [
-            279999,
+            314999,
             314999,
             314999,
             314999,
@@ -278416,7 +278464,7 @@
             38499,
             38499,
             38499,
-            38499,
+            40499,
             40499,
             40499,
             40499,
@@ -278762,32 +278810,6 @@
           ]
         },
         {
-          "id": "rbtechgames_0f26902d",
-          "name": "MSI Pro A620M-B M-ATX AM5 DDR5 Gaming Motherboard",
-          "brand": "MSI",
-          "category": "ram",
-          "price": 27499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_msi_pro_a620m-b.png",
-          "url": "https://rbtechngames.com/product/msi-pro-a620m-b-m-atx-am5-ddr5-gaming-motherboard",
-          "history": [
-            27499,
-            27499,
-            27499,
-            27499,
-            27499,
-            27499,
-            27499,
-            27499,
-            27499,
-            27499,
-            27499,
-            27499
-          ]
-        },
-        {
           "id": "rbtechgames_f3224f3a",
           "name": "Logitech G Pro X 60 Wireless 60% RGB Mechanical Gaming Keyboard &#8211; Black/White/Magent",
           "brand": "Logitech",
@@ -278889,23 +278911,6 @@
             45499,
             45499,
             45499
-          ]
-        },
-        {
-          "id": "rbtechgames_a2a59b81",
-          "name": "Gigabyte B450M K M-ATX AM4 DDR4 Gaming Motherboard",
-          "brand": "Gigabyte",
-          "category": "ram",
-          "price": 23500,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_gigabyte_b450m_k.jpg",
-          "url": "https://rbtechngames.com/product/gigabyte-b450m-k-m-atx-am4-ddr4-gaming-motherboard",
-          "history": [
-            23500,
-            23500,
-            23500
           ]
         },
         {
@@ -279076,6 +279081,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_asus_prime_rtx_5070_12gb_oc_5.png",
           "url": "https://rbtechngames.com/product/asus-prime-geforce-rtx-5070-12gb-oc-graphics-card",
           "history": [
+            264999,
             264999,
             264999,
             264999,
@@ -280671,6 +280677,7 @@
             25499,
             25499,
             25499,
+            25499,
             25499
           ]
         },
@@ -280935,6 +280942,36 @@
           ]
         },
         {
+          "id": "rbtechgames_bf035fc4",
+          "name": "Logitech MK345 Wireless Keyboard And Mouse Combo",
+          "brand": "Logitech",
+          "category": "keyboard",
+          "price": 8499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_logitech_mk345.jpg",
+          "url": "https://rbtechngames.com/product/logitech-mk345-wireless-keyboard-and-mouse-combo",
+          "history": [
+            8499
+          ]
+        },
+        {
+          "id": "rbtechgames_e8b1c983",
+          "name": "Logitech MK275 Wireless Keyboard And Mouse Combo",
+          "brand": "Logitech",
+          "category": "keyboard",
+          "price": 6600,
+          "oldPrice": 6999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_logitech_mk275.jpg",
+          "url": "https://rbtechngames.com/product/logitech-mk275-wireless-keyboard-and-mouse-combo",
+          "history": [
+            6600
+          ]
+        },
+        {
           "id": "rbtechgames_973c5010",
           "name": "XPG GAMMIX S70 BLADE PCIe Gen4x4 M.2 2280 SSD &#8211; 512GB/1TB/2TB/4TB",
           "brand": "XPG",
@@ -281062,32 +281099,6 @@
             52499,
             52499,
             52499
-          ]
-        },
-        {
-          "id": "rbtechgames_32117128",
-          "name": "AMD Ryzen 7 7800X3D (8 Cores/16 Thread) &#8211; BOX &#8211; NEW",
-          "brand": "AMD",
-          "category": "cpu",
-          "price": 84499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2023/12/rbtg_amd_ryzen7_7800X3D.webp",
-          "url": "https://rbtechngames.com/product/amd-ryzen-7-7800x3d-8-cores-16-thread",
-          "history": [
-            84499,
-            84499,
-            84499,
-            84499,
-            84499,
-            84499,
-            84499,
-            84499,
-            84499,
-            84499,
-            84499,
-            84499
           ]
         },
         {
@@ -282079,6 +282090,32 @@
           ]
         },
         {
+          "id": "rbtechgames_0d01aee7",
+          "name": "Logitech MK235 Wireless Keyboard Combo",
+          "brand": "Logitech",
+          "category": "keyboard",
+          "price": 6400,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/01/logitech-mk235-wireless-keyboard-combo-1.png",
+          "url": "https://rbtechngames.com/product/logitech-mk235-wireless-keyboard-combo",
+          "history": [
+            6400,
+            6400,
+            6400,
+            6400,
+            6400,
+            6400,
+            6400,
+            6400,
+            6400,
+            6400,
+            6400,
+            6400
+          ]
+        },
+        {
           "id": "rbtechgames_ed4652cc",
           "name": "Logitech G402 Hyperion Fury FPS Gaming Mouse",
           "brand": "Logitech",
@@ -282102,6 +282139,66 @@
             7499,
             7499,
             7499
+          ]
+        },
+        {
+          "id": "rbtechgames_1f688440",
+          "name": "M235 Wireless Mouse &#8211; Colt Glossy",
+          "brand": "M235",
+          "category": "mouse",
+          "price": 3599,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2020/12/logitech-m235.png",
+          "url": "https://rbtechngames.com/product/m235-wireless-mouse-colt-glossy",
+          "history": [
+            3599
+          ]
+        },
+        {
+          "id": "rbtechgames_da95914c",
+          "name": "Logitech M221 Silent Wireless Mouse",
+          "brand": "Logitech",
+          "category": "mouse",
+          "price": 3800,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2020/12/logitech-m221.jpg",
+          "url": "https://rbtechngames.com/product/logitech-m221-silent-wireless-mouse",
+          "history": [
+            3800
+          ]
+        },
+        {
+          "id": "rbtechgames_6e8ba5ef",
+          "name": "Logitech Wireless Mouse M185 &#8211; Swift Grey",
+          "brand": "Logitech",
+          "category": "mouse",
+          "price": 3300,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2020/12/logitech-m185-swift-grey.jpg",
+          "url": "https://rbtechngames.com/product/logitech-wireless-mouse-m185-swift-gray",
+          "history": [
+            3300
+          ]
+        },
+        {
+          "id": "rbtechgames_ac6f0945",
+          "name": "Logitech M90 Wired Mouse USB Black",
+          "brand": "Logitech",
+          "category": "mouse",
+          "price": 1399,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2020/12/logitech-m90.jpg",
+          "url": "https://rbtechngames.com/product/logitech-m90-wired-mouse-usb-black",
+          "history": [
+            1399
           ]
         },
         {
