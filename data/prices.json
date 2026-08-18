@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T01:10:17.150292+00:00",
+  "lastUpdated": "2026-08-18T06:40:36.456534+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_18088fbd",
+          "name": "AOC 24G50F 23.8\" 180Hz FHD Gaming Monitor",
+          "brand": "AOC",
+          "category": "monitor",
+          "price": 31990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50f-price-in-pakistan-pakbyte_1.webp?v=1787034791",
+          "url": "https://www.pakbyte.pk/products/aoc-24g50f-23-8-180hz-fhd-gaming-monitor",
+          "history": [
+            31990
+          ]
+        },
         {
           "id": "pakbyte_32de5541",
           "name": "ID-Cooling Ware 310 ARGB ATX PC Case -  White",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-ware-310-argb-price-in-pakistan-pakbyte_5.webp?v=1786948450",
           "url": "https://www.pakbyte.pk/products/id-cooling-ware-310-argb-atx-pc-case-white",
           "history": [
+            12990,
             12990,
             12990,
             12990,
@@ -41,6 +57,7 @@
             12490,
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -56,6 +73,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-ware-510-argb-price-in-pakistan-pakbyte_5.webp?v=1786947831",
           "url": "https://www.pakbyte.pk/products/id-cooling-ware-510-argb-atx-pc-case-white",
           "history": [
+            14990,
             14990,
             14990,
             14990,
@@ -77,6 +95,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -92,6 +111,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-flow-500-air-price-in-pakistan-pakbyte_5_017e35d6-86ce-4e1b-8ec4-fe2a3aa4d001.webp?v=1786947156",
           "url": "https://www.pakbyte.pk/products/id-cooling-view-500-argb-micro-atx-pc-case-white",
           "history": [
+            13990,
             13990,
             13990,
             13990,
@@ -113,6 +133,7 @@
             13490,
             13490,
             13490,
+            13490,
             13490
           ]
         },
@@ -128,6 +149,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-view-510-argb-price-in-pakistan-pakbyte_5.webp?v=1786945865",
           "url": "https://www.pakbyte.pk/products/id-cooling-view-510-argb-panoramic-atx-pc-case-white",
           "history": [
+            16990,
             16990,
             16990,
             16990,
@@ -149,6 +171,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -167,6 +190,7 @@
             16790,
             16790,
             16790,
+            16790,
             16790
           ]
         },
@@ -182,6 +206,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-flow-500-air-price-in-pakistan-pakbyte_1.webp?v=1786943859",
           "url": "https://www.pakbyte.pk/products/id-cooling-flow-500-air-micro-atx-pc-case-black",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -16573,8 +16598,8 @@
           "name": "AOC 25G4K 25\" 420Hz FHD Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 72990,
-          "oldPrice": null,
+          "price": 68990,
+          "oldPrice": 72990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-25G4K-25-QHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1773380509",
@@ -16591,7 +16616,7 @@
             72990,
             72990,
             72990,
-            72990
+            68990
           ]
         },
         {
@@ -16599,8 +16624,8 @@
           "name": "AOC 24G50Z 24\" FHD 240Hz Fast IPS Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 43990,
-          "oldPrice": null,
+          "price": 37990,
+          "oldPrice": 43990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50z-price-in-pakistan-pakbyte_4.webp?v=1773379757",
@@ -16617,7 +16642,7 @@
             43990,
             43990,
             43990,
-            43990
+            37990
           ]
         },
         {
@@ -16625,8 +16650,8 @@
           "name": "AOC 24B36X 24\" 144Hz FHD Gaming Monitor - Black",
           "brand": "AOC",
           "category": "monitor",
-          "price": 33990,
-          "oldPrice": null,
+          "price": 27990,
+          "oldPrice": 33990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-3-SIDED-FRAMELESS-GAMING-LED-24B36X-Price-in-Pakistan-Pakbyte_1.jpg?v=1773379430",
@@ -16643,7 +16668,7 @@
             33990,
             33990,
             33990,
-            33990
+            27990
           ]
         },
         {
@@ -24815,8 +24840,8 @@
           "name": "Philips Evnia 24M2N3200FQ 23.8\" FHD IPS, 200Hz Gaming LED Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 37990,
-          "oldPrice": null,
+          "price": 33990,
+          "oldPrice": 37990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-Evnia-24M2N3200FQ-FHD-200Hz-Gaming-LED-Monitor-Price-in-Pakistan-Pakbyte_3.webp?v=1768806475",
@@ -24833,7 +24858,7 @@
             37990,
             37990,
             37990,
-            37990
+            33990
           ]
         },
         {
@@ -33020,7 +33045,7 @@
             6190,
             6190,
             6190,
-            6190,
+            6999,
             6999,
             6999,
             6999
@@ -37978,7 +38003,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-nitro-amd-radeon-rx-9060-xt-oc-graphics-card-price-in-pakistan-pakbyte.webp?v=1764000828",
           "url": "https://www.pakbyte.pk/products/sapphire-nitro-amd-radeon-rx-9060-xt-oc-16gb-gaming-graphics-card",
           "history": [
-            171990,
+            185999,
             185999,
             185999,
             185999,
@@ -71397,7 +71422,7 @@
             10390,
             10390,
             10390,
-            10390,
+            10999,
             10999,
             10999
           ]
@@ -85551,8 +85576,8 @@
           "name": "Philips 221V8L 75Hz 1080p FHD VA 22\" LCD Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 24990,
-          "oldPrice": null,
+          "price": 23490,
+          "oldPrice": 24990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/PHILIPS-LED-22-22IV8L-PakByte-Computers-25467656142915.jpg?v=1753676032",
@@ -85569,7 +85594,7 @@
             24990,
             24990,
             24990,
-            24990
+            23490
           ]
         },
         {
@@ -110136,7 +110161,7 @@
             15190,
             15190,
             15190,
-            15190,
+            15499,
             15499,
             15499,
             15499
@@ -111343,8 +111368,8 @@
           "name": "AOC 22B3HM 3-Sided Frameless 21.5\" 75Hz FHD LED Monitor",
           "brand": "AOC",
           "category": "ram",
-          "price": 25990,
-          "oldPrice": null,
+          "price": 23990,
+          "oldPrice": 25990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-22B3HM-3-Sided-Frameless-21-5-Inches-75Hz-FHD-LED-Monitor-PakByte-Computers-24397647151171.webp?v=1753680585",
@@ -111361,7 +111386,7 @@
             25990,
             25990,
             25990,
-            25990
+            23990
           ]
         },
         {
@@ -120443,8 +120468,8 @@
           "name": "Philips 162B9T 16inch HD, 60Hz, Touch Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 77990,
-          "oldPrice": null,
+          "price": 68990,
+          "oldPrice": 77990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-162B9T-16-HD-inch-Touch-Monitor-60Hz-4ms-TN-Speakers-Height-Adjust-1366-x-768-220-cd-m-HDMI-DVI-VGA-DP-USB-3-1-PakByte-Computers-24397447364675.webp?v=1753682223",
@@ -120461,7 +120486,7 @@
             77990,
             77990,
             77990,
-            77990
+            68990
           ]
         },
         {
@@ -129246,7 +129271,7 @@
             25490,
             25490,
             25490,
-            25490,
+            33999,
             33999,
             33999,
             33999
@@ -145023,6 +145048,7 @@
             100000,
             100000,
             100000,
+            100000,
             100000
           ]
         },
@@ -145038,6 +145064,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/HikSemi-16GB-DDR5-5600MHz-SODIMM.webp",
           "url": "https://zahcomputers.pk/product/hiksemi-16gb-ddr5-5600mhz-sodimm-laptop",
           "history": [
+            5799900,
             5799900,
             5799900,
             5799900,
@@ -145071,6 +145098,7 @@
             9500000,
             9500000,
             9500000,
+            9500000,
             9500000
           ]
         },
@@ -145086,6 +145114,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/DAHUA-C500-Series-DDR5-8GB-SO-DIMM-Laptop-Memory-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/dahua-c500-series-ddr5-8gb-so-dimm-laptop-memory-5600mt-s-cl46-1-1v",
           "history": [
+            3000000,
             3000000,
             3000000,
             3000000,
@@ -146104,7 +146133,7 @@
             2299900,
             2299900,
             2299900,
-            2299900,
+            2100000,
             2100000,
             2100000,
             2100000,
@@ -146801,7 +146830,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-PRIME-B760M-A-DDR4-LGA-1700-Micro-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b760m-a-ddr4-lga-1700-micro-atx-motherboard",
           "history": [
-            3400000,
+            3470000,
             3470000,
             3470000,
             3470000,
@@ -147763,7 +147792,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-Dual-GeForce-RTX-5060-Ti-16GB-GDDR7-Gaming-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-ti-16gb-gddr7-gaming-graphics-card-pcie-5-0-16gb-gddr7-hdmi-2-1b-displayport-2-1b-axial-tech-cooling",
           "history": [
-            22800000,
+            26200000,
             26200000,
             26200000,
             26200000,
@@ -147815,7 +147844,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-PRIME-B850-PLUS-WIFI-CSM-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b850-plus-wifi-csm-atx-motherboard",
           "history": [
-            5950000,
+            6000000,
             6000000,
             6000000,
             6000000,
@@ -147867,7 +147896,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-B850M-AYW-GAMING-WIFI-Micro-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-b850m-ayw-gaming-wifi-micro-atx-motherboard",
           "history": [
-            4850000,
+            4680000,
             4680000,
             4680000,
             4680000,
@@ -147893,7 +147922,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-PRIME-A620AM-K-CSM-Micro-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-a620am-k-csm-micro-atx-motherboard",
           "history": [
-            3050000,
+            2949900,
             2949900,
             2949900,
             2949900,
@@ -147919,7 +147948,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ASUS-B760M-AYW-WIFI-Micro-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-b760m-ayw-wifi-micro-atx-motherboard",
           "history": [
-            4200000,
+            3849900,
             3849900,
             3849900,
             3849900,
@@ -148422,7 +148451,7 @@
             10200000,
             10200000,
             10200000,
-            10200000,
+            11000000,
             11000000,
             11000000
           ]
@@ -149091,6 +149120,7 @@
           "history": [
             13000000,
             13000000,
+            13000000,
             13000000
           ]
         },
@@ -149241,7 +149271,7 @@
             14000000,
             14000000,
             14000000,
-            14000000,
+            13599900,
             13599900,
             13599900,
             13599900,
@@ -154462,7 +154492,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/ASUS-X870-MAX-GAMING-WIFI7-W-AM5-ATX-Motherboard-AMD-X870-Chipset-4x-DDR5-DIMM-Slots-Up-to-256GB-Max-Memory-1x-PCIe-5.0-x16-3x-M.2-Slots-Wi-Fi-7-amp-Bluetooth-v5.4-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/asus-x870-max-gaming-wifi7-w-am5-atx-motherboard-amd-x870-chipset-4x-ddr5-dimm-slots-up-to-256gb-max-memory-1x-pcie-5-0-x16-3x-m-2-slots-wi-fi-7-bluetooth-v5-4",
           "history": [
-            9749900,
+            9680000,
             9680000,
             9680000,
             9680000,
@@ -155247,7 +155277,7 @@
             12500000,
             12500000,
             12500000,
-            12500000,
+            12600000,
             12600000,
             12600000,
             12600000,
@@ -156599,6 +156629,7 @@
             4799900,
             4799900,
             4799900,
+            4799900,
             4799900
           ]
         },
@@ -156614,6 +156645,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/CoolerMaster-MasterLiquid-360-Atmos-II-LCD-Panel-ARGB-Fans-Liquid-Cooler​-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/coolermaster-masterliquid-360-atmos-ii-lcd-panel-argb-fans-liquid-cooler-black",
           "history": [
+            5499900,
             5499900,
             5499900,
             5499900,
@@ -162076,7 +162108,7 @@
             599500,
             599500,
             599500,
-            599500,
+            749900,
             749900,
             749900,
             749900
@@ -163550,7 +163582,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/ASUS-PRIME-B550M-K-ARGB-AMD-B550-Ryzen-AM4-mATX-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b550m-k-argb-amd-b550-ryzen-am4-matx-motherboard-with-dual-m-2-slots-pcie-4-0-realtek-1gb-ethernet-displayport-hdmi-sata-6-gbps-rear-usb-3-2-gen-1-ports-front-usb-3-2-gen-1-type-c-and-aur",
           "history": [
-            3299900,
+            3359900,
             3359900,
             3359900,
             3359900,
@@ -168260,7 +168292,7 @@
             11000000,
             11000000,
             11000000,
-            11000000,
+            11200000,
             11200000,
             11200000,
             11200000,
@@ -169712,7 +169744,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Acer-Predator-GM7-2TB-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/acer-predator-gm7-2tb-m-2-2280-pcie-gen-4-x4-nvme-2-0-read-speed-up-to-7200-mb-s-ssd",
           "history": [
-            6350000,
+            6450000,
             6450000,
             6450000,
             6450000,
@@ -170084,7 +170116,7 @@
             4500000,
             4500000,
             4500000,
-            4500000,
+            5200000,
             5200000,
             5200000,
             5200000
@@ -170336,7 +170368,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ASUS-Prime-Z890-P-Wifi-CSM-DDR5-Intel-LGA-1851-Intel-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-z890-p-csm-ddr5-lga1851-atx-motherboard",
           "history": [
-            8200000,
+            8249900,
             8249900,
             8249900,
             8249900,
@@ -178370,7 +178402,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-ROG-Strix-GeForce-RTX-5070-Ti-OC-Edition-16GB-256-Bit-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-strix-geforce-rtx-5070-ti-oc-edition-16gb-256-bit-gddr7-pci-express-5-0-dlss-4-0-graphics-card",
           "history": [
-            45500000,
+            45000000,
             45000000,
             45000000,
             45000000,
@@ -178760,7 +178792,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-TUF-Gaming-Radeon-RX-9070-XT-OC-Edition-16GB-GDDR6-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-radeon-rx-9070-xt-oc-edition-16gb-gddr6-gaming-graphics-card",
           "history": [
-            29800000,
+            34000000,
             34000000,
             34000000,
             34000000,
@@ -178864,7 +178896,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-Dual-GeForce-RTX-5070-12GB-GDDR7-OC-Edition-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-gaming-graphics-card",
           "history": [
-            23999900,
+            29700000,
             29700000,
             29700000,
             29700000,
@@ -178916,7 +178948,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-Dual-GeForce-RTX-5060-Ti-8GB-GDDR7-PCI-Express-5.0-x8-ATX-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-pci-express-5-0-x8-atx-graphics-card",
           "history": [
-            15499900,
+            17000000,
             17000000,
             17000000,
             17000000,
@@ -178968,7 +179000,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Asus-Dual-GeForce-RTX-5060-8GB-White-GDDR7-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-8gb-white-gddr7-oc-edition-graphics-card",
           "history": [
-            12999900,
+            14800000,
             14800000,
             14800000,
             14800000,
@@ -178994,7 +179026,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Asus-Dual-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
           "history": [
-            15300000,
+            14500000,
             14500000,
             14500000,
             14500000,
@@ -179025,7 +179057,7 @@
             10499900,
             10499900,
             10499900,
-            10499900,
+            12750000,
             12750000,
             12750000,
             12750000,
@@ -179046,12 +179078,12 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-ROG-STRIX-X870E-H-GAMING-WIFI7-AMD-X870E-H-ATX-motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-strix-x870e-h-gaming-wifi7-amd-x870e-h-atx-motherboard-with-1621-power-stages-dynamic-oc-switcher-core-flex-ddr5-aemp-wifi-7-4x-m-2-pcie-5-0-q-release-dual-usb4-ports-and-usb-10gbps-type-c",
           "history": [
-            12000000,
             11550000,
             11550000,
             11550000,
             11550000,
             11550000,
+            11500000,
             11500000,
             11500000,
             11500000,
@@ -179072,7 +179104,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-TUF-GAMING-X870E-PLUS-WIFI7-AM5-ATX-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-x870e-plus-wifi7-am5-atx-motherboard",
           "history": [
-            11400000,
+            11550000,
             11550000,
             11550000,
             11550000,
@@ -179098,7 +179130,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-X870-MAX-GAMING-WIFI7-W-AM5-ATX-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-x870-max-gaming-wifi7-w-am5-atx-motherboard-amd-x870-chipset-4x-ddr5-dimm-slots-up-to-256gb-max-memory-1x-pcie-5-0-x16-3x-m-2-slots-wi-fi-7-bluetooth-v5-4white",
           "history": [
-            9749900,
+            9700000,
             9700000,
             9700000,
             9700000,
@@ -179176,7 +179208,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-B850-MAX-GAMING-WIFI-W-AMD-AM5-ATX-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-b850-max-gaming-wifi-w-amd-am5-atx-motherboard-white-pcb-ddr5-pcie-5-0-ready-3x-m-2-wi-fi-6e-2-5gb-lan-usb-10gbps-type-c-displayport-hdmi-bios-flashback-aura-sync-asus-ai-advisor",
           "history": [
-            6499900,
+            6600000,
             6600000,
             6600000,
             6600000,
@@ -179259,7 +179291,7 @@
             13499900,
             13499900,
             13499900,
-            13499900,
+            13850000,
             13850000,
             13850000,
             13850000,
@@ -181880,7 +181912,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-TUF-Gaming-GeForce-RTX-5070-Ti-OC-Edition-16GB-GDDR7-TUF-RTX5070TI-O16G-GAMING-PCI-Express-5.0-DLSS-4.0-Graphics-Card-price-inPakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-5070-ti-oc-edition-16gb-gddr7-tuf-rtx5070ti-o16g-gaming-pci-express-5-0-dlss-4-0-graphics-card",
           "history": [
-            38999900,
+            41700000,
             41700000,
             41700000,
             41700000,
@@ -182769,7 +182801,7 @@
             34000000,
             34000000,
             34000000,
-            34000000,
+            34900000,
             34900000,
             34900000,
             34900000,
@@ -185135,7 +185167,7 @@
             12300000,
             12300000,
             12300000,
-            12300000,
+            12000000,
             12000000,
             12000000,
             12000000,
@@ -185208,7 +185240,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-PRIME-Radeon-RX-9070-XT-16GB-256-Bit-GDDR6-PCI-Express-5.0-RDNA-4-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-radeon-rx-9070-xt-16gb-256-bit-gddr6-pci-express-5-0-rdna-4-graphics-card",
           "history": [
-            28000000,
+            31500000,
             31500000,
             31500000,
             31500000,
@@ -185234,7 +185266,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ASUS-PRIME-GeForce-RTX-5070-Ti-16GB-256-Bit-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-geforce-rtx-5070-ti-16gb-256-bit-gddr7-pci-express-5-0-dlss-4-0-graphics-card",
           "history": [
-            36000000,
+            40000000,
             40000000,
             40000000,
             40000000,
@@ -187055,7 +187087,7 @@
           "url": "https://zahcomputers.pk/product/team-t-force-delta-rgb-32gb-2-x-16gb-288-pin-pc-ram-ddr5-6400-cl40-pc5-51200-desktop-model",
           "history": [
             12900000,
-            12900000,
+            14000000,
             14000000,
             14000000,
             14000000,
@@ -189706,7 +189738,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-Prime-LC-ARGB-White-Edition-all-in-one-CPU-liquid-cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-lc-argb-white-edition-all-in-one-cpu-liquid-cooler-with-vast-cpu-contact-area-and-finned-channels-water-block-with-infinity-mirror-lens-options-integrated-argb-fans-and-aura-lighting",
           "history": [
-            2679900,
+            2500000,
             2500000,
             2500000,
             2500000,
@@ -189732,7 +189764,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-Prime-LC-360-ARGB-all-in-one-CPU-liquid-cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-lc-360-argb-all-in-one-cpu-liquid-cooler-with-specially-designed-cpu-contact-area-and-finned-channels-water-block-with-infinity-mirror-lens-options-pre-installed-argb-fans-and-aura-lighti",
           "history": [
-            2679900,
+            2500000,
             2500000,
             2500000,
             2500000,
@@ -189758,7 +189790,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-Prime-LC-360-ARGB-LCD-all-in-one-CPU-liquid-cooler-Price-in-Pakistna.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-lc-360-argb-lcd-all-in-one-cpu-liquid-cooler-with-sharp-screen-showcasing-cpu-gpu-information-with-different-background-high-performance-asetek-pump-armed-with-robust-motor-daisy-ch",
           "history": [
-            3750000,
+            3500000,
             3500000,
             3500000,
             3500000,
@@ -189888,7 +189920,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Asus-Tuf-Gaming-B850-E-Wifi-AMD-AM5-B850-ATX-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-b850-e-wifi-amd-am5-b850-atx-motherboard",
           "history": [
-            6949900,
+            7050000,
             7050000,
             7050000,
             7050000,
@@ -190339,7 +190371,7 @@
             7500000,
             7500000,
             7500000,
-            7500000,
+            7300000,
             7300000,
             7300000
           ]
@@ -191526,7 +191558,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/ASUS-TUF-Gaming-GeForce-RTX-5070-Ti-White-OC-Edition-16GB-GDDR7-PCI-Express-5.0-DLSS-4.0-Graphics-Card-Price-in-Pakistan-09.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-geforce-rtx-5070-ti-white-oc-edition-16gb-gddr7-pci-express-5-0-dlss-4-0-graphics-card",
           "history": [
-            39999900,
+            43500000,
             43500000,
             43500000,
             43500000,
@@ -191582,7 +191614,7 @@
             5600000,
             5600000,
             5600000,
-            5600000,
+            5800000,
             5800000,
             5800000,
             5800000,
@@ -193455,7 +193487,7 @@
             19999900,
             19999900,
             19999900,
-            19999900,
+            19500000,
             19500000,
             19500000,
             19500000,
@@ -199092,7 +199124,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Asus-ROG-Strix-B860-A-Gaming-Wifi-DDR5-Intel-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-strix-b860-a-gaming-wifi-ddr5-intel-motherboard",
           "history": [
-            7849900,
+            7549900,
             7549900,
             7549900,
             7549900,
@@ -199222,7 +199254,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/12/ASUS-M603-Falchion-ROG-RX-Low-Profile-Wireless-Gaming-Keyboard-RX-Red-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-m603-falchion-rog-rx-low-profile-wireless-gaming-keyboard-rx-red",
           "history": [
-            3949900,
+            3800000,
             3800000,
             3800000,
             3800000,
@@ -199326,7 +199358,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Asus-TUF-Gaming-B860-PLUS-WiFi-B860-LGA-1851-ATX-Motherboard-Intel®-Core-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-b860-plus-wifi-b860-lga-1851-atx-motherboard-intel-core-ultra-series-2-ready-advanced-ai-pc-ready-12121-stages-ddr5pcie-5-0-3x-m-2-wi-fi-7-2-5gb-lan-usb-20gb",
           "history": [
-            6799900,
+            7149900,
             7149900,
             7149900,
             7149900,
@@ -199352,7 +199384,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/ASUS-TUF-GAMING-B860M-PLUS-WIFI-B860-LGA-1851-mATX-motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-b860m-plus-wifi-b860-lga-1851-matx-motherboard-intel-core-ultra-series-2-ready-ai-pc-12121-80a-stages-ddr5-pcie-5-0-3x-m-2-wi-fi-7-2-5g-lan-hdmi-usb-20gbps-type-c",
           "history": [
-            6499900,
+            6599900,
             6599900,
             6599900,
             6599900,
@@ -199378,7 +199410,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Asus-PRIME-B860M-A-WIFI-CSM-B860-LGA-1851-mATX-motherboard-Intel®-Core™-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b860m-a-wifi-csm-b860-lga-1851-matx-motherboard-intel-core-ultra-series-2-ready-advanced-ai-pc-ready-7111-stage-ddr5-pcie-5-0-x16-hdmi-usb-20gbps-type-c-2x-m",
           "history": [
-            4849900,
+            5059900,
             5059900,
             5059900,
             5059900,
@@ -203850,7 +203882,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/04/Asus-ProArt-LC-360-All-in-One-AIO-CPU-Liquid-Cooler-AMD-AM4-AM5-Intel-LGA-1700-1200-115X-Support-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-proart-lc-360-all-in-one-aio-cpu-liquid-cooler-amd-am4-am5-intel-lga-1700-1200-115x-support",
           "history": [
-            6299900,
+            6450000,
             6450000,
             6450000,
             6450000,
@@ -205805,7 +205837,7 @@
             15999900,
             15999900,
             15999900,
-            15999900,
+            14999900,
             14999900,
             14999900,
             14999900,
@@ -205831,7 +205863,7 @@
             12800000,
             12800000,
             12800000,
-            12800000,
+            10999900,
             10999900,
             10999900,
             10999900,
@@ -213184,7 +213216,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ASUS-ProArt-Z890-CREATOR-WIFI-Z890-LGA-1851-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-proart-z890-creator-wifi-z890-lga-1851-atx-motherboard",
           "history": [
-            17999900,
+            18149900,
             18149900,
             18149900,
             18149900,
@@ -213262,7 +213294,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ASUS-TUF-GAMING-Z890-PLUS-WIFI-Z890-LGA-1851-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-z890-plus-wifi-z890-lga-1851-atx-motherboard",
           "history": [
-            11199900,
+            11449900,
             11449900,
             11449900,
             11449900,
@@ -213288,7 +213320,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/ASUS-Prime-Z890-P-Wifi-CSM-DDR5-Intel-LGA-1851-Intel-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-strix-z890-a-gaming-wifi-ddr5-lga1851-atx-motherboard",
           "history": [
-            8649900,
+            8520000,
             8520000,
             8520000,
             8520000,
@@ -215290,7 +215322,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/MAXSUN-Intel-Arc-B580-iCraft-12G-Graphics-Cards.webp",
           "url": "https://zahcomputers.pk/product/maxsun-intel-arc-b580-icraft-12g-graphics-cards",
           "history": [
-            11900000,
+            13000000,
             13000000,
             13000000,
             13000000,
@@ -217297,6 +217329,7 @@
             8299000,
             8299000,
             8299000,
+            8299000,
             8299000
           ]
         },
@@ -219054,7 +219087,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/ASUS-ProArt-X870E-CREATOR-WIFI.jpeg",
           "url": "https://zahcomputers.pk/product/asus-proart-x870e-creator-wifi-amd-am5-x870e-atx-motherboard",
           "history": [
-            18799900,
+            19250000,
             19250000,
             19250000,
             19250000,
@@ -219340,7 +219373,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Logitech-G515-TKL-G-Series-Wired-Gaming-Keyboard.jpg",
           "url": "https://zahcomputers.pk/product/logitech-g515-tkl-g-series-wired-gaming-keyboard-tenkeyless-black-tactile-lightsync-rgb",
           "history": [
-            2250000,
+            2300000,
             2300000,
             2300000,
             2300000,
@@ -219964,7 +219997,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Asus-PRIME-X870-P-WIFI-CSM-AM5-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-x870-p-wifi-csm-am5-atx-motherboard",
           "history": [
-            8899900,
+            9250000,
             9250000,
             9250000,
             9250000,
@@ -224545,7 +224578,7 @@
             5799900,
             5799900,
             5799900,
-            5799900,
+            5450000,
             5450000,
             5450000,
             5450000,
@@ -224571,7 +224604,7 @@
             8999900,
             8999900,
             8999900,
-            8999900,
+            8799900,
             8799900,
             8799900,
             8799900,
@@ -226204,7 +226237,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/ASUS-ROG-Cetra-True-Wireless-Gaming-Headphones-White-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-cetra-true-wireless-gaming-headphones-white",
           "history": [
-            1849900,
+            1869900,
             1869900,
             1869900,
             1869900,
@@ -226651,7 +226684,7 @@
             155000,
             155000,
             155000,
-            155000,
+            160000,
             160000,
             160000,
             160000,
@@ -228388,7 +228421,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/107647-asus-proart-lc-420-liquid-cpu-cooler-price-in-pakistan-1.webp",
           "url": "https://zahcomputers.pk/product/asus-proart-lc-420-liquid-cpu-cooler-3-phase-motor-3x-noctua-nf-a14-fans-illuminated-status-meter",
           "history": [
-            8500000,
+            7900000,
             7900000,
             7900000,
             7900000,
@@ -231794,7 +231827,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/ASUS-Prime-B550M-A-WiFi-II-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b550m-a-wifi-ii-amd-am4-3rd-gen-ryzen-micro-atx-motherboard",
           "history": [
-            3849900,
+            3949900,
             3949900,
             3949900,
             3949900,
@@ -232808,7 +232841,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/05/ASUS-PRIME-Z790-P-WIFI-CSM-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-z790-p-wifi-csm-lga-1700-intel-12th13th-14th-gen-atx-motherboard",
           "history": [
-            6849900,
+            7319900,
             7319900,
             7319900,
             7319900,
@@ -233718,7 +233751,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/04/ASUS-Prime-B760M-K-D5-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b760m-k-d5-lga-1700-matx-motherboard",
           "history": [
-            3099900,
+            2919900,
             2919900,
             2919900,
             2919900,
@@ -233744,7 +233777,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/04/Asus-Prime-H610M-K-D5-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-h610m-k-d5-intel-h610-lga-1700-micro-atx-motherboard-ddr5-pcie-4-0-m-2-slot-realtek-1-gb-ethernet-hdmi-vga-usb-3-2-gen-1-sata-6-gbps-addressable-gen-2-headers-aur",
           "history": [
-            2499900,
+            2479900,
             2479900,
             2479900,
             2479900,
@@ -234992,7 +235025,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/01/ASUS-A21-White.jpg",
           "url": "https://zahcomputers.pk/product/asus-a21-white-mid-tower-support-for-360mm-radiators-and-380mm-graphics-card-clean-cable-management-case",
           "history": [
-            2300000,
+            2250000,
             2250000,
             2250000,
             2250000,
@@ -235018,7 +235051,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/01/ASUS-A21-Black.jpg",
           "url": "https://zahcomputers.pk/product/asus-a21-black-mid-tower-support-for-360mm-radiators-and-380mm-graphics-card-clean-cable-management-case",
           "history": [
-            2500000,
+            2250000,
             2250000,
             2250000,
             2250000,
@@ -238424,7 +238457,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/10/ASUS-ROG-Delta-S-Wireless-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-delta-s-wireless-gaming-headset",
           "history": [
-            4199900,
+            4149900,
             4149900,
             4149900,
             4149900,
@@ -238450,7 +238483,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/10/ASUS-ROG-Cetra-True-Wireless-Gaming-Headphones.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-cetra-true-wireless-gaming-headphones",
           "history": [
-            1849900,
+            1869900,
             1869900,
             1869900,
             1869900,
@@ -238476,7 +238509,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/10/ASUS-ROG-Delta-S-Core-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-delta-s-core-gaming-headset",
           "history": [
-            2949900,
+            2200000,
             2200000,
             2200000,
             2200000,
@@ -240140,7 +240173,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/ASUS-PRIME-B760M-A-WIFI-LGA-1700-Micro-ATX-Mortheboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b760m-a-wifi-lga-1700-micro-atx-mortheboard",
           "history": [
-            4499900,
+            4269900,
             4269900,
             4269900,
             4269900,
@@ -240166,7 +240199,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/ASUS-PRIME-B760M-A-LGA-1700-Micro-ATX-Motherboard.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b760m-a-lga-1700-micro-atx-motherboard",
           "history": [
-            3499900,
+            3519900,
             3519900,
             3519900,
             3519900,
@@ -240192,7 +240225,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/08/PRIME-B760M-K-D4-price-in-Pakistan-04.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-b760m-k-d4-lga-1700-matx-motherboard",
           "history": [
-            2949900,
+            2919900,
             2919900,
             2919900,
             2919900,
@@ -241310,7 +241343,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/07/ASUS-TUF-GAMING-1200W-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-1200w-80-gold-certification-full-modular-compatible-with-pcie-gen-5-0-and-atx-3-0-pcb-coating-135mm-dual-ball-bearing-fan-atx-3-0-standard-power-supply",
           "history": [
-            5200000,
+            5300000,
             5300000,
             5300000,
             5300000,
@@ -243208,7 +243241,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/05/ASUS-TUF-GAMING-1000W-price-in-pakistan-11.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-1000w-80-gold-certification-full-modular-compatible-with-pcie-gen-5-0-and-atx-3-0-pcb-coating-135mm-dual-ball-bearing-fan-atx-3-0-standard-power-supply",
           "history": [
-            4200000,
+            4300000,
             4300000,
             4300000,
             4300000,
@@ -250488,7 +250521,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/12/Asus-Prime-H610M-K-D4-Price-in-Pakistan-.jpg",
           "url": "https://zahcomputers.pk/product/asus-prime-h610m-k-d4intel-h610-lga-1700-mic-atx-motherboard-with-ddr4-pcie-4-0-m-2-slot-realtek-1-gb-ethernet-hdmi-d-sub-usb-3-2-gen-1-ports-sata-6-gbps-com-header-rgb-header",
           "history": [
-            2499900,
+            2479900,
             2479900,
             2479900,
             2479900,
@@ -252958,7 +252991,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/08/Logitech-G-G305-Mouse-Wireless-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/logitech-g-g305-mouse-wireless-white",
           "history": [
-            1400000,
+            1050000,
             1050000,
             1050000,
             1050000,
@@ -258002,7 +258035,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/03/ASUS-TUF-Gaming-K1-RGB-Keyboard-Black-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-k1-rgb-keyboard-black",
           "history": [
-            1149900,
+            1099900,
             1099900,
             1099900,
             1099900,
@@ -258080,7 +258113,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/03/ASUS-TUF-Gaming-H1-Wireless-Headset-Black-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-h1-wireless-headset-discord-certified-mic-7-1-surround-sound-40mm-drivers-2-4ghz-usb-c-lightweight-15-hour-battery-life-for-pc-mac-switch-mobile-devices-ps4-ps5-black",
           "history": [
-            1999900,
+            1969900,
             1969900,
             1969900,
             1969900,
@@ -273914,6 +273947,7 @@
           "url": "https://rbtechngames.com/product/amd-ryzen-5-5600x-processor-tray-used",
           "history": [
             30000,
+            30000,
             30000
           ]
         },
@@ -273929,6 +273963,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_gigabyte_z890_aorus_pro_ice.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z890-aorus-pro-ice-atx-lga1851-ddr5-gaming-motherboard",
           "history": [
+            143999,
             143999,
             143999,
             143999,
@@ -277021,7 +277056,6 @@
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp10-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-6-fhd-144hz-ips-display-luna-grey-new",
           "history": [
             364999,
-            364999,
             385000,
             385000,
             385000,
@@ -277030,6 +277064,7 @@
             385000,
             385000,
             385000,
+            384999,
             384999,
             384999
           ]
@@ -278095,7 +278130,7 @@
             134999,
             134999,
             134999,
-            134999,
+            144999,
             144999,
             144999
           ]
@@ -278173,7 +278208,7 @@
             134999,
             134999,
             134999,
-            134999,
+            144999,
             144999,
             144999
           ]
@@ -278296,7 +278331,7 @@
           "history": [
             279999,
             279999,
-            279999,
+            314999,
             314999,
             314999,
             314999,
@@ -278329,7 +278364,7 @@
             38499,
             38499,
             38499,
-            38499,
+            40499,
             40499,
             40499
           ]
@@ -278814,6 +278849,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_gigabyte_b450m_k.jpg",
           "url": "https://rbtechngames.com/product/gigabyte-b450m-k-m-atx-am4-ddr4-gaming-motherboard",
           "history": [
+            23500,
             23500
           ]
         },
@@ -278985,6 +279021,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_asus_prime_rtx_5070_12gb_oc_5.png",
           "url": "https://rbtechngames.com/product/asus-prime-geforce-rtx-5070-12gb-oc-graphics-card",
           "history": [
+            264999,
             264999,
             264999,
             264999,
@@ -280576,6 +280613,7 @@
             25499,
             25499,
             25499,
+            25499,
             25499
           ]
         },
@@ -282069,7 +282107,164 @@
       "url": "https://www.paklap.pk",
       "city": "Nationwide",
       "verified": true,
-      "products": []
+      "products": [
+        {
+          "id": "paklap_2b437f24",
+          "name": "Ninja Nvidia GeForce 4GB GT 730 128-Bit Graphic Card",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 24900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/d/o/download_80__1.jpg",
+          "url": "https://www.paklap.pk/ninja-nvidia-geforce-4gb-gt-730-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900
+          ]
+        },
+        {
+          "id": "paklap_842a569c",
+          "name": "EASE GeForce RTX 3050 6GB GDDR6 128-Bit Graphics Card",
+          "brand": "EASE",
+          "category": "gpu",
+          "price": 75900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/e/a/ease_geforce_rtx_3050_gddr6_128-bit_graphics_card_2.jpg",
+          "url": "https://www.paklap.pk/ease-geforce-rtx-3050-gddr6-128-bit-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900
+          ]
+        },
+        {
+          "id": "paklap_81761541",
+          "name": "MSI GeForce RTX 4060 Ti Gaming X Trio 8G (8GB GDDR6/PCI Express 4.0/2685MHz/18000MHz)",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 166900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/7/1/713uqznzghl._ac_sx679_.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4060-ti-gaming-x-trio-8g-8gb-gddr6-pci-express-4-0-2685mhz-18000mhz.html",
+          "history": [
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900
+          ]
+        },
+        {
+          "id": "paklap_a291d46d",
+          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 2x OC GDDR6X 256-Bit Graphics Card (White)",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 305900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_2x_oc_gddr6x_256-bit_graphics_card_white_.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-2x-oc-256-bit-graphic-card-white-price-reviews-pakistan.html",
+          "history": [
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900
+          ]
+        },
+        {
+          "id": "paklap_95010bc1",
+          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 3X OC GDDR6X 256-Bit Graphics Card",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 310900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_3x_oc_gddr6x_256-bit_graphics_card_1.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-3x-oc-256-bit-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900
+          ]
+        },
+        {
+          "id": "paklap_f39f7953",
+          "name": "PALIT NVIDIA GeForce 16GB RTX4080 Gaming Pro 256-Bit GDDR6X",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 372900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/p/a/palit_nvidia_geforce_16gb_rtx4080_gaming_pro_gddr6x.jpg",
+          "url": "https://www.paklap.pk/palit-nvidia-geforce-16gb-rtx-4080-gaming-pro-256-bit-gddr6x-price-reviews-pakistan.html",
+          "history": [
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900
+          ]
+        }
+      ]
     },
     {
       "id": "sigma",
