@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T01:10:26.455762+00:00",
+  "lastUpdated": "2026-08-20T06:43:04.236613+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,36 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_d590195d",
+          "name": "ViewSonic VX2532 - 320Hz 1080p FHD IPS 25\" Gaming Monitor",
+          "brand": "ViewSonic",
+          "category": "monitor",
+          "price": 53990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2532-price-in-pakistan-pakbyte_1.webp?v=1787207331",
+          "url": "https://www.pakbyte.pk/products/viewsonic-vx2532-320hz-1080p-fhd-ips-25-gaming-monitor",
+          "history": [
+            53990
+          ]
+        },
+        {
+          "id": "pakbyte_684e9071",
+          "name": "ViewSonic VX24G30-W 24\" 240Hz FHD Omni Gaming Monitor",
+          "brand": "ViewSonic",
+          "category": "monitor",
+          "price": 41990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx24g30-w-price-in-pakistan-pakbyte_1.webp?v=1787206865",
+          "url": "https://www.pakbyte.pk/products/viewsonic-vx24g30-w-24-240hz-fhd-omni-gaming-monitor",
+          "history": [
+            41990
+          ]
+        },
         {
           "id": "pakbyte_cb786702",
           "name": "ViewSonic VA27G1-H 27\" 144Hz FHD Gaming Monitor",
@@ -20,6 +50,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va27g1-h-price-in-pakistan-pakbyte_1.webp?v=1787121379",
           "url": "https://www.pakbyte.pk/products/viewsonic-va27g1-h-27-144hz-fhd-gaming-monitor",
           "history": [
+            35990,
             35990,
             35990,
             35990,
@@ -41,6 +72,7 @@
             29990,
             29990,
             29990,
+            29990,
             29990
           ]
         },
@@ -59,6 +91,7 @@
             158990,
             158990,
             158990,
+            158990,
             158990
           ]
         },
@@ -74,6 +107,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-cu34g4h-price-in-pakistan-pakbyte_1.webp?v=1787037460",
           "url": "https://www.pakbyte.pk/products/aoc-cu34g4h-34-inch-curved-gaming-monitor",
           "history": [
+            95990,
             95990,
             95990,
             95990,
@@ -101,6 +135,7 @@
             44990,
             44990,
             44990,
+            44990,
             44990
           ]
         },
@@ -122,6 +157,7 @@
             37990,
             37990,
             37990,
+            37990,
             37990
           ]
         },
@@ -137,6 +173,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50f-price-in-pakistan-pakbyte_1.webp?v=1787034791",
           "url": "https://www.pakbyte.pk/products/aoc-24g50f-23-8-180hz-fhd-gaming-monitor",
           "history": [
+            31990,
             31990,
             31990,
             31990,
@@ -8056,9 +8093,9 @@
           "name": "ATK Dragonfly A9 Pro Max 2.0 Gaming Mouse - Black",
           "brand": "ATK",
           "category": "mouse",
-          "price": 16499,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 14990,
+          "oldPrice": 16499,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Dragonfly-A9-Pro-Max-Gaming-Mouse-Price-in-Pakistan-Pakbyte.webp?v=1780580091",
           "url": "https://www.pakbyte.pk/products/atk-dragonfly-a9-pro-max-2-0-gaming-mouse-black",
@@ -8074,7 +8111,7 @@
             16499,
             16499,
             16499,
-            16499
+            14990
           ]
         },
         {
@@ -9605,7 +9642,7 @@
             40990,
             40990,
             40990,
-            40990,
+            37990,
             37990,
             37990,
             37990
@@ -9631,7 +9668,7 @@
             88990,
             88990,
             88990,
-            88990,
+            85990,
             85990,
             85990,
             85990
@@ -11190,7 +11227,7 @@
             299990,
             299990,
             299990,
-            299990,
+            284990,
             284990,
             284990,
             284990,
@@ -11216,7 +11253,7 @@
             243990,
             243990,
             243990,
-            243990,
+            253990,
             253990,
             253990,
             253990,
@@ -11242,7 +11279,7 @@
             162990,
             162990,
             162990,
-            162990,
+            161990,
             161990,
             161990,
             161990,
@@ -11265,7 +11302,7 @@
             63990,
             63990,
             63990,
-            63990,
+            61990,
             61990,
             61990,
             61990,
@@ -11291,7 +11328,7 @@
             66990,
             66990,
             66990,
-            66990,
+            64990,
             64990,
             64990,
             64990,
@@ -16751,7 +16788,7 @@
             106990,
             106990,
             106990,
-            106990,
+            101990,
             101990,
             101990,
             101990,
@@ -16802,7 +16839,7 @@
             72990,
             72990,
             72990,
-            72990,
+            68990,
             68990,
             68990,
             68990,
@@ -16828,7 +16865,7 @@
             43990,
             43990,
             43990,
-            43990,
+            37990,
             37990,
             37990,
             37990,
@@ -16854,7 +16891,7 @@
             33990,
             33990,
             33990,
-            33990,
+            27990,
             27990,
             27990,
             27990,
@@ -25019,7 +25056,7 @@
             72990,
             72990,
             72990,
-            72990,
+            58990,
             58990,
             58990,
             58990,
@@ -25044,7 +25081,7 @@
             37990,
             37990,
             37990,
-            37990,
+            33990,
             33990,
             33990,
             33990,
@@ -27622,7 +27659,7 @@
             29890,
             29890,
             29890,
-            29890,
+            27990,
             27990,
             27990,
             27990,
@@ -30297,7 +30334,7 @@
             98800,
             98800,
             98800,
-            98800,
+            88990,
             88990,
             88990,
             88990,
@@ -30323,7 +30360,7 @@
             62990,
             62990,
             62990,
-            62990,
+            58990,
             58990,
             58990,
             58990,
@@ -30349,7 +30386,7 @@
             44990,
             44990,
             44990,
-            44990,
+            41990,
             41990,
             41990,
             41990,
@@ -30375,7 +30412,7 @@
             72990,
             72990,
             72990,
-            72990,
+            65990,
             65990,
             65990,
             65990,
@@ -32798,7 +32835,7 @@
             53790,
             53790,
             53790,
-            53790,
+            54999,
             54999,
             54999
           ]
@@ -33231,7 +33268,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K617-FIZZ-WG-RGB-Wired-Gaming-Keyboard-price-in-pakistan-pakbyte_3.webp?v=1765824898",
           "url": "https://www.pakbyte.pk/products/redragon-fizz-k617-60-rgb-mechanical-keyboard-with-red-switches-white-gray",
           "history": [
-            6190,
+            6999,
             6999,
             6999,
             6999,
@@ -36567,7 +36604,7 @@
             68990,
             68990,
             68990,
-            68990,
+            64990,
             64990,
             64990,
             64990
@@ -36593,7 +36630,7 @@
             52990,
             52990,
             52990,
-            52990,
+            46990,
             46990,
             46990,
             46990
@@ -36618,7 +36655,7 @@
             32990,
             32990,
             32990,
-            32990,
+            28990,
             28990,
             28990,
             28990,
@@ -48762,7 +48799,7 @@
             49999,
             49999,
             49999,
-            49999,
+            53999,
             53999,
             53999
           ]
@@ -54220,7 +54257,7 @@
             36990,
             36990,
             36990,
-            36990,
+            33990,
             33990,
             33990,
             33990,
@@ -54247,7 +54284,7 @@
             40990,
             40990,
             40990,
-            40990,
+            36990,
             36990,
             36990,
             36990
@@ -54269,7 +54306,7 @@
             59990,
             59990,
             59990,
-            59990,
+            56990,
             56990,
             56990,
             56990,
@@ -59573,7 +59610,7 @@
             59990,
             59990,
             59990,
-            59990,
+            58990,
             58990,
             58990,
             58990,
@@ -59588,9 +59625,9 @@
           "name": "ATK VXE Dragonfly R1 Pro Wireless Gaming Mouse - Black",
           "brand": "ATK",
           "category": "mouse",
-          "price": 11990,
+          "price": 13490,
           "oldPrice": 14990,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-Pro-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167571152963.jpg?v=1753670531",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-pro-wireless-gaming-mouse-black",
@@ -59606,7 +59643,7 @@
             11990,
             11990,
             11990,
-            11990
+            13490
           ]
         },
         {
@@ -59614,9 +59651,9 @@
           "name": "ATK VXE Dragonfly R1 Pro Wireless Gaming Mouse - White",
           "brand": "ATK",
           "category": "mouse",
-          "price": 14490,
+          "price": 13490,
           "oldPrice": 14990,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-Pro-Wireless-Gaming-Mouse-White-PakByte-Computers-26167570759747.jpg?v=1753670543",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-pro-wireless-gaming-mouse-white",
@@ -59632,7 +59669,7 @@
             14490,
             14490,
             14490,
-            14490
+            13490
           ]
         },
         {
@@ -59692,8 +59729,8 @@
           "name": "ATK VXE Dragonfly R1 SE+ Wireless Gaming Mouse - Black",
           "brand": "ATK",
           "category": "mouse",
-          "price": 8599,
-          "oldPrice": null,
+          "price": 7490,
+          "oldPrice": 8599,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-SE-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167567810627.jpg?v=1753670555",
@@ -59710,7 +59747,7 @@
             8599,
             8599,
             8599,
-            8599
+            7490
           ]
         },
         {
@@ -59718,8 +59755,8 @@
           "name": "ATK VXE Dragonfly R1 SE+ Wireless Gaming Mouse - White",
           "brand": "ATK",
           "category": "mouse",
-          "price": 8490,
-          "oldPrice": null,
+          "price": 7490,
+          "oldPrice": 8490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-SE-White-Wireless-Gaming-Mouse-PakByte-Computers-26167566204995.jpg?v=1753670555",
@@ -59736,7 +59773,7 @@
             8490,
             8490,
             8490,
-            8490
+            7490
           ]
         },
         {
@@ -63504,7 +63541,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5899,
             5899,
             5899
           ]
@@ -71608,7 +71645,7 @@
           "url": "https://www.pakbyte.pk/products/logitech-pop-icon-keys-compact-wireless-keyboard-920-013084-off-white-orange",
           "history": [
             10390,
-            10390,
+            10999,
             10999,
             10999,
             10999,
@@ -85780,7 +85817,7 @@
             24990,
             24990,
             24990,
-            24990,
+            23490,
             23490,
             23490,
             23490,
@@ -86327,7 +86364,7 @@
             49990,
             49990,
             49990,
-            49990,
+            48990,
             48990,
             48990,
             48990,
@@ -90906,7 +90943,7 @@
             80990,
             80990,
             80990,
-            80990,
+            81990,
             81990,
             81990,
             81990,
@@ -110347,7 +110384,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G413-SE-Mechanical-Gaming-Keyboard-920-010439-PakByte-Computers-24397667172419.webp?v=1753680366",
           "url": "https://www.pakbyte.pk/products/logitech-g413-se-keyboard-black",
           "history": [
-            15190,
+            15499,
             15499,
             15499,
             15499,
@@ -111495,7 +111532,7 @@
             92990,
             92990,
             92990,
-            92990,
+            91990,
             91990,
             91990,
             91990,
@@ -111572,7 +111609,7 @@
             25990,
             25990,
             25990,
-            25990,
+            23990,
             23990,
             23990,
             23990,
@@ -114433,7 +114470,7 @@
             125990,
             125990,
             125990,
-            125990,
+            124990,
             124990,
             124990,
             124990,
@@ -116048,7 +116085,7 @@
             81990,
             81990,
             81990,
-            81990,
+            78990,
             78990,
             78990,
             78990,
@@ -120650,7 +120687,7 @@
             86990,
             86990,
             86990,
-            86990,
+            85990,
             85990,
             85990,
             85990,
@@ -120672,7 +120709,7 @@
             77990,
             77990,
             77990,
-            77990,
+            68990,
             68990,
             68990,
             68990,
@@ -120777,7 +120814,7 @@
             324990,
             324990,
             324990,
-            324990,
+            319990,
             319990,
             319990,
             319990,
@@ -127696,7 +127733,7 @@
             76990,
             76990,
             76990,
-            76990,
+            75990,
             75990,
             75990,
             75990,
@@ -129206,7 +129243,7 @@
             34690,
             34690,
             34690,
-            34690,
+            36999,
             36999,
             36999
           ]
@@ -129457,7 +129494,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Transcend-StoreJet-25M3-1TB-USB-3-0-Portable-Hard-Drive-TS1TSJ25M3S-Iron-Gray-Slim-PakByte-Computers-24396979273795.jpg?v=1753684312",
           "url": "https://www.pakbyte.pk/products/transcend-storejet-25m3-1tb-usb-3-0-portable-hard-drive-ts1tsj25m3s-iron-gray-slim",
           "history": [
-            25490,
+            33999,
             33999,
             33999,
             33999,
@@ -145238,6 +145275,7 @@
           "url": "https://zahcomputers.pk/product/attack-shark-x85pro-tri-mode-gasket-mechanical-keyboard-moonlight-blueberry-switch",
           "history": [
             1550000,
+            1550000,
             1550000
           ]
         },
@@ -145254,6 +145292,7 @@
           "url": "https://zahcomputers.pk/product/amd-ryzen-5-5500x3d-6-core-12-thread-desktop-processor-tray",
           "history": [
             5600000,
+            5600000,
             5600000
           ]
         },
@@ -145269,6 +145308,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/HP-EliteBook-640-G10-13th-Gen-Core-i7.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-640-g10-13th-gen-core-i5-1345u-processor-16-gb-256-gb-ssd-intel-iris-xe-graphics-14-full-hd-1080p-ips-narrow-bezel-ag-display-backlit-kb-fp-reader-dos-used",
           "history": [
+            10500000,
             10500000,
             10500000,
             10500000,
@@ -147145,7 +147185,7 @@
             7200000,
             7200000,
             7200000,
-            7200000,
+            7500000,
             7500000,
             7500000
           ]
@@ -148697,7 +148737,7 @@
           "url": "https://zahcomputers.pk/product/enovo-ln950-4tb-m-2-nvme-pcie-gen4-x4-internal-ssd",
           "history": [
             10200000,
-            10200000,
+            11000000,
             11000000,
             11000000,
             11000000,
@@ -149372,6 +149412,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Hp-Elitebook-840-G8-Core-i7-11th-Gen-16GB-Ram-256GB-SSD-14.1-FHD-Display-Backlit-Keyboard-Fingerprint-Face-Recognition-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-840-g9-14-wuxga-ips-display-intel-core-i7-1265u-12th-gen-16gb-ddr5-ram-512gb-nvme-ssd-used",
           "history": [
+            13000000,
             13000000,
             13000000,
             13000000,
@@ -155118,6 +155159,7 @@
           "url": "https://zahcomputers.pk/product/dell-latitude-5430-intel-core-i5-12th-gen-8gb-256gb-ssd-14-fhd-backlit-kb-fingerprint-reader-win11-black",
           "history": [
             7500000,
+            7500000,
             7500000
           ]
         },
@@ -155219,7 +155261,7 @@
             46000000,
             46000000,
             46000000,
-            46000000,
+            47000000,
             47000000,
             47000000,
             47000000
@@ -155245,7 +155287,7 @@
             39099900,
             39099900,
             39099900,
-            39099900,
+            42000000,
             42000000,
             42000000,
             42000000
@@ -155271,7 +155313,7 @@
             39399900,
             39399900,
             39399900,
-            39399900,
+            42000000,
             42000000,
             42000000,
             42000000
@@ -155297,7 +155339,7 @@
             39099900,
             39099900,
             39099900,
-            39099900,
+            41000000,
             41000000,
             41000000,
             41000000
@@ -158677,7 +158719,7 @@
             42500000,
             42500000,
             42500000,
-            42500000,
+            47000000,
             47000000,
             47000000,
             47000000
@@ -158703,7 +158745,7 @@
             39099900,
             39099900,
             39099900,
-            39099900,
+            42000000,
             42000000,
             42000000,
             42000000
@@ -160259,7 +160301,7 @@
             395000,
             395000,
             395000,
-            395000,
+            355000,
             355000,
             355000,
             355000,
@@ -160311,7 +160353,7 @@
             395000,
             395000,
             395000,
-            395000,
+            365000,
             365000,
             365000,
             365000,
@@ -160337,7 +160379,7 @@
             199900,
             199900,
             199900,
-            199900,
+            186000,
             186000,
             186000,
             186000,
@@ -160389,7 +160431,7 @@
             170000,
             170000,
             170000,
-            170000,
+            175000,
             175000,
             175000,
             175000,
@@ -160415,7 +160457,7 @@
             319900,
             319900,
             319900,
-            319900,
+            299900,
             299900,
             299900,
             299900,
@@ -160441,7 +160483,7 @@
             319900,
             319900,
             319900,
-            319900,
+            296000,
             296000,
             296000,
             296000,
@@ -160467,7 +160509,7 @@
             219900,
             219900,
             219900,
-            219900,
+            205000,
             205000,
             205000,
             205000,
@@ -160493,7 +160535,7 @@
             229900,
             229900,
             229900,
-            229900,
+            215000,
             215000,
             215000,
             215000,
@@ -160519,7 +160561,7 @@
             265000,
             265000,
             265000,
-            265000,
+            250000,
             250000,
             250000,
             250000,
@@ -160545,7 +160587,7 @@
             229900,
             229900,
             229900,
-            229900,
+            215000,
             215000,
             215000,
             215000,
@@ -160571,7 +160613,7 @@
             259900,
             259900,
             259900,
-            259900,
+            249900,
             249900,
             249900,
             249900,
@@ -160597,7 +160639,7 @@
             259900,
             259900,
             259900,
-            259900,
+            249900,
             249900,
             249900,
             249900,
@@ -160623,7 +160665,7 @@
             199900,
             199900,
             199900,
-            199900,
+            185000,
             185000,
             185000,
             185000,
@@ -160649,7 +160691,7 @@
             199900,
             199900,
             199900,
-            199900,
+            185000,
             185000,
             185000,
             185000,
@@ -160675,7 +160717,7 @@
             209900,
             209900,
             209900,
-            209900,
+            195000,
             195000,
             195000,
             195000,
@@ -160727,7 +160769,7 @@
             175000,
             175000,
             175000,
-            175000,
+            166000,
             166000,
             166000,
             166000,
@@ -160779,7 +160821,7 @@
             170000,
             170000,
             170000,
-            170000,
+            159000,
             159000,
             159000,
             159000,
@@ -160805,7 +160847,7 @@
             105000,
             105000,
             105000,
-            105000,
+            96000,
             96000,
             96000,
             96000,
@@ -162361,7 +162403,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-V30L-2.4G-WirelessWired-Dual-Mode-E-Sports-Gaming-Mouse-79g-Lightweight-400-12000DPI-Adjustable-PAW-3311-Sensor-10-Button-Programmable-Rechargable-160h-Play-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/rapoo-v30l-2-4g-wireless-wired-dual-mode-e-sports-gaming-mouse-79g-lightweight-400-12000dpi-adjustable-paw-3311-sensor-10-button-programmable-rechargable-160h-play",
           "history": [
-            599500,
+            749900,
             749900,
             749900,
             749900,
@@ -168506,7 +168548,7 @@
             1790000,
             1790000,
             1790000,
-            1790000,
+            2099900,
             2099900,
             2099900
           ]
@@ -170369,7 +170411,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/WD-My-Passport-2TB-External-USB-3.0-Portable-Hard-Drive-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/wd-my-passport-5tb-external-usb-3-0-portable-hard-drive-black",
           "history": [
-            4500000,
+            5200000,
             5200000,
             5200000,
             5200000,
@@ -173030,7 +173072,7 @@
             16499900,
             16499900,
             16499900,
-            16499900,
+            17500000,
             17500000,
             17500000
           ]
@@ -190624,7 +190666,7 @@
           "url": "https://zahcomputers.pk/product/samsung-1tb-9100-pro-pcie-5-0-m-2-internal-ssd",
           "history": [
             7500000,
-            7500000,
+            7300000,
             7300000,
             7300000,
             7300000,
@@ -191741,6 +191783,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/12/MSI-MAG-MAG-X870E-TOMAHAWK-WIFI-AM5-AMD-X870E-SATA-6Gbs-M.2-DDR5-Wi-Fi-7-5G-LAN-ATX-Motherboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-mag-mag-x870e-tomahawk-wifi-am5-amd-x870e-sata-6gb-s-m-2-ddr5-wi-fi-7-5g-lan-atx-motherboard",
           "history": [
+            12500000,
             12500000,
             12500000
           ]
@@ -201771,7 +201814,7 @@
             199900,
             199900,
             199900,
-            199900,
+            185000,
             185000,
             185000,
             185000,
@@ -201823,7 +201866,7 @@
             399900,
             399900,
             399900,
-            399900,
+            350000,
             350000,
             350000,
             350000,
@@ -202633,7 +202676,7 @@
             9200000,
             9200000,
             9200000,
-            9200000,
+            8700000,
             8700000,
             8700000,
             8700000
@@ -206430,7 +206473,7 @@
             1249900,
             1249900,
             1249900,
-            1249900,
+            1299900,
             1299900,
             1299900
           ]
@@ -207985,7 +208028,7 @@
             199900,
             199900,
             199900,
-            199900,
+            159000,
             159000,
             159000,
             159000,
@@ -208037,7 +208080,7 @@
             199900,
             199900,
             199900,
-            199900,
+            159000,
             159000,
             159000,
             159000,
@@ -208453,7 +208496,7 @@
             249900,
             249900,
             249900,
-            249900,
+            220000,
             220000,
             220000,
             220000,
@@ -208505,7 +208548,7 @@
             289900,
             289900,
             289900,
-            289900,
+            275000,
             275000,
             275000,
             275000,
@@ -208531,7 +208574,7 @@
             229900,
             229900,
             229900,
-            229900,
+            215000,
             215000,
             215000,
             215000,
@@ -208557,7 +208600,7 @@
             209900,
             209900,
             209900,
-            209900,
+            195000,
             195000,
             195000,
             195000,
@@ -208583,7 +208626,7 @@
             209900,
             209900,
             209900,
-            209900,
+            195000,
             195000,
             195000,
             195000,
@@ -208609,7 +208652,7 @@
             259900,
             259900,
             259900,
-            259900,
+            249900,
             249900,
             249900,
             249900,
@@ -208791,7 +208834,7 @@
             179900,
             179900,
             179900,
-            179900,
+            166000,
             166000,
             166000,
             166000,
@@ -208817,7 +208860,7 @@
             195000,
             195000,
             195000,
-            195000,
+            185000,
             185000,
             185000,
             185000,
@@ -208869,7 +208912,7 @@
             219900,
             219900,
             219900,
-            219900,
+            205000,
             205000,
             205000,
             205000,
@@ -208921,7 +208964,7 @@
             319900,
             319900,
             319900,
-            319900,
+            296000,
             296000,
             296000,
             296000,
@@ -208973,7 +209016,7 @@
             319900,
             319900,
             319900,
-            319900,
+            306000,
             306000,
             306000,
             306000,
@@ -209233,7 +209276,7 @@
             599900,
             599900,
             599900,
-            599900,
+            615000,
             615000,
             615000,
             615000,
@@ -209649,7 +209692,7 @@
             419900,
             419900,
             419900,
-            419900,
+            395000,
             395000,
             395000,
             395000,
@@ -209701,7 +209744,7 @@
             419900,
             419900,
             419900,
-            419900,
+            355000,
             355000,
             355000,
             355000,
@@ -209727,7 +209770,7 @@
             649900,
             649900,
             649900,
-            649900,
+            610000,
             610000,
             610000,
             610000,
@@ -209753,7 +209796,7 @@
             649900,
             649900,
             649900,
-            649900,
+            610000,
             610000,
             610000,
             610000,
@@ -209779,7 +209822,7 @@
             379900,
             379900,
             379900,
-            379900,
+            365000,
             365000,
             365000,
             365000,
@@ -209805,7 +209848,7 @@
             425000,
             425000,
             425000,
-            425000,
+            406000,
             406000,
             406000,
             406000,
@@ -219664,7 +219707,7 @@
             12999900,
             12999900,
             12999900,
-            12999900,
+            13200000,
             13200000,
             13200000
           ]
@@ -274203,6 +274246,7 @@
           "url": "https://rbtechngames.com/product/lenovo-legion-pro-7i-16iax10h-2025-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5080-16-qhd-240hz-oled-display-eclipse-black-new",
           "history": [
             1024999,
+            1024999,
             1024999
           ]
         },
@@ -274219,6 +274263,7 @@
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp10-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-6-fhd-144hz-ips-display-luna-grey-used",
           "history": [
             364999,
+            364999,
             364999
           ]
         },
@@ -274234,6 +274279,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_asus_tuf_f16_2025.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-f16-2026-intel-core-i7-14th-gen-16gb-ram-512gb-ssd-rtx-5060-16-qhd-165hz-ips-display-jaeger-gray-new",
           "history": [
+            439999,
             439999
           ]
         },
@@ -274250,6 +274296,7 @@
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g14-ga402xv-amd-ryzen-9-7940hs-16gb-ram-512gb-ssd-rtx-4060-14-qhd-165hz-ips-display-moonlight-white-used",
           "history": [
             324999,
+            324999,
             324999
           ]
         },
@@ -274265,6 +274312,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_logitech_mk250_graphite.webp",
           "url": "https://rbtechngames.com/product/logitech-mk250-compact-bluetooth-wireless-keyboard-mouse-combo-graphite-off-white-rose",
           "history": [
+            5999,
             5999,
             5999
           ]
@@ -274285,6 +274333,7 @@
             7499,
             7499,
             7499,
+            7499,
             7499
           ]
         },
@@ -274301,6 +274350,7 @@
           "url": "https://rbtechngames.com/product/logitech-mx-anywhere-2s-wireless-mouse-graphite",
           "history": [
             15499,
+            15499,
             15499
           ]
         },
@@ -274316,6 +274366,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_logitech_signature_m650_l_graphite.webp",
           "url": "https://rbtechngames.com/product/logitech-signature-m650-l-wireless-mouse-graphite-off-white-red-blue-black",
           "history": [
+            7399,
             7399,
             7399,
             7399,
@@ -274339,6 +274390,7 @@
             6699,
             6699,
             6699,
+            6699,
             6699
           ]
         },
@@ -274354,6 +274406,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_logitech_pebble_mouse_2_350s_black.webp",
           "url": "https://rbtechngames.com/product/logitech-pebble-mouse-2-m350s-bluetooth-mouse-black-tonal-white-tonal-graphite-tonal-rose",
           "history": [
+            5349,
             5349,
             5349,
             5349,
@@ -274377,6 +274430,7 @@
             3049,
             3049,
             3049,
+            3049,
             3049
           ]
         },
@@ -274396,6 +274450,7 @@
             2449,
             2449,
             2449,
+            2449,
             2449
           ]
         },
@@ -274411,6 +274466,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/10/image_2021-10-04_154104-2.png",
           "url": "https://rbtechngames.com/product/amd-ryzen-5-5600x-processor-tray-used",
           "history": [
+            30000,
             30000,
             30000,
             30000,
@@ -274629,32 +274685,6 @@
             89999,
             89999,
             89999
-          ]
-        },
-        {
-          "id": "rbtechgames_6a2e4c8c",
-          "name": "Asus TUF Gaming GeForce RTX 5070 Ti 16GB White OC Graphics Card",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 379999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_asus_tuf_gaming_rtx_5070_ti_16gb_oc_white.webp",
-          "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-rtx-5070-ti-16gb-white-oc-graphics-card",
-          "history": [
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            374999,
-            379999,
-            379999,
-            379999
           ]
         },
         {
@@ -274877,6 +274907,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/asus_tuf_gaming_f16_2.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-f16-intel-core-i5-14th-gen-16gb-ram-512gb-ssd-rtx-5050-15-6-fhd-165hz-ips-display-jaeger-gray-new",
           "history": [
+            369999,
             369999
           ]
         },
@@ -275472,7 +275503,7 @@
             87999,
             87999,
             87999,
-            87999,
+            89999,
             89999,
             89999,
             89999
@@ -275978,7 +276009,7 @@
           "brand": "Intel",
           "category": "gpu",
           "price": 474999,
-          "oldPrice": 464999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_legion_5_15ahp10.webp",
@@ -275994,7 +276025,7 @@
             464999,
             464999,
             464999,
-            464999,
+            474999,
             474999
           ]
         },
@@ -276046,7 +276077,7 @@
             279999,
             279999,
             279999,
-            279999,
+            284999,
             284999
           ]
         },
@@ -276160,7 +276191,7 @@
           "brand": "AMD",
           "category": "gpu",
           "price": 494999,
-          "oldPrice": 484999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_legion_5_15ahp10.webp",
@@ -276176,7 +276207,7 @@
             484999,
             484999,
             484999,
-            484999,
+            494999,
             494999
           ]
         },
@@ -276186,7 +276217,7 @@
           "brand": "AMD",
           "category": "gpu",
           "price": 449999,
-          "oldPrice": 434999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_legion_5_15ahp10.webp",
@@ -276202,7 +276233,7 @@
             434999,
             434999,
             434999,
-            434999,
+            449999,
             449999
           ]
         },
@@ -277415,7 +277446,7 @@
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp10-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-6-fhd-144hz-ips-display-luna-grey-new",
           "history": [
             385000,
-            385000,
+            384999,
             384999,
             384999,
             384999,
@@ -277734,7 +277765,7 @@
             234999,
             234999,
             234999,
-            234999,
+            239999,
             239999,
             239999,
             239999
@@ -277760,7 +277791,7 @@
             214999,
             214999,
             214999,
-            214999,
+            229999,
             229999,
             229999,
             229999
@@ -277786,7 +277817,7 @@
             244999,
             244999,
             244999,
-            244999,
+            249999,
             249999,
             249999,
             249999
@@ -278255,7 +278286,7 @@
             134999,
             134999,
             134999,
-            134999,
+            144999,
             144999,
             144999
           ]
@@ -278276,11 +278307,11 @@
             154999,
             154999,
             154999,
-            154999,
             164999,
             164999,
             164999,
             164999,
+            169999,
             169999,
             169999,
             169999
@@ -278455,7 +278486,6 @@
           "url": "https://rbtechngames.com/product/patriot-viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram",
           "history": [
             134999,
-            134999,
             144999,
             144999,
             144999,
@@ -278463,6 +278493,7 @@
             144999,
             144999,
             144999,
+            148499,
             148499,
             148499,
             148499
@@ -278533,7 +278564,6 @@
           "url": "https://rbtechngames.com/product/xpg-lancer-blade-rgb-32gb-ddr5-6000mhz-cl36-2x16gb-desktop-memory",
           "history": [
             134999,
-            134999,
             144999,
             144999,
             144999,
@@ -278541,6 +278571,7 @@
             144999,
             144999,
             144999,
+            148499,
             148499,
             148499,
             148499
@@ -278618,7 +278649,7 @@
             399999,
             399999,
             399999,
-            399999,
+            414999,
             414999,
             414999,
             414999
@@ -278644,7 +278675,7 @@
             314999,
             314999,
             314999,
-            314999,
+            319999,
             319999,
             319999,
             319999
@@ -278663,7 +278694,7 @@
           "url": "https://rbtechngames.com/product/adata-legend-860-m-2-2280-pcie-gen-4x4-nvme-ssd-500gb-1tb-2tb",
           "history": [
             38499,
-            38499,
+            40499,
             40499,
             40499,
             40499,
@@ -278696,7 +278727,7 @@
             364999,
             364999,
             364999,
-            364999,
+            369999,
             369999,
             369999,
             369999
@@ -278714,6 +278745,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_msi_b760m_project_zero.png",
           "url": "https://rbtechngames.com/product/msi-b760m-project-zero-atx-lga1700-ddr5-gaming-motherboard",
           "history": [
+            54999,
             54999,
             54999
           ]
@@ -279128,7 +279160,7 @@
             1489999,
             1489999,
             1489999,
-            1489999,
+            1499999,
             1499999,
             1499999,
             1499999
@@ -279232,7 +279264,7 @@
             374999,
             374999,
             374999,
-            374999,
+            379999,
             379999,
             379999,
             379999
@@ -279466,7 +279498,7 @@
             244999,
             244999,
             244999,
-            244999,
+            249999,
             249999,
             249999,
             249999
@@ -279518,7 +279550,7 @@
             244999,
             244999,
             244999,
-            244999,
+            254999,
             254999,
             254999,
             254999
@@ -280997,6 +281029,7 @@
             8499,
             8499,
             8499,
+            8499,
             8499
           ]
         },
@@ -281012,6 +281045,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_logitech_mk275.jpg",
           "url": "https://rbtechngames.com/product/logitech-mk275-wireless-keyboard-and-mouse-combo",
           "history": [
+            6600,
             6600,
             6600,
             6600,
@@ -281040,7 +281074,7 @@
             47499,
             47499,
             47499,
-            47499,
+            49999,
             49999,
             49999,
             49999
@@ -281144,7 +281178,7 @@
             52499,
             52499,
             52499,
-            52499,
+            54999,
             54999,
             54999,
             54999
@@ -281292,6 +281326,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/10/rbtech_asus_prime_B760M-K_D5.png",
           "url": "https://rbtechngames.com/product/asus-prime-b760m-k-ddr5-atx-motherboard",
           "history": [
+            29499,
             29499,
             29499
           ]
@@ -282193,6 +282228,7 @@
           "url": "https://rbtechngames.com/product/logitech-k120-usb-keyboard",
           "history": [
             2249,
+            2249,
             2249
           ]
         },
@@ -282208,6 +282244,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2020/12/logitech-m235.png",
           "url": "https://rbtechngames.com/product/m235-wireless-mouse-colt-glossy",
           "history": [
+            3599,
             3599,
             3599,
             3599,
@@ -282233,6 +282270,7 @@
             3800,
             3800,
             3800,
+            3800,
             3800
           ]
         },
@@ -282248,6 +282286,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2020/12/logitech-m185-swift-grey.jpg",
           "url": "https://rbtechngames.com/product/logitech-wireless-mouse-m185-swift-gray",
           "history": [
+            3300,
             3300,
             3300,
             3300,
@@ -282269,6 +282308,7 @@
           "url": "https://rbtechngames.com/product/logitech-m171-wireless-mouse-grey-black",
           "history": [
             3300,
+            3300,
             3300
           ]
         },
@@ -282284,6 +282324,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2020/12/logitech-m90.jpg",
           "url": "https://rbtechngames.com/product/logitech-m90-wired-mouse-usb-black",
           "history": [
+            1399,
             1399,
             1399,
             1399,
