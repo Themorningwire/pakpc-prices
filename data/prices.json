@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T12:48:05.366752+00:00",
+  "lastUpdated": "2026-08-24T18:38:26.209017+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-in7504v-interactive-display-price-in-pakistan-pakbyte_1.webp?v=1787565147",
           "url": "https://www.pakbyte.pk/products/viewsonic-in7504v-c-viewboard-75-google-certified-edla-interactive-display",
           "history": [
+            559990,
             559990
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-a9-mini-ultimate-price-in-pakistan-pakbyte.webp?v=1787558310",
           "url": "https://www.pakbyte.pk/products/atk-blazing-a9-mini-ultimate-wireless-gaming-mouse-lake-green",
           "history": [
+            21990,
             21990
           ]
         },
@@ -50,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-f1-v3-ultimate-price-in-pakistan-pakbyte_1.webp?v=1787556676",
           "url": "https://www.pakbyte.pk/products/atk-blazing-sky-f1-v3-series-esports-wireless-mouse-pearl-blue",
           "history": [
+            21990,
             21990
           ]
         },
@@ -65,6 +68,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kz-m2-usb-c-price-in-pakistan-pakbyte_1.webp?v=1787383575",
           "url": "https://www.pakbyte.pk/products/kz-m2-dual-mic-silver-plated-type-c-earphone",
           "history": [
+            4490,
             4490,
             4490,
             4490,
@@ -2792,6 +2796,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-l30pro-price-in-pakistan-pakbyte_5.webp?v=1784301780",
           "url": "https://www.pakbyte.pk/products/attack-shark-l30pro-wireless-gaming-headset-black-red",
           "history": [
+            11990,
             11990
           ]
         },
@@ -2807,6 +2812,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-l30pro-price-in-pakistan-pakbyte_1.webp?v=1784301498",
           "url": "https://www.pakbyte.pk/products/attack-shark-l30pro-wireless-gaming-headset-white",
           "history": [
+            11990,
             11990
           ]
         },
@@ -3272,6 +3278,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -3287,6 +3294,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x820-ultra-black-gradient-price-in-pakistan-pakbyte_1.webp?v=1784270536",
           "url": "https://www.pakbyte.pk/products/attack-shark-x820ultra-wireless-mechanical-keyboard-moon-night-shark-switch",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -3312,7 +3320,7 @@
           "history": [
             15990,
             15990,
-            15990,
+            19499,
             19499,
             19499,
             19499,
@@ -3388,6 +3396,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x820-ultra-white-keyboard-price-in-pakistan-pakbyte_1_6739c0b5-aaa0-4f98-bceb-2b77ab9f751b.webp?v=1784268841",
           "url": "https://www.pakbyte.pk/products/attack-shark-x820ultra-wireless-mechanical-keyboard-white-contour-shark-switches",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -3951,7 +3960,7 @@
           "brand": "ATK",
           "category": "mouse",
           "price": 20490,
-          "oldPrice": 21990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-sky-x1-v2-price-in-pakistan-pakbyte_1_a68962a4-6f04-4f95-a056-cff86ba1b68a.webp?v=1783930367",
@@ -3967,7 +3976,7 @@
             21990,
             21990,
             21990,
-            21990,
+            20490,
             20490
           ]
         },
@@ -10615,7 +10624,7 @@
           "history": [
             149990,
             149990,
-            149990,
+            173999,
             173999,
             173999,
             173999,
@@ -11335,7 +11344,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 689990,
-          "oldPrice": 729990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IN6505-C-Certified-EDLA-ViewBoard-65-4K-Interactive-Display-Price-in-Pakistan-Pakbyte_1.jpg?v=1777387335",
@@ -11351,7 +11360,7 @@
             729990,
             729990,
             729990,
-            729990,
+            689990,
             689990
           ]
         },
@@ -12669,7 +12678,7 @@
           "history": [
             4990,
             4990,
-            4990,
+            3990,
             3990,
             3990,
             3990,
@@ -16379,7 +16388,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 539990,
-          "oldPrice": 541990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewboard-IN7505-C-75-Google-certified-EDLA-interactive-display-price-in-pakistan-pakbyte.webp?v=1773513947",
@@ -16395,7 +16404,7 @@
             541990,
             541990,
             541990,
-            541990,
+            539990,
             539990
           ]
         },
@@ -16405,7 +16414,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 409990,
-          "oldPrice": 431990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewBoard-IN6505-C-65-Google-Certified-EDLA-Interactive-Display-PriceinPakistan-Pakbyte.webp?v=1773512778",
@@ -16421,7 +16430,7 @@
             431990,
             431990,
             431990,
-            431990,
+            409990,
             409990
           ]
         },
@@ -16821,7 +16830,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 379990,
-          "oldPrice": 411990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IFP6534-4K-Interactive-Display-Price-in-Pakistan-Pakbyte.webp?v=1773413416",
@@ -16837,7 +16846,7 @@
             411990,
             411990,
             411990,
-            411990,
+            379990,
             379990
           ]
         },
@@ -18354,9 +18363,9 @@
           "name": "Attack Shark X66 Wireless Mechanical Gaming Keyboard - Blackberry",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 11490,
-          "oldPrice": null,
-          "inStock": true,
+          "price": 12999,
+          "oldPrice": 11490,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x66-keyboard-gradient-pink-price-in-pakistan-pakbyte_1.webp?v=1772799413",
           "url": "https://www.pakbyte.pk/products/attack-shark-x66-wireless-mechanical-gaming-keyboard-blackberry",
@@ -18372,7 +18381,7 @@
             11490,
             11490,
             11490,
-            11490
+            12999
           ]
         },
         {
@@ -23997,7 +24006,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 12799,
-          "oldPrice": 8840,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-vt9-pro-4k-price-in-pakistan-pakbyte_1.webp?v=1770914512",
@@ -24013,7 +24022,7 @@
             8840,
             8840,
             8840,
-            8840,
+            12799,
             12799
           ]
         },
@@ -32785,7 +32794,7 @@
           "brand": "EASE",
           "category": "gpu",
           "price": 70999,
-          "oldPrice": 59800,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ease-rtx-3050-6gb-gpu-price-in-pakistan-pakbyte_1.jpg?v=1765908771",
@@ -32801,7 +32810,7 @@
             59800,
             59800,
             59800,
-            59800,
+            70999,
             70999
           ]
         },
@@ -36555,7 +36564,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 198990,
-          "oldPrice": 201990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE4314-2C-43-4K-Commercial-Display-with-Pro-AV-Integration-Price-in-Pakistan-Pakbyte_4.webp?v=1764755520",
@@ -36571,7 +36580,7 @@
             201990,
             201990,
             201990,
-            201990,
+            198990,
             198990
           ]
         },
@@ -36581,7 +36590,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 239990,
-          "oldPrice": 241990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE5514-2C-55-4K-Commercial-Display-with-Pro-AV-Integration-Price-in-Pakistan-Pakbyte_4.webp?v=1764755044",
@@ -36597,7 +36606,7 @@
             241990,
             241990,
             241990,
-            241990,
+            239990,
             239990
           ]
         },
@@ -36607,7 +36616,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 309990,
-          "oldPrice": 311990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE6514-2C-65-4K-Commercial-Display-with-Pro-AV-Integration_4.webp?v=1764754733",
@@ -36623,7 +36632,7 @@
             311990,
             311990,
             311990,
-            311990,
+            309990,
             309990
           ]
         },
@@ -36633,7 +36642,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 16990,
-          "oldPrice": 21190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VB-WIFI-USB-WIFI-MODULE-Price-in-Pakistan-Pakbyte_2.jpg?v=1764742770",
@@ -36649,7 +36658,7 @@
             21190,
             21190,
             21190,
-            21190,
+            16990,
             16990
           ]
         },
@@ -65397,7 +65406,7 @@
           "history": [
             98999,
             98999,
-            98999,
+            118999,
             118999,
             118999,
             118999,
@@ -103435,7 +103444,7 @@
           "history": [
             16190,
             16190,
-            16190,
+            18499,
             18499,
             18499,
             18499,
@@ -145421,6 +145430,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/WD-Purple-SATA-III-3.5-Internal-Surveillance-HDD-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/western-digital-4tb-purple-sata-iii-3-5-internal-surveillance-hdd",
           "history": [
+            3500000,
             3500000
           ]
         },
@@ -145437,6 +145447,7 @@
           "url": "https://zahcomputers.pk/product/hiksemi-hs-sodimm-s1-ddr5-laptop-ram",
           "history": [
             11000000,
+            11800000,
             11800000,
             11800000,
             11800000,
@@ -145467,6 +145478,7 @@
             36500000,
             36500000,
             36500000,
+            36500000,
             36500000
           ]
         },
@@ -145482,6 +145494,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/AMD-Ryzen-9-9950X3D2-Dual-Edition-16-Core-32-Thread-Desktop-Processor-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/amd-ryzen-9-9950x3d2-dual-edition-16-core-32-thread-desktop-processor",
           "history": [
+            32500000,
             32500000,
             32500000,
             32500000,
@@ -145664,7 +145677,7 @@
             5799900,
             5799900,
             5799900,
-            5799900,
+            5850000,
             5850000,
             5850000,
             5850000,
@@ -146462,7 +146475,7 @@
           "category": "cooler",
           "price": 1250000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-WARE-310-ARGB-Mid-Tower-Gaming-PC-Case-Black.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-ware-310-argb-mid-tower-gaming-pc-case-black",
@@ -146488,7 +146501,7 @@
           "category": "cooler",
           "price": 1300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-WARE-310-ARGB-Mid-Tower-Gaming-PC-Case-White.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-ware-310-argb-mid-tower-gaming-pc-case-white",
@@ -146540,7 +146553,7 @@
           "category": "cooler",
           "price": 1500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-WARE-510-ARGB-Mid-Tower-Gaming-PC-Case-White.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-ware-510-argb-mid-tower-gaming-pc-case-white",
@@ -146592,7 +146605,7 @@
           "category": "ram",
           "price": 1400000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-VIEW-500-ARGB-Micro-ATX-Gaming-PC-Case-White.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-view-500-argb-micro-atx-gaming-pc-case-white",
@@ -146644,7 +146657,7 @@
           "category": "cooler",
           "price": 1700000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ID-COOLING-VIEW-510-ARGB-ATX-Mid-Tower-PC-Case-White.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-view-510-argb-atx-mid-tower-pc-case-white",
@@ -148004,7 +148017,7 @@
             4450000,
             4450000,
             4450000,
-            4450000,
+            4650000,
             4650000,
             4650000,
             4650000,
@@ -151228,7 +151241,7 @@
             17000000,
             17000000,
             17000000,
-            17000000,
+            21000000,
             21000000,
             21000000,
             21000000,
@@ -155129,7 +155142,7 @@
             4850000,
             4850000,
             4850000,
-            4850000,
+            5200000,
             5200000,
             5200000,
             5200000,
@@ -179594,7 +179607,7 @@
             14500000,
             14500000,
             14500000,
-            14500000,
+            15800000,
             15800000,
             15800000,
             15800000,
@@ -186319,7 +186332,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 24500000,
-          "oldPrice": 22549900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/MSI-SHADOW-GeForce-RTX-5070-12GB-2X-OC-GDDR7-PCIe-5.0-x16-Graphics-Card-Price-in-Pakistan.jpg",
@@ -186335,7 +186348,7 @@
             22549900,
             22549900,
             22549900,
-            22549900,
+            24500000,
             24500000
           ]
         },
@@ -187516,7 +187529,7 @@
           "category": "gpu",
           "price": 24500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Acer-Nitro-Lite-NL16-71G-55JR-Intel-Core-i5-13420H-13th-Gen-16GB-D5-512GB-SSD-16-WUXGA-IPS-165Hz-Display-NVIDIA-GeForce-RTX-3050-6GB-Graphics-Backlit-KB-Win11-Pearl-White-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/acer-nitro-lite-nl16-71g-55jr-intel-core-i5-13420h-13th-gen-16gb-d5-512gb-ssd-16-wuxga-ips-165hz-display-nvidia-geforce-rtx-3050-6gb-graphics-backlit-kb-win11-pearl-white",
@@ -194804,7 +194817,7 @@
             679900,
             679900,
             679900,
-            679900,
+            830000,
             830000,
             830000,
             830000,
@@ -194830,7 +194843,7 @@
             679900,
             679900,
             679900,
-            679900,
+            830000,
             830000,
             830000,
             830000,
@@ -209104,7 +209117,7 @@
             4000000,
             4000000,
             4000000,
-            4000000,
+            4100000,
             4100000,
             4100000,
             4100000,
@@ -213932,7 +213945,7 @@
           "category": "ram",
           "price": 4000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ASUS-TUF-Gaming-GT502-Horizon-ATX-Mid-Tower-Gaming-Case-White.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-gt502-horizon-atx-mid-tower-gaming-case-white",
@@ -213958,7 +213971,7 @@
           "category": "ram",
           "price": 4000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ASUS-TUF-Gaming-GT502-Horizon-ATX-Mid-Tower-Gaming-Case-Black.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-gt502-horizon-atx-mid-tower-gaming-case-black",
@@ -237965,7 +237978,7 @@
             14500000,
             14500000,
             14500000,
-            14500000,
+            13499900,
             13499900,
             13499900,
             13499900,
@@ -259986,7 +259999,7 @@
             4599900,
             4599900,
             4599900,
-            4599900,
+            4800000,
             4800000,
             4800000,
             4800000,
@@ -277066,7 +277079,7 @@
           "history": [
             389999,
             389999,
-            389999,
+            399999,
             399999,
             399999,
             399999,
@@ -278472,7 +278485,7 @@
             339999,
             339999,
             339999,
-            339999,
+            374999,
             374999,
             374999,
             374999,
@@ -278601,7 +278614,7 @@
             169999,
             169999,
             169999,
-            169999,
+            174999,
             174999,
             174999,
             174999,
@@ -280990,6 +281003,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/05/rbtech_xpg_lancer_blade_white.png",
           "url": "https://rbtechngames.com/product/xpg-lancer-blade-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-memory-kit-white",
           "history": [
+            314999,
             314999,
             314999,
             314999,
