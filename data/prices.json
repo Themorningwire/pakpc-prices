@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T01:12:20.666383+00:00",
+  "lastUpdated": "2026-08-25T06:44:29.099490+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_1151cbb8",
+          "name": "Thermalright KG-850 850W 80 Plus Gold Fully Modular Power Supply - Black",
+          "brand": "Thermalright",
+          "category": "psu",
+          "price": 22490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-kg-850-price-in-pakistan-pakbyte_1_44787e91-5ae8-4618-a5f6-d49e634a1ea2.webp?v=1787635897",
+          "url": "https://www.pakbyte.pk/products/thermalright-kg-850-850w-80-plus-gold-fully-modular-power-supply-black",
+          "history": [
+            22490
+          ]
+        },
         {
           "id": "pakbyte_25cb5d79",
           "name": "ViewSonic IN7504V-C ViewBoard 75\" Google Certified EDLA Interactive Display",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-in7504v-interactive-display-price-in-pakistan-pakbyte_1.webp?v=1787565147",
           "url": "https://www.pakbyte.pk/products/viewsonic-in7504v-c-viewboard-75-google-certified-edla-interactive-display",
           "history": [
+            559990,
             559990,
             559990,
             559990
@@ -39,6 +55,7 @@
           "history": [
             21990,
             21990,
+            21990,
             21990
           ]
         },
@@ -56,6 +73,7 @@
           "history": [
             21990,
             21990,
+            21990,
             21990
           ]
         },
@@ -71,6 +89,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kz-m2-usb-c-price-in-pakistan-pakbyte_1.webp?v=1787383575",
           "url": "https://www.pakbyte.pk/products/kz-m2-dual-mic-silver-plated-type-c-earphone",
           "history": [
+            4490,
             4490,
             4490,
             4490,
@@ -2802,6 +2821,7 @@
           "history": [
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -2817,6 +2837,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-l30pro-price-in-pakistan-pakbyte_1.webp?v=1784301498",
           "url": "https://www.pakbyte.pk/products/attack-shark-l30pro-wireless-gaming-headset-white",
           "history": [
+            11990,
             11990,
             11990,
             11990
@@ -3286,6 +3307,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -3311,6 +3333,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -3326,7 +3349,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-shark-X820-Ultra-star-black-keyboard-price-in-pakistan-pakbyte_1.webp?v=1784270143",
           "url": "https://www.pakbyte.pk/products/attack-shark-x820-ultra-tri-mode-gasket-mechanical-keyboard-star-black-gift-switch",
           "history": [
-            15990,
+            19499,
             19499,
             19499,
             19499,
@@ -3404,6 +3427,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x820-ultra-white-keyboard-price-in-pakistan-pakbyte_1_6739c0b5-aaa0-4f98-bceb-2b77ab9f751b.webp?v=1784268841",
           "url": "https://www.pakbyte.pk/products/attack-shark-x820ultra-wireless-mechanical-keyboard-white-contour-shark-switches",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -3983,7 +4007,7 @@
             21990,
             21990,
             21990,
-            21990,
+            20490,
             20490,
             20490,
             20490
@@ -10631,7 +10655,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-dual-rx-9060-xt-16gb-price-in-pakistan-pakbyte_1_37266bad-24ba-4a0c-8a83-77a7360b017a.webp?v=1778137270",
           "url": "https://www.pakbyte.pk/products/asus-dual-radeon-rx-9060-xt-16gb-gddr6-graphics-card-1",
           "history": [
-            149990,
+            173999,
             173999,
             173999,
             173999,
@@ -10858,8 +10882,8 @@
           "name": "Thermalright Frozen Warframe 360 SE ARGB V2 360mm AIO Liquid CPU Cooler - White",
           "brand": "Thermalright",
           "category": "ram",
-          "price": 25790,
-          "oldPrice": null,
+          "price": 24490,
+          "oldPrice": 25790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-warframe-360-se-argb-white-v2-price-in-pakistan-pakbyte_1.webp?v=1777877872",
@@ -10876,7 +10900,7 @@
             25790,
             25790,
             25790,
-            25790
+            24490
           ]
         },
         {
@@ -10884,8 +10908,8 @@
           "name": "Thermalright Frozen Warframe 360 SE ARGB V2 360mm AIO Liquid CPU Cooler -  Black",
           "brand": "Thermalright",
           "category": "ram",
-          "price": 24990,
-          "oldPrice": null,
+          "price": 23990,
+          "oldPrice": 24990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-warframe-360-se-argb-black-v2-price-in-pakistan-pakbyte_1.webp?v=1777877624",
@@ -10902,7 +10926,7 @@
             24990,
             24990,
             24990,
-            24990
+            23990
           ]
         },
         {
@@ -10910,8 +10934,8 @@
           "name": "Thermalright Frozen Horizon 360 Digital ARGB CPU Liquid Cooler - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 21790,
-          "oldPrice": null,
+          "price": 20990,
+          "oldPrice": 21790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-horizon-360-digital-argb-white-price-in-pakistan-pakbyte_1.webp?v=1777877330",
@@ -10928,7 +10952,7 @@
             21790,
             21790,
             21790,
-            21790
+            20990
           ]
         },
         {
@@ -10936,8 +10960,8 @@
           "name": "Thermalright Frozen Horizon 360 Digital ARGB CPU Liquid Cooler - Black",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 20990,
-          "oldPrice": null,
+          "price": 20490,
+          "oldPrice": 20990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-horizon-360-digital-argb-cooler-price-in-pakistan-pakbyte_1.webp?v=1777877047",
@@ -10954,7 +10978,7 @@
             20990,
             20990,
             20990,
-            20990
+            20490
           ]
         },
         {
@@ -11367,7 +11391,7 @@
             729990,
             729990,
             729990,
-            729990,
+            689990,
             689990,
             689990,
             689990
@@ -12685,7 +12709,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kz-gale-usb-price-in-pakistan-pakbyte_1.webp?v=1776076224",
           "url": "https://www.pakbyte.pk/products/kz-gale-usb-c-headphones-type-c-iem-earphone-with-microphone-black",
           "history": [
-            4990,
+            3990,
             3990,
             3990,
             3990,
@@ -16411,7 +16435,7 @@
             541990,
             541990,
             541990,
-            541990,
+            539990,
             539990,
             539990,
             539990
@@ -16437,7 +16461,7 @@
             431990,
             431990,
             431990,
-            431990,
+            409990,
             409990,
             409990,
             409990
@@ -16853,7 +16877,7 @@
             411990,
             411990,
             411990,
-            411990,
+            379990,
             379990,
             379990,
             379990
@@ -18388,7 +18412,7 @@
             11490,
             11490,
             11490,
-            11490,
+            12999,
             12999,
             12999
           ]
@@ -19308,8 +19332,8 @@
           "name": "Thermalright AT-1650 1650W 80 Plus Titanium Fully Modular ATX 3.1 Power Supply",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 118990,
-          "oldPrice": null,
+          "price": 111990,
+          "oldPrice": 118990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-at-1650-price-in-pakistan-pakbyte.webp?v=1772168977",
@@ -19326,7 +19350,7 @@
             118990,
             118990,
             118990,
-            118990
+            111990
           ]
         },
         {
@@ -24029,7 +24053,7 @@
             8840,
             8840,
             8840,
-            8840,
+            12799,
             12799,
             12799,
             12799
@@ -32817,7 +32841,7 @@
             59800,
             59800,
             59800,
-            59800,
+            70999,
             70999,
             70999,
             70999
@@ -36587,7 +36611,7 @@
             201990,
             201990,
             201990,
-            201990,
+            198990,
             198990,
             198990,
             198990
@@ -36613,7 +36637,7 @@
             241990,
             241990,
             241990,
-            241990,
+            239990,
             239990,
             239990,
             239990
@@ -36639,7 +36663,7 @@
             311990,
             311990,
             311990,
-            311990,
+            309990,
             309990,
             309990,
             309990
@@ -36665,7 +36689,7 @@
             21190,
             21190,
             21190,
-            21190,
+            16990,
             16990,
             16990,
             16990
@@ -39458,8 +39482,8 @@
           "name": "Thermalright SP-1000 1000W 80 Plus Platinum Fully Modular Power Supply",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 37990,
-          "oldPrice": null,
+          "price": 36990,
+          "oldPrice": 37990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-sp-1000-price-in-pakistan-pakbyte.webp?v=1763561438",
@@ -39476,7 +39500,7 @@
             37990,
             37990,
             37990,
-            37990
+            36990
           ]
         },
         {
@@ -45048,8 +45072,8 @@
           "name": "Thermalright SP-850-W 850W 80 Plus Platinum Fully Modular Power Supply - White",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 26990,
-          "oldPrice": null,
+          "price": 27490,
+          "oldPrice": 26990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-sp-850-w-price-in-pakistan-pakbyte.webp?v=1759330713",
@@ -45066,7 +45090,7 @@
             26990,
             26990,
             26990,
-            26990
+            27490
           ]
         },
         {
@@ -45438,8 +45462,8 @@
           "name": "Thermalright KG-750-W 750W 80 Plus Gold Fully Modular Power Supply - White",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 23490,
-          "oldPrice": null,
+          "price": 21490,
+          "oldPrice": 23490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-kg-750-w-price-in-pakistan-pakbyte_2.webp?v=1759249338",
@@ -45456,7 +45480,7 @@
             23490,
             23490,
             23490,
-            23490
+            21490
           ]
         },
         {
@@ -45464,8 +45488,8 @@
           "name": "Thermalright KG-750 750W 80 Plus Gold Fully Modular Power Supply - Black",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 21490,
-          "oldPrice": null,
+          "price": 20990,
+          "oldPrice": 21490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-kg-750-price-in-pakistan-pakbyte_2.webp?v=1759249232",
@@ -45482,7 +45506,7 @@
             21490,
             21490,
             21490,
-            21490
+            20990
           ]
         },
         {
@@ -54852,7 +54876,7 @@
           "category": "cooler",
           "price": 1690,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-tl-m12rw-s-fan-price-in-pakistan_1.webp?v=1753767530",
           "url": "https://www.pakbyte.pk/products/thermalright-tl-m12rw-s-reverse-cpu-argb-fan-120mm-case-cooler-fan-argb-white",
@@ -65413,7 +65437,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Samsung-990-PRO-2TB-SSD-NVMe-SSD-PakByte-Computers-25950776492099.jpg?v=1753671412",
           "url": "https://www.pakbyte.pk/products/samsung-990-pro-2tb-ssd-nvme-ssd",
           "history": [
-            98999,
+            118999,
             118999,
             118999,
             118999,
@@ -71282,8 +71306,8 @@
           "name": "Thermalright TG-1200 1200W 80+ Gold Fully Modular Power Supply - Black",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 43490,
-          "oldPrice": null,
+          "price": 39990,
+          "oldPrice": 43490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-TG-1200-1200W-80-Gold-Fully-Modular-Power-Supply-Black-PakByte-Computers-25832147779651.jpg?v=1753672672",
@@ -71300,7 +71324,7 @@
             43490,
             43490,
             43490,
-            43490
+            39990
           ]
         },
         {
@@ -71308,9 +71332,9 @@
           "name": "Thermalright TB-750S 750W 80 Plus Bronze Power Supply",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 13890,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 14890,
+          "oldPrice": 13890,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-TB-750S-750W-80-Plus-Bronze-Power-Supply-PakByte-Computers-25832005763139.jpg?v=1753672672",
           "url": "https://www.pakbyte.pk/products/thermalright-tb-750s-750w-80-plus-bronze-power-supply",
@@ -71326,7 +71350,7 @@
             13890,
             13890,
             13890,
-            13890
+            14890
           ]
         },
         {
@@ -78276,9 +78300,9 @@
           "name": "Thermalright TB-650S 650W 80+ Bronze Power Supply",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 12490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 12890,
+          "oldPrice": 12490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-TB-650S-650W-80-Bronze-Power-Supply-PakByte-Computers-25832601681987.jpg?v=1753674549",
           "url": "https://www.pakbyte.pk/products/thermalright-tr-tb650s-chassis-power-supply-atx-80-plus-bronze-medal",
@@ -78294,7 +78318,7 @@
             12490,
             12490,
             12490,
-            12490
+            12890
           ]
         },
         {
@@ -78588,8 +78612,8 @@
           "name": "Thermalright TL-M12W-S Case Fan - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 3190,
-          "oldPrice": null,
+          "price": 1690,
+          "oldPrice": 3190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-TL-M12W-S-Case-Fan-White-PakByte-Computers-25832254767171.jpg?v=1753674600",
@@ -78606,7 +78630,7 @@
             3190,
             3190,
             3190,
-            3190
+            1690
           ]
         },
         {
@@ -103451,7 +103475,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G435-Lightspeed-Wireless-Gaming-Headset-Black-PakByte-Computers-24397808336963.webp?v=1753679232",
           "url": "https://www.pakbyte.pk/products/logitech-g435-lightspeed-wireless-gaming-headset-black",
           "history": [
-            16190,
+            18499,
             18499,
             18499,
             18499,
@@ -145441,6 +145465,7 @@
           "history": [
             3500000,
             3500000,
+            3500000,
             3500000
           ]
         },
@@ -145457,6 +145482,7 @@
           "url": "https://zahcomputers.pk/product/hiksemi-hs-sodimm-s1-ddr5-laptop-ram",
           "history": [
             11000000,
+            11800000,
             11800000,
             11800000,
             11800000,
@@ -145491,6 +145517,7 @@
             36500000,
             36500000,
             36500000,
+            36500000,
             36500000
           ]
         },
@@ -145506,6 +145533,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/AMD-Ryzen-9-9950X3D2-Dual-Edition-16-Core-32-Thread-Desktop-Processor-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/amd-ryzen-9-9950x3d2-dual-edition-16-core-32-thread-desktop-processor",
           "history": [
+            32500000,
             32500000,
             32500000,
             32500000,
@@ -145688,7 +145716,7 @@
           "url": "https://zahcomputers.pk/product/hiksemi-16gb-ddr5-5600mhz-sodimm-laptop",
           "history": [
             5799900,
-            5799900,
+            5850000,
             5850000,
             5850000,
             5850000,
@@ -148028,7 +148056,7 @@
           "url": "https://zahcomputers.pk/product/kingston-kc3000-1tb-pcie-4-0-nvme-m-2-ssd",
           "history": [
             4450000,
-            4450000,
+            4650000,
             4650000,
             4650000,
             4650000,
@@ -151252,7 +151280,7 @@
           "url": "https://zahcomputers.pk/product/lenovo-ideapad-slim-3-15irh10-laptop-intel-core-i5-13420h-intel-uhd-graphics-15-3-wuxga-ips-60hz-8gb-ddr5-4800-ram-512gb-pcie-4-0-nvme-ssd-wi-fi-6-and-bt5-2-luna-grey",
           "history": [
             17000000,
-            17000000,
+            21000000,
             21000000,
             21000000,
             21000000,
@@ -155153,7 +155181,7 @@
           "history": [
             4850000,
             4850000,
-            4850000,
+            5200000,
             5200000,
             5200000,
             5200000,
@@ -179618,7 +179646,7 @@
           "url": "https://zahcomputers.pk/product/viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram",
           "history": [
             14500000,
-            14500000,
+            15800000,
             15800000,
             15800000,
             15800000,
@@ -186359,7 +186387,7 @@
             22549900,
             22549900,
             22549900,
-            22549900,
+            24500000,
             24500000,
             24500000,
             24500000
@@ -194828,7 +194856,7 @@
           "url": "https://zahcomputers.pk/product/atk-vxe-dragonfly-r1-se-white-wireless-lightweight-gaming-mouse",
           "history": [
             679900,
-            679900,
+            830000,
             830000,
             830000,
             830000,
@@ -194854,7 +194882,7 @@
           "url": "https://zahcomputers.pk/product/atk-vxe-dragonfly-r1-se-black-wireless-lightweight-gaming-mouse",
           "history": [
             679900,
-            679900,
+            830000,
             830000,
             830000,
             830000,
@@ -209128,7 +209156,7 @@
           "url": "https://zahcomputers.pk/product/kingston-nv3-1tb-m-2-2280-pcie-4-0-nvme-ssd-snv3s-1000g-6000mb-s",
           "history": [
             4000000,
-            4000000,
+            4100000,
             4100000,
             4100000,
             4100000,
@@ -237989,7 +238017,7 @@
           "history": [
             14500000,
             14500000,
-            14500000,
+            13499900,
             13499900,
             13499900,
             13499900,
@@ -260010,7 +260038,7 @@
           "url": "https://zahcomputers.pk/product/xpg-gammix-s70-blade-1tb-pcie-gen4x4-m-2-2280-solid-state-drive",
           "history": [
             4599900,
-            4599900,
+            4800000,
             4800000,
             4800000,
             4800000,
@@ -277038,7 +277066,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_lenovo_loq_15_15irx10_rgb.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-i7-13th-gen-16gb-ram-512gb-ssd-rtx-5060-15-6-fhd-144hz-ips-display-luna-grey-new",
           "history": [
-            389999,
+            399999,
             399999,
             399999,
             399999,
@@ -278418,7 +278446,7 @@
           "history": [
             339999,
             339999,
-            339999,
+            374999,
             374999,
             374999,
             374999,
@@ -278547,7 +278575,7 @@
           "url": "https://rbtechngames.com/product/sapphire-pulse-amd-radeon-rx-9060-xt-oc-16gb-graphics-card",
           "history": [
             169999,
-            169999,
+            174999,
             174999,
             174999,
             174999,
