@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T19:45:51.990979+00:00",
+  "lastUpdated": "2026-08-27T07:44:16.457731+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -9,6 +9,51 @@
       "verified": true,
       "products": [
         {
+          "id": "pakbyte_d9b34987",
+          "name": "Ajazz NJ08 Wireless Gaming Mouse - White",
+          "brand": "Ajazz",
+          "category": "mouse",
+          "price": 4690,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-nj08-price-in-pakistan-pakbyte_5.webp?v=1787809795",
+          "url": "https://www.pakbyte.pk/products/ajazz-nj08-wireless-gaming-mouse-white",
+          "history": [
+            4690
+          ]
+        },
+        {
+          "id": "pakbyte_d71a1c09",
+          "name": "Ajazz NJ08 Wireless Gaming Mouse - Black",
+          "brand": "Ajazz",
+          "category": "mouse",
+          "price": 4690,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-nj08-price-in-pakistan-pakbyte_1.webp?v=1787809563",
+          "url": "https://www.pakbyte.pk/products/ajazz-nj08-wireless-gaming-mouse-black",
+          "history": [
+            4690
+          ]
+        },
+        {
+          "id": "pakbyte_fc268625",
+          "name": "Ajazz AJ159 Apex Wireless 8K Gaming Mouse with Display Charging Dock - White",
+          "brand": "Ajazz",
+          "category": "monitor",
+          "price": 17990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-apex-mouse-price-in-pakistan-pakbyte_4.png?v=1787809302",
+          "url": "https://www.pakbyte.pk/products/ajazz-aj159-apex-wireless-8k-gaming-mouse-with-display-charging-dock-white",
+          "history": [
+            17990
+          ]
+        },
+        {
           "id": "pakbyte_852b8fd5",
           "name": "Ajazz AJ159 Apex Wireless 8K Gaming Mouse with Display Charging Dock - Black",
           "brand": "Ajazz",
@@ -17,7 +62,7 @@
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x-ajazz-aj159-apex-mouse-price-in-pakistan-pakbyte_1.png?v=1787643649",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-apex-mouse-price-in-pakistan-pakbyte_1.png?v=1787808846",
           "url": "https://www.pakbyte.pk/products/ajazz-aj159-apex-wireless-8k-gaming-mouse-with-display-charging-dock-black",
           "history": [
             17990,
@@ -25,7 +70,68 @@
             17990,
             17990,
             17990,
+            17990,
             17990
+          ]
+        },
+        {
+          "id": "pakbyte_f38fa860",
+          "name": "Ajazz AJ159 Pro Wireless Gaming Mouse – White",
+          "brand": "Ajazz",
+          "category": "mouse",
+          "price": 12490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-pro-price-in-pakistan-pakbyte_2.webp?v=1787808598",
+          "url": "https://www.pakbyte.pk/products/ajazz-aj159-pro-wireless-gaming-mouse-white",
+          "history": [
+            12490
+          ]
+        },
+        {
+          "id": "pakbyte_b43a0e7f",
+          "name": "Ajazz AJ159 Pro Wireless Gaming Mouse – Black",
+          "brand": "Ajazz",
+          "category": "mouse",
+          "price": 12490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159pro-price-in-pakistan-pakistan-pakbyte_1.webp?v=1787808313",
+          "url": "https://www.pakbyte.pk/products/ajazz-aj159-pro-wireless-gaming-mouse-black",
+          "history": [
+            12490
+          ]
+        },
+        {
+          "id": "pakbyte_2053b69b",
+          "name": "Ajazz AJ179 Esports Gaming Mouse - White",
+          "brand": "Ajazz",
+          "category": "mouse",
+          "price": 8990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj179-white-price-in-pakistan-pakbyte.webp?v=1787807915",
+          "url": "https://www.pakbyte.pk/products/ajazz-aj179-esports-gaming-mouse-white",
+          "history": [
+            8990
+          ]
+        },
+        {
+          "id": "pakbyte_452a8955",
+          "name": "Ajazz AJ159 Wireless Gaming Mouse - White",
+          "brand": "Ajazz",
+          "category": "mouse",
+          "price": 8990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-white-price-in-pakistan-pakbyte_1.webp?v=1787807635",
+          "url": "https://www.pakbyte.pk/products/ajazz-aj159-wireless-gaming-mouse-white",
+          "history": [
+            8990
           ]
         },
         {
@@ -40,6 +146,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj139-v2-mc-price-in-pakistan-pakbyte_5.webp?v=1787641896",
           "url": "https://www.pakbyte.pk/products/ajazz-aj139-v2-mc-gaming-mouse-with-charging-base-1",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -60,6 +167,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj139-v2-mc-price-in-pakistan-pakbyte_1.webp?v=1787641097",
           "url": "https://www.pakbyte.pk/products/ajazz-aj139-v2-mc-gaming-mouse-with-charging-base",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -86,6 +194,7 @@
             22490,
             22490,
             22490,
+            22490,
             22490
           ]
         },
@@ -101,6 +210,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-in7504v-interactive-display-price-in-pakistan-pakbyte_1.webp?v=1787565147",
           "url": "https://www.pakbyte.pk/products/viewsonic-in7504v-c-viewboard-75-google-certified-edla-interactive-display",
           "history": [
+            559990,
             559990,
             559990,
             559990,
@@ -134,6 +244,7 @@
             21990,
             21990,
             21990,
+            21990,
             21990
           ]
         },
@@ -149,6 +260,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-f1-v3-ultimate-price-in-pakistan-pakbyte_1.webp?v=1787556676",
           "url": "https://www.pakbyte.pk/products/atk-blazing-sky-f1-v3-series-esports-wireless-mouse-pearl-blue",
           "history": [
+            21990,
             21990,
             21990,
             21990,
@@ -2912,6 +3024,7 @@
             11990,
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -2927,6 +3040,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-l30pro-price-in-pakistan-pakbyte_1.webp?v=1784301498",
           "url": "https://www.pakbyte.pk/products/attack-shark-l30pro-wireless-gaming-headset-white",
           "history": [
+            11990,
             11990,
             11990,
             11990,
@@ -4096,7 +4210,7 @@
           "url": "https://www.pakbyte.pk/products/atk-blazing-sky-x1-v2-ultimate-2-0-wireless-gaming-mouse-metallic-red",
           "history": [
             21990,
-            21990,
+            20490,
             20490,
             20490,
             20490,
@@ -10989,7 +11103,7 @@
             25790,
             25790,
             25790,
-            25790,
+            24490,
             24490,
             24490,
             24490,
@@ -11015,7 +11129,7 @@
             24990,
             24990,
             24990,
-            24990,
+            23990,
             23990,
             23990,
             23990,
@@ -11041,7 +11155,7 @@
             21790,
             21790,
             21790,
-            21790,
+            20990,
             20990,
             20990,
             20990,
@@ -11067,7 +11181,7 @@
             20990,
             20990,
             20990,
-            20990,
+            20490,
             20490,
             20490,
             20490,
@@ -11480,7 +11594,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in8605-c-certified-edla-viewboard-86-4k-interactive-display",
           "history": [
             729990,
-            729990,
+            689990,
             689990,
             689990,
             689990,
@@ -12473,7 +12587,7 @@
             3190,
             3190,
             3190,
-            3190,
+            2990,
             2990,
             2990,
             2990,
@@ -12810,8 +12924,8 @@
             3990,
             3990,
             3990,
-            3990,
             4999,
+            4990,
             4990,
             4990,
             4990,
@@ -16524,7 +16638,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in7505-n-google-certified-edla-75-4k-interactive-display",
           "history": [
             541990,
-            541990,
+            539990,
             539990,
             539990,
             539990,
@@ -16550,7 +16664,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in6505-n-google-certified-edla-65-4k-interactive-display",
           "history": [
             431990,
-            431990,
+            409990,
             409990,
             409990,
             409990,
@@ -16966,7 +17080,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-ifp6534-edla-certified-65-4k-interactive-display",
           "history": [
             411990,
-            411990,
+            379990,
             379990,
             379990,
             379990,
@@ -18501,7 +18615,7 @@
           "history": [
             11490,
             11490,
-            11490,
+            12999,
             12999,
             12999,
             12999,
@@ -19439,7 +19553,7 @@
             118990,
             118990,
             118990,
-            118990,
+            111990,
             111990,
             111990,
             111990,
@@ -24142,7 +24256,7 @@
           "url": "https://www.pakbyte.pk/products/rapoo-vt9-pro-4k-wireless-gaming-mouse-black",
           "history": [
             8840,
-            8840,
+            12799,
             12799,
             12799,
             12799,
@@ -32930,7 +33044,7 @@
           "url": "https://www.pakbyte.pk/products/ease-geforce-rtx-3050-6gb-graphics-card",
           "history": [
             59800,
-            59800,
+            70999,
             70999,
             70999,
             70999,
@@ -36700,7 +36814,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-cde4314-2c-43-4k-commercial-display-with-pro-av-integration",
           "history": [
             201990,
-            201990,
+            198990,
             198990,
             198990,
             198990,
@@ -36726,7 +36840,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-cde5514-2c-55-4k-commercial-display-with-pro-av-integration",
           "history": [
             241990,
-            241990,
+            239990,
             239990,
             239990,
             239990,
@@ -36752,7 +36866,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-cde6514-2c-65-4k-commercial-display-with-pro-av-integration",
           "history": [
             311990,
-            311990,
+            309990,
             309990,
             309990,
             309990,
@@ -36778,7 +36892,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vb-wifi-001-wireless-module-for-viewboard-and-wireless-presentation-display",
           "history": [
             21190,
-            21190,
+            16990,
             16990,
             16990,
             16990,
@@ -39589,7 +39703,7 @@
             37990,
             37990,
             37990,
-            37990,
+            36990,
             36990,
             36990,
             36990,
@@ -42814,7 +42928,7 @@
             214990,
             214990,
             214990,
-            214990,
+            254999,
             254999,
             254999,
             254999,
@@ -44192,7 +44306,7 @@
             274990,
             274990,
             274990,
-            274990,
+            294999,
             294999,
             294999,
             294999,
@@ -44271,7 +44385,7 @@
             188999,
             188999,
             188999,
-            188999,
+            229999,
             229999,
             229999,
             229999,
@@ -45179,7 +45293,7 @@
             26990,
             26990,
             26990,
-            26990,
+            27490,
             27490,
             27490,
             27490,
@@ -45569,7 +45683,7 @@
             23490,
             23490,
             23490,
-            23490,
+            21490,
             21490,
             21490,
             21490,
@@ -45595,7 +45709,7 @@
             21490,
             21490,
             21490,
-            21490,
+            20990,
             20990,
             20990,
             20990,
@@ -71413,7 +71527,7 @@
             43490,
             43490,
             43490,
-            43490,
+            39990,
             39990,
             39990,
             39990,
@@ -71439,7 +71553,7 @@
             13890,
             13890,
             13890,
-            13890,
+            14890,
             14890,
             14890,
             14890,
@@ -78407,7 +78521,7 @@
             12490,
             12490,
             12490,
-            12490,
+            12890,
             12890,
             12890,
             12890,
@@ -78719,7 +78833,7 @@
             3190,
             3190,
             3190,
-            3190,
+            1690,
             1690,
             1690,
             1690,
@@ -145563,6 +145677,7 @@
             3300000,
             3300000,
             3300000,
+            3300000,
             3300000
           ]
         },
@@ -145582,6 +145697,7 @@
             18500000,
             18500000,
             18500000,
+            18500000,
             18500000
           ]
         },
@@ -145597,6 +145713,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/WD-Purple-SATA-III-3.5-Internal-Surveillance-HDD-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/western-digital-4tb-purple-sata-iii-3-5-internal-surveillance-hdd",
           "history": [
+            3500000,
             3500000,
             3500000,
             3500000,
@@ -166895,7 +167012,7 @@
             3099900,
             3099900,
             3099900,
-            3099900,
+            3300000,
             3300000,
             3300000,
             3300000,
@@ -166921,7 +167038,7 @@
             2999900,
             2999900,
             2999900,
-            2999900,
+            3300000,
             3300000,
             3300000,
             3300000,
@@ -186520,7 +186637,7 @@
           "url": "https://zahcomputers.pk/product/msi-shadow-geforce-rtx-5070-12gb-2x-oc-gddr7-pcie-5-0-x16-graphics-card",
           "history": [
             22549900,
-            22549900,
+            24500000,
             24500000,
             24500000,
             24500000,
@@ -194090,7 +194207,7 @@
             28500000,
             28500000,
             28500000,
-            28500000,
+            29800000,
             29800000,
             29800000,
             29800000,
@@ -238368,7 +238485,7 @@
             34000000,
             34000000,
             34000000,
-            34000000,
+            34999900,
             34999900,
             34999900,
             34999900,
@@ -238914,7 +239031,7 @@
             790000,
             790000,
             790000,
-            790000,
+            3100000,
             3100000,
             3100000,
             3100000,
@@ -274741,6 +274858,7 @@
             237999,
             237999,
             237999,
+            237999,
             237999
           ]
         },
@@ -278318,12 +278436,12 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_lexar_nq790-scaled.webp",
           "url": "https://rbtechngames.com/product/lexar-nq790-nvme-m-2-gen-4-ssd-512gb-1tb-2tb-4tb",
           "history": [
-            63999,
             69999,
             69999,
             69999,
             69999,
             69999,
+            79999,
             79999,
             79999,
             79999,
@@ -279526,6 +279644,32 @@
             13499,
             13499,
             13499
+          ]
+        },
+        {
+          "id": "rbtechgames_885cf033",
+          "name": "MadLions MAD68 R 65% Wired Magnetic Gaming Keyboard – Red (Contour) [Magnetic Switches]",
+          "brand": "MadLions",
+          "category": "keyboard",
+          "price": 14999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_madlions_mad68_r_red_contour.webp",
+          "url": "https://rbtechngames.com/product/madlions-mad68-r-65-wired-magnetic-gaming-keyboard-red-contour-magnetic-switches",
+          "history": [
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999
           ]
         },
         {
