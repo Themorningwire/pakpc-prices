@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T09:48:56.943659+00:00",
+  "lastUpdated": "2026-08-28T21:44:44.321549+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_ab5e80ff",
+          "name": "Crucial Desktop RAM 16GB 3200MHz DDR4",
+          "brand": "Crucial",
+          "category": "ram",
+          "price": 30499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/crucial-3200mhz-16gb-ddr4-desktop-ram-price-in-pakistan-pakbyte.webp?v=1787919537",
+          "url": "https://www.pakbyte.pk/products/crucial-desktop-ram-16gb-3200mhz-ddr4",
+          "history": [
+            30499
+          ]
+        },
         {
           "id": "pakbyte_a23e3ab1",
           "name": "Attack Shark X820 Ultra Wireless Mechanical Keyboard Gaming Keyboard - Ink Bamboo",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x820-ultra-ink-boom-keyboard-price-in-pakistan-pakbyte-2.webp?v=1787830264",
           "url": "https://www.pakbyte.pk/products/attack-shark-x820-ultra-wireless-mechanical-keyboard-gaming-keyboard-ink-bamboo",
           "history": [
+            20999,
             20999,
             20999
           ]
@@ -36,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-nj08-price-in-pakistan-pakbyte_5.webp?v=1787809795",
           "url": "https://www.pakbyte.pk/products/ajazz-nj08-wireless-gaming-mouse-white",
           "history": [
+            4690,
             4690,
             4690,
             4690
@@ -55,6 +72,7 @@
           "history": [
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -70,6 +88,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-apex-mouse-price-in-pakistan-pakbyte_4.png?v=1787809302",
           "url": "https://www.pakbyte.pk/products/ajazz-aj159-apex-wireless-8k-gaming-mouse-with-display-charging-dock-white",
           "history": [
+            17990,
             17990,
             17990,
             17990
@@ -95,6 +114,7 @@
             17990,
             17990,
             17990,
+            17990,
             17990
           ]
         },
@@ -110,6 +130,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-pro-price-in-pakistan-pakbyte_2.webp?v=1787808598",
           "url": "https://www.pakbyte.pk/products/ajazz-aj159-pro-wireless-gaming-mouse-white",
           "history": [
+            12490,
             12490,
             12490,
             12490
@@ -129,6 +150,7 @@
           "history": [
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -144,6 +166,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj179-white-price-in-pakistan-pakbyte.webp?v=1787807915",
           "url": "https://www.pakbyte.pk/products/ajazz-aj179-esports-gaming-mouse-white",
           "history": [
+            8990,
             8990,
             8990,
             8990
@@ -163,6 +186,7 @@
           "history": [
             8990,
             8990,
+            8990,
             8990
           ]
         },
@@ -178,6 +202,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj139-v2-mc-price-in-pakistan-pakbyte_5.webp?v=1787641896",
           "url": "https://www.pakbyte.pk/products/ajazz-aj139-v2-mc-gaming-mouse-with-charging-base-1",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -209,6 +234,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -224,6 +250,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-kg-850-price-in-pakistan-pakbyte_1_44787e91-5ae8-4618-a5f6-d49e634a1ea2.webp?v=1787635897",
           "url": "https://www.pakbyte.pk/products/thermalright-kg-850-850w-80-plus-gold-fully-modular-power-supply-black",
           "history": [
+            22490,
             22490,
             22490,
             22490,
@@ -3551,6 +3578,7 @@
           "url": "https://www.pakbyte.pk/products/attack-shark-x820ultra-wireless-mechanical-keyboard-moon-night-gift-switch",
           "history": [
             20999,
+            20999,
             20999
           ]
         },
@@ -3627,7 +3655,7 @@
             15990,
             15990,
             15990,
-            15990,
+            19499,
             19499,
             19499
           ]
@@ -3653,7 +3681,7 @@
             16490,
             16490,
             16490,
-            16490,
+            20499,
             20499,
             20499
           ]
@@ -3679,7 +3707,7 @@
             16490,
             16490,
             16490,
-            16490,
+            20499,
             20499,
             20499
           ]
@@ -6213,7 +6241,7 @@
           "category": "keyboard",
           "price": 7190,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk68-he-black-price-in-pakistan-pakbyte.webp?v=1783180368",
           "url": "https://www.pakbyte.pk/products/eweadn-dk68-he-rgb-wired-mechanical-gaming-keyboard-black",
@@ -6499,7 +6527,7 @@
           "category": "psu",
           "price": 20490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/cougar-gr-850w-price-in-pakistan-pakbyte_1.webp?v=1783104427",
           "url": "https://www.pakbyte.pk/products/cougar-gr-750w-80-plus-gold-fully-modular-power-supply",
@@ -11133,7 +11161,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-warframe-360-se-argb-v2-360mm-aio-liquid-cpu-cooler-white",
           "history": [
             25790,
-            25790,
+            24490,
             24490,
             24490,
             24490,
@@ -11159,7 +11187,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-warframe-360-se-argb-v2-360mm-aio-liquid-cpu-cooler-black",
           "history": [
             24990,
-            24990,
+            23990,
             23990,
             23990,
             23990,
@@ -11185,7 +11213,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-horizon-360-digital-argb-cpu-liquid-cooler-white",
           "history": [
             21790,
-            21790,
+            20990,
             20990,
             20990,
             20990,
@@ -11211,7 +11239,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-horizon-360-digital-argb-cpu-liquid-cooler-black",
           "history": [
             20990,
-            20990,
+            20490,
             20490,
             20490,
             20490,
@@ -12617,7 +12645,7 @@
             3190,
             3190,
             3190,
-            3190,
+            2990,
             2990,
             2990,
             2990,
@@ -12954,8 +12982,8 @@
           "history": [
             3990,
             3990,
-            3990,
             4999,
+            4990,
             4990,
             4990,
             4990,
@@ -19583,7 +19611,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-at-1650-1650w-80-plus-titanium-fully-modular-atx-3-1-power-supply",
           "history": [
             118990,
-            118990,
+            111990,
             111990,
             111990,
             111990,
@@ -32523,8 +32551,8 @@
           "name": "Transcend ESD310S 2TB External SSD",
           "brand": "Transcend",
           "category": "storage",
-          "price": 77990,
-          "oldPrice": null,
+          "price": 83999,
+          "oldPrice": 77990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Transcend-ESD310S-2TB-External-SSD-Price-in-Pakistan-Pakbyte_2.jpg?v=1765973590",
@@ -32541,7 +32569,7 @@
             77990,
             77990,
             77990,
-            77990
+            83999
           ]
         },
         {
@@ -37817,7 +37845,7 @@
             61999,
             61999,
             61999,
-            61999,
+            112999,
             112999,
             112999
           ]
@@ -39733,7 +39761,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-sp-1000-1000w-80-plus-platinum-fully-modular-power-supply",
           "history": [
             37990,
-            37990,
+            36990,
             36990,
             36990,
             36990,
@@ -42958,7 +42986,7 @@
           "history": [
             214990,
             214990,
-            214990,
+            254999,
             254999,
             254999,
             254999,
@@ -44336,7 +44364,7 @@
           "history": [
             274990,
             274990,
-            274990,
+            294999,
             294999,
             294999,
             294999,
@@ -44415,7 +44443,7 @@
             188999,
             188999,
             188999,
-            188999,
+            229999,
             229999,
             229999,
             229999,
@@ -45323,7 +45351,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-sp-850-w-850w-80-plus-platinum-fully-modular-power-supply-white",
           "history": [
             26990,
-            26990,
+            27490,
             27490,
             27490,
             27490,
@@ -45713,7 +45741,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-kg-750-w-750w-80-plus-gold-fully-modular-power-supply-white",
           "history": [
             23490,
-            23490,
+            21490,
             21490,
             21490,
             21490,
@@ -45739,7 +45767,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-kg-750-750w-80-plus-gold-fully-modular-power-supply-black",
           "history": [
             21490,
-            21490,
+            20990,
             20990,
             20990,
             20990,
@@ -47839,7 +47867,7 @@
           "category": "keyboard",
           "price": 17990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K673-Ucal-Pro_1.jpg?v=1756796304",
           "url": "https://www.pakbyte.pk/products/redragon-k673-ucal-pro-anime-75-81-keys-wireless-gasket-rgb-gaming-keyboard-1",
@@ -49275,6 +49303,7 @@
           "url": "https://www.pakbyte.pk/products/attack-shark-x820-ultra-wireless-keyboard-white",
           "history": [
             20499,
+            20499,
             20499
           ]
         },
@@ -49299,7 +49328,7 @@
             14490,
             14490,
             14490,
-            14490,
+            19499,
             19499,
             19499
           ]
@@ -71547,7 +71576,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-atx3-0-pcie-5-0-1200w-tg-1200-gold-full-modular-power-supply",
           "history": [
             43490,
-            43490,
+            39990,
             39990,
             39990,
             39990,
@@ -71573,7 +71602,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-tb-750s-750w-80-plus-bronze-power-supply",
           "history": [
             13890,
-            13890,
+            14890,
             14890,
             14890,
             14890,
@@ -78541,7 +78570,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-tr-tb650s-chassis-power-supply-atx-80-plus-bronze-medal",
           "history": [
             12490,
-            12490,
+            12890,
             12890,
             12890,
             12890,
@@ -78853,7 +78882,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-tl-m12-s-case-fan",
           "history": [
             3190,
-            3190,
+            1690,
             1690,
             1690,
             1690,
@@ -83085,7 +83114,7 @@
           "category": "headset",
           "price": 49900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-5P-Wireless-Headphone-White-PakByte-Computers-25566766235715.jpg?v=1753675361",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-5p-wireless-headphone-white",
@@ -103103,8 +103132,8 @@
           "name": "Darkflash AIGO CK650 650 Watt Power Supply",
           "brand": "Darkflash",
           "category": "psu",
-          "price": 7990,
-          "oldPrice": null,
+          "price": 8499,
+          "oldPrice": 7990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Darkflash-AIGO-CK650-650-Watt-Power-Supply-PakByte-Computers-25844450394179.jpg?v=1753679137",
@@ -103121,7 +103150,7 @@
             7990,
             7990,
             7990,
-            7990
+            8499
           ]
         },
         {
@@ -145697,6 +145726,7 @@
           "url": "https://zahcomputers.pk/product/ease-ec123bm-panoramic-mesh-atx-gaming-case",
           "history": [
             1500000,
+            1500000,
             1500000
           ]
         },
@@ -145712,6 +145742,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-15-mc9l4-m3-8-core-chip-24gb-unified-ram-512-ssd-midnight",
           "history": [
+            37500000,
             37500000,
             37500000
           ]
@@ -145735,6 +145766,7 @@
             3300000,
             3300000,
             3300000,
+            3300000,
             3300000
           ]
         },
@@ -145750,6 +145782,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/HP-15-FD0154WM-15.6-FHD-Laptop-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/hp-15-fd0154wm-15-6-fhd-laptop",
           "history": [
+            18500000,
             18500000,
             18500000,
             18500000,
@@ -147315,7 +147348,7 @@
             3399900,
             3399900,
             3399900,
-            3399900,
+            3750000,
             3750000,
             3750000
           ]
@@ -147827,6 +147860,7 @@
           "url": "https://zahcomputers.pk/product/lenovo-loq-15irx9-gaming-laptop-13th-gen-core-i7-13650hx-16gb-ddr5-512gb-ssd-nvidia-rtx-4050-6gb-graphics-15-6-fhd-ips-144hz-dos-luna-grey",
           "history": [
             34000000,
+            34000000,
             34000000
           ]
         },
@@ -147851,7 +147885,7 @@
             40000000,
             40000000,
             40000000,
-            40000000,
+            41000000,
             41000000,
             41000000
           ]
@@ -147877,7 +147911,7 @@
             30500000,
             30500000,
             30500000,
-            30500000,
+            31000000,
             31000000,
             31000000
           ]
@@ -150695,8 +150729,8 @@
           "name": "Seagate SkyHawk ST4000VX015 4TB  Surveillance 3.5&#8243; SATA Hard Drive (Pulled)",
           "brand": "Seagate",
           "category": "storage",
-          "price": 3150000,
-          "oldPrice": null,
+          "price": 4000000,
+          "oldPrice": 3150000,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/06/Seagate-SkyHawk-Surveillance-3.5-Internal-Hard-Drive-Price-in-Pakistan.jpg",
@@ -150713,7 +150747,7 @@
             3150000,
             3150000,
             3150000,
-            3150000
+            4000000
           ]
         },
         {
@@ -152973,7 +153007,7 @@
             3399900,
             3399900,
             3399900,
-            3399900,
+            3500000,
             3500000,
             3500000
           ]
@@ -158391,9 +158425,9 @@
           "name": "Hp OmniBook X Flip 14 FM0013DX Lunar Lake Core Ultra 5 226V 8-Cores 16GB DDR5 51GB SSD 14″",
           "brand": "Hp",
           "category": "ram",
-          "price": 23000000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 25500000,
+          "oldPrice": 23000000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Hp-OmniBook-X-Flip-14-FM0013DX-Lunar-Lake-Core-Ultra-5-226V-8-Cores-16GB-DDR5-51GB-SSD-14″-2K-Full-HD-IPS-LED-Touch-Screen-Backlit-KB-Windows-11-–-Atmospheric-Blue-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-omnibook-x-flip-14-fm0013dx-lunar-lake-core-ultra-5-226v-8-cores-16gb-ddr5-51gb-ssd-14%e2%80%b3-2k-full-hd-ips-led-touch-screen-convertable-display-400nits-poly-studio-backlit-kb-windows-11",
@@ -158409,7 +158443,7 @@
             23000000,
             23000000,
             23000000,
-            23000000
+            25500000
           ]
         },
         {
@@ -167007,7 +167041,7 @@
             3099900,
             3099900,
             3099900,
-            3099900,
+            3300000,
             3300000,
             3300000,
             3300000,
@@ -167033,7 +167067,7 @@
             2999900,
             2999900,
             2999900,
-            2999900,
+            3300000,
             3300000,
             3300000,
             3300000,
@@ -171693,7 +171727,7 @@
             2000000,
             2000000,
             2000000,
-            2000000,
+            1850000,
             1850000,
             1850000
           ]
@@ -172197,8 +172231,8 @@
           "name": "HP Victus 15-FA2082WM Gaming Laptop 13th Gen Core i5-13420H 16GB DDR4 512GB SSD NVIDIA RTX",
           "brand": "NVIDIA",
           "category": "gpu",
-          "price": 27500000,
-          "oldPrice": null,
+          "price": 26800000,
+          "oldPrice": 27500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/HP-Victus-15-FA2082WM-Gaming-Laptop-13th-Gen-Core-i5-13420H-16GB-DDR4-512GB-SSD-NVIDIA-RTX-4050-6GB-Graphics-15.6-FHD-IPS-144Hz-Windows-11-Home-Mica-Silver-Price-in-Pakistan.jpg",
@@ -172215,7 +172249,7 @@
             27500000,
             27500000,
             27500000,
-            27500000
+            26800000
           ]
         },
         {
@@ -181417,7 +181451,7 @@
             1349900,
             1349900,
             1349900,
-            1349900,
+            1300000,
             1300000,
             1300000
           ]
@@ -181443,7 +181477,7 @@
             1249900,
             1249900,
             1249900,
-            1249900,
+            1200000,
             1200000,
             1200000
           ]
@@ -182079,7 +182113,7 @@
           "category": "gpu",
           "price": 29000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/HP-Victus-15-FB3093DX-AMD-Ryzen-7-16GB-D5-512GB-SSD-15.6″-FHD-Display-NVIDIA-GeForce-RTX-4050-6GB-Graphics-Backlit-KB-Win11-Mica-Silver-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-victus-15-fb3093dx-amd-ryzen-7-16gb-d5-512gb-ssd-15-6%e2%80%b3-fhd-display-nvidia-geforce-rtx-4050-6gb-graphics-backlit-kb-win11-mica-silver",
@@ -187615,8 +187649,8 @@
           "name": "HP OmniBook X Flip 16-AS0023DX Intel Core Ultra 7 256V 16GB 1TB SSD 16&#8243; 2K Touchscre",
           "brand": "Intel",
           "category": "storage",
-          "price": 30000000,
-          "oldPrice": null,
+          "price": 29000000,
+          "oldPrice": 30000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/HP-OmniBook-X-Flip-16-AS0023DX-Intel-Core-Ultra-7-256V-16GB-1TB-SSD-16-2K-Touchscreen-x360-Display-Backlit-KB-Win11-Eclipse-Gray-Price-in-Pakistan.jpg",
@@ -187633,7 +187667,7 @@
             30000000,
             30000000,
             30000000,
-            30000000
+            29000000
           ]
         },
         {
@@ -191411,8 +191445,8 @@
           "name": "HP Victus 15-FA2013DX Gaming Laptop 13th Gen Core i5-13420H, 8GB DDR4, 512GB SSD, NVIDIA R",
           "brand": "NVIDIA",
           "category": "gpu",
-          "price": 24500000,
-          "oldPrice": null,
+          "price": 23500000,
+          "oldPrice": 24500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/HP-Victus-15-FA2013DX-Gaming-Laptop-13th-Gen-Core-i5-13420H-8GB-DDR4-512GB-SSD-NVIDIA-RTX-3050-6GB-Graphics-Price-in-PakisTAN.jpg",
@@ -191429,7 +191463,7 @@
             24500000,
             24500000,
             24500000,
-            24500000
+            23500000
           ]
         },
         {
@@ -192519,7 +192553,7 @@
             5800000,
             5800000,
             5800000,
-            5800000,
+            6400000,
             6400000,
             6400000
           ]
@@ -192607,9 +192641,9 @@
           "name": "WESTERN DIGITAL Green SN3000 1TB Gen 4 5000MB/s NVMe M.2 SSD",
           "brand": "WESTERN",
           "category": "storage",
-          "price": 4250000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 3900000,
+          "oldPrice": 4250000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/WD-Green-SN350-1TB-NVMe-Internal-Solid-State-Drive-SSD-WDS100T4G0E-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/wd-green-sn3000-1tb-gen-4-5000mb-s-nvme-m-2-ssd",
@@ -192625,7 +192659,7 @@
             4250000,
             4250000,
             4250000,
-            4250000
+            3900000
           ]
         },
         {
@@ -194202,7 +194236,7 @@
           "history": [
             28500000,
             28500000,
-            28500000,
+            29800000,
             29800000,
             29800000,
             29800000,
@@ -207027,7 +207061,7 @@
             1400000,
             1400000,
             1400000,
-            1400000,
+            1150000,
             1150000,
             1150000
           ]
@@ -207053,7 +207087,7 @@
             1400000,
             1400000,
             1400000,
-            1400000,
+            1150000,
             1150000,
             1150000
           ]
@@ -207079,7 +207113,7 @@
             1299900,
             1299900,
             1299900,
-            1299900,
+            1250000,
             1250000,
             1250000
           ]
@@ -214437,7 +214471,7 @@
             220000,
             220000,
             220000,
-            220000,
+            200000,
             200000,
             200000
           ]
@@ -221259,8 +221293,8 @@
           "name": "Sony WH-CH720N Wireless Over-Ear Noise-Canceling Headphones (Blue)",
           "brand": "Sony",
           "category": "headset",
-          "price": 2599000,
-          "oldPrice": null,
+          "price": 2700000,
+          "oldPrice": 2599000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-WH-CH720N-Wireless-Over-Ear-Noise-Canceling-Headphones-Blue.jpg",
@@ -221277,7 +221311,7 @@
             2599000,
             2599000,
             2599000,
-            2599000
+            2700000
           ]
         },
         {
@@ -221285,8 +221319,8 @@
           "name": "Sony WH-CH720N Wireless Over-Ear Noise-Canceling Headphones (White)",
           "brand": "Sony",
           "category": "headset",
-          "price": 2599000,
-          "oldPrice": null,
+          "price": 2700000,
+          "oldPrice": 2599000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-WH-CH720N-Wireless-Over-Ear-Noise-Canceling-Headphones-White-.jpg",
@@ -221303,7 +221337,7 @@
             2599000,
             2599000,
             2599000,
-            2599000
+            2700000
           ]
         },
         {
@@ -221311,8 +221345,8 @@
           "name": "Sony WH-CH720N Wireless Over-Ear Noise-Canceling Headphones (Black)",
           "brand": "Sony",
           "category": "headset",
-          "price": 2599000,
-          "oldPrice": null,
+          "price": 2700000,
+          "oldPrice": 2599000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-WH-CH720N-Wireless-Over-Ear-Noise-Canceling-Headphones-Black.jpg",
@@ -221329,7 +221363,7 @@
             2599000,
             2599000,
             2599000,
-            2599000
+            2700000
           ]
         },
         {
@@ -224395,7 +224429,7 @@
             500000,
             500000,
             500000,
-            500000,
+            550000,
             550000,
             550000
           ]
@@ -230583,7 +230617,7 @@
             1050000,
             1050000,
             1050000,
-            1050000,
+            1000000,
             1000000,
             1000000
           ]
@@ -237239,7 +237273,7 @@
             200000,
             200000,
             200000,
-            200000,
+            180000,
             180000,
             180000
           ]
@@ -238480,7 +238514,7 @@
           "history": [
             34000000,
             34000000,
-            34000000,
+            34999900,
             34999900,
             34999900,
             34999900,
@@ -239026,7 +239060,7 @@
           "history": [
             790000,
             790000,
-            790000,
+            3100000,
             3100000,
             3100000,
             3100000,
@@ -243437,8 +243471,8 @@
           "name": "Seagate SkyHawk ST4000VX015 4TB  Surveillance 3.5&#8243; SATA Hard Drive",
           "brand": "Seagate",
           "category": "storage",
-          "price": 3200000,
-          "oldPrice": null,
+          "price": 4000000,
+          "oldPrice": 3200000,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/06/Seagate-SkyHawk-Surveillance-3.5-Internal-Hard-Drive-Price-in-Pakistan.jpg",
@@ -243455,7 +243489,7 @@
             3200000,
             3200000,
             3200000,
-            3200000
+            4000000
           ]
         },
         {
@@ -254659,7 +254693,7 @@
             110000,
             110000,
             110000,
-            110000,
+            80000,
             80000,
             80000
           ]
@@ -274852,6 +274886,7 @@
           "url": "https://rbtechngames.com/product/asus-dual-geforce-rtx-3050-6gb-oc-graphics-card-new-without-box",
           "history": [
             64999,
+            64999,
             64999
           ]
         },
@@ -274867,6 +274902,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/05/rbtech_asus_proart_rtx_4080_super_8.webp",
           "url": "https://rbtechngames.com/product/asus-proart-geforce-rtx-4080-super-oc-16gb-graphics-card-used",
           "history": [
+            334999,
             334999,
             334999
           ]
@@ -274884,23 +274920,8 @@
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-4080-super-aero-oc-16gb-graphics-card-used",
           "history": [
             324999,
+            324999,
             324999
-          ]
-        },
-        {
-          "id": "rbtechgames_fc0534ce",
-          "name": "MSI GeForce RTX 4080 Super VENTUS 3X 16GB OC &#8211; USED",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 304999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/07/rbtech_msi_rtx_4080_super_ventus_3x.png",
-          "url": "https://rbtechngames.com/product/msi-geforce-rtx-4080-super-ventus-3x-16gb-oc-used",
-          "history": [
-            304999,
-            304999
           ]
         },
         {
@@ -274915,6 +274936,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5080_windforce_oc_sff_16gb.webp",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card-used",
           "history": [
+            434999,
             434999,
             434999
           ]
@@ -274932,6 +274954,7 @@
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5080-aero-oc-sff-16gb-graphics-card-used",
           "history": [
             414999,
+            414999,
             414999
           ]
         },
@@ -274947,6 +274970,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-core-16gb-oc-graphics-card-used",
           "history": [
+            424999,
             424999,
             424999
           ]
@@ -274964,6 +274988,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-oc-16gb-graphics-card-white-used",
           "history": [
             424999,
+            424999,
             424999
           ]
         },
@@ -274979,6 +275004,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_pny_rtx_5060_ti_epic-x-rgb-oc.webp",
           "url": "https://rbtechngames.com/product/pny-geforce-rtx-5060-ti-16gb-epic-x-rgb-oc-graphics-card",
           "history": [
+            237999,
             237999,
             237999,
             237999,
@@ -275713,7 +275739,7 @@
             369999,
             369999,
             369999,
-            369999,
+            384999,
             384999,
             384999
           ]
@@ -275791,7 +275817,7 @@
             474999,
             474999,
             474999,
-            474999,
+            494999,
             494999,
             494999
           ]
@@ -276106,32 +276132,6 @@
             39499,
             39499,
             39499
-          ]
-        },
-        {
-          "id": "rbtechgames_7e3074be",
-          "name": "Asus ROG Falchion Ace HFX ZywOo Edition (M606) 8K Magnetic Gaming Keyboard with Rapid Trig",
-          "brand": "ASUS",
-          "category": "keyboard",
-          "price": 48499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_falchion_ace_hfx_zywoo.png",
-          "url": "https://rbtechngames.com/product/asus-rog-falchion-ace-hfx-zywoo-edition-m606-8k-magnetic-gaming-keyboard-with-rapid-trigger",
-          "history": [
-            48499,
-            48499,
-            48499,
-            48499,
-            48499,
-            48499,
-            48499,
-            48499,
-            48499,
-            48499,
-            48499,
-            48499
           ]
         },
         {
@@ -276834,6 +276834,32 @@
             241999,
             241999,
             241999
+          ]
+        },
+        {
+          "id": "rbtechgames_8bd2e54a",
+          "name": "HP Omen 16 (wf0007TX), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, RTX 4060, 16&#8243; QH",
+          "brand": "Intel",
+          "category": "gpu",
+          "price": 284999,
+          "oldPrice": 294999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_omen_16_wf0032tx_shadow_black.webp",
+          "url": "https://rbtechngames.com/product/hp-omen-16-wf0007tx-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4060-16-qhd-240hz-ips-display-shadow-black-used",
+          "history": [
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999
           ]
         },
         {
@@ -278391,7 +278417,7 @@
             50499,
             50499,
             50499,
-            50499,
+            54999,
             54999,
             54999
           ]
@@ -278436,7 +278462,7 @@
           "history": [
             69999,
             69999,
-            69999,
+            79999,
             79999,
             79999,
             79999,
@@ -279639,7 +279665,7 @@
             7499,
             7499,
             7499,
-            7499,
+            6999,
             6999,
             6999
           ]
@@ -279665,7 +279691,7 @@
             13499,
             13499,
             13499,
-            13499,
+            12999,
             12999,
             12999
           ]
@@ -280003,7 +280029,7 @@
             28499,
             28499,
             28499,
-            28499,
+            30499,
             30499,
             30499
           ]
@@ -280240,6 +280266,32 @@
             4399,
             4399,
             4399
+          ]
+        },
+        {
+          "id": "rbtechgames_b3895331",
+          "name": "Intel Core i5-14400F Desktop Processor &#8211; TRAY",
+          "brand": "Intel",
+          "category": "cpu",
+          "price": 48499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/02/rbtech_intel_i5_14400f.jpg",
+          "url": "https://rbtechngames.com/product/intel-core-i5-14400f-desktop-processor-tray",
+          "history": [
+            48499,
+            48499,
+            48499,
+            48499,
+            48499,
+            48499,
+            48499,
+            48499,
+            48499,
+            48499,
+            48499,
+            48499
           ]
         },
         {
@@ -280846,7 +280898,7 @@
           "brand": "MSI",
           "category": "keyboard",
           "price": 14999,
-          "oldPrice": 12499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/07/rbtech_msi_vigor_gk30.png",
@@ -280862,7 +280914,7 @@
             12499,
             12499,
             12499,
-            12499,
+            14999,
             14999
           ]
         },
@@ -281361,6 +281413,32 @@
           ]
         },
         {
+          "id": "rbtechgames_ac064254",
+          "name": "AMD RYZEN 5 7500F AM5 (6C/12T) Processor &#8211; Tray &#8211; NEW",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 33499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/04/AMD_RYZEN_5_7500F.jpg",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-7500f-am5-6c-12t-processor-tray-new",
+          "history": [
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499
+          ]
+        },
+        {
           "id": "rbtechgames_429c48ca",
           "name": "GIGABYTE A520M-K V2 DDR4 &#8211; Motherboard",
           "brand": "Gigabyte",
@@ -281465,6 +281543,32 @@
           ]
         },
         {
+          "id": "rbtechgames_c0088430",
+          "name": "Adata 16GB (1x16GB) 5600MHz C46 DDR5 U-DIMM Desktop Memory",
+          "brand": "Adata",
+          "category": "ram",
+          "price": 59999,
+          "oldPrice": 52499,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_adata_ddr5_16gb_5600mhz_2.jpg",
+          "url": "https://rbtechngames.com/product/adata-16gb-1x16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory",
+          "history": [
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            59999
+          ]
+        },
+        {
           "id": "rbtechgames_8691b0c8",
           "name": "MSI PRO H610M-E DDR5 Motherboard",
           "brand": "MSI",
@@ -281563,7 +281667,7 @@
             54999,
             54999,
             54999,
-            54999,
+            59999,
             59999,
             59999
           ]
@@ -282447,7 +282551,7 @@
             28499,
             28499,
             28499,
-            28499,
+            30499,
             30499,
             30499
           ]
@@ -282850,7 +282954,164 @@
       "url": "https://www.paklap.pk",
       "city": "Nationwide",
       "verified": true,
-      "products": []
+      "products": [
+        {
+          "id": "paklap_2b437f24",
+          "name": "Ninja Nvidia GeForce 4GB GT 730 128-Bit Graphic Card",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 24900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/d/o/download_80__1.jpg",
+          "url": "https://www.paklap.pk/ninja-nvidia-geforce-4gb-gt-730-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900
+          ]
+        },
+        {
+          "id": "paklap_842a569c",
+          "name": "EASE GeForce RTX 3050 6GB GDDR6 128-Bit Graphics Card",
+          "brand": "EASE",
+          "category": "gpu",
+          "price": 75900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/e/a/ease_geforce_rtx_3050_gddr6_128-bit_graphics_card_2.jpg",
+          "url": "https://www.paklap.pk/ease-geforce-rtx-3050-gddr6-128-bit-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900
+          ]
+        },
+        {
+          "id": "paklap_81761541",
+          "name": "MSI GeForce RTX 4060 Ti Gaming X Trio 8G (8GB GDDR6/PCI Express 4.0/2685MHz/18000MHz)",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 166900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/7/1/713uqznzghl._ac_sx679_.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4060-ti-gaming-x-trio-8g-8gb-gddr6-pci-express-4-0-2685mhz-18000mhz.html",
+          "history": [
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900
+          ]
+        },
+        {
+          "id": "paklap_a291d46d",
+          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 2x OC GDDR6X 256-Bit Graphics Card (White)",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 305900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_2x_oc_gddr6x_256-bit_graphics_card_white_.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-2x-oc-256-bit-graphic-card-white-price-reviews-pakistan.html",
+          "history": [
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900
+          ]
+        },
+        {
+          "id": "paklap_95010bc1",
+          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 3X OC GDDR6X 256-Bit Graphics Card",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 310900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_3x_oc_gddr6x_256-bit_graphics_card_1.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-3x-oc-256-bit-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900
+          ]
+        },
+        {
+          "id": "paklap_f39f7953",
+          "name": "PALIT NVIDIA GeForce 16GB RTX4080 Gaming Pro 256-Bit GDDR6X",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 372900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/p/a/palit_nvidia_geforce_16gb_rtx4080_gaming_pro_gddr6x.jpg",
+          "url": "https://www.paklap.pk/palit-nvidia-geforce-16gb-rtx-4080-gaming-pro-256-bit-gddr6x-price-reviews-pakistan.html",
+          "history": [
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900
+          ]
+        }
+      ]
     },
     {
       "id": "sigma",
