@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T05:49:18.605744+00:00",
+  "lastUpdated": "2026-08-29T12:21:48.853082+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -21,6 +21,7 @@
           "url": "https://www.pakbyte.pk/products/crucial-desktop-ram-16gb-3200mhz-ddr4",
           "history": [
             30499,
+            30499,
             30499
           ]
         },
@@ -39,6 +40,7 @@
             20999,
             20999,
             20999,
+            20999,
             20999
           ]
         },
@@ -54,6 +56,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-nj08-price-in-pakistan-pakbyte_5.webp?v=1787809795",
           "url": "https://www.pakbyte.pk/products/ajazz-nj08-wireless-gaming-mouse-white",
           "history": [
+            4690,
             4690,
             4690,
             4690,
@@ -77,6 +80,7 @@
             4690,
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -92,6 +96,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-apex-mouse-price-in-pakistan-pakbyte_4.png?v=1787809302",
           "url": "https://www.pakbyte.pk/products/ajazz-aj159-apex-wireless-8k-gaming-mouse-with-display-charging-dock-white",
           "history": [
+            17990,
             17990,
             17990,
             17990,
@@ -121,6 +126,7 @@
             17990,
             17990,
             17990,
+            17990,
             17990
           ]
         },
@@ -136,6 +142,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-pro-price-in-pakistan-pakbyte_2.webp?v=1787808598",
           "url": "https://www.pakbyte.pk/products/ajazz-aj159-pro-wireless-gaming-mouse-white",
           "history": [
+            12490,
             12490,
             12490,
             12490,
@@ -159,6 +166,7 @@
             12490,
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -178,6 +186,7 @@
             8990,
             8990,
             8990,
+            8990,
             8990
           ]
         },
@@ -193,6 +202,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj159-white-price-in-pakistan-pakbyte_1.webp?v=1787807635",
           "url": "https://www.pakbyte.pk/products/ajazz-aj159-wireless-gaming-mouse-white",
           "history": [
+            8990,
             8990,
             8990,
             8990,
@@ -222,6 +232,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -237,6 +248,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-aj139-v2-mc-price-in-pakistan-pakbyte_1.webp?v=1787641097",
           "url": "https://www.pakbyte.pk/products/ajazz-aj139-v2-mc-gaming-mouse-with-charging-base",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -2753,7 +2765,7 @@
           "category": "case",
           "price": 6690,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/micropack-msl-01-price-in-pakistan-pakbyte_1.webp?v=1784527916",
           "url": "https://www.pakbyte.pk/products/micropack-msl-01-laptop-sleeve-bag-case-with-carrying-handle-for-laptops-up-to-14-black",
@@ -3593,6 +3605,7 @@
             20999,
             20999,
             20999,
+            20999,
             20999
           ]
         },
@@ -3667,7 +3680,7 @@
             15990,
             15990,
             15990,
-            15990,
+            19499,
             19499,
             19499,
             19499,
@@ -3693,7 +3706,7 @@
             16490,
             16490,
             16490,
-            16490,
+            20499,
             20499,
             20499,
             20499,
@@ -3719,7 +3732,7 @@
             16490,
             16490,
             16490,
-            16490,
+            20499,
             20499,
             20499,
             20499,
@@ -12657,7 +12670,7 @@
           "url": "https://www.pakbyte.pk/products/kz-edx-pro-x-in-ear-earphone-iems-single-dynamic-driver-wired-gaming-earbud-black",
           "history": [
             3190,
-            3190,
+            2990,
             2990,
             2990,
             2990,
@@ -12994,8 +13007,8 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kz-gale-usb-price-in-pakistan-pakbyte_1.webp?v=1776076224",
           "url": "https://www.pakbyte.pk/products/kz-gale-usb-c-headphones-type-c-iem-earphone-with-microphone-black",
           "history": [
-            3990,
             4999,
+            4990,
             4990,
             4990,
             4990,
@@ -29785,7 +29798,7 @@
           "category": "cooler",
           "price": 21790,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Cooler-Master-MWE-Gold-750-V3-Power-Supply-Price-in-Pakistan-Pakbyte_2.jpg?v=1766409494",
           "url": "https://www.pakbyte.pk/products/cooler-master-mwe-gold-750-v3-fully-modular-power-supply",
@@ -32581,7 +32594,7 @@
             77990,
             77990,
             77990,
-            77990,
+            83999,
             83999,
             83999
           ]
@@ -37857,7 +37870,7 @@
             61999,
             61999,
             61999,
-            61999,
+            112999,
             112999,
             112999,
             112999,
@@ -42998,7 +43011,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-rx-9070-16gb-price-in-pakistan-pakbyte_1.webp?v=1761396349",
           "url": "https://www.pakbyte.pk/products/asus-prime-radeon-rx-9070-16gb-gddr6-oc-edition-graphics-card",
           "history": [
-            214990,
+            254999,
             254999,
             254999,
             254999,
@@ -44376,7 +44389,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-rx-9070-xt-16gb-gddr6-oc-graphics-card-price-in-pakistan-pakbyte_2.webp?v=1760487029",
           "url": "https://www.pakbyte.pk/products/asus-prime-rx-9070-xt-16gb-gddr6-oc-edition-graphics-card",
           "history": [
-            274990,
+            294999,
             294999,
             294999,
             294999,
@@ -44455,7 +44468,7 @@
           "url": "https://www.pakbyte.pk/products/asus-prime-rtx-5060-ti-16gb-gddr7-graphics-card",
           "history": [
             188999,
-            188999,
+            229999,
             229999,
             229999,
             229999,
@@ -45747,8 +45760,8 @@
           "name": "Thermalright KG-750-W 750W 80 Plus Gold Fully Modular Power Supply - White",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 21490,
-          "oldPrice": null,
+          "price": 23999,
+          "oldPrice": 21490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-kg-750-w-price-in-pakistan-pakbyte_2.webp?v=1759249338",
@@ -45765,7 +45778,7 @@
             21490,
             21490,
             21490,
-            21490
+            23999
           ]
         },
         {
@@ -47567,8 +47580,8 @@
           "name": "TeamGroup T-Force Delta RGB 32GB (2x16GB) 6400MHz (6400MT/s) CL40 DDR5 Desktop Memory -  W",
           "brand": "TeamGroup",
           "category": "ram",
-          "price": 98999,
-          "oldPrice": null,
+          "price": 167999,
+          "oldPrice": 98999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/t-force-delta-rgb-16gb-ddr5-ram-white_5.webp?v=1756825964",
@@ -47585,7 +47598,7 @@
             98999,
             98999,
             98999,
-            98999
+            167999
           ]
         },
         {
@@ -49319,6 +49332,7 @@
             20499,
             20499,
             20499,
+            20499,
             20499
           ]
         },
@@ -49341,7 +49355,7 @@
             14490,
             14490,
             14490,
-            14490,
+            19499,
             19499,
             19499,
             19499,
@@ -103163,7 +103177,7 @@
             7990,
             7990,
             7990,
-            7990,
+            8499,
             8499,
             8499
           ]
@@ -121817,7 +121831,7 @@
           "category": "mouse",
           "price": 14799,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Glorious-Model-I-Gaming-Mouse-Matte-Black-PakByte-Computers-24397416988739.webp?v=1753682387",
           "url": "https://www.pakbyte.pk/products/glorious-model-i-matte-black",
@@ -145743,6 +145757,7 @@
             1500000,
             1500000,
             1500000,
+            1500000,
             1500000
           ]
         },
@@ -145758,6 +145773,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-15-mc9l4-m3-8-core-chip-24gb-unified-ram-512-ssd-midnight",
           "history": [
+            37500000,
             37500000,
             37500000,
             37500000,
@@ -145785,6 +145801,7 @@
             3300000,
             3300000,
             3300000,
+            3300000,
             3300000
           ]
         },
@@ -145800,6 +145817,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/HP-15-FD0154WM-15.6-FHD-Laptop-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/hp-15-fd0154wm-15-6-fhd-laptop",
           "history": [
+            18500000,
             18500000,
             18500000,
             18500000,
@@ -146157,7 +146175,7 @@
           "category": "cooler",
           "price": 580000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Thermalright-Assassin-X-120-Refined-SE-ARGB-Black-CPU-Air-Cooler-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-x-120-refined-se-argb-black-cpu-air-cooler",
@@ -146571,8 +146589,8 @@
           "name": "MSI GeForce RTX 5060 Ti 8G GAMING TRIO OC Graphics Card | 8GB GDDR7 | NVIDIA Blackwell | P",
           "brand": "MSI",
           "category": "gpu",
-          "price": 16500000,
-          "oldPrice": null,
+          "price": 17500000,
+          "oldPrice": 16500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/MSI-GeForce-RTX-5060-Ti-8G-GAMING-TRIO-OC-Graphics-Card-Price-In-Pakistan.jpg",
@@ -146589,7 +146607,7 @@
             16500000,
             16500000,
             16500000,
-            16500000
+            17500000
           ]
         },
         {
@@ -147165,32 +147183,6 @@
           ]
         },
         {
-          "id": "zah_32380af3",
-          "name": "Apple MacBook Air 13&#8243; MDHE4 M5 Chip 10-Core 16GB Unified RAM | 1TB SSD Midnight",
-          "brand": "Apple",
-          "category": "ram",
-          "price": 46799900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
-          "url": "https://zahcomputers.pk/product/apple-macbook-air-13-mdhe4-m5-chip-10-core-16gb-unified-ram-1tb-ssd-midnight",
-          "history": [
-            46799900,
-            46799900,
-            46799900,
-            46799900,
-            46799900,
-            46799900,
-            46799900,
-            46799900,
-            46799900,
-            46799900,
-            46799900,
-            46799900
-          ]
-        },
-        {
           "id": "zah_a3f607c2",
           "name": "Fantech VALOR II MH89 Multi-Platform Wired Gaming Headset | 40mm Drivers | 3.5mm TRRS | Om",
           "brand": "Fantech",
@@ -147365,7 +147357,7 @@
             3399900,
             3399900,
             3399900,
-            3399900,
+            3750000,
             3750000,
             3750000,
             3750000,
@@ -147881,6 +147873,7 @@
             34000000,
             34000000,
             34000000,
+            34000000,
             34000000
           ]
         },
@@ -147903,7 +147896,7 @@
             40000000,
             40000000,
             40000000,
-            40000000,
+            41000000,
             41000000,
             41000000,
             41000000,
@@ -147929,7 +147922,7 @@
             30500000,
             30500000,
             30500000,
-            30500000,
+            31000000,
             31000000,
             31000000,
             31000000,
@@ -148021,7 +148014,7 @@
           "category": "cpu",
           "price": 5500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Dell-Latitude-3410-Business-Laptop.jpg",
           "url": "https://zahcomputers.pk/product/dell-latitude-3410-business-laptop-used",
@@ -150765,7 +150758,7 @@
             3150000,
             3150000,
             3150000,
-            3150000,
+            4000000,
             4000000,
             4000000
           ]
@@ -152233,7 +152226,7 @@
           "category": "ram",
           "price": 4300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/DELL-LATITUDE-3400-Price-in-Pakistan.png",
           "url": "https://zahcomputers.pk/product/dell-latitude-3400-i5-8th-gen-8gb-ram-256-gb-ssd-camera-14-1-display-used",
@@ -153025,7 +153018,7 @@
             3399900,
             3399900,
             3399900,
-            3399900,
+            3500000,
             3500000,
             3500000,
             3500000,
@@ -155919,38 +155912,12 @@
           ]
         },
         {
-          "id": "zah_ec69fc54",
-          "name": "Apple MacBook Air 15&#8243; MDVQ4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Sky Blue",
-          "brand": "Apple",
-          "category": "ram",
-          "price": 47000000,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-15-MDVQ4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
-          "url": "https://zahcomputers.pk/product/apple-macbook-air-15-mdvq4-m5-chip-10-core-16gb-unified-ram-512gb-ssd-sky-blue",
-          "history": [
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000
-          ]
-        },
-        {
           "id": "zah_4b39fdd6",
           "name": "Apple MacBook Air 13&#8243; MDHA4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Starlight",
           "brand": "Apple",
           "category": "ram",
-          "price": 42000000,
-          "oldPrice": null,
+          "price": 44280000,
+          "oldPrice": 42000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHA4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
@@ -155967,7 +155934,7 @@
             42000000,
             42000000,
             42000000,
-            42000000
+            44280000
           ]
         },
         {
@@ -155975,8 +155942,8 @@
           "name": "Apple MacBook Air 13&#8243; MDH74 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Silver",
           "brand": "Apple",
           "category": "ram",
-          "price": 42000000,
-          "oldPrice": null,
+          "price": 44820000,
+          "oldPrice": 42000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDH74-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
@@ -155993,7 +155960,7 @@
             42000000,
             42000000,
             42000000,
-            42000000
+            44820000
           ]
         },
         {
@@ -156001,8 +155968,8 @@
           "name": "Apple MacBook Air 13&#8243; MDHH4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Sky Blue",
           "brand": "Apple",
           "category": "ram",
-          "price": 41000000,
-          "oldPrice": null,
+          "price": 44280000,
+          "oldPrice": 41000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -156019,7 +155986,7 @@
             41000000,
             41000000,
             41000000,
-            41000000
+            44280000
           ]
         },
         {
@@ -156157,8 +156124,8 @@
           "name": "Apple MacBook Air 15&#8243; MW1H3 M4 10-Core Chip 16GB Unified RAM | 512GB SSD Silver",
           "brand": "Apple",
           "category": "ram",
-          "price": 42599900,
-          "oldPrice": null,
+          "price": 43740000,
+          "oldPrice": 42599900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-15-MW1H3-M4-10-Core-Chip-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
@@ -156175,7 +156142,7 @@
             42599900,
             42599900,
             42599900,
-            42599900
+            43740000
           ]
         },
         {
@@ -158461,7 +158428,7 @@
             23000000,
             23000000,
             23000000,
-            23000000,
+            25500000,
             25500000,
             25500000
           ]
@@ -159225,8 +159192,8 @@
           "name": "Apple MacBook Neo MHFC4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 512GB SSD Silver T",
           "brand": "Apple",
           "category": "ram",
-          "price": 27849900,
-          "oldPrice": null,
+          "price": 28080000,
+          "oldPrice": 27849900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFA4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Silver.jpg",
@@ -159243,7 +159210,7 @@
             27849900,
             27849900,
             27849900,
-            27849900
+            28080000
           ]
         },
         {
@@ -159251,8 +159218,8 @@
           "name": "Apple MacBook Neo MHFH4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 256GB SSD Blush",
           "brand": "Apple",
           "category": "ram",
-          "price": 24899900,
-          "oldPrice": null,
+          "price": 25380000,
+          "oldPrice": 24899900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFH4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Blush-Price-in-Pakistan.jpg",
@@ -159269,7 +159236,7 @@
             24899900,
             24899900,
             24899900,
-            24899900
+            25380000
           ]
         },
         {
@@ -159277,8 +159244,8 @@
           "name": "Apple MacBook Neo MHFF4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 256GB SSD Indigo",
           "brand": "Apple",
           "category": "ram",
-          "price": 25380000,
-          "oldPrice": null,
+          "price": 24300000,
+          "oldPrice": 25380000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFF4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Indigo-Price-in-Pakistan.jpg",
@@ -159295,7 +159262,7 @@
             25380000,
             25380000,
             25380000,
-            25380000
+            24300000
           ]
         },
         {
@@ -159303,8 +159270,8 @@
           "name": "Apple MacBook Neo MHFA4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 256GB SSD Silver",
           "brand": "Apple",
           "category": "ram",
-          "price": 25380000,
-          "oldPrice": null,
+          "price": 24300000,
+          "oldPrice": 25380000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFA4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Silver.jpg",
@@ -159321,7 +159288,7 @@
             25380000,
             25380000,
             25380000,
-            25380000
+            24300000
           ]
         },
         {
@@ -159377,38 +159344,12 @@
           ]
         },
         {
-          "id": "zah_a6d54af9",
-          "name": "Apple MacBook Air 15&#8243; MDV94 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Silver",
-          "brand": "Apple",
-          "category": "ram",
-          "price": 47000000,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-15-MDV94-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
-          "url": "https://zahcomputers.pk/product/apple-macbook-air-15-mdv94-m5-chip-10-core-16gb-unified-ram-512gb-ssd-silver",
-          "history": [
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000,
-            47000000
-          ]
-        },
-        {
           "id": "zah_fe98f149",
           "name": "Apple MacBook Air 13&#8243; MDHE4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Midnight",
           "brand": "Apple",
           "category": "ram",
-          "price": 42000000,
-          "oldPrice": null,
+          "price": 44280000,
+          "oldPrice": 42000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
@@ -159425,7 +159366,7 @@
             42000000,
             42000000,
             42000000,
-            42000000
+            44280000
           ]
         },
         {
@@ -165181,7 +165122,7 @@
           "category": "cpu",
           "price": 4700000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Dell-Latitude-5480-Core-i5-7th-Gen-8-GB-RAM-256-GB-SSD-14-Display-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/dell-latitude-e7470-14-intel-core-i5-2-4ghz-12gb-512gb-ssd-used",
@@ -167059,7 +167000,7 @@
           "url": "https://zahcomputers.pk/product/thermalright-peerless-vision-360-argb-white-cpu-liquid-cooler",
           "history": [
             3099900,
-            3099900,
+            3300000,
             3300000,
             3300000,
             3300000,
@@ -167085,7 +167026,7 @@
           "url": "https://zahcomputers.pk/product/thermalright-peerless-vision-360-argb-black-cpu-liquid-cooler",
           "history": [
             2999900,
-            2999900,
+            3300000,
             3300000,
             3300000,
             3300000,
@@ -171745,7 +171686,7 @@
             2000000,
             2000000,
             2000000,
-            2000000,
+            1850000,
             1850000,
             1850000,
             1850000,
@@ -172267,7 +172208,7 @@
             27500000,
             27500000,
             27500000,
-            27500000,
+            26800000,
             26800000,
             26800000
           ]
@@ -181469,7 +181410,7 @@
             1349900,
             1349900,
             1349900,
-            1349900,
+            1300000,
             1300000,
             1300000,
             1300000,
@@ -181495,7 +181436,7 @@
             1249900,
             1249900,
             1249900,
-            1249900,
+            1200000,
             1200000,
             1200000,
             1200000,
@@ -187685,7 +187626,7 @@
             30000000,
             30000000,
             30000000,
-            30000000,
+            29000000,
             29000000,
             29000000
           ]
@@ -187747,8 +187688,8 @@
           "name": "Apple MacBook Air 15&#8243; MW1K3 M4 10-Core Chip 16GB Memory 512GB SSD Starlight",
           "brand": "Apple",
           "category": "storage",
-          "price": 42599900,
-          "oldPrice": null,
+          "price": 43740000,
+          "oldPrice": 42599900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Apple-MacBook-Air-15-MW1K3-M4-10-Core-Chip-16GB-Memory-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
@@ -187765,7 +187706,7 @@
             42599900,
             42599900,
             42599900,
-            42599900
+            43740000
           ]
         },
         {
@@ -191077,7 +191018,7 @@
           "category": "storage",
           "price": 6000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/HP-Probook-440-G7-Ci5-10th-Gen-16GB-512GB-SSD-14-Inch-Display-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-probook-440-g7-ci5-10th-gen-16gb-512gb-ssd-14-inch-display-used",
@@ -191481,7 +191422,7 @@
             24500000,
             24500000,
             24500000,
-            24500000,
+            23500000,
             23500000,
             23500000
           ]
@@ -192571,7 +192512,7 @@
             5800000,
             5800000,
             5800000,
-            5800000,
+            6400000,
             6400000,
             6400000,
             6400000,
@@ -192677,7 +192618,7 @@
             4250000,
             4250000,
             4250000,
-            4250000,
+            3900000,
             3900000,
             3900000
           ]
@@ -194254,7 +194195,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Sapphire-Pulse-Radeon-RX-9070-XT-16GB-GDDR6-PCI-Express-5.0-x16-ATX-Graphics-Card-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/sapphire-pure-radeon-rx-9070-xt-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card",
           "history": [
-            28500000,
+            29800000,
             29800000,
             29800000,
             29800000,
@@ -195469,8 +195410,8 @@
           "name": "Apple Macbook Air 15&#8243; MC7C4 M4 Chip 10 core CPU 10 core GPU 16GB Ram | 512GB SSD Sky",
           "brand": "Apple",
           "category": "ram",
-          "price": 42599900,
-          "oldPrice": null,
+          "price": 43740000,
+          "oldPrice": 42599900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Apple-Macbook-Air-15-MC7A4-M4-Chip-10-core-CPU-10-core-GPU-16GB-Ram-256GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -195487,7 +195428,7 @@
             42599900,
             42599900,
             42599900,
-            42599900
+            43740000
           ]
         },
         {
@@ -197187,7 +197128,7 @@
           "category": "ram",
           "price": 4800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Hp-Probook-640-G3-Ci5-7th-Gen-8GB-Ram-256GB-SSD-14-Display-Refurbished-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-probook-640-g3-ci5-7th-gen-8gb-ram-256gb-ssd-14-display",
@@ -197291,7 +197232,7 @@
           "category": "ram",
           "price": 5800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Dell-Latitude-5590-Core-i5-8th-Gen-8GB-RAM-256GB-SSD-15-Display-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/dell-latitude-5590-core-i5-8th-gen-8gb-ram-256gb-ssd-15%e2%80%b3-display",
@@ -200489,7 +200430,7 @@
           "category": "cpu",
           "price": 23000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/HP-ProBook-440-G10-Intel-Core-i7-1355U-8GB-DDR4-3200-512-GB-PCIe®-NVMe-14-FHD-1920-x-1080-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-probook-440-g10-intel-core-i7-1355u-8gb-ddr4-3200-512-gb-pcie-nvme-14-fhd-1920-x-1080-ips-narrow-bezel-anti-glare-250-nits-no-os-backpack-pike-silver-aluminum",
@@ -203297,7 +203238,7 @@
           "category": "cpu",
           "price": 6000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/04/HP-EliteBook-840-G5-8th-Gen-Core-i7-8650U-Processor-8-GB-256-GB-Intel-UHD-620-GC-14-Full-HD-1080p-IPS-Display-BO-Play-Backlit-KB-FP-Reader-W10-Pro-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-840-g5-business-laptop-intel-core-i5-8350u-8gb-256gb-ssd-backlit-kb-14-fhd-used",
@@ -207079,7 +207020,7 @@
             1400000,
             1400000,
             1400000,
-            1400000,
+            1150000,
             1150000,
             1150000,
             1150000,
@@ -207105,7 +207046,7 @@
             1400000,
             1400000,
             1400000,
-            1400000,
+            1150000,
             1150000,
             1150000,
             1150000,
@@ -207131,7 +207072,7 @@
             1299900,
             1299900,
             1299900,
-            1299900,
+            1250000,
             1250000,
             1250000,
             1250000,
@@ -213721,8 +213662,8 @@
           "name": "Apple MXK63 Magic Mouse USB-C, Black",
           "brand": "Apple",
           "category": "mouse",
-          "price": 3465000,
-          "oldPrice": null,
+          "price": 3564000,
+          "oldPrice": 3465000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/Apple-MXK63-Magic-Mouse-USB-C-White-Price-in-Pakistan.jpg",
@@ -213739,7 +213680,7 @@
             3465000,
             3465000,
             3465000,
-            3465000
+            3564000
           ]
         },
         {
@@ -214489,7 +214430,7 @@
             220000,
             220000,
             220000,
-            220000,
+            200000,
             200000,
             200000,
             200000,
@@ -216271,7 +216212,7 @@
           "category": "gpu",
           "price": 13000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/MAXSUN-Intel-Arc-B580-iCraft-12G-Graphics-Cards.webp",
           "url": "https://zahcomputers.pk/product/maxsun-intel-arc-b580-icraft-12g-graphics-cards",
@@ -221329,7 +221270,7 @@
             2599000,
             2599000,
             2599000,
-            2599000,
+            2700000,
             2700000,
             2700000
           ]
@@ -221355,7 +221296,7 @@
             2599000,
             2599000,
             2599000,
-            2599000,
+            2700000,
             2700000,
             2700000
           ]
@@ -221381,7 +221322,7 @@
             2599000,
             2599000,
             2599000,
-            2599000,
+            2700000,
             2700000,
             2700000
           ]
@@ -224447,7 +224388,7 @@
             500000,
             500000,
             500000,
-            500000,
+            550000,
             550000,
             550000,
             550000,
@@ -228827,8 +228768,8 @@
           "name": "Apple MacBook Air Z160008FZ M2 Chip 8-core CPU 16GB 1TB SSD 13.6″ IPS Retina LED Display W",
           "brand": "Apple",
           "category": "storage",
-          "price": 36750000,
-          "oldPrice": null,
+          "price": 37800000,
+          "oldPrice": 36750000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/Apple-MacBook-Air-Z160008FZ-Lowest-Price-in-Pakistan.jpg",
@@ -228845,7 +228786,7 @@
             36750000,
             36750000,
             36750000,
-            36750000
+            37800000
           ]
         },
         {
@@ -230635,7 +230576,7 @@
             1050000,
             1050000,
             1050000,
-            1050000,
+            1000000,
             1000000,
             1000000,
             1000000,
@@ -237291,7 +237232,7 @@
             200000,
             200000,
             200000,
-            200000,
+            180000,
             180000,
             180000,
             180000,
@@ -238532,7 +238473,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/11/SAMSUNG-G9-Odyssey-49-LS49CG934SMXUE-Price-in-Pakistan_20.jpg",
           "url": "https://zahcomputers.pk/product/samsung-g9-odyssey-49-ls49cg934smxue-g93sc-series-oled-curved-240hz-0-03ms-dual-qhd-neo-quantum-processor-pro-displayhdr-400-amd-freesync-premium-pro-gaming-hub-gaming-monitor",
           "history": [
-            34000000,
+            34999900,
             34999900,
             34999900,
             34999900,
@@ -239078,7 +239019,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/10/Lexar-16GB.jpg",
           "url": "https://zahcomputers.pk/product/lexar-16gb-ld4au016g-b3200gsst-dram-ddr4-3200-mhz-udimm-desktop-memory",
           "history": [
-            790000,
+            3100000,
             3100000,
             3100000,
             3100000,
@@ -240969,8 +240910,8 @@
           "name": "Apple MacBook Air CTO Z18U000T5 M2 Chip 8-core CPU 16GB 1TB SSD 15″ IPS Retina LED Display",
           "brand": "Apple",
           "category": "storage",
-          "price": 39399900,
-          "oldPrice": null,
+          "price": 40500000,
+          "oldPrice": 39399900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/07/Apple-MacBook-Air-Price-in-Pakistan.jpg",
@@ -240987,7 +240928,7 @@
             39399900,
             39399900,
             39399900,
-            39399900
+            40500000
           ]
         },
         {
@@ -243507,7 +243448,7 @@
             3200000,
             3200000,
             3200000,
-            3200000,
+            4000000,
             4000000,
             4000000
           ]
@@ -254711,7 +254652,7 @@
             110000,
             110000,
             110000,
-            110000,
+            80000,
             80000,
             80000,
             80000,
@@ -274908,6 +274849,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -274923,6 +274865,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/05/rbtech_asus_proart_rtx_4080_super_8.webp",
           "url": "https://rbtechngames.com/product/asus-proart-geforce-rtx-4080-super-oc-16gb-graphics-card-used",
           "history": [
+            334999,
             334999,
             334999,
             334999,
@@ -274944,6 +274887,7 @@
             324999,
             324999,
             324999,
+            324999,
             324999
           ]
         },
@@ -274959,6 +274903,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5080_windforce_oc_sff_16gb.webp",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card-used",
           "history": [
+            434999,
             434999,
             434999,
             434999,
@@ -274980,6 +274925,7 @@
             414999,
             414999,
             414999,
+            414999,
             414999
           ]
         },
@@ -274995,6 +274941,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-core-16gb-oc-graphics-card-used",
           "history": [
+            424999,
             424999,
             424999,
             424999,
@@ -275016,6 +274963,7 @@
             424999,
             424999,
             424999,
+            424999,
             424999
           ]
         },
@@ -275031,6 +274979,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_pny_rtx_5060_ti_epic-x-rgb-oc.webp",
           "url": "https://rbtechngames.com/product/pny-geforce-rtx-5060-ti-16gb-epic-x-rgb-oc-graphics-card",
           "history": [
+            237999,
             237999,
             237999,
             237999,
@@ -275765,7 +275714,7 @@
             369999,
             369999,
             369999,
-            369999,
+            384999,
             384999,
             384999,
             384999,
@@ -275843,7 +275792,7 @@
             474999,
             474999,
             474999,
-            474999,
+            494999,
             494999,
             494999,
             494999,
@@ -276215,6 +276164,32 @@
           ]
         },
         {
+          "id": "rbtechgames_a8870cef",
+          "name": "Asus ROG Harpe Ace Extreme (P718) 8K Wireless 47g Gaming Mouse &#8211; Black",
+          "brand": "ASUS",
+          "category": "mouse",
+          "price": 68999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_harpe_ace_extreme.png",
+          "url": "https://rbtechngames.com/product/asus-rog-harpe-ace-extreme-p718-8k-wireless-47g-gaming-mouse-black",
+          "history": [
+            68999,
+            68999,
+            68999,
+            68999,
+            68999,
+            68999,
+            68999,
+            68999,
+            68999,
+            68999,
+            68999,
+            68999
+          ]
+        },
+        {
           "id": "rbtechgames_984fc009",
           "name": "Asus ROG Gladius III Core (P523) Wired Gaming Mouse &#8211; Black",
           "brand": "ASUS",
@@ -276505,8 +276480,8 @@
           "name": "Crucial SODIMM 32GB (2x16GB) 5600MT/s CL46 DDR5 Laptop Memory",
           "brand": "Crucial",
           "category": "ram",
-          "price": 101999,
-          "oldPrice": null,
+          "price": 109999,
+          "oldPrice": 101999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_crucial_sodimm_ddr5_kit.jpg",
@@ -276523,7 +276498,7 @@
             101999,
             101999,
             101999,
-            101999
+            109999
           ]
         },
         {
@@ -276531,8 +276506,8 @@
           "name": "Crucial SODIMM 32GB (1x32GB) 5600MT/s CL46 DDR5 Laptop Memory",
           "brand": "Crucial",
           "category": "ram",
-          "price": 111999,
-          "oldPrice": null,
+          "price": 114999,
+          "oldPrice": 111999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_crucial_sodimm_ddr5_single.jpg",
@@ -276549,7 +276524,7 @@
             111999,
             111999,
             111999,
-            111999
+            114999
           ]
         },
         {
@@ -276706,6 +276681,32 @@
             22999,
             22999,
             22999
+          ]
+        },
+        {
+          "id": "rbtechgames_9e080c91",
+          "name": "Asus ROG Astral GeForce RTX 5090 32GB White OC Edition Graphics Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 1649999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
+          "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card",
+          "history": [
+            1649999,
+            1649999,
+            1649999,
+            1649999,
+            1649999,
+            1649999,
+            1649999,
+            1649999,
+            1649999,
+            1649999,
+            1649999,
+            1649999
           ]
         },
         {
@@ -278391,7 +278392,7 @@
             50499,
             50499,
             50499,
-            50499,
+            54999,
             54999,
             54999,
             54999,
@@ -278436,7 +278437,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_lexar_nq790-scaled.webp",
           "url": "https://rbtechngames.com/product/lexar-nq790-nvme-m-2-gen-4-ssd-512gb-1tb-2tb-4tb",
           "history": [
-            69999,
+            79999,
             79999,
             79999,
             79999,
@@ -278682,32 +278683,6 @@
             35499,
             35499,
             35499
-          ]
-        },
-        {
-          "id": "rbtechgames_257c358c",
-          "name": "Asus ROG Astral GeForce RTX 5080 16GB OC Graphics Card",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 624999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_asus_rog_astral_rtx_5080_16gb_oc.png",
-          "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5080-16gb-oc-graphics-card",
-          "history": [
-            624999,
-            624999,
-            624999,
-            624999,
-            624999,
-            624999,
-            624999,
-            624999,
-            624999,
-            624999,
-            624999,
-            624999
           ]
         },
         {
@@ -279413,6 +279388,32 @@
           ]
         },
         {
+          "id": "rbtechgames_efcdcdbf",
+          "name": "Asus ProArt X870E-Creator WiFi ATX AM5 DDR5 Gaming Motherboard",
+          "brand": "ASUS",
+          "category": "ram",
+          "price": 184999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_asus_proart_x870e-creator_wifi.png",
+          "url": "https://rbtechngames.com/product/asus-proart-x870e-creator-wifi-atx-am5-ddr5-gaming-motherboard",
+          "history": [
+            184999,
+            184999,
+            184999,
+            184999,
+            184999,
+            184999,
+            184999,
+            184999,
+            184999,
+            184999,
+            184999,
+            184999
+          ]
+        },
+        {
           "id": "rbtechgames_6f190796",
           "name": "Aula WIN60 HE MAX 65% Wired RGB Magnetic Gaming Keyboard &#8211; White Blue Grey (Wing Chu",
           "brand": "Aula",
@@ -279613,7 +279614,7 @@
             7499,
             7499,
             7499,
-            7499,
+            6999,
             6999,
             6999,
             6999,
@@ -279639,7 +279640,7 @@
             13499,
             13499,
             13499,
-            13499,
+            12999,
             12999,
             12999,
             12999,
@@ -279977,7 +279978,7 @@
             28499,
             28499,
             28499,
-            28499,
+            30499,
             30499,
             30499,
             30499,
@@ -280862,7 +280863,7 @@
             12499,
             12499,
             12499,
-            12499,
+            14999,
             14999,
             14999,
             14999
@@ -281126,6 +281127,32 @@
             26999,
             26999,
             26999
+          ]
+        },
+        {
+          "id": "rbtechgames_6d3ef6fa",
+          "name": "XPG Lancer Blade 64GB (2x32GB) DDR5 DRAM 6000MT/s CL30 Memory Kit &#8211; White",
+          "brand": "XPG",
+          "category": "ram",
+          "price": 314999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/05/rbtech_xpg_lancer_blade_white.png",
+          "url": "https://rbtechngames.com/product/xpg-lancer-blade-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-memory-kit-white",
+          "history": [
+            314999,
+            314999,
+            314999,
+            314999,
+            314999,
+            314999,
+            314999,
+            314999,
+            314999,
+            314999,
+            314999,
+            314999
           ]
         },
         {
@@ -281487,7 +281514,7 @@
             52499,
             52499,
             52499,
-            52499,
+            59999,
             59999,
             59999
           ]
@@ -281589,7 +281616,7 @@
             54999,
             54999,
             54999,
-            54999,
+            59999,
             59999,
             59999,
             59999,
@@ -282473,7 +282500,7 @@
             28499,
             28499,
             28499,
-            28499,
+            30499,
             30499,
             30499,
             30499,
