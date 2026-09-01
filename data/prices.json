@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T11:10:10.647723+00:00",
+  "lastUpdated": "2026-09-01T16:07:25.239150+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-magnetic-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1788241823",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-compact-magnetic-keyboard-gray-white-yellow",
           "history": [
+            10490,
             10490
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-Compact-Magnetic-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1788241507",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-compact-magnetic-keyboard-white-blue",
           "history": [
+            10490,
             10490
           ]
         },
@@ -50,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-f1-v3-ultimate-price-in-pakistan-pakbyte_5.webp?v=1788240729",
           "url": "https://www.pakbyte.pk/products/atk-blazing-f1-v3-ultimate-wireless-gaming-mouse-pearl-blue",
           "history": [
+            21990,
             21990
           ]
         },
@@ -65,6 +68,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-sky-x1-v2-ultimate-2.0-price-in-pakistan-pakbyte.webp?v=1788240147",
           "url": "https://www.pakbyte.pk/products/atk-blazing-sky-x1-v2-ultimate-2-0-wireless-gaming-mouse-metallic-red-1",
           "history": [
+            20490,
             20490
           ]
         },
@@ -80,6 +84,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-68-Key-Magnetic-Switch-Keyboard-White-Price-in-Pakistan-Pakbyte_1.webp?v=1788159325",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-68-key-magnetic-switch-keyboard-white",
           "history": [
+            11990,
             11990,
             11990,
             11990,
@@ -101,6 +106,7 @@
             11990,
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -116,6 +122,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-ak820-pro-price-in-pakistan-pakbyte_1.webp?v=1788158754",
           "url": "https://www.pakbyte.pk/products/ajazz-ak820-pro-75-mechanical-keyboard-white-purple-yellow",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -137,6 +144,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -155,6 +163,7 @@
             4690,
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -170,6 +179,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-nj07-mc-price-in-pakistan-pakbyte_1.webp?v=1788155810",
           "url": "https://www.pakbyte.pk/products/ajazz-nj07-mc-67g-ultra-lightweight-wireless-mouse-white",
           "history": [
+            4690,
             4690,
             4690,
             4690,
@@ -4524,7 +4534,7 @@
           "brand": "ATK",
           "category": "mouse",
           "price": 18990,
-          "oldPrice": 20490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-sky-x1-v2-price-in-pakistan-pakbyte_1_a68962a4-6f04-4f95-a056-cff86ba1b68a.webp?v=1783930367",
@@ -4540,7 +4550,7 @@
             20490,
             20490,
             20490,
-            20490,
+            18990,
             18990
           ]
         },
@@ -7331,8 +7341,8 @@
           "name": "Deepcool Spartacus 360 Liquid Cooler – Black",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 49490,
-          "oldPrice": null,
+          "price": 48490,
+          "oldPrice": 49490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Deepcool-SPARTACUS-360-Price-in-Pakistan-Pakbyte_1.webp?v=1782318972",
@@ -7349,7 +7359,7 @@
             49490,
             49490,
             49490,
-            49490
+            48490
           ]
         },
         {
@@ -7657,7 +7667,7 @@
             6990,
             6990,
             6990,
-            6990,
+            7799,
             7799,
             7799,
             7799,
@@ -22567,8 +22577,8 @@
           "name": "DeepCool AS500 Plus Single Tower ARGB CPU Air Cooler – White",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 9790,
-          "oldPrice": null,
+          "price": 8990,
+          "oldPrice": 9790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/DeepCool-AS500-Plus-Single-Tower-ARGB-CPU-Air-Cooler-White-Price-in-Pakistan-Pakbyte_1.jpg?v=1771597907",
@@ -22585,7 +22595,7 @@
             9790,
             9790,
             9790,
-            9790
+            8990
           ]
         },
         {
@@ -22593,8 +22603,8 @@
           "name": "DeepCool LM360 Liquid CPU Cooler - White",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 30990,
-          "oldPrice": null,
+          "price": 29990,
+          "oldPrice": 30990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Deepcool-LM360-W-price-in-pakistan-pakbyte_4.jpg?v=1771597146",
@@ -22611,7 +22621,7 @@
             30990,
             30990,
             30990,
-            30990
+            29990
           ]
         },
         {
@@ -22619,8 +22629,8 @@
           "name": "DeepCool LM360 Liquid CPU Cooler - Black",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 29990,
-          "oldPrice": null,
+          "price": 28990,
+          "oldPrice": 29990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Deepcool-LM360-price-in-pakistan-pakbyte_3.jpg?v=1771596310",
@@ -22637,7 +22647,7 @@
             29990,
             29990,
             29990,
-            29990
+            28990
           ]
         },
         {
@@ -30446,7 +30456,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 13999,
-          "oldPrice": 13990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-win60-he-max-wired-mechanical-keyboard-rt-price-in-pakistan-pakbyte.webp?v=1766307621",
@@ -30462,7 +30472,7 @@
             13990,
             13990,
             13990,
-            13990,
+            13999,
             13999
           ]
         },
@@ -46000,7 +46010,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-kg-750-w-price-in-pakistan-pakbyte_2.webp?v=1759249338",
           "url": "https://www.pakbyte.pk/products/thermalright-kg-750-w-750w-80-plus-gold-fully-modular-power-supply-white",
           "history": [
-            21490,
+            23999,
             23999,
             23999,
             23999,
@@ -46353,8 +46363,8 @@
           ]
         },
         {
-          "id": "pakbyte_994baedc",
-          "name": "1st Player FC7 ARGB 120mm Case Fan, Pack of 3 - White",
+          "id": "pakbyte_aa71e8af",
+          "name": "1st Player FC7 ARGB 120mm Case Fan Pack of 3 - White",
           "brand": "1st",
           "category": "cooler",
           "price": 5090,
@@ -46364,23 +46374,12 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/1st-player-fc7-white-pack-of-3-price-in-pakistan-pakbyte_2.webp?v=1759242008",
           "url": "https://www.pakbyte.pk/products/1st-player-fc7-argb-120mm-case-fan-pack-of-3-white",
           "history": [
-            5090,
-            5090,
-            5090,
-            5090,
-            5090,
-            5090,
-            5090,
-            5090,
-            5090,
-            5090,
-            5090,
             5090
           ]
         },
         {
-          "id": "pakbyte_6c7450fe",
-          "name": "1st Player FC7 ARGB 120mm Case Fan, Pack of 3 - Black",
+          "id": "pakbyte_ce76b701",
+          "name": "1st Player FC7 ARGB 120mm Case Fan Pack of 3 - Black",
           "brand": "1st",
           "category": "cooler",
           "price": 4990,
@@ -46390,17 +46389,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/1st-player-fc7-black-pack-of-3-price-in-pakistan-pakbyte_1.webp?v=1759241842",
           "url": "https://www.pakbyte.pk/products/1st-player-fc7-argb-120mm-case-fan-pack-of-3-black",
           "history": [
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
             4990
           ]
         },
@@ -47820,7 +47808,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/t-force-delta-rgb-16gb-ddr5-ram-white_5.webp?v=1756825964",
           "url": "https://www.pakbyte.pk/products/teamgroup-t-force-delta-rgb-32gb-2x16gb-6400mhz-6400mt-s-cl40-ddr5-desktop-memory-white",
           "history": [
-            98999,
+            167999,
             167999,
             167999,
             167999,
@@ -48619,8 +48607,8 @@
           "name": "DeepCool LD240 ARGB AIO 240mm Liquid CPU Cooler - White",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 18990,
-          "oldPrice": null,
+          "price": 17490,
+          "oldPrice": 18990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/DeepCool-LD240-5th-Gen-Pump-Liquid-cooler_1.jpg?v=1756215706",
@@ -48637,7 +48625,7 @@
             18990,
             18990,
             18990,
-            18990
+            17490
           ]
         },
         {
@@ -48645,8 +48633,8 @@
           "name": "DeepCool LD240 ARGB AIO 240mm Liquid CPU Cooler - Black",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 18490,
-          "oldPrice": null,
+          "price": 17490,
+          "oldPrice": 18490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-ld240-argb-liquid-cooler_1.jpg?v=1756214950",
@@ -48663,7 +48651,7 @@
             18490,
             18490,
             18490,
-            18490
+            17490
           ]
         },
         {
@@ -48697,8 +48685,8 @@
           "name": "DeepCool LE360 V2 Liquid CPU Cooler - Black",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 20990,
-          "oldPrice": null,
+          "price": 19490,
+          "oldPrice": 20990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-le360-v2-cooler_1.webp?v=1756213217",
@@ -48715,7 +48703,7 @@
             20990,
             20990,
             20990,
-            20990
+            19490
           ]
         },
         {
@@ -48723,8 +48711,8 @@
           "name": "DeepCool LE360 V2 Liquid CPU Cooler - White",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 21490,
-          "oldPrice": null,
+          "price": 19990,
+          "oldPrice": 21490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-le360-wh-v2-cooler_1.webp?v=1756212893",
@@ -48741,7 +48729,7 @@
             21490,
             21490,
             21490,
-            21490
+            19990
           ]
         },
         {
@@ -48801,8 +48789,8 @@
           "name": "DeepCool AK400 Digital ARGB CPU Air Cooler - White",
           "brand": "DeepCool",
           "category": "cooler",
-          "price": 9490,
-          "oldPrice": null,
+          "price": 7990,
+          "oldPrice": 9490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-ak400-digital-white-cooler_1.jpg?v=1756208805",
@@ -48819,7 +48807,7 @@
             9490,
             9490,
             9490,
-            9490
+            7990
           ]
         },
         {
@@ -70467,7 +70455,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-m808-storm-lunar-lightweight-rgb-gaming-mouse-black",
           "history": [
             5440,
-            5440,
+            5799,
             5799,
             5799,
             5799,
@@ -86853,7 +86841,7 @@
             20000,
             20000,
             20000,
-            20000,
+            20999,
             20999,
             20999,
             20999,
@@ -113081,7 +113069,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-m808w-storm-lunar-lightweight-rgb-gaming-mouse-white",
           "history": [
             5040,
-            5040,
+            5399,
             5399,
             5399,
             5399,
@@ -146169,8 +146157,8 @@
           "name": "AMD Ryzen 9 9950X3D2 Dual Edition 16-Core 32-Thread Desktop Processor | Up to 5.6GHz | 208",
           "brand": "AMD",
           "category": "cpu",
-          "price": 32500000,
-          "oldPrice": null,
+          "price": 29500000,
+          "oldPrice": 32500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/AMD-Ryzen-9-9950X3D2-Dual-Edition-16-Core-32-Thread-Desktop-Processor-Price-in-Pakistan.jpg",
@@ -146187,7 +146175,7 @@
             32500000,
             32500000,
             32500000,
-            32500000
+            29500000
           ]
         },
         {
@@ -146852,7 +146840,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/MSI-GeForce-RTX-5060-Ti-8G-GAMING-TRIO-OC-Graphics-Card-Price-In-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-5060-ti-8g-gaming-trio-oc-graphics-card",
           "history": [
-            16500000,
+            17500000,
             17500000,
             17500000,
             17500000,
@@ -153672,7 +153660,7 @@
             22500000,
             22500000,
             22500000,
-            22500000,
+            24000000,
             24000000,
             24000000,
             24000000
@@ -156186,7 +156174,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHA4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-13-mdha4-m5-chip-10-core-16gb-unified-ram-512gb-ssd-starlight",
           "history": [
-            42000000,
+            44280000,
             44280000,
             44280000,
             44280000,
@@ -156212,7 +156200,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDH74-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-13-mdh74-m5-chip-10-core-16gb-unified-ram-512gb-ssd-silver",
           "history": [
-            42000000,
+            44820000,
             44820000,
             44820000,
             44820000,
@@ -156238,7 +156226,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-13-mdhh4-m5-chip-10-core-16gb-unified-ram-512gb-ssd-sky-blue",
           "history": [
-            41000000,
+            44280000,
             44280000,
             44280000,
             44280000,
@@ -156394,7 +156382,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-15-MW1H3-M4-10-Core-Chip-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-15-mw1h3-m4-10-core-chip-16gb-unified-ram-512gb-ssd-silver",
           "history": [
-            42599900,
+            43740000,
             43740000,
             43740000,
             43740000,
@@ -159462,7 +159450,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFA4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Silver.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-neo-mhfc4-13-a18-pro-6-core-chip-8gb-unified-ram-512gb-ssd-silver-touch-id",
           "history": [
-            27849900,
+            28080000,
             28080000,
             28080000,
             28080000,
@@ -159488,7 +159476,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFH4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Blush-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-neo-mhfh4-13-a18-pro-6-core-chip-8gb-unified-ram-256gb-ssd-blush",
           "history": [
-            24899900,
+            25380000,
             25380000,
             25380000,
             25380000,
@@ -159514,7 +159502,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFF4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Indigo-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-neo-mhff4-13-a18-pro-6-core-chip-8gb-unified-ram-256gb-ssd-indigo",
           "history": [
-            25380000,
+            24300000,
             24300000,
             24300000,
             24300000,
@@ -159540,7 +159528,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFA4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Silver.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-neo-mhfa4-13-a18-pro-6-core-chip-8gb-unified-ram-256gb-ssd-silver",
           "history": [
-            25380000,
+            24300000,
             24300000,
             24300000,
             24300000,
@@ -159618,7 +159606,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-13-mdhe4-m5-chip-10-core-16gb-unified-ram-512gb-ssd-midnight",
           "history": [
-            42000000,
+            44280000,
             44280000,
             44280000,
             44280000,
@@ -179345,8 +179333,8 @@
           "name": "ZOTAC GAMING GeForce RTX 5080 SOLID OC Graphics Card, 16GB GDDR7 256-Bit Memory, 2640MHz E",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 46500000,
-          "oldPrice": null,
+          "price": 44500000,
+          "oldPrice": 46500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ZOTAC-GAMING-GeForce-RTX-5080-SOLID-OC-Graphics-Card-16GB-GDDR7-256-Bit-Memory-2640MHz-Engine-Clock-30-Gbps-Memory-Clock-10752-CUDA-Cores-PCI-Express-5.0-x16-White-Price-in-Pakistan.jpg",
@@ -179363,7 +179351,7 @@
             46500000,
             46500000,
             46500000,
-            46500000
+            44500000
           ]
         },
         {
@@ -183429,7 +183417,7 @@
           "category": "gpu",
           "price": 22500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/ZOTAC-GAMING-GeForce-RTX-5060-Ti-Twin-Edge-OC-16GB-GDDR7-Graphics-Card-–-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-16gb-gddr7-graphics-card-white",
@@ -186855,6 +186843,21 @@
           ]
         },
         {
+          "id": "zah_4ea05e9a",
+          "name": "MSI VENTUS GeForce RTX 5080 3X OC 16GB GDDR7 PCIe 5.0 x16 Graphics Card",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 48999900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/MSI-VENTUS-GeForce-RTX-5080-3X-OC-16GB-GDDR7-PCIe-5.0-x16-Graphics-Card-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-5080-3x-oc-16gb-gddr7-pcie-5-0-x16-graphics-card",
+          "history": [
+            48999900
+          ]
+        },
+        {
           "id": "zah_9bc16947",
           "name": "MSI SHADOW GeForce RTX 5070 12GB 3X OC GDDR7 PCIe PCIe 5.0 x16 Graphics Card",
           "brand": "MSI",
@@ -187958,7 +187961,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Apple-MacBook-Air-15-MW1K3-M4-10-Core-Chip-16GB-Memory-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-15-mw1k3-m4-10-core-chip-16gb-memory-512gb-ssd-starlight",
           "history": [
-            42599900,
+            43740000,
             43740000,
             43740000,
             43740000,
@@ -188173,7 +188176,7 @@
             23500000,
             23500000,
             23500000,
-            23500000,
+            29500000,
             29500000,
             29500000,
             29500000,
@@ -188757,9 +188760,9 @@
           "name": "Zotac Gaming GeForce RTX 5070 Twin Edge DLSS 4 12GB GDDR7 192-bit 28 Gbps PCIe 5.0 Gaming ",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 22500000,
-          "oldPrice": null,
-          "inStock": true,
+          "price": 24000000,
+          "oldPrice": 22500000,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Zotac-Gaming-GeForce-RTX-5070-Twin-Edge-DLSS-4-12GB-GDDR7-192-bit-28-Gbps-PCIe-5.0-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5070-twin-edge-dlss-4-12gb-gddr7-192-bit-28-gbps-pcie-5-0-gaming-graphics-card",
@@ -188775,7 +188778,7 @@
             22500000,
             22500000,
             22500000,
-            22500000
+            24000000
           ]
         },
         {
@@ -194633,7 +194636,7 @@
           "name": "AMD Ryzen 9 9950X3D 4.4 GHz 16-Core AM5 Gaming Processor",
           "brand": "AMD",
           "category": "cpu",
-          "price": 19500000,
+          "price": 18500000,
           "oldPrice": 22000000,
           "inStock": true,
           "lowStock": false,
@@ -194651,7 +194654,7 @@
             19500000,
             19500000,
             19500000,
-            19500000
+            18500000
           ]
         },
         {
@@ -194979,7 +194982,7 @@
           "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rgb-32gb-2x16gb-6000mhz-c36-ddr5-dram-memory-black",
           "history": [
             14800000,
-            14800000,
+            16000000,
             16000000,
             16000000,
             16000000,
@@ -195680,7 +195683,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Apple-Macbook-Air-15-MC7A4-M4-Chip-10-core-CPU-10-core-GPU-16GB-Ram-256GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-15-mc7c4-m4-chip-10-core-cpu-10-core-gpu-16gb-ram-512gb-ssd-sky-blue",
           "history": [
-            42599900,
+            43740000,
             43740000,
             43740000,
             43740000,
@@ -200447,6 +200450,7 @@
             3949900,
             3949900,
             3949900,
+            3949900,
             3949900
           ]
         },
@@ -203577,7 +203581,7 @@
           "category": "gpu",
           "price": 24500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/04/ZOTAC-Gaming-Geforce-Solid-OC-RTX-5070-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-solid-oc-rtx-5070-12gb-192-bit-gddr7-pci-express-5-0-dlss-4-0-graphics-card",
@@ -204435,7 +204439,7 @@
           "category": "gpu",
           "price": 24900000,
           "oldPrice": 27799900,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/04/Gigabyte-GeForce-RTX-5070-WINDFORCE-OC-SFF-12GB.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-5070-windforce-oc-sff-12gb-gddr7-pci-express-5-0-atx-graphics-card",
@@ -213930,7 +213934,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/Apple-MXK63-Magic-Mouse-USB-C-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-mxk63-magic-mouse-usb-c-black",
           "history": [
-            3465000,
+            3564000,
             3564000,
             3564000,
             3564000,
@@ -216315,8 +216319,8 @@
           "name": "Zotac Gaming Geforce RTX 5080 Solid SFF 16GB GDDR7 256 Bit Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 46000000,
-          "oldPrice": null,
+          "price": 44000000,
+          "oldPrice": 46000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Zotac-Gaming-Geforce-RTX-5080-Solid-Price-in-Pakistan.jpg",
@@ -216333,7 +216337,7 @@
             46000000,
             46000000,
             46000000,
-            46000000
+            44000000
           ]
         },
         {
@@ -229036,7 +229040,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/Apple-MacBook-Air-Z160008FZ-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-z160008fz-m2-chip-8-core-cpu-16gb-1tb-ssd-13-6%e2%80%b3-ips-retina-led-display-with-backlit-magic-keyboard-touch-id-and-force-touch-trackpad-midnight",
           "history": [
-            36750000,
+            37800000,
             37800000,
             37800000,
             37800000,
@@ -241178,7 +241182,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/07/Apple-MacBook-Air-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/apple-macbook-air-cto-z18u000t5-m2-chip-8-core-cpu-16gb-1tb-ssd-15%e2%80%b3-ips-retina-led-display-with-backlit-magic-keyboard-touch-id-midnight",
           "history": [
-            39399900,
+            40500000,
             40500000,
             40500000,
             40500000,
@@ -275107,6 +275111,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_intel_core_ultra_7_265kf.jpg",
           "url": "https://rbtechngames.com/product/intel-core-ultra-7-265kf-desktop-processor",
           "history": [
+            85999,
             85999
           ]
         },
@@ -275122,6 +275127,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_corsair_vengeance_ddr5_silver.webp",
           "url": "https://rbtechngames.com/product/corsair-vengeance-48gb-2x24gb-8400mt-s-cl40-ddr5-cudimm-desktop-memory-silver",
           "history": [
+            199999,
             199999
           ]
         },
@@ -275137,6 +275143,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_crucial_t705.png",
           "url": "https://rbtechngames.com/product/crucial-t705-pcie-nvme-m-2-gen-5-ssd-1tb-2tb-4tb-with-heatsink",
           "history": [
+            204999,
             204999
           ]
         },
@@ -275152,6 +275159,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_legion_5_15ahp10.webp",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-15ahp10-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-15-1-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            424999,
             424999,
             424999,
             424999,
@@ -275183,6 +275191,7 @@
             274999,
             274999,
             274999,
+            274999,
             274999
           ]
         },
@@ -275206,6 +275215,7 @@
             279999,
             279999,
             279999,
+            279999,
             279999
           ]
         },
@@ -275221,6 +275231,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_lenovo_thinkpad_p16v_gen_1_thunder_black.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-p16v-gen-1-amd-ryzen-7-pro-16gb-ram-1tb-ssd-16-0%e2%80%b3-fhd-ips-display-thunder-black-used",
           "history": [
+            214999,
             214999,
             214999,
             214999,
@@ -275434,7 +275445,7 @@
             237999,
             237999,
             237999,
-            237999,
+            239999,
             239999,
             239999,
             239999
@@ -276935,7 +276946,7 @@
           "url": "https://rbtechngames.com/product/crucial-sodimm-32gb-2x16gb-5600mt-s-cl46-ddr5-laptop-memory",
           "history": [
             101999,
-            101999,
+            109999,
             109999,
             109999,
             109999,
@@ -276961,7 +276972,7 @@
           "url": "https://rbtechngames.com/product/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory",
           "history": [
             111999,
-            111999,
+            114999,
             114999,
             114999,
             114999,
@@ -277209,32 +277220,6 @@
           ]
         },
         {
-          "id": "rbtechgames_1e7a0fbd",
-          "name": "Lenovo Legion 5 (15IAX10), Intel Core Ultra 7 255HX, 16GB RAM, 1TB SSD, RTX 5060, 15.1&#82",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 484999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_legion_5_15ahp10.webp",
-          "url": "https://rbtechngames.com/product/lenovo-legion-5-15iax10-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-rtx-5060-15-1-qhd-165hz-oled-display-eclipse-black-new",
-          "history": [
-            484999,
-            484999,
-            484999,
-            484999,
-            484999,
-            484999,
-            484999,
-            484999,
-            484999,
-            484999,
-            484999,
-            484999
-          ]
-        },
-        {
           "id": "rbtechgames_42a38114",
           "name": "HP Victus 15 (FA2013DX), Intel Core i5 13th Gen, 8GB RAM, 512GB SSD, RTX 3050, 15.6&#8243;",
           "brand": "Intel",
@@ -277358,7 +277343,7 @@
             129999,
             129999,
             129999,
-            129999,
+            144999,
             144999,
             144999,
             144999
@@ -278632,7 +278617,7 @@
             124999,
             124999,
             124999,
-            124999,
+            134999,
             134999,
             134999,
             134999
@@ -278788,7 +278773,7 @@
             104999,
             104999,
             104999,
-            104999,
+            114999,
             114999,
             114999,
             114999
@@ -279282,7 +279267,7 @@
             149999,
             149999,
             149999,
-            149999,
+            159999,
             159999,
             159999,
             159999
@@ -279438,7 +279423,7 @@
             148499,
             148499,
             148499,
-            148499,
+            154999,
             154999,
             154999,
             154999
@@ -279490,7 +279475,7 @@
             148499,
             148499,
             148499,
-            148499,
+            154999,
             154999,
             154999,
             154999
@@ -280296,7 +280281,7 @@
             40499,
             40499,
             40499,
-            40499,
+            41499,
             41499,
             41499,
             41499
@@ -280400,7 +280385,7 @@
             30499,
             30499,
             30499,
-            30499,
+            31499,
             31499,
             31499,
             31499
@@ -281830,7 +281815,7 @@
             59999,
             59999,
             59999,
-            59999,
+            61499,
             61499,
             61499,
             61499
@@ -281934,7 +281919,7 @@
             59999,
             59999,
             59999,
-            59999,
+            61499,
             61499,
             61499,
             61499
@@ -282637,7 +282622,7 @@
             38999,
             38999,
             38999,
-            38999,
+            39499,
             39499,
             39499
           ]
@@ -282818,7 +282803,7 @@
             30499,
             30499,
             30499,
-            30499,
+            31499,
             31499,
             31499,
             31499
