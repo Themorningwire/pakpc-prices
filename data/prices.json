@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T16:07:25.239150+00:00",
+  "lastUpdated": "2026-09-01T20:36:55.491904+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -21,6 +21,7 @@
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-compact-magnetic-keyboard-gray-white-yellow",
           "history": [
             10490,
+            10490,
             10490
           ]
         },
@@ -36,6 +37,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-Compact-Magnetic-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1788241507",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-compact-magnetic-keyboard-white-blue",
           "history": [
+            10490,
             10490,
             10490
           ]
@@ -53,6 +55,7 @@
           "url": "https://www.pakbyte.pk/products/atk-blazing-f1-v3-ultimate-wireless-gaming-mouse-pearl-blue",
           "history": [
             21990,
+            21990,
             21990
           ]
         },
@@ -69,6 +72,7 @@
           "url": "https://www.pakbyte.pk/products/atk-blazing-sky-x1-v2-ultimate-2-0-wireless-gaming-mouse-metallic-red-1",
           "history": [
             20490,
+            20490,
             20490
           ]
         },
@@ -84,6 +88,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-68-Key-Magnetic-Switch-Keyboard-White-Price-in-Pakistan-Pakbyte_1.webp?v=1788159325",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-68-key-magnetic-switch-keyboard-white",
           "history": [
+            11990,
             11990,
             11990,
             11990,
@@ -107,6 +112,7 @@
             11990,
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -122,6 +128,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-ak820-pro-price-in-pakistan-pakbyte_1.webp?v=1788158754",
           "url": "https://www.pakbyte.pk/products/ajazz-ak820-pro-75-mechanical-keyboard-white-purple-yellow",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -145,6 +152,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -164,6 +172,7 @@
             4690,
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -179,6 +188,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-nj07-mc-price-in-pakistan-pakbyte_1.webp?v=1788155810",
           "url": "https://www.pakbyte.pk/products/ajazz-nj07-mc-67g-ultra-lightweight-wireless-mouse-white",
           "history": [
+            4690,
             4690,
             4690,
             4690,
@@ -4549,7 +4559,7 @@
             20490,
             20490,
             20490,
-            20490,
+            18990,
             18990,
             18990
           ]
@@ -7342,7 +7352,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 48490,
-          "oldPrice": 49490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Deepcool-SPARTACUS-360-Price-in-Pakistan-Pakbyte_1.webp?v=1782318972",
@@ -7358,7 +7368,7 @@
             49490,
             49490,
             49490,
-            49490,
+            48490,
             48490
           ]
         },
@@ -7666,7 +7676,7 @@
             6990,
             6990,
             6990,
-            6990,
+            7799,
             7799,
             7799,
             7799,
@@ -22578,7 +22588,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 8990,
-          "oldPrice": 9790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/DeepCool-AS500-Plus-Single-Tower-ARGB-CPU-Air-Cooler-White-Price-in-Pakistan-Pakbyte_1.jpg?v=1771597907",
@@ -22594,7 +22604,7 @@
             9790,
             9790,
             9790,
-            9790,
+            8990,
             8990
           ]
         },
@@ -22604,7 +22614,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 29990,
-          "oldPrice": 30990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Deepcool-LM360-W-price-in-pakistan-pakbyte_4.jpg?v=1771597146",
@@ -22620,7 +22630,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29990,
             29990
           ]
         },
@@ -22630,7 +22640,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 28990,
-          "oldPrice": 29990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Deepcool-LM360-price-in-pakistan-pakbyte_3.jpg?v=1771596310",
@@ -22646,7 +22656,7 @@
             29990,
             29990,
             29990,
-            29990,
+            28990,
             28990
           ]
         },
@@ -26607,8 +26617,8 @@
           "name": "GFURY GF-MP001 RGB Mousepad",
           "brand": "GFURY",
           "category": "mouse",
-          "price": 1190,
-          "oldPrice": null,
+          "price": 1690,
+          "oldPrice": 1190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFURY-GF-MP001-RGB-Mousepad-Price-in-Pakistan-Pakbyte_2.webp?v=1768228461",
@@ -26625,7 +26635,7 @@
             1190,
             1190,
             1190,
-            1190
+            1690
           ]
         },
         {
@@ -30471,7 +30481,7 @@
             13990,
             13990,
             13990,
-            13990,
+            13999,
             13999,
             13999
           ]
@@ -46374,6 +46384,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/1st-player-fc7-white-pack-of-3-price-in-pakistan-pakbyte_2.webp?v=1759242008",
           "url": "https://www.pakbyte.pk/products/1st-player-fc7-argb-120mm-case-fan-pack-of-3-white",
           "history": [
+            5090,
             5090
           ]
         },
@@ -46389,6 +46400,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/1st-player-fc7-black-pack-of-3-price-in-pakistan-pakbyte_1.webp?v=1759241842",
           "url": "https://www.pakbyte.pk/products/1st-player-fc7-argb-120mm-case-fan-pack-of-3-black",
           "history": [
+            4990,
             4990
           ]
         },
@@ -48608,7 +48620,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 17490,
-          "oldPrice": 18990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/DeepCool-LD240-5th-Gen-Pump-Liquid-cooler_1.jpg?v=1756215706",
@@ -48624,7 +48636,7 @@
             18990,
             18990,
             18990,
-            18990,
+            17490,
             17490
           ]
         },
@@ -48634,7 +48646,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 17490,
-          "oldPrice": 18490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-ld240-argb-liquid-cooler_1.jpg?v=1756214950",
@@ -48650,7 +48662,7 @@
             18490,
             18490,
             18490,
-            18490,
+            17490,
             17490
           ]
         },
@@ -48686,7 +48698,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 19490,
-          "oldPrice": 20990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-le360-v2-cooler_1.webp?v=1756213217",
@@ -48702,7 +48714,7 @@
             20990,
             20990,
             20990,
-            20990,
+            19490,
             19490
           ]
         },
@@ -48712,7 +48724,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 19990,
-          "oldPrice": 21490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-le360-wh-v2-cooler_1.webp?v=1756212893",
@@ -48728,7 +48740,7 @@
             21490,
             21490,
             21490,
-            21490,
+            19990,
             19990
           ]
         },
@@ -48790,7 +48802,7 @@
           "brand": "DeepCool",
           "category": "cooler",
           "price": 7990,
-          "oldPrice": 9490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-ak400-digital-white-cooler_1.jpg?v=1756208805",
@@ -48806,7 +48818,7 @@
             9490,
             9490,
             9490,
-            9490,
+            7990,
             7990
           ]
         },
@@ -70454,7 +70466,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M808-STORM-LUNAR-Lightweight-RGB-Gaming-Mouse-Black-PakByte-Computers-25881086853187.webp?v=1753672476",
           "url": "https://www.pakbyte.pk/products/redragon-m808-storm-lunar-lightweight-rgb-gaming-mouse-black",
           "history": [
-            5440,
+            5799,
             5799,
             5799,
             5799,
@@ -86840,7 +86852,7 @@
             20000,
             20000,
             20000,
-            20000,
+            20999,
             20999,
             20999,
             20999,
@@ -113068,7 +113080,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M808W-STORM-LUNAR-LIGHTWEIGHT-RGB-GAMING-MOUSE-WHITE-PakByte-Computers-24397634601027.webp?v=1753680670",
           "url": "https://www.pakbyte.pk/products/redragon-m808w-storm-lunar-lightweight-rgb-gaming-mouse-white",
           "history": [
-            5040,
+            5399,
             5399,
             5399,
             5399,
@@ -146174,7 +146186,7 @@
             32500000,
             32500000,
             32500000,
-            32500000,
+            29500000,
             29500000
           ]
         },
@@ -153659,7 +153671,7 @@
             22500000,
             22500000,
             22500000,
-            22500000,
+            24000000,
             24000000,
             24000000,
             24000000,
@@ -179350,7 +179362,7 @@
             46500000,
             46500000,
             46500000,
-            46500000,
+            44500000,
             44500000
           ]
         },
@@ -186854,6 +186866,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/MSI-VENTUS-GeForce-RTX-5080-3X-OC-16GB-GDDR7-PCIe-5.0-x16-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-ventus-geforce-rtx-5080-3x-oc-16gb-gddr7-pcie-5-0-x16-graphics-card",
           "history": [
+            48999900,
             48999900
           ]
         },
@@ -188175,7 +188188,7 @@
             23500000,
             23500000,
             23500000,
-            23500000,
+            29500000,
             29500000,
             29500000,
             29500000,
@@ -188761,7 +188774,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 24000000,
-          "oldPrice": 22500000,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Zotac-Gaming-GeForce-RTX-5070-Twin-Edge-DLSS-4-12GB-GDDR7-192-bit-28-Gbps-PCIe-5.0-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
@@ -188777,7 +188790,7 @@
             22500000,
             22500000,
             22500000,
-            22500000,
+            24000000,
             24000000
           ]
         },
@@ -194653,7 +194666,7 @@
             19500000,
             19500000,
             19500000,
-            19500000,
+            18500000,
             18500000
           ]
         },
@@ -194981,7 +194994,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/112614-xpg-lancer-blade-rbg-ddr5-6000mhz-cl30-32gb-1.jpg",
           "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rgb-32gb-2x16gb-6000mhz-c36-ddr5-dram-memory-black",
           "history": [
-            14800000,
+            16000000,
             16000000,
             16000000,
             16000000,
@@ -200441,6 +200454,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/ASUS-ROG-Strix-Scope-II-96-Wireless-Gaming-Keyboard-NX-Snow-Linear-Switches-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-strix-scope-ii-96-wireless-gaming-keyboard-nx-snow-linear-switches",
           "history": [
+            3949900,
             3949900,
             3949900,
             3949900,
@@ -216320,7 +216334,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 44000000,
-          "oldPrice": 46000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Zotac-Gaming-Geforce-RTX-5080-Solid-Price-in-Pakistan.jpg",
@@ -216336,7 +216350,7 @@
             46000000,
             46000000,
             46000000,
-            46000000,
+            44000000,
             44000000
           ]
         },
@@ -275112,6 +275126,7 @@
           "url": "https://rbtechngames.com/product/intel-core-ultra-7-265kf-desktop-processor",
           "history": [
             85999,
+            85999,
             85999
           ]
         },
@@ -275127,6 +275142,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_corsair_vengeance_ddr5_silver.webp",
           "url": "https://rbtechngames.com/product/corsair-vengeance-48gb-2x24gb-8400mt-s-cl40-ddr5-cudimm-desktop-memory-silver",
           "history": [
+            199999,
             199999,
             199999
           ]
@@ -275144,6 +275160,7 @@
           "url": "https://rbtechngames.com/product/crucial-t705-pcie-nvme-m-2-gen-5-ssd-1tb-2tb-4tb-with-heatsink",
           "history": [
             204999,
+            204999,
             204999
           ]
         },
@@ -275159,6 +275176,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_legion_5_15ahp10.webp",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-15ahp10-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-15-1-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            424999,
             424999,
             424999,
             424999,
@@ -275192,6 +275210,7 @@
             274999,
             274999,
             274999,
+            274999,
             274999
           ]
         },
@@ -275216,6 +275235,7 @@
             279999,
             279999,
             279999,
+            279999,
             279999
           ]
         },
@@ -275231,6 +275251,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_lenovo_thinkpad_p16v_gen_1_thunder_black.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-p16v-gen-1-amd-ryzen-7-pro-16gb-ram-1tb-ssd-16-0%e2%80%b3-fhd-ips-display-thunder-black-used",
           "history": [
+            214999,
             214999,
             214999,
             214999,
@@ -275444,7 +275465,7 @@
             237999,
             237999,
             237999,
-            237999,
+            239999,
             239999,
             239999,
             239999,
@@ -276945,7 +276966,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_crucial_sodimm_ddr5_kit.jpg",
           "url": "https://rbtechngames.com/product/crucial-sodimm-32gb-2x16gb-5600mt-s-cl46-ddr5-laptop-memory",
           "history": [
-            101999,
+            109999,
             109999,
             109999,
             109999,
@@ -276971,7 +276992,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_crucial_sodimm_ddr5_single.jpg",
           "url": "https://rbtechngames.com/product/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory",
           "history": [
-            111999,
+            114999,
             114999,
             114999,
             114999,
@@ -277342,7 +277363,7 @@
             129999,
             129999,
             129999,
-            129999,
+            144999,
             144999,
             144999,
             144999,
@@ -278616,7 +278637,7 @@
             124999,
             124999,
             124999,
-            124999,
+            134999,
             134999,
             134999,
             134999,
@@ -278772,7 +278793,7 @@
             104999,
             104999,
             104999,
-            104999,
+            114999,
             114999,
             114999,
             114999,
@@ -279266,7 +279287,7 @@
             149999,
             149999,
             149999,
-            149999,
+            159999,
             159999,
             159999,
             159999,
@@ -279422,7 +279443,7 @@
             148499,
             148499,
             148499,
-            148499,
+            154999,
             154999,
             154999,
             154999,
@@ -279474,7 +279495,7 @@
             148499,
             148499,
             148499,
-            148499,
+            154999,
             154999,
             154999,
             154999,
@@ -280280,7 +280301,7 @@
             40499,
             40499,
             40499,
-            40499,
+            41499,
             41499,
             41499,
             41499,
@@ -280384,7 +280405,7 @@
             30499,
             30499,
             30499,
-            30499,
+            31499,
             31499,
             31499,
             31499,
@@ -281814,7 +281835,7 @@
             59999,
             59999,
             59999,
-            59999,
+            61499,
             61499,
             61499,
             61499,
@@ -281918,7 +281939,7 @@
             59999,
             59999,
             59999,
-            59999,
+            61499,
             61499,
             61499,
             61499,
@@ -282621,7 +282642,7 @@
             38999,
             38999,
             38999,
-            38999,
+            39499,
             39499,
             39499,
             39499
@@ -282802,7 +282823,7 @@
             30499,
             30499,
             30499,
-            30499,
+            31499,
             31499,
             31499,
             31499,
