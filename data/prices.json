@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T03:06:02.053626+00:00",
+  "lastUpdated": "2026-09-02T10:43:13.148259+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,51 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_fd6225e4",
+          "name": "GFURY GLACIER X2-600 120mm ARGB CPU Air Cooler",
+          "brand": "GFURY",
+          "category": "cooler",
+          "price": 5390,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gfury-Glacier-X2-600-Air-cooler-price-in-pakistan-pakbyte_1.webp?v=1788330774",
+          "url": "https://www.pakbyte.pk/products/gfury-glacier-x2-600-120mm-argb-cpu-air-cooler",
+          "history": [
+            5390
+          ]
+        },
+        {
+          "id": "pakbyte_13834e81",
+          "name": "GFURY STORM FURY 400 120mm ARGB CPU Air Cooler",
+          "brand": "GFURY",
+          "category": "cooler",
+          "price": 4590,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gfury-Storm-Fury-T400--air-cooler-price-in-pakistan-pakbyte_1.webp?v=1788330548",
+          "url": "https://www.pakbyte.pk/products/gfury-storm-fury-400-120mm-argb-cpu-air-cooler",
+          "history": [
+            4590
+          ]
+        },
+        {
+          "id": "pakbyte_88723145",
+          "name": "GFURY CW11 NERO N-200 CPU Air Cooler",
+          "brand": "GFURY",
+          "category": "cooler",
+          "price": 2080,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFURY-CW11-NERO-N200-Price-in-Pakistan-Pakbyte_1.webp?v=1788327681",
+          "url": "https://www.pakbyte.pk/products/gfury-cw11-nero-n-200-cpu-air-cooler",
+          "history": [
+            2080
+          ]
+        },
         {
           "id": "pakbyte_bac53949",
           "name": "Ajazz AK680 V2 Compact Magnetic Keyboard -Gray/White/Yellow",
@@ -20,6 +65,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-magnetic-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1788241823",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-compact-magnetic-keyboard-gray-white-yellow",
           "history": [
+            10490,
             10490,
             10490,
             10490,
@@ -41,6 +87,7 @@
             10490,
             10490,
             10490,
+            10490,
             10490
           ]
         },
@@ -56,6 +103,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-f1-v3-ultimate-price-in-pakistan-pakbyte_5.webp?v=1788240729",
           "url": "https://www.pakbyte.pk/products/atk-blazing-f1-v3-ultimate-wireless-gaming-mouse-pearl-blue",
           "history": [
+            21990,
             21990,
             21990,
             21990,
@@ -77,6 +125,7 @@
             20490,
             20490,
             20490,
+            20490,
             20490
           ]
         },
@@ -92,6 +141,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-68-Key-Magnetic-Switch-Keyboard-White-Price-in-Pakistan-Pakbyte_1.webp?v=1788159325",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-68-key-magnetic-switch-keyboard-white",
           "history": [
+            11990,
             11990,
             11990,
             11990,
@@ -119,6 +169,7 @@
             11990,
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -134,6 +185,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-ak820-pro-price-in-pakistan-pakbyte_1.webp?v=1788158754",
           "url": "https://www.pakbyte.pk/products/ajazz-ak820-pro-75-mechanical-keyboard-white-purple-yellow",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -161,6 +213,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -182,6 +235,7 @@
             4690,
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -197,6 +251,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-nj07-mc-price-in-pakistan-pakbyte_1.webp?v=1788155810",
           "url": "https://www.pakbyte.pk/products/ajazz-nj07-mc-67g-ultra-lightweight-wireless-mouse-white",
           "history": [
+            4690,
             4690,
             4690,
             4690,
@@ -3279,8 +3334,8 @@
           "name": "Attack Shark X8 SE Series Tri-mode Lightweight Wireless Gaming Mouse – Berry Red",
           "brand": "Attack",
           "category": "mouse",
-          "price": 6490,
-          "oldPrice": null,
+          "price": 6999,
+          "oldPrice": 6490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATTACK-SHARK-X8-SE-Series-Tri-mode-Lightweight-Wireless-Gaming-Mouse-Berry-Red-Price-in-Pakistan-Pakbyte.jpg?v=1784305005",
@@ -3297,7 +3352,7 @@
             6490,
             6490,
             6490,
-            6490
+            6999
           ]
         },
         {
@@ -4567,7 +4622,7 @@
             20490,
             20490,
             20490,
-            20490,
+            18990,
             18990,
             18990,
             18990,
@@ -7376,7 +7431,7 @@
             49490,
             49490,
             49490,
-            49490,
+            48490,
             48490,
             48490,
             48490
@@ -7684,7 +7739,7 @@
             6990,
             6990,
             6990,
-            6990,
+            7799,
             7799,
             7799,
             7799,
@@ -22612,7 +22667,7 @@
             9790,
             9790,
             9790,
-            9790,
+            8990,
             8990,
             8990,
             8990
@@ -22638,7 +22693,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29990,
             29990,
             29990,
             29990
@@ -22664,7 +22719,7 @@
             29990,
             29990,
             29990,
-            29990,
+            28990,
             28990,
             28990,
             28990
@@ -24211,7 +24266,7 @@
           "category": "keyboard",
           "price": 3990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-e9350l-price-in-pakistan-pakbyte_5.webp?v=1770986936",
           "url": "https://www.pakbyte.pk/products/rapoo-e9350l-bluetooth-wireless-multi-device-keyboard-white",
@@ -26263,8 +26318,8 @@
           "name": "GFury Cool Storm GF-T600 RGB 6 Heat Pipes CPU Cooler",
           "brand": "GFury",
           "category": "cooler",
-          "price": 4499,
-          "oldPrice": null,
+          "price": 4290,
+          "oldPrice": 4499,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-Cool-Storm-GF-T600-CPU-Cooler-Price-in-Pakistan-Pakbyte_2.webp?v=1768317982",
@@ -26281,7 +26336,7 @@
             4499,
             4499,
             4499,
-            4499
+            4290
           ]
         },
         {
@@ -26289,8 +26344,8 @@
           "name": "GFury GF-T400 COOL STORM CPU Cooler",
           "brand": "GFury",
           "category": "cooler",
-          "price": 2990,
-          "oldPrice": null,
+          "price": 3440,
+          "oldPrice": 2990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-GF-T400-COOL-STORM-CPU-Cooler-Price-in-Pakistan_2.webp?v=1768317566",
@@ -26307,7 +26362,7 @@
             2990,
             2990,
             2990,
-            2990
+            3440
           ]
         },
         {
@@ -26367,8 +26422,8 @@
           "name": "GFURY GF-240 HURRICAN CPU Cooler - Black",
           "brand": "GFURY",
           "category": "cooler",
-          "price": 10190,
-          "oldPrice": null,
+          "price": 10590,
+          "oldPrice": 10190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFURY-GF-240-HURRICAN-CPU-Cooler-Black-Price-in-Pakistan-Pakbyte_3.webp?v=1772171425",
@@ -26385,7 +26440,7 @@
             10190,
             10190,
             10190,
-            10190
+            10590
           ]
         },
         {
@@ -26393,8 +26448,8 @@
           "name": "GFury GF-24 Inch Blaze 1080p LED Flat Monitor",
           "brand": "GFury",
           "category": "monitor",
-          "price": 31490,
-          "oldPrice": null,
+          "price": 30990,
+          "oldPrice": 31490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-Blaze-GF-24-Inch-LED-Flat-Monitor-Price-in-Pakistan-Pakbyte_3.webp?v=1768301386",
@@ -26411,7 +26466,7 @@
             31490,
             31490,
             31490,
-            31490
+            30990
           ]
         },
         {
@@ -26419,9 +26474,9 @@
           "name": "GFury GF-27 Dominion 27″ Dual Mode LED Gaming Monitor",
           "brand": "GFury",
           "category": "monitor",
-          "price": 41990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 43990,
+          "oldPrice": 41990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-GF-27-Dominion-27_-Dual-Mode-LED-Gaming-Monitor-Price-in-Pakistan-Pakbyte_3.webp?v=1768298746",
           "url": "https://www.pakbyte.pk/products/gfury-gf-27-dominion-27-dual-mode-led-gaming-monitor",
@@ -26437,7 +26492,7 @@
             41990,
             41990,
             41990,
-            41990
+            43990
           ]
         },
         {
@@ -26471,8 +26526,8 @@
           "name": "GFury GF-34 Eclipse 34″ 2K++ Curved 165Hz Gaming LED Monitor",
           "brand": "GFury",
           "category": "monitor",
-          "price": 79990,
-          "oldPrice": null,
+          "price": 50490,
+          "oldPrice": 79990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-GF-34-Eclipse-34-inchs-Curved-Gaming-LED-Monitor-Price-in-Pakistan-Pakbyte_4.webp?v=1768297514",
@@ -26489,7 +26544,7 @@
             79990,
             79990,
             79990,
-            79990
+            50490
           ]
         },
         {
@@ -26523,8 +26578,8 @@
           "name": "GFury Pluto GF-390 Left-Side Tempered Glass Panel Gaming PC Case",
           "brand": "GFury",
           "category": "case",
-          "price": 11990,
-          "oldPrice": null,
+          "price": 11790,
+          "oldPrice": 11990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-PLUTO-GF-390-Gaming-PC-Case-Price-in-Pakistan-Pakbyte_1.webp?v=1768293390",
@@ -26541,7 +26596,7 @@
             11990,
             11990,
             11990,
-            11990
+            11790
           ]
         },
         {
@@ -26643,7 +26698,7 @@
             1190,
             1190,
             1190,
-            1190,
+            1690,
             1690,
             1690
           ]
@@ -30489,7 +30544,7 @@
             13990,
             13990,
             13990,
-            13990,
+            13999,
             13999,
             13999,
             13999,
@@ -33961,7 +34016,7 @@
           "category": "keyboard",
           "price": 6290,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K525-Black-Shiva-PRO-Membrance-Keyboard-price-in-pakistan-pakbyte_4.webp?v=1765825598",
           "url": "https://www.pakbyte.pk/products/redragon-k525-shiva-pro-wireless-anti-ghosting-membrane-gaming-keyboard",
@@ -45035,8 +45090,8 @@
           "name": "Attack Shark X8 SE Wireless Gaming Mouse - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 6390,
-          "oldPrice": null,
+          "price": 6999,
+          "oldPrice": 6390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-se-wireless-mouse-white-price-in-pakistan-pakbyte_2.jpg?v=1760008893",
@@ -45053,7 +45108,7 @@
             6390,
             6390,
             6390,
-            6390
+            6999
           ]
         },
         {
@@ -45061,8 +45116,8 @@
           "name": "Attack Shark X8 SE Wireless Gaming Mouse - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 6390,
-          "oldPrice": null,
+          "price": 6999,
+          "oldPrice": 6390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-se-wireless-mouse-black-price-in-pakistan_2.jpg?v=1760008474",
@@ -45079,7 +45134,7 @@
             6390,
             6390,
             6390,
-            6390
+            6999
           ]
         },
         {
@@ -46396,6 +46451,7 @@
           "history": [
             5090,
             5090,
+            5090,
             5090
           ]
         },
@@ -46411,6 +46467,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/1st-player-fc7-black-pack-of-3-price-in-pakistan-pakbyte_1.webp?v=1759241842",
           "url": "https://www.pakbyte.pk/products/1st-player-fc7-argb-120mm-case-fan-pack-of-3-black",
           "history": [
+            4990,
             4990,
             4990,
             4990
@@ -48646,7 +48703,7 @@
             18990,
             18990,
             18990,
-            18990,
+            17490,
             17490,
             17490,
             17490
@@ -48672,7 +48729,7 @@
             18490,
             18490,
             18490,
-            18490,
+            17490,
             17490,
             17490,
             17490
@@ -48724,7 +48781,7 @@
             20990,
             20990,
             20990,
-            20990,
+            19490,
             19490,
             19490,
             19490
@@ -48750,7 +48807,7 @@
             21490,
             21490,
             21490,
-            21490,
+            19990,
             19990,
             19990,
             19990
@@ -48828,7 +48885,7 @@
             9490,
             9490,
             9490,
-            9490,
+            7990,
             7990,
             7990,
             7990
@@ -59239,8 +59296,8 @@
           "name": "Sapphire Pulse AMD Radeon RX 9070 16GB GDDR6 Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 209990,
-          "oldPrice": null,
+          "price": 244999,
+          "oldPrice": 209990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Pulse-AMD-Radeon-RX-9070-Gaming-Graphics-Card-with-16GB-GDDR6-PakByte-Computers-26298134954051.jpg?v=1753670378",
@@ -59257,7 +59314,7 @@
             209990,
             209990,
             209990,
-            209990
+            244999
           ]
         },
         {
@@ -86862,7 +86919,7 @@
             20000,
             20000,
             20000,
-            20000,
+            20999,
             20999,
             20999,
             20999,
@@ -89193,7 +89250,7 @@
           "category": "cooler",
           "price": 2700,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Cooler-Master-Thermal-Pad-1-5mm-PakByte-Computers-25249657159747.png?v=1753676727",
           "url": "https://www.pakbyte.pk/products/cooler-master-thermal-pad-1-5mm",
@@ -89219,7 +89276,7 @@
           "category": "cooler",
           "price": 2200,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Cooler-Master-Thermal-Pad-1-0mm-PakByte-Computers-25249641529411.png?v=1753676741",
           "url": "https://www.pakbyte.pk/products/cooler-master-thermal-pad-1-0mm",
@@ -118417,7 +118474,7 @@
           "category": "cooler",
           "price": 29000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-UNI-Fan-SL120-V2-RGB-Triple-Pack-with-Controller-Black-PakByte-Computers-24397524303939.webp?v=1753681749",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl120-v2-rgb-triple-pack-with-controller-black",
@@ -146196,7 +146253,7 @@
             32500000,
             32500000,
             32500000,
-            32500000,
+            29500000,
             29500000,
             29500000,
             29500000
@@ -153681,7 +153738,7 @@
             22500000,
             22500000,
             22500000,
-            22500000,
+            24000000,
             24000000,
             24000000,
             24000000,
@@ -179372,7 +179429,7 @@
             46500000,
             46500000,
             46500000,
-            46500000,
+            44500000,
             44500000,
             44500000,
             44500000
@@ -186880,6 +186937,7 @@
           "history": [
             48999900,
             48999900,
+            48999900,
             48999900
           ]
         },
@@ -188199,7 +188257,7 @@
             23500000,
             23500000,
             23500000,
-            23500000,
+            29500000,
             29500000,
             29500000,
             29500000,
@@ -188801,7 +188859,7 @@
             22500000,
             22500000,
             22500000,
-            22500000,
+            24000000,
             24000000,
             24000000,
             24000000
@@ -194677,7 +194735,7 @@
             19500000,
             19500000,
             19500000,
-            19500000,
+            18500000,
             18500000,
             18500000,
             18500000
@@ -216361,7 +216419,7 @@
             46000000,
             46000000,
             46000000,
-            46000000,
+            44000000,
             44000000,
             44000000,
             44000000
@@ -275127,6 +275185,36 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_fb197f3a",
+          "name": "Attack Shark RS3 Ultra Carbon Fiber Wireless 8K Gaming Mouse &#8211; Black/Silver/Red",
+          "brand": "Attack",
+          "category": "mouse",
+          "price": 24999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_attack_shark_rs3_ultra_silver.webp",
+          "url": "https://rbtechngames.com/product/attack-shark-rs3-ultra-carbon-fiber-wireless-8k-gaming-mouse-black-silver-red",
+          "history": [
+            24999
+          ]
+        },
+        {
+          "id": "rbtechgames_d18e151f",
+          "name": "Attack Shark X8 Ultimate Wireless 8K Gaming Mouse &#8211; Black/White/Berry Red",
+          "brand": "Attack",
+          "category": "mouse",
+          "price": 21999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_attack_shark_x8_ultimate_black.webp",
+          "url": "https://rbtechngames.com/product/attack-shark-x8-ultimate-wireless-8k-gaming-mouse-black-white-berry-red",
+          "history": [
+            21999
+          ]
+        },
+        {
           "id": "rbtechgames_aa5bf5e1",
           "name": "Intel Core Ultra 7 265KF Desktop Processor",
           "brand": "Intel",
@@ -275138,6 +275226,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_intel_core_ultra_7_265kf.jpg",
           "url": "https://rbtechngames.com/product/intel-core-ultra-7-265kf-desktop-processor",
           "history": [
+            85999,
             85999,
             85999,
             85999,
@@ -275159,6 +275248,7 @@
             199999,
             199999,
             199999,
+            199999,
             199999
           ]
         },
@@ -275174,6 +275264,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_crucial_t705.png",
           "url": "https://rbtechngames.com/product/crucial-t705-pcie-nvme-m-2-gen-5-ssd-1tb-2tb-4tb-with-heatsink",
           "history": [
+            204999,
             204999,
             204999,
             204999,
@@ -275483,7 +275574,7 @@
             237999,
             237999,
             237999,
-            237999,
+            239999,
             239999,
             239999,
             239999,
@@ -277381,7 +277472,7 @@
             129999,
             129999,
             129999,
-            129999,
+            144999,
             144999,
             144999,
             144999,
@@ -277396,7 +277487,7 @@
           "brand": "Attack",
           "category": "keyboard",
           "price": 19999,
-          "oldPrice": 20999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_attack_shark_x87_ultra_forged_Carbon.webp",
@@ -277412,7 +277503,7 @@
             20999,
             20999,
             20999,
-            20999,
+            19999,
             19999
           ]
         },
@@ -278759,7 +278850,7 @@
             124999,
             124999,
             124999,
-            124999,
+            134999,
             134999,
             134999,
             134999,
@@ -278918,8 +279009,8 @@
             16499,
             16499,
             16499,
-            16499,
             18499,
+            16499,
             16499,
             16499
           ]
@@ -279435,7 +279526,7 @@
             149999,
             149999,
             149999,
-            149999,
+            159999,
             159999,
             159999,
             159999,
@@ -279591,7 +279682,7 @@
             148499,
             148499,
             148499,
-            148499,
+            154999,
             154999,
             154999,
             154999,
@@ -279643,7 +279734,7 @@
             148499,
             148499,
             148499,
-            148499,
+            154999,
             154999,
             154999,
             154999,
@@ -279820,6 +279911,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_attack_shark_r82_he_black.webp",
           "url": "https://rbtechngames.com/product/attack-shark-r82-he-75-rgb-rapid-trigger-magnetic-gaming-keyboard-black-white-contours-pink-contours-linear-magentic-switches",
           "history": [
+            14499,
             14499
           ]
         },
@@ -280464,7 +280556,7 @@
             40499,
             40499,
             40499,
-            40499,
+            41499,
             41499,
             41499,
             41499,
@@ -280568,7 +280660,7 @@
             30499,
             30499,
             30499,
-            30499,
+            31499,
             31499,
             31499,
             31499,
@@ -282102,7 +282194,7 @@
             59999,
             59999,
             59999,
-            59999,
+            61499,
             61499,
             61499,
             61499,
@@ -282206,7 +282298,7 @@
             59999,
             59999,
             59999,
-            59999,
+            61499,
             61499,
             61499,
             61499,
@@ -282658,6 +282750,32 @@
           ]
         },
         {
+          "id": "rbtechgames_0b1b155a",
+          "name": "Razer DeathAdder Essential Gaming Mouse &#8211; Black",
+          "brand": "Razer",
+          "category": "mouse",
+          "price": 5999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2023/04/razer_deathadder_essential_1.jpg",
+          "url": "https://rbtechngames.com/product/razer-deathadder-essential-gaming-mouse-black",
+          "history": [
+            5999,
+            5999,
+            5999,
+            5999,
+            5999,
+            5999,
+            5999,
+            5999,
+            5999,
+            5999,
+            5999,
+            5999
+          ]
+        },
+        {
           "id": "rbtechgames_63a78df6",
           "name": "USAMS Smart Cover with Pencil Holder Keyboard For iPad US-BH642",
           "brand": "USAMS",
@@ -282909,7 +283027,7 @@
             38999,
             38999,
             38999,
-            38999,
+            39499,
             39499,
             39499,
             39499,
@@ -283090,7 +283208,7 @@
             30499,
             30499,
             30499,
-            30499,
+            31499,
             31499,
             31499,
             31499,
@@ -283497,7 +283615,164 @@
       "url": "https://www.paklap.pk",
       "city": "Nationwide",
       "verified": true,
-      "products": []
+      "products": [
+        {
+          "id": "paklap_2b437f24",
+          "name": "Ninja Nvidia GeForce 4GB GT 730 128-Bit Graphic Card",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 24900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/d/o/download_80__1.jpg",
+          "url": "https://www.paklap.pk/ninja-nvidia-geforce-4gb-gt-730-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900
+          ]
+        },
+        {
+          "id": "paklap_842a569c",
+          "name": "EASE GeForce RTX 3050 6GB GDDR6 128-Bit Graphics Card",
+          "brand": "EASE",
+          "category": "gpu",
+          "price": 75900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/e/a/ease_geforce_rtx_3050_gddr6_128-bit_graphics_card_2.jpg",
+          "url": "https://www.paklap.pk/ease-geforce-rtx-3050-gddr6-128-bit-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900
+          ]
+        },
+        {
+          "id": "paklap_81761541",
+          "name": "MSI GeForce RTX 4060 Ti Gaming X Trio 8G (8GB GDDR6/PCI Express 4.0/2685MHz/18000MHz)",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 166900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/7/1/713uqznzghl._ac_sx679_.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4060-ti-gaming-x-trio-8g-8gb-gddr6-pci-express-4-0-2685mhz-18000mhz.html",
+          "history": [
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900
+          ]
+        },
+        {
+          "id": "paklap_a291d46d",
+          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 2x OC GDDR6X 256-Bit Graphics Card (White)",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 305900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_2x_oc_gddr6x_256-bit_graphics_card_white_.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-2x-oc-256-bit-graphic-card-white-price-reviews-pakistan.html",
+          "history": [
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900,
+            305900
+          ]
+        },
+        {
+          "id": "paklap_95010bc1",
+          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 3X OC GDDR6X 256-Bit Graphics Card",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 310900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_3x_oc_gddr6x_256-bit_graphics_card_1.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-3x-oc-256-bit-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900,
+            310900
+          ]
+        },
+        {
+          "id": "paklap_f39f7953",
+          "name": "PALIT NVIDIA GeForce 16GB RTX4080 Gaming Pro 256-Bit GDDR6X",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 372900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/p/a/palit_nvidia_geforce_16gb_rtx4080_gaming_pro_gddr6x.jpg",
+          "url": "https://www.paklap.pk/palit-nvidia-geforce-16gb-rtx-4080-gaming-pro-256-bit-gddr6x-price-reviews-pakistan.html",
+          "history": [
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900
+          ]
+        }
+      ]
     },
     {
       "id": "sigma",
