@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T10:43:13.148259+00:00",
+  "lastUpdated": "2026-09-02T16:01:30.827392+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gfury-Glacier-X2-600-Air-cooler-price-in-pakistan-pakbyte_1.webp?v=1788330774",
           "url": "https://www.pakbyte.pk/products/gfury-glacier-x2-600-120mm-argb-cpu-air-cooler",
           "history": [
+            5390,
             5390
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gfury-Storm-Fury-T400--air-cooler-price-in-pakistan-pakbyte_1.webp?v=1788330548",
           "url": "https://www.pakbyte.pk/products/gfury-storm-fury-400-120mm-argb-cpu-air-cooler",
           "history": [
+            4590,
             4590
           ]
         },
@@ -50,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFURY-CW11-NERO-N200-Price-in-Pakistan-Pakbyte_1.webp?v=1788327681",
           "url": "https://www.pakbyte.pk/products/gfury-cw11-nero-n-200-cpu-air-cooler",
           "history": [
+            2080,
             2080
           ]
         },
@@ -65,6 +68,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-magnetic-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1788241823",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-compact-magnetic-keyboard-gray-white-yellow",
           "history": [
+            10490,
             10490,
             10490,
             10490,
@@ -88,6 +92,7 @@
             10490,
             10490,
             10490,
+            10490,
             10490
           ]
         },
@@ -103,6 +108,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-f1-v3-ultimate-price-in-pakistan-pakbyte_5.webp?v=1788240729",
           "url": "https://www.pakbyte.pk/products/atk-blazing-f1-v3-ultimate-wireless-gaming-mouse-pearl-blue",
           "history": [
+            21990,
             21990,
             21990,
             21990,
@@ -126,6 +132,7 @@
             20490,
             20490,
             20490,
+            20490,
             20490
           ]
         },
@@ -141,6 +148,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ajazz-AK680-V2-68-Key-Magnetic-Switch-Keyboard-White-Price-in-Pakistan-Pakbyte_1.webp?v=1788159325",
           "url": "https://www.pakbyte.pk/products/ajazz-ak680-v2-68-key-magnetic-switch-keyboard-white",
           "history": [
+            11990,
             11990,
             11990,
             11990,
@@ -170,6 +178,7 @@
             11990,
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -185,6 +194,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-ak820-pro-price-in-pakistan-pakbyte_1.webp?v=1788158754",
           "url": "https://www.pakbyte.pk/products/ajazz-ak820-pro-75-mechanical-keyboard-white-purple-yellow",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -214,6 +224,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -236,6 +247,7 @@
             4690,
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -251,6 +263,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ajazz-nj07-mc-price-in-pakistan-pakbyte_1.webp?v=1788155810",
           "url": "https://www.pakbyte.pk/products/ajazz-nj07-mc-67g-ultra-lightweight-wireless-mouse-white",
           "history": [
+            4690,
             4690,
             4690,
             4690,
@@ -1126,7 +1139,7 @@
           "category": "cooler",
           "price": 13490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-view-500-argb-price-in-pakistan-pakbyte_3.webp?v=1786946353",
           "url": "https://www.pakbyte.pk/products/id-cooling-view-500-argb-micro-atx-pc-case-black",
@@ -3335,7 +3348,7 @@
           "brand": "Attack",
           "category": "mouse",
           "price": 6999,
-          "oldPrice": 6490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATTACK-SHARK-X8-SE-Series-Tri-mode-Lightweight-Wireless-Gaming-Mouse-Berry-Red-Price-in-Pakistan-Pakbyte.jpg?v=1784305005",
@@ -3351,7 +3364,7 @@
             6490,
             6490,
             6490,
-            6490,
+            6999,
             6999
           ]
         },
@@ -3616,28 +3629,17 @@
           ]
         },
         {
-          "id": "pakbyte_bed6f145",
-          "name": "Attack Shark G3Pro Wireless Gaming Mouse - Berry Red",
+          "id": "pakbyte_f4b1fc77",
+          "name": "Attack Shark G3 Pro Wireless Gaming Mouse - Berry Red",
           "brand": "Attack",
           "category": "mouse",
           "price": 7190,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-g3pro-white-mouse-price-in-pakistan-pakbyte_3_26d606d6-1f7c-4342-a770-3a0b7acfd69a.webp?v=1784298260",
           "url": "https://www.pakbyte.pk/products/attack-shark-g3pro-wireless-gaming-mouse-berry-red",
           "history": [
-            7190,
-            7190,
-            7190,
-            7190,
-            7190,
-            7190,
-            7190,
-            7190,
-            7190,
-            7190,
-            7190,
             7190
           ]
         },
@@ -4621,7 +4623,7 @@
             20490,
             20490,
             20490,
-            20490,
+            18990,
             18990,
             18990,
             18990,
@@ -5806,7 +5808,7 @@
           "category": "keyboard",
           "price": 5790,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-Atom-63-MK874V2-RGB-Mechanical-Gaming-Keyboard-Mori-Blue-Price-in-Pakistan-Pakbyte.jpg?v=1783496916",
           "url": "https://www.pakbyte.pk/products/fantech-atom-63-mk874v2-rgb-mechanical-gaming-keyboard-mori-blue",
@@ -7430,7 +7432,7 @@
             49490,
             49490,
             49490,
-            49490,
+            48490,
             48490,
             48490,
             48490,
@@ -7738,7 +7740,7 @@
             6990,
             6990,
             6990,
-            6990,
+            7799,
             7799,
             7799,
             7799,
@@ -11708,7 +11710,7 @@
           "category": "headset",
           "price": 54990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-delta-ii-price-in-pakistan-pakbyte_1.webp?v=1777793174",
           "url": "https://www.pakbyte.pk/products/asus-rog-delta-ii-wireless-gaming-headset-white",
@@ -22666,7 +22668,7 @@
             9790,
             9790,
             9790,
-            9790,
+            8990,
             8990,
             8990,
             8990,
@@ -22692,7 +22694,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29990,
             29990,
             29990,
             29990,
@@ -22718,7 +22720,7 @@
             29990,
             29990,
             29990,
-            29990,
+            28990,
             28990,
             28990,
             28990,
@@ -26319,7 +26321,7 @@
           "brand": "GFury",
           "category": "cooler",
           "price": 4290,
-          "oldPrice": 4499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-Cool-Storm-GF-T600-CPU-Cooler-Price-in-Pakistan-Pakbyte_2.webp?v=1768317982",
@@ -26335,7 +26337,7 @@
             4499,
             4499,
             4499,
-            4499,
+            4290,
             4290
           ]
         },
@@ -26345,7 +26347,7 @@
           "brand": "GFury",
           "category": "cooler",
           "price": 3440,
-          "oldPrice": 2990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-GF-T400-COOL-STORM-CPU-Cooler-Price-in-Pakistan_2.webp?v=1768317566",
@@ -26361,7 +26363,7 @@
             2990,
             2990,
             2990,
-            2990,
+            3440,
             3440
           ]
         },
@@ -26423,7 +26425,7 @@
           "brand": "GFURY",
           "category": "cooler",
           "price": 10590,
-          "oldPrice": 10190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFURY-GF-240-HURRICAN-CPU-Cooler-Black-Price-in-Pakistan-Pakbyte_3.webp?v=1772171425",
@@ -26439,7 +26441,7 @@
             10190,
             10190,
             10190,
-            10190,
+            10590,
             10590
           ]
         },
@@ -26449,7 +26451,7 @@
           "brand": "GFury",
           "category": "monitor",
           "price": 30990,
-          "oldPrice": 31490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-Blaze-GF-24-Inch-LED-Flat-Monitor-Price-in-Pakistan-Pakbyte_3.webp?v=1768301386",
@@ -26465,7 +26467,7 @@
             31490,
             31490,
             31490,
-            31490,
+            30990,
             30990
           ]
         },
@@ -26475,7 +26477,7 @@
           "brand": "GFury",
           "category": "monitor",
           "price": 43990,
-          "oldPrice": 41990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-GF-27-Dominion-27_-Dual-Mode-LED-Gaming-Monitor-Price-in-Pakistan-Pakbyte_3.webp?v=1768298746",
@@ -26491,7 +26493,7 @@
             41990,
             41990,
             41990,
-            41990,
+            43990,
             43990
           ]
         },
@@ -26527,7 +26529,7 @@
           "brand": "GFury",
           "category": "monitor",
           "price": 50490,
-          "oldPrice": 79990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-GF-34-Eclipse-34-inchs-Curved-Gaming-LED-Monitor-Price-in-Pakistan-Pakbyte_4.webp?v=1768297514",
@@ -26543,7 +26545,7 @@
             79990,
             79990,
             79990,
-            79990,
+            50490,
             50490
           ]
         },
@@ -26579,7 +26581,7 @@
           "brand": "GFury",
           "category": "case",
           "price": 11790,
-          "oldPrice": 11990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-PLUTO-GF-390-Gaming-PC-Case-Price-in-Pakistan-Pakbyte_1.webp?v=1768293390",
@@ -26595,7 +26597,7 @@
             11990,
             11990,
             11990,
-            11990,
+            11790,
             11790
           ]
         },
@@ -26697,7 +26699,7 @@
             1190,
             1190,
             1190,
-            1190,
+            1690,
             1690,
             1690,
             1690
@@ -30543,7 +30545,7 @@
             13990,
             13990,
             13990,
-            13990,
+            13999,
             13999,
             13999,
             13999,
@@ -45091,7 +45093,7 @@
           "brand": "Attack",
           "category": "mouse",
           "price": 6999,
-          "oldPrice": 6390,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-se-wireless-mouse-white-price-in-pakistan-pakbyte_2.jpg?v=1760008893",
@@ -45107,7 +45109,7 @@
             6390,
             6390,
             6390,
-            6390,
+            6999,
             6999
           ]
         },
@@ -45117,7 +45119,7 @@
           "brand": "Attack",
           "category": "mouse",
           "price": 6999,
-          "oldPrice": 6390,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-se-wireless-mouse-black-price-in-pakistan_2.jpg?v=1760008474",
@@ -45133,7 +45135,7 @@
             6390,
             6390,
             6390,
-            6390,
+            6999,
             6999
           ]
         },
@@ -46452,6 +46454,7 @@
             5090,
             5090,
             5090,
+            5090,
             5090
           ]
         },
@@ -46467,6 +46470,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/1st-player-fc7-black-pack-of-3-price-in-pakistan-pakbyte_1.webp?v=1759241842",
           "url": "https://www.pakbyte.pk/products/1st-player-fc7-argb-120mm-case-fan-pack-of-3-black",
           "history": [
+            4990,
             4990,
             4990,
             4990,
@@ -48702,7 +48706,7 @@
             18990,
             18990,
             18990,
-            18990,
+            17490,
             17490,
             17490,
             17490,
@@ -48728,7 +48732,7 @@
             18490,
             18490,
             18490,
-            18490,
+            17490,
             17490,
             17490,
             17490,
@@ -48780,7 +48784,7 @@
             20990,
             20990,
             20990,
-            20990,
+            19490,
             19490,
             19490,
             19490,
@@ -48806,7 +48810,7 @@
             21490,
             21490,
             21490,
-            21490,
+            19990,
             19990,
             19990,
             19990,
@@ -48884,7 +48888,7 @@
             9490,
             9490,
             9490,
-            9490,
+            7990,
             7990,
             7990,
             7990,
@@ -50222,9 +50226,9 @@
           "name": "Attack Shark G3 Pro Wireless Gaming Mouse with Charging Dock - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 7199,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 8399,
+          "oldPrice": 7199,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-g3pro-white-mouse-price-in-pakistan-pakbyte_1.webp?v=1756100486",
           "url": "https://www.pakbyte.pk/products/attack-shark-g3-pro-wireless-gaming-mouse-with-charging-dock-white",
@@ -50240,7 +50244,7 @@
             7199,
             7199,
             7199,
-            7199
+            8399
           ]
         },
         {
@@ -56724,7 +56728,7 @@
           "category": "ram",
           "price": 10990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HP-970-Programmable-Wireless-Keyboard-Silver-Works-with-Windows-MacOS-PakByte-Computers-26337511178307.webp?v=1753669644",
           "url": "https://www.pakbyte.pk/products/hp-970-programmable-wireless-keyboard-silver-works-with-windows-macos",
@@ -59297,7 +59301,7 @@
           "brand": "Sapphire",
           "category": "gpu",
           "price": 244999,
-          "oldPrice": 209990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Pulse-AMD-Radeon-RX-9070-Gaming-Graphics-Card-with-16GB-GDDR6-PakByte-Computers-26298134954051.jpg?v=1753670378",
@@ -59313,7 +59317,7 @@
             209990,
             209990,
             209990,
-            209990,
+            244999,
             244999
           ]
         },
@@ -86918,7 +86922,7 @@
             20000,
             20000,
             20000,
-            20000,
+            20999,
             20999,
             20999,
             20999,
@@ -146160,8 +146164,8 @@
           "name": "WESTERN DIGITAL 4TB Purple SATA III 3.5&#8243; Internal Surveillance HDD",
           "brand": "WESTERN",
           "category": "storage",
-          "price": 3500000,
-          "oldPrice": null,
+          "price": 6500000,
+          "oldPrice": 3500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/WD-Purple-SATA-III-3.5-Internal-Surveillance-HDD-Price-in-Pakistan-01.jpg",
@@ -146178,7 +146182,7 @@
             3500000,
             3500000,
             3500000,
-            3500000
+            6500000
           ]
         },
         {
@@ -146252,7 +146256,7 @@
             32500000,
             32500000,
             32500000,
-            32500000,
+            29500000,
             29500000,
             29500000,
             29500000,
@@ -149722,8 +149726,8 @@
           "name": "Lenovo LN950 4TB M.2 NVMe PCIe Gen4 x4 Internal SSD – Up to 7200MB/s Read, 6850MB/s Write ",
           "brand": "Lenovo",
           "category": "storage",
-          "price": 11000000,
-          "oldPrice": null,
+          "price": 11600000,
+          "oldPrice": 11000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-LN950-4TB-M.2-NVMe-PCIe-Gen4-x4-Internal-SSD-Price-in-Pakistan.webp",
@@ -149740,7 +149744,7 @@
             11000000,
             11000000,
             11000000,
-            11000000
+            11600000
           ]
         },
         {
@@ -153286,7 +153290,7 @@
           "category": "mouse",
           "price": 330000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/ATTACK-SHARK-CM02-eSport-Gaming-Mousepad-Orange-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-cm02-esport-gaming-mousepad-orange",
@@ -153737,7 +153741,7 @@
             22500000,
             22500000,
             22500000,
-            22500000,
+            24000000,
             24000000,
             24000000,
             24000000,
@@ -155704,7 +155708,7 @@
           "category": "headset",
           "price": 5499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/ASUS-ROG-Delta-II-A701-Wireless-Gaming-Headset-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-rog-delta-ii-a701-wireless-gaming-headset-white-bt-rog-speednova-2-4ghz-3-5mm-50mm-titanium-plated-drivers-10mm-super-wideband-mic-110hr-battery-dualflow-audio-compatible-with-pc-switch-ps",
@@ -179428,7 +179432,7 @@
             46500000,
             46500000,
             46500000,
-            46500000,
+            44500000,
             44500000,
             44500000,
             44500000,
@@ -183706,7 +183710,7 @@
           "category": "cooler",
           "price": 900000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thunder-Rex-mATX-ITX-PC-Case-with-3x-infinity-ARGB-Fans-front-mesh-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thunder-rex-matx-itx-pc-case-with-3x-infinity-argb-fans-front-mesh",
@@ -186938,6 +186942,7 @@
             48999900,
             48999900,
             48999900,
+            48999900,
             48999900
           ]
         },
@@ -188256,7 +188261,7 @@
             23500000,
             23500000,
             23500000,
-            23500000,
+            29500000,
             29500000,
             29500000,
             29500000,
@@ -188858,7 +188863,7 @@
             22500000,
             22500000,
             22500000,
-            22500000,
+            24000000,
             24000000,
             24000000,
             24000000,
@@ -194734,7 +194739,7 @@
             19500000,
             19500000,
             19500000,
-            19500000,
+            18500000,
             18500000,
             18500000,
             18500000,
@@ -213026,7 +213031,7 @@
           "category": "keyboard",
           "price": 850000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/UGREEN-15258-Ultra-Slim-Wireless-Keyboard-Bluetooth-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/ugreen-15258-ultra-slim-wireless-keyboard-bluetooth",
@@ -216418,7 +216423,7 @@
             46000000,
             46000000,
             46000000,
-            46000000,
+            44000000,
             44000000,
             44000000,
             44000000,
@@ -227924,7 +227929,7 @@
           "category": "mouse",
           "price": 160000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/07/111701-aukey-km-p3-extended-xxl-mouse-mat-price-in-pakistan-1.webp",
           "url": "https://zahcomputers.pk/product/aukey-km-p3-extended-xxl-mouse-mat",
@@ -237388,7 +237393,7 @@
           "category": "headset",
           "price": 1100000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/01/JBL-Tune-520BT-Wireless-On-Ear-Headphones.jpg",
           "url": "https://zahcomputers.pk/product/jbl-tune-520bt-wireless-on-ear-headphones-blue",
@@ -275196,6 +275201,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_attack_shark_rs3_ultra_silver.webp",
           "url": "https://rbtechngames.com/product/attack-shark-rs3-ultra-carbon-fiber-wireless-8k-gaming-mouse-black-silver-red",
           "history": [
+            24999,
             24999
           ]
         },
@@ -275211,6 +275217,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_attack_shark_x8_ultimate_black.webp",
           "url": "https://rbtechngames.com/product/attack-shark-x8-ultimate-wireless-8k-gaming-mouse-black-white-berry-red",
           "history": [
+            21999,
             21999
           ]
         },
@@ -275226,6 +275233,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_intel_core_ultra_7_265kf.jpg",
           "url": "https://rbtechngames.com/product/intel-core-ultra-7-265kf-desktop-processor",
           "history": [
+            85999,
             85999,
             85999,
             85999,
@@ -275249,6 +275257,7 @@
             199999,
             199999,
             199999,
+            199999,
             199999
           ]
         },
@@ -275264,6 +275273,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_crucial_t705.png",
           "url": "https://rbtechngames.com/product/crucial-t705-pcie-nvme-m-2-gen-5-ssd-1tb-2tb-4tb-with-heatsink",
           "history": [
+            204999,
             204999,
             204999,
             204999,
@@ -275562,8 +275572,8 @@
           "name": "PNY GeForce RTX 5060 Ti 16GB Epic-X RGB OC Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 239999,
-          "oldPrice": null,
+          "price": 244999,
+          "oldPrice": 239999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_pny_rtx_5060_ti_epic-x-rgb-oc.webp",
@@ -275573,14 +275583,14 @@
             237999,
             237999,
             237999,
-            237999,
             239999,
             239999,
             239999,
             239999,
             239999,
             239999,
-            239999
+            239999,
+            244999
           ]
         },
         {
@@ -275945,32 +275955,6 @@
             2449,
             2449,
             2449
-          ]
-        },
-        {
-          "id": "rbtechgames_21e0ec50",
-          "name": "AMD Ryzen 5 5600X Processor (TRAY) &#8211; USED",
-          "brand": "AMD",
-          "category": "cpu",
-          "price": 30000,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/10/image_2021-10-04_154104-2.png",
-          "url": "https://rbtechngames.com/product/amd-ryzen-5-5600x-processor-tray-used",
-          "history": [
-            30000,
-            30000,
-            30000,
-            30000,
-            30000,
-            30000,
-            30000,
-            30000,
-            30000,
-            30000,
-            30000,
-            30000
           ]
         },
         {
@@ -276888,8 +276872,8 @@
           "name": "Zotac Gaming GeForce RTX 5060 Ti 8GB Twin Edge Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 149999,
-          "oldPrice": null,
+          "price": 154999,
+          "oldPrice": 149999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_zotac_rtx_5060_ti_8gb.jpg",
@@ -276906,7 +276890,7 @@
             149999,
             149999,
             149999,
-            149999
+            154999
           ]
         },
         {
@@ -276914,8 +276898,8 @@
           "name": "Asus Prime GeForce RTX 5080 16GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 484999,
-          "oldPrice": null,
+          "price": 499999,
+          "oldPrice": 484999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_rtx_5080_16gb_oc.webp",
@@ -276932,7 +276916,7 @@
             484999,
             484999,
             484999,
-            484999
+            499999
           ]
         },
         {
@@ -277278,8 +277262,8 @@
           "name": "Asus ROG Astral GeForce RTX 5090 32GB White OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 1649999,
-          "oldPrice": null,
+          "price": 1749999,
+          "oldPrice": 1649999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
@@ -277296,7 +277280,7 @@
             1649999,
             1649999,
             1649999,
-            1649999
+            1749999
           ]
         },
         {
@@ -277471,7 +277455,7 @@
             129999,
             129999,
             129999,
-            129999,
+            144999,
             144999,
             144999,
             144999,
@@ -277502,7 +277486,7 @@
             20999,
             20999,
             20999,
-            20999,
+            19999,
             19999,
             19999
           ]
@@ -278849,7 +278833,7 @@
             124999,
             124999,
             124999,
-            124999,
+            134999,
             134999,
             134999,
             134999,
@@ -278916,8 +278900,8 @@
           "name": "Asus ProArt GeForce RTX 5080 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 499999,
-          "oldPrice": null,
+          "price": 514999,
+          "oldPrice": 499999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_asus_proart_rtx_5080_16gb_oc.webp",
@@ -278934,7 +278918,7 @@
             499999,
             499999,
             499999,
-            499999
+            514999
           ]
         },
         {
@@ -279008,8 +278992,8 @@
             16499,
             16499,
             16499,
-            16499,
             18499,
+            16499,
             16499,
             16499,
             16499
@@ -279488,8 +279472,8 @@
           "name": "Sapphire Pulse AMD Radeon RX 9060 XT OC 16GB Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 174999,
-          "oldPrice": null,
+          "price": 184999,
+          "oldPrice": 174999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_sapphire_pulse__rx_9060_xt_oc_16gb.webp",
@@ -279506,7 +279490,7 @@
             174999,
             174999,
             174999,
-            174999
+            184999
           ]
         },
         {
@@ -279525,7 +279509,7 @@
             149999,
             149999,
             149999,
-            149999,
+            159999,
             159999,
             159999,
             159999,
@@ -279681,7 +279665,7 @@
             148499,
             148499,
             148499,
-            148499,
+            154999,
             154999,
             154999,
             154999,
@@ -279733,7 +279717,7 @@
             148499,
             148499,
             148499,
-            148499,
+            154999,
             154999,
             154999,
             154999,
@@ -279911,6 +279895,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_attack_shark_r82_he_black.webp",
           "url": "https://rbtechngames.com/product/attack-shark-r82-he-75-rgb-rapid-trigger-magnetic-gaming-keyboard-black-white-contours-pink-contours-linear-magentic-switches",
           "history": [
+            14499,
             14499,
             14499
           ]
@@ -280258,8 +280243,8 @@
           "name": "Zotac Gaming GeForce RTX 5090 AMP Extreme Infinity 32GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 1499999,
-          "oldPrice": null,
+          "price": 1649999,
+          "oldPrice": 1499999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_zotac_rtx_5090_amp_extreme_infinity_32gb.jpg",
@@ -280276,7 +280261,7 @@
             1499999,
             1499999,
             1499999,
-            1499999
+            1649999
           ]
         },
         {
@@ -280555,7 +280540,7 @@
             40499,
             40499,
             40499,
-            40499,
+            41499,
             41499,
             41499,
             41499,
@@ -280570,8 +280555,8 @@
           "name": "Gigabyte GeForce RTX 5070 Windforce 12GB OC SFF Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 249999,
-          "oldPrice": null,
+          "price": 254999,
+          "oldPrice": 249999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_gigabyte_rtx_5070_windforce_oc_sff_12gb.webp",
@@ -280588,7 +280573,7 @@
             249999,
             249999,
             249999,
-            249999
+            254999
           ]
         },
         {
@@ -280622,8 +280607,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Solid OC 12GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 254999,
-          "oldPrice": null,
+          "price": 259999,
+          "oldPrice": 254999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
@@ -280640,7 +280625,7 @@
             254999,
             254999,
             254999,
-            254999
+            259999
           ]
         },
         {
@@ -280659,7 +280644,7 @@
             30499,
             30499,
             30499,
-            30499,
+            31499,
             31499,
             31499,
             31499,
@@ -282193,7 +282178,7 @@
             59999,
             59999,
             59999,
-            59999,
+            61499,
             61499,
             61499,
             61499,
@@ -282297,7 +282282,7 @@
             59999,
             59999,
             59999,
-            59999,
+            61499,
             61499,
             61499,
             61499,
@@ -283026,7 +283011,7 @@
             38999,
             38999,
             38999,
-            38999,
+            39499,
             39499,
             39499,
             39499,
@@ -283207,7 +283192,7 @@
             30499,
             30499,
             30499,
-            30499,
+            31499,
             31499,
             31499,
             31499,
@@ -283615,164 +283600,7 @@
       "url": "https://www.paklap.pk",
       "city": "Nationwide",
       "verified": true,
-      "products": [
-        {
-          "id": "paklap_2b437f24",
-          "name": "Ninja Nvidia GeForce 4GB GT 730 128-Bit Graphic Card",
-          "brand": "NVIDIA",
-          "category": "gpu",
-          "price": 24900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/d/o/download_80__1.jpg",
-          "url": "https://www.paklap.pk/ninja-nvidia-geforce-4gb-gt-730-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900
-          ]
-        },
-        {
-          "id": "paklap_842a569c",
-          "name": "EASE GeForce RTX 3050 6GB GDDR6 128-Bit Graphics Card",
-          "brand": "EASE",
-          "category": "gpu",
-          "price": 75900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/e/a/ease_geforce_rtx_3050_gddr6_128-bit_graphics_card_2.jpg",
-          "url": "https://www.paklap.pk/ease-geforce-rtx-3050-gddr6-128-bit-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900
-          ]
-        },
-        {
-          "id": "paklap_81761541",
-          "name": "MSI GeForce RTX 4060 Ti Gaming X Trio 8G (8GB GDDR6/PCI Express 4.0/2685MHz/18000MHz)",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 166900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/7/1/713uqznzghl._ac_sx679_.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4060-ti-gaming-x-trio-8g-8gb-gddr6-pci-express-4-0-2685mhz-18000mhz.html",
-          "history": [
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900
-          ]
-        },
-        {
-          "id": "paklap_a291d46d",
-          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 2x OC GDDR6X 256-Bit Graphics Card (White)",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 305900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_2x_oc_gddr6x_256-bit_graphics_card_white_.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-2x-oc-256-bit-graphic-card-white-price-reviews-pakistan.html",
-          "history": [
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900
-          ]
-        },
-        {
-          "id": "paklap_95010bc1",
-          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 3X OC GDDR6X 256-Bit Graphics Card",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 310900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_3x_oc_gddr6x_256-bit_graphics_card_1.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-3x-oc-256-bit-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900
-          ]
-        },
-        {
-          "id": "paklap_f39f7953",
-          "name": "PALIT NVIDIA GeForce 16GB RTX4080 Gaming Pro 256-Bit GDDR6X",
-          "brand": "NVIDIA",
-          "category": "gpu",
-          "price": 372900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/p/a/palit_nvidia_geforce_16gb_rtx4080_gaming_pro_gddr6x.jpg",
-          "url": "https://www.paklap.pk/palit-nvidia-geforce-16gb-rtx-4080-gaming-pro-256-bit-gddr6x-price-reviews-pakistan.html",
-          "history": [
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900
-          ]
-        }
-      ]
+      "products": []
     },
     {
       "id": "sigma",
