@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T14:39:49.601075+00:00",
+  "lastUpdated": "2026-09-05T19:58:42.836295+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -26182,7 +26182,7 @@
             98399,
             98399,
             98399,
-            98399,
+            114999,
             114999,
             114999,
             114999,
@@ -50272,7 +50272,7 @@
           "brand": "Attack",
           "category": "keyboard",
           "price": 11990,
-          "oldPrice": 11490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x66-white-cheese-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1756100784",
@@ -50288,7 +50288,7 @@
             11490,
             11490,
             11490,
-            11490,
+            11990,
             11990
           ]
         },
@@ -52988,7 +52988,7 @@
             47990,
             47990,
             47990,
-            47990,
+            60999,
             60999,
             60999,
             60999,
@@ -146164,6 +146164,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/MSI-GeForce-RTX-2060-Super-GAMING-X-8GB-DDR6-256-BIT-Graphics-Card-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-2060-super-gaming-x-8gb-ddr6-256-bit-graphics-card-used",
           "history": [
+            6900000,
             6900000
           ]
         },
@@ -146179,6 +146180,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Attack-Shark-R82-HE-75-RGB-Rapid-Trigger-Magnetic-Gaming-Keyboard-–-Moonlight.webp",
           "url": "https://zahcomputers.pk/product/attack-shark-r82-he-75-rgb-rapid-trigger-magnetic-gaming-keyboard-moonlight",
           "history": [
+            1400000,
             1400000
           ]
         },
@@ -146194,6 +146196,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Amaze-A224-Dual-Protocol-SSD-Enclosure.webp",
           "url": "https://zahcomputers.pk/product/amaze-a224-dual-protocol-ssd-enclosure",
           "history": [
+            420000,
             420000
           ]
         },
@@ -146209,6 +146212,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/ATTACK-SHARK-L50-PRO-Tri-Mode-Wireless-Gaming-Headset-White.webp",
           "url": "https://zahcomputers.pk/product/attack-shark-l50-pro-tri-mode-wireless-gaming-headset-white-7-1-surround-sound-53mm-drivers-ai-noise-cancelling-mic-bluetooth-5-3-white",
           "history": [
+            1300000,
             1300000,
             1300000,
             1300000,
@@ -146232,6 +146236,7 @@
             350000,
             350000,
             350000,
+            350000,
             350000
           ]
         },
@@ -146247,6 +146252,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/ATTACK-SHARK-CM02PRO-eSport-Gaming-Mouse-Pad-White-1.webp",
           "url": "https://zahcomputers.pk/product/attack-shark-cm02pro-esport-gaming-mouse-pad-white-900x400mm-4mm-thick-control-surface-anti-slip-copy",
           "history": [
+            350000,
             350000,
             350000,
             350000,
@@ -146271,6 +146277,7 @@
             350000,
             350000,
             350000,
+            350000,
             350000
           ]
         },
@@ -146286,6 +146293,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Lexar-ARES-Gen2-RGB-DDR5-32GB-Kit-2-x-16GB-7600MHz-Desktop-Memory-288-Pin-UDIMM-CL36-46-46-961.4V-DRAM-Empowered-by-SK-hynix-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-ares-gen2-rgb-ddr5-32gb-kit-2-x-16gb-8000mhz-desktop-memory-cl38-intel-xmp-3-0-rgb-1-45v",
           "history": [
+            14800000,
             14800000,
             14800000,
             14800000,
@@ -146317,6 +146325,7 @@
             1300000,
             1300000,
             1300000,
+            1300000,
             1300000
           ]
         },
@@ -146332,6 +146341,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Attack-Shark-X87-Ultra-8K-Wireless-Mechanical-Gaming-Keyboard-Shadow-Jade.webp",
           "url": "https://zahcomputers.pk/product/attack-shark-x87-ultra-8k-wireless-mechanical-gaming-keyboard-shadow-jade",
           "history": [
+            2000000,
             2000000,
             2000000,
             2000000,
@@ -146363,6 +146373,7 @@
             2000000,
             2000000,
             2000000,
+            2000000,
             2000000
           ]
         },
@@ -146378,6 +146389,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Attack-Shark-X87-Ultra-8K-Wireless-Mechanical-Gaming-Keyboard-Iced-Orange.webp",
           "url": "https://zahcomputers.pk/product/attack-shark-x87-ultra-8k-wireless-mechanical-gaming-keyboard-iced-orange",
           "history": [
+            2000000,
             2000000,
             2000000,
             2000000,
@@ -146513,6 +146525,7 @@
             5900000,
             5900000,
             5900000,
+            5900000,
             5900000
           ]
         },
@@ -146556,7 +146569,7 @@
           "history": [
             11800000,
             11800000,
-            11800000,
+            12200000,
             12200000,
             12200000,
             12200000,
@@ -146790,7 +146803,7 @@
           "history": [
             5850000,
             5850000,
-            5850000,
+            6000000,
             6000000,
             6000000,
             6000000,
@@ -147440,7 +147453,7 @@
           "history": [
             2700000,
             2700000,
-            2700000,
+            2800000,
             2800000,
             2800000,
             2800000,
@@ -149030,7 +149043,7 @@
             4650000,
             4650000,
             4650000,
-            4650000,
+            4750000,
             4750000,
             4750000,
             4750000,
@@ -149416,7 +149429,7 @@
           "history": [
             26200000,
             26200000,
-            26200000,
+            29350000,
             29350000,
             29350000,
             29350000,
@@ -149434,7 +149447,7 @@
           "brand": "ASUS",
           "category": "ram",
           "price": 29500000,
-          "oldPrice": 29800000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/ROG-CROSSHAIR-X870E-DARK-HERO-Price-in-Pakistan.webp",
@@ -149450,7 +149463,7 @@
             29800000,
             29800000,
             29800000,
-            29800000,
+            29500000,
             29500000
           ]
         },
@@ -149858,7 +149871,7 @@
           "history": [
             1999900,
             1999900,
-            1999900,
+            2149900,
             2149900,
             2149900,
             2149900,
@@ -150070,7 +150083,7 @@
             11600000,
             11600000,
             11600000,
-            11600000,
+            12000000,
             12000000,
             12000000,
             12000000,
@@ -150898,7 +150911,7 @@
           "history": [
             6499900,
             6499900,
-            6499900,
+            6800000,
             6800000,
             6800000,
             6800000,
@@ -150924,7 +150937,7 @@
           "history": [
             12500000,
             12500000,
-            12500000,
+            12800000,
             12800000,
             12800000,
             12800000,
@@ -151002,7 +151015,7 @@
           "history": [
             5200000,
             5200000,
-            5200000,
+            5300000,
             5300000,
             5300000,
             5300000,
@@ -153368,7 +153381,7 @@
           "history": [
             6499900,
             6499900,
-            6499900,
+            6800000,
             6800000,
             6800000,
             6800000,
@@ -153420,7 +153433,7 @@
           "history": [
             1999900,
             1999900,
-            1999900,
+            2149900,
             2149900,
             2149900,
             2149900,
@@ -153654,7 +153667,7 @@
           "history": [
             2499900,
             2499900,
-            2499900,
+            2599900,
             2599900,
             2599900,
             2599900,
@@ -153680,7 +153693,7 @@
           "history": [
             2499900,
             2499900,
-            2499900,
+            2599900,
             2599900,
             2599900,
             2599900,
@@ -153706,7 +153719,7 @@
           "history": [
             2499900,
             2499900,
-            2499900,
+            2599900,
             2599900,
             2599900,
             2599900,
@@ -155552,7 +155565,7 @@
           "history": [
             2000000,
             2000000,
-            2000000,
+            1850000,
             1850000,
             1850000,
             1850000,
@@ -156280,7 +156293,7 @@
           "history": [
             1599900,
             1599900,
-            1599900,
+            1699900,
             1699900,
             1699900,
             1699900,
@@ -157296,6 +157309,7 @@
             749900,
             749900,
             749900,
+            749900,
             749900
           ]
         },
@@ -157311,6 +157325,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/ATTACK-SHARK-V6-Ultra-Light-Tri-Mode-Gaming-Mouse-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-v6-ultra-light-tri-mode-gaming-mouse-white",
           "history": [
+            749900,
             749900,
             749900,
             749900,
@@ -157384,7 +157399,7 @@
           "history": [
             799900,
             799900,
-            799900,
+            749900,
             749900,
             749900,
             749900,
@@ -157410,7 +157425,7 @@
           "history": [
             799900,
             799900,
-            799900,
+            749900,
             749900,
             749900,
             749900,
@@ -158788,7 +158803,7 @@
           "history": [
             15599900,
             15599900,
-            15599900,
+            18300000,
             18300000,
             18300000,
             18300000,
@@ -167290,7 +167305,7 @@
           "history": [
             11200000,
             11200000,
-            11200000,
+            12000000,
             12000000,
             12000000,
             12000000,
@@ -169214,7 +169229,7 @@
           "history": [
             11800000,
             11800000,
-            11800000,
+            12500000,
             12500000,
             12500000,
             12500000,
@@ -169760,7 +169775,7 @@
           "history": [
             11200000,
             11200000,
-            11200000,
+            12200000,
             12200000,
             12200000,
             12200000,
@@ -169968,7 +169983,7 @@
           "history": [
             2900000,
             2900000,
-            2900000,
+            3100000,
             3100000,
             3100000,
             3100000,
@@ -171970,7 +171985,7 @@
           "history": [
             330000,
             330000,
-            330000,
+            350000,
             350000,
             350000,
             350000,
@@ -172022,7 +172037,7 @@
           "history": [
             330000,
             330000,
-            330000,
+            350000,
             350000,
             350000,
             350000,
@@ -172742,7 +172757,7 @@
           "brand": "NVIDIA",
           "category": "gpu",
           "price": 27500000,
-          "oldPrice": 26800000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/HP-Victus-15-FA2082WM-Gaming-Laptop-13th-Gen-Core-i5-13420H-16GB-DDR4-512GB-SSD-NVIDIA-RTX-4050-6GB-Graphics-15.6-FHD-IPS-144Hz-Windows-11-Home-Mica-Silver-Price-in-Pakistan.jpg",
@@ -172758,7 +172773,7 @@
             26800000,
             26800000,
             26800000,
-            26800000,
+            27500000,
             27500000
           ]
         },
@@ -177326,7 +177341,7 @@
           "history": [
             4400000,
             4400000,
-            4400000,
+            4800000,
             4800000,
             4800000,
             4800000,
@@ -180164,7 +180179,7 @@
             15500000,
             15500000,
             15500000,
-            15500000,
+            18500000,
             18500000,
             18500000,
             18500000,
@@ -180368,7 +180383,7 @@
           "history": [
             17000000,
             17000000,
-            17000000,
+            18600000,
             18600000,
             18600000,
             18600000,
@@ -180420,7 +180435,7 @@
           "history": [
             14800000,
             14800000,
-            14800000,
+            16400000,
             16400000,
             16400000,
             16400000,
@@ -180446,7 +180461,7 @@
           "history": [
             14500000,
             14500000,
-            14500000,
+            16050000,
             16050000,
             16050000,
             16050000,
@@ -180472,7 +180487,7 @@
           "history": [
             12750000,
             12750000,
-            12750000,
+            13350000,
             13350000,
             13350000,
             13350000,
@@ -181954,7 +181969,7 @@
           "history": [
             12000000,
             12000000,
-            12000000,
+            12300000,
             12300000,
             12300000,
             12300000,
@@ -183332,7 +183347,7 @@
           "history": [
             41700000,
             41700000,
-            41700000,
+            42500000,
             42500000,
             42500000,
             42500000,
@@ -185132,6 +185147,7 @@
             12750000,
             12750000,
             12750000,
+            12750000,
             12750000
           ]
         },
@@ -186631,7 +186647,7 @@
           "history": [
             31500000,
             31500000,
-            31500000,
+            35000000,
             35000000,
             35000000,
             35000000,
@@ -186995,7 +187011,7 @@
           "history": [
             14849900,
             14849900,
-            14849900,
+            17800000,
             17800000,
             17800000,
             17800000,
@@ -187125,7 +187141,7 @@
           "history": [
             24500000,
             24500000,
-            24500000,
+            27800000,
             27800000,
             27800000,
             27800000,
@@ -187203,7 +187219,7 @@
           "history": [
             24749900,
             24749900,
-            24749900,
+            28200000,
             28200000,
             28200000,
             28200000,
@@ -187385,7 +187401,7 @@
           "history": [
             1649900,
             1649900,
-            1649900,
+            1599900,
             1599900,
             1599900,
             1599900,
@@ -187827,7 +187843,7 @@
           "history": [
             719900,
             719900,
-            719900,
+            699900,
             699900,
             699900,
             699900,
@@ -187853,7 +187869,7 @@
           "history": [
             719900,
             719900,
-            719900,
+            699900,
             699900,
             699900,
             699900,
@@ -189647,7 +189663,7 @@
           "history": [
             15399900,
             15399900,
-            15399900,
+            17800000,
             17800000,
             17800000,
             17800000,
@@ -192611,7 +192627,7 @@
           "history": [
             34099900,
             34099900,
-            34099900,
+            41000000,
             41000000,
             41000000,
             41000000,
@@ -192637,7 +192653,7 @@
           "history": [
             23099900,
             23099900,
-            23099900,
+            28200000,
             28200000,
             28200000,
             28200000,
@@ -192715,7 +192731,7 @@
           "history": [
             23099900,
             23099900,
-            23099900,
+            28200000,
             28200000,
             28200000,
             28200000,
@@ -192741,7 +192757,7 @@
           "history": [
             14500000,
             14500000,
-            14500000,
+            16050000,
             16050000,
             16050000,
             16050000,
@@ -192767,7 +192783,7 @@
           "history": [
             14500000,
             14500000,
-            14500000,
+            15750000,
             15750000,
             15750000,
             15750000,
@@ -192897,7 +192913,7 @@
           "history": [
             43500000,
             43500000,
-            43500000,
+            44500000,
             44500000,
             44500000,
             44500000,
@@ -192949,7 +192965,7 @@
           "history": [
             6400000,
             6400000,
-            6400000,
+            6200000,
             6200000,
             6200000,
             6200000,
@@ -192975,7 +192991,7 @@
           "history": [
             12099900,
             12099900,
-            12099900,
+            13200000,
             13200000,
             13200000,
             13200000,
@@ -193079,7 +193095,7 @@
           "history": [
             4899900,
             4899900,
-            4899900,
+            4450000,
             4450000,
             4450000,
             4450000,
@@ -194639,7 +194655,7 @@
           "history": [
             26500000,
             26500000,
-            26500000,
+            29500000,
             29500000,
             29500000,
             29500000,
@@ -201815,7 +201831,7 @@
           "history": [
             999900,
             999900,
-            999900,
+            1100000,
             1100000,
             1100000,
             1100000,
@@ -201841,7 +201857,7 @@
           "history": [
             999900,
             999900,
-            999900,
+            1100000,
             1100000,
             1100000,
             1100000,
@@ -206781,7 +206797,7 @@
           "history": [
             1599900,
             1599900,
-            1599900,
+            1549900,
             1549900,
             1549900,
             1549900,
@@ -206937,7 +206953,7 @@
           "history": [
             1599900,
             1599900,
-            1599900,
+            1699900,
             1699900,
             1699900,
             1699900,
@@ -220067,7 +220083,7 @@
           "history": [
             1599900,
             1599900,
-            1599900,
+            1699900,
             1699900,
             1699900,
             1699900,
@@ -228855,7 +228871,7 @@
           "history": [
             12500000,
             12500000,
-            12500000,
+            16000000,
             16000000,
             16000000,
             16000000,
@@ -238735,7 +238751,7 @@
           "history": [
             3100000,
             3100000,
-            3100000,
+            3200000,
             3200000,
             3200000,
             3200000,
@@ -247697,7 +247713,7 @@
           "brand": "ASUS",
           "category": "motherboard",
           "price": 6600000,
-          "oldPrice": 6499900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/02/ASUS-PRIME-Z790-P-CSM-13th-Gen-LGA-1700-Motherboard-Price-in-Pakistan.jpg",
@@ -247713,7 +247729,7 @@
             6499900,
             6499900,
             6499900,
-            6499900,
+            6600000,
             6600000
           ]
         },
@@ -261017,7 +261033,7 @@
           "history": [
             3400000,
             3400000,
-            3400000,
+            3600000,
             3600000,
             3600000,
             3600000,
@@ -273026,6 +273042,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_gigabyte_z690_aorus_master_ddr5.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z690-aorus-master-atx-lga1700-ddr5-gaming-motherboard-used",
           "history": [
+            74999,
             74999
           ]
         },
@@ -273041,6 +273058,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_mpg_z790_edge_ti_max_wifi.png",
           "url": "https://rbtechngames.com/product/msi-mpg-z790-edge-ti-max-wifi-atx-lga1700-ddr5-gaming-motherboard-used",
           "history": [
+            94999,
             94999
           ]
         },
@@ -273056,6 +273074,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/05/rbtech_msi_mag_x670e_tomahawk_wifi.png",
           "url": "https://rbtechngames.com/product/msi-mag-x670e-tomahawk-wifi-ddr5-am5-used",
           "history": [
+            74999,
             74999
           ]
         },
@@ -273071,6 +273090,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/11/rbtech_asus_prime_z790-p_wifi.jpg",
           "url": "https://rbtechngames.com/product/asus-prime-z790-p-wifi-ddr5-csm-used",
           "history": [
+            54999,
             54999
           ]
         },
@@ -273086,6 +273106,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/02/ROG-STRIX-Z690-F-5.png",
           "url": "https://rbtechngames.com/product/asus-rog-strix-z690-e-gaming-ddr5-wifi-used",
           "history": [
+            74999,
             74999
           ]
         },
@@ -273101,6 +273122,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/08/rbtech_asus_tuf_b650-plus_wifi_4.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-b650-plus-wifi-ddr5-atx-am5-gaming-motherboard-used",
           "history": [
+            54999,
             54999
           ]
         },
@@ -273116,6 +273138,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_gigabyte_z790_gaming_plus_ax.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z790-gaming-plus-ax-atx-lga1700-ddr5-gaming-motherboard-used",
           "history": [
+            49999,
             49999
           ]
         },
@@ -273131,6 +273154,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/10/rbtech_asus_rog_strix_B760A.jpg",
           "url": "https://rbtechngames.com/product/asus-rog-strix-b760-a-gaming-wifi-ddr5-atx-motherboard-used",
           "history": [
+            44999,
             44999
           ]
         },
@@ -273146,6 +273170,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_msi_z790_gaming_plus_wifi.png",
           "url": "https://rbtechngames.com/product/msi-z790-gaming-plus-wifi-atx-lga1700-ddr5-gaming-motherboard-used",
           "history": [
+            44999,
             44999
           ]
         },
@@ -273161,6 +273186,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_rog_maximus_xi_hero_wifi.png",
           "url": "https://rbtechngames.com/product/asus-rog-maximus-xi-hero-wifi-atx-lga1151-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999
           ]
         },
@@ -273176,6 +273202,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_prime_x570_pro.webp",
           "url": "https://rbtechngames.com/product/asus-prime-x570-pro-atx-am5-ddr4-gaming-motherboard-used",
           "history": [
+            34999,
             34999
           ]
         },
@@ -273191,6 +273218,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_gigabyte_z690_ud_ax_ddr4.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z690-ud-ax-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            39999,
             39999
           ]
         },
@@ -273206,6 +273234,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/asus_tufgaming_x570plus_1.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-x570-plus-atx-am4-ddr4-motherboard-used",
           "history": [
+            39999,
             39999
           ]
         },
@@ -273221,6 +273250,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asrock_b660m_hdv_ddr4.png",
           "url": "https://rbtechngames.com/product/asrock-b660m-hdv-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            17499,
             17499
           ]
         },
@@ -273236,6 +273266,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/10/rbtech_asus_prime_B760M-A.jpg",
           "url": "https://rbtechngames.com/product/asus-prime-b760m-a-ddr5-m-atx-motherboard-used",
           "history": [
+            29499,
             29499
           ]
         },
@@ -273251,6 +273282,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/gigabyte_h610m_h_1.jpg",
           "url": "https://rbtechngames.com/product/gigabyte-h610m-h-ddr4-lga1700-micro-atx-motherboard-used",
           "history": [
+            19499,
             19499
           ]
         },
@@ -273266,6 +273298,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/10/rbtech_asus_prime_B760M-K_D5.png",
           "url": "https://rbtechngames.com/product/asus-prime-b760m-k-ddr5-m-atx-motherboard-used",
           "history": [
+            22499,
             22499
           ]
         },
@@ -273281,6 +273314,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/09/image_2021-09-27_003747.png",
           "url": "https://rbtechngames.com/product/gigabyte-h510m-h-m-atx-lga1200-ddr4-motherboard-used",
           "history": [
+            9999,
             9999
           ]
         },
@@ -273296,6 +273330,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_gigabyte_h510m_ds2v.webp",
           "url": "https://rbtechngames.com/product/gigabyte-h510m-ds2v-m-atx-lga1200-ddr4-gaming-motherboard-used",
           "history": [
+            9999,
             9999
           ]
         },
@@ -273311,6 +273346,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/09/rbtech_msi_a620me_1.png",
           "url": "https://rbtechngames.com/product/msi-pro-a620m-e-am5-ddr5-matx-motherboard-used",
           "history": [
+            21999,
             21999
           ]
         },
@@ -273326,6 +273362,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/11/rbtech_asus_prime_z790-p_wifi.webp",
           "url": "https://rbtechngames.com/product/asus-prime-z790-p-wifi-atx-lga1700-ddr5-gaming-motherboard-used",
           "history": [
+            49999,
             49999
           ]
         },
@@ -273341,6 +273378,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/12/msi_b550m_1.png",
           "url": "https://rbtechngames.com/product/msi-b550m-pro-vdh-wifi-matx-am4-ddr4-motherboard-used",
           "history": [
+            34999,
             34999
           ]
         },
@@ -273356,6 +273394,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_msi_pro_h610m-ddr4.webp",
           "url": "https://rbtechngames.com/product/msi-pro-h610m-g-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            19499,
             19499
           ]
         },
@@ -273371,6 +273410,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/09/rbtech_msib760mddr5_1.png",
           "url": "https://rbtechngames.com/product/msi-pro-b760m-p-ddr5-lga-1700-matx-motherboard-used",
           "history": [
+            29499,
             29499
           ]
         },
@@ -273386,6 +273426,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/12/rbtech_msi_z790_tomahawk_wifi.jpg",
           "url": "https://rbtechngames.com/product/msi-mag-z790-tomahawk-wifi-ddr5-gaming-motherboard-used",
           "history": [
+            59999,
             59999
           ]
         },
@@ -273401,6 +273442,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_tuf_gaming_z690-plus_wifi_d4.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-z690-plus-wifi-d4-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            44999,
             44999
           ]
         },
@@ -273416,6 +273458,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_b850_max_gaming_wifi.webp",
           "url": "https://rbtechngames.com/product/asus-b850-max-gaming-wifi-atx-am5-ddr5-gaming-motherboard-open-box",
           "history": [
+            64999,
             64999
           ]
         },
@@ -273431,6 +273474,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_asus_proart_x870e-creator_wifi.png",
           "url": "https://rbtechngames.com/product/asus-proart-x870e-creator-wifi-atx-am5-ddr5-gaming-motherboard-used",
           "history": [
+            164999,
             164999
           ]
         },
@@ -273446,6 +273490,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_msi_b760m_a_wifi.png",
           "url": "https://rbtechngames.com/product/msi-pro-b760m-a-wifi-ddr5-proseries-motherboard-used",
           "history": [
+            32499,
             32499
           ]
         },
@@ -273461,6 +273506,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_msi_b760m_a_wifi.png",
           "url": "https://rbtechngames.com/product/msi-pro-b760m-a-wifi-ddr5-proseries-motherboard-open-box",
           "history": [
+            39499,
             39499
           ]
         },
@@ -273478,6 +273524,7 @@
           "history": [
             369999,
             369999,
+            369999,
             369999
           ]
         },
@@ -273486,8 +273533,8 @@
           "name": "Asus Dual GeForce RTX 5070 12GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 296999,
-          "oldPrice": null,
+          "price": 269999,
+          "oldPrice": 296999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_dual_rtx_5070_12gb.webp",
@@ -273495,7 +273542,8 @@
           "history": [
             296999,
             296999,
-            296999
+            296999,
+            269999
           ]
         },
         {
@@ -273510,6 +273558,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_omen_16_wf0032tx_shadow_black.webp",
           "url": "https://rbtechngames.com/product/hp-omen-16-b1011tx-intel-core-i7-12th-gen-16gb-ram-1tb-ssd-rtx-3070-ti-16-1-qhd-165hz-ips-display-shadow-black-used",
           "history": [
+            279999,
             279999,
             279999,
             279999,
@@ -273543,6 +273592,7 @@
             224999,
             224999,
             224999,
+            224999,
             224999
           ]
         },
@@ -273567,6 +273617,7 @@
             324999,
             324999,
             324999,
+            324999,
             324999
           ]
         },
@@ -273582,6 +273633,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_hp_omnibook_x_flip.webp",
           "url": "https://rbtechngames.com/product/hp-omnibook-x-flip-16-as0023dx-intel-core-ultra-7-16gb-ram-1tb-ssd-16-2k-wuxga-ips-touch-display-eclipse-gray-new",
           "history": [
+            304999,
             304999,
             304999,
             304999,
@@ -273615,6 +273667,7 @@
             209999,
             209999,
             209999,
+            209999,
             209999
           ]
         },
@@ -273630,6 +273683,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_colorful_rtx_4060_nb_duo_battkle_ax_8gb.jpg",
           "url": "https://rbtechngames.com/product/colorful-geforce-rtx-4060-nb-duo-battle-ax-8gb-graphics-card-used",
           "history": [
+            99999,
             99999,
             99999,
             99999,
@@ -273663,6 +273717,7 @@
             114999,
             114999,
             114999,
+            114999,
             114999
           ]
         },
@@ -273678,6 +273733,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_color_igame_rtx_3080_ultra_w_oc_10gb.jpg",
           "url": "https://rbtechngames.com/product/colorful-igame-geforce-rtx-3080-ultra-w-oc-10gb-graphics-card-used",
           "history": [
+            134999,
             134999,
             134999,
             134999,
@@ -273711,6 +273767,7 @@
             124999,
             124999,
             124999,
+            124999,
             124999
           ]
         },
@@ -273735,6 +273792,7 @@
             97999,
             97999,
             97999,
+            97999,
             97999
           ]
         },
@@ -273750,6 +273808,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_zotac_rtx_1080_ti_blower.jpg",
           "url": "https://rbtechngames.com/product/zotac-geforce-gtx-1080-ti-blower-edition-11gb-graphics-card-used",
           "history": [
+            54999,
             54999
           ]
         },
@@ -273765,6 +273824,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_zotac_rtx_5060_twin_edge_oc_8gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-twin-edge-oc-8gb-graphics-card-used",
           "history": [
+            124999,
             124999,
             124999,
             124999,
@@ -273798,6 +273858,7 @@
             114999,
             114999,
             114999,
+            114999,
             114999
           ]
         },
@@ -273813,6 +273874,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_gigabyte_rtx_5060_windforce_max_oc_8gb.webp",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-graphics-card-used",
           "history": [
+            124999,
             124999,
             124999,
             124999,
@@ -273846,6 +273908,7 @@
             97999,
             97999,
             97999,
+            97999,
             97999
           ]
         },
@@ -273870,6 +273933,7 @@
             114999,
             114999,
             114999,
+            114999,
             114999
           ]
         },
@@ -273885,6 +273949,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_asus_prime_rtx_4070_super_4.webp",
           "url": "https://rbtechngames.com/product/asus-prime-geforce-rtx-4070-super-12gb-oc-graphics-card-used",
           "history": [
+            209999,
             209999,
             209999,
             209999,
@@ -274147,7 +274212,7 @@
             64999,
             64999,
             64999,
-            64999,
+            74999,
             74999,
             74999,
             74999,
@@ -275191,7 +275256,7 @@
             292499,
             292499,
             292499,
-            292499,
+            324999,
             324999,
             324999,
             324999
@@ -275499,7 +275564,7 @@
             154999,
             154999,
             154999,
-            154999,
+            159999,
             159999,
             159999,
             159999,
@@ -275796,32 +275861,6 @@
           ]
         },
         {
-          "id": "rbtechgames_9e080c91",
-          "name": "Asus ROG Astral GeForce RTX 5090 32GB White OC Edition Graphics Card",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 1749999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
-          "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card",
-          "history": [
-            1749999,
-            1749999,
-            1749999,
-            1749999,
-            1749999,
-            1749999,
-            1749999,
-            1749999,
-            1749999,
-            1749999,
-            1749999,
-            1749999
-          ]
-        },
-        {
           "id": "rbtechgames_8c9dbc0b",
           "name": "ASUS ROG Strix G16 2025 (G614PP-S5036), AMD Ryzen 9 8940HX, 16GB RAM, 1TB SSD, RTX 5070, 1",
           "brand": "ASUS",
@@ -276097,7 +276136,7 @@
             109999,
             109999,
             109999,
-            109999,
+            114999,
             114999,
             114999,
             114999,
@@ -276357,7 +276396,7 @@
             104999,
             104999,
             104999,
-            104999,
+            109999,
             109999,
             109999,
             109999,
@@ -277368,7 +277407,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-twin-edge-12gb-graphics-card",
           "history": [
             239999,
-            239999,
+            254999,
             254999,
             254999,
             254999,
@@ -277386,8 +277425,8 @@
           "name": "Asus Dual GeForce RTX 5060 Ti 16GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 249999,
-          "oldPrice": null,
+          "price": 259999,
+          "oldPrice": 249999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_asus_dual_rtx_5060_ti_16gb_oc.webp",
@@ -277395,7 +277434,6 @@
           "history": [
             209999,
             209999,
-            209999,
             199999,
             199999,
             199999,
@@ -277404,7 +277442,8 @@
             199999,
             249999,
             249999,
-            249999
+            249999,
+            259999
           ]
         },
         {
@@ -277419,6 +277458,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/06/asus_z690p_1.png",
           "url": "https://rbtechngames.com/product/asus-prime-z690-p-ddr4-lga-1700-atx-motherboard-copy",
           "history": [
+            39999,
             39999
           ]
         },
@@ -277884,7 +277924,7 @@
             164999,
             164999,
             164999,
-            164999,
+            204999,
             204999,
             204999,
             204999
@@ -277911,6 +277951,7 @@
             134999,
             134999,
             134999,
+            134999,
             134999
           ]
         },
@@ -277927,7 +277968,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3060-ti-twin-edge-oc-8gb-graphics-card-used",
           "history": [
             84999,
-            84999,
+            87999,
             87999,
             87999,
             87999,
@@ -277978,6 +278019,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_asus_tuf_gaming_rtx_5070_12gb_oc_4.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-rtx-5070-12gb-oc-graphics-card",
           "history": [
+            289999,
             289999,
             289999,
             289999
@@ -278412,7 +278454,7 @@
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16gb-graphics-card",
           "history": [
             369999,
-            369999,
+            374999,
             374999,
             374999,
             374999,
@@ -278516,7 +278558,7 @@
           "url": "https://rbtechngames.com/product/intel-core-i9-12900kf-desktop-processor",
           "history": [
             89999,
-            89999,
+            97999,
             97999,
             97999,
             97999,
@@ -278631,32 +278673,6 @@
             16999,
             16999,
             16999
-          ]
-        },
-        {
-          "id": "rbtechgames_efcdcdbf",
-          "name": "Asus ProArt X870E-Creator WiFi ATX AM5 DDR5 Gaming Motherboard",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 184999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_asus_proart_x870e-creator_wifi.png",
-          "url": "https://rbtechngames.com/product/asus-proart-x870e-creator-wifi-atx-am5-ddr5-gaming-motherboard",
-          "history": [
-            184999,
-            184999,
-            184999,
-            184999,
-            184999,
-            184999,
-            184999,
-            184999,
-            184999,
-            184999,
-            184999,
-            184999
           ]
         },
         {
@@ -278913,7 +278929,7 @@
             264999,
             264999,
             264999,
-            264999,
+            279999,
             279999,
             279999,
             279999
@@ -279132,8 +279148,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Ti Solid 16GB OC SFF Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 330000,
-          "oldPrice": null,
+          "price": 379999,
+          "oldPrice": 330000,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5070_ti_solid_oc_sff_16gb.jpg",
@@ -279141,7 +279157,8 @@
           "history": [
             330000,
             330000,
-            330000
+            330000,
+            379999
           ]
         },
         {
@@ -279149,8 +279166,8 @@
           "name": "Gigabyte GeForce RTX 5070 Windforce 12GB OC SFF Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 254999,
-          "oldPrice": null,
+          "price": 269999,
+          "oldPrice": 254999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_gigabyte_rtx_5070_windforce_oc_sff_12gb.webp",
@@ -279167,7 +279184,7 @@
             254999,
             254999,
             254999,
-            254999
+            269999
           ]
         },
         {
@@ -279209,7 +279226,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-solid-oc-12gb-graphics-card",
           "history": [
             259999,
-            259999,
+            264999,
             264999,
             264999,
             264999,
@@ -279604,7 +279621,7 @@
             8799,
             8799,
             8799,
-            8799,
+            10999,
             10999,
             10999,
             10999,
@@ -280406,6 +280423,7 @@
           "history": [
             369999,
             449999,
+            449999,
             449999
           ]
         },
@@ -280629,6 +280647,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/02/rbtech_gigabyte_gaming_OC_3070.png",
           "url": "https://rbtechngames.com/product/gigabyte-gaming-oc-geforce-rtx-3070-8gb-used",
           "history": [
+            97999,
             97999,
             97999,
             97999,
@@ -281286,6 +281305,7 @@
             157499,
             157499,
             157499,
+            157499,
             157499
           ]
         },
@@ -281353,6 +281373,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/04/rbtech_gainward_rtx3070ti_chasin_1.jpg",
           "url": "https://rbtechngames.com/product/gainward-geforce-rtx-3070-ti-phoenix-8gb-used",
           "history": [
+            114999,
             114999,
             114999,
             114999,
@@ -281637,6 +281658,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/06/rbtech_asus_prime_b560m-a.webp",
           "url": "https://rbtechngames.com/product/asus-prime-b560m-a-m-atx-lga1200-ddr4-gaming-motherboard-used",
           "history": [
+            24999,
             24999
           ]
         },
@@ -281664,32 +281686,6 @@
             39499,
             39499,
             39499
-          ]
-        },
-        {
-          "id": "rbtechgames_58d09d00",
-          "name": "ASUS ROG Spatha X (P707) &#8211; Wireless Laser Gaming Mouse",
-          "brand": "ASUS",
-          "category": "mouse",
-          "price": 37499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2022/06/ASUS_ROG_SPATHA_X.png",
-          "url": "https://rbtechngames.com/product/asus-rog-spatha-x-wireless-laser-gaming-mouse",
-          "history": [
-            37499,
-            37499,
-            37499,
-            37499,
-            37499,
-            37499,
-            37499,
-            37499,
-            37499,
-            37499,
-            37499,
-            37499
           ]
         },
         {
