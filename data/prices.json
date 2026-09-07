@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T03:06:51.243869+00:00",
+  "lastUpdated": "2026-09-07T11:41:18.398341+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_05f63a92",
+          "name": "ViewSonic VX2537 25\" 420Hz FHD Gaming Monitor",
+          "brand": "ViewSonic",
+          "category": "monitor",
+          "price": 69790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX2537-25-FHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1788762350",
+          "url": "https://www.pakbyte.pk/products/viewsonic-vx2537-25-420hz-fhd-gaming-monitor",
+          "history": [
+            69790
+          ]
+        },
         {
           "id": "pakbyte_fd6225e4",
           "name": "GFURY GLACIER X2-600 120mm ARGB CPU Air Cooler",
@@ -136,32 +151,6 @@
             10490,
             10490,
             10490
-          ]
-        },
-        {
-          "id": "pakbyte_f7d89664",
-          "name": "ATK Blazing F1 V3 Ultimate+ Wireless Gaming Mouse - Pearl Blue",
-          "brand": "ATK",
-          "category": "mouse",
-          "price": 21990,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-f1-v3-ultimate-price-in-pakistan-pakbyte_5.webp?v=1788240729",
-          "url": "https://www.pakbyte.pk/products/atk-blazing-f1-v3-ultimate-wireless-gaming-mouse-pearl-blue",
-          "history": [
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990
           ]
         },
         {
@@ -737,8 +726,8 @@
           ]
         },
         {
-          "id": "pakbyte_de6dfa9e",
-          "name": "ATK Blazing Sky F1 V3 Series Esports Wireless Mouse - Pearl Blue",
+          "id": "pakbyte_a38f21cc",
+          "name": "ATK Blazing Sky F1 V3 Ultimate+ Series Wireless Mouse - Pearl Blue",
           "brand": "ATK",
           "category": "mouse",
           "price": 21990,
@@ -748,17 +737,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-f1-v3-ultimate-price-in-pakistan-pakbyte_1.webp?v=1787556676",
           "url": "https://www.pakbyte.pk/products/atk-blazing-sky-f1-v3-series-esports-wireless-mouse-pearl-blue",
           "history": [
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
-            21990,
             21990
           ]
         },
@@ -793,8 +771,8 @@
           "name": "ViewSonic VX27G32A-2K 27″ QHD 275Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 67990,
-          "oldPrice": null,
+          "price": 70790,
+          "oldPrice": 67990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX27G32A-2K-27-QHD-275Hz-Gaming-Monitor-Price-in-Pakistan-Pakbyte_4.jpg?v=1787240690",
@@ -811,7 +789,7 @@
             67990,
             67990,
             67990,
-            67990
+            70790
           ]
         },
         {
@@ -819,8 +797,8 @@
           "name": "ViewSonic VX27G31A 27\" FHD Omni Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 48990,
-          "oldPrice": null,
+          "price": 51790,
+          "oldPrice": 48990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx27g31a-price-in-pakistan-pakbyte_2.webp?v=1787239603",
@@ -837,7 +815,7 @@
             48990,
             48990,
             48990,
-            48990
+            51790
           ]
         },
         {
@@ -845,8 +823,8 @@
           "name": "ViewSonic VX2532 - 320Hz 1080p FHD IPS 25\" Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 53990,
-          "oldPrice": null,
+          "price": 53790,
+          "oldPrice": 53990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2532-price-in-pakistan-pakbyte_1.webp?v=1787207331",
@@ -863,7 +841,7 @@
             53990,
             53990,
             53990,
-            53990
+            53790
           ]
         },
         {
@@ -871,8 +849,8 @@
           "name": "ViewSonic VX24G30-W 24\" 240Hz FHD Omni Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 41990,
-          "oldPrice": null,
+          "price": 46790,
+          "oldPrice": 41990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx24g30-w-price-in-pakistan-pakbyte_1.webp?v=1787206865",
@@ -889,7 +867,7 @@
             41990,
             41990,
             41990,
-            41990
+            46790
           ]
         },
         {
@@ -897,8 +875,8 @@
           "name": "ViewSonic VA27G1-H 27\" 144Hz FHD Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 35990,
-          "oldPrice": null,
+          "price": 37790,
+          "oldPrice": 35990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va27g1-h-price-in-pakistan-pakbyte_1.webp?v=1787121379",
@@ -915,7 +893,7 @@
             35990,
             35990,
             35990,
-            35990
+            37790
           ]
         },
         {
@@ -923,8 +901,8 @@
           "name": "ViewSonic VA24G2-H 24\" 144Hz FHD Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 29990,
-          "oldPrice": null,
+          "price": 33490,
+          "oldPrice": 29990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-VA24G2-H-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1787120813",
@@ -941,7 +919,7 @@
             29990,
             29990,
             29990,
-            29990
+            33490
           ]
         },
         {
@@ -1887,7 +1865,7 @@
           "category": "headset",
           "price": 3990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w35-max-black-price-in-pakistan-pakbyte.webp?v=1784822809",
           "url": "https://www.pakbyte.pk/products/hoco-w35-max-auspicious-anc-noise-reduction-bt-headphones-black",
@@ -3681,7 +3659,7 @@
           "category": "mouse",
           "price": 5990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r1-price-in-pakistan-pakbyte_1.webp?v=1784298938",
           "url": "https://www.pakbyte.pk/products/attack-shark-r1-wireless-gaming-mouse-red",
@@ -6645,7 +6623,7 @@
           "category": "keyboard",
           "price": 8490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk68-he-price-in-pakistan-pakbyte_1.webp?v=1783181778",
           "url": "https://www.pakbyte.pk/products/eweadn-dk68-he-rgb-wireless-tri-mode-mechanical-gaming-keyboard-white",
@@ -10491,8 +10469,8 @@
           "name": "ViewSonic VX2757-2K-PRO-4 27” QHD 2k 425Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 109990,
-          "oldPrice": null,
+          "price": 111990,
+          "oldPrice": 109990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX2757-2K-PRO-4-27-QHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1778737782",
@@ -10509,7 +10487,7 @@
             109990,
             109990,
             109990,
-            109990
+            111990
           ]
         },
         {
@@ -10517,8 +10495,8 @@
           "name": "ViewSonic VX24G30 24” Full HD 240Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 37990,
-          "oldPrice": null,
+          "price": 41490,
+          "oldPrice": 37990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX24G30-24-Full-HD-Gaming-Monitor-price-in-pakistan-pakbyte_1.jpg?v=1778737548",
@@ -10535,7 +10513,7 @@
             37990,
             37990,
             37990,
-            37990
+            41490
           ]
         },
         {
@@ -10543,8 +10521,8 @@
           "name": "ViewSonic XG2730D IPS 4K 27\" 144Hz Dual Mode Esports Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 85990,
-          "oldPrice": null,
+          "price": 90790,
+          "oldPrice": 85990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-XG2730D-IPS-4K-27-144Hz-Dual-Mode-Esports-Gaming-Monitor-Price-in-Pakistan-Pakbyte.webp?v=1778737272",
@@ -10561,7 +10539,7 @@
             85990,
             85990,
             85990,
-            85990
+            90790
           ]
         },
         {
@@ -17641,8 +17619,8 @@
           "name": "ViewSonic VX2766-2K-PRO-9 27\", 2K QHD 320Hz IPS, HDR10 Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 68990,
-          "oldPrice": null,
+          "price": 73790,
+          "oldPrice": 68990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2766-2k-pro-9-price-in-pakistan-pakbyte_4.webp?v=1773390628",
@@ -17659,7 +17637,7 @@
             68990,
             68990,
             68990,
-            68990
+            73790
           ]
         },
         {
@@ -22817,7 +22795,7 @@
           "category": "mouse",
           "price": 5990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Razer-Gigantus-V2-Soft-Gaming-Mouse-Mat-Large-Price-in-Pakistan-Pakbyte.jpg?v=1771483082",
           "url": "https://www.pakbyte.pk/products/razer-gigantus-v2-large-soft-gaming-mouse-pad",
@@ -26176,7 +26154,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-9100-pro-ssd-nvme-gen5-price-in-pakistan-pakbyte-7.webp?v=1768431798",
           "url": "https://www.pakbyte.pk/products/samsung-9100-pro-with-heatsink-2tb-ssd-pcie-5-0x4-m-2-2280",
           "history": [
-            98399,
+            114999,
             114999,
             114999,
             114999,
@@ -28457,8 +28435,8 @@
           "name": "ViewSonic VP2756A-2K 27\" 120Hz IPS Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 98990,
-          "oldPrice": null,
+          "price": 100790,
+          "oldPrice": 98990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VP2756A-2K-27-120Hz-IPS-Monitor-Price-in-Pakistan-Pakbyte.webp?v=1766995581",
@@ -28475,7 +28453,7 @@
             98990,
             98990,
             98990,
-            98990
+            100790
           ]
         },
         {
@@ -28535,8 +28513,8 @@
           "name": "ViewSonic VA240A-H 24 Inch HD Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 27990,
-          "oldPrice": null,
+          "price": 28990,
+          "oldPrice": 27990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
@@ -28553,7 +28531,7 @@
             27990,
             27990,
             27990,
-            27990
+            28990
           ]
         },
         {
@@ -37479,8 +37457,8 @@
           "name": "ViewSonic VA2708-4K-MHD 27-inch 60Hz 4K UHD Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 64990,
-          "oldPrice": null,
+          "price": 67790,
+          "oldPrice": 64990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-VA2708-4K-MHD-27-4K-UHD-3840x2160-60Hz-4ms-GTG-IPS-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1764665559",
@@ -37497,7 +37475,7 @@
             64990,
             64990,
             64990,
-            64990
+            67790
           ]
         },
         {
@@ -37505,8 +37483,8 @@
           "name": "ViewSonic XG2431 24\" FHD, 240Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 46990,
-          "oldPrice": null,
+          "price": 49790,
+          "oldPrice": 46990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/VIEWSONIC-GAMING-LED-24_-XG2431-GAMING-MoNITOR-PRICE-IN-PAKISTAN-PAKBYTE_1.webp?v=1764664837",
@@ -37523,7 +37501,7 @@
             46990,
             46990,
             46990,
-            46990
+            49790
           ]
         },
         {
@@ -37531,8 +37509,8 @@
           "name": "ViewSonic VA24G1-H 24\" Full HD 144Hz IPS 1ms Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 28990,
-          "oldPrice": null,
+          "price": 30990,
+          "oldPrice": 28990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va24g1-h-price-in-pakistan-pakbyte_5.webp?v=1764664311",
@@ -37549,7 +37527,7 @@
             28990,
             28990,
             28990,
-            28990
+            30990
           ]
         },
         {
@@ -50282,7 +50260,7 @@
             11490,
             11490,
             11490,
-            11490,
+            11990,
             11990,
             11990,
             11990,
@@ -52982,7 +52960,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/WD-Purple-4TB-Surveillance-Hard-Drive-SATA-3_1.jpg?v=1754983753",
           "url": "https://www.pakbyte.pk/products/wd-purple-4tb-surveillance-hard-drive-sata-3-5",
           "history": [
-            47990,
+            60999,
             60999,
             60999,
             60999,
@@ -54977,8 +54955,8 @@
           "name": "ViewSonic VX3418C-2K 34\" VA UWQHD 180Hz Curved Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 93990,
-          "oldPrice": null,
+          "price": 95790,
+          "oldPrice": 93990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vp3481a-monitor-price-in-pakistan_1.webp?v=1753859949",
@@ -54995,7 +54973,7 @@
             93990,
             93990,
             93990,
-            93990
+            95790
           ]
         },
         {
@@ -55003,8 +54981,8 @@
           "name": "ViewSonic VP3481A 34\" 100Hz 5ms UWQHD VA Ultrawide Premium Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 204990,
-          "oldPrice": null,
+          "price": 206990,
+          "oldPrice": 204990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vp3481a-monitor-price-in-pakistan.webp?v=1753859400",
@@ -55021,7 +54999,7 @@
             204990,
             204990,
             204990,
-            204990
+            206990
           ]
         },
         {
@@ -55029,8 +55007,8 @@
           "name": "ViewSonic VP3256-4K 32 Inch 4K UHD IPS Ergonomic Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 189990,
-          "oldPrice": null,
+          "price": 191790,
+          "oldPrice": 189990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vp3256-4k-monitor-price-in-pakistan_1.webp?v=1753858541",
@@ -55047,7 +55025,7 @@
             189990,
             189990,
             189990,
-            189990
+            191790
           ]
         },
         {
@@ -55107,8 +55085,8 @@
           "name": "ViewSonic VX2779A-HD-PRO 27\" Full HD 240Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 44990,
-          "oldPrice": null,
+          "price": 46490,
+          "oldPrice": 44990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2779a-hd-pro-monitor-price-in-pakistan_1.webp?v=1753857262",
@@ -55125,7 +55103,7 @@
             44990,
             44990,
             44990,
-            44990
+            46490
           ]
         },
         {
@@ -55133,8 +55111,8 @@
           "name": "ViewSonic VA270A-H - 120Hz 1080p Full HD IPS 27\" Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 33990,
-          "oldPrice": null,
+          "price": 35490,
+          "oldPrice": 33990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va270a-h-monitor-price-in-pakistan5_1.jpg?v=1753856921",
@@ -55151,7 +55129,7 @@
             33990,
             33990,
             33990,
-            33990
+            35490
           ]
         },
         {
@@ -55159,8 +55137,8 @@
           "name": "ViewSonic VX2479A-HD-PRO 24\" FHD, 240Hz, 1ms IPS Panel Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 36990,
-          "oldPrice": null,
+          "price": 39490,
+          "oldPrice": 36990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2479a-hd-pro-monitor-price-in-pakistan_1.jpg?v=1753855694",
@@ -55177,7 +55155,7 @@
             36990,
             36990,
             36990,
-            36990
+            39490
           ]
         },
         {
@@ -91819,8 +91797,8 @@
           "name": "ViewSonic TD2230 60Hz 1080p FHD IPS 22\" 10-Point Touch Screen Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 81990,
-          "oldPrice": null,
+          "price": 84790,
+          "oldPrice": 81990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-TD2230-60Hz-1080p-FHD-IPS-22-10-Point-Touch-Screen-Monitor-PakByte-Computers-25070388510787.jpg?v=1766243822",
@@ -91837,7 +91815,7 @@
             81990,
             81990,
             81990,
-            81990
+            84790
           ]
         },
         {
@@ -115271,8 +115249,8 @@
           "name": "ViewSonic VP2756-4K 27in IPS 4K 60Hz Frameless Ergonomic Monitor",
           "brand": "ViewSonic",
           "category": "ram",
-          "price": 152990,
-          "oldPrice": null,
+          "price": 154990,
+          "oldPrice": 152990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VP2756-4K-27-4K-UHD-Pantone-Validated-100-sRGB-Factory-Pre-Calibrated-IPS-Monitor-with-60W-USB-C-PakByte-Computers-24397599342659.webp?v=1753681050",
@@ -115289,7 +115267,7 @@
             152990,
             152990,
             152990,
-            152990
+            154990
           ]
         },
         {
@@ -116961,8 +116939,8 @@
           "name": "ViewSonic TD2423 24\" 1080p 75Hz VA IR Touch Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 78990,
-          "oldPrice": null,
+          "price": 83790,
+          "oldPrice": 78990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/VIEWSONIC-TD2423-24-IR-Touch-Monitor-PakByte-Computers-24397567230019.webp?v=1753681340",
@@ -116979,7 +116957,7 @@
             78990,
             78990,
             78990,
-            78990
+            83790
           ]
         },
         {
@@ -121563,8 +121541,8 @@
           "name": "ViewSonic TD1655 15.6 Inch 1080p Portable Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 85990,
-          "oldPrice": null,
+          "price": 87790,
+          "oldPrice": 85990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-TD1655-15-6-Inch-1080p-Portable-Monitor-with-IPS-Touchscreen-2-Way-Powered-60W-USB-C-Built-in-Stand-with-Cover-PakByte-Computers-24397447921731.webp?v=1753682211",
@@ -121581,7 +121559,7 @@
             85990,
             85990,
             85990,
-            85990
+            87790
           ]
         },
         {
@@ -128609,8 +128587,8 @@
           "name": "VIEWSONIC TOUCH LED EP1042T 10\" Multimedia Digital Poster Monitor",
           "brand": "VIEWSONIC",
           "category": "monitor",
-          "price": 75990,
-          "oldPrice": null,
+          "price": 77990,
+          "oldPrice": 75990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/VIEWSONICTOUCH-LED-EP1042T-10-10-Point-Touch-25ms-LED-Pannel-1280x800-HDMI-Micro-USB-SPEAKER-Vesa-Mount-PakByte-Computers-24397098221635.jpg?v=1753683996",
@@ -128627,7 +128605,7 @@
             75990,
             75990,
             75990,
-            75990
+            77990
           ]
         },
         {
@@ -146153,6 +146131,21 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_9434ffc2",
+          "name": "Crucial 32GB DDR5 4800MHz UDIMM Desktop RAM | CT32G48C40U5 | CL40 | PC5-38400 | 1.1V",
+          "brand": "Crucial",
+          "category": "ram",
+          "price": 12000000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Crucial-16GB-Desktop-DDR5-5600-MHz-UDIMM-Memory-Module-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/crucial-32gb-ddr5-4800mhz-udimm-desktop-ram",
+          "history": [
+            12000000
+          ]
+        },
+        {
           "id": "zah_32f95a90",
           "name": "MSI GeForce RTX 2060 Super GAMING X 8GB DDR6-256 BIT Graphics Card (Used)",
           "brand": "MSI",
@@ -146164,6 +146157,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/MSI-GeForce-RTX-2060-Super-GAMING-X-8GB-DDR6-256-BIT-Graphics-Card-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/msi-geforce-rtx-2060-super-gaming-x-8gb-ddr6-256-bit-graphics-card-used",
           "history": [
+            6900000,
             6900000,
             6900000,
             6900000,
@@ -146191,6 +146185,7 @@
             1400000,
             1400000,
             1400000,
+            1400000,
             1400000
           ]
         },
@@ -146212,6 +146207,7 @@
             420000,
             420000,
             420000,
+            420000,
             420000
           ]
         },
@@ -146227,6 +146223,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/ATTACK-SHARK-L50-PRO-Tri-Mode-Wireless-Gaming-Headset-White.webp",
           "url": "https://zahcomputers.pk/product/attack-shark-l50-pro-tri-mode-wireless-gaming-headset-white-7-1-surround-sound-53mm-drivers-ai-noise-cancelling-mic-bluetooth-5-3-white",
           "history": [
+            1300000,
             1300000,
             1300000,
             1300000,
@@ -146262,6 +146259,7 @@
             350000,
             350000,
             350000,
+            350000,
             350000
           ]
         },
@@ -146277,6 +146275,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/ATTACK-SHARK-CM02PRO-eSport-Gaming-Mouse-Pad-White-1.webp",
           "url": "https://zahcomputers.pk/product/attack-shark-cm02pro-esport-gaming-mouse-pad-white-900x400mm-4mm-thick-control-surface-anti-slip-copy",
           "history": [
+            350000,
             350000,
             350000,
             350000,
@@ -149084,7 +149083,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Kingston-KC3000-1TB-PCIe-4.0-NVMe-M.2-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/kingston-kc3000-1tb-pcie-4-0-nvme-m-2-ssd",
           "history": [
-            4650000,
+            4750000,
             4750000,
             4750000,
             4750000,
@@ -149504,7 +149503,7 @@
             29800000,
             29800000,
             29800000,
-            29800000,
+            29500000,
             29500000,
             29500000,
             29500000,
@@ -150124,7 +150123,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Lenovo-LN950-4TB-M.2-NVMe-PCIe-Gen4-x4-Internal-SSD-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/enovo-ln950-4tb-m-2-nvme-pcie-gen4-x4-internal-ssd",
           "history": [
-            11600000,
+            12000000,
             12000000,
             12000000,
             12000000,
@@ -156853,7 +156852,7 @@
           "category": "gpu",
           "price": 12600000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Gigabyte-Radeon-RX-9060-XT-GAMING-8G-Video-Graphics-Card-8GB-GDDR6-20Gbps-128-Bit-Boost-Up-To-3130MHz-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-radeon-rx-9060-xt-gaming-8g-video-graphics-card-8gb-gddr6-20gbps-128-bit-boost-up-to-3130mhz",
@@ -157362,6 +157361,7 @@
             749900,
             749900,
             749900,
+            749900,
             749900
           ]
         },
@@ -157377,6 +157377,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/ATTACK-SHARK-V6-Ultra-Light-Tri-Mode-Gaming-Mouse-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-v6-ultra-light-tri-mode-gaming-mouse-white",
           "history": [
+            749900,
             749900,
             749900,
             749900,
@@ -159581,7 +159582,7 @@
           "category": "headset",
           "price": 599900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/GK-Kunten-Dynamic-Drive-Type-C-IEM-Earphone-HiFi-Bass-Earbud-Sport-Music-Cancelling-Headsets-2PIN-Cable-USB-C-Mic-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gk-kunten-dynamic-drive-type-c-iem-earphone-hifi-bass-earbud-sport-music-cancelling-headsets-2pin-cable-usb-c-mic",
@@ -167795,9 +167796,9 @@
           "name": "ID-Cooling Frost X55 Viola Top-Tier Scented Performance Thermal Paste &#8211; 4g",
           "brand": "ID-Cooling",
           "category": "cooler",
-          "price": 270000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 250000,
+          "oldPrice": 270000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Viola-Top-Tier-Scented-Performance-Thermal-Paste-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-viola-top-tier-scented-performance-thermal-paste-4g",
@@ -167813,7 +167814,7 @@
             270000,
             270000,
             270000,
-            270000
+            250000
           ]
         },
         {
@@ -167821,9 +167822,9 @@
           "name": "ID-Cooling Frost X55 Poma Top-Tier Scented Performance Thermal Paste &#8211; 4g",
           "brand": "ID-Cooling",
           "category": "cooler",
-          "price": 269900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 250000,
+          "oldPrice": 269900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Poma-Top-Tier-Scented-Performance-Thermal-Paste-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-poma-top-tier-scented-performance-thermal-paste-4g",
@@ -167839,7 +167840,7 @@
             269900,
             269900,
             269900,
-            269900
+            250000
           ]
         },
         {
@@ -167847,9 +167848,9 @@
           "name": "ID-Cooling Frost X55 Luna Top-Tier Scented Performance Thermal Paste &#8211; 4g",
           "brand": "ID-Cooling",
           "category": "cooler",
-          "price": 269900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 250000,
+          "oldPrice": 269900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Luna-Top-Tier-Scented-Performance-Thermal-Paste-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-luna-top-tier-scented-performance-thermal-paste-4g",
@@ -167865,7 +167866,7 @@
             269900,
             269900,
             269900,
-            269900
+            250000
           ]
         },
         {
@@ -168263,9 +168264,9 @@
           "name": "ID-Cooling Frost X55 Bella Top-Tier Scented Performance Thermal Paste &#8211; 4g",
           "brand": "ID-Cooling",
           "category": "cooler",
-          "price": 269900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 250000,
+          "oldPrice": 269900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/ID-Cooling-Frost-X55-Top-Tier-Scented-Performance-Thermal-Paste-BELLA-4g-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/id-cooling-frost-x55-top-tier-scented-performance-thermal-paste-4g",
@@ -168281,7 +168282,7 @@
             269900,
             269900,
             269900,
-            269900
+            250000
           ]
         },
         {
@@ -171279,8 +171280,8 @@
           "name": "Acer Predator GM7 2TB M.2 2280 PCIe Gen 4 x4 NVMe 2.0, Read Speed Up to 7200 MB/s, SSD",
           "brand": "Acer",
           "category": "storage",
-          "price": 6450000,
-          "oldPrice": null,
+          "price": 7000000,
+          "oldPrice": 6450000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Acer-Predator-GM7-2TB-Price-in-Pakistan.jpg",
@@ -171297,7 +171298,7 @@
             6450000,
             6450000,
             6450000,
-            6450000
+            7000000
           ]
         },
         {
@@ -171669,9 +171670,9 @@
           "name": "PNY GeForce RTX 5070 ARGB EPIC-X RGB OC Triple Fan Graphics Card 12GB GDDR7 192-Bit Memory",
           "brand": "PNY",
           "category": "gpu",
-          "price": 22500000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 26000000,
+          "oldPrice": 22500000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/PNY-GeForce-RTX-5070-ARGB-EPIC-X-RGB-OC-Triple-Fan-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/pny-geforce-rtx-5070-argb-epic-x-rgb-oc-triple-fan-graphics-card-12gb-gddr7-192-bit-memory-2-16-ghz-base-clock-28-gbps-memory-speed-6144-cuda-cores-pci-express-5-0",
@@ -171687,7 +171688,7 @@
             22500000,
             22500000,
             22500000,
-            22500000
+            26000000
           ]
         },
         {
@@ -172824,7 +172825,7 @@
             26800000,
             26800000,
             26800000,
-            26800000,
+            27500000,
             27500000,
             27500000,
             27500000,
@@ -180230,7 +180231,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Sapphire-Pure-Radeon-RX-9060-XT-16GB-GDDR6-PCI-Express-5.0-x16-ATX-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/sapphire-pure-radeon-rx-9060-xt-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card",
           "history": [
-            15500000,
+            18500000,
             18500000,
             18500000,
             18500000,
@@ -180457,9 +180458,9 @@
           "name": "Viper Venom RGB 32GB (2x16GB) 6000MT/s CL30 DDR5 Ram",
           "brand": "Viper",
           "category": "ram",
-          "price": 15800000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 16500000,
+          "oldPrice": 15800000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Viper-Venom-RGB-32GB-2x16GB-6000MTs-CL30-DDR5-Ram-01.jpg",
           "url": "https://zahcomputers.pk/product/viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram",
@@ -180475,7 +180476,7 @@
             15800000,
             15800000,
             15800000,
-            15800000
+            16500000
           ]
         },
         {
@@ -183369,8 +183370,8 @@
           "name": "Lexar 1TB SL300 USB 3.2 Gen 2 Portable SSD",
           "brand": "Lexar",
           "category": "storage",
-          "price": 3700000,
-          "oldPrice": null,
+          "price": 4000000,
+          "oldPrice": 3700000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Lexar-1TB-SL300-USB-3.2-Gen-2-Portable-SSD-Price-in-Pakistan.jpg",
@@ -183387,7 +183388,7 @@
             3700000,
             3700000,
             3700000,
-            3700000
+            4000000
           ]
         },
         {
@@ -185321,7 +185322,7 @@
           "category": "cooler",
           "price": 499900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Thermalright-TL-M12Q-S-X3-Wireless-Splicing-Case-Fan-120mm-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m12q-x3-120mm-pc-case-cooling-fans",
@@ -213477,8 +213478,8 @@
           "name": "ViewSonic  TD3207 32&#8243; Open Frame Multi-Touch Commercial Monitor",
           "brand": "ViewSonic",
           "category": "ram",
-          "price": 25499900,
-          "oldPrice": null,
+          "price": 25599900,
+          "oldPrice": 25499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/ViewSonic-32-TD3207-Open-Frame-Multi-Touch-Commercial-Monitor-Price-in-Pakistan.jpg",
@@ -213495,7 +213496,7 @@
             25499900,
             25499900,
             25499900,
-            25499900
+            25599900
           ]
         },
         {
@@ -217611,9 +217612,9 @@
           "name": "Samsung T9 2TB USB 3.2 Gen2x2 Portable External SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 12800000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 12500000,
+          "oldPrice": 12800000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Samsung-T9-USB-Portable-External-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/samsung-t9-2tb-usb-3-2-gen2x2-portable-external-ssd",
@@ -217629,7 +217630,7 @@
             12800000,
             12800000,
             12800000,
-            12800000
+            12500000
           ]
         },
         {
@@ -244131,8 +244132,8 @@
           "name": "ViewSonic VX3276-2K-MHD-2 32″ IPS QHD Frameless Adaptive Sync Monitor",
           "brand": "ViewSonic",
           "category": "ram",
-          "price": 7560000,
-          "oldPrice": null,
+          "price": 7449900,
+          "oldPrice": 7560000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/04/ViewSonic-VX3276-2K-MHD-2-Frameless-Adaptive-Sync-Monitor-Price-in-Pakistan.jpg",
@@ -244149,7 +244150,7 @@
             7560000,
             7560000,
             7560000,
-            7560000
+            7449900
           ]
         },
         {
@@ -247782,7 +247783,7 @@
             6499900,
             6499900,
             6499900,
-            6499900,
+            6600000,
             6600000,
             6600000,
             6600000,
@@ -251673,7 +251674,7 @@
           "category": "mouse",
           "price": 800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/09/Logitech-G640-Large-Cloth-Gaming-Mouse-Mat-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/logitech-g640-large-cloth-gaming-mouse-mat",
@@ -253491,8 +253492,8 @@
           "name": "ID-COOLING Frost X25 2G Ultra High Thermal",
           "brand": "ID-Cooling",
           "category": "cooler",
-          "price": 80000,
-          "oldPrice": null,
+          "price": 100000,
+          "oldPrice": 80000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/06/ID-COOLING-Frost-X25-Ultra-High-Thermal-Price-in-Pakistan-01.jpg",
@@ -253509,7 +253510,7 @@
             80000,
             80000,
             80000,
-            80000
+            100000
           ]
         },
         {
@@ -273107,6 +273108,7 @@
             74999,
             74999,
             74999,
+            74999,
             74999
           ]
         },
@@ -273122,6 +273124,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_mpg_z790_edge_ti_max_wifi.png",
           "url": "https://rbtechngames.com/product/msi-mpg-z790-edge-ti-max-wifi-atx-lga1700-ddr5-gaming-motherboard-used",
           "history": [
+            94999,
             94999,
             94999,
             94999,
@@ -273149,6 +273152,7 @@
             74999,
             74999,
             74999,
+            74999,
             74999
           ]
         },
@@ -273164,6 +273168,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/11/rbtech_asus_prime_z790-p_wifi.jpg",
           "url": "https://rbtechngames.com/product/asus-prime-z790-p-wifi-ddr5-csm-used",
           "history": [
+            54999,
             54999,
             54999,
             54999,
@@ -273191,6 +273196,7 @@
             74999,
             74999,
             74999,
+            74999,
             74999
           ]
         },
@@ -273206,6 +273212,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/08/rbtech_asus_tuf_b650-plus_wifi_4.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-b650-plus-wifi-ddr5-atx-am5-gaming-motherboard-used",
           "history": [
+            54999,
             54999,
             54999,
             54999,
@@ -273233,6 +273240,7 @@
             49999,
             49999,
             49999,
+            49999,
             49999
           ]
         },
@@ -273248,6 +273256,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/10/rbtech_asus_rog_strix_B760A.jpg",
           "url": "https://rbtechngames.com/product/asus-rog-strix-b760-a-gaming-wifi-ddr5-atx-motherboard-used",
           "history": [
+            44999,
             44999,
             44999,
             44999,
@@ -273275,6 +273284,7 @@
             44999,
             44999,
             44999,
+            44999,
             44999
           ]
         },
@@ -273290,6 +273300,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_rog_maximus_xi_hero_wifi.png",
           "url": "https://rbtechngames.com/product/asus-rog-maximus-xi-hero-wifi-atx-lga1151-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -273317,6 +273328,7 @@
             34999,
             34999,
             34999,
+            34999,
             34999
           ]
         },
@@ -273332,6 +273344,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_gigabyte_z690_ud_ax_ddr4.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z690-ud-ax-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            39999,
             39999,
             39999,
             39999,
@@ -273359,6 +273372,7 @@
             39999,
             39999,
             39999,
+            39999,
             39999
           ]
         },
@@ -273374,6 +273388,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asrock_b660m_hdv_ddr4.png",
           "url": "https://rbtechngames.com/product/asrock-b660m-hdv-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            17499,
             17499,
             17499,
             17499,
@@ -273401,6 +273416,7 @@
             29499,
             29499,
             29499,
+            29499,
             29499
           ]
         },
@@ -273416,6 +273432,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/gigabyte_h610m_h_1.jpg",
           "url": "https://rbtechngames.com/product/gigabyte-h610m-h-ddr4-lga1700-micro-atx-motherboard-used",
           "history": [
+            19499,
             19499,
             19499,
             19499,
@@ -273443,6 +273460,7 @@
             22499,
             22499,
             22499,
+            22499,
             22499
           ]
         },
@@ -273458,6 +273476,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/09/image_2021-09-27_003747.png",
           "url": "https://rbtechngames.com/product/gigabyte-h510m-h-m-atx-lga1200-ddr4-motherboard-used",
           "history": [
+            9999,
             9999,
             9999,
             9999,
@@ -273485,6 +273504,7 @@
             9999,
             9999,
             9999,
+            9999,
             9999
           ]
         },
@@ -273500,6 +273520,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/09/rbtech_msi_a620me_1.png",
           "url": "https://rbtechngames.com/product/msi-pro-a620m-e-am5-ddr5-matx-motherboard-used",
           "history": [
+            21999,
             21999,
             21999,
             21999,
@@ -273527,6 +273548,7 @@
             49999,
             49999,
             49999,
+            49999,
             49999
           ]
         },
@@ -273542,6 +273564,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/12/msi_b550m_1.png",
           "url": "https://rbtechngames.com/product/msi-b550m-pro-vdh-wifi-matx-am4-ddr4-motherboard-used",
           "history": [
+            34999,
             34999,
             34999,
             34999,
@@ -273569,6 +273592,7 @@
             19499,
             19499,
             19499,
+            19499,
             19499
           ]
         },
@@ -273584,6 +273608,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/09/rbtech_msib760mddr5_1.png",
           "url": "https://rbtechngames.com/product/msi-pro-b760m-p-ddr5-lga-1700-matx-motherboard-used",
           "history": [
+            29499,
             29499,
             29499,
             29499,
@@ -273611,6 +273636,7 @@
             59999,
             59999,
             59999,
+            59999,
             59999
           ]
         },
@@ -273626,6 +273652,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_b850_max_gaming_wifi.webp",
           "url": "https://rbtechngames.com/product/asus-b850-max-gaming-wifi-atx-am5-ddr5-gaming-motherboard-open-box",
           "history": [
+            64999,
             64999,
             64999,
             64999,
@@ -273653,6 +273680,7 @@
             164999,
             164999,
             164999,
+            164999,
             164999
           ]
         },
@@ -273674,6 +273702,7 @@
             32499,
             32499,
             32499,
+            32499,
             32499
           ]
         },
@@ -273689,6 +273718,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_msi_b760m_a_wifi.png",
           "url": "https://rbtechngames.com/product/msi-pro-b760m-a-wifi-ddr5-proseries-motherboard-open-box",
           "history": [
+            39499,
             39499,
             39499,
             39499,
@@ -273718,6 +273748,7 @@
             369999,
             369999,
             369999,
+            369999,
             369999
           ]
         },
@@ -273736,6 +273767,7 @@
             296999,
             296999,
             296999,
+            269999,
             269999,
             269999,
             269999,
@@ -273924,6 +273956,25 @@
             134999,
             134999,
             134999
+          ]
+        },
+        {
+          "id": "rbtechgames_c035f95f",
+          "name": "Gigabyte Aorus GeForce RTX 3060 Elite 12GB Graphics Card &#8211; USED",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 97999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_gigabyte_aorus_rtx_3060_aorus_elite_12gb.png",
+          "url": "https://rbtechngames.com/product/gigabyte-aorus-geforce-rtx-3060-elite-12gb-graphics-card-used",
+          "history": [
+            97999,
+            97999,
+            97999,
+            97999,
+            97999
           ]
         },
         {
@@ -275370,7 +275421,7 @@
           "history": [
             292499,
             292499,
-            292499,
+            324999,
             324999,
             324999,
             324999,
@@ -276154,7 +276205,7 @@
             249999,
             249999,
             249999,
-            249999,
+            289999,
             289999,
             289999,
             289999,
@@ -277359,32 +277410,6 @@
           ]
         },
         {
-          "id": "rbtechgames_16633b1d",
-          "name": "Glorious Model O 2 PRO Series Wireless Mouse 4K/8KHz Edition",
-          "brand": "Glorious",
-          "category": "mouse",
-          "price": 34999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_glorious_model_o2_pro_white_1-1-1.jpg",
-          "url": "https://rbtechngames.com/product/glorious-model-o-2-pro-series-wireless-mouse-4k-8khz-edition",
-          "history": [
-            34999,
-            34999,
-            34999,
-            34999,
-            34999,
-            34999,
-            34999,
-            34999,
-            34999,
-            34999,
-            34999,
-            34999
-          ]
-        },
-        {
           "id": "rbtechgames_7c2f548e",
           "name": "SteelSeries QcK Edge Cloth Gaming Mouse Pad &#8211; XL (Black)",
           "brand": "SteelSeries",
@@ -277580,10 +277605,10 @@
           "history": [
             199999,
             199999,
-            199999,
             249999,
             249999,
             249999,
+            259999,
             259999,
             259999,
             259999,
@@ -277604,6 +277629,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/06/asus_z690p_1.png",
           "url": "https://rbtechngames.com/product/asus-prime-z690-p-ddr4-lga-1700-atx-motherboard-copy",
           "history": [
+            39999,
             39999,
             39999,
             39999,
@@ -278069,7 +278095,7 @@
           "history": [
             164999,
             164999,
-            164999,
+            204999,
             204999,
             204999,
             204999,
@@ -278171,6 +278197,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_asus_tuf_gaming_rtx_5070_12gb_oc_4.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-rtx-5070-12gb-oc-graphics-card",
           "history": [
+            289999,
             289999,
             289999,
             289999,
@@ -279080,7 +279107,7 @@
           "history": [
             264999,
             264999,
-            264999,
+            279999,
             279999,
             279999,
             279999,
@@ -279320,6 +279347,7 @@
             379999,
             379999,
             379999,
+            379999,
             379999
           ]
         },
@@ -279340,7 +279368,7 @@
             254999,
             254999,
             254999,
-            254999,
+            269999,
             269999,
             269999,
             269999,
@@ -279751,7 +279779,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_attack_shark_x6_black.webp",
           "url": "https://rbtechngames.com/product/attack-shark-x6-wireless-three-modes-gaming-mouse-w-charging-dock-black-white-red",
           "history": [
-            8799,
+            10999,
             10999,
             10999,
             10999,
@@ -280532,6 +280560,7 @@
           "url": "https://rbtechngames.com/product/xpg-lancer-blade-rbg-64gb-ddr5-6000mhz-cl30-2x32gb-desktop-memory-black",
           "history": [
             369999,
+            449999,
             449999,
             449999,
             449999,
@@ -281776,6 +281805,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/06/rbtech_asus_prime_b560m-a.webp",
           "url": "https://rbtechngames.com/product/asus-prime-b560m-a-m-atx-lga1200-ddr4-gaming-motherboard-used",
           "history": [
+            24999,
             24999,
             24999,
             24999,
