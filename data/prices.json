@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T11:09:33.143746+00:00",
+  "lastUpdated": "2026-09-13T15:41:13.217293+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/razer-viper-v4-pro-wireless-mouse-white-price-in-pakistan-pakbyte-2.jpg?v=1789217595",
           "url": "https://www.pakbyte.pk/products/razer-viper-v4-pro-wireless-esports-gaming-mouse-white",
           "history": [
+            51999,
             51999,
             51999,
             51999,
@@ -838,7 +839,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 561990,
-          "oldPrice": 559990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-in7504v-interactive-display-price-in-pakistan-pakbyte_1.webp?v=1787565147",
@@ -854,7 +855,7 @@
             559990,
             559990,
             559990,
-            559990,
+            561990,
             561990
           ]
         },
@@ -1106,7 +1107,7 @@
           "history": [
             158990,
             158990,
-            158990,
+            160790,
             160790,
             160790,
             160790,
@@ -2697,7 +2698,7 @@
             16990,
             16990,
             16990,
-            16990,
+            17999,
             17999,
             17999,
             17999,
@@ -12226,7 +12227,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 661990,
-          "oldPrice": 689990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IN6505-C-Certified-EDLA-ViewBoard-65-4K-Interactive-Display-Price-in-Pakistan-Pakbyte_1.jpg?v=1777387335",
@@ -12242,7 +12243,7 @@
             689990,
             689990,
             689990,
-            689990,
+            661990,
             661990
           ]
         },
@@ -12260,7 +12261,7 @@
           "history": [
             284990,
             284990,
-            284990,
+            286990,
             286990,
             286990,
             286990,
@@ -12286,7 +12287,7 @@
           "history": [
             253990,
             253990,
-            253990,
+            257790,
             257790,
             257790,
             257790,
@@ -12312,7 +12313,7 @@
           "history": [
             161990,
             161990,
-            161990,
+            163790,
             163790,
             163790,
             163790,
@@ -17270,7 +17271,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 541990,
-          "oldPrice": 539990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewboard-IN7505-C-75-Google-certified-EDLA-interactive-display-price-in-pakistan-pakbyte.webp?v=1773513947",
@@ -17286,7 +17287,7 @@
             539990,
             539990,
             539990,
-            539990,
+            541990,
             541990
           ]
         },
@@ -17296,7 +17297,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 411990,
-          "oldPrice": 409990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewBoard-IN6505-C-65-Google-Certified-EDLA-Interactive-Display-PriceinPakistan-Pakbyte.webp?v=1773512778",
@@ -17312,7 +17313,7 @@
             409990,
             409990,
             409990,
-            409990,
+            411990,
             411990
           ]
         },
@@ -17712,7 +17713,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 381990,
-          "oldPrice": 379990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IFP6534-4K-Interactive-Display-Price-in-Pakistan-Pakbyte.webp?v=1773413416",
@@ -17728,7 +17729,7 @@
             379990,
             379990,
             379990,
-            379990,
+            381990,
             381990
           ]
         },
@@ -17764,7 +17765,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 7500000,
-          "oldPrice": 5300000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-LDC027-180-0365IP-All-in-One-LED-Displays-LDC-Series-Price-in-Pakistan-Pakbyte.webp?v=1773412142",
@@ -17780,7 +17781,7 @@
             5300000,
             5300000,
             5300000,
-            5300000,
+            7500000,
             7500000
           ]
         },
@@ -37446,7 +37447,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 201990,
-          "oldPrice": 198990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE4314-2C-43-4K-Commercial-Display-with-Pro-AV-Integration-Price-in-Pakistan-Pakbyte_4.webp?v=1764755520",
@@ -37462,7 +37463,7 @@
             198990,
             198990,
             198990,
-            198990,
+            201990,
             201990
           ]
         },
@@ -37472,7 +37473,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 201990,
-          "oldPrice": 239990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE5514-2C-55-4K-Commercial-Display-with-Pro-AV-Integration-Price-in-Pakistan-Pakbyte_4.webp?v=1764755044",
@@ -37488,7 +37489,7 @@
             239990,
             239990,
             239990,
-            239990,
+            201990,
             201990
           ]
         },
@@ -37498,7 +37499,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 311990,
-          "oldPrice": 309990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE6514-2C-65-4K-Commercial-Display-with-Pro-AV-Integration_4.webp?v=1764754733",
@@ -37514,7 +37515,7 @@
             309990,
             309990,
             309990,
-            309990,
+            311990,
             311990
           ]
         },
@@ -37524,7 +37525,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 17990,
-          "oldPrice": 16990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VB-WIFI-USB-WIFI-MODULE-Price-in-Pakistan-Pakbyte_2.jpg?v=1764742770",
@@ -37540,7 +37541,7 @@
             16990,
             16990,
             16990,
-            16990,
+            17990,
             17990
           ]
         },
@@ -39197,7 +39198,7 @@
             54990,
             54990,
             54990,
-            54990,
+            57499,
             57499,
             57499,
             57499,
@@ -39435,7 +39436,7 @@
             70300,
             70300,
             70300,
-            70300,
+            167999,
             167999,
             167999,
             167999,
@@ -60696,6 +60697,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167569776707.jpg?v=1753670543",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-wireless-gaming-mouse-black",
           "history": [
+            8490,
             8490
           ]
         },
@@ -146277,6 +146279,7 @@
           "history": [
             500000,
             500000,
+            500000,
             500000
           ]
         },
@@ -146294,6 +146297,7 @@
           "history": [
             1840000,
             1840000,
+            1840000,
             1840000
           ]
         },
@@ -146309,7 +146313,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/AULA-F75-75-Wireless-Mechanical-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f75-75-wireless-mechanical-keyboard-hot-swappable-creamy-keyboard-pre-lubed-reaper-switches-2-4ghz-type-c-bt5-0-rgb-backlit-gaming-keyboards-blue-white-dark-purple",
           "history": [
-            1650000,
+            1350000,
             1350000,
             1350000,
             1350000,
@@ -147195,7 +147199,7 @@
           "history": [
             48500000,
             48500000,
-            48500000,
+            48700000,
             48700000,
             48700000,
             48700000,
@@ -148755,7 +148759,7 @@
           "history": [
             48700000,
             48700000,
-            48700000,
+            49200000,
             49200000,
             49200000,
             49200000,
@@ -157413,7 +157417,7 @@
           "history": [
             43000000,
             43000000,
-            43000000,
+            43900000,
             43900000,
             43900000,
             43900000,
@@ -157439,7 +157443,7 @@
           "history": [
             44000000,
             44000000,
-            44000000,
+            44400000,
             44400000,
             44400000,
             44400000,
@@ -157465,7 +157469,7 @@
           "history": [
             43000000,
             43000000,
-            43000000,
+            43900000,
             43900000,
             43900000,
             43900000,
@@ -157621,7 +157625,7 @@
           "history": [
             41200000,
             41200000,
-            41200000,
+            42200000,
             42200000,
             42200000,
             42200000,
@@ -160715,7 +160719,7 @@
           "history": [
             24000000,
             24000000,
-            24000000,
+            24200000,
             24200000,
             24200000,
             24200000,
@@ -160845,7 +160849,7 @@
           "history": [
             43000000,
             43000000,
-            43000000,
+            43900000,
             43900000,
             43900000,
             43900000,
@@ -168599,7 +168603,7 @@
             1750000,
             1750000,
             1750000,
-            1750000,
+            1850000,
             1850000,
             1850000,
             1850000
@@ -168625,7 +168629,7 @@
             1690000,
             1690000,
             1690000,
-            1690000,
+            1800000,
             1800000,
             1800000,
             1800000
@@ -168755,7 +168759,7 @@
             1195000,
             1195000,
             1195000,
-            1195000,
+            1330000,
             1330000,
             1330000,
             1330000
@@ -168781,7 +168785,7 @@
             1200000,
             1200000,
             1200000,
-            1200000,
+            1280000,
             1280000,
             1280000,
             1280000
@@ -181152,7 +181156,7 @@
             19900000,
             19900000,
             19900000,
-            19900000,
+            20500000,
             20500000,
             20500000,
             20500000,
@@ -181287,7 +181291,7 @@
             16500000,
             16500000,
             16500000,
-            16500000,
+            17000000,
             17000000,
             17000000,
             17000000
@@ -181831,6 +181835,7 @@
             1450000,
             1450000,
             1450000,
+            1450000,
             1450000
           ]
         },
@@ -181879,7 +181884,7 @@
             1000000,
             1000000,
             1000000,
-            1000000,
+            1200000,
             1200000,
             1200000,
             1200000,
@@ -189102,7 +189107,7 @@
           "history": [
             41200000,
             41200000,
-            41200000,
+            42200000,
             42200000,
             42200000,
             42200000,
@@ -195603,7 +195608,7 @@
             23000000,
             23000000,
             23000000,
-            23000000,
+            25000000,
             25000000,
             25000000,
             25000000,
@@ -195964,7 +195969,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/AULA-F75-75-Wireless-Mechanical-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f75-75-wireless-mechanical-keyboard-hot-swappable-creamy-keyboard-pre-lubed-reaper-switches-2-4ghz-type-c-bt5-0-rgb-backlit-gaming-keyboards",
           "history": [
-            1299900,
+            1350000,
             1350000,
             1350000,
             1350000,
@@ -196024,7 +196029,7 @@
             16000000,
             16000000,
             16000000,
-            16000000,
+            17000000,
             17000000,
             17000000,
             17000000
@@ -210454,7 +210459,7 @@
             205000,
             205000,
             205000,
-            205000,
+            220000,
             220000,
             220000,
             220000
@@ -229428,7 +229433,7 @@
           "history": [
             35500000,
             35500000,
-            35500000,
+            35700000,
             35700000,
             35700000,
             35700000,
@@ -241154,7 +241159,7 @@
           "history": [
             38000000,
             38000000,
-            38000000,
+            38200000,
             38200000,
             38200000,
             38200000,
@@ -243551,7 +243556,7 @@
             6600000,
             6600000,
             6600000,
-            6600000,
+            9500000,
             9500000,
             9500000,
             9500000,
@@ -273939,6 +273944,7 @@
           "history": [
             174999,
             174999,
+            174999,
             174999
           ]
         },
@@ -273955,6 +273961,7 @@
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-4060-eagle-oc-8gb-graphics-card-used",
           "history": [
             99999,
+            109999,
             109999,
             109999
           ]
@@ -273973,6 +273980,7 @@
           "history": [
             89999,
             89999,
+            89999,
             89999
           ]
         },
@@ -273988,6 +273996,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_rog_flow_x13_2021_off-black.png",
           "url": "https://rbtechngames.com/product/asus-rog-flow-x13-2021-gv301qe-amd-ryzen-9-16gb-ram-1tb-ssd-rtx-3050-ti-13-4-fhd-120hz-ips-touch-display-off-black-used",
           "history": [
+            169999,
             169999,
             169999,
             169999,
@@ -274009,6 +274018,7 @@
             359999,
             359999,
             359999,
+            359999,
             359999
           ]
         },
@@ -274027,6 +274037,7 @@
             664999,
             664999,
             664999,
+            664999,
             664999
           ]
         },
@@ -274042,6 +274053,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_hp_elitebook_640_g10_pike_silver.webp",
           "url": "https://rbtechngames.com/product/hp-elitebook-640-g10-intel-core-i7-13th-gen-16gb-ram-256gb-ssd-14-fhd-ips-display-pike-silver-used",
           "history": [
+            144999,
             144999,
             144999,
             144999,
@@ -274067,6 +274079,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -274082,6 +274095,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_msi_b850m_gaming_wifi.webp",
           "url": "https://rbtechngames.com/product/msi-b850m-gaming-wifi-m-atx-am5-ddr5-gaming-motherboard-used",
           "history": [
+            45999,
             45999,
             45999,
             45999,
@@ -274110,6 +274124,7 @@
             41999,
             41999,
             41999,
+            41999,
             41999
           ]
         },
@@ -274125,6 +274140,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/02/msi_z690p_1.png",
           "url": "https://rbtechngames.com/product/msi-pro-z690-p-ddr4-atx-lga-1700-motherboard-used",
           "history": [
+            39999,
             39999,
             39999,
             39999,
@@ -275740,7 +275756,7 @@
             244999,
             244999,
             244999,
-            244999,
+            239999,
             239999,
             239999,
             239999,
@@ -278394,7 +278410,7 @@
             269999,
             269999,
             269999,
-            269999,
+            314999,
             314999,
             314999,
             314999
@@ -279558,7 +279574,7 @@
           "history": [
             399999,
             399999,
-            399999,
+            454999,
             454999,
             454999,
             454999,
