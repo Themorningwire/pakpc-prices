@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T03:35:27.864571+00:00",
+  "lastUpdated": "2026-09-14T11:55:29.711096+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,66 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_b0a4aabe",
+          "name": "Gigabyte B550M H ARGB DDR4 AMD AM4 microATX Motherboard",
+          "brand": "Gigabyte",
+          "category": "ram",
+          "price": 27490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-b550m-h-argb-price-in-pakistan-pakbyte_1.webp?v=1789369512",
+          "url": "https://www.pakbyte.pk/products/gigabyte-b550m-h-argb-ddr4-amd-am4-microatx-motherboard",
+          "history": [
+            27490
+          ]
+        },
+        {
+          "id": "pakbyte_b77788b5",
+          "name": "SAPPHIRE NITRO+ AMD Radeon RX 9070 XT OC 16GB Gaming Graphics Card – PhantomLink Polar Edi",
+          "brand": "Sapphire",
+          "category": "gpu",
+          "price": 249990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-nitro-amd-radeon-rx-9070-xt-oc-16gb-ppe-price-in-pakistan-pakbyte_1.webp?v=1789368923",
+          "url": "https://www.pakbyte.pk/products/sapphire-nitro-amd-radeon-rx-9070-xt-oc-16gb-gaming-graphics-card-phantomlink-polar-edition",
+          "history": [
+            249990
+          ]
+        },
+        {
+          "id": "pakbyte_6eac4702",
+          "name": "SAPPHIRE NITRO+ AMD Radeon RX 9070 XT OC 16GB Gaming Graphics Card – Crimson Desert Editio",
+          "brand": "Sapphire",
+          "category": "gpu",
+          "price": 319990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-rx9070xt-nitro-crimsondesert-graphics-card-price-in-pakistan-pakbyte_2.webp?v=1789368003",
+          "url": "https://www.pakbyte.pk/products/sapphire-nitro-amd-radeon-rx-9070-xt-oc-16gb-gaming-graphics-card-crimson-desert-edition",
+          "history": [
+            319990
+          ]
+        },
+        {
+          "id": "pakbyte_d834858e",
+          "name": "Sapphire RX 9060 XT Pure Gaming OC 16GB Graphics Card",
+          "brand": "Sapphire",
+          "category": "gpu",
+          "price": 169990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-pure-rx-9060-xt-16gb-price-in-pakistan-pakbyte_1.webp?v=1789366629",
+          "url": "https://www.pakbyte.pk/products/sapphire-rx-9060-xt-pure-gaming-oc-16gb-graphics-card",
+          "history": [
+            169990
+          ]
+        },
         {
           "id": "pakbyte_39adffaf",
           "name": "Razer Viper V4 Pro Wireless Esports Gaming Mouse - White",
@@ -20,6 +80,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/razer-viper-v4-pro-wireless-mouse-white-price-in-pakistan-pakbyte-2.jpg?v=1789217595",
           "url": "https://www.pakbyte.pk/products/razer-viper-v4-pro-wireless-esports-gaming-mouse-white",
           "history": [
+            51999,
             51999,
             51999,
             51999,
@@ -854,7 +915,7 @@
             559990,
             559990,
             559990,
-            559990,
+            561990,
             561990,
             561990,
             561990,
@@ -2697,7 +2758,7 @@
             16990,
             16990,
             16990,
-            16990,
+            17999,
             17999,
             17999,
             17999,
@@ -12242,7 +12303,7 @@
             689990,
             689990,
             689990,
-            689990,
+            661990,
             661990,
             661990,
             661990,
@@ -17286,7 +17347,7 @@
             539990,
             539990,
             539990,
-            539990,
+            541990,
             541990,
             541990,
             541990,
@@ -17312,7 +17373,7 @@
             409990,
             409990,
             409990,
-            409990,
+            411990,
             411990,
             411990,
             411990,
@@ -17728,7 +17789,7 @@
             379990,
             379990,
             379990,
-            379990,
+            381990,
             381990,
             381990,
             381990,
@@ -17780,7 +17841,7 @@
             5300000,
             5300000,
             5300000,
-            5300000,
+            7500000,
             7500000,
             7500000,
             7500000,
@@ -37462,7 +37523,7 @@
             198990,
             198990,
             198990,
-            198990,
+            201990,
             201990,
             201990,
             201990,
@@ -37488,7 +37549,7 @@
             239990,
             239990,
             239990,
-            239990,
+            201990,
             201990,
             201990,
             201990,
@@ -37514,7 +37575,7 @@
             309990,
             309990,
             309990,
-            309990,
+            311990,
             311990,
             311990,
             311990,
@@ -37540,7 +37601,7 @@
             16990,
             16990,
             16990,
-            16990,
+            17990,
             17990,
             17990,
             17990,
@@ -39197,7 +39258,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-pro-b850-s-wifi6e-price-in-pakistan-pakbyte_2.webp?v=1764057701",
           "url": "https://www.pakbyte.pk/products/msi-pro-b850-s-wifi6e-ddr5-motherboard",
           "history": [
-            54990,
+            57499,
             57499,
             57499,
             57499,
@@ -39242,8 +39303,8 @@
           "name": "Sapphire Pure AMD Radeon RX 9070 OC 16GB Gaming Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 234990,
-          "oldPrice": null,
+          "price": 249990,
+          "oldPrice": 234990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-pure-amd-radeon-rx-9070-oc-16gb-graphic-card-price-in-pakistan-pakbyte_1.webp?v=1764001883",
@@ -39260,7 +39321,7 @@
             234990,
             234990,
             234990,
-            234990
+            249990
           ]
         },
         {
@@ -39435,7 +39496,7 @@
             70300,
             70300,
             70300,
-            70300,
+            167999,
             167999,
             167999,
             167999,
@@ -51748,8 +51809,8 @@
           "name": "Gigabyte A520M K DDR4 AMD AM4 MicroATX Motherboard",
           "brand": "Gigabyte",
           "category": "ram",
-          "price": 21790,
-          "oldPrice": null,
+          "price": 28990,
+          "oldPrice": 21790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-MB-AMD-A520M-K-DDR4.png?v=1755270015",
@@ -51766,7 +51827,7 @@
             21790,
             21790,
             21790,
-            21790
+            28990
           ]
         },
         {
@@ -59470,11 +59531,11 @@
           "name": "Sapphire Pulse AMD Radeon RX 9070 XT 16GB Gaming Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 259990,
-          "oldPrice": null,
+          "price": 274990,
+          "oldPrice": 259990,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Pulse-AMD-Radeon-RX-9070-XT-Gaming-Graphics-Card-with-16GB-GDDR6-PakByte-Computers-26298152353859.jpg?v=1753670365",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Pulse-AMD-Radeon-RX-9070-XT-Gaming-Graphics-Card-with-16GB-GDDR6-PakByte-Computers-26298152419395.jpg?v=1753670365",
           "url": "https://www.pakbyte.pk/products/sapphire-pulse-amd-radeon™-rx-9070-xt-gaming-graphics-card-with-16gb-gddr6",
           "history": [
             259990,
@@ -59488,33 +59549,22 @@
             259990,
             259990,
             259990,
-            259990
+            274990
           ]
         },
         {
-          "id": "pakbyte_4a009f74",
-          "name": "Sapphire Nitro+ AMD Radeon RX 9070 Gaming OC Graphics Card with 16GB GDDR6",
+          "id": "pakbyte_d4bb3ed5",
+          "name": "Sapphire Nitro+ RX 9070 16GB GDDR6 Gaming OC Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 245000,
+          "price": 269990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Nitro-AMD-Radeon-RX-9070-Gaming-OC-Graphics-Card-with-16GB-GDDR6-PakByte-Computers-26298142064707.jpg?v=1753670365",
           "url": "https://www.pakbyte.pk/products/sapphire-nitro-amd-radeon-rx-9070-gaming-oc-graphics-card-with-16gb-gddr6",
           "history": [
-            245000,
-            245000,
-            245000,
-            245000,
-            245000,
-            245000,
-            245000,
-            245000,
-            245000,
-            245000,
-            245000,
-            245000
+            269990
           ]
         },
         {
@@ -59522,8 +59572,8 @@
           "name": "Sapphire Pulse AMD Radeon RX 9070 16GB GDDR6 Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 244999,
-          "oldPrice": null,
+          "price": 244990,
+          "oldPrice": 244999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Pulse-AMD-Radeon-RX-9070-Gaming-Graphics-Card-with-16GB-GDDR6-PakByte-Computers-26298134954051.jpg?v=1753670378",
@@ -59540,7 +59590,7 @@
             244999,
             244999,
             244999,
-            244999
+            244990
           ]
         },
         {
@@ -60699,6 +60749,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167569776707.jpg?v=1753670543",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-wireless-gaming-mouse-black",
           "history": [
+            8490,
             8490,
             8490,
             8490,
@@ -94744,8 +94795,8 @@
           "name": "Gigabyte A520M K V2 AMD AM4 microATX Motherboard",
           "brand": "Gigabyte",
           "category": "motherboard",
-          "price": 21990,
-          "oldPrice": null,
+          "price": 20990,
+          "oldPrice": 21990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-A520M-K-V2-AMD-AM4-microATX-Motherboard-PakByte-Computers-24909513326659.png?v=1753677667",
@@ -94762,7 +94813,7 @@
             21990,
             21990,
             21990,
-            21990
+            20990
           ]
         },
         {
@@ -146270,6 +146321,21 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_b5a15ed2",
+          "name": "Lexar 2TB SL300 USB 3.2 Gen 2 Portable SSD",
+          "brand": "Lexar",
+          "category": "storage",
+          "price": 6200000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Lexar-1TB-SL300-USB-3.2-Gen-2-Portable-SSD-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/lexar-2tb-sl300-usb-3-2-gen-2-portable-ssd",
+          "history": [
+            6200000
+          ]
+        },
+        {
           "id": "zah_169a63b2",
           "name": "Bloody G330P RGB Gaming Headset | 3.5mm Wired | PC Adapter | Virtual 7.1 Surround Sound | ",
           "brand": "Bloody",
@@ -146281,6 +146347,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Bloody-G330P-RGB-Gaming-Headset.jpg",
           "url": "https://zahcomputers.pk/product/bloody-g330p-rgb-gaming-headset-3-5mm-wired",
           "history": [
+            500000,
             500000,
             500000,
             500000,
@@ -146301,6 +146368,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Sonic-F317-Black.jpg",
           "url": "https://zahcomputers.pk/product/sonic-f317-argb-e-atx-gaming-chassis",
           "history": [
+            1840000,
             1840000,
             1840000,
             1840000,
@@ -147044,7 +147112,7 @@
           "category": "mouse",
           "price": 350000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/ATTACK-SHARK-CM02PRO-eSport-Gaming-Mouse-Pad-Black-1.webp",
           "url": "https://zahcomputers.pk/product/attack-shark-cm02pro-esport-gaming-mouse-pad-black",
@@ -159472,7 +159540,7 @@
           "category": "cooler",
           "price": 9199900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Cooler-Master-X-Mighty-Platinum-2000W-Gaming-Power-Supply-80-Plus-Platinum-ATX-3.1-Fully-Modular-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/cooler-master-x-mighty-platinum-2000w-gaming-power-supply-80-plus-platinum-atx-3-1-fully-modular-black",
@@ -168608,7 +168676,7 @@
             1750000,
             1750000,
             1750000,
-            1750000,
+            1850000,
             1850000,
             1850000,
             1850000,
@@ -168634,7 +168702,7 @@
             1690000,
             1690000,
             1690000,
-            1690000,
+            1800000,
             1800000,
             1800000,
             1800000,
@@ -168764,7 +168832,7 @@
             1195000,
             1195000,
             1195000,
-            1195000,
+            1330000,
             1330000,
             1330000,
             1330000,
@@ -168790,7 +168858,7 @@
             1200000,
             1200000,
             1200000,
-            1200000,
+            1280000,
             1280000,
             1280000,
             1280000,
@@ -173668,7 +173736,7 @@
           "category": "gpu",
           "price": 27500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/HP-Victus-15-FA2082WM-Gaming-Laptop-13th-Gen-Core-i5-13420H-16GB-DDR4-512GB-SSD-NVIDIA-RTX-4050-6GB-Graphics-15.6-FHD-IPS-144Hz-Windows-11-Home-Mica-Silver-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-victus-15-fa2082wm-gaming-laptop-13th-gen-core-i5-13420h-16gb-ddr4-512gb-ssd-nvidia-rtx-4050-6gb-graphics-15-6-fhd-ips-144hz-windows-11-home-mica-silver",
@@ -181161,7 +181229,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ASUS-TUF-Gaming-Radeon-RX-9060-XT-16GB-GDDR6-OC-Edition-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-tuf-gaming-radeon-rx-9060-xt-16gb-gddr6-oc-edition-graphics-card",
           "history": [
-            19900000,
+            20500000,
             20500000,
             20500000,
             20500000,
@@ -181296,7 +181364,7 @@
             16500000,
             16500000,
             16500000,
-            16500000,
+            17000000,
             17000000,
             17000000,
             17000000,
@@ -181846,6 +181914,7 @@
             1450000,
             1450000,
             1450000,
+            1450000,
             1450000
           ]
         },
@@ -181891,7 +181960,7 @@
             1000000,
             1000000,
             1000000,
-            1000000,
+            1200000,
             1200000,
             1200000,
             1200000,
@@ -195615,7 +195684,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Sapphire-Pulse-Radeon-RX-9070-16GB-GDDR6-PCI-Express-5.0-x16-ATX-Graphics-Card-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/sapphire-pulse-radeon-rx-9070-16gb-gddr6-pci-express-5-0-x16-atx-graphics-card",
           "history": [
-            23000000,
+            25000000,
             25000000,
             25000000,
             25000000,
@@ -196036,7 +196105,7 @@
             16000000,
             16000000,
             16000000,
-            16000000,
+            17000000,
             17000000,
             17000000,
             17000000,
@@ -201382,7 +201451,7 @@
           "category": "gpu",
           "price": 22500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/HP-PAVILION-15-EG3020TX-Laptop-Intel-Core-i7-1355U-16GB-DDR-512GB-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-pavilion-15-eg3020tx-laptop-intel-core-i7-1355u-16gb-ddr-512gb-pcie-value-nvidia-geforce-mx550-2gb-15-6-fhd-antiglare-slim-ips-250-nits-narrow-border-fbr-win-11-home-fog-blue",
@@ -210466,7 +210535,7 @@
             205000,
             205000,
             205000,
-            205000,
+            220000,
             220000,
             220000,
             220000,
@@ -230682,8 +230751,8 @@
           "name": "Logitech G435 Lightspeed Wireless Gaming Headset &#8211; Off White and Lilac 981-001075",
           "brand": "Logitech",
           "category": "headset",
-          "price": 1550000,
-          "oldPrice": null,
+          "price": 1800000,
+          "oldPrice": 1550000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/Logitech-G435-Lightspeed-Wireless-Gaming-Headset-Off-White-and-Lilac-981-001075-Lowest-Price-in-Pakistan.jpg",
@@ -230700,7 +230769,7 @@
             1550000,
             1550000,
             1550000,
-            1550000
+            1800000
           ]
         },
         {
@@ -243563,7 +243632,7 @@
             6600000,
             6600000,
             6600000,
-            6600000,
+            9500000,
             9500000,
             9500000,
             9500000,
@@ -256266,9 +256335,9 @@
           "name": "V-Color Prism Pro RGB 8GB DDR4 DRAM 3200MHz Single &#8211; Black",
           "brand": "V-Color",
           "category": "ram",
-          "price": 1650000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 1800000,
+          "oldPrice": 1650000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/04/V-Color-Prism-Pro-RGB-8GB-DDR4-DRAM-3200MHz-Memory-Kit-Black-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/v-color-prism-pro-rgb-8gb-ddr4-dram-3200mhz-single-black",
@@ -256284,7 +256353,7 @@
             1650000,
             1650000,
             1650000,
-            1650000
+            1800000
           ]
         },
         {
@@ -259516,8 +259585,8 @@
           "name": "XPG GAMMIX S70 BLADE 2TB PCIe Gen4x4 M.2 2280 Solid State Drive",
           "brand": "XPG",
           "category": "storage",
-          "price": 8599900,
-          "oldPrice": null,
+          "price": 9100000,
+          "oldPrice": 8599900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/02/XPG-GAMMIX-S70-BLADE-PCIe-Gen4x4-M.2-2280-Solid-State-Drive-Price-in-Pakistan-ZahComputers.jpg",
@@ -259534,7 +259603,7 @@
             8599900,
             8599900,
             8599900,
-            8599900
+            9100000
           ]
         },
         {
@@ -259568,8 +259637,8 @@
           "name": "XPG GAMMIX S70 2TB PCIe Gen4x4 M.2 2280 Solid State Drive",
           "brand": "XPG",
           "category": "storage",
-          "price": 6550000,
-          "oldPrice": null,
+          "price": 6590000,
+          "oldPrice": 6550000,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/02/XPG-GAMMIX-S70-PCIe-Gen4x4-M.2-2280-Solid-State-Drive-Price-in-Pakistan-ZahComputers.jpg",
@@ -259586,7 +259655,7 @@
             6550000,
             6550000,
             6550000,
-            6550000
+            6590000
           ]
         },
         {
@@ -266094,9 +266163,9 @@
           "name": "AULA MP-XL Gaming Mousepad",
           "brand": "AULA",
           "category": "mouse",
-          "price": 140000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 199900,
+          "oldPrice": 140000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/05/AULA-MP-XL-Gaming-Mousepad-Price-in-Pakistan01.jpg",
           "url": "https://zahcomputers.pk/product/aula-mp-xl-gaming-mousepad",
@@ -266112,7 +266181,7 @@
             140000,
             140000,
             140000,
-            140000
+            199900
           ]
         },
         {
@@ -273957,6 +274026,7 @@
             174999,
             174999,
             174999,
+            174999,
             174999
           ]
         },
@@ -273973,6 +274043,7 @@
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-4060-eagle-oc-8gb-graphics-card-used",
           "history": [
             99999,
+            109999,
             109999,
             109999,
             109999,
@@ -273997,6 +274068,7 @@
             89999,
             89999,
             89999,
+            89999,
             89999
           ]
         },
@@ -274012,6 +274084,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_rog_flow_x13_2021_off-black.png",
           "url": "https://rbtechngames.com/product/asus-rog-flow-x13-2021-gv301qe-amd-ryzen-9-16gb-ram-1tb-ssd-rtx-3050-ti-13-4-fhd-120hz-ips-touch-display-off-black-used",
           "history": [
+            169999,
             169999,
             169999,
             169999,
@@ -274039,6 +274112,7 @@
             359999,
             359999,
             359999,
+            359999,
             359999
           ]
         },
@@ -274060,6 +274134,7 @@
             664999,
             664999,
             664999,
+            664999,
             664999
           ]
         },
@@ -274075,6 +274150,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_hp_elitebook_640_g10_pike_silver.webp",
           "url": "https://rbtechngames.com/product/hp-elitebook-640-g10-intel-core-i7-13th-gen-16gb-ram-256gb-ssd-14-fhd-ips-display-pike-silver-used",
           "history": [
+            144999,
             144999,
             144999,
             144999,
@@ -274106,6 +274182,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -274121,6 +274198,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_msi_b850m_gaming_wifi.webp",
           "url": "https://rbtechngames.com/product/msi-b850m-gaming-wifi-m-atx-am5-ddr5-gaming-motherboard-used",
           "history": [
+            45999,
             45999,
             45999,
             45999,
@@ -274312,32 +274390,6 @@
             489999,
             489999,
             489999
-          ]
-        },
-        {
-          "id": "rbtechgames_d8eac7b8",
-          "name": "Asus ROG Strix G15 2021 (G513IC-DS71-CA), AMD Ryzen 7 4800H, 16GB RAM, 512GB SSD, RTX 3050",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 169999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_rog_strix_g15_2021_eclipse_black.png",
-          "url": "https://rbtechngames.com/product/asus-rog-strix-g15-2021-g513ic-ds71-ca-amd-ryzen-7-4800h-16gb-ram-512gb-ssd-rtx-3050-15-6-fhd-144hz-ips-display-eclipse-gray-used",
-          "history": [
-            169999,
-            169999,
-            169999,
-            169999,
-            169999,
-            169999,
-            169999,
-            169999,
-            169999,
-            169999,
-            169999,
-            169999
           ]
         },
         {
@@ -275785,7 +275837,7 @@
             244999,
             244999,
             244999,
-            244999,
+            239999,
             239999,
             239999,
             239999,
@@ -278439,7 +278491,7 @@
             269999,
             269999,
             269999,
-            269999,
+            314999,
             314999,
             314999,
             314999,
@@ -278823,32 +278875,6 @@
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_attack_shark_x82pro_he_wireless_comic.webp",
           "url": "https://rbtechngames.com/product/attack-shark-x82pro-he-75-rapid-trigger-magnetic-wireless-rgb-gaming-keyboard-comic-black-contours-white-contours",
-          "history": [
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999
-          ]
-        },
-        {
-          "id": "rbtechgames_1115a562",
-          "name": "Attack Shark R85 HE 75% Rapid Trigger Magnetic Wired RGB Gaming Keyboard &#8211; Black/Whi",
-          "brand": "Attack",
-          "category": "keyboard",
-          "price": 17999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_attack_shark_r85_he_moonlit_night.webp",
-          "url": "https://rbtechngames.com/product/attack-shark-r85-he-75-rapid-trigger-magnetic-wired-rgb-gaming-keyboard-black-white-moonlit-night-white-contours-linear-purple-switches",
           "history": [
             17999,
             17999,
