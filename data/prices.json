@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T11:10:37.595666+00:00",
+  "lastUpdated": "2026-09-15T16:21:45.062800+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -23,6 +23,7 @@
             29490,
             29490,
             29490,
+            29490,
             29490
           ]
         },
@@ -38,6 +39,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-b550m-h-argb-price-in-pakistan-pakbyte_1.webp?v=1789369512",
           "url": "https://www.pakbyte.pk/products/gigabyte-b550m-h-argb-ddr4-amd-am4-microatx-motherboard",
           "history": [
+            27490,
             27490,
             27490,
             27490,
@@ -61,6 +63,7 @@
             249990,
             249990,
             249990,
+            249990,
             249990
           ]
         },
@@ -80,6 +83,7 @@
             319990,
             319990,
             319990,
+            319990,
             319990
           ]
         },
@@ -95,6 +99,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-pure-rx-9060-xt-16gb-price-in-pakistan-pakbyte_1.webp?v=1789366629",
           "url": "https://www.pakbyte.pk/products/sapphire-rx-9060-xt-pure-gaming-oc-16gb-graphics-card",
           "history": [
+            169990,
             169990,
             169990,
             169990,
@@ -948,7 +953,7 @@
           "history": [
             559990,
             559990,
-            559990,
+            561990,
             561990,
             561990,
             561990,
@@ -2265,8 +2270,8 @@
           "name": "HOCO W55 – Pleasing Wireless Bluetooth Headphones - Silver",
           "brand": "HOCO",
           "category": "headset",
-          "price": 3390,
-          "oldPrice": null,
+          "price": 3999,
+          "oldPrice": 3390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w55-silver-price-in-pakistan-pakbyte.webp?v=1784819155",
@@ -2283,7 +2288,7 @@
             3390,
             3390,
             3390,
-            3390
+            3999
           ]
         },
         {
@@ -3215,7 +3220,7 @@
             129990,
             129990,
             129990,
-            129990,
+            104990,
             104990,
             104990,
             104990,
@@ -3241,7 +3246,7 @@
             28990,
             28990,
             28990,
-            28990,
+            29490,
             29490,
             29490,
             29490,
@@ -9001,7 +9006,7 @@
           "category": "headset",
           "price": 1990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hp-dhe-8001-gaming-headset-price-in-pakistan-pakbyte_1.jpg?v=1781334260",
           "url": "https://www.pakbyte.pk/products/hp-dhe-8001-wired-gaming-headset",
@@ -12336,7 +12341,7 @@
           "history": [
             689990,
             689990,
-            689990,
+            661990,
             661990,
             661990,
             661990,
@@ -17380,7 +17385,7 @@
           "history": [
             539990,
             539990,
-            539990,
+            541990,
             541990,
             541990,
             541990,
@@ -17406,7 +17411,7 @@
           "history": [
             409990,
             409990,
-            409990,
+            411990,
             411990,
             411990,
             411990,
@@ -17822,7 +17827,7 @@
           "history": [
             379990,
             379990,
-            379990,
+            381990,
             381990,
             381990,
             381990,
@@ -17874,7 +17879,7 @@
           "history": [
             5300000,
             5300000,
-            5300000,
+            7500000,
             7500000,
             7500000,
             7500000,
@@ -25769,8 +25774,8 @@
           "name": "Redragon P016 PISCES Gaming Mousepad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 1090,
-          "oldPrice": null,
+          "price": 1399,
+          "oldPrice": 1090,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-P016-price-in-pakistan-pakbyte_1.jpg?v=1770824740",
@@ -25787,7 +25792,7 @@
             1090,
             1090,
             1090,
-            1090
+            1399
           ]
         },
         {
@@ -27187,7 +27192,7 @@
             107990,
             107990,
             107990,
-            107990,
+            117999,
             117999,
             117999,
             117999,
@@ -28345,7 +28350,7 @@
           "category": "monitor",
           "price": 85990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-xg27acg-monitor-price-in-pakistan-pakbyte_2.jpg?v=1767102107",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-xg27acg-27-1440p-usb-c-hdr-gaming-monitor",
@@ -37556,7 +37561,7 @@
           "history": [
             198990,
             198990,
-            198990,
+            201990,
             201990,
             201990,
             201990,
@@ -37582,7 +37587,7 @@
           "history": [
             239990,
             239990,
-            239990,
+            201990,
             201990,
             201990,
             201990,
@@ -37608,7 +37613,7 @@
           "history": [
             309990,
             309990,
-            309990,
+            311990,
             311990,
             311990,
             311990,
@@ -37634,7 +37639,7 @@
           "history": [
             16990,
             16990,
-            16990,
+            17990,
             17990,
             17990,
             17990,
@@ -39354,7 +39359,7 @@
             234990,
             234990,
             234990,
-            234990,
+            249990,
             249990,
             249990,
             249990,
@@ -51467,6 +51472,7 @@
             30490,
             30490,
             30490,
+            30490,
             30490
           ]
         },
@@ -51671,7 +51677,7 @@
             78990,
             78990,
             78990,
-            78990,
+            83990,
             83990,
             83990,
             83990,
@@ -51697,7 +51703,7 @@
             77990,
             77990,
             77990,
-            77990,
+            78990,
             78990,
             78990,
             78990,
@@ -51852,7 +51858,7 @@
             21790,
             21790,
             21790,
-            21790,
+            28990,
             28990,
             28990,
             28990,
@@ -52971,7 +52977,7 @@
             50999,
             50999,
             50999,
-            50999,
+            72499,
             72499,
             72499,
             72499,
@@ -56157,7 +56163,7 @@
           "category": "headset",
           "price": 3990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sony-ZX-Series-MDR-ZX110AP-Wired-On-Ear-Headphones-with-Mic-White-PakByte-Computers-26342454460483.jpg?v=1753669439",
           "url": "https://www.pakbyte.pk/products/sony-zx-series-mdr-zx110ap-wired-on-ear-headphones-with-mic-white",
@@ -59574,7 +59580,7 @@
             259990,
             259990,
             259990,
-            259990,
+            274990,
             274990,
             274990,
             274990,
@@ -59594,6 +59600,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Nitro-AMD-Radeon-RX-9070-Gaming-OC-Graphics-Card-with-16GB-GDDR6-PakByte-Computers-26298142064707.jpg?v=1753670365",
           "url": "https://www.pakbyte.pk/products/sapphire-nitro-amd-radeon-rx-9070-gaming-oc-graphics-card-with-16gb-gddr6",
           "history": [
+            269990,
             269990,
             269990,
             269990,
@@ -59619,7 +59626,7 @@
             244999,
             244999,
             244999,
-            244999,
+            244990,
             244990,
             244990,
             244990,
@@ -60783,6 +60790,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167569776707.jpg?v=1753670543",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-wireless-gaming-mouse-black",
           "history": [
+            8490,
             8490,
             8490,
             8490,
@@ -76659,8 +76667,8 @@
           "name": "Ugreen Bluetooth 5.0+2.4G Wireless  Vertical Mouse",
           "brand": "Ugreen",
           "category": "mouse",
-          "price": 5790,
-          "oldPrice": null,
+          "price": 5999,
+          "oldPrice": 5790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Vertical-Mouse-Wireless-Bluetooth-5-0-2-4G-Ergonomic-Mouse-with-5-Buttons-1000-1600-2000-4000-DPI-Prevention-of-Mouse-Arm-Vertical-Mouse-Compatible-with-PC-Laptop-Tablet-Black-PakByte-Computers-25764050075715.jpg?v=1753673618",
@@ -76677,7 +76685,7 @@
             5790,
             5790,
             5790,
-            5790
+            5999
           ]
         },
         {
@@ -94846,7 +94854,7 @@
             21990,
             21990,
             21990,
-            21990,
+            20990,
             20990,
             20990,
             20990,
@@ -106027,7 +106035,7 @@
             40990,
             40990,
             40990,
-            40990,
+            39990,
             39990,
             39990,
             39990,
@@ -129779,7 +129787,7 @@
           "category": "motherboard",
           "price": 53800,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-B550-AORUS-Elite-Gaming-Motherboard-PakByte-Computers-24397020889155.jpg?v=1753684204",
           "url": "https://www.pakbyte.pk/products/gigabyte-b450-aorus-elite-amd-ryzen-am4-atx-m-2-thermal-guard-hmdi-dvi-usb-3-1-ddr4-motherboard",
@@ -146370,6 +146378,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Intel-Core-Ultra-7-270K-Plus-24-cores-8-P-cores-16-E-cores-up-to-5.5-GHz-Processor-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/intel-core-ultra-7-270k-plus-24-cores-8-p-cores-16-e-cores-up-to-5-5-ghz-processor",
           "history": [
+            11200000,
             11200000
           ]
         },
@@ -146385,6 +146394,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F99-Pro-Wireless-Mechanical-Keyboard-96-Gasket-Hot-Swappable-Custom-Keyboard-White-–-Cotton-Candy-Switch-Price-in-Pakistan-02.jpg",
           "url": "https://zahcomputers.pk/product/aula-f99-pro-wireless-mechanical-keyboard-96-gasket-hot-swappable-custom-keyboard-white-cotton-candy-switch",
           "history": [
+            1550000,
             1550000
           ]
         },
@@ -146400,6 +146410,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Lexar-1TB-SL300-USB-3.2-Gen-2-Portable-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-2tb-sl300-usb-3-2-gen-2-portable-ssd",
           "history": [
+            6200000,
             6200000,
             6200000,
             6200000,
@@ -146429,6 +146440,7 @@
             500000,
             500000,
             500000,
+            500000,
             500000
           ]
         },
@@ -146444,6 +146456,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Sonic-F317-Black.jpg",
           "url": "https://zahcomputers.pk/product/sonic-f317-argb-e-atx-gaming-chassis",
           "history": [
+            1840000,
             1840000,
             1840000,
             1840000,
@@ -149635,7 +149648,7 @@
           "brand": "Intel",
           "category": "gpu",
           "price": 44000000,
-          "oldPrice": 41000000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Lenovo-LOQ-15IRX10-Gaming-Laptop-14th-Gen-Core-i7-14700HX-24GB-DDR5-512GB-SSD-NVIDIA-RTX-5060-8GB-Graphics-Price-in-Pakistan.jpg",
@@ -149651,7 +149664,7 @@
             41000000,
             41000000,
             41000000,
-            41000000,
+            44000000,
             44000000
           ]
         },
@@ -152104,9 +152117,9 @@
           "name": "AULA S75Pro Wireless Mechanical Keyboard Gradient Grey Seiya Switches",
           "brand": "AULA",
           "category": "keyboard",
-          "price": 1400000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 1580000,
+          "oldPrice": 1400000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-S75Pro-Wireless-Mechanical-Keyboard-Gradient-Grey-Star-Vector-Switches.webp",
           "url": "https://zahcomputers.pk/product/aula-s75pro-wireless-mechanical-keyboard-gradient-grey-star-vector-switches",
@@ -152122,7 +152135,7 @@
             1400000,
             1400000,
             1400000,
-            1400000
+            1580000
           ]
         },
         {
@@ -153666,7 +153679,7 @@
           "category": "mouse",
           "price": 1050000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-V9-Pro-Ultra-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-v9-pro-ultra-lightweight-tri-mode-wireless-gaming-mouse-black",
@@ -153692,7 +153705,7 @@
           "category": "mouse",
           "price": 1050000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-V9-Pro-Ultra-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-v9-pro-ultra-lightweight-tri-mode-wireless-gaming-mouse-white",
@@ -154321,6 +154334,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/aula-f75-white-contour-price-in-pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-gasket-mechanical-keyboard-75-wireless-hot-swappable-gaming-keyboard-with-five-layer-paddingknob-bluetooth-2-4ghz-usb-c-rgb-white-contour-contour-star-vector-switches",
           "history": [
+            1399900,
             1399900,
             1399900,
             1399900,
@@ -168744,7 +168758,7 @@
           "url": "https://zahcomputers.pk/product/thermalright-aqua-elite-360-v6-white-argb-aio-360mm-liquid-cpu-cooler",
           "history": [
             1750000,
-            1750000,
+            1850000,
             1850000,
             1850000,
             1850000,
@@ -168770,7 +168784,7 @@
           "url": "https://zahcomputers.pk/product/thermalright-aqua-elite-360-v6-black-argb-aio-360mm-liquid-cpu-cooler",
           "history": [
             1690000,
-            1690000,
+            1800000,
             1800000,
             1800000,
             1800000,
@@ -168900,7 +168914,7 @@
           "url": "https://zahcomputers.pk/product/thermalright-aqua-elite-240-v6-white-argb-aio-240mm-liquid-cpu-cooler",
           "history": [
             1195000,
-            1195000,
+            1330000,
             1330000,
             1330000,
             1330000,
@@ -168926,7 +168940,7 @@
           "url": "https://zahcomputers.pk/product/thermalright-aqua-elite-240-v6-black-argb-aio-240mm-liquid-cpu-cooler",
           "history": [
             1200000,
-            1200000,
+            1280000,
             1280000,
             1280000,
             1280000,
@@ -180644,8 +180658,8 @@
           "name": "ZOTAC GAMING GeForce RTX 5080 SOLID OC Graphics Card, 16GB GDDR7 256-Bit Memory, 2640MHz E",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 44500000,
-          "oldPrice": 46500000,
+          "price": 47500000,
+          "oldPrice": 44500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/ZOTAC-GAMING-GeForce-RTX-5080-SOLID-OC-Graphics-Card-16GB-GDDR7-256-Bit-Memory-2640MHz-Engine-Clock-30-Gbps-Memory-Clock-10752-CUDA-Cores-PCI-Express-5.0-x16-White-Price-in-Pakistan.jpg",
@@ -180662,7 +180676,7 @@
             44500000,
             44500000,
             44500000,
-            44500000
+            47500000
           ]
         },
         {
@@ -181432,7 +181446,7 @@
           "url": "https://zahcomputers.pk/product/viper-venom-rgb-32gb-2x16gb-6000mt-s-cl30-ddr5-ram",
           "history": [
             16500000,
-            16500000,
+            17000000,
             17000000,
             17000000,
             17000000,
@@ -182029,7 +182043,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Sonic-R19-ATX-ARGB-Gaming-Case-3x-ARGB-Fans-–-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/sonic-r19-atx-argb-gaming-case-3x-argb-fans-black",
           "history": [
-            1000000,
+            1200000,
             1200000,
             1200000,
             1200000,
@@ -182609,7 +182623,7 @@
             7599900,
             7599900,
             7599900,
-            7599900,
+            7900000,
             7900000,
             7900000,
             7900000
@@ -183961,7 +183975,7 @@
             2200000,
             2200000,
             2200000,
-            2200000,
+            1799900,
             1799900,
             1799900,
             1799900
@@ -185164,55 +185178,33 @@
           ]
         },
         {
-          "id": "zah_4f6ec482",
+          "id": "zah_638701f3",
           "name": "Aula F75 Max Wireless Mechanical Keyboard with TFT Screen and Knob, Gasket Gaming Keyboard",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 1799900,
+          "price": 1580000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/epomaker-aula-f75-max-keyboard-price-in-pakistan.jpg",
           "url": "https://zahcomputers.pk/product/epomaker-x-aula-f75-max-wireless-mechanical-keyboard-black",
           "history": [
-            1799900,
-            1799900,
-            1799900,
-            1799900,
-            1799900,
-            1799900,
-            1799900,
-            1799900,
-            1799900,
-            1799900,
-            1799900,
-            1799900
+            1580000
           ]
         },
         {
-          "id": "zah_1d16145c",
+          "id": "zah_83eefe55",
           "name": "AULA F75 Gasket Mechanical Keyboard, 75% Wireless Hot Swappable Gaming Keyboard with Five-",
           "brand": "AULA",
           "category": "keyboard",
-          "price": 1650000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 1350000,
+          "oldPrice": 1650000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/aula-f75-black-contour-price-in-pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-gasket-mechanical-keyboard-black-contour",
           "history": [
-            1650000,
-            1650000,
-            1650000,
-            1650000,
-            1650000,
-            1650000,
-            1650000,
-            1650000,
-            1650000,
-            1650000,
-            1650000,
-            1650000
+            1350000
           ]
         },
         {
@@ -186314,7 +186306,7 @@
           "category": "cooler",
           "price": 499900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Thermalright-TL-M12Q-S-X3-Wireless-Splicing-Case-Fan-120mm-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m12q-x3-120mm-pc-case-cooling-fans",
@@ -192942,8 +192934,8 @@
           "name": "HP Victus 15-FA2013DX Gaming Laptop 13th Gen Core i5-13420H, 8GB DDR4, 512GB SSD, NVIDIA R",
           "brand": "NVIDIA",
           "category": "gpu",
-          "price": 23500000,
-          "oldPrice": null,
+          "price": 25000000,
+          "oldPrice": 23500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/HP-Victus-15-FA2013DX-Gaming-Laptop-13th-Gen-Core-i5-13420H-8GB-DDR4-512GB-SSD-NVIDIA-RTX-3050-6GB-Graphics-Price-in-PakisTAN.jpg",
@@ -192960,7 +192952,7 @@
             23500000,
             23500000,
             23500000,
-            23500000
+            25000000
           ]
         },
         {
@@ -196148,7 +196140,7 @@
           "url": "https://zahcomputers.pk/product/xpg-lancer-blade-rgb-32gb-2x16gb-6000mhz-c36-ddr5-dram-memory-black",
           "history": [
             16000000,
-            16000000,
+            17000000,
             17000000,
             17000000,
             17000000,
@@ -196441,7 +196433,7 @@
             1350000,
             1350000,
             1350000,
-            1350000,
+            1250000,
             1250000,
             1250000,
             1250000
@@ -196467,7 +196459,7 @@
             1350000,
             1350000,
             1350000,
-            1350000,
+            1250000,
             1250000,
             1250000,
             1250000
@@ -196545,7 +196537,7 @@
             830000,
             830000,
             830000,
-            830000,
+            690000,
             690000,
             690000,
             690000
@@ -196571,7 +196563,7 @@
             830000,
             830000,
             830000,
-            830000,
+            690000,
             690000,
             690000,
             690000
@@ -210578,7 +210570,7 @@
           "url": "https://zahcomputers.pk/product/a4tech-fstyler-fm45s-air-dual-function-air-mouse-pc-mac-stone-grey",
           "history": [
             205000,
-            205000,
+            220000,
             220000,
             220000,
             220000,
@@ -216836,9 +216828,9 @@
           "name": "Zotac Gaming Geforce RTX 5080 Solid SFF 16GB GDDR7 256 Bit Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 44000000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 48000000,
+          "oldPrice": 44000000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Zotac-Gaming-Geforce-RTX-5080-Solid-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/zotac-gaming-geforce-rtx-5080-solid-16gb-gddr57-256-bit-graphics-card",
@@ -216854,7 +216846,7 @@
             44000000,
             44000000,
             44000000,
-            44000000
+            48000000
           ]
         },
         {
@@ -217319,7 +217311,7 @@
             1399900,
             1399900,
             1399900,
-            1399900,
+            1350000,
             1350000,
             1350000,
             1350000
@@ -226482,8 +226474,8 @@
           "name": "Lexar NM620 M.2 2280 NVMe SSD 512GB PCle Gen 3&#215;4",
           "brand": "Lexar",
           "category": "storage",
-          "price": 2250000,
-          "oldPrice": null,
+          "price": 2600000,
+          "oldPrice": 2250000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/Lexar-NM620-M.2-2280-NVMe-SSD-PCle-Gen-3x4-Lowest-Price-in-Pakistan.png",
@@ -226500,7 +226492,7 @@
             2250000,
             2250000,
             2250000,
-            2250000
+            2600000
           ]
         },
         {
@@ -228954,7 +228946,7 @@
           "category": "headset",
           "price": 1850000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/07/Logitech-Zone-300-Wireless-Headset-White-981-001418.jpg",
           "url": "https://zahcomputers.pk/product/logitech-zone-300-wireless-headset-white-981-001418",
@@ -230812,7 +230804,7 @@
             1550000,
             1550000,
             1550000,
-            1550000,
+            1800000,
             1800000,
             1800000,
             1800000,
@@ -243675,7 +243667,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/06/Seagate-SkyHawk-Surveillance-3.5-Internal-Hard-Drive-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/seagate-skyhawk-st6000vx001-6tb-surveillance-3-5-sata-hard-drive",
           "history": [
-            6600000,
+            9500000,
             9500000,
             9500000,
             9500000,
@@ -256396,7 +256388,7 @@
             1650000,
             1650000,
             1650000,
-            1650000,
+            1800000,
             1800000,
             1800000,
             1800000,
@@ -259646,7 +259638,7 @@
             8599900,
             8599900,
             8599900,
-            8599900,
+            9100000,
             9100000,
             9100000,
             9100000,
@@ -259698,7 +259690,7 @@
             6550000,
             6550000,
             6550000,
-            6550000,
+            6590000,
             6590000,
             6590000,
             6590000,
@@ -266133,7 +266125,7 @@
           "brand": "Thermal",
           "category": "ram",
           "price": 400000,
-          "oldPrice": 350000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/05/Thermal-Grizzly-Conductonaut-Liquid-Metal-Thermal-Paste-1-Gram-Price-in-Paksitan.jpg",
@@ -266149,7 +266141,7 @@
             350000,
             350000,
             350000,
-            350000,
+            400000,
             400000
           ]
         },
@@ -266224,7 +266216,7 @@
             140000,
             140000,
             140000,
-            140000,
+            199900,
             199900,
             199900,
             199900,
@@ -274068,6 +274060,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16s-ai-phn16-71-91aw-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5060-16-qhd-240hz-oled-display-obsidian-black-new",
           "history": [
+            524999,
             524999
           ]
         },
@@ -274083,6 +274076,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_msi_rtx_3070_ventus_2x.webp",
           "url": "https://rbtechngames.com/product/msi-geforce-rtx-3070-ventus-2x-8gb-graphics-card-used",
           "history": [
+            97999,
             97999
           ]
         },
@@ -274098,6 +274092,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_intel_i5_14400.jpeg",
           "url": "https://rbtechngames.com/product/intel-core-i5-14400-desktop-processor-tray",
           "history": [
+            54999,
             54999
           ]
         },
@@ -274113,6 +274108,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_wd_blue_sn5100_4tb.webp",
           "url": "https://rbtechngames.com/product/wd-blue-sn5100-nvme-m-2-gen-4-ssd-500gb-1tb-2tb-4tb",
           "history": [
+            42999,
             42999
           ]
         },
@@ -274129,6 +274125,7 @@
           "url": "https://rbtechngames.com/product/lexar-nq100-2-5-sata-ssd-256gb-512gb-1tb-2tb",
           "history": [
             22999,
+            22999,
             22999
           ]
         },
@@ -274144,6 +274141,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_sapphire_pulse__rx_9060_xt_oc_16gb.webp",
           "url": "https://rbtechngames.com/product/sapphire-pulse-amd-radeon-rx-9060-xt-oc-16gb-graphics-card-open-box",
           "history": [
+            174999,
             174999,
             174999,
             174999,
@@ -274179,6 +274177,7 @@
             109999,
             109999,
             109999,
+            109999,
             109999
           ]
         },
@@ -274194,6 +274193,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/02/evga_rtx3060_xc_1.png",
           "url": "https://rbtechngames.com/product/evga-geforce-rtx-3060-xc-gaming-12gb-used",
           "history": [
+            89999,
             89999,
             89999,
             89999,
@@ -274465,32 +274465,6 @@
             344999,
             344999,
             344999
-          ]
-        },
-        {
-          "id": "rbtechgames_6869770f",
-          "name": "Schenker XMG Ultra 17 (X170SM-G), Intel Core i9 10th Gen, 32GB RAM, 512GB SSD, RTX 2080 Su",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 239999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_schenker_xmg_ultra_17.jpg",
-          "url": "https://rbtechngames.com/product/schenker-xmg-ultra-17-x170sm-g-intel-core-i9-10th-gen-32gb-ram-512gb-ssd-rtx-2080-super-17-3-fhd-240hz-ips-display-black-used",
-          "history": [
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999
           ]
         },
         {
@@ -275349,32 +275323,6 @@
             224999,
             224999,
             224999
-          ]
-        },
-        {
-          "id": "rbtechgames_cd36bb5c",
-          "name": "Lenovo Legion 5 (15ARP8), AMD Ryzen 7 7735H, 16GB RAM, 512GB SSD, RTX 4060, 15.6&#8243; QH",
-          "brand": "AMD",
-          "category": "gpu",
-          "price": 324999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_lenovo_legion_5_15arp8_storm_grey.jpg",
-          "url": "https://rbtechngames.com/product/lenovo-legion-5-15arp8-amd-ryzen-7-7735h-16gb-ram-512gb-ssd-rtx-4060-15-6-qhd-165hz-ips-display-storm-grey-used",
-          "history": [
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999,
-            324999
           ]
         },
         {
@@ -276649,32 +276597,6 @@
             494999,
             494999,
             494999
-          ]
-        },
-        {
-          "id": "rbtechgames_3026dd7d",
-          "name": "Acer Predator Helios Neo 16 AI (PHN16-73-9797), Intel Core 9 275HX, 32GB RAM, 1TB SSD, RTX",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 664999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
-          "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-ai-phn16-73-9797-intel-core-9-275hx-32gb-ram-1tb-ssd-rtx-5070-ti-16-qhd-240hz-ips-display-abyssal-black-new",
-          "history": [
-            664999,
-            664999,
-            664999,
-            664999,
-            664999,
-            664999,
-            664999,
-            664999,
-            664999,
-            664999,
-            664999,
-            664999
           ]
         },
         {
@@ -278613,7 +278535,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_gigabyte_radeon_rx_9070_xt_oc.webp",
           "url": "https://rbtechngames.com/product/gigabyte-radeon-rx-9070-xt-gaming-oc-16gb-graphics-card",
           "history": [
-            269999,
+            314999,
             314999,
             314999,
             314999,
@@ -279913,6 +279835,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
+            26499,
             26499,
             26499,
             26499
@@ -281414,6 +281337,7 @@
           "history": [
             19999,
             19999,
+            19999,
             19999
           ]
         },
@@ -282739,6 +282663,7 @@
             46999,
             46999,
             46999,
+            46999,
             46999
           ]
         },
@@ -282910,6 +282835,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/01/i5_12400.jpg",
           "url": "https://rbtechngames.com/product/intel-core-i5-12400-tray-processor-lga-1700-only-chip",
           "history": [
+            47999,
             47999,
             47999,
             47999
