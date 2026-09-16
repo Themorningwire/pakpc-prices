@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T10:54:54.436962+00:00",
+  "lastUpdated": "2026-09-16T16:13:20.634692+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -27,6 +27,7 @@
             29490,
             29490,
             29490,
+            29490,
             29490
           ]
         },
@@ -42,6 +43,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-b550m-h-argb-price-in-pakistan-pakbyte_1.webp?v=1789369512",
           "url": "https://www.pakbyte.pk/products/gigabyte-b550m-h-argb-ddr4-amd-am4-microatx-motherboard",
           "history": [
+            27490,
             27490,
             27490,
             27490,
@@ -73,6 +75,7 @@
             249990,
             249990,
             249990,
+            249990,
             249990
           ]
         },
@@ -96,6 +99,7 @@
             319990,
             319990,
             319990,
+            319990,
             319990
           ]
         },
@@ -111,6 +115,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-pure-rx-9060-xt-16gb-price-in-pakistan-pakbyte_1.webp?v=1789366629",
           "url": "https://www.pakbyte.pk/products/sapphire-rx-9060-xt-pure-gaming-oc-16gb-graphics-card",
           "history": [
+            169990,
             169990,
             169990,
             169990,
@@ -1928,6 +1933,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-upa21-2in1-3-5mm-audio-cable-female-to-2xmale-connectors-price-in-pakistan-pakbyte_1.jpg?v=1784917019",
           "url": "https://www.pakbyte.pk/products/hoco-cable-audio-adapter-upa21-3-5mm-female-to-2-3-5mm-male",
           "history": [
+            940,
             940
           ]
         },
@@ -1943,6 +1949,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-upa21-2in1-3-5mm-audio-cable-male-to-2xfemale-price-in-pakistan-pakbyte_2.webp?v=1784916608",
           "url": "https://www.pakbyte.pk/products/hoco-upa21-2-in-1-3-5mm-headset-audio-adapter-cable-male-to-2x-female",
           "history": [
+            940,
             940
           ]
         },
@@ -1952,7 +1959,7 @@
           "brand": "Intel",
           "category": "monitor",
           "price": 4090,
-          "oldPrice": 3490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Hoco-EW980-Earbud-Price-in-Pakistan-Pakbyte_1.webp?v=1784906863",
@@ -1968,7 +1975,7 @@
             3490,
             3490,
             3490,
-            3490,
+            4090,
             4090
           ]
         },
@@ -2056,7 +2063,7 @@
           "brand": "HOCO",
           "category": "mouse",
           "price": 2390,
-          "oldPrice": 2290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm29-mysterious-dual-mode-silent-wireless-mouse-price-in-pakistan-pakbyte_3.webp?v=1784823972",
@@ -2072,7 +2079,7 @@
             2290,
             2290,
             2290,
-            2290,
+            2390,
             2390
           ]
         },
@@ -2082,7 +2089,7 @@
           "brand": "HOCO",
           "category": "mouse",
           "price": 2390,
-          "oldPrice": 2290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm29-mysterious-dual-mode-silent-wireless-mouse-price-in-pakistan-pakbyte_1.webp?v=1784823747",
@@ -2098,7 +2105,7 @@
             2290,
             2290,
             2290,
-            2290,
+            2390,
             2390
           ]
         },
@@ -2160,7 +2167,7 @@
           "brand": "HOCO",
           "category": "headset",
           "price": 4690,
-          "oldPrice": 3990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w35-max-black-price-in-pakistan-pakbyte.webp?v=1784822809",
@@ -2176,7 +2183,7 @@
             3990,
             3990,
             3990,
-            3990,
+            4690,
             4690
           ]
         },
@@ -2186,7 +2193,7 @@
           "brand": "HOCO",
           "category": "headset",
           "price": 4690,
-          "oldPrice": 3990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w35-max-price-in-pakistan-pakbyte.webp?v=1784822611",
@@ -2202,7 +2209,7 @@
             3990,
             3990,
             3990,
-            3990,
+            4690,
             4690
           ]
         },
@@ -2212,7 +2219,7 @@
           "brand": "HOCO",
           "category": "headset",
           "price": 4090,
-          "oldPrice": 3490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w56-black-price-in-pakistan-pakbyte.webp?v=1784821041",
@@ -2228,7 +2235,7 @@
             3490,
             3490,
             3490,
-            3490,
+            4090,
             4090
           ]
         },
@@ -2238,7 +2245,7 @@
           "brand": "HOCO",
           "category": "headset",
           "price": 4090,
-          "oldPrice": 3490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w56-brown-price-in-pakistan-pakbyte.webp?v=1784820530",
@@ -2254,7 +2261,7 @@
             3490,
             3490,
             3490,
-            3490,
+            4090,
             4090
           ]
         },
@@ -2264,7 +2271,7 @@
           "brand": "HOCO",
           "category": "headset",
           "price": 3990,
-          "oldPrice": 3390,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w55-green-price-in-pakistan-pakbyte.webp?v=1784820073",
@@ -2280,7 +2287,7 @@
             3390,
             3390,
             3390,
-            3390,
+            3990,
             3990
           ]
         },
@@ -2290,7 +2297,7 @@
           "brand": "HOCO",
           "category": "headset",
           "price": 3990,
-          "oldPrice": 3999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w55-silver-price-in-pakistan-pakbyte.webp?v=1784819155",
@@ -2303,10 +2310,10 @@
             3390,
             3390,
             3390,
-            3390,
             3999,
             3999,
             3999,
+            3990,
             3990
           ]
         },
@@ -2316,7 +2323,7 @@
           "brand": "HOCO",
           "category": "headset",
           "price": 3990,
-          "oldPrice": 3390,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w55-price-in-pakistan-pakbyte.webp?v=1784818855",
@@ -2332,7 +2339,7 @@
             3390,
             3390,
             3390,
-            3390,
+            3990,
             3990
           ]
         },
@@ -2342,7 +2349,7 @@
           "brand": "HOCO",
           "category": "headset",
           "price": 3490,
-          "oldPrice": 2990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w106-tiger-gaming-headset-volume-adjustment-price-in-pakistan-pakbyte_1.webp?v=1784818527",
@@ -2358,7 +2365,7 @@
             2990,
             2990,
             2990,
-            2990,
+            3490,
             3490
           ]
         },
@@ -2400,6 +2407,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-m101-pro-price-in-pakistan-pakbyte.webp?v=1784793732",
           "url": "https://www.pakbyte.pk/products/hoco-m101-pro-crystal-sound-wire-controlled-digital-earphones-with-microphone",
           "history": [
+            1140,
             1140
           ]
         },
@@ -2435,7 +2443,7 @@
           "brand": "HOCO",
           "category": "mouse",
           "price": 2640,
-          "oldPrice": 2390,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HOCO-GM40-Dixon-Dual-Mode-Wireless-Mouse-Price-in-Pakistan-Pakbyte_1.jpg?v=1784792388",
@@ -2451,7 +2459,7 @@
             2390,
             2390,
             2390,
-            2390,
+            2640,
             2640
           ]
         },
@@ -2461,7 +2469,7 @@
           "brand": "HOCO",
           "category": "keyboard",
           "price": 4040,
-          "oldPrice": 3290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm17-wireless-business-keyboard-mouse-set-english-black-price-in-pakistan-pakbyte_1.webp?v=1784792135",
@@ -2477,7 +2485,7 @@
             3290,
             3290,
             3290,
-            3290,
+            4040,
             4040
           ]
         },
@@ -2690,16 +2698,31 @@
           ]
         },
         {
-          "id": "pakbyte_50566a21",
+          "id": "pakbyte_29b85b01",
           "name": "GIGABYTE C500 PANORAMIC STEALTH ICE ATX Mid Tower PC Gaming Case, Pre-installed 4x ARGB Fa",
           "brand": "Gigabyte",
           "category": "ram",
           "price": 26499,
-          "oldPrice": 24990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c500p-pc-casing-price-in-pakistan-pakbyte_2.jpg?v=1784741840",
           "url": "https://www.pakbyte.pk/products/gigabyte-c500-panoramic-stealth-ice-atx-mid-tower-pc-gaming-case-pre-installed-4x-argb-fans-white-1",
+          "history": [
+            26499
+          ]
+        },
+        {
+          "id": "pakbyte_50566a21",
+          "name": "GIGABYTE C500 PANORAMIC STEALTH ICE ATX Mid Tower PC Gaming Case, Pre-installed 4x ARGB Fa",
+          "brand": "Gigabyte",
+          "category": "ram",
+          "price": 25990,
+          "oldPrice": 26499,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c500-panoramic-stealth-ice-gaming-case-price-in-pakistan-pakbyte_1.webp?v=1784741519",
+          "url": "https://www.pakbyte.pk/products/gigabyte-c500-panoramic-stealth-ice-atx-mid-tower-pc-gaming-case-pre-installed-4x-argb-fans-white",
           "history": [
             24990,
             24990,
@@ -2711,8 +2734,8 @@
             24990,
             24990,
             24990,
-            24990,
-            26499
+            26499,
+            25990
           ]
         },
         {
@@ -3224,7 +3247,7 @@
             129990,
             129990,
             129990,
-            129990,
+            104990,
             104990,
             104990,
             104990,
@@ -3250,7 +3273,7 @@
             28990,
             28990,
             28990,
-            28990,
+            29490,
             29490,
             29490,
             29490,
@@ -6830,7 +6853,7 @@
           "category": "keyboard",
           "price": 7990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk75-price-in-pakistan-pakbyte_2.webp?v=1783183008",
           "url": "https://www.pakbyte.pk/products/eweadn-dk75-wired-mechanical-gaming-keyboard-black-gradient",
@@ -6856,7 +6879,7 @@
           "category": "keyboard",
           "price": 7490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk75-price-in-pakistan-pakbyte.webp?v=1783182528",
           "url": "https://www.pakbyte.pk/products/eweadn-dk75-wired-mechanical-gaming-keyboard-black",
@@ -6882,7 +6905,7 @@
           "category": "keyboard",
           "price": 8490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk68-he-price-in-pakistan-pakbyte_3.webp?v=1783182039",
           "url": "https://www.pakbyte.pk/products/eweadn-dk68-he-rgb-wireless-tri-mode-mechanical-gaming-keyboard-black",
@@ -6908,7 +6931,7 @@
           "category": "keyboard",
           "price": 8490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk68-he-price-in-pakistan-pakbyte_1.webp?v=1783181778",
           "url": "https://www.pakbyte.pk/products/eweadn-dk68-he-rgb-wireless-tri-mode-mechanical-gaming-keyboard-white",
@@ -6934,7 +6957,7 @@
           "category": "keyboard",
           "price": 7190,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk68-he-black-price-in-pakistan-pakbyte.webp?v=1783180368",
           "url": "https://www.pakbyte.pk/products/eweadn-dk68-he-rgb-wired-mechanical-gaming-keyboard-black",
@@ -6960,7 +6983,7 @@
           "category": "keyboard",
           "price": 7190,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-dk68-he-price-in-pakistan-pakbyte.webp?v=1783180025",
           "url": "https://www.pakbyte.pk/products/eweadn-dk68-he-rgb-wired-mechanical-gaming-keyboard-white",
@@ -7948,7 +7971,7 @@
           "category": "monitor",
           "price": 3290,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/mxg-lh-01r-universal-laptop-holder-for-monitor-arms-with-rgb-price-in-pakistan-pakbyte_1.webp?v=1782283955",
           "url": "https://www.pakbyte.pk/products/mxg-lh-01r-universal-laptop-holder-for-monitor-arms-with-rgb-cooling-fan",
@@ -7974,7 +7997,7 @@
           "category": "monitor",
           "price": 68390,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/mxg-p27iu-4k-professional-monitor-price-in-pakistan-pakbyte_1.jpg?v=1782279370",
           "url": "https://www.pakbyte.pk/products/mxg-p27iu-4k-60hz-4k-uhd-ips-27-professional-monitor",
@@ -15046,7 +15069,7 @@
           "category": "case",
           "price": 25990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Lancool-216-non-rgb-price-in-pakistan-pakbyte_1.jpg?v=1774512852",
           "url": "https://www.pakbyte.pk/products/lian-li-lancool-216-non-rgb-mid-tower-case-white",
@@ -20636,7 +20659,7 @@
           "category": "mouse",
           "price": 9990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-dragonfly-a9-plus-price-in-pakistan-pakbyte_5.webp?v=1772023753",
           "url": "https://www.pakbyte.pk/products/atk-dragonfly-a9-plus-wireless-gaming-mouse-white",
@@ -25796,7 +25819,7 @@
             1090,
             1090,
             1090,
-            1090,
+            1399,
             1399,
             1399,
             1399,
@@ -27196,7 +27219,7 @@
             107990,
             107990,
             107990,
-            107990,
+            117999,
             117999,
             117999,
             117999,
@@ -35534,7 +35557,7 @@
           "category": "ram",
           "price": 63990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Adata-32GB-3200-DDR4-DESKTOP-MEMORY-PRICE-IN-PAKISTAN-PAKBYTE.jpg?v=1765217003",
           "url": "https://www.pakbyte.pk/products/adata-32gb-ddr4-3200mhz-laptop-memory",
@@ -39363,7 +39386,7 @@
           "history": [
             234990,
             234990,
-            234990,
+            249990,
             249990,
             249990,
             249990,
@@ -51484,6 +51507,7 @@
             30490,
             30490,
             30490,
+            30490,
             30490
           ]
         },
@@ -51684,7 +51708,7 @@
             78990,
             78990,
             78990,
-            78990,
+            83990,
             83990,
             83990,
             83990,
@@ -51710,7 +51734,7 @@
             77990,
             77990,
             77990,
-            77990,
+            78990,
             78990,
             78990,
             78990,
@@ -51865,7 +51889,7 @@
           "history": [
             21790,
             21790,
-            21790,
+            28990,
             28990,
             28990,
             28990,
@@ -52984,7 +53008,7 @@
             50999,
             50999,
             50999,
-            50999,
+            72499,
             72499,
             72499,
             72499,
@@ -59587,7 +59611,7 @@
           "history": [
             259990,
             259990,
-            259990,
+            274990,
             274990,
             274990,
             274990,
@@ -59619,6 +59643,7 @@
             269990,
             269990,
             269990,
+            269990,
             269990
           ]
         },
@@ -59636,7 +59661,7 @@
           "history": [
             244999,
             244999,
-            244999,
+            244990,
             244990,
             244990,
             244990,
@@ -60329,8 +60354,8 @@
           "name": "Palit GeForce RTX 5060 Ti Infinity 3 16GB GDDR7 Graphics Card",
           "brand": "Palit",
           "category": "gpu",
-          "price": 182000,
-          "oldPrice": null,
+          "price": 239999,
+          "oldPrice": 182000,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Palit-GeForce-RTX-5060-Ti-Infinity-3-16GB-GDDR7-PCI-Express-5-0-2572MHz-28000MHz-PakByte-Computers-26279799160899.jpg?v=1753670479",
@@ -60347,7 +60372,7 @@
             182000,
             182000,
             182000,
-            182000
+            239999
           ]
         },
         {
@@ -67455,7 +67480,7 @@
           "category": "mouse",
           "price": 2999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Swipe-Signature-Performance-Gaming-Mouse-Pad-Black-Purple-Large-PakByte-Computers-25911835230275.jpg?v=1753671642",
           "url": "https://www.pakbyte.pk/products/swipe-signature-performance-gaming-mouse-pad-black-purple-large",
@@ -70237,7 +70262,7 @@
           "category": "case",
           "price": 25990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-LANCOOL-216-Non-RGB-Mid-Tower-Case-Black-PakByte-Computers-25890094776387.jpg?v=1753672312",
           "url": "https://www.pakbyte.pk/products/lian-li-lancool-216-non-rgb-mid-tower-case-black",
@@ -70263,7 +70288,7 @@
           "category": "case",
           "price": 38490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Lancool-216-RGB-Mid-Tower-ATX-Case-Black-PakByte-Computers-25890089959491.jpg?v=1753672313",
           "url": "https://www.pakbyte.pk/products/lian-li-lancool-216-rgb-mid-tower-atx-case-black",
@@ -70497,7 +70522,7 @@
           "category": "keyboard",
           "price": 10300,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-SHRAPNEL-K589-RGB-Mechanical-Gaming-Keyboard-PakByte-Computers-25887278760003.jpg?v=1753672344",
           "url": "https://www.pakbyte.pk/products/redragon-shrapnel-k589-rgb-mechanical-gaming-keyboard",
@@ -76697,7 +76722,7 @@
             5790,
             5790,
             5790,
-            5790,
+            5999,
             5999,
             5999,
             5999,
@@ -94866,7 +94891,7 @@
           "history": [
             21990,
             21990,
-            21990,
+            20990,
             20990,
             20990,
             20990,
@@ -106047,7 +106072,7 @@
             40990,
             40990,
             40990,
-            40990,
+            39990,
             39990,
             39990,
             39990,
@@ -118831,7 +118856,7 @@
           "category": "case",
           "price": 38490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Lancool-216-RGB-Computer-Case-White-PakByte-Computers-24397523419203.webp?v=1753681749",
           "url": "https://www.pakbyte.pk/products/lian-li-lancool-216-rgb-computer-case-white",
@@ -146383,6 +146408,126 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_f3ccbd16",
+          "name": "Thermalright TL-M12W-S ARGB 120mm Case Fan White",
+          "brand": "Thermalright",
+          "category": "cooler",
+          "price": 135000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Thermalright-TL-M12W-S-ARGB-120mm-Case-Fan-White-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/thermalright-tl-m12w-s-argb-120mm-case-fan-white",
+          "history": [
+            135000
+          ]
+        },
+        {
+          "id": "zah_705bdb23",
+          "name": "Thermalright USB 2.0 HUB X5 Black – 5-Port Internal Motherboard Header Splitter with SATA ",
+          "brand": "Thermalright",
+          "category": "motherboard",
+          "price": 349900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Thermalright-USB-2.0-HUB-X5-Black-–-5-Port-Internal-Motherboard-Header-Splitter-with-SATA-Power-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/thermalright-usb-2-0-hub-x5-black",
+          "history": [
+            349900
+          ]
+        },
+        {
+          "id": "zah_592ab65b",
+          "name": "HP OmniBook Ultra Flip 14T-FH000 2-in-1 Laptop, Intel Core Ultra 7 256V, 16GB DDR5, 1TB NV",
+          "brand": "Intel",
+          "category": "ram",
+          "price": 4049900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/HP-OmniBook-Ultra-Flip-14T-FH000-2-in-1-Laptop.jpg",
+          "url": "https://zahcomputers.pk/product/hp-omnibook-ultra-flip-14t-fh000-2-in-1-laptop",
+          "history": [
+            4049900
+          ]
+        },
+        {
+          "id": "zah_ac23ff0e",
+          "name": "AULA F75 RGB Wireless Mechanical Gaming Keyboard 75% Hot-Swappable with Five-Layer Padding",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 1280000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-F75-RGB-Wireless-Mechanical-Gaming-Keyboard-White.webp",
+          "url": "https://zahcomputers.pk/product/aula-f75-rgb-wireless-mechanical-gaming-keyboard-retro-white-milk-white-switch",
+          "history": [
+            1280000
+          ]
+        },
+        {
+          "id": "zah_ab2eb5ee",
+          "name": "AULA F75 RGB Wireless Mechanical Gaming Keyboard 75% 81-Key, Gasket Mount, Hot-Swappable 5",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 1280000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-F75-RGB-Wireless-Mechanical-Gaming-Keyboard.webp",
+          "url": "https://zahcomputers.pk/product/aula-f75-rgb-wireless-mechanical-gaming-keyboard",
+          "history": [
+            1280000
+          ]
+        },
+        {
+          "id": "zah_cdb12488",
+          "name": "AULA HERO 68 HE Wired Hall Effect Gaming Keyboard 68-Key, 8K Polling, 128K Scanning, 0.125",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 1230000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-HERO-68-HE-Wired-Hall-Effect-Gaming-Keyboard.webp",
+          "url": "https://zahcomputers.pk/product/aula-hero-68-he-wired-hall-effect-gaming-keyboard-white",
+          "history": [
+            1230000
+          ]
+        },
+        {
+          "id": "zah_0df7c212",
+          "name": "AULA WIN68 HE Max Wired Hall Effect Gaming Keyboard 68-Key, 8K Polling Rate, 0.2ms Latency",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 1180000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-WIN68-HE-Max-Wired-Hall-Effect-Gaming-Keyboard-Black-Yellow.webp",
+          "url": "https://zahcomputers.pk/product/aula-win68-he-max-wired-hall-effect-gaming-keyboard",
+          "history": [
+            1180000
+          ]
+        },
+        {
+          "id": "zah_d389156c",
+          "name": "AULA WIN60 HE Max Wired Hall Effect Gaming Keyboard 60% 61-Key, 8K Polling, Gasket Mount, ",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 1080000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-WIN60-HE-Max-Wired-Hall-Effect-Gaming-Keyboard-White-Blue.webp",
+          "url": "https://zahcomputers.pk/product/aula-win60-he-max-wired-hall-effect-gaming-keyboard",
+          "history": [
+            1080000
+          ]
+        },
+        {
           "id": "zah_0db22984",
           "name": "AULA WIN60 HE Pro Wired Hall Effect Gaming Keyboard 60% 61-Key, Rapid Trigger, 8K Polling,",
           "brand": "AULA",
@@ -146394,6 +146539,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-WIN60-HE-Pro-Wired-Hall-Effect-Gaming-Keyboard.webp",
           "url": "https://zahcomputers.pk/product/aula-win60-he-pro-wired-hall-effect-gaming-keyboard-dark-grey",
           "history": [
+            890000,
             890000
           ]
         },
@@ -146409,6 +146555,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-MINI60-HE-Wireless-Hall-Effect-Gaming-Keyboard-White.webp",
           "url": "https://zahcomputers.pk/product/aula-mini60-he-wireless-hall-effect-gaming-keyboard-white",
           "history": [
+            930000,
             930000
           ]
         },
@@ -146424,6 +146571,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-MINI60-HE-Wireless-Hall-Effect-Gaming-Keyboard-Black.webp",
           "url": "https://zahcomputers.pk/product/aula-mini60-he-wireless-hall-effect-gaming-keyboard",
           "history": [
+            1050000,
             1050000
           ]
         },
@@ -146439,6 +146587,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-L99-Smart-Screen-Mechanical-Gaming-Keyboard-Blackstorm.jpg",
           "url": "https://zahcomputers.pk/product/aula-l99-smart-screen-mechanical-gaming-keyboard-blackstorm",
           "history": [
+            2580000,
             2580000
           ]
         },
@@ -146454,6 +146603,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F87-75-Wireless-Mechanical-Gaming-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f87-75-wireless-mechanical-gaming-keyboard",
           "history": [
+            1280000,
             1280000
           ]
         },
@@ -146469,6 +146619,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F87-Pro-Wireless-Mechanical-Gaming-Keyboard-Black.webp",
           "url": "https://zahcomputers.pk/product/aula-f87-pro-wireless-mechanical-gaming-keyboard-2",
           "history": [
+            1350000,
             1350000
           ]
         },
@@ -146484,6 +146635,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F87-Pro-Wireless-Mechanical-Gaming-Keyboard.webp",
           "url": "https://zahcomputers.pk/product/aula-f87-pro-wireless-mechanical-gaming-keyboard",
           "history": [
+            1280000,
             1280000
           ]
         },
@@ -146499,6 +146651,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-HERO-84-HE-Wired-Mechanical-Keyboard-White-Purple.jpg",
           "url": "https://zahcomputers.pk/product/aula-hero-84-he-wired-mechanical-keyboard-white-purple-black-emperor-hall-effect-switches",
           "history": [
+            1400000,
             1400000
           ]
         },
@@ -146514,6 +146667,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Intel-Core-Ultra-7-270K-Plus-24-cores-8-P-cores-16-E-cores-up-to-5.5-GHz-Processor-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/intel-core-ultra-7-270k-plus-24-cores-8-p-cores-16-e-cores-up-to-5-5-ghz-processor",
           "history": [
+            11200000,
             11200000,
             11200000,
             11200000,
@@ -146537,6 +146691,7 @@
             1550000,
             1550000,
             1550000,
+            1550000,
             1550000
           ]
         },
@@ -146552,6 +146707,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Lexar-1TB-SL300-USB-3.2-Gen-2-Portable-SSD-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-2tb-sl300-usb-3-2-gen-2-portable-ssd",
           "history": [
+            6200000,
             6200000,
             6200000,
             6200000,
@@ -146622,7 +146778,7 @@
           "category": "keyboard",
           "price": 1350000,
           "oldPrice": 1650000,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/AULA-F75-75-Wireless-Mechanical-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f75-75-wireless-mechanical-keyboard-hot-swappable-creamy-keyboard-pre-lubed-reaper-switches-2-4ghz-type-c-bt5-0-rgb-backlit-gaming-keyboards-blue-white-dark-purple",
@@ -147376,7 +147532,7 @@
           "category": "ram",
           "price": 14800000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/Lexar-ARES-Gen2-RGB-DDR5-32GB-Kit-2-x-16GB-7600MHz-Desktop-Memory-288-Pin-UDIMM-CL36-46-46-961.4V-DRAM-Empowered-by-SK-hynix-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/lexar-ares-gen2-rgb-ddr5-32gb-kit-2-x-16gb-8000mhz-desktop-memory-cl38-intel-xmp-3-0-rgb-1-45v",
@@ -149805,7 +149961,7 @@
             41000000,
             41000000,
             41000000,
-            41000000,
+            44000000,
             44000000,
             44000000,
             44000000,
@@ -151664,9 +151820,9 @@
           "name": "Thermalright TR-A70 ATX Desktop Gaming Case Including Panoramic Light Strip 5x ARGB Fans B",
           "brand": "Thermalright",
           "category": "ram",
-          "price": 3000000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 3199900,
+          "oldPrice": 3000000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Thermalright-TR-A70-Vision-ATX-Desktop-Gaming-Case-Including-9.16-LCD-Black-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tr-a70-atx-desktop-gaming-case-including-panoramic-light-strip-5x-argb-fans-black",
@@ -151682,7 +151838,7 @@
             3000000,
             3000000,
             3000000,
-            3000000
+            3199900
           ]
         },
         {
@@ -151690,9 +151846,9 @@
           "name": "Thermalright TR-A70 ATX Desktop Gaming Case Including Panoramic Light Strip 5x ARGB Fans W",
           "brand": "Thermalright",
           "category": "ram",
-          "price": 3100000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 3299900,
+          "oldPrice": 3100000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Thermalright-TR-A70-Vision-ATX-Desktop-Gaming-Case-Including-9.16-LCD-White-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tr-a70-atx-desktop-gaming-case-including-panoramic-light-strip-5x-argb-fans-white",
@@ -151708,7 +151864,7 @@
             3100000,
             3100000,
             3100000,
-            3100000
+            3299900
           ]
         },
         {
@@ -151716,8 +151872,8 @@
           "name": "Thermalright Magic Qube 360 ARGB Black AIO Liquid CPU Cooler – 360mm Radiator, Infinity Mi",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 2000000,
-          "oldPrice": null,
+          "price": 2399900,
+          "oldPrice": 2000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Thermalright-Magic-Qube-360-ARGB-Black-AIO-Liquid-CPU-Cooler-Price-in-Pakistan.webp",
@@ -151734,7 +151890,7 @@
             2000000,
             2000000,
             2000000,
-            2000000
+            2399900
           ]
         },
         {
@@ -151742,8 +151898,8 @@
           "name": "Thermalright Magic Qube 360 ARGB White AIO Liquid CPU Cooler – 360mm Radiator, Infinity Mi",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 2100000,
-          "oldPrice": null,
+          "price": 2449900,
+          "oldPrice": 2100000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Thermalright-Magic-Qube-360-ARGB-White-AIO-Liquid-CPU-Cooler-Price-in-Pakistan.webp",
@@ -151760,7 +151916,7 @@
             2100000,
             2100000,
             2100000,
-            2100000
+            2449900
           ]
         },
         {
@@ -152184,9 +152340,9 @@
           "name": "AULA SC680 58g Ultra-Lightweight Tri-Mode Wireless Gaming Mouse (White)",
           "brand": "AULA",
           "category": "mouse",
-          "price": 850000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 890000,
+          "oldPrice": 850000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/AULA-SC680-58g-Ultra-Lightweight-Tri-Mode-Wireless-Gaming-Mouse-White.avif",
           "url": "https://zahcomputers.pk/product/aula-sc680-58g-ultra-lightweight-tri-mode-wireless-gaming-mouse-white",
@@ -152202,7 +152358,7 @@
             850000,
             850000,
             850000,
-            850000
+            890000
           ]
         },
         {
@@ -152276,7 +152432,7 @@
             1400000,
             1400000,
             1400000,
-            1400000,
+            1580000,
             1580000,
             1580000,
             1580000,
@@ -153206,6 +153362,7 @@
           "url": "https://zahcomputers.pk/product/aula-f108-pro-full-size-mechanical-keyboard-with-smart-screen-grey-yellow",
           "history": [
             1850000,
+            1850000,
             1850000
           ]
         },
@@ -153334,7 +153491,7 @@
             950000,
             950000,
             950000,
-            950000,
+            1030000,
             1030000,
             1030000
           ]
@@ -153464,7 +153621,7 @@
             1350000,
             1350000,
             1350000,
-            1350000,
+            1420000,
             1420000,
             1420000
           ]
@@ -153554,7 +153711,7 @@
           "category": "keyboard",
           "price": 3000000,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-AG60-MAX-Wired-PPrice-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-ag60-pro-wired-hall-effect-magnetic-gaming-keyboard-black-frosted-translucent-snowglow-switch",
@@ -153578,9 +153735,9 @@
           "name": "AULA AG60 MAX Wired Hall Effect Magnetic Gaming Keyboard Blue Gray Peral White &#8211; God",
           "brand": "AULA",
           "category": "keyboard",
-          "price": 4499900,
-          "oldPrice": 5000000,
-          "inStock": false,
+          "price": 5000000,
+          "oldPrice": 4499900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-AG60-MAX-Wired-PPrice-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-ag60-max-wired-hall-effect-magnetic-gaming-keyboard-blue-gray-peral-white-godmode-magnetic-switch",
@@ -153596,7 +153753,7 @@
             4499900,
             4499900,
             4499900,
-            4499900
+            5000000
           ]
         },
         {
@@ -153606,7 +153763,7 @@
           "category": "keyboard",
           "price": 4250000,
           "oldPrice": 4650000,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-AG60-MAX-Wired-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-ag60-max-wired-hall-effect-magnetic-gaming-keyboard-firefly-heat-sublimation-red-frostcore-switch",
@@ -154452,7 +154609,7 @@
             1500000,
             1500000,
             1500000,
-            1500000,
+            1560000,
             1560000,
             1560000
           ]
@@ -154469,6 +154626,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/aula-f75-white-contour-price-in-pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-gasket-mechanical-keyboard-75-wireless-hot-swappable-gaming-keyboard-with-five-layer-paddingknob-bluetooth-2-4ghz-usb-c-rgb-white-contour-contour-star-vector-switches",
           "history": [
+            1399900,
             1399900,
             1399900,
             1399900,
@@ -154519,6 +154677,7 @@
           "history": [
             1399900,
             1399900,
+            1399900,
             1399900
           ]
         },
@@ -154542,7 +154701,7 @@
             1499900,
             1499900,
             1499900,
-            1499900,
+            1350000,
             1350000,
             1350000,
             1350000
@@ -161373,6 +161532,7 @@
           "url": "https://zahcomputers.pk/product/aula-f87-mechanical-tkl-keyboard-leobog-graywood-v3-linear-switch-rgb-hot-swap-macro-wireless-type-c-light-blue",
           "history": [
             1230000,
+            1230000,
             1230000
           ]
         },
@@ -163670,7 +163830,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 1149900,
-          "oldPrice": 1069500,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-V520-Backlit-Mechanical-Gaming-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -163686,7 +163846,7 @@
             1069500,
             1069500,
             1069500,
-            1069500,
+            1149900,
             1149900
           ]
         },
@@ -167491,8 +167651,8 @@
           "name": "Thermalright TL-M10W Mid-Tower Micro-ATX Gaming Case &#8211; White With 4 Fans",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1800000,
-          "oldPrice": null,
+          "price": 1799900,
+          "oldPrice": 1800000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-TL-M10W-Mid-Tower-Micro-ATX-Gaming-Case-White-Price-in-Pakistan.jpg",
@@ -167509,7 +167669,7 @@
             1800000,
             1800000,
             1800000,
-            1800000
+            1799900
           ]
         },
         {
@@ -167543,8 +167703,8 @@
           "name": "Thermalright TL-M10W Vision LCD Screen Mid-Tower Micro-ATX Gaming Case &#8211; White With ",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 2880000,
-          "oldPrice": null,
+          "price": 2879900,
+          "oldPrice": 2880000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-TL-M10W-Vision-LCD-Screen-Mid-Tower-Micro-ATX-Gaming-Case-White-Price-in-Pakistan.jpg",
@@ -167561,7 +167721,7 @@
             2880000,
             2880000,
             2880000,
-            2880000
+            2879900
           ]
         },
         {
@@ -168539,6 +168699,7 @@
           "url": "https://zahcomputers.pk/product/aula-f99-pro-gasket-mounted-triple-mode-mechanical-keyboard-star-vector-switch-black-green",
           "history": [
             1650000,
+            1650000,
             1650000
           ]
         },
@@ -168703,8 +168864,8 @@
           "name": "Thermalright Wonder Vision 360 Turbo ARGB White CPU Liquid Cooler 3D Curved Screen with 24",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 9499900,
-          "oldPrice": null,
+          "price": 8499900,
+          "oldPrice": 9499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Thermalright-Wonder-Vision-360-Turbo-ARGB-White-CPU-Liquid-Cooler-3D-Curved-Screen-with-2400x1080-Resolutions-Price-in-Pakistan-0.jpg",
@@ -168721,7 +168882,7 @@
             9499900,
             9499900,
             9499900,
-            9499900
+            8499900
           ]
         },
         {
@@ -168755,8 +168916,8 @@
           "name": "Thermalright Peerless Vision 360 ARGB White CPU Liquid Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 3300000,
-          "oldPrice": null,
+          "price": 3599900,
+          "oldPrice": 3300000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Thermalright-Peerless-Vision-360-ARGB-Black-CPU-Liquid-Cooler-Price-in-Pakistan.jpg",
@@ -168773,7 +168934,7 @@
             3300000,
             3300000,
             3300000,
-            3300000
+            3599900
           ]
         },
         {
@@ -168781,8 +168942,8 @@
           "name": "Thermalright Peerless Vision 360 ARGB Black CPU Liquid Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 3300000,
-          "oldPrice": null,
+          "price": 3499900,
+          "oldPrice": 3300000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Thermalright-Peerless-Vision-360-ARGB-Black-CPU-Liquid-Cooler-Price-in-Pakistan-01.jpg",
@@ -168799,7 +168960,7 @@
             3300000,
             3300000,
             3300000,
-            3300000
+            3499900
           ]
         },
         {
@@ -170331,7 +170492,7 @@
             1199900,
             1199900,
             1199900,
-            1199900,
+            1080000,
             1080000,
             1080000
           ]
@@ -170473,7 +170634,7 @@
           "category": "storage",
           "price": 3200000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/WD-Blue-4TB-3.5-SATA-Hard-Drive-Pulled-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/wd-blue-4tb-3-5-sata-hard-drive-pulled",
@@ -180781,7 +180942,7 @@
             44500000,
             44500000,
             44500000,
-            44500000,
+            47500000,
             47500000,
             47500000,
             47500000,
@@ -182728,7 +182889,7 @@
             7599900,
             7599900,
             7599900,
-            7599900,
+            7900000,
             7900000,
             7900000,
             7900000,
@@ -184080,7 +184241,7 @@
             2200000,
             2200000,
             2200000,
-            2200000,
+            1799900,
             1799900,
             1799900,
             1799900,
@@ -185301,6 +185462,7 @@
             1580000,
             1599900,
             1599900,
+            1599900,
             1599900
           ]
         },
@@ -185316,6 +185478,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/aula-f75-black-contour-price-in-pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-gasket-mechanical-keyboard-black-contour",
           "history": [
+            1350000,
             1350000,
             1350000,
             1350000
@@ -186288,9 +186451,9 @@
           "name": "Thermalright TL-M10 Mid-Tower Micro-ATX Gaming Case &#8211; Black With 4 Fans",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1750000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 1749900,
+          "oldPrice": 1750000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-TL-M10-Mid-Tower-Micro-ATX-Gaming-Case-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m10-mid-tower-micro-atx-gaming-case-black",
@@ -186306,7 +186469,7 @@
             1750000,
             1750000,
             1750000,
-            1750000
+            1749900
           ]
         },
         {
@@ -186340,8 +186503,8 @@
           "name": "Thermalright TL-M12QR-S X3 Reverse CPU Fan Building Blocks 120mm Case Cooler PWM Connector",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 499900,
-          "oldPrice": null,
+          "price": 449900,
+          "oldPrice": 499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Thermalright-TL-M12Q-S-X3-Wireless-Splicing-Case-Fan-120mm-Price-in-Pakistan.jpg",
@@ -186358,7 +186521,7 @@
             499900,
             499900,
             499900,
-            499900
+            449900
           ]
         },
         {
@@ -186392,8 +186555,8 @@
           "name": "Thermalright TL-M12Q-S X3 Wireless Splicing Case Fan-120mm Quiet Infinity Mirror ARGB Ligh",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 499900,
-          "oldPrice": null,
+          "price": 449900,
+          "oldPrice": 499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Thermalright-TL-M12Q-S-X3-Wireless-Splicing-Case-Fan-120mm-Price-in-Pakistan.jpg",
@@ -186410,7 +186573,7 @@
             499900,
             499900,
             499900,
-            499900
+            449900
           ]
         },
         {
@@ -186574,8 +186737,8 @@
           "name": "Thermalright Wonder Vision 360 UB ARGB White CPU AIO Liquid Cooler &#8211; Rotatable 6.67&",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 8999900,
-          "oldPrice": null,
+          "price": 7999900,
+          "oldPrice": 8999900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-Wonder-Vision-360-UB-ARGB-White-CPU-AIO-Liquid-Cooler-Rotatable-6.67-Curved-Screen-3D-Effect-2K-Resolution-Price-in-Pakistan.jpg",
@@ -186592,7 +186755,7 @@
             8999900,
             8999900,
             8999900,
-            8999900
+            7999900
           ]
         },
         {
@@ -186600,8 +186763,8 @@
           "name": "Thermalright Wonder Vision 360 UB ARGB Black CPU AIO Liquid Cooler  &#8211; Rotatable 6.67",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 8199900,
-          "oldPrice": null,
+          "price": 7999900,
+          "oldPrice": 8199900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-Wonder-Vision-360-UB-ARGB-Black-CPU-AIO-Liquid-Cooler-Black-Rotatable-6.67-Curved-Screen-3D-Effect-2K-Resolution-Price-in-Pakistan.jpg",
@@ -186618,7 +186781,7 @@
             8199900,
             8199900,
             8199900,
-            8199900
+            7999900
           ]
         },
         {
@@ -186626,8 +186789,8 @@
           "name": "Thermalright Trofeo Vision 360 ARGB CPU AIO Cooler White IPS LCD Screen with 1280&#215;480",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 4699900,
-          "oldPrice": null,
+          "price": 4899900,
+          "oldPrice": 4699900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-Trofeo-Vision-360-ARGB-CPU-AIO-Cooler-White-IPS-LCD-Screen-with-1280x480-Resolution-Price-in-Pakistan.jpg",
@@ -186644,7 +186807,7 @@
             4699900,
             4699900,
             4699900,
-            4699900
+            4899900
           ]
         },
         {
@@ -186652,8 +186815,8 @@
           "name": "Thermalright Trofeo Vision 360 ARGB CPU AIO Cooler Black IPS LCD Screen with 1280&#215;480",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 4499900,
-          "oldPrice": null,
+          "price": 4799900,
+          "oldPrice": 4499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-Trofeo-Vision-360-ARGB-CPU-AIO-Cooler-Black-IPS-LCD-Screen-with-1280x480-Resolution-Price-in-Pakistan.jpg",
@@ -186670,7 +186833,7 @@
             4499900,
             4499900,
             4499900,
-            4499900
+            4799900
           ]
         },
         {
@@ -190412,7 +190575,7 @@
             750000,
             750000,
             750000,
-            750000,
+            780000,
             780000,
             780000
           ]
@@ -191920,7 +192083,7 @@
             1950000,
             1950000,
             1950000,
-            1950000,
+            1850000,
             1850000,
             1850000
           ]
@@ -193036,7 +193199,7 @@
             23500000,
             23500000,
             23500000,
-            23500000,
+            25000000,
             25000000,
             25000000,
             25000000,
@@ -194739,7 +194902,7 @@
           "brand": "HikSemi",
           "category": "storage",
           "price": 1500000,
-          "oldPrice": 1300000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/HikSemi-Wave-256GB-M.2-PCIe-3.0-NVMe-SSD-Price-in-Pakistan.jpeg",
@@ -194755,7 +194918,7 @@
             1300000,
             1300000,
             1300000,
-            1300000,
+            1500000,
             1500000
           ]
         },
@@ -195716,7 +195879,7 @@
             1200000,
             1200000,
             1200000,
-            1200000,
+            1180000,
             1180000,
             1180000
           ]
@@ -196517,7 +196680,7 @@
             1350000,
             1350000,
             1350000,
-            1350000,
+            1250000,
             1250000,
             1250000,
             1250000,
@@ -196543,7 +196706,7 @@
             1350000,
             1350000,
             1350000,
-            1350000,
+            1250000,
             1250000,
             1250000,
             1250000,
@@ -196621,7 +196784,7 @@
             830000,
             830000,
             830000,
-            830000,
+            690000,
             690000,
             690000,
             690000,
@@ -196647,7 +196810,7 @@
             830000,
             830000,
             830000,
-            830000,
+            690000,
             690000,
             690000,
             690000,
@@ -202254,7 +202417,7 @@
           "category": "storage",
           "price": 15000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/08/SAMSUNG-T7-Portable-SSD-500GB-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/samsung-t7-portable-ssd-4tb-up-to-1050-mb-s-usb-3-2-external-solid-state-drive-gray",
@@ -215668,9 +215831,9 @@
           "name": "Thermalright Peerless Assassin 120 SE ARGB CPU Air Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 979900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 999900,
+          "oldPrice": 979900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Thermalright-Peerless-Assassin-120-SE-ARGB-CPU-Air-Cooler.webp",
           "url": "https://zahcomputers.pk/product/thermalright-peerless-assassin-120-se-cpu-air-cooler",
@@ -215686,7 +215849,7 @@
             979900,
             979900,
             979900,
-            979900
+            999900
           ]
         },
         {
@@ -215720,8 +215883,8 @@
           "name": "Thermalright Grand Vision 360 White ARGB 360mm CPU AIO Liquid Cooler,IPS LCD Screen",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 4699900,
-          "oldPrice": null,
+          "price": 4899900,
+          "oldPrice": 4699900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Thermalright-Grand-Vision-240-White-ARGB-240mm-CPU-AIO-Liquid-Cooler.jpg",
@@ -215738,7 +215901,7 @@
             4699900,
             4699900,
             4699900,
-            4699900
+            4899900
           ]
         },
         {
@@ -215746,8 +215909,8 @@
           "name": "Thermalright Grand Vision 360 Black ARGB 360mm CPU AIO Liquid Cooler,IPS LCD Screen",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 4499900,
-          "oldPrice": null,
+          "price": 4799900,
+          "oldPrice": 4499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Thermalright-Grand-Vision-360Black-ARGB-360mm-CPU-AIO-Liquid-Cooler.jpg",
@@ -215764,7 +215927,7 @@
             4499900,
             4499900,
             4499900,
-            4499900
+            4799900
           ]
         },
         {
@@ -216930,7 +217093,7 @@
             44000000,
             44000000,
             44000000,
-            44000000,
+            48000000,
             48000000,
             48000000,
             48000000,
@@ -217393,6 +217556,7 @@
           "history": [
             1399900,
             1399900,
+            1399900,
             1399900
           ]
         },
@@ -217408,6 +217572,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/126578-aula-f75-pro-wireless-mechanical-keyboard-thunder-black-1.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-pro-wireless-mechanical-keyboard75-gasket-hot-swappable-custom-keyboard-thunder-black-crescent-axis-switch",
           "history": [
+            1550000,
             1550000,
             1550000,
             1550000
@@ -218538,7 +218703,7 @@
           "category": "mouse",
           "price": 349900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Swipe-Signature-Performance-Gaming-Mouse-Pad-Red.jpg",
           "url": "https://zahcomputers.pk/product/swipe-signature-performance-gaming-mouse-pad-large-red",
@@ -221006,9 +221171,9 @@
           "name": "Thermalright Assassin X 120 Refined SE ARGB CPU Air Cooler White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 580000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 599900,
+          "oldPrice": 580000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Thermalright-Assassin-X-120-White.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-x-120-refined-se-argb-cpu-air-cooler-white",
@@ -221024,7 +221189,7 @@
             580000,
             580000,
             580000,
-            580000
+            599900
           ]
         },
         {
@@ -221058,8 +221223,8 @@
           "name": "Thermalright TL-C12C-S X3 CPU Fan 120mm Black ARGB Case Cooler Fan",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 449900,
-          "oldPrice": null,
+          "price": 399900,
+          "oldPrice": 449900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Thermalright-TL-C12C-X3-CPU-Fan-120mm-Case-Cooler-Fan.jpg",
@@ -221076,7 +221241,7 @@
             449900,
             449900,
             449900,
-            449900
+            399900
           ]
         },
         {
@@ -224100,9 +224265,9 @@
           "name": "Thermalright AM5 Secure Frame Kit &#8211; Black",
           "brand": "Thermalright",
           "category": "ram",
-          "price": 149900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 179900,
+          "oldPrice": 149900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-AM5-Secure-Frame-Kit-Black-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-am5-secure-frame-kit-black",
@@ -224118,7 +224283,7 @@
             149900,
             149900,
             149900,
-            149900
+            179900
           ]
         },
         {
@@ -224356,29 +224521,18 @@
           ]
         },
         {
-          "id": "zah_bcff4669",
-          "name": "Thermalright Assassin X 120 Refined SE ARGB CPU Air Cooler AM4",
+          "id": "zah_d96d66ff",
+          "name": "Thermalright Assassin X 120 Refined SE ARGB CPU Air Cooler Black",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 480000,
+          "price": 549900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-X-120-Refined-SE-ARGB-CPU-Air-Cooler.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-x-120-refined-se-argb-cpu-air-cooler",
           "history": [
-            480000,
-            480000,
-            480000,
-            480000,
-            480000,
-            480000,
-            480000,
-            480000,
-            480000,
-            480000,
-            480000,
-            480000
+            549900
           ]
         },
         {
@@ -224386,9 +224540,9 @@
           "name": "Thermalright Assassin King 120 SE White ARGB CPU Air Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 600000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 699900,
+          "oldPrice": 600000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-King-120-SE-ARGB-White-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-king-120-se-white-argb-cpu-air-cooler",
@@ -224404,7 +224558,7 @@
             600000,
             600000,
             600000,
-            600000
+            699900
           ]
         },
         {
@@ -224412,9 +224566,9 @@
           "name": "Thermalright Assassin King 120 SE ARGB CPU Air Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 600000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 749900,
+          "oldPrice": 600000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-King-120-SE-ARGB-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-king-120-se-argb-cpu-air-cooler",
@@ -224430,7 +224584,7 @@
             600000,
             600000,
             600000,
-            600000
+            749900
           ]
         },
         {
@@ -224464,9 +224618,9 @@
           "name": "Thermalright Assassin Spirit 120 EVO White ARGB CPU Air Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 499900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 799900,
+          "oldPrice": 499900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-Spirit-120-EVO-White-ARGB-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-spirit-120-evo-white-argb-cpu-air-cooler",
@@ -224482,7 +224636,7 @@
             499900,
             499900,
             499900,
-            499900
+            799900
           ]
         },
         {
@@ -224490,9 +224644,9 @@
           "name": "Thermalright Assassin Spirit 120 EVO Black ARGB CPU Air Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 499900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 749900,
+          "oldPrice": 499900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-Spirit-120-EVO-Black-ARGB-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-spirit-120-evo-black-argb-cpu-air-cooler",
@@ -224508,7 +224662,7 @@
             499900,
             499900,
             499900,
-            499900
+            749900
           ]
         },
         {
@@ -224802,8 +224956,8 @@
           "name": "Thermalright Frozen Infinity 360 BLACK AIO Liquid CPU Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1880000,
-          "oldPrice": null,
+          "price": 1949900,
+          "oldPrice": 1880000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117724-1-600x600.jpg",
@@ -224820,7 +224974,7 @@
             1880000,
             1880000,
             1880000,
-            1880000
+            1949900
           ]
         },
         {
@@ -224828,8 +224982,8 @@
           "name": "Thermalright Frozen Infinity 360 WHITE AIO Liquid CPU Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1950000,
-          "oldPrice": null,
+          "price": 1999900,
+          "oldPrice": 1950000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117721-1-1-600x600.jpg",
@@ -224846,7 +225000,7 @@
             1950000,
             1950000,
             1950000,
-            1950000
+            1999900
           ]
         },
         {
@@ -224854,8 +225008,8 @@
           "name": "Thermalright Frozen Infinity 240 WHITE AIO Liquid CPU Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1549900,
-          "oldPrice": null,
+          "price": 1400000,
+          "oldPrice": 1549900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117701-1-3-600x600.jpg",
@@ -224872,7 +225026,7 @@
             1549900,
             1549900,
             1549900,
-            1549900
+            1400000
           ]
         },
         {
@@ -224880,8 +225034,8 @@
           "name": "Thermalright Frozen Infinity 240 BLACK AIO Liquid CPU Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1495000,
-          "oldPrice": null,
+          "price": 1449900,
+          "oldPrice": 1495000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117699-1-2-600x600.jpg",
@@ -224898,7 +225052,7 @@
             1495000,
             1495000,
             1495000,
-            1495000
+            1449900
           ]
         },
         {
@@ -224906,8 +225060,8 @@
           "name": "Thermalright Elite Vision LED 360 WHITE ARGB AIO Liquid CPU Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 3699900,
-          "oldPrice": null,
+          "price": 4099900,
+          "oldPrice": 3699900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117686-1-14-600x600.jpg",
@@ -224924,7 +225078,7 @@
             3699900,
             3699900,
             3699900,
-            3699900
+            4099900
           ]
         },
         {
@@ -224932,8 +225086,8 @@
           "name": "Thermalright Elite Vision LED 360 BLACK ARGB AIO Liquid CPU Cooler",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 3599900,
-          "oldPrice": null,
+          "price": 3999900,
+          "oldPrice": 3599900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117674-1-13-600x600.jpg",
@@ -224950,7 +225104,7 @@
             3599900,
             3599900,
             3599900,
-            3599900
+            3999900
           ]
         },
         {
@@ -226558,7 +226712,7 @@
             2250000,
             2250000,
             2250000,
-            2250000,
+            2600000,
             2600000,
             2600000,
             2600000,
@@ -227638,7 +227792,7 @@
           "category": "cooler",
           "price": 300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/112809-gamemax-gamma-200-cpu-cooler-rainbow-argb-1.webp",
           "url": "https://zahcomputers.pk/product/gamemax-gamma-200-cpu-cooler-rainbow-argb",
@@ -230870,7 +231024,7 @@
             1550000,
             1550000,
             1550000,
-            1550000,
+            1800000,
             1800000,
             1800000,
             1800000,
@@ -256454,7 +256608,7 @@
             1650000,
             1650000,
             1650000,
-            1650000,
+            1800000,
             1800000,
             1800000,
             1800000,
@@ -259704,7 +259858,7 @@
             8599900,
             8599900,
             8599900,
-            8599900,
+            9100000,
             9100000,
             9100000,
             9100000,
@@ -259756,7 +259910,7 @@
             6550000,
             6550000,
             6550000,
-            6550000,
+            6590000,
             6590000,
             6590000,
             6590000,
@@ -266207,7 +266361,7 @@
             350000,
             350000,
             350000,
-            350000,
+            400000,
             400000,
             400000,
             400000,
@@ -266282,7 +266436,7 @@
             140000,
             140000,
             140000,
-            140000,
+            199900,
             199900,
             199900,
             199900,
@@ -274132,6 +274286,7 @@
           "history": [
             109999,
             109999,
+            109999,
             109999
           ]
         },
@@ -274147,6 +274302,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16s-ai-phn16-71-91aw-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5060-16-qhd-240hz-oled-display-obsidian-black-new",
           "history": [
+            524999,
             524999,
             524999,
             524999,
@@ -274170,6 +274326,7 @@
             97999,
             97999,
             97999,
+            97999,
             97999
           ]
         },
@@ -274185,6 +274342,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_intel_i5_14400.jpeg",
           "url": "https://rbtechngames.com/product/intel-core-i5-14400-desktop-processor-tray",
           "history": [
+            54999,
             54999,
             54999,
             54999,
@@ -274208,6 +274366,7 @@
             42999,
             42999,
             42999,
+            42999,
             42999
           ]
         },
@@ -274223,6 +274382,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_lexar_nq100.png",
           "url": "https://rbtechngames.com/product/lexar-nq100-2-5-sata-ssd-256gb-512gb-1tb-2tb",
           "history": [
+            22999,
             22999,
             22999,
             22999,
@@ -276421,7 +276581,7 @@
           "brand": "AMD",
           "category": "gpu",
           "price": 234999,
-          "oldPrice": 229999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_dell_g15_5525_phantom_grey.jpg",
@@ -276437,7 +276597,7 @@
             229999,
             229999,
             229999,
-            229999,
+            234999,
             234999
           ]
         },
@@ -279839,6 +279999,7 @@
             26499,
             26499,
             26499,
+            26499,
             26499
           ]
         },
@@ -281342,6 +281503,7 @@
             19999,
             19999,
             19999,
+            19999,
             19999
           ]
         },
@@ -282761,6 +282923,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/01/i5_12400.jpg",
           "url": "https://rbtechngames.com/product/intel-core-i5-12400-tray-processor-lga-1700-only-chip",
           "history": [
+            47999,
             47999,
             47999,
             47999,
