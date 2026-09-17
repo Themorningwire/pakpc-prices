@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T11:03:05.054355+00:00",
+  "lastUpdated": "2026-09-17T16:19:38.103723+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,36 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_19189d6b",
+          "name": "AULA F99 Pro Wireless Mechanical Keyboard - White - Cotton Candy Switches",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 15390,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f99-pro-96-white-cotton-candy-price-in-pakistan-pakbyte.webp?v=1789644987",
+          "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-mechanical-keyboard-white-cotton-candy-switches",
+          "history": [
+            15390
+          ]
+        },
+        {
+          "id": "pakbyte_b45fc646",
+          "name": "Aula Nova75 Mechanical Gaming Keyboard - Black Translucent - Phantom Cherry Switch",
+          "brand": "Aula",
+          "category": "keyboard",
+          "price": 15990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-nova75-price-in-pakistan-pakbyte_2_5bc291ea-e462-4d92-beca-02d9d80c573d.webp?v=1789644068",
+          "url": "https://www.pakbyte.pk/products/aula-nova75-mechanical-gaming-keyboard-black-translucent-phantom-cherry-switch",
+          "history": [
+            15990
+          ]
+        },
         {
           "id": "pakbyte_81da6343",
           "name": "AULA S75 Pro Wireless Mechanical Keyboard w/ Screen - Gradient Gray - Star Vector Switch",
@@ -20,6 +50,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-S75-PRO-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1789640791",
           "url": "https://www.pakbyte.pk/products/aula-s75-pro-wireless-mechanical-keyboard-w-screen-gradient-gray-star-vector-switch",
           "history": [
+            14390,
             14390
           ]
         },
@@ -35,6 +66,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-black-contour-price-in-pakistan-pakbyte_1_eb48a80f-c57a-46b9-8ac7-a02cdb256557.webp?v=1789639673",
           "url": "https://www.pakbyte.pk/products/aula-f75-max-wireless-mechanical-keyboard-black-leobog-reaper-switch",
           "history": [
+            14490,
             14490
           ]
         },
@@ -50,6 +82,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-white-contour-price-in-pakistan-Pakbyte.webp?v=1789629072",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-mechanical-keyboard-white-contour-star-vector-switches",
           "history": [
+            12490,
             12490
           ]
         },
@@ -65,6 +98,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-gradient-purple-price-in-pakistan-pakbyte_1.webp?v=1789628753",
           "url": "https://www.pakbyte.pk/products/aula-f75-mechanical-keyboard-gaming-gradient-purple-star-vector-switches",
           "history": [
+            11890,
             11890
           ]
         },
@@ -80,6 +114,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-X9-Max-Price-In-Pakistan-Pakbyte.webp?v=1789627011",
           "url": "https://www.pakbyte.pk/products/aula-x9-max-wireless-gaming-mouse-white",
           "history": [
+            11890,
             11890
           ]
         },
@@ -95,6 +130,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-X9-Max-Price-In-Pakistan-Pakbyte_1.webp?v=1789626723",
           "url": "https://www.pakbyte.pk/products/aula-x9-max-wireless-gaming-mouse-black",
           "history": [
+            11890,
             11890
           ]
         },
@@ -110,6 +146,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-SC590PRO-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1789626379",
           "url": "https://www.pakbyte.pk/products/aula-sc590-pro-high-performance-wireless-gaming-mouse-with-smart-display-1",
           "history": [
+            5890,
             5890
           ]
         },
@@ -125,6 +162,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-SC590PRO-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1789625171",
           "url": "https://www.pakbyte.pk/products/aula-sc590-pro-high-performance-wireless-gaming-mouse-with-smart-display",
           "history": [
+            5890,
             5890
           ]
         },
@@ -140,6 +178,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/X-raypad-Jade-dots-mouse-skates-price-in-pakistan-pakbyte.jpg?v=1789624338",
           "url": "https://www.pakbyte.pk/products/x-raypad-jade-speed-diy-mouse-skates-universal-d6-5mm-ptfe-dots",
           "history": [
+            2390,
             2390
           ]
         },
@@ -155,6 +194,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/x-raypad-jade-air-price-in-pakistan-pakbyte_1.webp?v=1789623606",
           "url": "https://www.pakbyte.pk/products/x-raypad-jade-air-diy-mouse-skates-d6-5mm-universal-dots-quiet-and-speed",
           "history": [
+            2590,
             2590
           ]
         },
@@ -170,6 +210,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/X-Raypad-Obsidian-Pro-Air-Speed-Mouse-Skates-Price-in-Pakistan-Pakbyte_1.jpg?v=1789581086",
           "url": "https://www.pakbyte.pk/products/x-raypad-obsidian-pro-air-speed-mouse-skates",
           "history": [
+            2990,
             2990,
             2990
           ]
@@ -187,6 +228,7 @@
           "url": "https://www.pakbyte.pk/products/x-raypad-obsidian-air-diy-mouse-skates-universal-d6-5mm-dots-quiet-control",
           "history": [
             2590,
+            2590,
             2590
           ]
         },
@@ -202,6 +244,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-S35-Gaming-Mouse-White-Price-in-Pakistan-Pakbyte.webp?v=1789578756",
           "url": "https://www.pakbyte.pk/products/aula-s35-gaming-mouse-white",
           "history": [
+            2490,
             2490,
             2490
           ]
@@ -219,6 +262,7 @@
           "url": "https://www.pakbyte.pk/products/aula-s35-gaming-mouse-black",
           "history": [
             2490,
+            2490,
             2490
           ]
         },
@@ -234,6 +278,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-b760m-k-ddr4-v2-price-in-pakistan-pakbyte_1.webp?v=1789403593",
           "url": "https://www.pakbyte.pk/products/gigabyte-b760m-k-ddr4-motherboard",
           "history": [
+            29490,
             29490,
             29490,
             29490,
@@ -2046,8 +2091,8 @@
           "name": "Aula Nova75 Mechanical Gaming Keyboard - White/Grey",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 18890,
-          "oldPrice": null,
+          "price": 14990,
+          "oldPrice": 18890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-nova75-price-in-pakistan-pakbyte_1_51b5bd64-8cfd-41ad-8252-9dcfa9e64d13.webp?v=1785481285",
@@ -2064,7 +2109,7 @@
             18890,
             18890,
             18890,
-            18890
+            14990
           ]
         },
         {
@@ -2160,6 +2205,7 @@
             940,
             940,
             940,
+            940,
             940
           ]
         },
@@ -2175,6 +2221,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-upa21-2in1-3-5mm-audio-cable-male-to-2xfemale-price-in-pakistan-pakbyte_2.webp?v=1784916608",
           "url": "https://www.pakbyte.pk/products/hoco-upa21-2-in-1-3-5mm-headset-audio-adapter-cable-male-to-2x-female",
           "history": [
+            940,
             940,
             940,
             940,
@@ -2200,7 +2247,7 @@
             3490,
             3490,
             3490,
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2304,7 +2351,7 @@
             2290,
             2290,
             2290,
-            2290,
+            2390,
             2390,
             2390,
             2390,
@@ -2330,7 +2377,7 @@
             2290,
             2290,
             2290,
-            2290,
+            2390,
             2390,
             2390,
             2390,
@@ -2408,7 +2455,7 @@
             3990,
             3990,
             3990,
-            3990,
+            4690,
             4690,
             4690,
             4690,
@@ -2434,7 +2481,7 @@
             3990,
             3990,
             3990,
-            3990,
+            4690,
             4690,
             4690,
             4690,
@@ -2460,7 +2507,7 @@
             3490,
             3490,
             3490,
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2486,7 +2533,7 @@
             3490,
             3490,
             3490,
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2512,7 +2559,7 @@
             3390,
             3390,
             3390,
-            3390,
+            3990,
             3990,
             3990,
             3990,
@@ -2535,10 +2582,10 @@
             3390,
             3390,
             3390,
-            3390,
             3999,
             3999,
             3999,
+            3990,
             3990,
             3990,
             3990,
@@ -2564,7 +2611,7 @@
             3390,
             3390,
             3390,
-            3390,
+            3990,
             3990,
             3990,
             3990,
@@ -2590,7 +2637,7 @@
             2990,
             2990,
             2990,
-            2990,
+            3490,
             3490,
             3490,
             3490,
@@ -2635,6 +2682,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-m101-pro-price-in-pakistan-pakbyte.webp?v=1784793732",
           "url": "https://www.pakbyte.pk/products/hoco-m101-pro-crystal-sound-wire-controlled-digital-earphones-with-microphone",
           "history": [
+            1140,
             1140,
             1140,
             1140,
@@ -2686,7 +2734,7 @@
             2390,
             2390,
             2390,
-            2390,
+            2640,
             2640,
             2640,
             2640,
@@ -2712,7 +2760,7 @@
             3290,
             3290,
             3290,
-            3290,
+            4040,
             4040,
             4040,
             4040,
@@ -2941,6 +2989,7 @@
           "history": [
             26499,
             26499,
+            26499,
             26499
           ]
         },
@@ -2963,8 +3012,8 @@
             24990,
             24990,
             24990,
-            24990,
             26499,
+            25990,
             25990,
             25990,
             25990
@@ -3476,7 +3525,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-x870e-aorus-pro-x3d-ice-am5-amd-x870e-atx-motherboard-price-in-pakistan-pakbyte_1.webp?v=1784712098",
           "url": "https://www.pakbyte.pk/products/gigabyte-x870e-aorus-pro-x3d-ice-am5-ddr5-motherboard",
           "history": [
-            129990,
+            104990,
             104990,
             104990,
             104990,
@@ -3502,7 +3551,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-a620m-h-rev-1-0-am5-ddr5-motherboard-price-in-pakistan-pakbyte_1.webp?v=1784711295",
           "url": "https://www.pakbyte.pk/products/gigabyte-a620m-h-am5-ddr5-motherboard",
           "history": [
-            28990,
+            29490,
             29490,
             29490,
             29490,
@@ -11303,6 +11352,7 @@
           "url": "https://www.pakbyte.pk/products/aula-mini60-he-hall-effect-gaming-keyboard-black-leobog-stormrise-wind-cloud-magnetic-switch",
           "history": [
             8890,
+            8890,
             8890
           ]
         },
@@ -11493,8 +11543,8 @@
           "name": "Aula F99 PRO Wireless Gaming Keyboard - White/Black/Green",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 17990,
-          "oldPrice": null,
+          "price": 15290,
+          "oldPrice": 17990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F99-Pro-Price-in-Pakistan-Pakbyte_1.jpg?v=1778410871",
@@ -11511,7 +11561,7 @@
             17990,
             17990,
             17990,
-            17990
+            15290
           ]
         },
         {
@@ -11598,7 +11648,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 14390,
-          "oldPrice": 16990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s75-pro-white-blue-price-in-pakistan-pakbyte_1.webp?v=1778407797",
@@ -11614,7 +11664,7 @@
             16990,
             16990,
             16990,
-            16990,
+            14390,
             14390
           ]
         },
@@ -11728,7 +11778,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 12990,
-          "oldPrice": 15490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-Glacier-Blue-Ice-vein-switch-price-in-pakistan-pakbyte.webp?v=1778311285",
@@ -11744,7 +11794,7 @@
             15490,
             15490,
             15490,
-            15490,
+            12990,
             12990
           ]
         },
@@ -11754,7 +11804,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 9490,
-          "oldPrice": 9990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s98-white-price-in-pakistan-pakbyte_1.webp?v=1778306644",
@@ -11770,7 +11820,7 @@
             9990,
             9990,
             9990,
-            9990,
+            9490,
             9490
           ]
         },
@@ -11780,7 +11830,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 8990,
-          "oldPrice": 9490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s100-pro-price-in-pakistan-pakbyte_1.webp?v=1778306282",
@@ -11796,7 +11846,7 @@
             9490,
             9490,
             9490,
-            9490,
+            8990,
             8990
           ]
         },
@@ -20236,6 +20286,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/epomaker-aula-f75-gaming-keyboard-black-price-in-pakistan-pakbyte_2.jpg?v=1755315243",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-gaming-keyboard-black-reaper-switches",
           "history": [
+            11890,
             11890
           ]
         },
@@ -26027,7 +26078,7 @@
             1090,
             1090,
             1090,
-            1090,
+            1399,
             1399,
             1399,
             1399,
@@ -27427,7 +27478,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-gaming-rtx-5050-8g-shadow-2x-oc-graphics-card-price-in-pakistan-pakbyte_4.webp?v=1768132960",
           "url": "https://www.pakbyte.pk/products/msi-geforce-rtx-5050-8g-shadow-2x-oc-graphics-card",
           "history": [
-            107990,
+            117999,
             117999,
             117999,
             117999,
@@ -31190,9 +31241,9 @@
           "name": "Aula F99 PRO Wireless Gaming Hot Swappable Creamy Keyboard - Thunder Black",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 18490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 15290,
+          "oldPrice": 18490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f99-pro-wireless-keyboard-thunder-black-price-in-pakistan-pakbyte-4.webp?v=1770725457",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-gaming-hot-swappable-creamy-keyboard-thunder-black",
@@ -31208,7 +31259,7 @@
             18490,
             18490,
             18490,
-            18490
+            15290
           ]
         },
         {
@@ -31316,29 +31367,18 @@
           ]
         },
         {
-          "id": "pakbyte_1acb0f78",
-          "name": "AULA F87 Pro Wireless Mechanical 80% Gasket Hot Swappable Custom Keyboard – White Green",
+          "id": "pakbyte_a36dfc1d",
+          "name": "AULA F87 Pro Wireless Mechanical Keyboard – White/Green - Gray wood switch V4",
           "brand": "AULA",
           "category": "keyboard",
-          "price": 15490,
+          "price": 12290,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f87-pro-wireless-mechanical-keyboard-price-in-pakistan-pakbyte.webp?v=1766300595",
           "url": "https://www.pakbyte.pk/products/aula-f87-pro-wireless-mechanical-80-gasket-hot-swappable-custom-keyboard-white-green",
           "history": [
-            15490,
-            15490,
-            15490,
-            15490,
-            15490,
-            15490,
-            15490,
-            15490,
-            15490,
-            15490,
-            15490,
-            15490
+            12290
           ]
         },
         {
@@ -31379,6 +31419,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-Max-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_6.webp?v=1766299277",
           "url": "https://www.pakbyte.pk/products/aula-f75-max-wireless-mechanical-keyboard-with-tft-screen-and-knob-gradient-gray",
           "history": [
+            14490,
             14490
           ]
         },
@@ -31388,7 +31429,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 12790,
-          "oldPrice": 15690,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-comic-price-in-pakistan-pakbyte_1.webp?v=1766298615",
@@ -31404,7 +31445,7 @@
             15690,
             15690,
             15690,
-            15690,
+            12790,
             12790
           ]
         },
@@ -31414,7 +31455,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 12990,
-          "oldPrice": 16490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-black-contour-price-in-pakistan-pakbyte_2.webp?v=1766298248",
@@ -31430,7 +31471,7 @@
             16490,
             16490,
             16490,
-            16490,
+            12990,
             12990
           ]
         },
@@ -31518,7 +31559,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 12990,
-          "oldPrice": 15890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-gradient-gray-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1766254202",
@@ -31534,7 +31575,7 @@
             15890,
             15890,
             15890,
-            15890,
+            12990,
             12990
           ]
         },
@@ -31602,6 +31643,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f3061-membrane-gaming-keyboard-mouse-combo-wh-price-in-pakistan-pakbyte.webp?v=1766252910",
           "url": "https://www.pakbyte.pk/products/aula-f3061-membrane-gaming-keyboard-mouse-combo-white",
           "history": [
+            3290,
             3290,
             3290
           ]
@@ -51404,6 +51446,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/epomaker-x-aula-f75-blue-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1755315519",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-gaming-keyboard-light-blue-leobog-reaper-switch",
           "history": [
+            12490,
             12490
           ]
         },
@@ -51413,7 +51456,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 13490,
-          "oldPrice": 15499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/epomaker-aula-f75-gaming-keyboard-black-price-in-pakistan-pakbyte_2.jpg?v=1755315243",
@@ -51429,7 +51472,7 @@
             15499,
             15499,
             15499,
-            15499,
+            13490,
             13490
           ]
         },
@@ -51689,6 +51732,7 @@
             30490,
             30490,
             30490,
+            30490,
             30490
           ]
         },
@@ -51886,7 +51930,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTEMBINTELZ890EAGLE_1.webp?v=1755274951",
           "url": "https://www.pakbyte.pk/products/gigabyte-z890-eagle-wifi7-intel-core-ultra-atx-ddr5-lga-1851-motherboard",
           "history": [
-            78990,
+            83990,
             83990,
             83990,
             83990,
@@ -51912,7 +51956,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-x870-eagle-wifi7-motherboard-price-in-pakistan_1.jpg?v=1755274280",
           "url": "https://www.pakbyte.pk/products/gigabyte-x870-eagle-wifi7-amd-am5-atx-ddr5-lga-1718-motherboard",
           "history": [
-            77990,
+            78990,
             78990,
             78990,
             78990,
@@ -53186,7 +53230,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/W-Red-Plus-4TBNAS-Internal-HardDrive-3.5-SATA_1.jpg?v=1754992709",
           "url": "https://www.pakbyte.pk/products/wd-red-plus-4tb-nas-internal-hard-drive-3-5-sata",
           "history": [
-            50999,
+            72499,
             72499,
             72499,
             72499,
@@ -60552,7 +60596,7 @@
             182000,
             182000,
             182000,
-            182000,
+            239999,
             239999,
             239999,
             239999
@@ -76902,7 +76946,7 @@
             5790,
             5790,
             5790,
-            5790,
+            5999,
             5999,
             5999,
             5999,
@@ -106252,7 +106296,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-B650M-D3HP-DDR5-AMD-AM5-micro-ATX-Motherboard-PakByte-Computers-24397773930563.webp?v=1753679539",
           "url": "https://www.pakbyte.pk/products/gigabyte-b650m-d3hp-ddr5-amd-am5-micro-atx-motherboard",
           "history": [
-            40990,
+            39990,
             39990,
             39990,
             39990,
@@ -146591,6 +146635,111 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_44f7f54d",
+          "name": "XPG PYLON II 650W 80 PLUS Bronze ATX 3.1 Non-Modular Power Supply | 12V-2&#215;6 | FDB Fan",
+          "brand": "XPG",
+          "category": "cooler",
+          "price": 1600000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/XPG-PYLON-II-650W-80-PLUS-Bronze-ATX-3.1-Non-Modular-Power-Supply.jpg",
+          "url": "https://zahcomputers.pk/product/xpg-pylon-ii-650w-80-plus-bronze-atx-3-1-non-modular-power-supply",
+          "history": [
+            1600000
+          ]
+        },
+        {
+          "id": "zah_1a2b39ae",
+          "name": "AULA SC380Pro Wireless Gaming Mouse Black | PixArt PAW3311 | 12,000 DPI | 1000Hz | Tri-Mod",
+          "brand": "AULA",
+          "category": "mouse",
+          "price": 590000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-SC380Pro-Wireless-Gaming-Mouse-Black.webp",
+          "url": "https://zahcomputers.pk/product/aula-sc380pro-wireless-gaming-mouse-black",
+          "history": [
+            590000
+          ]
+        },
+        {
+          "id": "zah_286fbac6",
+          "name": "AULA SC380Pro Wireless Gaming Mouse White | PixArt PAW3311 | 12,000 DPI | 1000Hz | Tri-Mod",
+          "brand": "AULA",
+          "category": "mouse",
+          "price": 590000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-SC380Pro-Wireless-Gaming-Mouse-White.webp",
+          "url": "https://zahcomputers.pk/product/aula-sc380pro-wireless-gaming-mouse-white",
+          "history": [
+            590000
+          ]
+        },
+        {
+          "id": "zah_e0d2f104",
+          "name": "Thermalright Hub X10 IR ARGB and Fan Controller Black – 10-Port All-in-One PWM Fan &amp; A",
+          "brand": "Thermalright",
+          "category": "cooler",
+          "price": 349900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Thermalright-Hub-X10-IR-ARGB-and-Fan-Controller-Black-–-10-Port-All-in-One-PWM-Fan-amp-Addressable-RGB-Lighting-Hub-with-Remote-ControlPrice-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/thermalright-hub-x10-ir-argb-and-fan-controller-black",
+          "history": [
+            349900
+          ]
+        },
+        {
+          "id": "zah_66d51df6",
+          "name": "GIGABYTE WINDFORCE GeForce RTX 5060 Ti 16GB GDDR7 PCI Express 5.0 ATX Graphics Card",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 25500000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/GIGABYTE-WINDFORCE-GeForce-RTX-5060-Ti-Pricein-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/gigabyte-windforce-geforce-rtx-5060-ti-16gb-gddr7-pci-express-5-0-atx-graphics-card",
+          "history": [
+            25500000
+          ]
+        },
+        {
+          "id": "zah_048a8ddc",
+          "name": "AULA F2088 Air Mechanical Gaming Keyboard 98-Key | Tri-Mode | Hot-Swappable | RGB White &#",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 750000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F2088-Air-Mechanical-Gaming-Keyboard-98-Key-White-Red-Switch.jpg",
+          "url": "https://zahcomputers.pk/product/aula-f2088-air-mechanical-gaming-keyboard-98-key-tri-mode-hot-swappable-rgb-white-red-switch",
+          "history": [
+            750000
+          ]
+        },
+        {
+          "id": "zah_3dac8476",
+          "name": "AULA F2088 Air Mechanical Gaming Keyboard 98-Key | Tri-Mode | Hot-Swappable | RGB Gradient",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 750000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F2088-Air-Mechanical-Gaming-Keyboard-98-Key.webp",
+          "url": "https://zahcomputers.pk/product/aula-f2088-air-mechanical-gaming-keyboard",
+          "history": [
+            750000
+          ]
+        },
+        {
           "id": "zah_f3ccbd16",
           "name": "Thermalright TL-M12W-S ARGB 120mm Case Fan White",
           "brand": "Thermalright",
@@ -146602,6 +146751,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Thermalright-TL-M12W-S-ARGB-120mm-Case-Fan-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m12w-s-argb-120mm-case-fan-white",
           "history": [
+            135000,
             135000,
             135000,
             135000,
@@ -146623,6 +146773,7 @@
             349900,
             349900,
             349900,
+            349900,
             349900
           ]
         },
@@ -146632,7 +146783,7 @@
           "brand": "Intel",
           "category": "ram",
           "price": 40499900,
-          "oldPrice": 4049900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/HP-OmniBook-Ultra-Flip-14T-FH000-2-in-1-Laptop.jpg",
@@ -146641,6 +146792,7 @@
             4049900,
             4049900,
             4049900,
+            40499900,
             40499900
           ]
         },
@@ -146656,6 +146808,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-F75-RGB-Wireless-Mechanical-Gaming-Keyboard-White.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-rgb-wireless-mechanical-gaming-keyboard-retro-white-milk-white-switch",
           "history": [
+            1280000,
             1280000,
             1280000,
             1280000,
@@ -146677,6 +146830,7 @@
             1280000,
             1280000,
             1280000,
+            1280000,
             1280000
           ]
         },
@@ -146692,6 +146846,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-HERO-68-HE-Wired-Hall-Effect-Gaming-Keyboard.webp",
           "url": "https://zahcomputers.pk/product/aula-hero-68-he-wired-hall-effect-gaming-keyboard-white",
           "history": [
+            1230000,
             1230000,
             1230000,
             1230000,
@@ -146713,6 +146868,7 @@
             1180000,
             1180000,
             1180000,
+            1180000,
             1180000
           ]
         },
@@ -146731,6 +146887,7 @@
             1080000,
             1080000,
             1080000,
+            1080000,
             1080000
           ]
         },
@@ -146746,6 +146903,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-WIN60-HE-Pro-Wired-Hall-Effect-Gaming-Keyboard.webp",
           "url": "https://zahcomputers.pk/product/aula-win60-he-pro-wired-hall-effect-gaming-keyboard-dark-grey",
           "history": [
+            890000,
             890000,
             890000,
             890000,
@@ -146769,6 +146927,7 @@
             930000,
             930000,
             930000,
+            930000,
             930000
           ]
         },
@@ -146784,6 +146943,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-MINI60-HE-Wireless-Hall-Effect-Gaming-Keyboard-Black.webp",
           "url": "https://zahcomputers.pk/product/aula-mini60-he-wireless-hall-effect-gaming-keyboard",
           "history": [
+            1050000,
             1050000,
             1050000,
             1050000,
@@ -146807,6 +146967,7 @@
             2580000,
             2580000,
             2580000,
+            2580000,
             2580000
           ]
         },
@@ -146822,6 +146983,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F87-75-Wireless-Mechanical-Gaming-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f87-75-wireless-mechanical-gaming-keyboard",
           "history": [
+            1280000,
             1280000,
             1280000,
             1280000,
@@ -146845,6 +147007,7 @@
             1350000,
             1350000,
             1350000,
+            1350000,
             1350000
           ]
         },
@@ -146864,6 +147027,7 @@
             1280000,
             1280000,
             1280000,
+            1280000,
             1280000
           ]
         },
@@ -146879,6 +147043,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-HERO-84-HE-Wired-Mechanical-Keyboard-White-Purple.jpg",
           "url": "https://zahcomputers.pk/product/aula-hero-84-he-wired-mechanical-keyboard-white-purple-black-emperor-hall-effect-switches",
           "history": [
+            1400000,
             1400000,
             1400000,
             1400000,
@@ -146906,6 +147071,7 @@
             11200000,
             11200000,
             11200000,
+            11200000,
             11200000
           ]
         },
@@ -146921,6 +147087,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F99-Pro-Wireless-Mechanical-Keyboard-96-Gasket-Hot-Swappable-Custom-Keyboard-White-–-Cotton-Candy-Switch-Price-in-Pakistan-02.jpg",
           "url": "https://zahcomputers.pk/product/aula-f99-pro-wireless-mechanical-keyboard-96-gasket-hot-swappable-custom-keyboard-white-cotton-candy-switch",
           "history": [
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -150196,7 +150363,7 @@
           "history": [
             41000000,
             41000000,
-            41000000,
+            44000000,
             44000000,
             44000000,
             44000000,
@@ -152061,7 +152228,7 @@
           "category": "ram",
           "price": 3199900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Thermalright-TR-A70-Vision-ATX-Desktop-Gaming-Case-Including-9.16-LCD-Black-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tr-a70-atx-desktop-gaming-case-including-panoramic-light-strip-5x-argb-fans-black",
@@ -152073,7 +152240,7 @@
             3000000,
             3000000,
             3000000,
-            3000000,
+            3199900,
             3199900,
             3199900,
             3199900,
@@ -152099,7 +152266,7 @@
             3100000,
             3100000,
             3100000,
-            3100000,
+            3299900,
             3299900,
             3299900,
             3299900,
@@ -152125,7 +152292,7 @@
             2000000,
             2000000,
             2000000,
-            2000000,
+            2399900,
             2399900,
             2399900,
             2399900,
@@ -152151,7 +152318,7 @@
             2100000,
             2100000,
             2100000,
-            2100000,
+            2449900,
             2449900,
             2449900,
             2449900,
@@ -152593,7 +152760,7 @@
             850000,
             850000,
             850000,
-            850000,
+            890000,
             890000,
             890000,
             890000,
@@ -152667,7 +152834,7 @@
             1400000,
             1400000,
             1400000,
-            1400000,
+            1580000,
             1580000,
             1580000,
             1580000,
@@ -153605,6 +153772,7 @@
             1850000,
             1850000,
             1850000,
+            1850000,
             1850000
           ]
         },
@@ -153729,7 +153897,7 @@
             950000,
             950000,
             950000,
-            950000,
+            1030000,
             1030000,
             1030000,
             1030000,
@@ -153859,7 +154027,7 @@
             1350000,
             1350000,
             1350000,
-            1350000,
+            1420000,
             1420000,
             1420000,
             1420000,
@@ -153991,7 +154159,7 @@
             4499900,
             4499900,
             4499900,
-            4499900,
+            5000000,
             5000000,
             5000000,
             5000000,
@@ -154029,9 +154197,9 @@
           "name": "AULA F815 RGB Wired Gaming Mouse 12800 DPI, 7 Programmable Buttons, 13 RGB Lighting Modes,",
           "brand": "AULA",
           "category": "ram",
-          "price": 200000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 220000,
+          "oldPrice": 200000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-Wind-F815-RGB-Wired-Gaming-Mouse-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/aula-f815-rgb-wired-gaming-mouse-12800-dpi-7-programmable-buttons-13-rgb-lighting-modes-ergonomic-design",
@@ -154047,7 +154215,7 @@
             200000,
             200000,
             200000,
-            200000
+            220000
           ]
         },
         {
@@ -154081,9 +154249,9 @@
           "name": "AULA SC680 58g Ultra-Lightweight Tri-Mode Wireless Gaming Mouse",
           "brand": "AULA",
           "category": "mouse",
-          "price": 850000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 890000,
+          "oldPrice": 850000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-SC680-58g-Ultra-Lightweight-Tri-Mode-Wireless-Gaming-Mouse-Black.avif",
           "url": "https://zahcomputers.pk/product/aula-sc680-58g-ultra-lightweight-tri-mode-wireless-gaming-mouse",
@@ -154099,7 +154267,7 @@
             850000,
             850000,
             850000,
-            850000
+            890000
           ]
         },
         {
@@ -154369,7 +154537,7 @@
           "category": "keyboard",
           "price": 499900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-S2022-Mechanical-Wired-Gaming-Keyboard-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-s2022-mechanical-wired-gaming-keyboard-rainbow-led-backlit-with-num-lock-for-windows-pc-black-red-switchs",
@@ -154847,7 +155015,7 @@
             1500000,
             1500000,
             1500000,
-            1500000,
+            1560000,
             1560000,
             1560000,
             1560000,
@@ -154926,6 +155094,7 @@
             1399900,
             1399900,
             1399900,
+            1399900,
             1399900
           ]
         },
@@ -154945,7 +155114,7 @@
             1499900,
             1499900,
             1499900,
-            1499900,
+            1350000,
             1350000,
             1350000,
             1350000,
@@ -160602,8 +160771,8 @@
           "name": "Hp OmniBook X Flip 14 FM0013DX Lunar Lake Core Ultra 5 226V 8-Cores 16GB DDR5 51GB SSD 14″",
           "brand": "Hp",
           "category": "ram",
-          "price": 25500000,
-          "oldPrice": null,
+          "price": 26500000,
+          "oldPrice": 25500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Hp-OmniBook-X-Flip-14-FM0013DX-Lunar-Lake-Core-Ultra-5-226V-8-Cores-16GB-DDR5-51GB-SSD-14″-2K-Full-HD-IPS-LED-Touch-Screen-Backlit-KB-Windows-11-–-Atmospheric-Blue-Price-in-Pakistan.jpg",
@@ -160620,7 +160789,7 @@
             25500000,
             25500000,
             25500000,
-            25500000
+            26500000
           ]
         },
         {
@@ -161779,6 +161948,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Aula-F87-Mechanical-TKL-Keyboard-LEOBOG-Graywood-V3-Linear-Switch-RGB-Hot-Swap-Macro-Wireless-Type-C-Light-Blue-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f87-mechanical-tkl-keyboard-leobog-graywood-v3-linear-switch-rgb-hot-swap-macro-wireless-type-c-light-blue",
           "history": [
+            1230000,
             1230000,
             1230000,
             1230000,
@@ -164093,7 +164263,7 @@
             1069500,
             1069500,
             1069500,
-            1069500,
+            1149900,
             1149900,
             1149900,
             1149900,
@@ -167916,7 +168086,7 @@
             1800000,
             1800000,
             1800000,
-            1800000,
+            1799900,
             1799900,
             1799900,
             1799900,
@@ -167968,7 +168138,7 @@
             2880000,
             2880000,
             2880000,
-            2880000,
+            2879900,
             2879900,
             2879900,
             2879900,
@@ -168954,6 +169124,7 @@
             1650000,
             1650000,
             1650000,
+            1650000,
             1650000
           ]
         },
@@ -169132,7 +169303,7 @@
             9499900,
             9499900,
             9499900,
-            9499900,
+            8499900,
             8499900,
             8499900,
             8499900,
@@ -169184,7 +169355,7 @@
             3300000,
             3300000,
             3300000,
-            3300000,
+            3599900,
             3599900,
             3599900,
             3599900,
@@ -169210,7 +169381,7 @@
             3300000,
             3300000,
             3300000,
-            3300000,
+            3499900,
             3499900,
             3499900,
             3499900,
@@ -170742,7 +170913,7 @@
             1199900,
             1199900,
             1199900,
-            1199900,
+            1080000,
             1080000,
             1080000,
             1080000,
@@ -181192,7 +181363,7 @@
             44500000,
             44500000,
             44500000,
-            44500000,
+            47500000,
             47500000,
             47500000,
             47500000,
@@ -183139,7 +183310,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/Gigabyte-B860-AORUS-Elite-WIFI7-ICE-Motherboard-Intel-Core-Ultra-Series-CPUs-14121-Phases-VRM-up-to-9200MHz-DDR5-1x-PCIe-5.0-2xPCIe-4.0-M.2-2.5GbE-LAN-WiFi-7-USB-4-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-b860-aorus-elite-wifi7-ice-motherboard-intel-core-ultra-series-cpus-14121-phases-vrm-up-to-9200mhz-ddr5-1x-pcie-5-0-2xpcie-4-0-m-2-2-5gbe-lan-wifi-7-usb-4",
           "history": [
-            7599900,
+            7900000,
             7900000,
             7900000,
             7900000,
@@ -184491,7 +184662,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/10/SNOWMAN-CS015-Pro-Mid-Tower-Gaming-PC-Case-with-Tempered-Glass-Side-Panel-and-Pre-Installed-ARGB-Fans-Black-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/snowman-cs015-pro-mid-tower-gaming-pc-case-with-tempered-glass-side-panel-and-pre-installed-argb-fans-black",
           "history": [
-            2200000,
+            1799900,
             1799900,
             1799900,
             1799900,
@@ -185720,6 +185891,7 @@
             1599900,
             1599900,
             1599900,
+            1599900,
             1599900
           ]
         },
@@ -185735,6 +185907,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/aula-f75-black-contour-price-in-pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-gasket-mechanical-keyboard-black-contour",
           "history": [
+            1350000,
             1350000,
             1350000,
             1350000,
@@ -186725,7 +186898,7 @@
             1750000,
             1750000,
             1750000,
-            1750000,
+            1749900,
             1749900,
             1749900,
             1749900,
@@ -186737,8 +186910,8 @@
           "name": "Thermalright TL-M12QRW-S X3 Reverse CPU Fan Building Blocks 120mm Case Cooler PWM Connecto",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 499900,
-          "oldPrice": null,
+          "price": 449900,
+          "oldPrice": 499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-TL-M12QW-S-X3-Wireless-Splicing-Case-Fan-120mm-White-Price-in-Pakistan.jpg",
@@ -186755,7 +186928,7 @@
             499900,
             499900,
             499900,
-            499900
+            449900
           ]
         },
         {
@@ -186777,7 +186950,7 @@
             499900,
             499900,
             499900,
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -186789,8 +186962,8 @@
           "name": "Thermalright TL-M12QW-S X3 Wireless Splicing Case Fan-120mm Quiet Infinity Mirror ARGB Lig",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 499900,
-          "oldPrice": null,
+          "price": 449900,
+          "oldPrice": 499900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-TL-M12QW-S-X3-Wireless-Splicing-Case-Fan-120mm-White-Price-in-Pakistan.jpg",
@@ -186807,7 +186980,7 @@
             499900,
             499900,
             499900,
-            499900
+            449900
           ]
         },
         {
@@ -186829,7 +187002,7 @@
             499900,
             499900,
             499900,
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187011,7 +187184,7 @@
             8999900,
             8999900,
             8999900,
-            8999900,
+            7999900,
             7999900,
             7999900,
             7999900,
@@ -187037,7 +187210,7 @@
             8199900,
             8199900,
             8199900,
-            8199900,
+            7999900,
             7999900,
             7999900,
             7999900,
@@ -187063,7 +187236,7 @@
             4699900,
             4699900,
             4699900,
-            4699900,
+            4899900,
             4899900,
             4899900,
             4899900,
@@ -187089,7 +187262,7 @@
             4499900,
             4499900,
             4499900,
-            4499900,
+            4799900,
             4799900,
             4799900,
             4799900,
@@ -188089,8 +188262,8 @@
           "name": "WESTERN DIGITAL Green SN3000 500GB Gen 4 5000MB/s NVMe M.2 SSD",
           "brand": "WESTERN",
           "category": "storage",
-          "price": 2500000,
-          "oldPrice": null,
+          "price": 2350000,
+          "oldPrice": 2500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/WD-Green-SN3000-500GB-Gen-4-5000MBs-NVMe-M.2-SSD-Price-in-Pakistan.jpg",
@@ -188107,7 +188280,7 @@
             2500000,
             2500000,
             2500000,
-            2500000
+            2350000
           ]
         },
         {
@@ -190831,7 +191004,7 @@
             750000,
             750000,
             750000,
-            750000,
+            780000,
             780000,
             780000,
             780000,
@@ -192339,7 +192512,7 @@
             1950000,
             1950000,
             1950000,
-            1950000,
+            1850000,
             1850000,
             1850000,
             1850000,
@@ -193455,7 +193628,7 @@
             23500000,
             23500000,
             23500000,
-            23500000,
+            25000000,
             25000000,
             25000000,
             25000000,
@@ -195174,7 +195347,7 @@
             1300000,
             1300000,
             1300000,
-            1300000,
+            1500000,
             1500000,
             1500000,
             1500000,
@@ -196135,7 +196308,7 @@
             1200000,
             1200000,
             1200000,
-            1200000,
+            1180000,
             1180000,
             1180000,
             1180000,
@@ -196936,7 +197109,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/ATK-VXE-Dragonfly-R1-SE-White-Wireless-Lightweight-Gaming-Mouse.jpg",
           "url": "https://zahcomputers.pk/product/atk-vxe-dragonfly-r1-pro-white-wireless-gaming-mouse-lightweight-1-7-oz-48-g-equipped-with-pixart-paw3395-up-to-75-hours-cooling-coating-4k-polling-rate",
           "history": [
-            1350000,
+            1250000,
             1250000,
             1250000,
             1250000,
@@ -196962,7 +197135,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/ATK-VXE-Dragonfly-R1-SE-Black-Wireless-Lightweight-Gaming-Mouse.jpg",
           "url": "https://zahcomputers.pk/product/atk-vxe-dragonfly-r1-pro-black-wireless-gaming-mouse-lightweight-1-7-oz-48-g-equipped-with-pixart-paw3395-up-to-75-hours-cooling-coating-4k-polling-rate",
           "history": [
-            1350000,
+            1250000,
             1250000,
             1250000,
             1250000,
@@ -197040,7 +197213,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/ATK-VXE-Dragonfly-R1-SE-White-Wireless-Lightweight-Gaming-Mouse.jpg",
           "url": "https://zahcomputers.pk/product/atk-vxe-dragonfly-r1-se-white-wireless-lightweight-gaming-mouse",
           "history": [
-            830000,
+            690000,
             690000,
             690000,
             690000,
@@ -197066,7 +197239,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/ATK-VXE-Dragonfly-R1-SE-Black-Wireless-Lightweight-Gaming-Mouse.jpg",
           "url": "https://zahcomputers.pk/product/atk-vxe-dragonfly-r1-se-black-wireless-lightweight-gaming-mouse",
           "history": [
-            830000,
+            690000,
             690000,
             690000,
             690000,
@@ -207225,9 +207398,9 @@
           "name": "EASE E305e GeForce RTX 3050 Graphics Card – 6GB",
           "brand": "EASE",
           "category": "gpu",
-          "price": 6250000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 8500000,
+          "oldPrice": 6250000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/03/EASE-E305e-GeForce-RTX-3050-Graphics-Card-–-6GB-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/ease-e305e-geforce-rtx-3050-graphics-card-6gb",
@@ -207243,7 +207416,7 @@
             6250000,
             6250000,
             6250000,
-            6250000
+            8500000
           ]
         },
         {
@@ -216105,7 +216278,7 @@
             979900,
             979900,
             979900,
-            979900,
+            999900,
             999900,
             999900,
             999900,
@@ -216157,7 +216330,7 @@
             4699900,
             4699900,
             4699900,
-            4699900,
+            4899900,
             4899900,
             4899900,
             4899900,
@@ -216183,7 +216356,7 @@
             4499900,
             4499900,
             4499900,
-            4499900,
+            4799900,
             4799900,
             4799900,
             4799900,
@@ -217349,7 +217522,7 @@
             44000000,
             44000000,
             44000000,
-            44000000,
+            48000000,
             48000000,
             48000000,
             48000000,
@@ -217820,6 +217993,7 @@
             1399900,
             1399900,
             1399900,
+            1399900,
             1399900
           ]
         },
@@ -217835,6 +218009,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/126578-aula-f75-pro-wireless-mechanical-keyboard-thunder-black-1.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-pro-wireless-mechanical-keyboard75-gasket-hot-swappable-custom-keyboard-thunder-black-crescent-axis-switch",
           "history": [
+            1550000,
             1550000,
             1550000,
             1550000,
@@ -221451,7 +221626,7 @@
             580000,
             580000,
             580000,
-            580000,
+            599900,
             599900,
             599900,
             599900,
@@ -221463,8 +221638,8 @@
           "name": "Thermalright TL-C12CW-S X3 CPU Fan 120mm White ARGB Case Cooler Fan",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 449900,
-          "oldPrice": null,
+          "price": 399900,
+          "oldPrice": 449900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Thermalright-TL-C12CW-S-X3-CPU-Fan-120mm-White-ARGB-Case-Cooler-Fan.jpg",
@@ -221481,7 +221656,7 @@
             449900,
             449900,
             449900,
-            449900
+            399900
           ]
         },
         {
@@ -221503,7 +221678,7 @@
             449900,
             449900,
             449900,
-            449900,
+            399900,
             399900,
             399900,
             399900,
@@ -224545,7 +224720,7 @@
             149900,
             149900,
             149900,
-            149900,
+            179900,
             179900,
             179900,
             179900,
@@ -224801,6 +224976,7 @@
             549900,
             549900,
             549900,
+            549900,
             549900
           ]
         },
@@ -224823,7 +224999,7 @@
             600000,
             600000,
             600000,
-            600000,
+            699900,
             699900,
             699900,
             699900,
@@ -224849,7 +225025,7 @@
             600000,
             600000,
             600000,
-            600000,
+            749900,
             749900,
             749900,
             749900,
@@ -224901,7 +225077,7 @@
             499900,
             499900,
             499900,
-            499900,
+            799900,
             799900,
             799900,
             799900,
@@ -224927,7 +225103,7 @@
             499900,
             499900,
             499900,
-            499900,
+            749900,
             749900,
             749900,
             749900,
@@ -225239,7 +225415,7 @@
             1880000,
             1880000,
             1880000,
-            1880000,
+            1949900,
             1949900,
             1949900,
             1949900,
@@ -225265,7 +225441,7 @@
             1950000,
             1950000,
             1950000,
-            1950000,
+            1999900,
             1999900,
             1999900,
             1999900,
@@ -225291,7 +225467,7 @@
             1549900,
             1549900,
             1549900,
-            1549900,
+            1400000,
             1400000,
             1400000,
             1400000,
@@ -225317,7 +225493,7 @@
             1495000,
             1495000,
             1495000,
-            1495000,
+            1449900,
             1449900,
             1449900,
             1449900,
@@ -225343,7 +225519,7 @@
             3699900,
             3699900,
             3699900,
-            3699900,
+            4099900,
             4099900,
             4099900,
             4099900,
@@ -225369,7 +225545,7 @@
             3599900,
             3599900,
             3599900,
-            3599900,
+            3999900,
             3999900,
             3999900,
             3999900,
@@ -226977,7 +227153,7 @@
             2250000,
             2250000,
             2250000,
-            2250000,
+            2600000,
             2600000,
             2600000,
             2600000,
@@ -266626,7 +266802,7 @@
           "history": [
             350000,
             350000,
-            350000,
+            400000,
             400000,
             400000,
             400000,
@@ -269347,9 +269523,9 @@
           "name": "Aula F805 RGB Programmable Buttons Ergonomic Wired Gaming Mouse",
           "brand": "Aula",
           "category": "ram",
-          "price": 200000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 230000,
+          "oldPrice": 200000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2020/12/Aula-F805-RGB-Programmable-Buttons-Ergonomic-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f805-rgb-programmable-buttons-ergonomic-wired-gaming-mouse",
@@ -269365,7 +269541,7 @@
             200000,
             200000,
             200000,
-            200000
+            230000
           ]
         },
         {
@@ -274554,6 +274730,7 @@
           "url": "https://rbtechngames.com/product/x-raypad-cicada-wings-v2-randomfrankp-universal-pre-cut-tacky-mouse-grip-grip-tape-midnight-camo",
           "history": [
             3049,
+            3049,
             3049
           ]
         },
@@ -274570,6 +274747,7 @@
           "url": "https://rbtechngames.com/product/x-raypad-cicada-wings-kitty-slicks-universal-pre-cut-tacky-mouse-grip-grip-tape-black-kitty-pink-kitty-white-kitty",
           "history": [
             3049,
+            3049,
             3049
           ]
         },
@@ -274585,6 +274763,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_x-raypad_cicada_wings_v2_slicks_universal_pre-cut_tacky_black.jpg",
           "url": "https://rbtechngames.com/product/x-raypad-cicada-wings-v2-slicks-universal-pre-cut-tacky-mouse-grip-grip-tape-black-pink",
           "history": [
+            3049,
             3049,
             3049
           ]
@@ -274607,6 +274786,7 @@
             109999,
             109999,
             109999,
+            109999,
             109999
           ]
         },
@@ -274622,6 +274802,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16s-ai-phn16-71-91aw-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5060-16-qhd-240hz-oled-display-obsidian-black-new",
           "history": [
+            524999,
             524999,
             524999,
             524999,
@@ -274653,6 +274834,7 @@
             54999,
             54999,
             54999,
+            54999,
             54999
           ]
         },
@@ -274676,6 +274858,7 @@
             42999,
             42999,
             42999,
+            42999,
             42999
           ]
         },
@@ -274691,6 +274874,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_lexar_nq100.png",
           "url": "https://rbtechngames.com/product/lexar-nq100-2-5-sata-ssd-256gb-512gb-1tb-2tb",
           "history": [
+            22999,
             22999,
             22999,
             22999,
@@ -275429,32 +275613,6 @@
             22499,
             22499,
             22499
-          ]
-        },
-        {
-          "id": "rbtechgames_748542eb",
-          "name": "Gigabyte H510M-H M-ATX LGA1200 DDR4 Motherboard &#8211; USED",
-          "brand": "Gigabyte",
-          "category": "ram",
-          "price": 9999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/09/image_2021-09-27_003747.png",
-          "url": "https://rbtechngames.com/product/gigabyte-h510m-h-m-atx-lga1200-ddr4-motherboard-used",
-          "history": [
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999
           ]
         },
         {
@@ -276290,32 +276448,6 @@
           ]
         },
         {
-          "id": "rbtechgames_93b6e049",
-          "name": "MSI Katana GF66 (11UE), Intel Core i7 11th Gen, 16GB RAM, 1TB SSD, RTX 3060, 15.6&#8243; F",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 199999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_msi_katana_gf66_black.webp",
-          "url": "https://rbtechngames.com/product/msi-katana-gf66-11ue-intel-core-i7-11th-gen-16gb-ram-1tb-ssd-rtx-3060-15-6-fhd-144hz-ips-display-black-used",
-          "history": [
-            199999,
-            199999,
-            199999,
-            199999,
-            199999,
-            199999,
-            199999,
-            199999,
-            199999,
-            199999,
-            199999,
-            199999
-          ]
-        },
-        {
           "id": "rbtechgames_e8802650",
           "name": "Lenovo Legion 5 Pro Gen 7 (R9000P2021H), AMD Ryzen 7 5800H, 16GB RAM, 512GB SSD, RTX 3060,",
           "brand": "AMD",
@@ -276827,7 +276959,7 @@
             229999,
             229999,
             229999,
-            229999,
+            234999,
             234999,
             234999,
             234999,
@@ -277661,7 +277793,7 @@
             1749999,
             1749999,
             1749999,
-            1749999,
+            1849999,
             1849999,
             1849999,
             1849999
@@ -277691,32 +277823,6 @@
             624999,
             624999,
             624999
-          ]
-        },
-        {
-          "id": "rbtechgames_9d46342a",
-          "name": "HP Omen Max 16 (16Z-AK000), AMD Ryzen AI 7, 32GB RAM, 2TB SSD, RTX 5070, 16&#8243; QHD+ 24",
-          "brand": "AMD",
-          "category": "gpu",
-          "price": 554999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_hp_hyperx_omen_max_16_shadow_black.webp",
-          "url": "https://rbtechngames.com/product/hp-omen-max-16-16z-ak000-amd-ryzen-ai-7-32gb-ram-2tb-ssd-rtx-5070-16-qhd-240hz-ips-display-shadow-black-used",
-          "history": [
-            554999,
-            554999,
-            554999,
-            554999,
-            554999,
-            554999,
-            554999,
-            554999,
-            554999,
-            554999,
-            554999,
-            554999
           ]
         },
         {
@@ -279332,32 +279438,6 @@
           ]
         },
         {
-          "id": "rbtechgames_130711d8",
-          "name": "Kingston Fury Beast 16GB (1x16GB) 4800Mhz CL38 DDR5 Ram &#8211; Black/White",
-          "brand": "Kingston",
-          "category": "ram",
-          "price": 54999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_kingston_fury_beast_ddr5.jpg",
-          "url": "https://rbtechngames.com/product/kingston-fury-beast-16gb-1x16gb-4800mhz-cl38-ddr5-ram-black-white",
-          "history": [
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999
-          ]
-        },
-        {
           "id": "rbtechgames_5684e684",
           "name": "MSI Pro X870E-P WIFI ATX AM5 DDR5 Gaming Motherboard",
           "brand": "MSI",
@@ -279423,6 +279503,7 @@
           "history": [
             1999,
             1999,
+            1999,
             1999
           ]
         },
@@ -279438,6 +279519,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_ugreen_25444.avif",
           "url": "https://rbtechngames.com/product/ugreen-25444-vertical-ergonomic-wireless-mouse",
           "history": [
+            5999,
             5999,
             5999,
             5999
@@ -279760,8 +279842,8 @@
           "name": "Asus ROG Astral GeForce RTX 5080 16GB White OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 584999,
-          "oldPrice": null,
+          "price": 624999,
+          "oldPrice": 584999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_asus_rog_astral_rtx_5080_16gb_oc_white.png",
@@ -279778,7 +279860,7 @@
             584999,
             584999,
             584999,
-            584999
+            624999
           ]
         },
         {
@@ -280323,6 +280405,7 @@
             26499,
             26499,
             26499,
+            26499,
             26499
           ]
         },
@@ -280710,7 +280793,7 @@
             1649999,
             1649999,
             1649999,
-            1649999,
+            1679999,
             1679999,
             1679999,
             1679999
@@ -281294,7 +281377,7 @@
           "brand": "Intel",
           "category": "cpu",
           "price": 45499,
-          "oldPrice": 48499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/02/rbtech_intel_i5_14400f.jpg",
@@ -281310,7 +281393,7 @@
             48499,
             48499,
             48499,
-            48499,
+            45499,
             45499
           ]
         },
@@ -281820,6 +281903,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/10/rbtech_lexar_ns100.png",
           "url": "https://rbtechngames.com/product/lexar-ns100-2-5-sata-ssd-128gb-256gb-512gb-1tb",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -283061,7 +283145,7 @@
           "brand": "Intel",
           "category": "cpu",
           "price": 43499,
-          "oldPrice": 46999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/01/intel_corei5_13.jpg",
@@ -283077,7 +283161,7 @@
             46999,
             46999,
             46999,
-            46999,
+            43499,
             43499
           ]
         },
@@ -283249,6 +283333,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/01/i5_12400.jpg",
           "url": "https://rbtechngames.com/product/intel-core-i5-12400-tray-processor-lga-1700-only-chip",
           "history": [
+            47999,
             47999,
             47999,
             47999,
