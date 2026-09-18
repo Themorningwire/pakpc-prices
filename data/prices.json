@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T15:54:34.440276+00:00",
+  "lastUpdated": "2026-09-18T20:27:35.200396+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,36 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_95fcb911",
+          "name": "AULA Hero 75 HE Tri-Mode Magnetic Keyboard - Orange - Lingyun Magnetic Switch",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 18290,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero75-he-lingyun-magnetic-switch-price-in-pakistan-pakbyte.webp?v=1789750846",
+          "url": "https://www.pakbyte.pk/products/aula-hero-75-he-tri-mode-magnetic-keyboard-orange-lingyun-magnetic-switch",
+          "history": [
+            18290
+          ]
+        },
+        {
+          "id": "pakbyte_adb59894",
+          "name": "AULA HERO68 Mini Air Keyboard - Pink Rainbow - Sea Wave Switches",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 17390,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero68-mini-air-price-in-pakistan-pakbyte.png?v=1789746208",
+          "url": "https://www.pakbyte.pk/products/aula-hero68-mini-air-keyboard-pink-rainbow-sea-wave-switches",
+          "history": [
+            17390
+          ]
+        },
         {
           "id": "pakbyte_eab1aea7",
           "name": "Power Train D240A ARGB Liquid CPU Cooler - White",
@@ -20,6 +50,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Powertrain-D240A-cpucooler-price-in-pakistan-pakbyte.jpg?v=1789729976",
           "url": "https://www.pakbyte.pk/products/power-train-d240a-argb-liquid-cpu-cooler-white",
           "history": [
+            11490,
             11490
           ]
         },
@@ -35,6 +66,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-A700-Wireless-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.jpg?v=1789672302",
           "url": "https://www.pakbyte.pk/products/aula-a700-wireless-gaming-headset-with-7-1-surround-sound-black-red",
           "history": [
+            13490,
             13490,
             13490,
             13490,
@@ -56,6 +88,7 @@
             13490,
             13490,
             13490,
+            13490,
             13490
           ]
         },
@@ -71,6 +104,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-g7-price-in-pakistan-pakbyte_1.webp?v=1789671800",
           "url": "https://www.pakbyte.pk/products/aula-g7-wireless-gaming-headset-black",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -92,6 +126,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -110,6 +145,7 @@
             8490,
             8490,
             8490,
+            8490,
             8490
           ]
         },
@@ -125,6 +161,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-G7Pro-Gaming-Headset-Price-in-Pakistan-Pakbyte.jpg?v=1789670124",
           "url": "https://www.pakbyte.pk/products/aula-g7-g7-pro-wireless-gaming-headset-black",
           "history": [
+            8290,
             8290
           ]
         },
@@ -140,6 +177,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Leobog-A80RT-Keyboard-price-in-Pakistan-Pakbyte_1.jpg?v=1789669097",
           "url": "https://www.pakbyte.pk/products/aula-leobog-a80-rt-hall-effect-mechanical-wired-gaming-keyboard-white",
           "history": [
+            16390,
             16390
           ]
         },
@@ -155,6 +193,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-mini60-he-pro-price-in-pakistan-pakbyte_1.webp?v=1789667850",
           "url": "https://www.pakbyte.pk/products/aula-mini60-wireless-gaming-keyboard-white-smoky-cloud-magnetic-switches",
           "history": [
+            9290,
             9290,
             9290,
             9290,
@@ -176,6 +215,7 @@
             13990,
             13990,
             13990,
+            13990,
             13990
           ]
         },
@@ -191,6 +231,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero68-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1789667022",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-60-wired-gaming-keyboard-white-meteor-magnetic-switches",
           "history": [
+            12390,
             12390
           ]
         },
@@ -206,6 +247,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-l99-price-in-pakistan-pakbyte_5.webp?v=1789664969",
           "url": "https://www.pakbyte.pk/products/aula-l99-wireless-mechanical-gaming-keyboard-red-black-caramel-latte-switches",
           "history": [
+            23990,
             23990,
             23990,
             23990,
@@ -227,6 +269,7 @@
             23990,
             23990,
             23990,
+            23990,
             23990
           ]
         },
@@ -242,6 +285,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f99-pro-96-white-cotton-candy-price-in-pakistan-pakbyte.webp?v=1789644987",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-mechanical-keyboard-white-cotton-candy-switches",
           "history": [
+            15390,
             15390,
             15390,
             15390,
@@ -265,6 +309,7 @@
             15990,
             15990,
             15990,
+            15990,
             15990
           ]
         },
@@ -280,6 +325,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-S75-PRO-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1789640791",
           "url": "https://www.pakbyte.pk/products/aula-s75-pro-wireless-mechanical-keyboard-w-screen-gradient-gray-star-vector-switch",
           "history": [
+            14390,
             14390,
             14390,
             14390,
@@ -305,6 +351,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -320,6 +367,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-white-contour-price-in-pakistan-Pakbyte.webp?v=1789629072",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-mechanical-keyboard-white-contour-star-vector-switches",
           "history": [
+            12490,
             12490,
             12490,
             12490,
@@ -345,6 +393,7 @@
             11890,
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -360,6 +409,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-X9-Max-Price-In-Pakistan-Pakbyte.webp?v=1789627011",
           "url": "https://www.pakbyte.pk/products/aula-x9-max-wireless-gaming-mouse-white",
           "history": [
+            11890,
             11890,
             11890,
             11890,
@@ -385,6 +435,7 @@
             11890,
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -400,6 +451,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-SC590PRO-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1789626379",
           "url": "https://www.pakbyte.pk/products/aula-sc590-pro-high-performance-wireless-gaming-mouse-with-smart-display-1",
           "history": [
+            5890,
             5890,
             5890,
             5890,
@@ -425,6 +477,7 @@
             5890,
             5890,
             5890,
+            5890,
             5890
           ]
         },
@@ -440,6 +493,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/X-raypad-Jade-dots-mouse-skates-price-in-pakistan-pakbyte.jpg?v=1789624338",
           "url": "https://www.pakbyte.pk/products/x-raypad-jade-speed-diy-mouse-skates-universal-d6-5mm-ptfe-dots",
           "history": [
+            2390,
             2390,
             2390,
             2390,
@@ -465,6 +519,7 @@
             2590,
             2590,
             2590,
+            2590,
             2590
           ]
         },
@@ -480,6 +535,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/X-Raypad-Obsidian-Pro-Air-Speed-Mouse-Skates-Price-in-Pakistan-Pakbyte_1.jpg?v=1789581086",
           "url": "https://www.pakbyte.pk/products/x-raypad-obsidian-pro-air-speed-mouse-skates",
           "history": [
+            2990,
             2990,
             2990,
             2990,
@@ -507,6 +563,7 @@
             2590,
             2590,
             2590,
+            2590,
             2590
           ]
         },
@@ -528,6 +585,7 @@
             2490,
             2490,
             2490,
+            2490,
             2490
           ]
         },
@@ -543,6 +601,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-S35-Gaming-Mouse-Price-in-Pakistan-Pakbyte.webp?v=1789578565",
           "url": "https://www.pakbyte.pk/products/aula-s35-gaming-mouse-black",
           "history": [
+            2490,
             2490,
             2490,
             2490,
@@ -2390,7 +2449,7 @@
             18890,
             18890,
             18890,
-            18890,
+            14990,
             14990,
             14990,
             14990,
@@ -2496,6 +2555,7 @@
             940,
             940,
             940,
+            940,
             940
           ]
         },
@@ -2511,6 +2571,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-upa21-2in1-3-5mm-audio-cable-male-to-2xfemale-price-in-pakistan-pakbyte_2.webp?v=1784916608",
           "url": "https://www.pakbyte.pk/products/hoco-upa21-2-in-1-3-5mm-headset-audio-adapter-cable-male-to-2x-female",
           "history": [
+            940,
             940,
             940,
             940,
@@ -2536,7 +2597,7 @@
           "history": [
             3490,
             3490,
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2640,7 +2701,7 @@
           "history": [
             2290,
             2290,
-            2290,
+            2390,
             2390,
             2390,
             2390,
@@ -2666,7 +2727,7 @@
           "history": [
             2290,
             2290,
-            2290,
+            2390,
             2390,
             2390,
             2390,
@@ -2744,7 +2805,7 @@
           "history": [
             3990,
             3990,
-            3990,
+            4690,
             4690,
             4690,
             4690,
@@ -2770,7 +2831,7 @@
           "history": [
             3990,
             3990,
-            3990,
+            4690,
             4690,
             4690,
             4690,
@@ -2796,7 +2857,7 @@
           "history": [
             3490,
             3490,
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2822,7 +2883,7 @@
           "history": [
             3490,
             3490,
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2848,7 +2909,7 @@
           "history": [
             3390,
             3390,
-            3390,
+            3990,
             3990,
             3990,
             3990,
@@ -2874,7 +2935,7 @@
           "history": [
             3999,
             3999,
-            3999,
+            3990,
             3990,
             3990,
             3990,
@@ -2900,7 +2961,7 @@
           "history": [
             3390,
             3390,
-            3390,
+            3990,
             3990,
             3990,
             3990,
@@ -2926,7 +2987,7 @@
           "history": [
             2990,
             2990,
-            2990,
+            3490,
             3490,
             3490,
             3490,
@@ -2984,6 +3045,7 @@
             1140,
             1140,
             1140,
+            1140,
             1140
           ]
         },
@@ -3027,7 +3089,7 @@
           "history": [
             2390,
             2390,
-            2390,
+            2640,
             2640,
             2640,
             2640,
@@ -3053,7 +3115,7 @@
           "history": [
             3290,
             3290,
-            3290,
+            4040,
             4040,
             4040,
             4040,
@@ -3292,6 +3354,7 @@
             26499,
             26499,
             26499,
+            26499,
             26499
           ]
         },
@@ -3309,8 +3372,8 @@
           "history": [
             24990,
             24990,
-            24990,
             26499,
+            25990,
             25990,
             25990,
             25990,
@@ -6369,7 +6432,7 @@
           "brand": "Fantech",
           "category": "headset",
           "price": 2290,
-          "oldPrice": 2790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-MARS-II-HQ54-Price-in-Pakistan-Pakbyte_1.webp?v=1783527907",
@@ -6385,7 +6448,7 @@
             2790,
             2790,
             2790,
-            2790,
+            2290,
             2290
           ]
         },
@@ -6421,7 +6484,7 @@
           "brand": "Fantech",
           "category": "headset",
           "price": 4440,
-          "oldPrice": 4190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-VALORIIMH89-Headphones-Price-in-Pakistan-Pakbyte.webp?v=1783526672",
@@ -6437,7 +6500,7 @@
             4190,
             4190,
             4190,
-            4190,
+            4440,
             4440
           ]
         },
@@ -6473,7 +6536,7 @@
           "brand": "Fantech",
           "category": "keyboard",
           "price": 12940,
-          "oldPrice": 13990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-Atom-HE68-Pro-MK922-Wireless-Magnetic-Keyboard-Price-in-Pakistan-Pakbyte_1_f9b86b59-acb6-4520-9144-5f5a2bd4c80b.webp?v=1783525558",
@@ -6489,7 +6552,7 @@
             13990,
             13990,
             13990,
-            13990,
+            12940,
             12940
           ]
         },
@@ -6499,7 +6562,7 @@
           "brand": "Fantech",
           "category": "keyboard",
           "price": 12940,
-          "oldPrice": 13990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-ATOM-HE68-PRO-MK922-RGB-Keyboard-Beige-Price-in-Pakistan-Pakbyte_1.webp?v=1783525329",
@@ -6515,7 +6578,7 @@
             13990,
             13990,
             13990,
-            13990,
+            12940,
             12940
           ]
         },
@@ -6525,7 +6588,7 @@
           "brand": "Fantech",
           "category": "keyboard",
           "price": 12940,
-          "oldPrice": 13990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-Atom-HE68-Pro-MK922-Wireless-Magnetic-Keyboard-Price-in-Pakistan-Pakbyte.webp?v=1783525063",
@@ -6541,7 +6604,7 @@
             13990,
             13990,
             13990,
-            13990,
+            12940,
             12940
           ]
         },
@@ -6551,7 +6614,7 @@
           "brand": "Fantech",
           "category": "keyboard",
           "price": 12940,
-          "oldPrice": 13990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-Atom-HE68-Pro-MK922-Wireless-Magnetic-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1783524758",
@@ -6567,7 +6630,7 @@
             13990,
             13990,
             13990,
-            13990,
+            12940,
             12940
           ]
         },
@@ -6577,7 +6640,7 @@
           "brand": "Fantech",
           "category": "keyboard",
           "price": 8990,
-          "oldPrice": 9890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-Atom-HE68-MK811-Wired-Magnetic-Keyboard-Price-in-Pakistan-Pakbyte.webp?v=1783524353",
@@ -6593,7 +6656,7 @@
             9890,
             9890,
             9890,
-            9890,
+            8990,
             8990
           ]
         },
@@ -6681,7 +6744,7 @@
           "brand": "Fantech",
           "category": "keyboard",
           "price": 6490,
-          "oldPrice": 7490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-ATOM-X63-MK611-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1783522929",
@@ -6697,7 +6760,7 @@
             7490,
             7490,
             7490,
-            7490,
+            6490,
             6490
           ]
         },
@@ -6707,7 +6770,7 @@
           "brand": "Fantech",
           "category": "keyboard",
           "price": 6490,
-          "oldPrice": 7490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-ATOM-X63-MK611-keyboard-price-in-pakistan-pakbyte_1.webp?v=1783522125",
@@ -6723,7 +6786,7 @@
             7490,
             7490,
             7490,
-            7490,
+            6490,
             6490
           ]
         },
@@ -6733,7 +6796,7 @@
           "brand": "Fantech",
           "category": "keyboard",
           "price": 6990,
-          "oldPrice": 7490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-atom-81-gaming-keyboard-sky-blue-price-in-pakistan-pakbyte_1.png?v=1783500273",
@@ -6749,7 +6812,7 @@
             7490,
             7490,
             7490,
-            7490,
+            6990,
             6990
           ]
         },
@@ -6817,6 +6880,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-atom-63-gaming-keyboard-sky-blue-price-in-pakistan-Pakbyte_1.png?v=1783495191",
           "url": "https://www.pakbyte.pk/products/fantech-atom-63-mizu-edition-rgb-mechanical-gaming-keyboard-sky-blue-red-switches",
           "history": [
+            5990,
             5990
           ]
         },
@@ -6930,7 +6994,7 @@
           "brand": "Fantech",
           "category": "mouse",
           "price": 2790,
-          "oldPrice": 3090,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-KANATASVX9S-wired-gaming-mouse-price-in-pakistan-pakbyte_1.webp?v=1783488375",
@@ -6946,7 +7010,7 @@
             3090,
             3090,
             3090,
-            3090,
+            2790,
             2790
           ]
         },
@@ -7008,7 +7072,7 @@
           "brand": "Power",
           "category": "monitor",
           "price": 7490,
-          "oldPrice": 7790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Powertrain-MK2-Air-Cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1783407124",
@@ -7024,7 +7088,7 @@
             7790,
             7790,
             7790,
-            7790,
+            7490,
             7490
           ]
         },
@@ -7034,7 +7098,7 @@
           "brand": "Power",
           "category": "monitor",
           "price": 6990,
-          "oldPrice": 7490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Powertrain-MK2-CPU-Air-Cooler-Price-in-pakistan-pakbyte_1.webp?v=1783406853",
@@ -7050,7 +7114,7 @@
             7490,
             7490,
             7490,
-            7490,
+            6990,
             6990
           ]
         },
@@ -11648,6 +11712,7 @@
             9290,
             9290,
             9290,
+            9290,
             9290
           ]
         },
@@ -11696,7 +11761,7 @@
             14990,
             14990,
             14990,
-            14990,
+            11990,
             11990,
             11990,
             11990,
@@ -11715,6 +11780,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-WIN68HE-Black-Price-in-pakistan-pakbyte.jpg?v=1778414397",
           "url": "https://www.pakbyte.pk/products/aula-win68he-gray-wood-magnetic-rt-extreme-response-gaming-keyboard-black",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -11762,6 +11828,7 @@
             16990,
             16990,
             16990,
+            16990,
             16990
           ]
         },
@@ -11784,7 +11851,7 @@
             16490,
             16490,
             16490,
-            16490,
+            15990,
             15990,
             15990,
             15990,
@@ -11835,7 +11902,7 @@
             17990,
             17990,
             17990,
-            17990,
+            15290,
             15290,
             15290,
             15290,
@@ -11938,7 +12005,7 @@
             16990,
             16990,
             16990,
-            16990,
+            14390,
             14390,
             14390,
             14390,
@@ -11985,6 +12052,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-white-contour-price-in-pakistan-pakbyte_1.webp?v=1778402103",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-gaming-keyboard-white-contour",
           "history": [
+            15490,
             15490,
             15490,
             15490,
@@ -12060,7 +12128,7 @@
             15490,
             15490,
             15490,
-            15490,
+            12990,
             12990,
             12990,
             12990,
@@ -12086,7 +12154,7 @@
             9990,
             9990,
             9990,
-            9990,
+            9490,
             9490,
             9490,
             9490,
@@ -12112,7 +12180,7 @@
             9490,
             9490,
             9490,
-            9490,
+            8990,
             8990,
             8990,
             8990,
@@ -20562,6 +20630,7 @@
             11890,
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -21793,7 +21862,7 @@
           "brand": "Power",
           "category": "cooler",
           "price": 5490,
-          "oldPrice": 5290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/power-train-prism-8rs-regular-black-price-in-pakistan-pakbyte.webp?v=1771942017",
@@ -21809,7 +21878,7 @@
             5290,
             5290,
             5290,
-            5290,
+            5490,
             5490
           ]
         },
@@ -21819,7 +21888,7 @@
           "brand": "Power",
           "category": "cooler",
           "price": 5490,
-          "oldPrice": 5290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/power-train-prism-8rs-black-price-in-pakistan-pakbyte.webp?v=1771934107",
@@ -21835,7 +21904,7 @@
             5290,
             5290,
             5290,
-            5290,
+            5490,
             5490
           ]
         },
@@ -21871,7 +21940,7 @@
           "brand": "Power",
           "category": "cooler",
           "price": 1490,
-          "oldPrice": 1690,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/power-train-x-gamerx-dl-200tc-price-in-pakistan-pakbyte_1.webp?v=1771933543",
@@ -21887,7 +21956,7 @@
             1690,
             1690,
             1690,
-            1690,
+            1490,
             1490
           ]
         },
@@ -21949,7 +22018,7 @@
           "brand": "Fantech",
           "category": "headset",
           "price": 4490,
-          "oldPrice": 4290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-orbit-hg25-price-in-pakistan-pakbyte_1.webp?v=1771932164",
@@ -21965,7 +22034,7 @@
             4290,
             4290,
             4290,
-            4290,
+            4490,
             4490
           ]
         },
@@ -22001,7 +22070,7 @@
           "brand": "Fantech",
           "category": "mouse",
           "price": 990,
-          "oldPrice": 1340,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-mp64-basic-price-in-pakistan-pakbyte_1.webp?v=1771931730",
@@ -22017,7 +22086,7 @@
             1340,
             1340,
             1340,
-            1340,
+            990,
             990
           ]
         },
@@ -22027,7 +22096,7 @@
           "brand": "Fantech",
           "category": "mouse",
           "price": 590,
-          "oldPrice": 1090,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-mp296-vigil-price-in-pakistan-pakbyte_1.webp?v=1771931488",
@@ -22043,7 +22112,7 @@
             1090,
             1090,
             1090,
-            1090,
+            590,
             590
           ]
         },
@@ -22059,6 +22128,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-Atom-81-MK875V2-RGB-Mizu-Edition-Mechanical-Gaming-Keyboard-Navy-Blue-Price-in-Pakistan-Pakbyte_1.jpg?v=1771931178",
           "url": "https://www.pakbyte.pk/products/fantech-mizu-edition-atom-81-mk875v2-rgb-mechanical-gaming-keyboard-navy-blue",
           "history": [
+            6990,
             6990
           ]
         },
@@ -22146,7 +22216,7 @@
           "brand": "Fantech",
           "category": "mouse",
           "price": 2490,
-          "oldPrice": 2790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-crypto-ii-vx7v2-price-in-pakistan-pakbyte_1.webp?v=1771929660",
@@ -22162,7 +22232,7 @@
             2790,
             2790,
             2790,
-            2790,
+            2490,
             2490
           ]
         },
@@ -31311,7 +31381,7 @@
             15490,
             15490,
             15490,
-            15490,
+            12990,
             12990,
             12990,
             12990,
@@ -31363,7 +31433,7 @@
             13990,
             13990,
             13990,
-            13990,
+            11990,
             11990,
             11990,
             11990,
@@ -31518,7 +31588,7 @@
             18490,
             18490,
             18490,
-            18490,
+            15290,
             15290,
             15290,
             15290,
@@ -31646,6 +31716,7 @@
             12290,
             12290,
             12290,
+            12290,
             12290
           ]
         },
@@ -31692,6 +31763,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -31712,7 +31784,7 @@
             15690,
             15690,
             15690,
-            15690,
+            12790,
             12790,
             12790,
             12790,
@@ -31738,7 +31810,7 @@
             16490,
             16490,
             16490,
-            16490,
+            12990,
             12990,
             12990,
             12990,
@@ -31842,7 +31914,7 @@
             15890,
             15890,
             15890,
-            15890,
+            12990,
             12990,
             12990,
             12990,
@@ -31915,6 +31987,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f3061-membrane-gaming-keyboard-mouse-combo-wh-price-in-pakistan-pakbyte.webp?v=1766252910",
           "url": "https://www.pakbyte.pk/products/aula-f3061-membrane-gaming-keyboard-mouse-combo-white",
           "history": [
+            3290,
             3290,
             3290,
             3290,
@@ -34322,7 +34395,7 @@
           "brand": "EASE",
           "category": "gpu",
           "price": 84999,
-          "oldPrice": 70999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ease-rtx-3050-6gb-gpu-price-in-pakistan-pakbyte_1.jpg?v=1765908771",
@@ -34338,7 +34411,7 @@
             70999,
             70999,
             70999,
-            70999,
+            84999,
             84999
           ]
         },
@@ -51727,6 +51800,7 @@
             12490,
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -51747,7 +51821,7 @@
             15499,
             15499,
             15499,
-            15499,
+            13490,
             13490,
             13490,
             13490,
@@ -53049,7 +53123,7 @@
             8490,
             8490,
             8490,
-            8490,
+            7390,
             7390,
             7390,
             7390,
@@ -60871,7 +60945,7 @@
             182000,
             182000,
             182000,
-            182000,
+            239999,
             239999,
             239999,
             239999,
@@ -89254,7 +89328,7 @@
           "brand": "Darkflash",
           "category": "case",
           "price": 15899,
-          "oldPrice": 13490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Darkflash-DF2100-Mesh-Gaming-Case-Black-PakByte-Computers-25843980664899.webp?v=1753676599",
@@ -89270,7 +89344,7 @@
             13490,
             13490,
             13490,
-            13490,
+            15899,
             15899
           ]
         },
@@ -118517,7 +118591,7 @@
             98999,
             98999,
             98999,
-            98999,
+            314999,
             314999,
             314999,
             314999,
@@ -146926,6 +147000,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-NOVA75-Smart-Wireless-Mechanical-Keyboard-01.webp",
           "url": "https://zahcomputers.pk/product/aula-nova75-smart-wireless-mechanical-keyboard-5-tri-mode-8000mah-rgb-grey-red-ailh-caramel-latte-switch",
           "history": [
+            1470000,
             1470000
           ]
         },
@@ -146941,6 +147016,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-NOVA75-Smart-Wireless-Mechanical-Keyboard.webp",
           "url": "https://zahcomputers.pk/product/aula-nova75-smart-wireless-mechanical-keyboard",
           "history": [
+            1470000,
             1470000
           ]
         },
@@ -146956,6 +147032,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/XPG-PYLON-II-650W-80-PLUS-Bronze-ATX-3.1-Non-Modular-Power-Supply.jpg",
           "url": "https://zahcomputers.pk/product/xpg-pylon-ii-650w-80-plus-bronze-atx-3-1-non-modular-power-supply",
           "history": [
+            1600000,
             1600000,
             1600000,
             1600000,
@@ -146979,6 +147056,7 @@
             590000,
             590000,
             590000,
+            590000,
             590000
           ]
         },
@@ -146994,6 +147072,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-SC380Pro-Wireless-Gaming-Mouse-White.webp",
           "url": "https://zahcomputers.pk/product/aula-sc380pro-wireless-gaming-mouse-white",
           "history": [
+            590000,
             590000,
             590000,
             590000,
@@ -147017,6 +147096,7 @@
             349900,
             349900,
             349900,
+            349900,
             349900
           ]
         },
@@ -147032,6 +147112,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/GIGABYTE-WINDFORCE-GeForce-RTX-5060-Ti-Pricein-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-windforce-geforce-rtx-5060-ti-16gb-gddr7-pci-express-5-0-atx-graphics-card",
           "history": [
+            25500000,
             25500000,
             25500000,
             25500000,
@@ -147055,6 +147136,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -147074,6 +147156,7 @@
             750000,
             750000,
             750000,
+            750000,
             750000
           ]
         },
@@ -147089,6 +147172,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Thermalright-TL-M12W-S-ARGB-120mm-Case-Fan-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m12w-s-argb-120mm-case-fan-white",
           "history": [
+            135000,
             135000,
             135000,
             135000,
@@ -147120,6 +147204,7 @@
             349900,
             349900,
             349900,
+            349900,
             349900
           ]
         },
@@ -147143,6 +147228,7 @@
             40499900,
             40499900,
             40499900,
+            40499900,
             40499900
           ]
         },
@@ -147158,6 +147244,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-F75-RGB-Wireless-Mechanical-Gaming-Keyboard-White.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-rgb-wireless-mechanical-gaming-keyboard-retro-white-milk-white-switch",
           "history": [
+            1280000,
             1280000,
             1280000,
             1280000,
@@ -147189,6 +147276,7 @@
             1280000,
             1280000,
             1280000,
+            1280000,
             1280000
           ]
         },
@@ -147204,6 +147292,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-HERO-68-HE-Wired-Hall-Effect-Gaming-Keyboard.webp",
           "url": "https://zahcomputers.pk/product/aula-hero-68-he-wired-hall-effect-gaming-keyboard-white",
           "history": [
+            1230000,
             1230000,
             1230000,
             1230000,
@@ -147235,6 +147324,7 @@
             1180000,
             1180000,
             1180000,
+            1180000,
             1180000
           ]
         },
@@ -147258,6 +147348,7 @@
             1080000,
             1080000,
             1080000,
+            1080000,
             1080000
           ]
         },
@@ -147273,6 +147364,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-WIN60-HE-Pro-Wired-Hall-Effect-Gaming-Keyboard.webp",
           "url": "https://zahcomputers.pk/product/aula-win60-he-pro-wired-hall-effect-gaming-keyboard-dark-grey",
           "history": [
+            890000,
             890000,
             890000,
             890000,
@@ -147306,6 +147398,7 @@
             930000,
             930000,
             930000,
+            930000,
             930000
           ]
         },
@@ -147321,6 +147414,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-MINI60-HE-Wireless-Hall-Effect-Gaming-Keyboard-Black.webp",
           "url": "https://zahcomputers.pk/product/aula-mini60-he-wireless-hall-effect-gaming-keyboard",
           "history": [
+            1050000,
             1050000,
             1050000,
             1050000,
@@ -147354,6 +147448,7 @@
             2580000,
             2580000,
             2580000,
+            2580000,
             2580000
           ]
         },
@@ -147369,6 +147464,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F87-75-Wireless-Mechanical-Gaming-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f87-75-wireless-mechanical-gaming-keyboard",
           "history": [
+            1280000,
             1280000
           ]
         },
@@ -147384,6 +147480,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F87-Pro-Wireless-Mechanical-Gaming-Keyboard-Black.webp",
           "url": "https://zahcomputers.pk/product/aula-f87-pro-wireless-mechanical-gaming-keyboard-2",
           "history": [
+            1350000,
             1350000
           ]
         },
@@ -147408,6 +147505,7 @@
             1280000,
             1280000,
             1280000,
+            1280000,
             1280000
           ]
         },
@@ -147423,6 +147521,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-HERO-84-HE-Wired-Mechanical-Keyboard-White-Purple.jpg",
           "url": "https://zahcomputers.pk/product/aula-hero-84-he-wired-mechanical-keyboard-white-purple-black-emperor-hall-effect-switches",
           "history": [
+            1400000,
             1400000,
             1400000,
             1400000,
@@ -148877,6 +148976,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Lexar-THOR-RGB-2nd-Gen-DDR5-Desktop-Memory.jpg",
           "url": "https://zahcomputers.pk/product/lexar-thor-rgb-2nd-gen-ddr5-desktop-memory-2x32gb-64gb-ddr5-6000mt-s-6400mt-s-intel-xmp-3-0-amd-expo-rgb-aluminum-heatsink-desktop-udimm-ram",
           "history": [
+            31500000,
             31500000
           ]
         },
@@ -149655,7 +149755,7 @@
             49000000,
             49000000,
             49000000,
-            49000000,
+            46500000,
             46500000,
             46500000
           ]
@@ -152638,7 +152738,7 @@
           "history": [
             3000000,
             3000000,
-            3000000,
+            3199900,
             3199900,
             3199900,
             3199900,
@@ -152664,7 +152764,7 @@
           "history": [
             3100000,
             3100000,
-            3100000,
+            3299900,
             3299900,
             3299900,
             3299900,
@@ -152690,7 +152790,7 @@
           "history": [
             2000000,
             2000000,
-            2000000,
+            2399900,
             2399900,
             2399900,
             2399900,
@@ -152716,7 +152816,7 @@
           "history": [
             2100000,
             2100000,
-            2100000,
+            2449900,
             2449900,
             2449900,
             2449900,
@@ -153158,7 +153258,7 @@
           "history": [
             850000,
             850000,
-            850000,
+            890000,
             890000,
             890000,
             890000,
@@ -154180,6 +154280,7 @@
             1850000,
             1850000,
             1850000,
+            1850000,
             1850000
           ]
         },
@@ -154299,7 +154400,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-WIN68-HE-Pro-Wired-Magnetic-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-win68-he-pro-wired-magnetic-gaming-keyboard-grey-meteor-magnetic-switch",
           "history": [
-            950000,
+            1030000,
             1030000,
             1030000,
             1030000,
@@ -154429,7 +154530,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-HERO-68-HE-Wired-Mechanical-Keyboard-Black-Frosted-Translucent-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-hero-68-he-wired-mechanical-keyboard-black-frosted-translucent-jade-king-switch",
           "history": [
-            1350000,
+            1420000,
             1420000,
             1420000,
             1420000,
@@ -154561,7 +154662,7 @@
           "history": [
             4499900,
             4499900,
-            4499900,
+            5000000,
             5000000,
             5000000,
             5000000,
@@ -154617,7 +154718,7 @@
             200000,
             200000,
             200000,
-            200000,
+            220000,
             220000,
             220000,
             220000,
@@ -154669,7 +154770,7 @@
             850000,
             850000,
             850000,
-            850000,
+            890000,
             890000,
             890000,
             890000,
@@ -155417,7 +155518,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-F99-PRO-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-f99-pro-gasket-mounted-triple-mode-mechanical-keyboard-gradient-gray-nimbus-v3-switchs",
           "history": [
-            1500000,
+            1560000,
             1560000,
             1560000,
             1560000,
@@ -161195,7 +161296,7 @@
             25500000,
             25500000,
             25500000,
-            25500000,
+            26500000,
             26500000,
             26500000,
             26500000,
@@ -162359,6 +162460,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Aula-F87-Mechanical-TKL-Keyboard-LEOBOG-Graywood-V3-Linear-Switch-RGB-Hot-Swap-Macro-Wireless-Type-C-Light-Blue-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f87-mechanical-tkl-keyboard-leobog-graywood-v3-linear-switch-rgb-hot-swap-macro-wireless-type-c-light-blue",
           "history": [
+            1230000,
             1230000,
             1230000,
             1230000,
@@ -164354,7 +164456,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 120000,
-          "oldPrice": 109500,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-V10C-Professional-Gaming-Mouse-Pad-Price-in-Pakistan.jpg",
@@ -164370,7 +164472,7 @@
             109500,
             109500,
             109500,
-            109500,
+            120000,
             120000
           ]
         },
@@ -164673,7 +164775,7 @@
           "url": "https://zahcomputers.pk/product/rapoo-v520-backlit-mechanical-gaming-keyboard-black",
           "history": [
             1069500,
-            1069500,
+            1149900,
             1149900,
             1149900,
             1149900,
@@ -168496,7 +168598,7 @@
           "history": [
             1800000,
             1800000,
-            1800000,
+            1799900,
             1799900,
             1799900,
             1799900,
@@ -168548,7 +168650,7 @@
           "history": [
             2880000,
             2880000,
-            2880000,
+            2879900,
             2879900,
             2879900,
             2879900,
@@ -169544,6 +169646,7 @@
             1650000,
             1650000,
             1650000,
+            1650000,
             1650000
           ]
         },
@@ -169717,7 +169820,7 @@
           "history": [
             9499900,
             9499900,
-            9499900,
+            8499900,
             8499900,
             8499900,
             8499900,
@@ -169769,7 +169872,7 @@
           "history": [
             3300000,
             3300000,
-            3300000,
+            3599900,
             3599900,
             3599900,
             3599900,
@@ -169795,7 +169898,7 @@
           "history": [
             3300000,
             3300000,
-            3300000,
+            3499900,
             3499900,
             3499900,
             3499900,
@@ -171327,7 +171430,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/AULA-WIN60HE-Max-Edition-Drak-Grey-Light-Grey-Yellow-Wing-Chun-Magnetic-Switch-Wired-Gaming-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-win60he-max-edition-drak-grey-light-grey-yellow-wing-chun-magnetic-switch-wired-gaming-keyboard",
           "history": [
-            1199900,
+            1080000,
             1080000,
             1080000,
             1080000,
@@ -173713,7 +173816,7 @@
           "brand": "Gigabyte",
           "category": "gpu",
           "price": 14500000,
-          "oldPrice": 13800000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/12/Gigabyte-GeForce-RTX-5060-Windforce-Max-OC-8G-Graphics-Card-8GB-128-bit-GDDR7-PCIe-5.0-WINDFORCE-Cooling-System-Video-Card-Price-in-Pakistan.jpg",
@@ -173729,7 +173832,7 @@
             13800000,
             13800000,
             13800000,
-            13800000,
+            14500000,
             14500000
           ]
         },
@@ -187319,7 +187422,7 @@
           "history": [
             1750000,
             1750000,
-            1750000,
+            1749900,
             1749900,
             1749900,
             1749900,
@@ -187349,7 +187452,7 @@
             499900,
             499900,
             499900,
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187371,7 +187474,7 @@
           "history": [
             499900,
             499900,
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187401,7 +187504,7 @@
             499900,
             499900,
             499900,
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187423,7 +187526,7 @@
           "history": [
             499900,
             499900,
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187605,7 +187708,7 @@
           "history": [
             8999900,
             8999900,
-            8999900,
+            7999900,
             7999900,
             7999900,
             7999900,
@@ -187631,7 +187734,7 @@
           "history": [
             8199900,
             8199900,
-            8199900,
+            7999900,
             7999900,
             7999900,
             7999900,
@@ -187657,7 +187760,7 @@
           "history": [
             4699900,
             4699900,
-            4699900,
+            4899900,
             4899900,
             4899900,
             4899900,
@@ -187683,7 +187786,7 @@
           "history": [
             4499900,
             4499900,
-            4499900,
+            4799900,
             4799900,
             4799900,
             4799900,
@@ -188701,7 +188804,7 @@
             2500000,
             2500000,
             2500000,
-            2500000,
+            2350000,
             2350000,
             2350000,
             2350000,
@@ -191425,7 +191528,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/AULA-WIN68HE-Black.jpg",
           "url": "https://zahcomputers.pk/product/aula-win68he-yougchun-magnetic-switch-rt-extreme-response-gaming-keyboard-black",
           "history": [
-            750000,
+            780000,
             780000,
             780000,
             780000,
@@ -192933,7 +193036,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Aula-F108-Pro-Full-Size-Mechanical-Keyboard-With-Smart-Screen-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/aula-f108-pro-full-size-mechanical-keyboard-with-smart-screen",
           "history": [
-            1950000,
+            1850000,
             1850000,
             1850000,
             1850000,
@@ -194929,7 +195032,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 14800000,
-          "oldPrice": 13400000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/MSI-SHADOW-GeForce-RTX-5060-8GB-GDDR7-PCI-Express-5.0-x-16-use-x8-Graphics-Card-Price-in-Pakistan.jpg",
@@ -194945,7 +195048,7 @@
             13400000,
             13400000,
             13400000,
-            13400000,
+            14800000,
             14800000
           ]
         },
@@ -195768,7 +195871,7 @@
           "url": "https://zahcomputers.pk/product/hiksemi-wavep-256gb-m-2-pcie-3-0-nvme-ssd",
           "history": [
             1300000,
-            1300000,
+            1500000,
             1500000,
             1500000,
             1500000,
@@ -196729,7 +196832,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/AULA-WIN60HE-MAX-Magnetic-Switch-Keyboard.jpg",
           "url": "https://zahcomputers.pk/product/aula-win60he-max-magnetic-switch-gaming-keyboards-red",
           "history": [
-            1200000,
+            1180000,
             1180000,
             1180000,
             1180000,
@@ -207837,7 +207940,7 @@
             6250000,
             6250000,
             6250000,
-            6250000,
+            8500000,
             8500000,
             8500000,
             8500000,
@@ -216699,7 +216802,7 @@
           "history": [
             979900,
             979900,
-            979900,
+            999900,
             999900,
             999900,
             999900,
@@ -216751,7 +216854,7 @@
           "history": [
             4699900,
             4699900,
-            4699900,
+            4899900,
             4899900,
             4899900,
             4899900,
@@ -216777,7 +216880,7 @@
           "history": [
             4499900,
             4499900,
-            4499900,
+            4799900,
             4799900,
             4799900,
             4799900,
@@ -222055,7 +222158,7 @@
           "history": [
             580000,
             580000,
-            580000,
+            599900,
             599900,
             599900,
             599900,
@@ -222085,7 +222188,7 @@
             449900,
             449900,
             449900,
-            449900,
+            399900,
             399900,
             399900,
             399900,
@@ -222107,7 +222210,7 @@
           "history": [
             449900,
             449900,
-            449900,
+            399900,
             399900,
             399900,
             399900,
@@ -225149,7 +225252,7 @@
           "history": [
             149900,
             149900,
-            149900,
+            179900,
             179900,
             179900,
             179900,
@@ -225415,6 +225518,7 @@
             549900,
             549900,
             549900,
+            549900,
             549900
           ]
         },
@@ -225432,7 +225536,7 @@
           "history": [
             600000,
             600000,
-            600000,
+            699900,
             699900,
             699900,
             699900,
@@ -225458,7 +225562,7 @@
           "history": [
             600000,
             600000,
-            600000,
+            749900,
             749900,
             749900,
             749900,
@@ -225510,7 +225614,7 @@
           "history": [
             499900,
             499900,
-            499900,
+            799900,
             799900,
             799900,
             799900,
@@ -225536,7 +225640,7 @@
           "history": [
             499900,
             499900,
-            499900,
+            749900,
             749900,
             749900,
             749900,
@@ -225848,7 +225952,7 @@
           "history": [
             1880000,
             1880000,
-            1880000,
+            1949900,
             1949900,
             1949900,
             1949900,
@@ -225874,7 +225978,7 @@
           "history": [
             1950000,
             1950000,
-            1950000,
+            1999900,
             1999900,
             1999900,
             1999900,
@@ -225900,7 +226004,7 @@
           "history": [
             1549900,
             1549900,
-            1549900,
+            1400000,
             1400000,
             1400000,
             1400000,
@@ -225926,7 +226030,7 @@
           "history": [
             1495000,
             1495000,
-            1495000,
+            1449900,
             1449900,
             1449900,
             1449900,
@@ -225952,7 +226056,7 @@
           "history": [
             3699900,
             3699900,
-            3699900,
+            4099900,
             4099900,
             4099900,
             4099900,
@@ -225978,7 +226082,7 @@
           "history": [
             3599900,
             3599900,
-            3599900,
+            3999900,
             3999900,
             3999900,
             3999900,
@@ -269974,7 +270078,7 @@
             200000,
             200000,
             200000,
-            200000,
+            230000,
             230000,
             230000,
             230000,
@@ -275169,6 +275273,7 @@
           "history": [
             34999,
             34999,
+            34999,
             34999
           ]
         },
@@ -275186,6 +275291,7 @@
           "history": [
             224999,
             224999,
+            224999,
             224999
           ]
         },
@@ -275201,6 +275307,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_x-raypad_randomfrankp_cicada_wings_v2_universal_pre-cut_midnight_camo.jpg",
           "url": "https://rbtechngames.com/product/x-raypad-cicada-wings-v2-randomfrankp-universal-pre-cut-tacky-mouse-grip-grip-tape-midnight-camo",
           "history": [
+            3049,
             3049,
             3049,
             3049,
@@ -275228,6 +275335,7 @@
             3049,
             3049,
             3049,
+            3049,
             3049
           ]
         },
@@ -275243,6 +275351,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_x-raypad_cicada_wings_v2_slicks_universal_pre-cut_tacky_black.jpg",
           "url": "https://rbtechngames.com/product/x-raypad-cicada-wings-v2-slicks-universal-pre-cut-tacky-mouse-grip-grip-tape-black-pink",
           "history": [
+            3049,
             3049,
             3049,
             3049,
@@ -276833,7 +276942,7 @@
             424999,
             424999,
             424999,
-            424999,
+            449999,
             449999,
             449999
           ]
@@ -276910,7 +277019,7 @@
             334999,
             334999,
             334999,
-            334999,
+            384999,
             384999,
             384999,
             384999
@@ -277475,7 +277584,7 @@
           "url": "https://rbtechngames.com/product/dell-g15-5525-amd-ryzen-7-6800h-16gb-ram-512gb-ssd-rtx-3060-15-6-fhd-165hz-display-phantom-grey-used",
           "history": [
             229999,
-            229999,
+            234999,
             234999,
             234999,
             234999,
@@ -278309,7 +278418,7 @@
             1749999,
             1749999,
             1749999,
-            1749999,
+            1849999,
             1849999,
             1849999,
             1849999,
@@ -280029,6 +280138,7 @@
             1999,
             1999,
             1999,
+            1999,
             1999
           ]
         },
@@ -280044,6 +280154,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_ugreen_25444.avif",
           "url": "https://rbtechngames.com/product/ugreen-25444-vertical-ergonomic-wireless-mouse",
           "history": [
+            5999,
             5999,
             5999,
             5999,
@@ -281317,7 +281428,7 @@
             1649999,
             1649999,
             1649999,
-            1649999,
+            1679999,
             1679999,
             1679999,
             1679999,
@@ -281680,6 +281791,7 @@
           "history": [
             5999,
             5999,
+            5999,
             5999
           ]
         },
@@ -281960,7 +282072,7 @@
             48499,
             48499,
             48499,
-            48499,
+            45499,
             45499,
             45499,
             45499,
@@ -283702,7 +283814,7 @@
             46999,
             46999,
             46999,
-            46999,
+            43499,
             43499,
             43499,
             43499,
