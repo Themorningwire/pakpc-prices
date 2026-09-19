@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T03:20:37.643092+00:00",
+  "lastUpdated": "2026-09-19T10:23:08.326550+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,66 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_65fc5328",
+          "name": "Thermal Grizzly Polartherm X-8 40 Grams CPU Thermal Paste",
+          "brand": "Thermal",
+          "category": "ram",
+          "price": 5990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermal-Grizzly-Polartherm-X-8-40-Grams-CPU-Thermal-Paste-Price-in-Pakistan-Pakbyte_1.jpg?v=1789804482",
+          "url": "https://www.pakbyte.pk/products/thermal-grizzly-polartherm-x-8-40-grams-cpu-thermal-paste",
+          "history": [
+            5990
+          ]
+        },
+        {
+          "id": "pakbyte_bb4b62c9",
+          "name": "Thermal Grizzly Polartherm X-8 10 Grams CPU Thermal Paste",
+          "brand": "Thermal",
+          "category": "ram",
+          "price": 2990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/polartherm-x-8-price-in-pakistan-pakbyte_1.webp?v=1789803870",
+          "url": "https://www.pakbyte.pk/products/thermal-grizzly-polartherm-x-8-10-grams-cpu-thermal-paste",
+          "history": [
+            2990
+          ]
+        },
+        {
+          "id": "pakbyte_dd60ddff",
+          "name": "Thermal Grizzly Polartherm X-8  2 Grams CPU Thermal Paste",
+          "brand": "Thermal",
+          "category": "ram",
+          "price": 1290,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/polartherm-x-8-2g-price-in-pakistan-pakbyte_1_5fecc8d6-edc2-44bb-b2d6-9799548def1d.webp?v=1789803609",
+          "url": "https://www.pakbyte.pk/products/thermal-grizzly-polartherm-x-8-2-grams-cpu-thermal-paste",
+          "history": [
+            1290
+          ]
+        },
+        {
+          "id": "pakbyte_d2b61934",
+          "name": "Thermal Grizzly Conductonaut Extreme 1 Gram High Performance Thermal Paste",
+          "brand": "Thermal",
+          "category": "ram",
+          "price": 7990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermal-grizzly-conductonaut-extreme-price-in-pakistan-pakbyte.webp?v=1789803261",
+          "url": "https://www.pakbyte.pk/products/thermal-grizzly-conductonaut-extreme-1-gram-high-performance-thermal-paste",
+          "history": [
+            7990
+          ]
+        },
         {
           "id": "pakbyte_95fcb911",
           "name": "AULA Hero 75 HE Tri-Mode Magnetic Keyboard - Orange - Lingyun Magnetic Switch",
@@ -20,6 +80,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero75-he-lingyun-magnetic-switch-price-in-pakistan-pakbyte.webp?v=1789750846",
           "url": "https://www.pakbyte.pk/products/aula-hero-75-he-tri-mode-magnetic-keyboard-orange-lingyun-magnetic-switch",
           "history": [
+            18290,
             18290,
             18290
           ]
@@ -36,6 +97,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero68-mini-air-price-in-pakistan-pakbyte.png?v=1789746208",
           "url": "https://www.pakbyte.pk/products/aula-hero68-mini-air-keyboard-pink-rainbow-sea-wave-switches",
           "history": [
+            17390,
             17390,
             17390
           ]
@@ -54,6 +116,7 @@
           "history": [
             11490,
             11490,
+            11490,
             11490
           ]
         },
@@ -69,6 +132,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-A700-Wireless-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.jpg?v=1789672302",
           "url": "https://www.pakbyte.pk/products/aula-a700-wireless-gaming-headset-with-7-1-surround-sound-black-red",
           "history": [
+            13490,
             13490,
             13490,
             13490,
@@ -94,6 +158,7 @@
             13490,
             13490,
             13490,
+            13490,
             13490
           ]
         },
@@ -109,6 +174,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-g7-price-in-pakistan-pakbyte_1.webp?v=1789671800",
           "url": "https://www.pakbyte.pk/products/aula-g7-wireless-gaming-headset-black",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -134,6 +200,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -149,6 +216,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-g7-pro-price-in-pakistan-pakbyte_1.webp?v=1789670833",
           "url": "https://www.pakbyte.pk/products/aula-g7-pro-wireless-gaming-headset-with-7-1-surround-sound-white",
           "history": [
+            8490,
             8490,
             8490,
             8490,
@@ -171,6 +239,7 @@
           "history": [
             8290,
             8290,
+            8290,
             8290
           ]
         },
@@ -188,6 +257,7 @@
           "history": [
             16390,
             16390,
+            16390,
             16390
           ]
         },
@@ -203,6 +273,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-mini60-he-pro-price-in-pakistan-pakbyte_1.webp?v=1789667850",
           "url": "https://www.pakbyte.pk/products/aula-mini60-wireless-gaming-keyboard-white-smoky-cloud-magnetic-switches",
           "history": [
+            9290,
             9290,
             9290,
             9290,
@@ -228,6 +299,7 @@
             13990,
             13990,
             13990,
+            13990,
             13990
           ]
         },
@@ -245,6 +317,7 @@
           "history": [
             12390,
             12390,
+            12390,
             12390
           ]
         },
@@ -260,6 +333,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-l99-price-in-pakistan-pakbyte_5.webp?v=1789664969",
           "url": "https://www.pakbyte.pk/products/aula-l99-wireless-mechanical-gaming-keyboard-red-black-caramel-latte-switches",
           "history": [
+            23990,
             23990,
             23990,
             23990,
@@ -285,6 +359,7 @@
             23990,
             23990,
             23990,
+            23990,
             23990
           ]
         },
@@ -300,6 +375,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f99-pro-96-white-cotton-candy-price-in-pakistan-pakbyte.webp?v=1789644987",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-mechanical-keyboard-white-cotton-candy-switches",
           "history": [
+            15390,
             15390,
             15390,
             15390,
@@ -327,6 +403,7 @@
             15990,
             15990,
             15990,
+            15990,
             15990
           ]
         },
@@ -342,6 +419,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-S75-PRO-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1789640791",
           "url": "https://www.pakbyte.pk/products/aula-s75-pro-wireless-mechanical-keyboard-w-screen-gradient-gray-star-vector-switch",
           "history": [
+            14390,
             14390,
             14390,
             14390,
@@ -371,6 +449,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -386,6 +465,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-white-contour-price-in-pakistan-Pakbyte.webp?v=1789629072",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-mechanical-keyboard-white-contour-star-vector-switches",
           "history": [
+            12490,
             12490,
             12490,
             12490,
@@ -415,6 +495,7 @@
             11890,
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -430,6 +511,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-X9-Max-Price-In-Pakistan-Pakbyte.webp?v=1789627011",
           "url": "https://www.pakbyte.pk/products/aula-x9-max-wireless-gaming-mouse-white",
           "history": [
+            11890,
             11890,
             11890,
             11890,
@@ -459,6 +541,7 @@
             11890,
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -474,6 +557,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-SC590PRO-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1789626379",
           "url": "https://www.pakbyte.pk/products/aula-sc590-pro-high-performance-wireless-gaming-mouse-with-smart-display-1",
           "history": [
+            5890,
             5890,
             5890,
             5890,
@@ -503,6 +587,7 @@
             5890,
             5890,
             5890,
+            5890,
             5890
           ]
         },
@@ -518,6 +603,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/X-raypad-Jade-dots-mouse-skates-price-in-pakistan-pakbyte.jpg?v=1789624338",
           "url": "https://www.pakbyte.pk/products/x-raypad-jade-speed-diy-mouse-skates-universal-d6-5mm-ptfe-dots",
           "history": [
+            2390,
             2390,
             2390,
             2390,
@@ -547,6 +633,7 @@
             2590,
             2590,
             2590,
+            2590,
             2590
           ]
         },
@@ -562,6 +649,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/X-Raypad-Obsidian-Pro-Air-Speed-Mouse-Skates-Price-in-Pakistan-Pakbyte_1.jpg?v=1789581086",
           "url": "https://www.pakbyte.pk/products/x-raypad-obsidian-pro-air-speed-mouse-skates",
           "history": [
+            2990,
             2990,
             2990,
             2990,
@@ -593,6 +681,7 @@
             2590,
             2590,
             2590,
+            2590,
             2590
           ]
         },
@@ -616,6 +705,7 @@
             2490,
             2490,
             2490,
+            2490,
             2490
           ]
         },
@@ -631,6 +721,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-S35-Gaming-Mouse-Price-in-Pakistan-Pakbyte.webp?v=1789578565",
           "url": "https://www.pakbyte.pk/products/aula-s35-gaming-mouse-black",
           "history": [
+            2490,
             2490,
             2490,
             2490,
@@ -2478,7 +2569,7 @@
             18890,
             18890,
             18890,
-            18890,
+            14990,
             14990,
             14990,
             14990,
@@ -2588,6 +2679,7 @@
             940,
             940,
             940,
+            940,
             940
           ]
         },
@@ -2613,6 +2705,7 @@
             940,
             940,
             940,
+            940,
             940
           ]
         },
@@ -2628,7 +2721,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Hoco-EW980-Earbud-Price-in-Pakistan-Pakbyte_1.webp?v=1784906863",
           "url": "https://www.pakbyte.pk/products/hoco-ew98-anc-intelligent-ai-translation-heart-rate-monitoring-wireless-earbuds",
           "history": [
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2732,7 +2825,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm29-mysterious-dual-mode-silent-wireless-mouse-price-in-pakistan-pakbyte_3.webp?v=1784823972",
           "url": "https://www.pakbyte.pk/products/hoco-gm29-mysterious-dual-mode-silent-wireless-mouse-black",
           "history": [
-            2290,
+            2390,
             2390,
             2390,
             2390,
@@ -2758,7 +2851,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm29-mysterious-dual-mode-silent-wireless-mouse-price-in-pakistan-pakbyte_1.webp?v=1784823747",
           "url": "https://www.pakbyte.pk/products/hoco-gm29-mysterious-dual-mode-silent-wireless-mouse-white",
           "history": [
-            2290,
+            2390,
             2390,
             2390,
             2390,
@@ -2836,7 +2929,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w35-max-black-price-in-pakistan-pakbyte.webp?v=1784822809",
           "url": "https://www.pakbyte.pk/products/hoco-w35-max-auspicious-anc-noise-reduction-bt-headphones-black",
           "history": [
-            3990,
+            4690,
             4690,
             4690,
             4690,
@@ -2862,7 +2955,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w35-max-price-in-pakistan-pakbyte.webp?v=1784822611",
           "url": "https://www.pakbyte.pk/products/hoco-w35-max-auspicious-anc-noise-reduction-bt-headphones-silver",
           "history": [
-            3990,
+            4690,
             4690,
             4690,
             4690,
@@ -2888,7 +2981,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w56-black-price-in-pakistan-pakbyte.webp?v=1784821041",
           "url": "https://www.pakbyte.pk/products/hoco-w56-earl-wireless-bluetooth-headphones-black",
           "history": [
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2914,7 +3007,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w56-brown-price-in-pakistan-pakbyte.webp?v=1784820530",
           "url": "https://www.pakbyte.pk/products/hoco-w56-earl-wireless-bluetooth-headphones-brown",
           "history": [
-            3490,
+            4090,
             4090,
             4090,
             4090,
@@ -2940,7 +3033,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w55-green-price-in-pakistan-pakbyte.webp?v=1784820073",
           "url": "https://www.pakbyte.pk/products/hoco-w55-pleasing-wireless-bluetooth-headphones-green-gold",
           "history": [
-            3390,
+            3990,
             3990,
             3990,
             3990,
@@ -2966,7 +3059,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w55-silver-price-in-pakistan-pakbyte.webp?v=1784819155",
           "url": "https://www.pakbyte.pk/products/hoco-w55-pleasing-wireless-bluetooth-headphones-silver",
           "history": [
-            3999,
+            3990,
             3990,
             3990,
             3990,
@@ -2992,7 +3085,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w55-price-in-pakistan-pakbyte.webp?v=1784818855",
           "url": "https://www.pakbyte.pk/products/hoco-w55-pleasing-wireless-bluetooth-headphones-space-gray",
           "history": [
-            3390,
+            3990,
             3990,
             3990,
             3990,
@@ -3018,7 +3111,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w106-tiger-gaming-headset-volume-adjustment-price-in-pakistan-pakbyte_1.webp?v=1784818527",
           "url": "https://www.pakbyte.pk/products/hoco-w106-tiger-wired-gaming-headset",
           "history": [
-            2990,
+            3490,
             3490,
             3490,
             3490,
@@ -3080,6 +3173,7 @@
             1140,
             1140,
             1140,
+            1140,
             1140
           ]
         },
@@ -3121,7 +3215,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HOCO-GM40-Dixon-Dual-Mode-Wireless-Mouse-Price-in-Pakistan-Pakbyte_1.jpg?v=1784792388",
           "url": "https://www.pakbyte.pk/products/hoco-gm40-dixon-dual-mode-wireless-mouse-bluetooth-2-4g-black",
           "history": [
-            2390,
+            2640,
             2640,
             2640,
             2640,
@@ -3147,7 +3241,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-gm17-wireless-business-keyboard-mouse-set-english-black-price-in-pakistan-pakbyte_1.webp?v=1784792135",
           "url": "https://www.pakbyte.pk/products/hoco-gm17-wireless-business-keyboard-and-mouse-combo-set",
           "history": [
-            3290,
+            4040,
             4040,
             4040,
             4040,
@@ -3390,6 +3484,7 @@
             26499,
             26499,
             26499,
+            26499,
             26499
           ]
         },
@@ -3405,8 +3500,8 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c500-panoramic-stealth-ice-gaming-case-price-in-pakistan-pakbyte_1.webp?v=1784741519",
           "url": "https://www.pakbyte.pk/products/gigabyte-c500-panoramic-stealth-ice-atx-mid-tower-pc-gaming-case-pre-installed-4x-argb-fans-white",
           "history": [
-            24990,
             26499,
+            25990,
             25990,
             25990,
             25990,
@@ -6481,7 +6576,7 @@
             2790,
             2790,
             2790,
-            2790,
+            2290,
             2290,
             2290,
             2290
@@ -6533,7 +6628,7 @@
             4190,
             4190,
             4190,
-            4190,
+            4440,
             4440,
             4440,
             4440
@@ -6585,7 +6680,7 @@
             13990,
             13990,
             13990,
-            13990,
+            12940,
             12940,
             12940,
             12940
@@ -6611,7 +6706,7 @@
             13990,
             13990,
             13990,
-            13990,
+            12940,
             12940,
             12940,
             12940
@@ -6637,7 +6732,7 @@
             13990,
             13990,
             13990,
-            13990,
+            12940,
             12940,
             12940,
             12940
@@ -6663,7 +6758,7 @@
             13990,
             13990,
             13990,
-            13990,
+            12940,
             12940,
             12940,
             12940
@@ -6689,7 +6784,7 @@
             9890,
             9890,
             9890,
-            9890,
+            8990,
             8990,
             8990,
             8990
@@ -6793,7 +6888,7 @@
             7490,
             7490,
             7490,
-            7490,
+            6490,
             6490,
             6490,
             6490
@@ -6819,7 +6914,7 @@
             7490,
             7490,
             7490,
-            7490,
+            6490,
             6490,
             6490,
             6490
@@ -6845,7 +6940,7 @@
             7490,
             7490,
             7490,
-            7490,
+            6990,
             6990,
             6990,
             6990
@@ -6915,6 +7010,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-atom-63-gaming-keyboard-sky-blue-price-in-pakistan-Pakbyte_1.png?v=1783495191",
           "url": "https://www.pakbyte.pk/products/fantech-atom-63-mizu-edition-rgb-mechanical-gaming-keyboard-sky-blue-red-switches",
           "history": [
+            5990,
             5990,
             5990,
             5990
@@ -7044,7 +7140,7 @@
             3090,
             3090,
             3090,
-            3090,
+            2790,
             2790,
             2790,
             2790
@@ -7122,7 +7218,7 @@
             7790,
             7790,
             7790,
-            7790,
+            7490,
             7490,
             7490,
             7490
@@ -7148,7 +7244,7 @@
             7490,
             7490,
             7490,
-            7490,
+            6990,
             6990,
             6990,
             6990
@@ -9735,7 +9831,7 @@
           "category": "mouse",
           "price": 3490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Glorious-Large-Gaming-Mouse-Pad-Stealth-Edition-Price-in-Pakistan-Pakbyte_1.jpg?v=1781333056",
           "url": "https://www.pakbyte.pk/products/glorious-large-gaming-mouse-pad-stealth-edition",
@@ -11750,6 +11846,7 @@
             9290,
             9290,
             9290,
+            9290,
             9290
           ]
         },
@@ -11796,7 +11893,7 @@
             14990,
             14990,
             14990,
-            14990,
+            11990,
             11990,
             11990,
             11990,
@@ -11817,6 +11914,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-WIN68HE-Black-Price-in-pakistan-pakbyte.jpg?v=1778414397",
           "url": "https://www.pakbyte.pk/products/aula-win68he-gray-wood-magnetic-rt-extreme-response-gaming-keyboard-black",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -11868,6 +11966,7 @@
             16990,
             16990,
             16990,
+            16990,
             16990
           ]
         },
@@ -11888,7 +11987,7 @@
             16490,
             16490,
             16490,
-            16490,
+            15990,
             15990,
             15990,
             15990,
@@ -11939,7 +12038,7 @@
             17990,
             17990,
             17990,
-            17990,
+            15290,
             15290,
             15290,
             15290,
@@ -12042,7 +12141,7 @@
             16990,
             16990,
             16990,
-            16990,
+            14390,
             14390,
             14390,
             14390,
@@ -12091,6 +12190,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-white-contour-price-in-pakistan-pakbyte_1.webp?v=1778402103",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-gaming-keyboard-white-contour",
           "history": [
+            15490,
             15490,
             15490,
             15490,
@@ -12166,7 +12266,7 @@
             15490,
             15490,
             15490,
-            15490,
+            12990,
             12990,
             12990,
             12990,
@@ -12192,7 +12292,7 @@
             9990,
             9990,
             9990,
-            9990,
+            9490,
             9490,
             9490,
             9490,
@@ -12218,7 +12318,7 @@
             9490,
             9490,
             9490,
-            9490,
+            8990,
             8990,
             8990,
             8990,
@@ -20672,6 +20772,7 @@
             11890,
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -21917,7 +22018,7 @@
             5290,
             5290,
             5290,
-            5290,
+            5490,
             5490,
             5490,
             5490
@@ -21943,7 +22044,7 @@
             5290,
             5290,
             5290,
-            5290,
+            5490,
             5490,
             5490,
             5490
@@ -21995,7 +22096,7 @@
             1690,
             1690,
             1690,
-            1690,
+            1490,
             1490,
             1490,
             1490
@@ -22073,7 +22174,7 @@
             4290,
             4290,
             4290,
-            4290,
+            4490,
             4490,
             4490,
             4490
@@ -22125,7 +22226,7 @@
             1340,
             1340,
             1340,
-            1340,
+            990,
             990,
             990,
             990
@@ -22151,7 +22252,7 @@
             1090,
             1090,
             1090,
-            1090,
+            590,
             590,
             590,
             590
@@ -22169,6 +22270,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Fantech-Atom-81-MK875V2-RGB-Mizu-Edition-Mechanical-Gaming-Keyboard-Navy-Blue-Price-in-Pakistan-Pakbyte_1.jpg?v=1771931178",
           "url": "https://www.pakbyte.pk/products/fantech-mizu-edition-atom-81-mk875v2-rgb-mechanical-gaming-keyboard-navy-blue",
           "history": [
+            6990,
             6990,
             6990,
             6990
@@ -22272,7 +22374,7 @@
             2790,
             2790,
             2790,
-            2790,
+            2490,
             2490,
             2490,
             2490
@@ -31421,7 +31523,7 @@
             15490,
             15490,
             15490,
-            15490,
+            12990,
             12990,
             12990,
             12990,
@@ -31473,7 +31575,7 @@
             13990,
             13990,
             13990,
-            13990,
+            11990,
             11990,
             11990,
             11990,
@@ -31628,7 +31730,7 @@
             18490,
             18490,
             18490,
-            18490,
+            15290,
             15290,
             15290,
             15290,
@@ -31760,6 +31862,7 @@
             12290,
             12290,
             12290,
+            12290,
             12290
           ]
         },
@@ -31808,6 +31911,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -31826,7 +31930,7 @@
             15690,
             15690,
             15690,
-            15690,
+            12790,
             12790,
             12790,
             12790,
@@ -31852,7 +31956,7 @@
             16490,
             16490,
             16490,
-            16490,
+            12990,
             12990,
             12990,
             12990,
@@ -31956,7 +32060,7 @@
             15890,
             15890,
             15890,
-            15890,
+            12990,
             12990,
             12990,
             12990,
@@ -32031,6 +32135,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f3061-membrane-gaming-keyboard-mouse-combo-wh-price-in-pakistan-pakbyte.webp?v=1766252910",
           "url": "https://www.pakbyte.pk/products/aula-f3061-membrane-gaming-keyboard-mouse-combo-white",
           "history": [
+            3290,
             3290,
             3290,
             3290,
@@ -34454,7 +34559,7 @@
             70999,
             70999,
             70999,
-            70999,
+            84999,
             84999,
             84999,
             84999
@@ -51847,6 +51952,7 @@
             12490,
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -51865,7 +51971,7 @@
             15499,
             15499,
             15499,
-            15499,
+            13490,
             13490,
             13490,
             13490,
@@ -53167,7 +53273,7 @@
             8490,
             8490,
             8490,
-            8490,
+            7390,
             7390,
             7390,
             7390,
@@ -60989,7 +61095,7 @@
           "url": "https://www.pakbyte.pk/products/palit-geforce-rtx-5060-ti-infinity-3-16gb-gddr7-pci-express-5-0-2572mhz-28000mhz",
           "history": [
             182000,
-            182000,
+            239999,
             239999,
             239999,
             239999,
@@ -61787,8 +61893,8 @@
           "name": "G.Skill Trident Z5 Neo RGB 32GB (2x16GB) 6000MHz CL30 DDR5 Desktop Memory - Matte Black",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 133999,
-          "oldPrice": null,
+          "price": 174999,
+          "oldPrice": 133999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-Neo-RGB-32GB-2x16GB-6000MHz-C36-DDR5-36-36-36-96-DRAM-Desktop-Memory-Matte-Black-PakByte-Computers-26167513579587.jpg?v=1753670835",
@@ -61805,7 +61911,7 @@
             133999,
             133999,
             133999,
-            133999
+            174999
           ]
         },
         {
@@ -89388,7 +89494,7 @@
             13490,
             13490,
             13490,
-            13490,
+            15899,
             15899,
             15899,
             15899
@@ -118635,7 +118741,7 @@
             98999,
             98999,
             98999,
-            98999,
+            314999,
             314999,
             314999,
             314999,
@@ -147048,6 +147154,7 @@
           "history": [
             1470000,
             1470000,
+            1470000,
             1470000
           ]
         },
@@ -147065,6 +147172,7 @@
           "history": [
             1470000,
             1470000,
+            1470000,
             1470000
           ]
         },
@@ -147080,6 +147188,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/XPG-PYLON-II-650W-80-PLUS-Bronze-ATX-3.1-Non-Modular-Power-Supply.jpg",
           "url": "https://zahcomputers.pk/product/xpg-pylon-ii-650w-80-plus-bronze-atx-3-1-non-modular-power-supply",
           "history": [
+            1600000,
             1600000,
             1600000,
             1600000,
@@ -147107,6 +147216,7 @@
             590000,
             590000,
             590000,
+            590000,
             590000
           ]
         },
@@ -147122,6 +147232,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-SC380Pro-Wireless-Gaming-Mouse-White.webp",
           "url": "https://zahcomputers.pk/product/aula-sc380pro-wireless-gaming-mouse-white",
           "history": [
+            590000,
             590000,
             590000,
             590000,
@@ -147149,6 +147260,7 @@
             349900,
             349900,
             349900,
+            349900,
             349900
           ]
         },
@@ -147170,49 +147282,8 @@
             25500000,
             25500000,
             25500000,
+            25500000,
             25500000
-          ]
-        },
-        {
-          "id": "zah_048a8ddc",
-          "name": "AULA F2088 Air Mechanical Gaming Keyboard 98-Key | Tri-Mode | Hot-Swappable | RGB White &#",
-          "brand": "AULA",
-          "category": "keyboard",
-          "price": 750000,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F2088-Air-Mechanical-Gaming-Keyboard-98-Key-White-Red-Switch.jpg",
-          "url": "https://zahcomputers.pk/product/aula-f2088-air-mechanical-gaming-keyboard-98-key-tri-mode-hot-swappable-rgb-white-red-switch",
-          "history": [
-            750000,
-            750000,
-            750000,
-            750000,
-            750000,
-            750000,
-            750000
-          ]
-        },
-        {
-          "id": "zah_3dac8476",
-          "name": "AULA F2088 Air Mechanical Gaming Keyboard 98-Key | Tri-Mode | Hot-Swappable | RGB Gradient",
-          "brand": "AULA",
-          "category": "keyboard",
-          "price": 750000,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F2088-Air-Mechanical-Gaming-Keyboard-98-Key.webp",
-          "url": "https://zahcomputers.pk/product/aula-f2088-air-mechanical-gaming-keyboard",
-          "history": [
-            750000,
-            750000,
-            750000,
-            750000,
-            750000,
-            750000,
-            750000
           ]
         },
         {
@@ -147227,6 +147298,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Thermalright-TL-M12W-S-ARGB-120mm-Case-Fan-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m12w-s-argb-120mm-case-fan-white",
           "history": [
+            135000,
             135000,
             135000,
             135000,
@@ -147262,6 +147334,7 @@
             349900,
             349900,
             349900,
+            349900,
             349900
           ]
         },
@@ -147287,6 +147360,7 @@
             40499900,
             40499900,
             40499900,
+            40499900,
             40499900
           ]
         },
@@ -147302,6 +147376,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-F75-RGB-Wireless-Mechanical-Gaming-Keyboard-White.webp",
           "url": "https://zahcomputers.pk/product/aula-f75-rgb-wireless-mechanical-gaming-keyboard-retro-white-milk-white-switch",
           "history": [
+            1280000,
             1280000,
             1280000,
             1280000,
@@ -147337,6 +147412,7 @@
             1280000,
             1280000,
             1280000,
+            1280000,
             1280000
           ]
         },
@@ -147352,6 +147428,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-HERO-68-HE-Wired-Hall-Effect-Gaming-Keyboard.webp",
           "url": "https://zahcomputers.pk/product/aula-hero-68-he-wired-hall-effect-gaming-keyboard-white",
           "history": [
+            1230000,
             1230000,
             1230000,
             1230000,
@@ -147387,6 +147464,7 @@
             1180000,
             1180000,
             1180000,
+            1180000,
             1180000
           ]
         },
@@ -147402,6 +147480,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-WIN60-HE-Max-Wired-Hall-Effect-Gaming-Keyboard-White-Blue.webp",
           "url": "https://zahcomputers.pk/product/aula-win60-he-max-wired-hall-effect-gaming-keyboard",
           "history": [
+            1080000,
             1080000,
             1080000,
             1080000,
@@ -147533,6 +147612,7 @@
           "history": [
             1280000,
             1280000,
+            1280000,
             1280000
           ]
         },
@@ -147548,6 +147628,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/AULA-F87-Pro-Wireless-Mechanical-Gaming-Keyboard-Black.webp",
           "url": "https://zahcomputers.pk/product/aula-f87-pro-wireless-mechanical-gaming-keyboard-2",
           "history": [
+            1350000,
             1350000,
             1350000,
             1350000
@@ -148702,8 +148783,8 @@
           "name": "Kingston ValueRAM 8GB DDR5 5600MT/s Desktop RAM | Non-ECC Unbuffered DIMM | CL40 | 1Rx16 |",
           "brand": "Kingston",
           "category": "ram",
-          "price": 3300000,
-          "oldPrice": null,
+          "price": 3600000,
+          "oldPrice": 3300000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Kingston-ValueRAM-8GB-DDR5-4800MT.webp",
@@ -148720,7 +148801,7 @@
             3300000,
             3300000,
             3300000,
-            3300000
+            3600000
           ]
         },
         {
@@ -149047,6 +149128,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/Lexar-THOR-RGB-2nd-Gen-DDR5-Desktop-Memory.jpg",
           "url": "https://zahcomputers.pk/product/lexar-thor-rgb-2nd-gen-ddr5-desktop-memory-2x32gb-64gb-ddr5-6000mt-s-6400mt-s-intel-xmp-3-0-amd-expo-rgb-aluminum-heatsink-desktop-udimm-ram",
           "history": [
+            31500000,
             31500000,
             31500000,
             31500000
@@ -149825,7 +149907,7 @@
             49000000,
             49000000,
             49000000,
-            49000000,
+            46500000,
             46500000,
             46500000,
             46500000,
@@ -152808,7 +152890,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Thermalright-TR-A70-Vision-ATX-Desktop-Gaming-Case-Including-9.16-LCD-Black-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tr-a70-atx-desktop-gaming-case-including-panoramic-light-strip-5x-argb-fans-black",
           "history": [
-            3000000,
+            3199900,
             3199900,
             3199900,
             3199900,
@@ -152834,7 +152916,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Thermalright-TR-A70-Vision-ATX-Desktop-Gaming-Case-Including-9.16-LCD-White-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tr-a70-atx-desktop-gaming-case-including-panoramic-light-strip-5x-argb-fans-white",
           "history": [
-            3100000,
+            3299900,
             3299900,
             3299900,
             3299900,
@@ -152860,7 +152942,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Thermalright-Magic-Qube-360-ARGB-Black-AIO-Liquid-CPU-Cooler-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/thermalright-magic-qube-360-argb-black-aio-liquid-cpu-cooler-360mm-radiator-infinity-mirror-pump",
           "history": [
-            2000000,
+            2399900,
             2399900,
             2399900,
             2399900,
@@ -152886,7 +152968,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/07/Thermalright-Magic-Qube-360-ARGB-White-AIO-Liquid-CPU-Cooler-Price-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/thermalright-magic-qube-360-argb-white-aio-liquid-cpu-cooler-360mm-radiator-infinity-mirror-pump",
           "history": [
-            2100000,
+            2449900,
             2449900,
             2449900,
             2449900,
@@ -153328,7 +153410,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/AULA-SC680-58g-Ultra-Lightweight-Tri-Mode-Wireless-Gaming-Mouse-White.avif",
           "url": "https://zahcomputers.pk/product/aula-sc680-58g-ultra-lightweight-tri-mode-wireless-gaming-mouse-white",
           "history": [
-            850000,
+            890000,
             890000,
             890000,
             890000,
@@ -154439,8 +154521,8 @@
           "name": "PNY GeForce RTX™ 5060 8GB Dual Fan DLSS 4 Gaming Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 13800000,
-          "oldPrice": null,
+          "price": 14200000,
+          "oldPrice": 13800000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/PNY-GeForce-RTX-5060-8GB-Dual-Fan-DLSS-4-Gaming-Graphics-Card-Price-in-Pakistan.jpg",
@@ -154457,7 +154539,7 @@
             13800000,
             13800000,
             13800000,
-            13800000
+            14200000
           ]
         },
         {
@@ -154732,7 +154814,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/06/AULA-AG60-MAX-Wired-PPrice-in-Pakistan.webp",
           "url": "https://zahcomputers.pk/product/aula-ag60-max-wired-hall-effect-magnetic-gaming-keyboard-blue-gray-peral-white-godmode-magnetic-switch",
           "history": [
-            4499900,
+            5000000,
             5000000,
             5000000,
             5000000,
@@ -154788,7 +154870,7 @@
             200000,
             200000,
             200000,
-            200000,
+            220000,
             220000,
             220000,
             220000,
@@ -154840,7 +154922,7 @@
             850000,
             850000,
             850000,
-            850000,
+            890000,
             890000,
             890000,
             890000,
@@ -158859,8 +158941,8 @@
           "name": "Apple MacBook Air 13&#8243; MDHA4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Starlight",
           "brand": "Apple",
           "category": "ram",
-          "price": 43900000,
-          "oldPrice": null,
+          "price": 44200000,
+          "oldPrice": 43900000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHA4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
@@ -158877,7 +158959,7 @@
             43900000,
             43900000,
             43900000,
-            43900000
+            44200000
           ]
         },
         {
@@ -158885,8 +158967,8 @@
           "name": "Apple MacBook Air 13&#8243; MDH74 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Silver",
           "brand": "Apple",
           "category": "ram",
-          "price": 44400000,
-          "oldPrice": null,
+          "price": 45200000,
+          "oldPrice": 44400000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDH74-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
@@ -158903,7 +158985,7 @@
             44400000,
             44400000,
             44400000,
-            44400000
+            45200000
           ]
         },
         {
@@ -158911,8 +158993,8 @@
           "name": "Apple MacBook Air 13&#8243; MDHH4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Sky Blue",
           "brand": "Apple",
           "category": "ram",
-          "price": 43900000,
-          "oldPrice": null,
+          "price": 44200000,
+          "oldPrice": 43900000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Sky-Blue-Price-in-Pakistan.jpg",
@@ -158929,7 +159011,7 @@
             43900000,
             43900000,
             43900000,
-            43900000
+            44200000
           ]
         },
         {
@@ -159067,8 +159149,8 @@
           "name": "Apple MacBook Air 15&#8243; MW1H3 M4 10-Core Chip 16GB Unified RAM | 512GB SSD Silver",
           "brand": "Apple",
           "category": "ram",
-          "price": 42200000,
-          "oldPrice": null,
+          "price": 42600000,
+          "oldPrice": 42200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Apple-MacBook-Air-15-MW1H3-M4-10-Core-Chip-16GB-Unified-RAM-512GB-SSD-Silver-Price-in-Pakistan.jpg",
@@ -159085,7 +159167,7 @@
             42200000,
             42200000,
             42200000,
-            42200000
+            42600000
           ]
         },
         {
@@ -161366,7 +161448,7 @@
             25500000,
             25500000,
             25500000,
-            25500000,
+            26500000,
             26500000,
             26500000,
             26500000,
@@ -162161,8 +162243,8 @@
           "name": "Apple MacBook Neo MHFH4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 256GB SSD Blush",
           "brand": "Apple",
           "category": "ram",
-          "price": 24200000,
-          "oldPrice": null,
+          "price": 23700000,
+          "oldPrice": 24200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFH4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Blush-Price-in-Pakistan.jpg",
@@ -162179,7 +162261,7 @@
             24200000,
             24200000,
             24200000,
-            24200000
+            23700000
           ]
         },
         {
@@ -162213,8 +162295,8 @@
           "name": "Apple MacBook Neo MHFA4 13&#8243; A18 Pro 6-Core Chip 8GB Unified Ram | 256GB SSD Silver",
           "brand": "Apple",
           "category": "ram",
-          "price": 23500000,
-          "oldPrice": null,
+          "price": 23200000,
+          "oldPrice": 23500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Neo-MHFA4-13-A18-Pro-6-Core-Chip-8GB-Unified-Ram-256GB-SSD-Silver.jpg",
@@ -162231,7 +162313,7 @@
             23500000,
             23500000,
             23500000,
-            23500000
+            23200000
           ]
         },
         {
@@ -162291,8 +162373,8 @@
           "name": "Apple MacBook Air 13&#8243; MDHE4 M5 Chip 10-Core 16GB Unified RAM | 512GB SSD Midnight",
           "brand": "Apple",
           "category": "ram",
-          "price": 43900000,
-          "oldPrice": null,
+          "price": 44700000,
+          "oldPrice": 43900000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
@@ -162309,7 +162391,7 @@
             43900000,
             43900000,
             43900000,
-            43900000
+            44700000
           ]
         },
         {
@@ -164542,7 +164624,7 @@
             109500,
             109500,
             109500,
-            109500,
+            120000,
             120000,
             120000,
             120000
@@ -166687,7 +166769,7 @@
           "category": "mouse",
           "price": 169900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R547-2.4G-USB-Wireless-Optical-Mouse-Gray-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r547-2-4g-usb-wireless-optical-mouse-gray",
@@ -166713,7 +166795,7 @@
           "category": "mouse",
           "price": 169900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R547-2.4G-USB-Wireless-Optical-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r547-2-4g-usb-wireless-optical-mouse-black",
@@ -166739,7 +166821,7 @@
           "category": "mouse",
           "price": 159900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R547-Wireless-2.4GHz-Silent-Mouse-White-rice-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r547-wireless-2-4ghz-silent-mouse-white",
@@ -166765,7 +166847,7 @@
           "category": "mouse",
           "price": 159900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R547-Wireless-2.4GHz-Silent-Mouse-Black-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r547-wireless-2-4ghz-silent-mouse-black",
@@ -166791,7 +166873,7 @@
           "category": "mouse",
           "price": 169900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R560-2.4G-Wireless-Laptop-Optical-Mouse-Gray-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r560-2-4g-wireless-laptop-optical-mouse-gray",
@@ -166817,7 +166899,7 @@
           "category": "mouse",
           "price": 169900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R560-2.4G-Wireless-Laptop-Optical-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r560-2-4g-wireless-laptop-optical-mouse-black",
@@ -166843,7 +166925,7 @@
           "category": "mouse",
           "price": 239900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-BTM185R-Wireless-2.4G-Blueetooth-Dual-Mode-Mouse-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-btm185-wireless-2-4g-blueetooth-silent-mouse",
@@ -166921,7 +167003,7 @@
           "category": "mouse",
           "price": 179900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R571-2.4g-Wireless-Office-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r571-2-4g-wireless-office-mouse-black",
@@ -166947,7 +167029,7 @@
           "category": "mouse",
           "price": 149900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R545-Wireless-USB-Mouse-Blue-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r545-wireless-usb-mouse-blue",
@@ -166973,7 +167055,7 @@
           "category": "mouse",
           "price": 149900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R545-Wireless-USB-Mouse-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r545-wireless-usb-mouse-white",
@@ -166999,7 +167081,7 @@
           "category": "mouse",
           "price": 149900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-R545-Wireless-USB-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-r545-wireless-usb-mouse-black",
@@ -167025,7 +167107,7 @@
           "category": "mouse",
           "price": 99900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-M100-Silent-Optical-Wired-Mouse-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-m100-silent-optical-wired-mouse",
@@ -167051,7 +167133,7 @@
           "category": "mouse",
           "price": 89900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-M360-USB-Wired-Mouse-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-m360-usb-wired-mouse",
@@ -167259,7 +167341,7 @@
           "category": "keyboard",
           "price": 589900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-ikey-K230-Full-Keys-2.4G-and-Bluetooth-Three-Modes-Keyboard-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-ikey-k230-full-keys-2-4g-and-bluetooth-three-modes-keyboard-white",
@@ -167493,7 +167575,7 @@
           "category": "keyboard",
           "price": 379900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-CW216-Silent-Wireless-Keyboard-Mouse-Combo-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-cw216-silent-wireless-keyboard-mouse-combo",
@@ -167519,7 +167601,7 @@
           "category": "keyboard",
           "price": 299900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-CW235-2.4G-Wireless-Keyboard-Mouse-Combo-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/meetion-cw235-2-4g-wireless-keyboard-mouse-combo",
@@ -167779,7 +167861,7 @@
           "category": "keyboard",
           "price": 339900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Meetion-CW295-Silent-2.4G-Wireless-Keyboard-Mouse-Combo-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-cw295-silent-2-4g-wireless-keyboard-mouse-combo",
@@ -167831,7 +167913,7 @@
           "category": "keyboard",
           "price": 209900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-C235-Economic-USB-104-Keys-Wired-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-c235-economic-usb-104-keys-wired-keyboard",
@@ -167883,7 +167965,7 @@
           "category": "headset",
           "price": 259900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-HP002U-USB-Single-Ear-Telephone-Headset-Black-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp002u-usb-single-ear-telephone-headset-black",
@@ -167935,7 +168017,7 @@
           "category": "headset",
           "price": 209900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-HP002-3.5mm-Single-Ear-Telephone-Headset-Black-Price-in-Pakistan-07.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp002-3-5mm-single-ear-telephone-headset-black",
@@ -167961,7 +168043,7 @@
           "category": "headset",
           "price": 249900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-HP003U-USB-Wired-Telephone-Headset-White-Price-in-Pakistan-03.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp003u-usb-wired-telephone-headset-white",
@@ -167987,7 +168069,7 @@
           "category": "headset",
           "price": 249900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-HP003U-USB-Wired-Telephone-Headset-Price-in-Pakistan-02.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp003u-usb-wired-telephone-headset-black",
@@ -168013,7 +168095,7 @@
           "category": "headset",
           "price": 289900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-BTH003-Bluetooth-Telephone-Headset-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-bth003-bluetooth-telephone-headset",
@@ -168039,7 +168121,7 @@
           "category": "headset",
           "price": 229900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-HP003-3.5-mm-Telephone-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp003-3-5-mm-telephone-headset",
@@ -168169,7 +168251,7 @@
           "category": "mouse",
           "price": 199900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-PD120-Rubber-Led-RGB-Gaming-Mouse-Pad-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-pd120-rubber-led-rgb-gaming-mouse-pad",
@@ -168221,7 +168303,7 @@
           "category": "mouse",
           "price": 49900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-PD015-Soft-Rubber-Gaming-Mouse-Pad-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-pd015-soft-rubber-gaming-mouse-pad-black",
@@ -168247,7 +168329,7 @@
           "category": "cooler",
           "price": 519900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-CP5050-Super-Silent-RGB-Gaming-Cooler-Pad-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-cp5050-super-silent-rgb-gaming-cooler-pad",
@@ -168273,7 +168355,7 @@
           "category": "cooler",
           "price": 459900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-CP4040-RGB-Gaming-Cooling-Pad-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-cp4040-rgb-gaming-cooling-pad",
@@ -168325,7 +168407,7 @@
           "category": "cooler",
           "price": 229900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-CP2020-RGB-Gaming-Cooking-Pad-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-cp2020-rgb-gaming-cooking-pad",
@@ -168377,7 +168459,7 @@
           "category": "headset",
           "price": 249900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-HP010-Scalable-Noise-canceling-Wired-Gaming-Headset-with-Mic-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp010-scalable-noise-canceling-wired-gaming-headset-with-mic",
@@ -168403,7 +168485,7 @@
           "category": "headset",
           "price": 339900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-HP020-Wired-Gaming-Headset-–-50mm-Stereo-Sound-Omni-directional-Mic-USB-Connectivity-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp020-wired-gaming-headset-50mm-stereo-sound-omni-directional-mic-usb-connectivity",
@@ -168429,7 +168511,7 @@
           "category": "headset",
           "price": 409900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-HP030-Wired-HIFI-7.1-Gaming-Headphone-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp030-wired-hifi-7-1-gaming-headphone-black",
@@ -168455,7 +168537,7 @@
           "category": "headset",
           "price": 879900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-BTH013-50MM-Wireless-Surround-Sound-Gaming-Headset-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-bth013-50mm-wireless-surround-sound-gaming-headset-black",
@@ -168481,7 +168563,7 @@
           "category": "headset",
           "price": 319900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-HP021-Stereo-Lightweight-Backlit-Headset-with-Mic-Black-Orange-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp021-stereo-lightweight-backlit-headset-with-mic-black-orange",
@@ -168507,7 +168589,7 @@
           "category": "headset",
           "price": 819900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-HP099-RGB-Backlit-Gaming-Headset-Black-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp099-rgb-backlit-gaming-headset-black",
@@ -168533,7 +168615,7 @@
           "category": "headset",
           "price": 199900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-HP022-Noise-Cancelling-RGB-Wired-Gaming-Headset-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-hp022-noise-cancelling-rgb-wired-gaming-headset",
@@ -168585,7 +168667,7 @@
           "category": "mouse",
           "price": 179900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-M915-6D-Optical-Backlit-Wired-Gaming-Mouse-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-m915-6d-optical-backlit-wired-gaming-mouse-white",
@@ -168611,7 +168693,7 @@
           "category": "mouse",
           "price": 179900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-M915-6D-Optical-Backlit-Wired-Gaming-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-m915-6d-optical-backlit-wired-gaming-mouse-black",
@@ -168635,9 +168717,9 @@
           "name": "Meetion GW32 Three-Mode 2.4G Wireless Bluetooth &amp; Wired Gaming Ergonomic Mouse &#8211;",
           "brand": "Meetion",
           "category": "mouse",
-          "price": 449900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 425000,
+          "oldPrice": 449900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-GW32-Three-Mode-2.4G-Wireless-Bluetooth-Wired-Gaming-Ergonomic-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-gw32-three-mode-2-4g-wireless-bluetooth-wired-gaming-ergonomic-mouse-black",
@@ -168653,7 +168735,37 @@
             449900,
             449900,
             449900,
-            449900
+            425000
+          ]
+        },
+        {
+          "id": "zah_eea1a237",
+          "name": "Meetion GW38 Wireless Tri-Mode Gaming Mouse with Magnetic Charging Dock &#8211; White",
+          "brand": "Meetion",
+          "category": "mouse",
+          "price": 480000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Meetion-GW38-Wireless-Tri-Mode-Gaming-Mouse-with-Magnetic-Charging-Dock-–-White-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/meetion-gw38-wireless-tri-mode-gaming-mouse-with-magnetic-charging-dock-white",
+          "history": [
+            480000
+          ]
+        },
+        {
+          "id": "zah_9f5493f0",
+          "name": "Meetion GW38 Wireless Tri-Mode Gaming Mouse with Magnetic Charging Dock &#8211; Black",
+          "brand": "Meetion",
+          "category": "mouse",
+          "price": 530000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-GW38-Wireless-Tri-Mode-Gaming-Mouse-with-Magnetic-Charging-Dock-Black-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/meetion-gw38-wireless-tri-mode-gaming-mouse-with-magnetic-charging-dock-black",
+          "history": [
+            530000
           ]
         },
         {
@@ -168668,7 +168780,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-TL-M10W-Mid-Tower-Micro-ATX-Gaming-Case-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m10w-mid-tower-micro-atx-gaming-case-white-with-4-fans",
           "history": [
-            1800000,
+            1799900,
             1799900,
             1799900,
             1799900,
@@ -168720,7 +168832,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-TL-M10W-Vision-LCD-Screen-Mid-Tower-Micro-ATX-Gaming-Case-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m10w-vision-lcd-screen-mid-tower-micro-atx-gaming-case-white-with-4-fans",
           "history": [
-            2880000,
+            2879900,
             2879900,
             2879900,
             2879900,
@@ -168741,7 +168853,7 @@
           "category": "mouse",
           "price": 169900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-M930-Wired-RGB-Gaming-Mouse-–-Adjustable-DPI-up-to-2400-3200-6-Buttons-Ergonomic-Design-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-m930-wired-rgb-gaming-mouse-adjustable-dpi-up-to-2400-3200-6-buttons-ergonomic-design",
@@ -168765,9 +168877,9 @@
           "name": "Meetion GM015 Honeycomb RGB Gaming Mouse – Lightweight 6400 DPI 7+1 Buttons",
           "brand": "Meetion",
           "category": "mouse",
-          "price": 289900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 280000,
+          "oldPrice": 289900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-GM015-Honeycomb-RGB-Gaming-Mouse-–-Lightweight-6400-DPI-71-Buttons-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-gm015-honeycomb-rgb-gaming-mouse-lightweight-6400-dpi-71-buttons",
@@ -168783,7 +168895,7 @@
             289900,
             289900,
             289900,
-            289900
+            280000
           ]
         },
         {
@@ -168791,9 +168903,9 @@
           "name": "Meetion GM19 2023 RGB Backlight Wired Gaming Mouse &#8211; Black",
           "brand": "Meetion",
           "category": "mouse",
-          "price": 269900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 235000,
+          "oldPrice": 269900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-GM19-2023-RGB-Backlight-Wired-Gaming-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-gm19-2023-rgb-backlight-wired-gaming-mouse-black",
@@ -168809,7 +168921,7 @@
             269900,
             269900,
             269900,
-            269900
+            235000
           ]
         },
         {
@@ -168817,8 +168929,8 @@
           "name": "Meetion GM21 2023 Wired 12000 DPI Computer Gaming Mouse &#8211; Black",
           "brand": "Meetion",
           "category": "mouse",
-          "price": 219900,
-          "oldPrice": null,
+          "price": 185000,
+          "oldPrice": 219900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-GM21-2023-Wired-12000-DPI-Computer-Gaming-Mouse-Black-Price-in-Pakistan.jpg",
@@ -168835,7 +168947,7 @@
             219900,
             219900,
             219900,
-            219900
+            185000
           ]
         },
         {
@@ -168843,8 +168955,8 @@
           "name": "Meetion GM23 2023 RGB Circulation Backlit Wired Gaming Mouse &#8211; White",
           "brand": "Meetion",
           "category": "mouse",
-          "price": 399900,
-          "oldPrice": null,
+          "price": 295000,
+          "oldPrice": 399900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-GM23-2023-RGB-Circulation-Backlit-Wired-Gaming-Mouse-White-Price-in-Pakistan-01.jpg",
@@ -168861,7 +168973,7 @@
             399900,
             399900,
             399900,
-            399900
+            295000
           ]
         },
         {
@@ -168869,8 +168981,8 @@
           "name": "Meetion GM23 2023 RGB Circulation Backlit Wired Gaming Mouse &#8211; Black",
           "brand": "Meetion",
           "category": "mouse",
-          "price": 399900,
-          "oldPrice": null,
+          "price": 295000,
+          "oldPrice": 399900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-GM23-2023-RGB-Circulation-Backlit-Wired-Gaming-Mouse-Black-Price-in-Pakistan-01.jpg",
@@ -168887,7 +168999,7 @@
             399900,
             399900,
             399900,
-            399900
+            295000
           ]
         },
         {
@@ -168895,8 +169007,8 @@
           "name": "Meetion C505 Wired Rgb Led Mouse Keyboard Headset Mice Bundle Set Combos Headphones Gaming",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 769900,
-          "oldPrice": null,
+          "price": 825000,
+          "oldPrice": 769900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-C505-Wired-Rgb-Led-Mouse-Keyboard-Headset-Mice-Bundle-Set-Combos-Headphones-Gaming-Keyboard-Mouse-and-Mouse-Pad-Black-Price-in-Pakistan.jpg",
@@ -168913,7 +169025,7 @@
             769900,
             769900,
             769900,
-            769900
+            825000
           ]
         },
         {
@@ -168921,8 +169033,8 @@
           "name": "Meetion C490 4in1 Wired Rainbow Gaming Keyboard + Mouse + Mouse Pad + Headset Combo",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 519900,
-          "oldPrice": null,
+          "price": 640000,
+          "oldPrice": 519900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-C490-4in1-Wired-Rainbow-Gaming-Keyboard-Mouse-Mouse-Pad-Headset-Combo-Price-in-Pakistan.jpg",
@@ -168939,7 +169051,7 @@
             519900,
             519900,
             519900,
-            519900
+            640000
           ]
         },
         {
@@ -168947,9 +169059,9 @@
           "name": "Meetion K9320 Waterproof Backlit Wired Gaming Keyboard",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 239900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 270000,
+          "oldPrice": 239900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-K9320-Waterproof-Backlit-Wired-Gaming-Keyboard-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-k9320-waterproof-backlit-wired-gaming-keyboard",
@@ -168965,7 +169077,7 @@
             239900,
             239900,
             239900,
-            239900
+            270000
           ]
         },
         {
@@ -168973,8 +169085,8 @@
           "name": "Meetion MK005BT Dual Mode Bluetooth Wired 60% Mini Gaming Mechanical Keyboard &#8211; Blac",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 789900,
-          "oldPrice": null,
+          "price": 775000,
+          "oldPrice": 789900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK005BT-Dual-Mode-Bluetooth-Wired-60-Mini-Gaming-Mechanical-Keyboard-Black-Price-in-Pakistan-01.jpg",
@@ -168991,7 +169103,7 @@
             789900,
             789900,
             789900,
-            789900
+            775000
           ]
         },
         {
@@ -168999,9 +169111,9 @@
           "name": "Meetion MK005 Wired 60% Mini Mechanical Keyboard &#8211; White",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 529900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 565000,
+          "oldPrice": 529900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK005-Wired-60-Mini-Mechanical-Keyboard-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-mk005-wired-60-mini-mechanical-keyboard-white",
@@ -169017,7 +169129,7 @@
             529900,
             529900,
             529900,
-            529900
+            565000
           ]
         },
         {
@@ -169025,8 +169137,8 @@
           "name": "Meetion MK005 Wired 60% Mini Mechanical Keyboard &#8211; Black",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 550000,
-          "oldPrice": null,
+          "price": 565000,
+          "oldPrice": 550000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK005-Wired-60-Mini-Mechanical-Keyboard-Black-Price-in-Pakistan.jpg",
@@ -169043,7 +169155,7 @@
             550000,
             550000,
             550000,
-            550000
+            565000
           ]
         },
         {
@@ -169051,9 +169163,9 @@
           "name": "Meetion MK006 Pro 75% RGB Wired Mechanical Keyboard – Black",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 669900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 755000,
+          "oldPrice": 669900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK006-Pro-75-RGB-Wired-Mechanical-Keyboard-–-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-mk006-pro-75-rgb-wired-mechanical-keyboard-black",
@@ -169069,7 +169181,7 @@
             669900,
             669900,
             669900,
-            669900
+            755000
           ]
         },
         {
@@ -169077,9 +169189,9 @@
           "name": "Meetion MK008 Pro Anti-Ghosting ABS Keycaps HighQuality-Metal Mechanical Gaming Keyboard",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 680000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 575000,
+          "oldPrice": 680000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK008-Pro-Anti-Ghosting-ABS-Keycaps-HighQuality-Metal-Mechanical-Gaming-Keyboard-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-mk008-pro-anti-ghosting-abs-keycaps-highquality-metal-mechanical-gaming-keyboard",
@@ -169095,7 +169207,7 @@
             680000,
             680000,
             680000,
-            680000
+            575000
           ]
         },
         {
@@ -169103,8 +169215,8 @@
           "name": "Meetion MK009 PRO Gaming Keyboards with Red Switch Hot-Swap Mechanical Keyboard with Volum",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 749900,
-          "oldPrice": null,
+          "price": 745000,
+          "oldPrice": 749900,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK009-PRO-Gaming-Keyboards-with-Red-Switch-Hot-Swap-Mechanical-Keyboard-Price-in-Pakistan02.jpg",
@@ -169121,7 +169233,7 @@
             749900,
             749900,
             749900,
-            749900
+            745000
           ]
         },
         {
@@ -169129,8 +169241,8 @@
           "name": "Meetion MK12 65% RGB Arabic Triple Mode Wireless Bluetooth Mechanical Keyboard &#8211; Whi",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 959900,
-          "oldPrice": null,
+          "price": 930000,
+          "oldPrice": 959900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK12-65-RGB-Arabic-Triple-Mode-Wireless-Bluetooth-Mechanical-Keyboard-White-Price-in-Pakistan.jpg",
@@ -169147,7 +169259,7 @@
             959900,
             959900,
             959900,
-            959900
+            930000
           ]
         },
         {
@@ -169155,9 +169267,9 @@
           "name": "Meetion MK12 65% RGB Arabic Triple Mode Wireless Bluetooth Mechanical Keyboard &#8211; Bla",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 959900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 930000,
+          "oldPrice": 959900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK12-65-RGB-Arabic-Triple-Mode-Wireless-Bluetooth-Mechanical-Keyboard-Black-Price-in-Paksitan.jpg",
           "url": "https://zahcomputers.pk/product/meetion-mk12-65-rgb-arabic-triple-mode-wireless-bluetooth-mechanical-keyboard-black",
@@ -169173,7 +169285,7 @@
             959900,
             959900,
             959900,
-            959900
+            930000
           ]
         },
         {
@@ -169181,8 +169293,8 @@
           "name": "Meetion MK14 TKL Triple-Mode Wireless RGB Mechanical Keyboard &#8211; White",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 1069900,
-          "oldPrice": null,
+          "price": 1045000,
+          "oldPrice": 1069900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK14-TKL-Triple-Mode-Wireless-RGB-Mechanical-Keyboard-White-Price-in-Pakistan-01.jpg",
@@ -169199,7 +169311,7 @@
             1069900,
             1069900,
             1069900,
-            1069900
+            1045000
           ]
         },
         {
@@ -169207,9 +169319,9 @@
           "name": "Meetion MK14 TKL Triple-Mode Wireless RGB Mechanical Keyboard &#8211; Black",
           "brand": "Meetion",
           "category": "keyboard",
-          "price": 1069900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 1045000,
+          "oldPrice": 1069900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Meetion-MK14-TKL-Triple-Mode-Wireless-RGB-Mechanical-Keyboard-Black-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/meetion-mk14-tkl-triple-mode-wireless-rgb-mechanical-keyboard-black",
@@ -169225,7 +169337,7 @@
             1069900,
             1069900,
             1069900,
-            1069900
+            1045000
           ]
         },
         {
@@ -169890,7 +170002,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Thermalright-Wonder-Vision-360-Turbo-ARGB-White-CPU-Liquid-Cooler-3D-Curved-Screen-with-2400x1080-Resolutions-Price-in-Pakistan-0.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-wonder-vision-360-turbo-argb-white-cpu-liquid-cooler-3d-curved-screen-with-2400x1080-resolutions",
           "history": [
-            9499900,
+            8499900,
             8499900,
             8499900,
             8499900,
@@ -169942,7 +170054,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Thermalright-Peerless-Vision-360-ARGB-Black-CPU-Liquid-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-peerless-vision-360-argb-white-cpu-liquid-cooler",
           "history": [
-            3300000,
+            3599900,
             3599900,
             3599900,
             3599900,
@@ -169968,7 +170080,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/Thermalright-Peerless-Vision-360-ARGB-Black-CPU-Liquid-Cooler-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-peerless-vision-360-argb-black-cpu-liquid-cooler",
           "history": [
-            3300000,
+            3499900,
             3499900,
             3499900,
             3499900,
@@ -173902,7 +174014,7 @@
             13800000,
             13800000,
             13800000,
-            13800000,
+            14500000,
             14500000,
             14500000,
             14500000
@@ -187492,7 +187604,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-TL-M10-Mid-Tower-Micro-ATX-Gaming-Case-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m10-mid-tower-micro-atx-gaming-case-black",
           "history": [
-            1750000,
+            1749900,
             1749900,
             1749900,
             1749900,
@@ -187522,7 +187634,7 @@
             499900,
             499900,
             499900,
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187544,7 +187656,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Thermalright-TL-M12Q-S-X3-Wireless-Splicing-Case-Fan-120mm-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m12qr-x3-120mm-pc-reverse-blade-case-cooling-fans",
           "history": [
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187574,7 +187686,7 @@
             499900,
             499900,
             499900,
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187596,7 +187708,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/Thermalright-TL-M12Q-S-X3-Wireless-Splicing-Case-Fan-120mm-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-m12q-x3-120mm-pc-case-cooling-fans",
           "history": [
-            499900,
+            449900,
             449900,
             449900,
             449900,
@@ -187778,7 +187890,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-Wonder-Vision-360-UB-ARGB-White-CPU-AIO-Liquid-Cooler-Rotatable-6.67-Curved-Screen-3D-Effect-2K-Resolution-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-wonder-vision-360-ub-argb-white-cpu-aio-liquid-cooler-rotatable-6-67-curved-screen-3d-effect-2k-resolution",
           "history": [
-            8999900,
+            7999900,
             7999900,
             7999900,
             7999900,
@@ -187804,7 +187916,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-Wonder-Vision-360-UB-ARGB-Black-CPU-AIO-Liquid-Cooler-Black-Rotatable-6.67-Curved-Screen-3D-Effect-2K-Resolution-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-wonder-vision-360-ub-argb-black-cpu-aio-liquid-cooler-black-rotatable-6-67-curved-screen-3d-effect-2k-resolution",
           "history": [
-            8199900,
+            7999900,
             7999900,
             7999900,
             7999900,
@@ -187830,7 +187942,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-Trofeo-Vision-360-ARGB-CPU-AIO-Cooler-White-IPS-LCD-Screen-with-1280x480-Resolution-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-trofeo-vision-360-argb-cpu-aio-cooler-white-ips-lcd-screen-with-1280x480-resolution",
           "history": [
-            4699900,
+            4899900,
             4899900,
             4899900,
             4899900,
@@ -187856,7 +187968,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/09/Thermalright-Trofeo-Vision-360-ARGB-CPU-AIO-Cooler-Black-IPS-LCD-Screen-with-1280x480-Resolution-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-trofeo-vision-360-argb-cpu-aio-cooler-black-ips-lcd-screen-with-1280x480-resolution",
           "history": [
-            4499900,
+            4799900,
             4799900,
             4799900,
             4799900,
@@ -188874,7 +188986,7 @@
             2500000,
             2500000,
             2500000,
-            2500000,
+            2350000,
             2350000,
             2350000,
             2350000,
@@ -190527,8 +190639,8 @@
           "name": "Apple MacBook Air 15&#8243; MW1K3 M4 10-Core Chip 16GB Memory 512GB SSD Starlight",
           "brand": "Apple",
           "category": "storage",
-          "price": 42200000,
-          "oldPrice": null,
+          "price": 42600000,
+          "oldPrice": 42200000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Apple-MacBook-Air-15-MW1K3-M4-10-Core-Chip-16GB-Memory-512GB-SSD-Starlight-Price-in-Pakistan.jpg",
@@ -190545,7 +190657,7 @@
             42200000,
             42200000,
             42200000,
-            42200000
+            42600000
           ]
         },
         {
@@ -194635,8 +194747,8 @@
           "name": "Samsung 4TB 990 EVO Plus PCIe 5.0 x2 M.2 Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 17000000,
-          "oldPrice": null,
+          "price": 18300000,
+          "oldPrice": 17000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/07/Samsung-4TB-990-EVO-Plus-PCIe-5.0-x2-M.2-Internal-SSD-Price-in-Pakistan.jpg",
@@ -194653,7 +194765,7 @@
             17000000,
             17000000,
             17000000,
-            17000000
+            18300000
           ]
         },
         {
@@ -195118,7 +195230,7 @@
             13400000,
             13400000,
             13400000,
-            13400000,
+            14800000,
             14800000,
             14800000,
             14800000
@@ -203475,8 +203587,8 @@
           "name": "Samsung 1TB 9100 PRO PCIe 5.0 M.2 Internal SSD with Heatsink",
           "brand": "Samsung",
           "category": "storage",
-          "price": 8000000,
-          "oldPrice": null,
+          "price": 8300000,
+          "oldPrice": 8000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Samsung-1TB-9100-PRO-PCIe-5.0-M.2-Internal-SSD-with-Heatsink-Price-in-Pakistan-01.jpg",
@@ -203493,7 +203605,7 @@
             8000000,
             8000000,
             8000000,
-            8000000
+            8300000
           ]
         },
         {
@@ -207559,7 +207671,7 @@
           "category": "headset",
           "price": 699900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/03/Sony-WI-C100-Wireless-In-Ear-Bluetooth-Headphones-Blue-Price-in-Pakistan-1.jpg",
           "url": "https://zahcomputers.pk/product/sony-wi-c100-wireless-in-ear-bluetooth-headphones-blue-2",
@@ -208010,7 +208122,7 @@
             6250000,
             6250000,
             6250000,
-            6250000,
+            8500000,
             8500000,
             8500000,
             8500000,
@@ -215357,8 +215469,8 @@
           "name": "Samsung 2TB 990 EVO Plus PCIe 5.0 x2 M.2 Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 9500000,
-          "oldPrice": null,
+          "price": 10200000,
+          "oldPrice": 9500000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/02/Samsung-2TB-990-EVO-Plus-PCIe-5.0-x2-M.2-Internal-SSD-Price-in-Pakistan.jpg",
@@ -215375,7 +215487,7 @@
             9500000,
             9500000,
             9500000,
-            9500000
+            10200000
           ]
         },
         {
@@ -216872,7 +216984,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Thermalright-Peerless-Assassin-120-SE-ARGB-CPU-Air-Cooler.webp",
           "url": "https://zahcomputers.pk/product/thermalright-peerless-assassin-120-se-cpu-air-cooler",
           "history": [
-            979900,
+            999900,
             999900,
             999900,
             999900,
@@ -216924,7 +217036,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Thermalright-Grand-Vision-240-White-ARGB-240mm-CPU-AIO-Liquid-Cooler.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-grand-vision-360-white-argb-liquid-cooler",
           "history": [
-            4699900,
+            4899900,
             4899900,
             4899900,
             4899900,
@@ -216950,7 +217062,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Thermalright-Grand-Vision-360Black-ARGB-360mm-CPU-AIO-Liquid-Cooler.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-grand-vision-360-black-argb-liquid-cooler",
           "history": [
-            4499900,
+            4799900,
             4799900,
             4799900,
             4799900,
@@ -219881,8 +219993,8 @@
           "name": "Samsung T9 1TB USB 3.2 Gen2x2 Portable External SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 7250000,
-          "oldPrice": null,
+          "price": 7400000,
+          "oldPrice": 7250000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/Samsung-T9-USB-Portable-External-SSD-Price-in-Pakistan.jpg",
@@ -219899,7 +220011,7 @@
             7250000,
             7250000,
             7250000,
-            7250000
+            7400000
           ]
         },
         {
@@ -222228,7 +222340,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Thermalright-Assassin-X-120-White.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-x-120-refined-se-argb-cpu-air-cooler-white",
           "history": [
-            580000,
+            599900,
             599900,
             599900,
             599900,
@@ -222258,7 +222370,7 @@
             449900,
             449900,
             449900,
-            449900,
+            399900,
             399900,
             399900,
             399900,
@@ -222280,7 +222392,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Thermalright-TL-C12C-X3-CPU-Fan-120mm-Case-Cooler-Fan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-tl-c12c-s-x3-cpu-fan-120mm-black-argb-case-cooler-fan",
           "history": [
-            449900,
+            399900,
             399900,
             399900,
             399900,
@@ -225322,7 +225434,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-AM5-Secure-Frame-Kit-Black-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-am5-secure-frame-kit-black",
           "history": [
-            149900,
+            179900,
             179900,
             179900,
             179900,
@@ -225592,6 +225704,7 @@
             549900,
             549900,
             549900,
+            549900,
             549900
           ]
         },
@@ -225607,7 +225720,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-King-120-SE-ARGB-White-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-king-120-se-white-argb-cpu-air-cooler",
           "history": [
-            600000,
+            699900,
             699900,
             699900,
             699900,
@@ -225633,7 +225746,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-King-120-SE-ARGB-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-king-120-se-argb-cpu-air-cooler",
           "history": [
-            600000,
+            749900,
             749900,
             749900,
             749900,
@@ -225685,7 +225798,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-Spirit-120-EVO-White-ARGB-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-spirit-120-evo-white-argb-cpu-air-cooler",
           "history": [
-            499900,
+            799900,
             799900,
             799900,
             799900,
@@ -225711,7 +225824,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/Thermalright-Assassin-Spirit-120-EVO-Black-ARGB-CPU-Air-Cooler-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-assassin-spirit-120-evo-black-argb-cpu-air-cooler",
           "history": [
-            499900,
+            749900,
             749900,
             749900,
             749900,
@@ -226023,7 +226136,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117724-1-600x600.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-frozen-infinity-360-black-aio-liquid-cpu-cooler",
           "history": [
-            1880000,
+            1949900,
             1949900,
             1949900,
             1949900,
@@ -226049,7 +226162,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117721-1-1-600x600.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-frozen-infinity-360-white-aio-liquid-cpu-cooler",
           "history": [
-            1950000,
+            1999900,
             1999900,
             1999900,
             1999900,
@@ -226075,7 +226188,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117701-1-3-600x600.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-frozen-infinity-240-white-aio-liquid-cpu-cooler",
           "history": [
-            1549900,
+            1400000,
             1400000,
             1400000,
             1400000,
@@ -226101,7 +226214,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117699-1-2-600x600.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-frozen-infinity-240-black-aio-liquid-cpu-cooler",
           "history": [
-            1495000,
+            1449900,
             1449900,
             1449900,
             1449900,
@@ -226127,7 +226240,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117686-1-14-600x600.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-elite-vision-360-white-argb-aio-liquid-cpu-cooler",
           "history": [
-            3699900,
+            4099900,
             4099900,
             4099900,
             4099900,
@@ -226153,7 +226266,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/10/117674-1-13-600x600.jpg",
           "url": "https://zahcomputers.pk/product/thermalright-elite-vision-360-black-argb-aio-liquid-cpu-cooler",
           "history": [
-            3599900,
+            3999900,
             3999900,
             3999900,
             3999900,
@@ -232544,7 +232657,7 @@
           "category": "mouse",
           "price": 3550000,
           "oldPrice": 3900000,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/Logitech-G-PRO-X-Superlight-2-Wireless-Gaming-Mouse-White-910-006639-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/logitech-g-pro-x-superlight-2-wireless-gaming-mouse-white-910-006639",
@@ -232590,8 +232703,8 @@
           ]
         },
         {
-          "id": "zah_fce3cee2",
-          "name": "Logitech G PRO X Superlight 2 Wireless Gaming Mouse Black 910-006631",
+          "id": "zah_fdb6ab80",
+          "name": "Logitech G PRO X Superlight 2 Wireless Gaming Mouse Black 910-006632",
           "brand": "Logitech",
           "category": "mouse",
           "price": 3399900,
@@ -232601,17 +232714,6 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/Logitech-G-PRO-X-Superlight-2-Wireless-Gaming-Mouse-Black-910-006631-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/logitech-g-pro-x-superlight-2-wireless-gaming-mouse-black-910-006631",
           "history": [
-            3399900,
-            3399900,
-            3399900,
-            3399900,
-            3399900,
-            3399900,
-            3399900,
-            3399900,
-            3399900,
-            3399900,
-            3399900,
             3399900
           ]
         },
@@ -252042,8 +252144,8 @@
           "name": "Samsung 2TB 990 PRO PCIe 4.0 x4 M.2 Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 11000000,
-          "oldPrice": null,
+          "price": 11600000,
+          "oldPrice": 11000000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/12/Samsung-2TB-990-PRO-PCIe-4.0-x4-M.2-Internal-SSD-Price-in-Pakistan.jpg",
@@ -252060,7 +252162,7 @@
             11000000,
             11000000,
             11000000,
-            11000000
+            11600000
           ]
         },
         {
@@ -254904,7 +255006,7 @@
           "category": "storage",
           "price": 9999900,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/08/SAMSUNG-T7-Portable-SSD-500GB-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/samsung-t7-portable-ssd-2tb-up-to-1050-mb-s-usb-3-2-external-solid-state-drive-gray",
@@ -258308,8 +258410,8 @@
           "name": "Samsung 2TB 980 PRO PCIe 4.0 x4 M.2 Internal SSD with Heatsink",
           "brand": "Samsung",
           "category": "storage",
-          "price": 9900000,
-          "oldPrice": null,
+          "price": 10100000,
+          "oldPrice": 9900000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/01/Samsung-1TB-980-PRO-PCIe-4.0-x4-M.2-Internal-SSD-with-Heatsink-Price-in-Pakistan-ZahComputers.jpg",
@@ -258326,7 +258428,7 @@
             9900000,
             9900000,
             9900000,
-            9900000
+            10100000
           ]
         },
         {
@@ -262754,8 +262856,8 @@
           "name": "Samsung 2TB 870 EVO SATA III 2.5&#8243; Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 13599900,
-          "oldPrice": null,
+          "price": 14800000,
+          "oldPrice": 13599900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/01/Samsung-870-EVO-SATA-III-2.5-Internal-SSD-Price-in-Pakistan-ZahComputers.jpg",
@@ -262772,7 +262874,7 @@
             13599900,
             13599900,
             13599900,
-            13599900
+            14800000
           ]
         },
         {
@@ -262780,8 +262882,8 @@
           "name": "Samsung 500GB 870 EVO SATA III 2.5&#8243; Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 6099900,
-          "oldPrice": null,
+          "price": 6500000,
+          "oldPrice": 6099900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/01/Samsung-870-EVO-SATA-III-2.5-Internal-SSD-Price-in-Pakistan-ZahComputers.jpg",
@@ -262798,7 +262900,7 @@
             6099900,
             6099900,
             6099900,
-            6099900
+            6500000
           ]
         },
         {
@@ -262806,8 +262908,8 @@
           "name": "Samsung 1TB 870 EVO SATA III 2.5&#8243; Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 9099900,
-          "oldPrice": null,
+          "price": 9400000,
+          "oldPrice": 9099900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2022/01/Samsung-870-EVO-SATA-III-2.5-Internal-SSD-Price-in-Pakistan-ZahComputers.jpg",
@@ -262824,7 +262926,7 @@
             9099900,
             9099900,
             9099900,
-            9099900
+            9400000
           ]
         },
         {
@@ -263846,9 +263948,9 @@
           "name": "Samsung 2TB 980 PRO PCIe 4.0 x4 M.2 Internal SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 9500000,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 9700000,
+          "oldPrice": 9500000,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/11/Samsung-980-PRO-PCIe-4.0-NVMe-SSD-2TB-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/samsung-980-pro-pcie-4-0-nvme-ssd-2tb",
@@ -263864,7 +263966,7 @@
             9500000,
             9500000,
             9500000,
-            9500000
+            9700000
           ]
         },
         {
@@ -270149,7 +270251,7 @@
             200000,
             200000,
             200000,
-            200000,
+            230000,
             230000,
             230000,
             230000,
@@ -275348,6 +275450,7 @@
             34999,
             34999,
             34999,
+            34999,
             34999
           ]
         },
@@ -275367,6 +275470,7 @@
             224999,
             224999,
             224999,
+            224999,
             224999
           ]
         },
@@ -275382,6 +275486,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_x-raypad_randomfrankp_cicada_wings_v2_universal_pre-cut_midnight_camo.jpg",
           "url": "https://rbtechngames.com/product/x-raypad-cicada-wings-v2-randomfrankp-universal-pre-cut-tacky-mouse-grip-grip-tape-midnight-camo",
           "history": [
+            3049,
             3049,
             3049,
             3049,
@@ -275413,6 +275518,7 @@
             3049,
             3049,
             3049,
+            3049,
             3049
           ]
         },
@@ -275428,6 +275534,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_x-raypad_cicada_wings_v2_slicks_universal_pre-cut_tacky_black.jpg",
           "url": "https://rbtechngames.com/product/x-raypad-cicada-wings-v2-slicks-universal-pre-cut-tacky-mouse-grip-grip-tape-black-pink",
           "history": [
+            3049,
             3049,
             3049,
             3049,
@@ -277018,7 +277125,7 @@
             424999,
             424999,
             424999,
-            424999,
+            449999,
             449999,
             449999,
             449999,
@@ -277095,7 +277202,7 @@
             334999,
             334999,
             334999,
-            334999,
+            384999,
             384999,
             384999,
             384999,
@@ -278494,7 +278601,7 @@
           "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card",
           "history": [
             1749999,
-            1749999,
+            1849999,
             1849999,
             1849999,
             1849999,
@@ -280218,6 +280325,7 @@
             1999,
             1999,
             1999,
+            1999,
             1999
           ]
         },
@@ -280233,6 +280341,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_ugreen_25444.avif",
           "url": "https://rbtechngames.com/product/ugreen-25444-vertical-ergonomic-wireless-mouse",
           "history": [
+            5999,
             5999,
             5999,
             5999,
@@ -280848,8 +280957,8 @@
           "name": "Patriot Viper Venom RGB 32GB (2x16GB) 6000MT/s CL30 DDR5 Ram",
           "brand": "Patriot",
           "category": "ram",
-          "price": 154999,
-          "oldPrice": null,
+          "price": 164999,
+          "oldPrice": 154999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_patriot_viper_venom_rgb_ddr5.jpg",
@@ -280866,7 +280975,7 @@
             154999,
             154999,
             154999,
-            154999
+            164999
           ]
         },
         {
@@ -280900,8 +281009,8 @@
           "name": "XPG Lancer Blade RGB 32GB DDR5 6000MHz CL36 (2x16GB) Desktop Memory",
           "brand": "XPG",
           "category": "ram",
-          "price": 154999,
-          "oldPrice": null,
+          "price": 164999,
+          "oldPrice": 154999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_xpg_lancer_32GB_6000mhz.jpg",
@@ -280918,7 +281027,7 @@
             154999,
             154999,
             154999,
-            154999
+            164999
           ]
         },
         {
@@ -281506,7 +281615,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5090-amp-extreme-infinity-32gb-graphics-card",
           "history": [
             1649999,
-            1649999,
+            1679999,
             1679999,
             1679999,
             1679999,
@@ -281873,6 +281982,7 @@
             5999,
             5999,
             5999,
+            5999,
             5999
           ]
         },
@@ -282151,7 +282261,7 @@
             48499,
             48499,
             48499,
-            48499,
+            45499,
             45499,
             45499,
             45499,
@@ -283893,7 +284003,7 @@
             46999,
             46999,
             46999,
-            46999,
+            43499,
             43499,
             43499,
             43499,
