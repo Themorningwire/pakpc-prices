@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T11:11:07.123738+00:00",
+  "lastUpdated": "2026-09-24T16:34:42.640089+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_881f7ebc",
+          "name": "Lian Li HydroShift II LCD-S 360 N RGB AIO Liquid Cooler – White (Fanless)",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 41990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-HydroShift-II-LCD-S-360N-White-AIO-Liquid-CPU-Cooler-price-in-pakistan-pakbyte_2.webp?v=1790253537",
+          "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-white-fanless",
+          "history": [
+            41990
+          ]
+        },
         {
           "id": "pakbyte_5f97db1d",
           "name": "Lian Li HydroShift II LCD-S 360 N RGB AIO Liquid Cooler – Black (Fanless)",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1790233855",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-black-fanless",
           "history": [
+            41990,
             41990
           ]
         },
@@ -35,6 +51,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-sl-inf-flex-price-in-pakistan-pakbyte_5.webp?v=1790229635",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-normal-blade-argb-fan-with-l-controller-white",
           "history": [
+            28490,
             28490
           ]
         },
@@ -50,6 +67,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-sl-inf-flex-price-in-pakistan-pakbyte_1.webp?v=1790229245",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-normal-blade-argb-fan-with-l-controller-black",
           "history": [
+            28490,
             28490
           ]
         },
@@ -65,6 +83,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Plantronics-C3225-UC-headset-price-in-pakistan-pakbyte.webp?v=1790137693",
           "url": "https://www.pakbyte.pk/products/plantronics-blackwire-c3225-duo-usb-a-connection-3-5mm-jack-plug-uc-headset",
           "history": [
+            16990,
             16990,
             16990,
             16990,
@@ -1065,8 +1084,8 @@
           "name": "SAPPHIRE NITRO+ AMD Radeon RX 9070 XT OC 16GB Gaming Graphics Card – PhantomLink Polar Edi",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 249990,
-          "oldPrice": null,
+          "price": 349990,
+          "oldPrice": 249990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-nitro-amd-radeon-rx-9070-xt-oc-16gb-ppe-price-in-pakistan-pakbyte_1.webp?v=1789368923",
@@ -1083,7 +1102,7 @@
             249990,
             249990,
             249990,
-            249990
+            349990
           ]
         },
         {
@@ -1379,7 +1398,7 @@
           "category": "cooler",
           "price": 2080,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFURY-CW11-NERO-N200-Price-in-Pakistan-Pakbyte_1.webp?v=1788327681",
           "url": "https://www.pakbyte.pk/products/gfury-cw11-nero-n-200-cpu-air-cooler",
@@ -2094,6 +2113,7 @@
             70790,
             70790,
             70790,
+            70790,
             70790
           ]
         },
@@ -2163,7 +2183,7 @@
           "history": [
             46790,
             46790,
-            46790,
+            46490,
             46490,
             46490,
             46490,
@@ -2189,7 +2209,7 @@
           "history": [
             37790,
             37790,
-            37790,
+            37490,
             37490,
             37490,
             37490,
@@ -2273,6 +2293,7 @@
             97790,
             97790,
             97790,
+            97790,
             97790
           ]
         },
@@ -2288,6 +2309,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-27g50z-price-in-pakistan-pakbyte_1.webp?v=1787035868",
           "url": "https://www.pakbyte.pk/products/aoc-27g50z-27-260hzfhd-gaming-monitor",
           "history": [
+            47490,
             47490,
             47490,
             47490,
@@ -10143,7 +10165,7 @@
             24790,
             24790,
             24790,
-            24790,
+            25790,
             25790,
             25790,
             25790,
@@ -13467,7 +13489,7 @@
           "history": [
             257790,
             257790,
-            257790,
+            286790,
             286790,
             286790,
             286790,
@@ -13491,6 +13513,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-q27g40zdf-price-in-pakistan-pakbyte_1.webp?v=1777301743",
           "url": "https://www.pakbyte.pk/products/aoc-q27g40zdf-240hz-2k-wqhd-qd-oled-0-03ms-27-gaming-monitor",
           "history": [
+            163790,
             163790,
             163790,
             163790,
@@ -16771,6 +16794,7 @@
             41990,
             41990,
             41990,
+            41990,
             41990
           ]
         },
@@ -18820,7 +18844,7 @@
             22990,
             22990,
             22990,
-            22990,
+            24490,
             24490,
             24490,
             24490,
@@ -18970,6 +18994,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-U27G4-27-4K-UHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1773382096",
           "url": "https://www.pakbyte.pk/products/aoc-u27g4-27-4k-uhd-gaming-monitor",
           "history": [
+            103990,
             103990,
             103990,
             103990,
@@ -24369,7 +24394,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 48490,
-          "oldPrice": 49990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-HydroShift-II-LCD-C-360R-ARGB-360mm-AIO-Liquid-CPU-Cooler-Black-Price-in-Pakistan-Pakbyte_1_60cc967c-5e39-48b5-abf5-ac3121bdd42a.jpg?v=1771322454",
@@ -24385,7 +24410,7 @@
             49990,
             49990,
             49990,
-            49990,
+            48490,
             48490
           ]
         },
@@ -24421,7 +24446,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 41990,
-          "oldPrice": 44990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-360-black-fanless-price-in-pakistan-pakbyte_1.webp?v=1771320140",
@@ -24437,7 +24462,7 @@
             44990,
             44990,
             44990,
-            44990,
+            41990,
             41990
           ]
         },
@@ -28149,7 +28174,7 @@
             199999,
             199999,
             199999,
-            199999,
+            264999,
             264999,
             264999,
             264999,
@@ -32573,6 +32598,7 @@
             43490,
             43490,
             43490,
+            43490,
             43490
           ]
         },
@@ -32686,7 +32712,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 30990,
-          "oldPrice": 31990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-galahad-ii-lite-360mm-argb-price-in-pakistan-pakbyte_1.webp?v=1766133716",
@@ -32702,7 +32728,7 @@
             31990,
             31990,
             31990,
-            31990,
+            30990,
             30990
           ]
         },
@@ -38804,7 +38830,7 @@
           "history": [
             49790,
             49790,
-            49790,
+            49490,
             49490,
             49490,
             49490,
@@ -48701,8 +48727,8 @@
           "name": "MSI Gaming RTX 5060 Ti 16G Vanguard SOC Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 199790,
-          "oldPrice": null,
+          "price": 254999,
+          "oldPrice": 199790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5060-ti-16g-vanguard-soc-gpu_1.png?v=1757156191",
@@ -48719,7 +48745,7 @@
             199790,
             199790,
             199790,
-            199790
+            254999
           ]
         },
         {
@@ -66414,7 +66440,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Seagate-SkyHawk-4TB-Surveillance-3-5-SATA-Hard-Drive-PakByte-Computers-25965191102531.jpg?v=1753671216",
           "url": "https://www.pakbyte.pk/products/seagate-skyhawk-4tb-surveillance-3-5-sata-hard-drive",
           "history": [
-            62999,
+            63999,
             63999,
             63999,
             63999,
@@ -66641,8 +66667,8 @@
           "name": "XPG Lancer Blade 32GB (16GBx2) 6000MHz DDR5 Memory Kit - White",
           "brand": "XPG",
           "category": "ram",
-          "price": 109999,
-          "oldPrice": null,
+          "price": 159999,
+          "oldPrice": 109999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/xpg-lancer-blade-rgb-32gb-6000mhz-white-ddr5-ram-price-in-pakistan-pakbyte.png?v=1757460698",
@@ -66659,7 +66685,7 @@
             109999,
             109999,
             109999,
-            109999
+            159999
           ]
         },
         {
@@ -70906,7 +70932,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 23990,
-          "oldPrice": 27990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Galahad-II-Trinity-240-AIO-CPU-Liquid-Cooler-240mm-White-PakByte-Computers-25890690760771.jpg?v=1753672249",
@@ -70922,7 +70948,7 @@
             27990,
             27990,
             27990,
-            27990,
+            23990,
             23990
           ]
         },
@@ -70932,7 +70958,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 30990,
-          "oldPrice": 39990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Galahad-II-Trinity-SL-INF-240-ARGB-AIO-240mm-Liquid-CPU-Cooler-White-PakByte-Computers-25890642362435.jpg?v=1753672262",
@@ -70948,7 +70974,7 @@
             39990,
             39990,
             39990,
-            39990,
+            30990,
             30990
           ]
         },
@@ -70958,7 +70984,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 23990,
-          "oldPrice": 27990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Galahad-II-Trinity-240-ARGB-AIO-240mm-Liquid-CPU-Cooler-Black-PakByte-Computers-25890613329987.jpg?v=1753672262",
@@ -70974,7 +71000,7 @@
             27990,
             27990,
             27990,
-            27990,
+            23990,
             23990
           ]
         },
@@ -70984,7 +71010,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 30990,
-          "oldPrice": 39990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Galahad-II-Trinity-SL-INF-240-ARGB-AIO-240mm-Liquid-CPU-Cooler-Black-PakByte-Computers-25890590195779.jpg?v=1753672262",
@@ -71000,7 +71026,7 @@
             39990,
             39990,
             39990,
-            39990,
+            30990,
             30990
           ]
         },
@@ -71166,7 +71192,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 24490,
-          "oldPrice": 27490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-UNI-Fan-SL-Infinity-120-Triple-Pack-White-PakByte-Computers-25890167390275.jpg?v=1753672300",
@@ -71182,7 +71208,7 @@
             27490,
             27490,
             27490,
-            27490,
+            24490,
             24490
           ]
         },
@@ -71192,7 +71218,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 24490,
-          "oldPrice": 27490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
@@ -71208,7 +71234,7 @@
             27490,
             27490,
             27490,
-            27490,
+            24490,
             24490
           ]
         },
@@ -71978,7 +72004,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-BM-4054-Wireless-Optical-Mouse-Black-PakByte-Computers-25880236163139.webp?v=1753672487",
           "url": "https://www.pakbyte.pk/products/redragon-bm-4054-wireless-optical-mouse-black",
           "history": [
-            1220,
+            1599,
             1599,
             1599,
             1599,
@@ -83919,7 +83945,7 @@
             8190,
             8190,
             8190,
-            8190,
+            8490,
             8490,
             8490,
             8490,
@@ -85805,7 +85831,7 @@
           "category": "cooler",
           "price": 2550,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Darkflash-ICE200-PRO-CPU-Cooler-RGB-White-PakByte-Computers-25844096204867.png?v=1753675567",
           "url": "https://www.pakbyte.pk/products/darkflash-ice200-pro-cooler",
@@ -91140,7 +91166,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-Gaming-H3-Gaming-Headset-PakByte-Computers-25198734868547.png?v=1753676806",
           "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-h3-gaming-headset",
           "history": [
-            9900,
+            10999,
             10999,
             10999,
             10999,
@@ -96151,8 +96177,8 @@
           "name": "Corsair VENGEANCE® 32GB (2x16GB) DDR5 DRAM 5200MT/s CL40 AMD EXPO Memory Kit - Black",
           "brand": "Corsair",
           "category": "ram",
-          "price": 79990,
-          "oldPrice": null,
+          "price": 158999,
+          "oldPrice": 79990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Corsair-VENGEANCE-32GB-2x16GB-DDR5-DRAM-5200MT-s-CL40-AMD-EXPO-Memory-Kit-Black-PakByte-Computers-24908548341827.jpg?v=1753677707",
@@ -96169,7 +96195,7 @@
             79990,
             79990,
             79990,
-            79990
+            158999
           ]
         },
         {
@@ -102469,8 +102495,8 @@
           "name": "Logitech Signature M650 Medium Mouse - Rose",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 7299,
-          "oldPrice": null,
+          "price": 7999,
+          "oldPrice": 7299,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Signature-M650-Medium-Size-Mouse-Rose-PakByte-Computers-24397864861763.webp?v=1753678762",
@@ -102487,7 +102513,7 @@
             7299,
             7299,
             7299,
-            7299
+            7999
           ]
         },
         {
@@ -113625,7 +113651,7 @@
           "category": "monitor",
           "price": 71800,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-Q32V5CE-32-75Hz-VA-1ms-FreeSync-Speakers-low-Blue-mode-Flicker-free-QHD-monitor-PakByte-Computers-24397648396355.webp?v=1764661451",
           "url": "https://www.pakbyte.pk/products/aoc-q32v5ce-32-75hz-va-1ms-freesync-speakers-low-blue-mode-flicker-free-qhd-monitor",
@@ -114222,7 +114248,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 17490,
-          "oldPrice": 19790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-P28-120mm-PWM-Triple-Pack-Black-PakByte-Computers-24397638500419.webp?v=1753680646",
@@ -114238,7 +114264,7 @@
             19790,
             19790,
             19790,
-            19790,
+            17490,
             17490
           ]
         },
@@ -114274,7 +114300,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 5490,
-          "oldPrice": 5990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-P28-120mm-PWM-Single-Pack-White-PakByte-Computers-24397637419075.webp?v=1753680646",
@@ -114290,7 +114316,7 @@
             5990,
             5990,
             5990,
-            5990,
+            5490,
             5490
           ]
         },
@@ -124267,7 +124293,7 @@
             4390,
             4390,
             4390,
-            4390,
+            4999,
             4999,
             4999,
             4999,
@@ -124336,7 +124362,7 @@
           "brand": "Lian Li",
           "category": "cooler",
           "price": 21990,
-          "oldPrice": 34990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Galahad-240-AIO-UNI-Fan-SL120-Edition-ARGB-240mm-Liquid-CPU-Cooler-White-PakByte-Computers-24397385793603.jpg?v=1753682688",
@@ -124352,7 +124378,7 @@
             34990,
             34990,
             34990,
-            34990,
+            21990,
             21990
           ]
         },
@@ -147417,6 +147443,66 @@
       "verified": true,
       "products": [
         {
+          "id": "zah_5b3bb22f",
+          "name": "Dell Alienware 16 Aurora AC16250 Gaming Laptop | Core 5 210H | 16GB | 512GB SSD | RTX 4050",
+          "brand": "Dell",
+          "category": "gpu",
+          "price": 31000000,
+          "oldPrice": null,
+          "inStock": false,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/DELL-Alienware-16-Aurora-Intel-Core-7-240H-Processor-1TB-SSD-32GB-DDR5-Ram-NVIDIA-GeForce-RTX-5060-8GB-16.0-WQXGA-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/dell-alienware-16-aurora-ac16250-gaming-laptop",
+          "history": [
+            31000000
+          ]
+        },
+        {
+          "id": "zah_87c94f66",
+          "name": "HP EliteBook 640 G10 13th Gen Core i5 1345u Processor 16-GB 512-GB SSD Intel Iris Xe Graph",
+          "brand": "Intel",
+          "category": "cpu",
+          "price": 12000000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2025/01/HP-EliteBook-640-G10-13th-Gen-Core-i7.jpg",
+          "url": "https://zahcomputers.pk/product/hp-elitebook-640-g10-13th-gen-core-i5-1345u-processor-16-gb-512-gb-ssd-intel-iris-xe-graphics-14-full-hd-1080p-ips-narrow-bezel-ag-display-backlit-kb-fp-reader-dos-used",
+          "history": [
+            12000000
+          ]
+        },
+        {
+          "id": "zah_c5865e60",
+          "name": "Lenovo LOQ Essential 15IRX11 Gaming Laptop | Core i5-13450HX | 16GB DDR5 | 512GB SSD | RTX",
+          "brand": "Lenovo",
+          "category": "gpu",
+          "price": 34000000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/LENOVO-LOQ-ESSENTIAL-15IRX11-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/lenovo-loq-essential-15irx11-gaming-laptop",
+          "history": [
+            34000000
+          ]
+        },
+        {
+          "id": "zah_b82c73f8",
+          "name": "Lenovo LOQ Essential 15ARP11 Gaming Laptop | Ryzen 7 170 | 16GB DDR5 | 512GB SSD | RTX 505",
+          "brand": "Lenovo",
+          "category": "gpu",
+          "price": 37000000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/LENOVO-LOQ-ESSENTIAL-15ARP11-RYZEN-7-Price-in-Pakistan.jpg",
+          "url": "https://zahcomputers.pk/product/lenovo-loq-essential-15arp11-gaming-laptop",
+          "history": [
+            37000000
+          ]
+        },
+        {
           "id": "zah_b6128132",
           "name": "Amaze A504 Dual-Fan Laptop Cooling Pad – Ergonomic Stand with Blue LED Lighting, Adjustabl",
           "brand": "Amaze",
@@ -147428,6 +147514,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Amaze-A504-Dual-Fan-Laptop-Cooling-Pad-–-Ergonomic-Stand-with-Blue-LED-Lighting-Adjustable-Height-Dual-USB-Ports-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/amaze-a506-6-fan-laptop-cooling-pad-ergonomic-stand-with-6-level-height-adjustment-blue-led-lighting-dual-usb-ports-for-laptops-up-to-16",
           "history": [
+            249900,
             249900
           ]
         },
@@ -147446,6 +147533,7 @@
             6400000,
             6400000,
             6400000,
+            6400000,
             6400000
           ]
         },
@@ -147461,6 +147549,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Sony-1000X-THE-COLLEXION-WH-1000XX-Wireless-Noise-Cancelling-Headphones-White.jpg",
           "url": "https://zahcomputers.pk/product/sony-1000x-the-collexion-wh-1000xx-wireless-noise-cancelling-headphones-white",
           "history": [
+            18999900,
             18999900,
             18999900,
             18999900,
@@ -147492,6 +147581,7 @@
             18999900,
             18999900,
             18999900,
+            18999900,
             18999900
           ]
         },
@@ -147507,6 +147597,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/05/MOONDROP-CDSP-USB-C-DSP-IEM-Upgrade-Cable.jpg",
           "url": "https://zahcomputers.pk/product/moondrop-cdsp-interactive-dsp-usb-c-earphone-upgrade-cable-usb-c-wired-connection-oxygen-free-copper-cable",
           "history": [
+            450000,
             450000,
             450000,
             450000,
@@ -147773,7 +147864,7 @@
             1600000,
             1600000,
             1600000,
-            1600000,
+            1549900,
             1549900,
             1549900,
             1549900,
@@ -149666,7 +149757,7 @@
           "history": [
             10500000,
             10500000,
-            10500000,
+            11500000,
             11500000,
             11500000,
             11500000,
@@ -150087,7 +150178,7 @@
             2650000,
             2650000,
             2650000,
-            2650000,
+            2249900,
             2249900,
             2249900,
             2249900,
@@ -150139,7 +150230,7 @@
             2600000,
             2600000,
             2600000,
-            2600000,
+            2249900,
             2249900,
             2249900,
             2249900,
@@ -151148,7 +151239,7 @@
           "history": [
             6500000,
             6500000,
-            6500000,
+            6299900,
             6299900,
             6299900,
             6299900,
@@ -151647,7 +151738,7 @@
             31000000,
             31000000,
             31000000,
-            31000000,
+            32000000,
             32000000,
             32000000,
             32000000,
@@ -153099,7 +153190,7 @@
             12000000,
             12000000,
             12000000,
-            12000000,
+            12500000,
             12500000,
             12500000,
             12500000,
@@ -153935,7 +154026,7 @@
             6800000,
             6800000,
             6800000,
-            6800000,
+            7199900,
             7199900,
             7199900,
             7199900,
@@ -155101,7 +155192,7 @@
             14800000,
             14800000,
             14800000,
-            14800000,
+            14500000,
             14500000,
             14500000,
             14500000,
@@ -156379,7 +156470,7 @@
             6800000,
             6800000,
             6800000,
-            6800000,
+            7199900,
             7199900,
             7199900,
             7199900,
@@ -159147,8 +159238,8 @@
           "name": "Seagate 1TB Expansion Portable USB 3.0 External Hard Drive",
           "brand": "Seagate",
           "category": "storage",
-          "price": 2650000,
-          "oldPrice": null,
+          "price": 2800000,
+          "oldPrice": 2650000,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Seagate-2TB-Expansion-Portable-USB-3.0-External-Hard-Drive-Price-in-Pakistan.jpg",
@@ -159165,7 +159256,7 @@
             2650000,
             2650000,
             2650000,
-            2650000
+            2800000
           ]
         },
         {
@@ -160319,7 +160410,7 @@
           "category": "mouse",
           "price": 749900,
           "oldPrice": 850000,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/ATTACK-SHARK-V6-Ultra-Light-Tri-Mode-Gaming-Mouse-White-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-v6-ultra-light-tri-mode-gaming-mouse-white",
@@ -162944,7 +163035,7 @@
           "brand": "Apple",
           "category": "ram",
           "price": 44200000,
-          "oldPrice": 44700000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/03/Apple-MacBook-Air-13-MDHE4-M5-Chip-10-Core-16GB-Unified-RAM-512GB-SSD-Midnight-Price-in-Pakistan.jpg",
@@ -162960,7 +163051,7 @@
             44700000,
             44700000,
             44700000,
-            44700000,
+            44200000,
             44200000
           ]
         },
@@ -166176,7 +166267,7 @@
           "history": [
             624500,
             624500,
-            624500,
+            1180000,
             1180000,
             1180000,
             1180000,
@@ -166740,7 +166831,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 529900,
-          "oldPrice": 419500,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/02/Rapoo-VT200-Wired-IR-Optical-Gaming-Mouse-with-Ergonomic-Design-Black-Price-in-Pakistan-01.jpg",
@@ -166756,7 +166847,7 @@
             419500,
             419500,
             419500,
-            419500,
+            529900,
             529900
           ]
         },
@@ -173903,7 +173994,7 @@
             3469900,
             3469900,
             3469900,
-            3469900,
+            3949900,
             3949900,
             3949900,
             3949900,
@@ -176187,7 +176278,7 @@
             280000,
             280000,
             280000,
-            280000,
+            260000,
             260000,
             260000,
             260000,
@@ -176281,8 +176372,8 @@
           "name": "Logitech G Pro X 2 Lightspeed Wireless Gaming Headset &#8211; Black",
           "brand": "Logitech",
           "category": "headset",
-          "price": 4999900,
-          "oldPrice": 5500000,
+          "price": 5800000,
+          "oldPrice": 4999900,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/11/Logitech-G-Pro-X-2-Lightspeed-Wireless-Gaming-Headset-Black-Price-in-Pakistan.jpg",
@@ -176299,7 +176390,7 @@
             4999900,
             4999900,
             4999900,
-            4999900
+            5800000
           ]
         },
         {
@@ -180403,7 +180494,7 @@
             4800000,
             4800000,
             4800000,
-            4800000,
+            4399900,
             4399900,
             4399900,
             4399900,
@@ -180429,7 +180520,7 @@
             4400000,
             4400000,
             4400000,
-            4400000,
+            4399900,
             4399900,
             4399900,
             4399900,
@@ -182947,7 +183038,7 @@
             550000,
             550000,
             550000,
-            550000,
+            500000,
             500000,
             500000,
             500000,
@@ -193443,7 +193534,7 @@
           "category": "cooler",
           "price": 465000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2020/04/Amaze-A500-Laptop-Hexa-fans-RGB-Cooling-Stand-with-Phone-Holder-Ergonomic-Design-with-Adjustable-Heights-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/amaze-a500-laptop-hexa-fans-rgb-cooling-stand-with-phone-holder-ergonomic-design-with-adjustable-heights",
@@ -193684,7 +193775,7 @@
           "history": [
             4999900,
             4999900,
-            4999900,
+            5299900,
             5299900,
             5299900,
             5299900,
@@ -193710,7 +193801,7 @@
           "history": [
             4999900,
             4999900,
-            4999900,
+            5299900,
             5299900,
             5299900,
             5299900,
@@ -193736,7 +193827,7 @@
           "history": [
             10999900,
             10999900,
-            10999900,
+            11399900,
             11399900,
             11399900,
             11399900,
@@ -193762,7 +193853,7 @@
           "history": [
             10999900,
             10999900,
-            10999900,
+            11399900,
             11399900,
             11399900,
             11399900,
@@ -193788,7 +193879,7 @@
           "history": [
             10999900,
             10999900,
-            10999900,
+            11399900,
             11399900,
             11399900,
             11399900,
@@ -193814,7 +193905,7 @@
           "history": [
             4999900,
             4999900,
-            4999900,
+            5299900,
             5299900,
             5299900,
             5299900,
@@ -196883,7 +196974,7 @@
             1299900,
             1299900,
             1299900,
-            1299900,
+            1199900,
             1199900,
             1199900,
             1199900,
@@ -197870,7 +197961,7 @@
           "history": [
             6999900,
             6999900,
-            6999900,
+            7199900,
             7199900,
             7199900,
             7199900,
@@ -197896,7 +197987,7 @@
           "history": [
             649900,
             649900,
-            649900,
+            699900,
             699900,
             699900,
             699900,
@@ -197948,7 +198039,7 @@
           "history": [
             5999900,
             5999900,
-            5999900,
+            6299900,
             6299900,
             6299900,
             6299900,
@@ -197974,7 +198065,7 @@
           "history": [
             1299900,
             1299900,
-            1299900,
+            1399900,
             1399900,
             1399900,
             1399900,
@@ -198000,7 +198091,7 @@
           "history": [
             1299900,
             1299900,
-            1299900,
+            1399900,
             1399900,
             1399900,
             1399900,
@@ -198026,7 +198117,7 @@
           "history": [
             1299900,
             1299900,
-            1299900,
+            1399900,
             1399900,
             1399900,
             1399900,
@@ -198052,7 +198143,7 @@
           "history": [
             2599000,
             2599000,
-            2599000,
+            2799900,
             2799900,
             2799900,
             2799900,
@@ -198161,7 +198252,7 @@
             17000000,
             17000000,
             17000000,
-            17000000,
+            17049900,
             17049900,
             17049900,
             17049900,
@@ -199272,6 +199363,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/Lenovo-TAB-Legion-Go-8APU1-AMD-Ryzen-Z1-Extreme-16GB-Soldered-LPDDR5x-7500-1TB-SSD-M.2-2242-PCIe-4.0x4-8.8-WQXGA-2560x1600-IPS-500nits-Glossy-Price-in-Pakistan-01.jpg",
           "url": "https://zahcomputers.pk/product/lenovo-legion-go-8apu1-amd-ryzen-z1-extreme-16gb-soldered-lpddr5x-7500-1tb-ssd-m-2-2242-pcie-4-0x4-8-8-wqxga-2560x1600-ips-500nits-glossy-anti-fingerprint-144hz-corning-gorilla-glass-5-low-bl",
           "history": [
+            25000000,
             25000000,
             25000000,
             25000000,
@@ -206214,7 +206306,7 @@
             165000,
             165000,
             165000,
-            165000,
+            145000,
             145000,
             145000,
             145000,
@@ -207462,7 +207554,7 @@
             250000,
             250000,
             250000,
-            250000,
+            220000,
             220000,
             220000,
             220000,
@@ -207488,7 +207580,7 @@
             250000,
             250000,
             250000,
-            250000,
+            200000,
             200000,
             200000,
             200000,
@@ -207514,7 +207606,7 @@
             250000,
             250000,
             250000,
-            250000,
+            200000,
             200000,
             200000,
             200000,
@@ -208293,7 +208385,7 @@
           "history": [
             699900,
             699900,
-            699900,
+            899900,
             899900,
             899900,
             899900,
@@ -208345,7 +208437,7 @@
           "history": [
             699900,
             699900,
-            699900,
+            899900,
             899900,
             899900,
             899900,
@@ -215548,7 +215640,7 @@
             225000,
             225000,
             225000,
-            225000,
+            200000,
             200000,
             200000,
             200000,
@@ -215574,7 +215666,7 @@
             400000,
             400000,
             400000,
-            400000,
+            350000,
             350000,
             350000,
             350000,
@@ -215600,7 +215692,7 @@
             480000,
             480000,
             480000,
-            480000,
+            390000,
             390000,
             390000,
             390000,
@@ -215652,7 +215744,7 @@
             850000,
             850000,
             850000,
-            850000,
+            750000,
             750000,
             750000,
             750000,
@@ -216431,7 +216523,7 @@
           "history": [
             830000,
             830000,
-            830000,
+            899900,
             899900,
             899900,
             899900,
@@ -219083,7 +219175,7 @@
           "history": [
             2099900,
             2099900,
-            2099900,
+            2199900,
             2199900,
             2199900,
             2199900,
@@ -219109,7 +219201,7 @@
           "history": [
             4599900,
             4599900,
-            4599900,
+            4799900,
             4799900,
             4799900,
             4799900,
@@ -219135,7 +219227,7 @@
           "history": [
             4599900,
             4599900,
-            4599900,
+            4799900,
             4799900,
             4799900,
             4799900,
@@ -219161,7 +219253,7 @@
           "history": [
             4999900,
             4999900,
-            4999900,
+            5199900,
             5199900,
             5199900,
             5199900,
@@ -219187,7 +219279,7 @@
           "history": [
             6999900,
             6999900,
-            6999900,
+            7199900,
             7199900,
             7199900,
             7199900,
@@ -219213,7 +219305,7 @@
           "history": [
             399900,
             399900,
-            399900,
+            599900,
             599900,
             599900,
             599900,
@@ -219239,7 +219331,7 @@
           "history": [
             399900,
             399900,
-            399900,
+            599900,
             599900,
             599900,
             599900,
@@ -219258,7 +219350,7 @@
           "category": "headset",
           "price": 299900,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/11/Sony-MDR-EX15AP-In-ear-Headphones-–-White-price-in-pakistan.jpg",
           "url": "https://zahcomputers.pk/product/sony-mdr-ex15ap-in-ear-headphones-white",
@@ -220904,7 +220996,7 @@
             250000,
             250000,
             250000,
-            250000,
+            220000,
             220000,
             220000,
             220000,
@@ -220982,7 +221074,7 @@
             280000,
             280000,
             280000,
-            280000,
+            195000,
             195000,
             195000,
             195000,
@@ -223919,7 +224011,7 @@
           "history": [
             6500000,
             6500000,
-            6500000,
+            6299900,
             6299900,
             6299900,
             6299900,
@@ -223945,7 +224037,7 @@
           "history": [
             1198000,
             1198000,
-            1198000,
+            1399900,
             1399900,
             1399900,
             1399900,
@@ -223971,7 +224063,7 @@
           "history": [
             1299900,
             1299900,
-            1299900,
+            1399900,
             1399900,
             1399900,
             1399900,
@@ -223997,7 +224089,7 @@
           "history": [
             1299900,
             1299900,
-            1299900,
+            1399900,
             1399900,
             1399900,
             1399900,
@@ -224075,7 +224167,7 @@
           "history": [
             2700000,
             2700000,
-            2700000,
+            2799900,
             2799900,
             2799900,
             2799900,
@@ -224101,7 +224193,7 @@
           "history": [
             2700000,
             2700000,
-            2700000,
+            2799900,
             2799900,
             2799900,
             2799900,
@@ -224127,7 +224219,7 @@
           "history": [
             2700000,
             2700000,
-            2700000,
+            2799900,
             2799900,
             2799900,
             2799900,
@@ -224205,7 +224297,7 @@
           "history": [
             7999900,
             7999900,
-            7999900,
+            8399900,
             8399900,
             8399900,
             8399900,
@@ -224231,7 +224323,7 @@
           "history": [
             7799900,
             7799900,
-            7799900,
+            8399900,
             8399900,
             8399900,
             8399900,
@@ -224257,7 +224349,7 @@
           "history": [
             7999900,
             7999900,
-            7999900,
+            8399900,
             8399900,
             8399900,
             8399900,
@@ -226732,7 +226824,7 @@
             2050000,
             2050000,
             2050000,
-            2050000,
+            3649900,
             3649900,
             3649900,
             3649900,
@@ -229670,7 +229762,7 @@
             9500000,
             9500000,
             9500000,
-            9500000,
+            40000000,
             40000000,
             40000000,
             40000000,
@@ -233142,7 +233234,7 @@
           "category": "mouse",
           "price": 750000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/06/106407-Logitech-Signature-M650-L-Mouse-Graphite-910-006247.jpg",
           "url": "https://zahcomputers.pk/product/logitech-signature-m650l-mouse-graphite-910-006247",
@@ -233332,7 +233424,7 @@
             3750000,
             3750000,
             3750000,
-            3750000,
+            3599900,
             3599900,
             3599900,
             3599900,
@@ -237704,7 +237796,7 @@
             16299900,
             16299900,
             16299900,
-            16299900,
+            20499900,
             20499900,
             20499900,
             20499900,
@@ -243368,7 +243460,7 @@
             3700000,
             3700000,
             3700000,
-            3700000,
+            3499900,
             3499900,
             3499900,
             3499900,
@@ -245673,7 +245765,7 @@
           "brand": "Seagate",
           "category": "storage",
           "price": 7500000,
-          "oldPrice": 4999900,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/06/Seagate-IronWolf-SATA-Hard-Drive-Price-in-Pakistan.jpg",
@@ -245689,7 +245781,7 @@
             4999900,
             4999900,
             4999900,
-            4999900,
+            7500000,
             7500000
           ]
         },
@@ -250492,7 +250584,7 @@
             1249900,
             1249900,
             1249900,
-            1249900,
+            950000,
             950000,
             950000,
             950000,
@@ -261702,7 +261794,7 @@
             9100000,
             9100000,
             9100000,
-            9100000,
+            10499900,
             10499900,
             10499900,
             10499900,
@@ -261728,7 +261820,7 @@
             4800000,
             4800000,
             4800000,
-            4800000,
+            5299900,
             5299900,
             5299900,
             5299900,
@@ -276113,6 +276205,126 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_9cc7b21e",
+          "name": "Rapoo E900T Multi-Mode Wireless Blade Touch Keyboard &#8211; Black/White",
+          "brand": "Rapoo",
+          "category": "keyboard",
+          "price": 9499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_rapoo_e900t_black.png",
+          "url": "https://rbtechngames.com/product/rapoo-e900t-multi-mode-wireless-blade-touch-keyboard-black-white",
+          "history": [
+            9499
+          ]
+        },
+        {
+          "id": "rbtechgames_c914e3c1",
+          "name": "Rapoo V125S 4-in-1 Wired Keyboard, Mouse, Headset, Mousepad Gaming Set &#8211; Black",
+          "brand": "Rapoo",
+          "category": "keyboard",
+          "price": 13499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_rapoo_v125s_black.jpg",
+          "url": "https://rbtechngames.com/product/rapoo-v125s-4-in-1-wired-keyboard-mouse-headset-mousepad-gaming-set-black",
+          "history": [
+            13499
+          ]
+        },
+        {
+          "id": "rbtechgames_d41cfab6",
+          "name": "Rapoo V11S Wired Ambidextrous Optical Gaming Mouse &#8211; Black",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 1849,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_rapoo_v11s_black.png",
+          "url": "https://rbtechngames.com/product/rapoo-v11s-wired-ambidextrous-optical-gaming-mouse-black",
+          "history": [
+            1849
+          ]
+        },
+        {
+          "id": "rbtechgames_70eae2a5",
+          "name": "Rapoo N100 Wired Ambidextrous Optical Mouse &#8211; Black/White",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 799,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_rapoo_n100_black.jpg",
+          "url": "https://rbtechngames.com/product/rapoo-n100-wired-ambidextrous-optical-mouse-black-white",
+          "history": [
+            799
+          ]
+        },
+        {
+          "id": "rbtechgames_874dcf38",
+          "name": "Rapoo MT760 Pro Multi-mode Wireless Ergonomic Mouse &#8211; Dark Grey",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 19499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_rapoo_mt760_pro_dark_grey.png",
+          "url": "https://rbtechngames.com/product/rapoo-mt760-pro-multi-mode-wireless-ergonomic-mouse-dark-grey",
+          "history": [
+            19499
+          ]
+        },
+        {
+          "id": "rbtechgames_437c135b",
+          "name": "Rapoo M360 Smart Multi-mode Wireless Mouse &#8211; Black/Blue/Pink/White",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 2999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_rapoo_m360_smart_black.png",
+          "url": "https://rbtechngames.com/product/rapoo-m360-smart-multi-mode-wireless-mouse-black-blue-pink-white",
+          "history": [
+            2999
+          ]
+        },
+        {
+          "id": "rbtechgames_b797a0c5",
+          "name": "Rapoo M1 Wireless Optical Mouse &#8211; Black",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 1699,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_rapoo_m1_wireless_black.png",
+          "url": "https://rbtechngames.com/product/rapoo-m1-wireless-optical-mouse-black",
+          "history": [
+            1699
+          ]
+        },
+        {
+          "id": "rbtechgames_978116ea",
+          "name": "Asus TUF Gaming X870E-Plus WiFi7 ATX AM5 DDR5 Gaming Motherboard",
+          "brand": "ASUS",
+          "category": "ram",
+          "price": 109999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_tuf_gaming_x870e-plus_wifi7.webp",
+          "url": "https://rbtechngames.com/product/asus-tuf-gaming-x870e-plus-wifi7-atx-am5-ddr5-gaming-motherboard",
+          "history": [
+            109999
+          ]
+        },
+        {
           "id": "rbtechgames_03678ade",
           "name": "Asus Prime B450M-A II M-ATX AM4 DDR4 Gaming Motherboard &#8211; USED",
           "brand": "ASUS",
@@ -276124,6 +276336,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/09/image_2021-09-27_003321.png",
           "url": "https://rbtechngames.com/product/asus-prime-b450m-a-ii-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -276145,6 +276358,7 @@
             12499,
             12499,
             12499,
+            12499,
             12499
           ]
         },
@@ -276160,6 +276374,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_aula_f87_green.webp",
           "url": "https://rbtechngames.com/product/aula-f87-wind-series-tkl-mechanical-wireless-rgb-gaming-keyboard-black-white-green-greywood-v3-switches",
           "history": [
+            12499,
             12499,
             12499,
             12499,
@@ -276181,6 +276396,7 @@
             14499,
             14499,
             14499,
+            14499,
             14499
           ]
         },
@@ -276196,6 +276412,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_aula_f75_wind_retro_white.webp",
           "url": "https://rbtechngames.com/product/aula-f75-wind-series-75-wireless-rgb-mechanical-gaming-keyboard-retro-white-milk-white-switches",
           "history": [
+            12999,
             12999,
             12999,
             12999,
@@ -276217,6 +276434,7 @@
             12999,
             12999,
             12999,
+            12999,
             12999
           ]
         },
@@ -276232,6 +276450,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_aula_nova75_white_gray_red.webp",
           "url": "https://rbtechngames.com/product/aula-nova75-wireless-custom-mechanical-rgb-lcd-gaming-keyboard-grey-white-red-caramel-latte-switches",
           "history": [
+            14999,
             14999,
             14999,
             14999,
@@ -276265,6 +276484,7 @@
             15999,
             15999,
             15999,
+            15999,
             15999
           ]
         },
@@ -276280,6 +276500,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_attack_shark_r98_he_moonlight.webp",
           "url": "https://rbtechngames.com/product/attack-shark-r98-he-carbon-fiber-rapid-trigger-8k-wired-rgb-magnetic-gaming-keyboard-ink-shade-ice-ninja-black-green-moonlight",
           "history": [
+            18499,
             18499,
             18499,
             18499,
@@ -276314,6 +276535,7 @@
             234999,
             234999,
             234999,
+            234999,
             234999
           ]
         },
@@ -276329,6 +276551,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_b650-s_wifi.png",
           "url": "https://rbtechngames.com/product/msi-pro-b650-s-wifi-atx-am5-ddr5-gaming-motherboard-used",
           "history": [
+            42999,
             42999,
             42999,
             42999,
@@ -278670,7 +278893,7 @@
           "history": [
             364999,
             364999,
-            364999,
+            374999,
             374999,
             374999,
             374999,
@@ -278694,7 +278917,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hyperx_omen_15.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-15-15-ga0031tx-intel-core-i7-14th-gen-24gb-ram-1tb-ssd-rtx-5060-15-3-qhd-180hz-ips-display-shadow-black-new",
           "history": [
-            494999,
+            524999,
             524999,
             524999,
             524999,
@@ -278720,7 +278943,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_thinkpad_t14s_gen_6.png",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-gen-6-intel-core-ultra-7-32gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-black-used",
           "history": [
-            384999,
+            364999,
             364999,
             364999,
             364999,
@@ -279437,32 +279660,6 @@
           ]
         },
         {
-          "id": "rbtechgames_8bd2e54a",
-          "name": "HP Omen 16 (wf0007TX), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, RTX 4060, 16&#8243; QH",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 284999,
-          "oldPrice": 294999,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_omen_16_wf0032tx_shadow_black.webp",
-          "url": "https://rbtechngames.com/product/hp-omen-16-wf0007tx-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4060-16-qhd-240hz-ips-display-shadow-black-used",
-          "history": [
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999
-          ]
-        },
-        {
           "id": "rbtechgames_41ed2eaa",
           "name": "ASUS ROG Strix G16 2025 (G615LP-275), Intel Core Ultra 9 275HX, 32GB RAM, 2TB SSD, RTX 507",
           "brand": "ASUS",
@@ -279735,7 +279932,7 @@
           "url": "https://rbtechngames.com/product/aula-win68-he-pro-60-wired-magnetic-rgb-gaming-keyboard-black-gray-meteor-magnetic-switch",
           "history": [
             9499,
-            9499,
+            10499,
             10499,
             10499,
             10499,
@@ -280074,6 +280271,7 @@
           "history": [
             2499,
             2499,
+            2499,
             2499
           ]
         },
@@ -280097,7 +280295,7 @@
             8995,
             8995,
             8995,
-            8995,
+            11499,
             11499,
             11499,
             11499
@@ -280121,6 +280319,7 @@
             7895,
             7895,
             7895,
+            9999,
             9999,
             9999,
             9999
@@ -280164,6 +280363,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_rapoo_b20silent.webp",
           "url": "https://rbtechngames.com/product/rapoo-b20-silent-wireless-optical-mouse-black-blue-pink",
           "history": [
+            1899,
             1899,
             1899,
             1899
@@ -280423,7 +280623,7 @@
             14995,
             14995,
             14995,
-            14995,
+            24999,
             24999,
             24999,
             24999
@@ -280527,7 +280727,7 @@
             11999,
             11999,
             11999,
-            11999,
+            13499,
             13499,
             13499,
             13499
@@ -280709,7 +280909,7 @@
             745,
             745,
             745,
-            745,
+            1499,
             1499,
             1499,
             1499
@@ -280962,7 +281162,7 @@
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-grey-yellow-wing-chun-magnetic-switch",
           "history": [
             15999,
-            15999,
+            12999,
             12999,
             12999,
             12999,
@@ -281325,7 +281525,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_colorful_igame_rtx_5080_ultra_w_oc_16gb.webp",
           "url": "https://rbtechngames.com/product/colorful-igame-geforce-rtx-5080-ultra-w-oc-16gb-v-graphics-card",
           "history": [
-            484999,
+            499999,
             499999,
             499999,
             499999,
@@ -281767,7 +281967,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_gigabyte_aorus_rtx_5080_master_ice_16gb.webp",
           "url": "https://rbtechngames.com/product/gigabyte-aorus-geforce-rtx-5080-master-ice-16gb-graphics-card",
           "history": [
-            474999,
+            594999,
             594999,
             594999,
             594999,
@@ -282008,7 +282208,7 @@
             324999,
             324999,
             324999,
-            324999,
+            299999,
             299999,
             299999,
             299999,
@@ -282183,7 +282383,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5080_windforce_oc_sff_16gb.webp",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card",
           "history": [
-            489999,
+            499999,
             499999,
             499999,
             499999,
@@ -282316,6 +282516,7 @@
             14999,
             14999,
             14999,
+            14999,
             14999
           ]
         },
@@ -282331,6 +282532,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_aula_hero_68_he_pink_side-printed_4.webp",
           "url": "https://rbtechngames.com/product/aula-hero-68-he-65-wired-rgb-magnetic-gaming-keyboard-pink-side-printed-white-side-printed-black-light-white-light-white-contours-pink-contours-purple-contours",
           "history": [
+            13499,
             13499,
             13499,
             13499,
@@ -282356,7 +282558,7 @@
           "url": "https://rbtechngames.com/product/aula-win68-he-max-65-wired-rgb-magnetic-gaming-keyboard-gray-yellow",
           "history": [
             16999,
-            16999,
+            13499,
             13499,
             13499,
             13499,
@@ -282382,7 +282584,7 @@
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-white-blue-grey-wing-chun-switch",
           "history": [
             15999,
-            15999,
+            12999,
             12999,
             12999,
             12999,
@@ -282589,6 +282791,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_aula_win60_he_max_red_contour.jpg",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-red-contour-wing-chun-magnetic-switches",
           "history": [
+            13499,
             13499,
             13499,
             13499,
@@ -282925,6 +283128,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_amd_ryzen_9_9950x.avif",
           "url": "https://rbtechngames.com/product/amd-ryzen-9-9950x-desktop-processor-tray",
           "history": [
+            154999,
             154999,
             154999,
             154999,
@@ -283421,7 +283625,7 @@
             73999,
             73999,
             73999,
-            73999,
+            77999,
             77999,
             77999,
             77999,
@@ -283942,7 +284146,7 @@
             64999,
             64999,
             64999,
-            64999,
+            71999,
             71999,
             71999,
             71999,
@@ -284952,7 +285156,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/07/rbtech_adata_legend710_256gb_1.jpg",
           "url": "https://rbtechngames.com/product/adata-legend-710-256gb-nvme-m-2-ssd",
           "history": [
-            13999,
+            16499,
             16499,
             16499,
             16499,
