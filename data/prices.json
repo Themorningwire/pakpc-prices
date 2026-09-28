@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T03:54:15.316475+00:00",
+  "lastUpdated": "2026-09-28T13:01:21.585652+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,96 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_fff512a2",
+          "name": "Aula AG 60 PRO Aether Magnetic Switch Gaming Keyboard - Black Frosted",
+          "brand": "Aula",
+          "category": "keyboard",
+          "price": 28490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-ag60-pro-price-in-pakistan-priceinpakistan-pakbyte.webp?v=1790594603",
+          "url": "https://www.pakbyte.pk/products/aula-ag-60-pro-aether-magnetic-switch-gaming-keyboard-black-frosted",
+          "history": [
+            28490
+          ]
+        },
+        {
+          "id": "pakbyte_a09b10f1",
+          "name": "Aula Wind F815 Gaming Mouse - Black",
+          "brand": "Aula",
+          "category": "mouse",
+          "price": 2190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-wind-f815-mouse-price-in-pakistan-pakbyte.webp?v=1790594242",
+          "url": "https://www.pakbyte.pk/products/aula-wind-f815-gaming-mouse-black",
+          "history": [
+            2190
+          ]
+        },
+        {
+          "id": "pakbyte_deb50e36",
+          "name": "Aula SC680 Wireless Gaming Mouse - White",
+          "brand": "Aula",
+          "category": "mouse",
+          "price": 9490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-sc680-price-in-pakistan-pakbyte_4.webp?v=1790593830",
+          "url": "https://www.pakbyte.pk/products/aula-sc680-wireless-gaming-mouse-white",
+          "history": [
+            9490
+          ]
+        },
+        {
+          "id": "pakbyte_e4971065",
+          "name": "Aula SC680 Wireless Gaming Mouse - Black",
+          "brand": "Aula",
+          "category": "mouse",
+          "price": 9490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-sc680-price-in-pakistan-pakbyte_1.webp?v=1790593399",
+          "url": "https://www.pakbyte.pk/products/aula-sc680-wireless-gaming-mouse-black",
+          "history": [
+            9490
+          ]
+        },
+        {
+          "id": "pakbyte_380df6a6",
+          "name": "Aula A600 Wireless Gaming Headset - Black",
+          "brand": "Aula",
+          "category": "headset",
+          "price": 9490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-a600-price-in-pakistan-pakbyte.webp?v=1790592894",
+          "url": "https://www.pakbyte.pk/products/aula-a600-wireless-gaming-headset-black",
+          "history": [
+            9490
+          ]
+        },
+        {
+          "id": "pakbyte_e911889f",
+          "name": "Aula MP-WR 250x210x1.7mm Mousepad – Black/Red",
+          "brand": "Aula",
+          "category": "mouse",
+          "price": 940,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-mp-wr-price-in-pakistan-pakbyte.webp?v=1790592582",
+          "url": "https://www.pakbyte.pk/products/aula-mp-wr-250x210x1-7mm-mousepad-black-red",
+          "history": [
+            940
+          ]
+        },
         {
           "id": "pakbyte_94abecd1",
           "name": "ATTACK SHARK L60 Ultra-Light Tri-Mode Gaming Headset",
@@ -20,6 +110,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attackshark-L60_-headphone-price-in-pakistan-pakbyte_2.webp?v=1790427679",
           "url": "https://www.pakbyte.pk/products/attack-shark-l60-ultra-light-tri-mode-gaming-headset",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -41,6 +132,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/KTC-M27T6-Gaming-Monitor-Price-in-Pakistan-pakbyte_1.webp?v=1790405356",
           "url": "https://www.pakbyte.pk/products/ktc-m27t6-mini-led-27-180hz-2k-hdr1400-gaming-monitor",
           "history": [
+            81990,
             81990,
             81990,
             81990,
@@ -583,6 +675,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-mini60-he-pro-price-in-pakistan-pakbyte_1.webp?v=1789667850",
           "url": "https://www.pakbyte.pk/products/aula-mini60-wireless-gaming-keyboard-white-smoky-cloud-magnetic-switches",
           "history": [
+            9290,
             9290,
             9290,
             9290,
@@ -4900,6 +4993,7 @@
             6240,
             6240,
             6240,
+            6240,
             6240
           ]
         },
@@ -4919,7 +5013,7 @@
             7190,
             7190,
             7190,
-            7190,
+            6240,
             6240,
             6240,
             6240,
@@ -4944,7 +5038,7 @@
             11990,
             11990,
             11990,
-            11990,
+            10490,
             10490,
             10490,
             10490,
@@ -4970,7 +5064,7 @@
             11990,
             11990,
             11990,
-            11990,
+            10490,
             10490,
             10490,
             10490,
@@ -5022,7 +5116,7 @@
             10990,
             10990,
             10990,
-            10990,
+            10490,
             10490,
             10490,
             10490,
@@ -5048,7 +5142,7 @@
             10990,
             10990,
             10990,
-            10990,
+            10490,
             10490,
             10490,
             10490,
@@ -5077,6 +5171,7 @@
             7490,
             7490,
             7490,
+            7490,
             7490
           ]
         },
@@ -5092,6 +5187,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-shark-L60-Headset-Price-in-Pakistan-Pakbyte_1.webp?v=1790428308",
           "url": "https://www.pakbyte.pk/products/attack-shark-l80pro-wireless-gaming-headset-black",
           "history": [
+            7490,
             7490,
             7490,
             7490,
@@ -10644,8 +10740,8 @@
           "name": "ASUS ROG STRIX GeForce RTX 2070 8G GDDR6 Graphics Gaming Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 69990,
-          "oldPrice": null,
+          "price": 74999,
+          "oldPrice": 69990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-STRIX_-GeForce-RTX-2070-8G-GDDR6-_Graphics-Gaming_-Card-Price-in-Pakistan-Pakbyte_1.jpg?v=1780502415",
@@ -10662,7 +10758,7 @@
             69990,
             69990,
             69990,
-            69990
+            74999
           ]
         },
         {
@@ -16426,7 +16522,7 @@
             21990,
             21990,
             21990,
-            21990,
+            21490,
             21490,
             21490,
             21490,
@@ -17232,7 +17328,7 @@
             1490,
             1490,
             1490,
-            1490,
+            1690,
             1690,
             1690,
             1690,
@@ -17258,7 +17354,7 @@
             1690,
             1690,
             1690,
-            1690,
+            1790,
             1790,
             1790,
             1790,
@@ -22630,8 +22726,8 @@
           "name": "Fantech MP296 Vigil Gaming Mouse Pad",
           "brand": "Fantech",
           "category": "mouse",
-          "price": 590,
-          "oldPrice": null,
+          "price": 799,
+          "oldPrice": 590,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-mp296-vigil-price-in-pakistan-pakbyte_1.webp?v=1771931488",
@@ -22648,7 +22744,7 @@
             590,
             590,
             590,
-            590
+            799
           ]
         },
         {
@@ -27466,8 +27562,8 @@
           "name": "HikSemi Wave(S) 128GB 2.5\" SATA Internal SSD",
           "brand": "HikSemi",
           "category": "storage",
-          "price": 6499,
-          "oldPrice": null,
+          "price": 7499,
+          "oldPrice": 6499,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hiksemi-128gb-sata-ssd-price-in-pakistan-pakbyte-1.png?v=1768432194",
@@ -27484,7 +27580,7 @@
             6499,
             6499,
             6499,
-            6499
+            7499
           ]
         },
         {
@@ -32506,29 +32602,18 @@
           ]
         },
         {
-          "id": "pakbyte_bce877d2",
-          "name": "AULA SC380Pro Tri-mode Lightweight Gaming Mouse – White",
+          "id": "pakbyte_59cc3ff6",
+          "name": "AULA SC380 Pro Tri-mode Lightweight Gaming Mouse – White",
           "brand": "AULA",
           "category": "mouse",
-          "price": 6490,
+          "price": 5990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-sc380pro-tri-mode-lightweight-gaming-mouse-wh-price-in-pakistan-pakbyte.webp?v=1766253254",
           "url": "https://www.pakbyte.pk/products/aula-sc380pro-tri-mode-lightweight-gaming-mouse-white",
           "history": [
-            6490,
-            6490,
-            6490,
-            6490,
-            6490,
-            6490,
-            6490,
-            6490,
-            6490,
-            6490,
-            6490,
-            6490
+            5990
           ]
         },
         {
@@ -35225,7 +35310,7 @@
             5290,
             5290,
             5290,
-            5290,
+            5499,
             5499,
             5499,
             5499,
@@ -51556,6 +51641,7 @@
             16990,
             16990,
             16990,
+            16990,
             16990
           ]
         },
@@ -51571,6 +51657,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x68-he-max-keyboard-white-price-in-pakistan-pakbyte_1.webp?v=1756104467",
           "url": "https://www.pakbyte.pk/products/attack-shark-x68-he-max-tkl-gaming-keyboard-white",
           "history": [
+            16990,
             16990,
             16990,
             16990,
@@ -62586,7 +62673,7 @@
           "category": "headset",
           "price": 18999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Cloud-3-Wired-Gaming-Headset-White-Pink-PakByte-Computers-26163187253315.png?v=1753670738",
           "url": "https://www.pakbyte.pk/products/hyperx-cloud-3-wired-gaming-headset-white-pink",
@@ -65767,7 +65854,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5990,
             5990,
             5990,
             5990,
@@ -68522,7 +68609,7 @@
             8390,
             8390,
             8390,
-            8390,
+            8490,
             8490,
             8490,
             8490,
@@ -69325,6 +69412,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HP-USB-C-to-VGA-HDMI-DP-Display-Port-Adapter-DHC-CT200-PakByte-Computers-25898762797123.jpg?v=1753671850",
           "url": "https://www.pakbyte.pk/products/hp-usb-c-to-vga-hdmi-dp-display-port-adapter-dhc-ct200",
           "history": [
+            3980,
             3980,
             3980,
             3980,
@@ -89984,8 +90072,8 @@
           "name": "HyperX Cloud 2 Gaming Headset - Red",
           "brand": "HyperX",
           "category": "headset",
-          "price": 22499,
-          "oldPrice": null,
+          "price": 15499,
+          "oldPrice": 22499,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Cloud-2-Gaming-Headset-Red-PakByte-Computers-25256690057283.webp?v=1753676611",
@@ -90002,7 +90090,7 @@
             22499,
             22499,
             22499,
-            22499
+            15499
           ]
         },
         {
@@ -147559,6 +147647,7 @@
             2000000,
             2000000,
             2000000,
+            2000000,
             2000000
           ]
         },
@@ -147574,6 +147663,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Razer-DeathAdder-V4-Pro-Wireless-Gaming-Mouse-White.jpg",
           "url": "https://zahcomputers.pk/product/razer-deathadder-v4-pro-wireless-gaming-mouse-white-focus-pro-45k-gen-2-8000hz-56g-optical-switches-gen-4",
           "history": [
+            6250000,
             6250000,
             6250000,
             6250000,
@@ -147603,6 +147693,7 @@
             6250000,
             6250000,
             6250000,
+            6250000,
             6250000
           ]
         },
@@ -147625,6 +147716,7 @@
             8200000,
             8200000,
             8200000,
+            8200000,
             8200000
           ]
         },
@@ -147640,6 +147732,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/07/Gigabyte-GeForce-RTX-3070-Ti-GAMING-OC-Graphics-Card-Lowest-Price-in-Pakistan-02.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-graphics-card-used",
           "history": [
+            10500000,
             10500000,
             10500000,
             10500000,
@@ -147675,6 +147768,7 @@
             40500000,
             40500000,
             40500000,
+            40500000,
             40500000
           ]
         },
@@ -147700,6 +147794,7 @@
             16800000,
             16800000,
             16800000,
+            16800000,
             16800000
           ]
         },
@@ -147715,6 +147810,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/KOORUI-G2711X-27-FHD-Gaming-Monitor-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/koorui-g2711x-27-240hz-gaming-monitor",
           "history": [
+            4150000,
             4150000
           ]
         },
@@ -150070,7 +150166,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/08/AMD-Ryzen-5-5500X3D-6-Core-12-Thread-Desktop-Processor-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/amd-ryzen-5-5500x3d-6-core-12-thread-desktop-processor-tray",
           "history": [
-            5600000,
+            5700000,
             5700000,
             5700000,
             5700000,
@@ -154487,7 +154583,7 @@
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": null,
+          "img": "https://zahcomputers.pk/wp-content/uploads/2026/09/Aula-S100-PRO-Wireless-English-Keyboard-LIGHT-BLUE.webp",
           "url": "https://zahcomputers.pk/product/aula-s100-pro-tri-mode-mechanical-gaming-keyboard-light-blue-white-black-brown-switchs",
           "history": [
             1000000,
@@ -157776,7 +157872,7 @@
             4100000,
             4100000,
             4100000,
-            4100000,
+            3799900,
             3799900
           ]
         },
@@ -159459,7 +159555,7 @@
             16800000,
             16800000,
             16800000,
-            16800000,
+            18500000,
             18500000,
             18500000,
             18500000,
@@ -159815,7 +159911,7 @@
           "category": "cpu",
           "price": 6300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/06/Dell-Latitude-5440-Intel-Core-i7-13th-Gen-16GB-256GB-SSD-14-FHD-Backlit-KB-FingerPrint-Reader-Dos-Grey-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/dell-latitude-5420-intel-core-i5-1145g7-11th-gen-8gb-256gb-ssd-14-inch-fhd-display-laptop",
@@ -160725,7 +160821,7 @@
           "category": "mouse",
           "price": 749900,
           "oldPrice": 850000,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/04/ATTACK-SHARK-V6-Ultra-Light-Tri-Mode-Gaming-Mouse-Black-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/attack-shark-v6-ultra-light-tri-mode-gaming-mouse-black",
@@ -162450,7 +162546,7 @@
             26500000,
             26500000,
             26500000,
-            26500000,
+            27000000,
             27000000,
             27000000,
             27000000,
@@ -163574,7 +163670,7 @@
             3479900,
             3479900,
             3479900,
-            3479900,
+            3299900,
             3299900
           ]
         },
@@ -170943,7 +171039,7 @@
           "category": "ram",
           "price": 6000000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2026/01/HP-Elitebook-840-G6-CI5-8th-Generation-8GB-Ram-256GB-SSD-14-Display-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-elitebook-840-g6-ci5-8th-generation-8gb-ram-256gb-ssd-14-display-used",
@@ -193230,7 +193326,7 @@
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/GIGABYTE-Gaming-OC-GeForce-RTX-3070-8GB-GDDR6-PCI-Express-4.0-ATX-Video-Card-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/gigabyte-gaming-oc-geforce-rtx-3070-8gb-gddr6-pci-express-4-0-atx-video-card-used",
           "history": [
-            9500000,
+            10500000,
             10500000,
             10500000,
             10500000,
@@ -193381,7 +193477,7 @@
           "category": "cpu",
           "price": 5500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/08/Dell-Latitude-5500-Core-i5-8th-Gen-8-GB-RAM-256-GB-SSD-15.6-Display-Used-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/dell-latitude-5500-core-i5-8th-gen-8-gb-ram-256-gb-ssd-15-6%e2%80%b3-display-used",
@@ -199369,7 +199465,7 @@
             11800000,
             11800000,
             11800000,
-            11800000,
+            12500000,
             12500000,
             12500000,
             12500000,
@@ -202247,7 +202343,7 @@
           "category": "ram",
           "price": 5800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2025/05/HP-ProBook-640-G4-Core-i5-8th-Gen-8-GB-RAM-256-GB-SSD-14-Display-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/hp-probook-640-g4-core-i5-8th-gen-8-gb-ram-256-gb-ssd-14%e2%80%b3-display-used",
@@ -223879,7 +223975,7 @@
           "category": "storage",
           "price": 28999000,
           "oldPrice": 32000000,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2021/12/Apple-24-iMac-with-M1-Chip-Mid-20214480-x-2520-Retina-Display-8GB-256GB-SSD-2-x-Thunderbolt-Silver-Price-in-Pakistan-ZahComputers.jpg",
           "url": "https://zahcomputers.pk/product/apple-24-imac-mgpd3-with-m1-chip-mid-8-core-20214480-x-2520-retina-display-16gb-512gb-ssd-2-x-thunderbolt-silver-open-box",
@@ -228429,7 +228525,7 @@
           "category": "gpu",
           "price": 16500000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/09/ASUS-Dual-GeForce-RTX™-4060-Ti-EVO-8GB-GDDR6-OC-Edition-Gaming-Graphics-Card-Lowest-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-geforce-rtx-4060-ti-evo-8gb-gddr6-oc-edition-gaming-graphics-card",
@@ -229027,7 +229123,7 @@
           "category": "gpu",
           "price": 12300000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2024/08/ASUS-Dual-RTX-4060-OC-V2-8GB-GDDR6-ATX-Graphics-Card.jpg",
           "url": "https://zahcomputers.pk/product/asus-dual-rtx-4060-oc-v2-8gb-gddr6-atx-graphics-card",
@@ -246135,7 +246231,7 @@
           "category": "storage",
           "price": 5800000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://zahcomputers.pk/wp-content/uploads/2023/06/Seagate-IronWolf-SATA-Hard-Drive-Price-in-Pakistan.jpg",
           "url": "https://zahcomputers.pk/product/seagate-ironwolf-se6000vn001-6tb-nas-3-5-sata-hard-drive",
@@ -254593,7 +254689,7 @@
             6200000,
             6200000,
             6200000,
-            6200000,
+            6500000,
             6500000,
             6500000,
             6500000,
@@ -276618,6 +276714,7 @@
             168999,
             168999,
             168999,
+            168999,
             168999
           ]
         },
@@ -276633,6 +276730,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/ASUS-TUF-A16-2.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-a16-fa608um-rv047ar-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5060-8gb-16-fhd-165hz-ips-display-jaeger-gray-new",
           "history": [
+            474999,
             474999,
             474999,
             474999,
@@ -277194,8 +277292,8 @@
           "name": "Attack Shark R98 HE Carbon Fiber Rapid Trigger 8K Wired RGB Magnetic Gaming Keyboard &#821",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 18499,
-          "oldPrice": null,
+          "price": 19999,
+          "oldPrice": 18499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_attack_shark_r98_he_moonlight.webp",
@@ -277212,7 +277310,7 @@
             18499,
             18499,
             18499,
-            18499
+            19999
           ]
         },
         {
@@ -281588,8 +281686,8 @@
           "name": "Crucial Pro OC 64GB (2x32GB) 6000MT/s CL40 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Crucial",
           "category": "ram",
-          "price": 314999,
-          "oldPrice": null,
+          "price": 364999,
+          "oldPrice": 314999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_crucial_pro_oc_ddr5_black.png",
@@ -281598,7 +281696,6 @@
             379999,
             379999,
             379999,
-            379999,
             314999,
             314999,
             314999,
@@ -281606,7 +281703,8 @@
             314999,
             314999,
             314999,
-            314999
+            314999,
+            364999
           ]
         },
         {
@@ -282069,6 +282167,7 @@
             17999,
             17999,
             17999,
+            19999,
             19999,
             19999,
             19999,
@@ -282818,7 +282917,7 @@
             299999,
             299999,
             299999,
-            299999,
+            289999,
             289999,
             289999,
             289999,
@@ -282893,7 +282992,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/Legion_5_15IRX10_CT1_02.avif",
           "url": "https://rbtechngames.com/product/lenovo-legion-5i-gen-10-2025-15irx10-intel-core-i7-14th-16gb-ram-1tb-ssd-rtx-5060-15-1-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
-            454999,
+            549999,
             549999,
             549999,
             549999,
