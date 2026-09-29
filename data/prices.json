@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T12:12:32.571113+00:00",
+  "lastUpdated": "2026-09-29T21:55:17.825274+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,36 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_150832e4",
+          "name": "Logitech G502 X Lightspeed Wireless Gaming Mouse - Black",
+          "brand": "Logitech",
+          "category": "mouse",
+          "price": 29490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g502x-gaming-mouse-price-in-pakistan-pakbyte_3.webp?v=1790689762",
+          "url": "https://www.pakbyte.pk/products/logitech-g502-x-lightspeed-wireless-gaming-mouse-black",
+          "history": [
+            29490
+          ]
+        },
+        {
+          "id": "pakbyte_2de94f94",
+          "name": "Logitech G403 Hero RGB Gaming Mouse",
+          "brand": "Logitech",
+          "category": "mouse",
+          "price": 10490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G403-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1790688272",
+          "url": "https://www.pakbyte.pk/products/logitech-g403-hero-rgb-gaming-mouse",
+          "history": [
+            10490
+          ]
+        },
         {
           "id": "pakbyte_64c81b91",
           "name": "AULA F87 Side Engraved Tri-Mode Mechanical Gaming Keyboard - Black/Yellow Contour - Matcha",
@@ -20,6 +50,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-F87-Side-Engraved-Tri-Mode-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1790664922",
           "url": "https://www.pakbyte.pk/products/aula-f87-side-engraved-tri-mode-mechanical-gaming-keyboard-black-yellow-contour-matcha-latte-switch",
           "history": [
+            12990,
             12990
           ]
         },
@@ -35,6 +66,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f87-pro-gradient-gray-keyboard-price-in-pakistan-pakbyte.webp?v=1790664311",
           "url": "https://www.pakbyte.pk/products/aula-f87-mechanical-wireless-keyboard-gradient-gray-space-crystal-switch",
           "history": [
+            13490,
             13490
           ]
         },
@@ -50,6 +82,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f87-pro-black-price-in-pakistan-pakbyte.webp?v=1790663951",
           "url": "https://www.pakbyte.pk/products/aula-f87-mechanical-wireless-keyboard-black-cyan-blue-greywood-switch-v4",
           "history": [
+            12990,
             12990
           ]
         },
@@ -65,6 +98,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F87-wireless-keyboard-Price-in-Pakistan-Pakbyte_5.webp?v=1790663190",
           "url": "https://www.pakbyte.pk/products/aula-f87-tri-mode-mechanical-gaming-keyboard-light-grey-white-blue-nimbus-switch-v3",
           "history": [
+            12990,
             12990
           ]
         },
@@ -80,6 +114,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F87-Wireless-keyboard-price-in-pakistan-pakbyte_1.webp?v=1790662668",
           "url": "https://www.pakbyte.pk/products/aula-f87-thunder-black-tri-mode-mechanical-gaming-keyboard-black-dark-blue-orange-graywood-switch-v3",
           "history": [
+            12490,
             12490
           ]
         },
@@ -95,6 +130,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-F75-Tri-Mode-Mechanical-Gaming-Keyboard-Thunder-Black-Price-in-Pakistan-Pakbyte_1.webp?v=1790662200",
           "url": "https://www.pakbyte.pk/products/aula-f75-tri-mode-mechanical-gaming-keyboard-thunder-black-grey-wood-switch-v3",
           "history": [
+            12990,
             12990
           ]
         },
@@ -110,6 +146,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-Wireless-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1790661271",
           "url": "https://www.pakbyte.pk/products/aula-f75-wireless-gaming-mechanical-keyboard-retro-white-panel-milk-white-switches",
           "history": [
+            12990,
             12990
           ]
         },
@@ -125,6 +162,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-F75-Tri-Mode-Mechanical-Gaming-Keyboard-Price-in-Pakistan_2.webp?v=1790660770",
           "url": "https://www.pakbyte.pk/products/aula-f75-tri-mode-mechanical-gaming-keyboard-black-panel-black-dark-gray-milk-white-switch",
           "history": [
+            12990,
             12990
           ]
         },
@@ -140,6 +178,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75Pro-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1790612935",
           "url": "https://www.pakbyte.pk/products/aula-f75-tri-mode-mechanical-gaming-keyboard-white-blue-purple-star-vector-switch",
           "history": [
+            12490,
             12490,
             12490,
             12490
@@ -159,6 +198,7 @@
           "history": [
             15990,
             15990,
+            15990,
             15990
           ]
         },
@@ -174,6 +214,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F99-Pro-Gradient-Grey-Side-Engraved-Nimbus-Switch-V3-Price-in-Pakistan-Pakbyte_1.webp?v=1790610462",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-side-engraved-v3-tri-mode-mechanical-gaming-keyboard-gradient-grey-nimbus-switch",
           "history": [
+            15990,
             15990,
             15990,
             15990
@@ -193,6 +234,7 @@
           "history": [
             17490,
             17490,
+            17490,
             17490
           ]
         },
@@ -208,6 +250,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-hero-68-he-price-in-pakistan-pakbyte_1_71304e19-9d77-49eb-a745-de578895c8e4.webp?v=1790608992",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-wired-side-engraved-gaming-keyboard-gradient-black-red",
           "history": [
+            13490,
             13490,
             13490,
             13490
@@ -227,6 +270,7 @@
           "history": [
             8990,
             8990,
+            8990,
             8990
           ]
         },
@@ -242,6 +286,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-S500-gaming-keyboard-price-in-pakistan-pakbyte.jpg?v=1790607492",
           "url": "https://www.pakbyte.pk/products/aula-win68-he-max-hall-effect-gaming-keyboard-light-grey-dark-grey-yellow-wing-chun-magnetic-switch",
           "history": [
+            11990,
             11990,
             11990,
             11990
@@ -261,6 +306,7 @@
           "history": [
             4790,
             4790,
+            4790,
             4790
           ]
         },
@@ -276,6 +322,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-ag60-pro-price-in-pakistan-priceinpakistan-pakbyte.webp?v=1790594603",
           "url": "https://www.pakbyte.pk/products/aula-ag-60-pro-aether-magnetic-switch-gaming-keyboard-black-frosted",
           "history": [
+            28490,
             28490,
             28490,
             28490,
@@ -297,6 +344,7 @@
             2190,
             2190,
             2190,
+            2190,
             2190
           ]
         },
@@ -312,6 +360,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-sc680-price-in-pakistan-pakbyte_4.webp?v=1790593830",
           "url": "https://www.pakbyte.pk/products/aula-sc680-wireless-gaming-mouse-white",
           "history": [
+            9490,
             9490,
             9490,
             9490,
@@ -333,6 +382,7 @@
             9490,
             9490,
             9490,
+            9490,
             9490
           ]
         },
@@ -348,6 +398,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-a600-price-in-pakistan-pakbyte.webp?v=1790592894",
           "url": "https://www.pakbyte.pk/products/aula-a600-wireless-gaming-headset-black",
           "history": [
+            9490,
             9490,
             9490,
             9490,
@@ -369,6 +420,7 @@
             940,
             940,
             940,
+            940,
             940
           ]
         },
@@ -384,6 +436,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attackshark-L60_-headphone-price-in-pakistan-pakbyte_2.webp?v=1790427679",
           "url": "https://www.pakbyte.pk/products/attack-shark-l60-ultra-light-tri-mode-gaming-headset",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -955,6 +1008,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-mini60-he-pro-price-in-pakistan-pakbyte_1.webp?v=1789667850",
           "url": "https://www.pakbyte.pk/products/aula-mini60-wireless-gaming-keyboard-white-smoky-cloud-magnetic-switches",
           "history": [
+            9290,
             9290,
             9290,
             9290,
@@ -5280,6 +5334,7 @@
             6240,
             6240,
             6240,
+            6240,
             6240
           ]
         },
@@ -5295,7 +5350,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATTACK-SHARK-G500-Ultra-Light-Dual-Mode-Gaming-Headset-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1784302070",
           "url": "https://www.pakbyte.pk/products/attack-shark-g500-ultra-light-dual-mode-gaming-headset-black",
           "history": [
-            7190,
+            6240,
             6240,
             6240,
             6240,
@@ -5461,6 +5516,7 @@
             7490,
             7490,
             7490,
+            7490,
             7490
           ]
         },
@@ -5476,6 +5532,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-shark-L60-Headset-Price-in-Pakistan-Pakbyte_1.webp?v=1790428308",
           "url": "https://www.pakbyte.pk/products/attack-shark-l80pro-wireless-gaming-headset-black",
           "history": [
+            7490,
             7490,
             7490,
             7490,
@@ -9732,8 +9789,8 @@
           "name": "Logitech K250 Compact Bluetooth, Number Pad, Wireless Keyboard - Black",
           "brand": "Logitech",
           "category": "keyboard",
-          "price": 4290,
-          "oldPrice": null,
+          "price": 4140,
+          "oldPrice": 4290,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-k250-price-in-pakistan-pakbyte_1.webp?v=1781941270",
@@ -9750,7 +9807,7 @@
             4290,
             4290,
             4290,
-            4290
+            4140
           ]
         },
         {
@@ -9785,7 +9842,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 27790,
-          "oldPrice": 29190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-superlight2-SE-wireless-mouse-price-in-pakistan-pakbyte_1.webp?v=1781872604",
@@ -9801,7 +9858,7 @@
             29190,
             29190,
             29190,
-            29190,
+            27790,
             27790
           ]
         },
@@ -9811,7 +9868,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 13990,
-          "oldPrice": 14990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-MX-Anywhere-2S-Wireless-Mouse-_-Graphite-Price-in-Pakistan-Pakbyte_1.jpg?v=1781870089",
@@ -9827,7 +9884,7 @@
             14990,
             14990,
             14990,
-            14990,
+            13990,
             13990
           ]
         },
@@ -11046,7 +11103,7 @@
             69990,
             69990,
             69990,
-            69990,
+            74999,
             74999,
             74999,
             74999,
@@ -12705,6 +12762,7 @@
           "history": [
             7990,
             7990,
+            7990,
             7990
           ]
         },
@@ -13162,6 +13220,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s500-price-in-pakistan-pakbyte_1.webp?v=1778304489",
           "url": "https://www.pakbyte.pk/products/aula-s500-wired-100-full-size-mechanical-keyboard-with-number-pad",
           "history": [
+            4790,
             4790,
             4790,
             4790
@@ -14343,7 +14402,7 @@
           "brand": "Ugreen",
           "category": "monitor",
           "price": 5199,
-          "oldPrice": 4199,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb-c-to-displayport-price-in-pakistan-pakbyte_1.webp?v=1776700664",
@@ -14359,7 +14418,7 @@
             4199,
             4199,
             4199,
-            4199,
+            5199,
             5199
           ]
         },
@@ -16761,7 +16820,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 31790,
-          "oldPrice": 32990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G-PRO-X-Superlight-2c-Lightspeed-Gaming-Mouse-Black-Price-in-Pakistan-Pakbyte_1.webp?v=1774364073",
@@ -16777,7 +16836,7 @@
             32990,
             32990,
             32990,
-            32990,
+            31790,
             31790
           ]
         },
@@ -20583,7 +20642,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 2090,
-          "oldPrice": 1790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-M100W-price-in-pakistan-pakbyte_1.jpg?v=1773031112",
@@ -20599,7 +20658,7 @@
             1790,
             1790,
             1790,
-            1790,
+            2090,
             2090
           ]
         },
@@ -23014,7 +23073,7 @@
             590,
             590,
             590,
-            590,
+            799,
             799,
             799,
             799,
@@ -27420,8 +27479,8 @@
           "name": "Gigabyte GeForce RTX 5060 Ti EAGLE MAX OC 16G Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 199999,
-          "oldPrice": 209999,
+          "price": 244999,
+          "oldPrice": 199999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-eagle-max-oc-rtx-5060-ti-16gb-graphic-card-price-in-pakistan-pakbyte-4.jpg?v=1770643507",
@@ -27438,7 +27497,7 @@
             199999,
             199999,
             199999,
-            199999
+            244999
           ]
         },
         {
@@ -27850,7 +27909,7 @@
             6499,
             6499,
             6499,
-            6499,
+            7499,
             7499,
             7499,
             7499,
@@ -32890,6 +32949,7 @@
             5990,
             5990,
             5990,
+            5990,
             5990
           ]
         },
@@ -35583,7 +35643,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ease-eaf12mi-price-in-pakistan-pakbyte_4.webp?v=1768886115",
           "url": "https://www.pakbyte.pk/products/ease-eaf12mi-infinity-argb-120mm-triple-fan-kit",
           "history": [
-            5290,
+            5499,
             5499,
             5499,
             5499,
@@ -39425,7 +39485,7 @@
           "brand": "G.Skill",
           "category": "ram",
           "price": 564999,
-          "oldPrice": 204990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GSKILL-Trident-Z5-Series-128GB-2-x-64GB-288-Pin-PC-RAM-DDR5-6400-PC5-51200-Desktop-Memory-Price-in-Pakistan-Pakbyte_1.jpg?v=1764662095",
@@ -39441,7 +39501,7 @@
             204990,
             204990,
             204990,
-            204990,
+            564999,
             564999
           ]
         },
@@ -42440,8 +42500,8 @@
           "name": "Logitech G903 HERO Lightspeed Wireless Gaming Mouse - Black",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 33490,
-          "oldPrice": null,
+          "price": 29990,
+          "oldPrice": 33490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g903-hero-wireless-mouse-price-in-pakistan-pakbyte_2.jpg?v=1763214875",
@@ -42458,7 +42518,7 @@
             33490,
             33490,
             33490,
-            33490
+            29990
           ]
         },
         {
@@ -42545,7 +42605,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 7290,
-          "oldPrice": 13490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g304-lightspeed-white-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1763213136",
@@ -42561,7 +42621,7 @@
             13490,
             13490,
             13490,
-            13490,
+            7290,
             7290
           ]
         },
@@ -42571,7 +42631,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 7290,
-          "oldPrice": 13490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g304-lightspeed-black-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1763213059",
@@ -42587,7 +42647,7 @@
             13490,
             13490,
             13490,
-            13490,
+            7290,
             7290
           ]
         },
@@ -52581,7 +52641,7 @@
           "brand": "HP",
           "category": "monitor",
           "price": 45999,
-          "oldPrice": 40500,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HP-LED-524SW24_1.jpg?v=1755539377",
@@ -52597,7 +52657,7 @@
             40500,
             40500,
             40500,
-            40500,
+            45999,
             45999
           ]
         },
@@ -60250,8 +60310,8 @@
           "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse - White",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 10390,
-          "oldPrice": null,
+          "price": 10490,
+          "oldPrice": 10390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse-White-PakByte-Computers-26323846004803.jpg?v=1753670205",
@@ -60268,7 +60328,7 @@
             10390,
             10390,
             10390,
-            10390
+            10490
           ]
         },
         {
@@ -60276,8 +60336,8 @@
           "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse - Black",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 12990,
-          "oldPrice": null,
+          "price": 10490,
+          "oldPrice": 12990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse-Black-PakByte-Computers-26323844595779.jpg?v=1753670205",
@@ -60294,7 +60354,7 @@
             12990,
             12990,
             12990,
-            12990
+            10490
           ]
         },
         {
@@ -60303,7 +60363,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 1390,
-          "oldPrice": 1040,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-M90-USB-Mouse-Black-PakByte-Computers-26323803340867.jpg?v=1753670205",
@@ -60319,7 +60379,7 @@
             1040,
             1040,
             1040,
-            1040,
+            1390,
             1390
           ]
         },
@@ -66101,7 +66161,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 6690,
-          "oldPrice": 6890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Signature-M550-Wireless-Mouse-Black-PakByte-Computers-26031676653635.jpg?v=1748004404",
@@ -66117,7 +66177,7 @@
             6890,
             6890,
             6890,
-            6890,
+            6690,
             6690
           ]
         },
@@ -66133,7 +66193,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-POP-Wireless-Mouse-Black-PakByte-Computers-26031625404483.jpg?v=1748004404",
           "url": "https://www.pakbyte.pk/products/logitech-pop-wireless-mouse-black",
           "history": [
-            4990,
+            5990,
             5990,
             5990,
             5990,
@@ -66309,7 +66369,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 2740,
-          "oldPrice": 2790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-M196-Bluetooth-Wireless-Mouse-Graphite-PakByte-Computers-26031287763011.jpg?v=1748004429",
@@ -66325,7 +66385,7 @@
             2790,
             2790,
             2790,
-            2790,
+            2740,
             2740
           ]
         },
@@ -66672,8 +66732,8 @@
           "name": "Seagate IronWolf 4TB NAS 3.5\" SATA Hard Drive",
           "brand": "Seagate",
           "category": "storage",
-          "price": 46500,
-          "oldPrice": null,
+          "price": 71999,
+          "oldPrice": 46500,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Seagate-IronWolf-4TB-NAS-3-5-SATA-Hard-Drive-PakByte-Computers-25965282132035.jpg?v=1753671203",
@@ -66690,7 +66750,7 @@
             46500,
             46500,
             46500,
-            46500
+            71999
           ]
         },
         {
@@ -73902,7 +73962,7 @@
           "category": "monitor",
           "price": 7499,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MXG-EMA-12-Economical-Mechanical-Spring-Single-Monitor-Arm-PakByte-Computers-25828407738435.jpg?v=1753672698",
           "url": "https://www.pakbyte.pk/products/mxg-ema-12-economical-mechanical-spring-single-monitor-arm",
@@ -90372,7 +90432,7 @@
             22499,
             22499,
             22499,
-            22499,
+            15499,
             15499,
             15499,
             15499,
@@ -91347,7 +91407,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 3240,
-          "oldPrice": 3390,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-M221-Silent-Wireless-Mouse-Charcoal-PakByte-Computers-25232454221891.webp?v=1753676767",
@@ -91363,7 +91423,7 @@
             3390,
             3390,
             3390,
-            3390,
+            3240,
             3240
           ]
         },
@@ -96183,7 +96243,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 5490,
-          "oldPrice": 6990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Ergo-M575-Wireless-Trackball-Mouse-Black-PakByte-Computers-24913537237059.jpg?v=1753677629",
@@ -96199,7 +96259,7 @@
             6990,
             6990,
             6990,
-            6990,
+            5490,
             5490
           ]
         },
@@ -102943,7 +103003,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 7190,
-          "oldPrice": 7199,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Signature-M650-Medium-Size-Wireless-Mouse-Black-PakByte-Computers-24397865025603.webp?v=1753678761",
@@ -102959,7 +103019,7 @@
             7199,
             7199,
             7199,
-            7199,
+            7190,
             7190
           ]
         },
@@ -106010,8 +106070,8 @@
           "name": "Logitech K120 USB Keyboard",
           "brand": "Logitech",
           "category": "keyboard",
-          "price": 2090,
-          "oldPrice": null,
+          "price": 2240,
+          "oldPrice": 2090,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-K120-USB-Keyboard-PakByte-Computers-24397807124547.webp?v=1753679244",
@@ -106028,7 +106088,7 @@
             2090,
             2090,
             2090,
-            2090
+            2240
           ]
         },
         {
@@ -106037,7 +106097,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 3690,
-          "oldPrice": 3790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-M240-Silent-Bluetooth-Wireless-Mouse-Graphite-PakByte-Computers-24397806305347.webp?v=1753679245",
@@ -106053,7 +106113,7 @@
             3790,
             3790,
             3790,
-            3790,
+            3690,
             3690
           ]
         },
@@ -106193,7 +106253,7 @@
           "brand": "Seagate",
           "category": "storage",
           "price": 159999,
-          "oldPrice": 83800,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Seagate-SkyHawk-10TB-Surveillance-Hard-Drive-ST10000VX0004-PakByte-Computers-24397798375491.webp?v=1753679336",
@@ -106209,7 +106269,7 @@
             83800,
             83800,
             83800,
-            83800,
+            159999,
             159999
           ]
         },
@@ -113427,6 +113487,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-M330-SILENT-PLUS-Wireless-Mouse-PakByte-Computers-24397662748739.webp?v=1753680401",
           "url": "https://www.pakbyte.pk/products/logitech-m330-silent-plus-wireless-mouse",
           "history": [
+            3890,
             3890
           ]
         },
@@ -124615,8 +124676,8 @@
           "name": "Logitech H111 Stereo Headset",
           "brand": "Logitech",
           "category": "headset",
-          "price": 2290,
-          "oldPrice": null,
+          "price": 2240,
+          "oldPrice": 2290,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Stereo-Headset-H111-PakByte-Computers-26323855900739.jpg?v=1753682593",
@@ -124633,7 +124694,7 @@
             2290,
             2290,
             2290,
-            2290
+            2240
           ]
         },
         {
@@ -130466,7 +130527,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 2240,
-          "oldPrice": 2490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-M170-Wireless-Mouse-Black-PakByte-Computers-24397081116739.jpg?v=1753684042",
@@ -130482,7 +130543,7 @@
             2490,
             2490,
             2490,
-            2490,
+            2240,
             2240
           ]
         },
@@ -130492,7 +130553,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 2140,
-          "oldPrice": 2440,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-B175-Wireless-Mouse-Black-PakByte-Computers-24397081018435.jpg?v=1753684042",
@@ -130508,7 +130569,7 @@
             2440,
             2440,
             2440,
-            2440,
+            2140,
             2140
           ]
         },
@@ -130726,7 +130787,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 2690,
-          "oldPrice": 2599,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Wireless-Mouse-M185-Swift-Gray-PakByte-Computers-24397083050051.jpg?v=1753684036",
@@ -130742,7 +130803,7 @@
             2599,
             2599,
             2599,
-            2599,
+            2690,
             2690
           ]
         },
@@ -132026,7 +132087,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 10990,
-          "oldPrice": 11490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G502-HERO-High-Performance-Gaming-Mouse-PakByte-Computers-24396982845507.jpg?v=1753684298",
@@ -132042,7 +132103,7 @@
             11490,
             11490,
             11490,
-            11490,
+            10990,
             10990
           ]
         },
@@ -147955,6 +148016,21 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_ce21c4dc",
+          "name": "Palit GeForce RTX 2060 Super Dual 8GB Graphics Card &#8211; USED",
+          "brand": "Palit",
+          "category": "gpu",
+          "price": 64999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_palit_rtx_2060_super_dual_8gb.jpg",
+          "url": "https://rbtechngames.com/product/palit-geforce-rtx-2060-super-dual-8gb-graphics-card-used",
+          "history": [
+            64999
+          ]
+        },
+        {
           "id": "rbtechgames_0ba0ce29",
           "name": "G.Skill Trident Z5 RGB 32GB (2x16GB) 6000MHz CL36 DDR5 Ram &#8211; Black",
           "brand": "G.Skill",
@@ -148571,7 +148647,7 @@
             18499,
             18499,
             18499,
-            18499,
+            19999,
             19999,
             19999,
             19999,
@@ -150503,6 +150579,32 @@
           ]
         },
         {
+          "id": "rbtechgames_21e0ec50",
+          "name": "AMD Ryzen 5 5600X Processor (TRAY) &#8211; USED",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 30000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/10/image_2021-10-04_154104-2.png",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-5600x-processor-tray-used",
+          "history": [
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000
+          ]
+        },
+        {
           "id": "rbtechgames_1337e773",
           "name": "Gigabyte Z890 Aorus Pro Ice ATX LGA1851 DDR5 Gaming Motherboard",
           "brand": "Gigabyte",
@@ -150794,7 +150896,7 @@
           "brand": "AMD",
           "category": "gpu",
           "price": 389999,
-          "oldPrice": 374999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_v_16_ai.webp",
@@ -150810,7 +150912,7 @@
             374999,
             374999,
             374999,
-            374999,
+            389999,
             389999
           ]
         },
@@ -152913,7 +153015,7 @@
             314999,
             314999,
             314999,
-            314999,
+            364999,
             364999,
             364999,
             364999,
@@ -153325,7 +153427,7 @@
             17999,
             17999,
             17999,
-            17999,
+            19999,
             19999,
             19999,
             19999,
@@ -154240,7 +154342,7 @@
             21499,
             21499,
             21499,
-            21499,
+            24999,
             24999,
             24999,
             24999
@@ -155024,6 +155126,21 @@
             12999,
             12999,
             12999
+          ]
+        },
+        {
+          "id": "rbtechgames_1d7582a0",
+          "name": "ASUS TUF Gaming GeForce RTX 5080 16GB OC Graphics Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 574999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_asus_tuf_gaming_rtx_5080_oc_16gb.jpg",
+          "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-rtx-5080-16gb-oc-graphics-card",
+          "history": [
+            574999
           ]
         },
         {
@@ -156246,32 +156363,6 @@
             39499,
             39499,
             39499
-          ]
-        },
-        {
-          "id": "rbtechgames_b08e4623",
-          "name": "Logitech MX Mechanical Mini Wireless Illuminated Keyboard &#8211; Graphite Clicky",
-          "brand": "Logitech",
-          "category": "keyboard",
-          "price": 53999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2023/01/logitech_mx_mini_0.jpg",
-          "url": "https://rbtechngames.com/product/logitech-mx-mechanical-mini-wireless-illuminated-keyboard-graphite-clicky",
-          "history": [
-            53999,
-            53999,
-            53999,
-            53999,
-            53999,
-            53999,
-            53999,
-            53999,
-            53999,
-            53999,
-            53999,
-            53999
           ]
         },
         {
