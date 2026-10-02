@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T17:42:19.384337+00:00",
+  "lastUpdated": "2026-10-02T21:51:41.847224+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M724-King-1K-Price-in-Pakistan-Pakbyte.jpg?v=1790959548",
           "url": "https://www.pakbyte.pk/products/redragon-king-m724-1k-hz-42g-ultra-light-wired-gaming-mouse",
           "history": [
+            4990,
             4990
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M618-Wired-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1790958278",
           "url": "https://www.pakbyte.pk/products/redragon-azzmach-m618-rgb-wired-gaming-mouse-black",
           "history": [
+            3290,
             3290
           ]
         },
@@ -50,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F99-Pro-Wireless-Gaming-Keyboard-Price-in-Pakistan-Pakbyte.jpg?v=1790955877",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-mechanical-keyboard-black-cotton-candy-switch",
           "history": [
+            14990,
             14990
           ]
         },
@@ -65,6 +68,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-Wireless-Gaming-Keyboard-Neolight-Price-in-Pakistan-Pakbyte_1.jpg?v=1790954837",
           "url": "https://www.pakbyte.pk/products/aula-f75-wireless-mechanical-keyboard-neonight-leobog-greywood-v3-switches",
           "history": [
+            13390,
             13390
           ]
         },
@@ -80,6 +84,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kz-axas-price-in-pakistan-pakbyte_1.webp?v=1790765054",
           "url": "https://www.pakbyte.pk/products/kz-axas-usb-c-headphone-with-mic",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -113,6 +118,7 @@
             29490,
             29490,
             29490,
+            29490,
             29490
           ]
         },
@@ -128,6 +134,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G403-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1790688272",
           "url": "https://www.pakbyte.pk/products/logitech-g403-hero-rgb-gaming-mouse",
           "history": [
+            10490,
             10490,
             10490,
             10490,
@@ -1031,7 +1038,7 @@
           "brand": "AULA",
           "category": "keyboard",
           "price": 17990,
-          "oldPrice": 18290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero75-he-lingyun-magnetic-switch-price-in-pakistan-pakbyte.webp?v=1789750846",
@@ -1047,7 +1054,7 @@
             18290,
             18290,
             18290,
-            18290,
+            17990,
             17990
           ]
         },
@@ -1057,7 +1064,7 @@
           "brand": "AULA",
           "category": "keyboard",
           "price": 16990,
-          "oldPrice": 17390,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-Hero68-Mini-Air-Price-in-Pakistan-Pakbyte.jpg?v=1790950664",
@@ -1073,7 +1080,7 @@
             17390,
             17390,
             17390,
-            17390,
+            16990,
             16990
           ]
         },
@@ -1109,7 +1116,7 @@
           "brand": "Aula",
           "category": "headset",
           "price": 12990,
-          "oldPrice": 13490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-A700-Wireless-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.jpg?v=1789672302",
@@ -1125,7 +1132,7 @@
             13490,
             13490,
             13490,
-            13490,
+            12990,
             12990
           ]
         },
@@ -1135,7 +1142,7 @@
           "brand": "AULA",
           "category": "headset",
           "price": 12990,
-          "oldPrice": 13490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-A700-wireless-gaming-headset-prce-in-pakistan-pakbyte_1.jpg?v=1789672056",
@@ -1151,7 +1158,7 @@
             13490,
             13490,
             13490,
-            13490,
+            12990,
             12990
           ]
         },
@@ -1245,6 +1252,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-G7Pro-Gaming-Headset-Price-in-Pakistan-Pakbyte.jpg?v=1789670124",
           "url": "https://www.pakbyte.pk/products/aula-g7-g7-pro-wireless-gaming-headset-black",
           "history": [
+            8490,
             8490
           ]
         },
@@ -1260,6 +1268,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Leobog-A80RT-Keyboard-price-in-Pakistan-Pakbyte_1.jpg?v=1789669097",
           "url": "https://www.pakbyte.pk/products/aula-leobog-a80-rt-hall-effect-mechanical-wired-gaming-keyboard-white",
           "history": [
+            15890,
             15890
           ]
         },
@@ -1275,6 +1284,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-mini60-he-pro-price-in-pakistan-pakbyte_1.webp?v=1789667850",
           "url": "https://www.pakbyte.pk/products/aula-mini60-wireless-gaming-keyboard-white-smoky-cloud-magnetic-switches",
           "history": [
+            8890,
             8890
           ]
         },
@@ -1290,6 +1300,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-HERO-84-HE-Wired-Mechanical-Keyboard-G-Purple-Price-in-Pakistan-Pakbyte.jpg?v=1789667393",
           "url": "https://www.pakbyte.pk/products/aula-hero-84-he-wired-mechanical-keyboard-gradient-purple-jade-king-magnetic-switches",
           "history": [
+            13490,
             13490
           ]
         },
@@ -1305,6 +1316,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero68-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1789667022",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-60-wired-gaming-keyboard-white-meteor-magnetic-switches",
           "history": [
+            11890,
             11890
           ]
         },
@@ -1314,7 +1326,7 @@
           "brand": "Aula",
           "category": "ram",
           "price": 21990,
-          "oldPrice": 23990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-l99-price-in-pakistan-pakbyte_5.webp?v=1789664969",
@@ -1330,7 +1342,7 @@
             23990,
             23990,
             23990,
-            23990,
+            21990,
             21990
           ]
         },
@@ -1340,7 +1352,7 @@
           "brand": "Aula",
           "category": "ram",
           "price": 21990,
-          "oldPrice": 23990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-l99-price-in-pakistan-pakbyte_1_cbf53860-95b2-4e1d-98be-860e2264eab1.webp?v=1789664619",
@@ -1356,7 +1368,7 @@
             23990,
             23990,
             23990,
-            23990,
+            21990,
             21990
           ]
         },
@@ -1372,6 +1384,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f99-pro-96-white-cotton-candy-price-in-pakistan-pakbyte.webp?v=1789644987",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-mechanical-keyboard-white-cotton-candy-switches",
           "history": [
+            14990,
             14990
           ]
         },
@@ -1407,7 +1420,7 @@
           "brand": "AULA",
           "category": "keyboard",
           "price": 13990,
-          "oldPrice": 14390,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-S75-PRO-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1789640791",
@@ -1423,7 +1436,7 @@
             14390,
             14390,
             14390,
-            14390,
+            13990,
             13990
           ]
         },
@@ -1439,6 +1452,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-black-contour-price-in-pakistan-pakbyte_1_eb48a80f-c57a-46b9-8ac7-a02cdb256557.webp?v=1789639673",
           "url": "https://www.pakbyte.pk/products/aula-f75-max-wireless-mechanical-keyboard-black-leobog-reaper-switch",
           "history": [
+            14490,
             14490
           ]
         },
@@ -1454,6 +1468,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-white-contour-price-in-pakistan-Pakbyte.webp?v=1789629072",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-mechanical-keyboard-white-contour-star-vector-switches",
           "history": [
+            12490,
             12490
           ]
         },
@@ -2461,6 +2476,7 @@
             4690,
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -2756,7 +2772,7 @@
           "brand": "ATK",
           "category": "mouse",
           "price": 23999,
-          "oldPrice": 21990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-f1-v3-ultimate-price-in-pakistan-pakbyte_1.webp?v=1787556676",
@@ -2772,7 +2788,7 @@
             21990,
             21990,
             21990,
-            21990,
+            23999,
             23999
           ]
         },
@@ -2790,7 +2806,7 @@
           "history": [
             4490,
             4490,
-            4490,
+            2990,
             2990,
             2990,
             2990,
@@ -9945,7 +9961,7 @@
             2460,
             2460,
             2460,
-            2460,
+            2730,
             2730,
             2730,
             2730,
@@ -9990,7 +10006,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-k250-price-in-pakistan-pakbyte_1.webp?v=1781941270",
           "url": "https://www.pakbyte.pk/products/logitech-k250-compact-bluetooth-number-pad-wireless-keyboard-black",
           "history": [
-            4290,
+            4140,
             4140,
             4140,
             4140,
@@ -12876,6 +12892,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Mini60-HE-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.jpg?v=1790949149",
           "url": "https://www.pakbyte.pk/products/aula-mini60-he-hall-effect-gaming-keyboard-black-leobog-stormrise-wind-cloud-magnetic-switch",
           "history": [
+            8890,
             8890
           ]
         },
@@ -12917,6 +12934,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-hero-68-he-price-in-pakistan-pakbyte_1.webp?v=1778415041",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-60-gaming-keyboard-wired-hall-effect-magnetic-switch-keyboard-white-contour",
           "history": [
+            11490,
             11490
           ]
         },
@@ -12932,6 +12950,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-WIN68HE-Black-Price-in-pakistan-pakbyte.jpg?v=1778414397",
           "url": "https://www.pakbyte.pk/products/aula-win68he-gray-wood-magnetic-rt-extreme-response-gaming-keyboard-black",
           "history": [
+            7290,
             7290
           ]
         },
@@ -12967,7 +12986,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 16490,
-          "oldPrice": 16990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f108-pro-gradient-black-price-in-pakistan-pakbyte_1.webp?v=1778412764",
@@ -12983,7 +13002,7 @@
             16990,
             16990,
             16990,
-            16990,
+            16490,
             16490
           ]
         },
@@ -12999,6 +13018,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s98-pro-price-in-pakistan-pakbyte_1.webp?v=1778411669",
           "url": "https://www.pakbyte.pk/products/aula-s98-pro-wireless-mechanical-keyboard-glacier-blue",
           "history": [
+            15490,
             15490
           ]
         },
@@ -13040,6 +13060,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F99-Pro-Price-in-Pakistan-Pakbyte_1.jpg?v=1778410871",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-gaming-keyboard-white-black-green",
           "history": [
+            14490,
             14490
           ]
         },
@@ -13081,6 +13102,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Nova75-Price-in-Pakistan-Pakbyte.webp?v=1790944938",
           "url": "https://www.pakbyte.pk/products/aula-nova75-mechanical-gaming-keyboard-white-gray-caramel-latte-switch",
           "history": [
+            14990,
             14990
           ]
         },
@@ -13122,6 +13144,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s75-pro-white-blue-price-in-pakistan-pakbyte_1.webp?v=1778407797",
           "url": "https://www.pakbyte.pk/products/aula-s75-pro-wireless-mechanical-keyboard-light-blue-white-star-vector-switch",
           "history": [
+            13790,
             13790
           ]
         },
@@ -13163,6 +13186,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-white-contour-price-in-pakistan-pakbyte_1.webp?v=1778402103",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-gaming-keyboard-white-contour",
           "history": [
+            14890,
             14890
           ]
         },
@@ -13231,6 +13255,7 @@
           "url": "https://www.pakbyte.pk/products/aula-f75-75-wireless-gasket-mechanical-keyboard-light-blue-leobog-ice-vein-switch",
           "history": [
             12990,
+            12990,
             12990
           ]
         },
@@ -13246,6 +13271,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s98-white-price-in-pakistan-pakbyte_1.webp?v=1778306644",
           "url": "https://www.pakbyte.pk/products/aula-s98-wireless-mechanical-gaming-keyboard-white-blue",
           "history": [
+            9490,
             9490,
             9490
           ]
@@ -13263,6 +13289,7 @@
           "url": "https://www.pakbyte.pk/products/aula-s100-pro-wireless-custom-mechanical-keyboard-glacier-blue",
           "history": [
             8990,
+            8990,
             8990
           ]
         },
@@ -13278,6 +13305,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s500-price-in-pakistan-pakbyte_5.webp?v=1778305437",
           "url": "https://www.pakbyte.pk/products/aula-s500-wired-100-full-size-mechanical-keyboard-with-number-pad-black-red",
           "history": [
+            4990,
             4990,
             4990
           ]
@@ -13301,9 +13329,9 @@
             4790,
             4790,
             4790,
-            4790,
             4999,
             4999,
+            4990,
             4990,
             4990
           ]
@@ -20342,7 +20370,7 @@
           "history": [
             31490,
             31490,
-            31490,
+            30490,
             30490,
             30490,
             30490,
@@ -20394,7 +20422,7 @@
           "history": [
             22990,
             22990,
-            22990,
+            17890,
             17890,
             17890,
             17890,
@@ -20446,7 +20474,7 @@
           "history": [
             44990,
             44990,
-            44990,
+            40990,
             40990,
             40990,
             40990,
@@ -20472,7 +20500,7 @@
           "history": [
             46490,
             46490,
-            46490,
+            47490,
             47490,
             47490,
             47490,
@@ -20498,7 +20526,7 @@
           "history": [
             46990,
             46990,
-            46990,
+            45990,
             45990,
             45990,
             45990,
@@ -20522,6 +20550,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-Gpro-X-60-price-in-pakistan-pakbyte_1.jpg?v=1773204987",
           "url": "https://www.pakbyte.pk/products/logitech-g-pro-x-60-lightspeed-wireless-60-gaming-keyboard-black-tactile-switches",
           "history": [
+            48490,
             48490,
             48490,
             48490,
@@ -21663,6 +21692,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/epomaker-aula-f75-gaming-keyboard-black-price-in-pakistan-pakbyte_2.jpg?v=1755315243",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-gaming-keyboard-black-reaper-switches",
           "history": [
+            11890,
             11890
           ]
         },
@@ -27470,7 +27500,7 @@
           "brand": "Redragon",
           "category": "cooler",
           "price": 20560,
-          "oldPrice": 17490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon_CCW_1018_Price-in-Pakistan-Pakbyte_1.webp?v=1770794276",
@@ -27486,7 +27516,7 @@
             17490,
             17490,
             17490,
-            17490,
+            20560,
             20560
           ]
         },
@@ -27496,7 +27526,7 @@
           "brand": "Redragon",
           "category": "cooler",
           "price": 15970,
-          "oldPrice": 13890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-ccw-3011-price-in-pakistan-pakbyte_1.jpg?v=1770793961",
@@ -27512,7 +27542,7 @@
             13890,
             13890,
             13890,
-            13890,
+            15970,
             15970
           ]
         },
@@ -27535,7 +27565,7 @@
             1340,
             1340,
             1340,
-            1340,
+            1050,
             1050,
             1050,
             1050,
@@ -27554,7 +27584,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-eagle-max-oc-rtx-5060-ti-16gb-graphic-card-price-in-pakistan-pakbyte-4.jpg?v=1770643507",
           "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-5060-ti-eagle-max-oc-16g-graphics-card",
           "history": [
-            199999,
+            244999,
             244999,
             244999,
             244999,
@@ -28050,7 +28080,7 @@
           "history": [
             62999,
             62999,
-            62999,
+            79999,
             79999,
             79999,
             79999,
@@ -32416,6 +32446,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-hero-84-he-price-in-pakistan-pakbyte_4.webp?v=1766311853",
           "url": "https://www.pakbyte.pk/products/aula-hero-84-he-75-mechanical-hall-effect-magnetic-switches-keyboard",
           "history": [
+            12490,
             12490
           ]
         },
@@ -32457,6 +32488,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-hero-68-he-keyboard-price-in-pakistan-white-price-in-pakistan-pakbyte_2.webp?v=1766310758",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-wired-mechanical-meteor-magnetic-switch-custom-keyboard-white",
           "history": [
+            10490,
             10490
           ]
         },
@@ -32732,6 +32764,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f87-pro-wireless-mechanical-keyboard-price-in-pakistan-pakbyte.webp?v=1766300595",
           "url": "https://www.pakbyte.pk/products/aula-f87-pro-wireless-mechanical-80-gasket-hot-swappable-custom-keyboard-white-green",
           "history": [
+            11890,
             11890
           ]
         },
@@ -32773,6 +32806,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-Max-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_6.webp?v=1766299277",
           "url": "https://www.pakbyte.pk/products/aula-f75-max-wireless-mechanical-keyboard-with-tft-screen-and-knob-gradient-gray",
           "history": [
+            14490,
             14490
           ]
         },
@@ -32788,6 +32822,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-comic-price-in-pakistan-pakbyte_1.webp?v=1766298615",
           "url": "https://www.pakbyte.pk/products/aula-f75-wireless-creamy-mechanical-keyboard-with-rgb-backlit-comic",
           "history": [
+            12790,
             12790
           ]
         },
@@ -32803,6 +32838,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-black-contour-price-in-pakistan-pakbyte_2.webp?v=1766298248",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-mechanical-gaming-keyboard-black-contour",
           "history": [
+            12990,
             12990
           ]
         },
@@ -32896,6 +32932,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-gradient-gray-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1766254202",
           "url": "https://www.pakbyte.pk/products/aula-f75-wireless-75-gasket-hot-swappable-custom-keyboard-gradient-gray",
           "history": [
+            12990,
             12990
           ]
         },
@@ -39829,7 +39866,7 @@
           "history": [
             14490,
             14490,
-            14490,
+            10990,
             10990,
             10990,
             10990,
@@ -42505,7 +42542,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g903-hero-wireless-mouse-price-in-pakistan-pakbyte_2.jpg?v=1763214875",
           "url": "https://www.pakbyte.pk/products/logitech-g903-hero-lightspeed-wireless-gaming-mouse-black",
           "history": [
-            33490,
+            29990,
             29990,
             29990,
             29990,
@@ -45086,7 +45123,7 @@
             3490,
             3490,
             3490,
-            3490,
+            3960,
             3960,
             3960,
             3960,
@@ -45112,7 +45149,7 @@
             3640,
             3640,
             3640,
-            3640,
+            4150,
             4150,
             4150,
             4150,
@@ -45138,7 +45175,7 @@
             1340,
             1340,
             1340,
-            1340,
+            1360,
             1360,
             1360,
             1360,
@@ -50338,7 +50375,7 @@
             3340,
             3340,
             3340,
-            3340,
+            3690,
             3690,
             3690,
             3690,
@@ -52776,6 +52813,7 @@
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-gaming-keyboard-light-blue-leobog-reaper-switch",
           "history": [
             12490,
+            12490,
             12490
           ]
         },
@@ -54091,6 +54129,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-win60-he-keyboard-price-in-pakistan-pakbyte_1.webp?v=1755090489",
           "url": "https://www.pakbyte.pk/products/aula-win60-he-60-wired-magnetic-keyboard-8000-hz-polling-rate-black",
           "history": [
+            6890,
             6890
           ]
         },
@@ -59802,7 +59841,7 @@
           "history": [
             35990,
             35990,
-            35990,
+            34990,
             34990,
             34990,
             34990,
@@ -59886,6 +59925,7 @@
             48490,
             48490,
             48490,
+            48490,
             48490
           ]
         },
@@ -59901,6 +59941,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-PRO-X-60-Wireless-60-Gaming-Keyboard-Optical-Switches-Magenta-PakByte-Computers-26323875037251.jpg?v=1753670143",
           "url": "https://www.pakbyte.pk/products/logitech-pro-x-60-wireless-60-gaming-keyboard-optical-switches-magenta",
           "history": [
+            57990,
             57990,
             57990,
             57990,
@@ -59926,7 +59967,7 @@
           "history": [
             45990,
             45990,
-            45990,
+            46990,
             46990,
             46990,
             46990,
@@ -60288,7 +60329,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse-White-PakByte-Computers-26323846004803.jpg?v=1753670205",
           "url": "https://www.pakbyte.pk/products/logitech-g305-lightspeed-wireless-gaming-mouse-white",
           "history": [
-            10390,
+            10490,
             10490,
             10490,
             10490,
@@ -60314,7 +60355,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse-Black-PakByte-Computers-26323844595779.jpg?v=1753670205",
           "url": "https://www.pakbyte.pk/products/logitech-g305-lightspeed-wireless-gaming-mouse-black",
           "history": [
-            12990,
+            10490,
             10490,
             10490,
             10490,
@@ -66710,7 +66751,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Seagate-IronWolf-4TB-NAS-3-5-SATA-Hard-Drive-PakByte-Computers-25965282132035.jpg?v=1753671203",
           "url": "https://www.pakbyte.pk/products/seagate-ironwolf-4tb-nas-3-5-sata-hard-drive",
           "history": [
-            46500,
+            71999,
             71999,
             71999,
             71999,
@@ -72450,7 +72491,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 4990,
-          "oldPrice": 4290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M806-Bullseye-Wired-RGB-Gaming-Mouse-PakByte-Computers-25881072336963.webp?v=1753672487",
@@ -72466,7 +72507,7 @@
             4290,
             4290,
             4290,
-            4290,
+            4990,
             4990
           ]
         },
@@ -72476,7 +72517,7 @@
           "brand": "Redragon",
           "category": "cooler",
           "price": 9290,
-          "oldPrice": 8040,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-CC-2188-Hudur-Air-Dual-Tower-CPU-Air-Cooler-PakByte-Computers-25880564924483.jpg?v=1753672487",
@@ -72492,7 +72533,7 @@
             8040,
             8040,
             8040,
-            8040,
+            9290,
             9290
           ]
         },
@@ -72515,7 +72556,7 @@
             1599,
             1599,
             1599,
-            1599,
+            1330,
             1330,
             1330,
             1330,
@@ -72541,7 +72582,7 @@
             1140,
             1140,
             1140,
-            1140,
+            790,
             790,
             790,
             790,
@@ -75583,7 +75624,7 @@
             113999,
             113999,
             113999,
-            113999,
+            164999,
             164999,
             164999,
             164999,
@@ -77604,6 +77645,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M612-PREDATOR-RGB-8000-DPI-Gaming-Mouse-with-Rapid-Fire-Button-PakByte-Computers-25769461973059.jpg?v=1753673414",
           "url": "https://www.pakbyte.pk/products/redragon-m612-predator-rgb-8000-dpi-gaming-mouse-with-rapid-fire-button",
           "history": [
+            5190,
             5190
           ]
         },
@@ -77613,7 +77655,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 5140,
-          "oldPrice": 4780,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M607W-GRIFFIN-RGB-7200-DPI-Gaming-Mouse-White-PakByte-Computers-25769448734787.jpg?v=1753673427",
@@ -77629,7 +77671,7 @@
             4780,
             4780,
             4780,
-            4780,
+            5140,
             5140
           ]
         },
@@ -77639,7 +77681,7 @@
           "brand": "Redragon",
           "category": "monitor",
           "price": 38990,
-          "oldPrice": 40990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GM27X5-IPS-MIRROR-II-27-inches-180Hz-IPS-FHD-Gaming-Monitor-PakByte-Computers-25769366093891.webp?v=1753673439",
@@ -77655,7 +77697,7 @@
             40990,
             40990,
             40990,
-            40990,
+            38990,
             38990
           ]
         },
@@ -77665,7 +77707,7 @@
           "brand": "Redragon",
           "category": "cooler",
           "price": 7620,
-          "oldPrice": 6640,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-BALDER-CC-2199-RGB-CPU-Air-Cooler-PakByte-Computers-25769322840131.webp?v=1753673451",
@@ -77681,7 +77723,7 @@
             6640,
             6640,
             6640,
-            6640,
+            7620,
             7620
           ]
         },
@@ -81651,7 +81693,7 @@
           "history": [
             8490,
             8490,
-            8490,
+            8440,
             8440,
             8440,
             8440,
@@ -106037,7 +106079,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-K120-USB-Keyboard-PakByte-Computers-24397807124547.webp?v=1753679244",
           "url": "https://www.pakbyte.pk/products/logitech-k120-usb-keyboard",
           "history": [
-            2090,
+            2240,
             2240,
             2240,
             2240,
@@ -113189,7 +113231,7 @@
           "history": [
             5290,
             5290,
-            5290,
+            5590,
             5590,
             5590,
             5590,
@@ -115183,7 +115225,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 4990,
-          "oldPrice": 4660,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M715-RGB-DAGGER-2-High-Precision-Gaming-Mouse-PakByte-Computers-24397631455299.webp?v=1753680693",
@@ -115199,7 +115241,7 @@
             4660,
             4660,
             4660,
-            4660,
+            4990,
             4990
           ]
         },
@@ -115209,7 +115251,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 4690,
-          "oldPrice": 4290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M711-Cobra-Chroma-10000DPI-Wired-Gaming-Mouse-PakByte-Computers-24397631160387.webp?v=1753680693",
@@ -115225,7 +115267,7 @@
             4290,
             4290,
             4290,
-            4290,
+            4690,
             4690
           ]
         },
@@ -115235,7 +115277,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 5450,
-          "oldPrice": 4840,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M711-COBRA-GAMING-MOUSE-WHITE-PakByte-Computers-24397631029315.webp?v=1753680693",
@@ -115251,7 +115293,7 @@
             4840,
             4840,
             4840,
-            4840,
+            5450,
             5450
           ]
         },
@@ -115261,7 +115303,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 4990,
-          "oldPrice": 4660,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M710-Memeanlion-Chroma-RGB-Gaming-Mouse-PakByte-Computers-24397630439491.webp?v=1753680693",
@@ -115277,7 +115319,7 @@
             4660,
             4660,
             4660,
-            4660,
+            4990,
             4990
           ]
         },
@@ -115417,7 +115459,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 6590,
-          "oldPrice": 6130,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-TRIDENT-PRO-M693-Wireless-Bluetooth-RGB-Gaming-Mouse-PakByte-Computers-24397629030467.webp?v=1753680716",
@@ -115433,7 +115475,7 @@
             6130,
             6130,
             6130,
-            6130,
+            6590,
             6590
           ]
         },
@@ -115443,7 +115485,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 5690,
-          "oldPrice": 5280,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M690-MIRAGE-4800-DPI-8-Buttons-Wireless-Gaming-Mouse-PakByte-Computers-24397628145731.webp?v=1753680716",
@@ -115459,7 +115501,7 @@
             5280,
             5280,
             5280,
-            5280,
+            5690,
             5690
           ]
         },
@@ -115599,7 +115641,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 4460,
-          "oldPrice": 4140,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Griffin-M607-Wired-USB-Gaming-Mouse-PakByte-Computers-24397626179651.webp?v=1753680728",
@@ -115615,7 +115657,7 @@
             4140,
             4140,
             4140,
-            4140,
+            4460,
             4460
           ]
         },
@@ -115677,7 +115719,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 4280,
-          "oldPrice": 3790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M602-1-NEMEANLION-2-RGB-Gaming-Mouse-PakByte-Computers-24397624672323.webp?v=1753680740",
@@ -115693,7 +115735,7 @@
             3790,
             3790,
             3790,
-            3790,
+            4280,
             4280
           ]
         },
@@ -115703,7 +115745,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 4390,
-          "oldPrice": 4080,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M601-CENTROPHORUS-RGB-Gaming-Mouse-PakByte-Computers-25769390047299.webp?v=1753680740",
@@ -115719,7 +115761,7 @@
             4080,
             4080,
             4080,
-            4080,
+            4390,
             4390
           ]
         },
@@ -117419,7 +117461,7 @@
           "brand": "Redragon",
           "category": "monitor",
           "price": 39490,
-          "oldPrice": 43490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Amber-GM27H10C-27-Curved-Gaming-Monitor-PakByte-Computers-24397593313347.webp?v=1753681099",
@@ -117435,7 +117477,7 @@
             43490,
             43490,
             43490,
-            43490,
+            39490,
             39490
           ]
         },
@@ -124551,7 +124593,7 @@
           "history": [
             5190,
             5190,
-            5190,
+            5390,
             5390,
             5390,
             5390,
@@ -124653,7 +124695,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Stereo-Headset-H111-PakByte-Computers-26323855900739.jpg?v=1753682593",
           "url": "https://www.pakbyte.pk/products/logitech-stereo-headset-h111",
           "history": [
-            2290,
+            2240,
             2240,
             2240,
             2240,
@@ -129127,7 +129169,7 @@
           "history": [
             17490,
             17490,
-            17490,
+            18999,
             18999,
             18999,
             18999,
@@ -147997,6 +148039,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_aula_f87_pro_v2_glacier_blue.webp",
           "url": "https://rbtechngames.com/product/aula-f87-pro-v2-tkl-wireless-rgb-gaming-keyboard-glacier-blue-star-vector-switch",
           "history": [
+            13499,
             13499
           ]
         },
@@ -148015,6 +148058,7 @@
             294999,
             294999,
             294999,
+            294999,
             294999
           ]
         },
@@ -148030,6 +148074,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_zotac_rtx_5060_ti_amp_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-amp-16gb-graphics-card-open-box",
           "history": [
+            229999,
             229999,
             229999,
             229999,
@@ -148084,6 +148129,7 @@
             674999,
             674999,
             674999,
+            674999,
             674999
           ]
         },
@@ -148099,6 +148145,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_rog_strix_g15_2021_eclipse_black.png",
           "url": "https://rbtechngames.com/product/asus-rog-strix-g15-2021-g513qm-amd-ryzen-9-5900hx-16gb-ram-512gb-ssd-rtx-3060-15-6-fhd-240hz-ips-display-black-used",
           "history": [
+            239999,
             239999,
             239999,
             239999,
@@ -148130,6 +148177,7 @@
             599999,
             599999,
             599999,
+            599999,
             599999
           ]
         },
@@ -148153,6 +148201,7 @@
             474999,
             474999,
             474999,
+            474999,
             474999
           ]
         },
@@ -148168,6 +148217,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/ASUS-TUF-A16-2.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-a16-fa608uh-rv018-amd-ryzen-7-260-16gb-ram-512gb-ssd-rtx-5050-16-fhd-165hz-ips-display-jaeger-gray-new",
           "history": [
+            439999,
             439999,
             439999,
             439999,
@@ -148220,6 +148270,7 @@
             884999,
             884999,
             884999,
+            884999,
             884999
           ]
         },
@@ -148235,6 +148286,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_legion_5_15ahp10.webp",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-15iax10-intel-core-ultra-7-255hx-32gb-ram-512gb-ssd-rtx-5060-15-1-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            624999,
             624999,
             624999,
             624999,
@@ -150055,7 +150107,7 @@
             224999,
             224999,
             224999,
-            224999,
+            232999,
             232999,
             232999,
             232999,
@@ -150526,7 +150578,7 @@
             84999,
             84999,
             84999,
-            84999,
+            88499,
             88499,
             88499,
             88499,
@@ -150579,7 +150631,7 @@
             7499,
             7499,
             7499,
-            7499,
+            11499,
             11499,
             11499,
             11499,
@@ -150631,7 +150683,7 @@
             7399,
             7399,
             7399,
-            7399,
+            7999,
             7999,
             7999,
             7999,
@@ -152082,7 +152134,7 @@
           "history": [
             509999,
             509999,
-            509999,
+            599999,
             599999,
             599999,
             599999,
@@ -152162,7 +152214,7 @@
             109999,
             109999,
             109999,
-            109999,
+            116999,
             116999,
             116999,
             116999,
@@ -152890,7 +152942,7 @@
             6295,
             6295,
             6295,
-            6295,
+            7999,
             7999,
             7999,
             7999,
@@ -153778,6 +153830,7 @@
             64999,
             64999,
             64999,
+            57999,
             57999
           ]
         },
@@ -154758,6 +154811,7 @@
             14500,
             14500,
             14500,
+            14500,
             14500
           ]
         },
@@ -155059,6 +155113,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_wd_green_sn3000.webp",
           "url": "https://rbtechngames.com/product/wd-green-sn3000-nvme-m-2-gen-4-ssd-500gb-1tb-2tb",
           "history": [
+            40499,
             40499
           ]
         },
@@ -155224,7 +155279,7 @@
           "brand": "Aula",
           "category": "keyboard",
           "price": 13999,
-          "oldPrice": 12999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_aula_f75_black.webp",
@@ -155240,7 +155295,7 @@
             12999,
             12999,
             12999,
-            12999,
+            13999,
             13999
           ]
         },
@@ -155256,6 +155311,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_asus_tuf_gaming_rtx_5080_oc_16gb.jpg",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-rtx-5080-16gb-oc-graphics-card",
           "history": [
+            574999,
             574999,
             574999,
             574999,
