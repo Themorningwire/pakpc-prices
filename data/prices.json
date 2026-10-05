@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T13:43:33.070202+00:00",
+  "lastUpdated": "2026-10-05T23:47:00.948273+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,51 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_e9d855d3",
+          "name": "Redragon WYVERN K689 Wired Mechanical Gaming Keyboard",
+          "brand": "Redragon",
+          "category": "keyboard",
+          "price": 15490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K689-Wired-Gasket-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1791216804",
+          "url": "https://www.pakbyte.pk/products/redragon-wyvern-k689-wired-mechanical-gaming-keyboard",
+          "history": [
+            15490
+          ]
+        },
+        {
+          "id": "pakbyte_e71a9406",
+          "name": "Redragon Trundle K668 WBO Wired Gasket RGB Gaming Keyboard",
+          "brand": "Redragon",
+          "category": "keyboard",
+          "price": 11090,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-trundle-k668-price-in-pakistan-pakbyte_1.webp?v=1791215917",
+          "url": "https://www.pakbyte.pk/products/redragon-trundle-k668-wbo-wired-gasket-rgb-gaming-keyboard",
+          "history": [
+            11090
+          ]
+        },
+        {
+          "id": "pakbyte_6cae4983",
+          "name": "Redragon K628WG POLLUX Wired Mechanical Keyboard - White/Grey",
+          "brand": "Redragon",
+          "category": "keyboard",
+          "price": 10390,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K628WG-POLLUX-Wired-Mechanical-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1791213348",
+          "url": "https://www.pakbyte.pk/products/redragon-k628wg-pollux-wired-mechanical-keyboard-white-grey",
+          "history": [
+            10390
+          ]
+        },
         {
           "id": "pakbyte_5864cc61",
           "name": "Redragon KING M724 1K-HZ 42G Ultra-Light Wired Gaming Mouse",
@@ -9993,29 +10038,18 @@
           ]
         },
         {
-          "id": "pakbyte_182ce9bc",
-          "name": "Redragon H888 Tri-Mode Gaming Headset",
+          "id": "pakbyte_3c3ca6eb",
+          "name": "Redragon H888 LUCE  7.1 Surrond Sound Wireless Gaming Headset",
           "brand": "Redragon",
           "category": "headset",
-          "price": 6990,
+          "price": 7790,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H888-Tri-Mode-Gaming-Headset-Price-in-Pakistan-Pakbyte_1.webp?v=1782239080",
           "url": "https://www.pakbyte.pk/products/redragon-h888-tri-mode-gaming-headset",
           "history": [
-            6990,
-            6990,
-            6990,
-            6990,
-            6990,
-            6990,
-            6990,
-            6990,
-            6990,
-            6990,
-            6990,
-            6990
+            7790
           ]
         },
         {
@@ -10049,8 +10083,8 @@
           "name": "Redragon King Ultra M999 Wireless Gaming Mouse - Black",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 7799,
-          "oldPrice": null,
+          "price": 7990,
+          "oldPrice": 7799,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-king-ultra-m999-price-in-pakistan-pakbyte_1.webp?v=1782193113",
@@ -10067,7 +10101,7 @@
             7799,
             7799,
             7799,
-            7799
+            7990
           ]
         },
         {
@@ -11869,8 +11903,8 @@
           "name": "Redragon Stealth M923 Wired Gaming Mouse",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 4480,
-          "oldPrice": null,
+          "price": 4890,
+          "oldPrice": 4480,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-STEALTH-M923-WL-Price-in-Pakistan-Pakbyte_1.webp?v=1779467210",
@@ -11887,7 +11921,7 @@
             4480,
             4480,
             4480,
-            4480
+            4890
           ]
         },
         {
@@ -11921,8 +11955,8 @@
           "name": "Redragon VOLCANO K526 PRO 104 Keys Mechanical-Feel Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 7140,
-          "oldPrice": null,
+          "price": 7990,
+          "oldPrice": 7140,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K526-Volcano-Pro-Price-in-Pakistan-Pakbyte_1.webp?v=1779466084",
@@ -11939,7 +11973,7 @@
             7140,
             7140,
             7140,
-            7140
+            7990
           ]
         },
         {
@@ -11947,8 +11981,8 @@
           "name": "Redragon OLAF K648 90% Wired Aluminum RGB Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 12990,
-          "oldPrice": null,
+          "price": 14790,
+          "oldPrice": 12990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K648-Wired-Aluminum-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1779465681",
@@ -11965,7 +11999,7 @@
             12990,
             12990,
             12990,
-            12990
+            14790
           ]
         },
         {
@@ -12025,8 +12059,8 @@
           "name": "Redragon Antonium Pro K745WB RGB Mechanical Wired Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 14650,
-          "oldPrice": null,
+          "price": 15790,
+          "oldPrice": 14650,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-ANTONIUM-K745WB-PRO-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1779463981",
@@ -12043,7 +12077,7 @@
             14650,
             14650,
             14650,
-            14650
+            15790
           ]
         },
         {
@@ -20892,7 +20926,7 @@
           "brand": "Logitech",
           "category": "headset",
           "price": 27490,
-          "oldPrice": 26490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Zone-305-Wireless-Bluetooth-Headset-price-in-pakistan-pakbyte_1.jpg?v=1773122831",
@@ -20908,7 +20942,7 @@
             26490,
             26490,
             26490,
-            26490,
+            27490,
             27490
           ]
         },
@@ -22061,8 +22095,8 @@
           "name": "Redragon Star Blade K707SP RGB Wired Mechanical Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 11890,
-          "oldPrice": null,
+          "price": 12990,
+          "oldPrice": 11890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-STARBLADE-K707-price-in-pakistan-pakbyte_1.webp?v=1772265652",
@@ -22079,7 +22113,7 @@
             11890,
             11890,
             11890,
-            11890
+            12990
           ]
         },
         {
@@ -27729,8 +27763,8 @@
           "name": "Redragon P016 PISCES Gaming Mousepad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 1399,
-          "oldPrice": null,
+          "price": 1190,
+          "oldPrice": 1399,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-P016-price-in-pakistan-pakbyte_1.jpg?v=1770824740",
@@ -27747,7 +27781,7 @@
             1399,
             1399,
             1399,
-            1399
+            1190
           ]
         },
         {
@@ -36309,9 +36343,9 @@
           "name": "Redragon K525 SHIVA PRO Wireless Anti-Ghosting Membrane Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 6290,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 7090,
+          "oldPrice": 6290,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K525-Black-Shiva-PRO-Membrance-Keyboard-price-in-pakistan-pakbyte_4.webp?v=1765825598",
           "url": "https://www.pakbyte.pk/products/redragon-k525-shiva-pro-wireless-anti-ghosting-membrane-gaming-keyboard",
@@ -36327,7 +36361,7 @@
             6290,
             6290,
             6290,
-            6290
+            7090
           ]
         },
         {
@@ -36335,8 +36369,8 @@
           "name": "Redragon K525 SHIVA Lite Gaming Keyboard with Detachable Wrist Rest - White & Grey",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 4890,
-          "oldPrice": null,
+          "price": 5190,
+          "oldPrice": 4890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K525-White-Shiva-Lite-Membrance-Keyboard-price-in-pakistan-pakbyte_2.webp?v=1765825254",
@@ -36353,7 +36387,7 @@
             4890,
             4890,
             4890,
-            4890
+            5190
           ]
         },
         {
@@ -36361,8 +36395,8 @@
           "name": "Redragon FIZZ K617 60% RGB Mechanical Keyboard with Red Switches - White & Gray",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 6999,
-          "oldPrice": null,
+          "price": 6990,
+          "oldPrice": 6999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K617-FIZZ-WG-RGB-Wired-Gaming-Keyboard-price-in-pakistan-pakbyte_3.webp?v=1765824898",
@@ -36379,7 +36413,7 @@
             6999,
             6999,
             6999,
-            6999
+            6990
           ]
         },
         {
@@ -45071,8 +45105,8 @@
           "name": "Redragon S107 Gaming Keyboard and Mouse Combo",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 6590,
-          "oldPrice": null,
+          "price": 7290,
+          "oldPrice": 6590,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-s107-price-in-pakistan-pakbyte_1.jpg?v=1761955651",
@@ -45089,7 +45123,7 @@
             6590,
             6590,
             6590,
-            6590
+            7290
           ]
         },
         {
@@ -45097,8 +45131,8 @@
           "name": "Redragon K744 PRO Wireless Gasket RGB Gaming Keyboard - Cerulean Polar",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 12090,
-          "oldPrice": null,
+          "price": 13990,
+          "oldPrice": 12090,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k744-pro-price-in-pakistan-pakbyte_2.jpg?v=1761955518",
@@ -45115,7 +45149,7 @@
             12090,
             12090,
             12090,
-            12090
+            13990
           ]
         },
         {
@@ -45123,9 +45157,9 @@
           "name": "Redragon K740 Wired RGB Gaming Keyboard - Purple Rain",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 12590,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 16590,
+          "oldPrice": 12590,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k740-gaming-keyboard-purple-price-in-pakistan-pakbyte_2.jpg?v=1761955334",
           "url": "https://www.pakbyte.pk/products/redragon-k740-wired-rgb-gaming-keyboard-purple-rain",
@@ -45141,7 +45175,7 @@
             12590,
             12590,
             12590,
-            12590
+            16590
           ]
         },
         {
@@ -45149,8 +45183,8 @@
           "name": "Redragon K740 Wired RGB Gaming Keyboard - Green Blaze",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 11890,
-          "oldPrice": null,
+          "price": 13990,
+          "oldPrice": 11890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k740-price-in-pakistan-pakbyte_2.jpg?v=1761955098",
@@ -45167,7 +45201,7 @@
             11890,
             11890,
             11890,
-            11890
+            13990
           ]
         },
         {
@@ -45227,9 +45261,9 @@
           "name": "Redragon Netherbane K521 RGB Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 3340,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 3690,
+          "oldPrice": 3340,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k521-price-in-pakistan-pakbyte_2.jpg?v=1761953796",
           "url": "https://www.pakbyte.pk/products/redragon-k521-rainbow-gaming-keyboard",
@@ -45245,7 +45279,7 @@
             3340,
             3340,
             3340,
-            3340
+            3690
           ]
         },
         {
@@ -45253,8 +45287,8 @@
           "name": "Redragon M921 MMO Gaming Mouse",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 4840,
-          "oldPrice": null,
+          "price": 5290,
+          "oldPrice": 4840,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-m921-mouse-price-in-pakistan-pakbyte_2.jpg?v=1761952933",
@@ -45271,7 +45305,7 @@
             4840,
             4840,
             4840,
-            4840
+            5290
           ]
         },
         {
@@ -45364,6 +45398,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-m816-pro-price-in-pakistan-pakbyte_2.jpg?v=1761952413",
           "url": "https://www.pakbyte.pk/products/redragon-m816-pro-wireless-gaming-mouse",
           "history": [
+            7990,
             7990
           ]
         },
@@ -45373,7 +45408,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 3890,
-          "oldPrice": 2890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Deicide-M816-Wired-Gaming-Mouse-pakbyte_1.webp?v=1761952332",
@@ -45389,7 +45424,7 @@
             2890,
             2890,
             2890,
-            2890,
+            3890,
             3890
           ]
         },
@@ -45694,7 +45729,7 @@
             589990,
             589990,
             589990,
-            589990,
+            634999,
             634999,
             634999,
             634999,
@@ -50286,8 +50321,8 @@
           "name": "Redragon Hylas H260 RGB Gaming Headset with Microphone - White",
           "brand": "Redragon",
           "category": "headset",
-          "price": 4990,
-          "oldPrice": null,
+          "price": 4790,
+          "oldPrice": 4990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-hylas-h260-headset_1.webp?v=1756809503",
@@ -50304,7 +50339,7 @@
             4990,
             4990,
             4990,
-            4990
+            4790
           ]
         },
         {
@@ -50364,8 +50399,8 @@
           "name": "Redragon K728WBB-RGB Antonium PRO TKL Mechanical Gaming Keyboard - White",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 15090,
-          "oldPrice": null,
+          "price": 16290,
+          "oldPrice": 15090,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/RedragonK728WBB-RGB-PROAntonium-PRO_1.jpg?v=1756797861",
@@ -50382,7 +50417,7 @@
             15090,
             15090,
             15090,
-            15090
+            16290
           ]
         },
         {
@@ -50390,8 +50425,8 @@
           "name": "Redragon K743 Antonium Pro LCD 80% Gasket RGB Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 15290,
-          "oldPrice": null,
+          "price": 17890,
+          "oldPrice": 15290,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k743-antonium-pro-lcd-keyboard_1.webp?v=1756797579",
@@ -50408,33 +50443,22 @@
             15290,
             15290,
             15290,
-            15290
+            17890
           ]
         },
         {
-          "id": "pakbyte_a185b8e7",
-          "name": "Redragon GALATIN PRO K719AK RGB PRO 95 Keys Redefine Full-Size Gaming Mechanical Keyboard",
+          "id": "pakbyte_911173b6",
+          "name": "Redragon ARTEMIS PRO K719AK RGB PRO Gaming Mechanical Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 16990,
+          "price": 19990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GALATINPRO-K719AK-RGB-PRO_1.jpg?v=1756797385",
           "url": "https://www.pakbyte.pk/products/redragon-galatin-pro-k719ak-rgb-pro-95-keys-redefine-full-size-gaming-mechanical-keyboard",
           "history": [
-            16990,
-            16990,
-            16990,
-            16990,
-            16990,
-            16990,
-            16990,
-            16990,
-            16990,
-            16990,
-            16990,
-            16990
+            19990
           ]
         },
         {
@@ -50442,8 +50466,8 @@
           "name": "Redragon K689 Wyvern Pro Wireless Gasket RGB Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13290,
-          "oldPrice": null,
+          "price": 16690,
+          "oldPrice": 13290,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k689-wyvern-pro-keyboard_1.webp?v=1756796988",
@@ -50460,7 +50484,7 @@
             13290,
             13290,
             13290,
-            13290
+            16690
           ]
         },
         {
@@ -50468,8 +50492,8 @@
           "name": "Redragon K686 Eisa Max Wireless Gasket Mechanical Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13990,
-          "oldPrice": null,
+          "price": 15990,
+          "oldPrice": 13990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K686-Eisa-Max-Wireless-Gasket-Mechanical-Gaming-Keyboard_1.jpg?v=1756796670",
@@ -50486,7 +50510,7 @@
             13990,
             13990,
             13990,
-            13990
+            15990
           ]
         },
         {
@@ -50520,8 +50544,8 @@
           "name": "Redragon AK1-S P046S Anime Gaming Mouse Pad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 1050,
-          "oldPrice": null,
+          "price": 1130,
+          "oldPrice": 1050,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-AK1-S-P046S-Anime-Gaming-Mouse-Pad_1.jpg?v=1756790904",
@@ -50538,7 +50562,7 @@
             1050,
             1050,
             1050,
-            1050
+            1130
           ]
         },
         {
@@ -50572,8 +50596,8 @@
           "name": "Redragon M918 AKB-Pro 1K Hz 3 Modes Wireless Anime Gaming Mouse",
           "brand": "Redragon",
           "category": "monitor",
-          "price": 7890,
-          "oldPrice": null,
+          "price": 8890,
+          "oldPrice": 7890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M918-King-Max-Wireless-Gaming-Mouse.webp?v=1756749964",
@@ -50590,7 +50614,7 @@
             7890,
             7890,
             7890,
-            7890
+            8890
           ]
         },
         {
@@ -59984,9 +60008,9 @@
           "name": "Redragon H510 Zeus Pro 3-Mode RGB  7.1 Surround Sound Wireless Gaming Headset",
           "brand": "Redragon",
           "category": "headset",
-          "price": 10890,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 13490,
+          "oldPrice": 10890,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H510-Zeus-Pro-3-Mode-RGB-7-1-Surround-Sound-Wireless-Gaming-Headset-PakByte-Computers-26331010334787.jpg?v=1753669901",
           "url": "https://www.pakbyte.pk/products/redragon-h510-zeus-pro-3-mode-rgb-7-1-surround-sound-wireless-gaming-headset",
@@ -60002,7 +60026,7 @@
             10890,
             10890,
             10890,
-            10890
+            13490
           ]
         },
         {
@@ -72308,8 +72332,8 @@
           "name": "Redragon H376 AURORA USB Wired Gaming Headset - Black",
           "brand": "Redragon",
           "category": "headset",
-          "price": 7490,
-          "oldPrice": null,
+          "price": 7990,
+          "oldPrice": 7490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H376-AURORA-USB-Wired-Gaming-Headset-Black-PakByte-Computers-25887818973251.webp?v=1753672325",
@@ -72326,7 +72350,7 @@
             7490,
             7490,
             7490,
-            7490
+            7990
           ]
         },
         {
@@ -72360,8 +72384,8 @@
           "name": "Redragon K617 Fizz 8K Magnetic Switches Rapid Trigger Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13190,
-          "oldPrice": null,
+          "price": 15690,
+          "oldPrice": 13190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K617-FIZZ-60-Rapid-Trigger-Wired-Magnetic-switch-Gaming-Keyboard-PakByte-Computers-25887362908227.webp?v=1753672336",
@@ -72378,7 +72402,7 @@
             13190,
             13190,
             13190,
-            13190
+            15690
           ]
         },
         {
@@ -72568,8 +72592,8 @@
           "name": "Redragon K632 PRO HORUS MINI 60% Wireless RGB Mechanical Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13150,
-          "oldPrice": null,
+          "price": 13990,
+          "oldPrice": 13150,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K632-PRO-HORUS-MINI-60-Wireless-RGB-Mechanical-Keyboard-PakByte-Computers-25887049154627.webp?v=1753672452",
@@ -72586,7 +72610,7 @@
             13150,
             13150,
             13150,
-            13150
+            13990
           ]
         },
         {
@@ -72803,7 +72827,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 5990,
-          "oldPrice": 5799,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M808-STORM-LUNAR-Lightweight-RGB-Gaming-Mouse-Black-PakByte-Computers-25881086853187.webp?v=1753672476",
@@ -72819,7 +72843,7 @@
             5799,
             5799,
             5799,
-            5799,
+            5990,
             5990
           ]
         },
@@ -77066,8 +77090,8 @@
           "name": "Redragon H211 CRONUS Wired Gaming Headset - Black",
           "brand": "Redragon",
           "category": "headset",
-          "price": 4990,
-          "oldPrice": null,
+          "price": 5250,
+          "oldPrice": 4990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H211-CRONUS-Wired-Gaming-Headset-Black-PakByte-Computers-25770236870723.jpg?v=1753673167",
@@ -77084,7 +77108,7 @@
             4990,
             4990,
             4990,
-            4990
+            5250
           ]
         },
         {
@@ -77118,8 +77142,8 @@
           "name": "Redragon H231 Scream Wired Gaming Headset - Black",
           "brand": "Redragon",
           "category": "headset",
-          "price": 4990,
-          "oldPrice": null,
+          "price": 5290,
+          "oldPrice": 4990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H231-Scream-Wired-Gaming-Headset-Black-PakByte-Computers-25770221895747.webp?v=1753673294",
@@ -77136,7 +77160,7 @@
             4990,
             4990,
             4990,
-            4990
+            5290
           ]
         },
         {
@@ -77170,8 +77194,8 @@
           "name": "Redragon H120 RGB ARES Wired Gaming Headset",
           "brand": "Redragon",
           "category": "headset",
-          "price": 3840,
-          "oldPrice": null,
+          "price": 4150,
+          "oldPrice": 3840,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H120-RGB-ARES-Wired-Gaming-Headset-PakByte-Computers-25770205151299.webp?v=1753673294",
@@ -77188,7 +77212,7 @@
             3840,
             3840,
             3840,
-            3840
+            4150
           ]
         },
         {
@@ -77196,8 +77220,8 @@
           "name": "Redragon S129W Keyboard Mouse Headset 3 in 1 Combo Set – White",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13490,
-          "oldPrice": null,
+          "price": 15490,
+          "oldPrice": 13490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Gaming-Essentials-S129W-Keyboard-Mouse-Headset-3-in-1-Combo-Set-White-PakByte-Computers-25770180673603.jpg?v=1753673294",
@@ -77214,7 +77238,7 @@
             13490,
             13490,
             13490,
-            13490
+            15490
           ]
         },
         {
@@ -77300,8 +77324,8 @@
           "name": "REDRAGON Fizz Pro K616 RGB Gaming Keyboard – Red Switches - White/Grey",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 12490,
-          "oldPrice": null,
+          "price": 13490,
+          "oldPrice": 12490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-Fizz-Pro-K616-RGB-Bluetooth-wireless-USB-2-4G-3-mode-Mechanical-Gaming-Keyboard-Red-Switches-White-Grey-PakByte-Computers-25770148888643.webp?v=1753673318",
@@ -77318,7 +77342,7 @@
             12490,
             12490,
             12490,
-            12490
+            13490
           ]
         },
         {
@@ -77326,8 +77350,8 @@
           "name": "Redragon K616 FIZZ PRO RGB Mechanical Gaming Keyboard - Black",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 10590,
-          "oldPrice": null,
+          "price": 11990,
+          "oldPrice": 10590,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K616-FIZZ-PRO-RGB-Mechanical-Gaming-Keyboard-Black-PakByte-Computers-25770138107971.webp?v=1753673318",
@@ -77344,7 +77368,7 @@
             10590,
             10590,
             10590,
-            10590
+            11990
           ]
         },
         {
@@ -77430,8 +77454,8 @@
           "name": "Redragon K582 SURARA RGB Mechanical Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 11050,
-          "oldPrice": null,
+          "price": 11390,
+          "oldPrice": 11050,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K582-SURARA-RGB-Mechanical-Gaming-Keyboard-PakByte-Computers-25770098786371.jpg?v=1753673330",
@@ -77448,7 +77472,7 @@
             11050,
             11050,
             11050,
-            11050
+            11390
           ]
         },
         {
@@ -77456,8 +77480,8 @@
           "name": "Redragon K552 RGB-1 KUMARA Mechanical Gaming Keyboard - Black",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 7350,
-          "oldPrice": null,
+          "price": 7920,
+          "oldPrice": 7350,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K552-RGB-1-KUMARA-Full-Anti-Ghosting-Mechanical-Gaming-Keyboard-Black-PakByte-Computers-25770087088195.webp?v=1753673330",
@@ -77474,7 +77498,7 @@
             7350,
             7350,
             7350,
-            7350
+            7920
           ]
         },
         {
@@ -77638,9 +77662,9 @@
           "name": "Redragon DRAGONBORN K630 60% RGB Mechanical Gaming Keyboard – White",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 7750,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 7880,
+          "oldPrice": 7750,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-DRAGONBORN-K630-60-RGB-Mechanical-Gaming-Keyboard-White-Red-Switches-PakByte-Computers-25769791324227.webp?v=1753673366",
           "url": "https://www.pakbyte.pk/products/redragon-dragonborn-k630-60-rgb-mechanical-gaming-keyboard-white-red-switches",
@@ -77656,7 +77680,7 @@
             7750,
             7750,
             7750,
-            7750
+            7880
           ]
         },
         {
@@ -77664,9 +77688,9 @@
           "name": "Redragon DRAGONBORN K630 60% RGB Mechanical Gaming Keyboard – Black",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 7240,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 7960,
+          "oldPrice": 7240,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-DRAGONBORN-K630-60-RGB-Mechanical-Gaming-Keyboard-Black-Brown-Switches-PakByte-Computers-25769782083651.webp?v=1753673366",
           "url": "https://www.pakbyte.pk/products/redragon-dragonborn-k630-60-rgb-mechanical-gaming-keyboard-black-brown-switches",
@@ -77682,7 +77706,7 @@
             7240,
             7240,
             7240,
-            7240
+            7960
           ]
         },
         {
@@ -77768,8 +77792,8 @@
           "name": "Redragon K512W SHIVA RGB Backlit Membrane Gaming Keyboard - White",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 7190,
-          "oldPrice": null,
+          "price": 7290,
+          "oldPrice": 7190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512W-SHIVA-RGB-Backlit-Membrane-Gaming-Keyboard-White-PakByte-Computers-25769668608067.webp?v=1753673378",
@@ -77786,7 +77810,7 @@
             7190,
             7190,
             7190,
-            7190
+            7290
           ]
         },
         {
@@ -77820,8 +77844,8 @@
           "name": "Redragon M913 Impact Elite Wireless Gaming Mouse - Black",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 9250,
-          "oldPrice": null,
+          "price": 9490,
+          "oldPrice": 9250,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M913-Impact-Elite-Wireless-Gaming-Mouse-Black-PakByte-Computers-25769582198851.webp?v=1753673389",
@@ -77838,7 +77862,7 @@
             9250,
             9250,
             9250,
-            9250
+            9490
           ]
         },
         {
@@ -77873,7 +77897,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 7290,
-          "oldPrice": 6740,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M811-AATROX-MMO-Wired-RGB-Gaming-Mouse-Black-PakByte-Computers-25769552576579.webp?v=1753673401",
@@ -77889,7 +77913,7 @@
             6740,
             6740,
             6740,
-            6740,
+            7290,
             7290
           ]
         },
@@ -106862,8 +106886,8 @@
           "name": "Redragon IRE PRO H848 Bluetooth Wireless Gaming Headset - White & Blue",
           "brand": "Redragon",
           "category": "headset",
-          "price": 14990,
-          "oldPrice": null,
+          "price": 17290,
+          "oldPrice": 14990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-IRE-PRO-H848-Bluetooth-Wireless-Gaming-Headset-White-Blue-PakByte-Computers-24397793656899.webp?v=1753679360",
@@ -106880,7 +106904,7 @@
             14990,
             14990,
             14990,
-            14990
+            17290
           ]
         },
         {
@@ -106914,8 +106938,8 @@
           "name": "Redragon H818 PELOPS 7.1 Surround Sound Wireless Gaming Headset",
           "brand": "Redragon",
           "category": "headset",
-          "price": 9190,
-          "oldPrice": null,
+          "price": 10890,
+          "oldPrice": 9190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H818-PELOPS-Wireless-Gaming-Headset-7-1-Surround-Sound-PakByte-Computers-24397793296451.webp?v=1753679360",
@@ -106932,7 +106956,7 @@
             9190,
             9190,
             9190,
-            9190
+            10890
           ]
         },
         {
@@ -106966,8 +106990,8 @@
           "name": "Redragon H510W ZEUS 2 Wired Gaming Headset - White",
           "brand": "Redragon",
           "category": "headset",
-          "price": 12190,
-          "oldPrice": null,
+          "price": 13190,
+          "oldPrice": 12190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H510W-ZEUS-2-Wired-Gaming-Headset-White-PakByte-Computers-24397792051267.webp?v=1753679371",
@@ -106984,7 +107008,7 @@
             12190,
             12190,
             12190,
-            12190
+            13190
           ]
         },
         {
@@ -107018,8 +107042,8 @@
           "name": "Redragon H510-1 ZEUS 2 Wired Gaming Headset - Black",
           "brand": "Redragon",
           "category": "headset",
-          "price": 12280,
-          "oldPrice": null,
+          "price": 12690,
+          "oldPrice": 12280,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H510-1-ZEUS-2-Wired-Gaming-Headset-Black-PakByte-Computers-24397791199299.webp?v=1753679383",
@@ -107036,7 +107060,7 @@
             12280,
             12280,
             12280,
-            12280
+            12690
           ]
         },
         {
@@ -107096,8 +107120,8 @@
           "name": "Redragon H350 PANDORA 2 RGB USB Gaming Headset - Black",
           "brand": "Redragon",
           "category": "headset",
-          "price": 6240,
-          "oldPrice": null,
+          "price": 6690,
+          "oldPrice": 6240,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H350-PANDORA-2-RGB-USB-Gaming-Headset-Black-PakByte-Computers-24397790314563.webp?v=1753679383",
@@ -107114,7 +107138,7 @@
             6240,
             6240,
             6240,
-            6240
+            6690
           ]
         },
         {
@@ -107148,8 +107172,8 @@
           "name": "Redragon H320 LAMIA 2 RGB Gaming Headset With Noise-Cancellation - Black",
           "brand": "Redragon",
           "category": "headset",
-          "price": 7340,
-          "oldPrice": null,
+          "price": 7690,
+          "oldPrice": 7340,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H320-LAMIA-2-RGB-Gaming-Headset-With-Noise-Cancellation-Black-PakByte-Computers-24397789528131.webp?v=1753679394",
@@ -107166,7 +107190,7 @@
             7340,
             7340,
             7340,
-            7340
+            7690
           ]
         },
         {
@@ -107226,8 +107250,8 @@
           "name": "Redragon H260 HYLAS RGB Gaming Headset - Black",
           "brand": "Redragon",
           "category": "headset",
-          "price": 4740,
-          "oldPrice": null,
+          "price": 4490,
+          "oldPrice": 4740,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H260-HYLAS-RGB-Gaming-Headset-Black-PakByte-Computers-24397788938307.webp?v=1753679406",
@@ -107244,7 +107268,7 @@
             4740,
             4740,
             4740,
-            4740
+            4490
           ]
         },
         {
@@ -107278,8 +107302,8 @@
           "name": "Redragon H120 ARES Wired Gaming Headset",
           "brand": "Redragon",
           "category": "headset",
-          "price": 3090,
-          "oldPrice": null,
+          "price": 3190,
+          "oldPrice": 3090,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H120-ARES-Wired-Gaming-Headset-PakByte-Computers-24397786742851.webp?v=1753679406",
@@ -107296,7 +107320,7 @@
             3090,
             3090,
             3090,
-            3090
+            3190
           ]
         },
         {
@@ -107430,8 +107454,8 @@
           ]
         },
         {
-          "id": "pakbyte_8600cc3a",
-          "name": "Redragon GC-PS002 600W Gaming PC Power Supply",
+          "id": "pakbyte_d469be73",
+          "name": "Redragon PS002 600W Gaming PC Power Supply",
           "brand": "Redragon",
           "category": "psu",
           "price": 10190,
@@ -107441,44 +107465,22 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS002-600W-Gaming-PC-Power-Supply-PakByte-Computers-24397784350787.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps002-600w-gaming-pc-power-supply",
           "history": [
-            10190,
-            10190,
-            10190,
-            10190,
-            10190,
-            10190,
-            10190,
-            10190,
-            10190,
-            10190,
-            10190,
             10190
           ]
         },
         {
-          "id": "pakbyte_2dfad000",
-          "name": "Redragon GC-PS001 500W Gaming PC Power Supply",
+          "id": "pakbyte_4576a2d1",
+          "name": "Redragon PS001 500W Gaming PC Power Supply",
           "brand": "Redragon",
           "category": "psu",
-          "price": 8990,
+          "price": 8690,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS001-500W-Gaming-PC-Power-Supply-PakByte-Computers-24397784547395.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps001-500w-gaming-pc-power-supply",
           "history": [
-            8990,
-            8990,
-            8990,
-            8990,
-            8990,
-            8990,
-            8990,
-            8990,
-            8990,
-            8990,
-            8990,
-            8990
+            8690
           ]
         },
         {
@@ -108344,8 +108346,8 @@
           "name": "Redragon K580 VATA RGB Mechanical Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 11190,
-          "oldPrice": null,
+          "price": 11990,
+          "oldPrice": 11190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K580-VATA-RGB-Mechanical-Gaming-Keyboard-PakByte-Computers-24397767082051.webp?v=1753679599",
@@ -108362,7 +108364,7 @@
             11190,
             11190,
             11190,
-            11190
+            11990
           ]
         },
         {
@@ -108422,8 +108424,8 @@
           "name": "Redragon Devarajas K556 RGB Mechanical Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13170,
-          "oldPrice": null,
+          "price": 14190,
+          "oldPrice": 13170,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Devarajas-K556-RGB-Mechanical-Gaming-Keyboard-PakByte-Computers-24397765640259.webp?v=1753679610",
@@ -108440,7 +108442,7 @@
             13170,
             13170,
             13170,
-            13170
+            14190
           ]
         },
         {
@@ -108578,8 +108580,8 @@
           "name": "Redragon IRELIA PRO K658CT RGB PRO Wireless Mechanical Keyboard - White",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13990,
-          "oldPrice": null,
+          "price": 16190,
+          "oldPrice": 13990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-IRELIA-PRO-K658CT-RGB-PRO-Wireless-Mechanical-Keyboard-White-PakByte-Computers-24397762461763.webp?v=1753679632",
@@ -108596,7 +108598,7 @@
             13990,
             13990,
             13990,
-            13990
+            16190
           ]
         },
         {
@@ -108604,8 +108606,8 @@
           "name": "Redragon HORUS K632 RGB Wired Mechanical Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 11100,
-          "oldPrice": null,
+          "price": 11990,
+          "oldPrice": 11100,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-HORUS-K632-RGB-Wired-Mechanical-Gaming-Keyboard-PakByte-Computers-24397761183811.webp?v=1753679644",
@@ -108622,7 +108624,7 @@
             11100,
             11100,
             11100,
-            11100
+            11990
           ]
         },
         {
@@ -108916,8 +108918,8 @@
           "name": "Redragon Draconic K530 Pro RGB Wireless Mechanical Gaming Keyboard - Black",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 8890,
-          "oldPrice": null,
+          "price": 10890,
+          "oldPrice": 8890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Draconic-K530-Pro-RGB-Wireless-Mechanical-Gaming-Keyboard-Black-PakByte-Computers-24397753909315.webp?v=1753679679",
@@ -108934,7 +108936,7 @@
             8890,
             8890,
             8890,
-            8890
+            10890
           ]
         },
         {
@@ -108964,29 +108966,18 @@
           ]
         },
         {
-          "id": "pakbyte_0377b762",
-          "name": "Redragon K512 Shiva RGB Backlit Membrane Gaming Keyboard",
+          "id": "pakbyte_7058df84",
+          "name": "Redragon K512 Shiva RGB Backlit Membrane Gaming Keyboard - Black",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 5999,
+          "price": 6190,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512-Shiva-RGB-Backlit-Membrane-Gaming-Keyboard-PakByte-Computers-24397753450563.webp?v=1753679690",
           "url": "https://www.pakbyte.pk/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard",
           "history": [
-            5999,
-            5999,
-            5999,
-            5999,
-            5999,
-            5999,
-            5999,
-            5999,
-            5999,
-            5999,
-            5999,
-            5999
+            6190
           ]
         },
         {
@@ -110268,9 +110259,9 @@
           "name": "Redragon Flick 3XL P040 Mouse Pad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 5790,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 5390,
+          "oldPrice": 5790,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Flick-3XL-P040-Mouse-Pad-PakByte-Computers-24397726122051.webp?v=1753679889",
           "url": "https://www.pakbyte.pk/products/redragon-flick-3xl-p040-mouse-pad",
@@ -110286,7 +110277,7 @@
             5790,
             5790,
             5790,
-            5790
+            5390
           ]
         },
         {
@@ -110294,8 +110285,8 @@
           "name": "Redragon Meteor L P037 Computer Keyboard Wrist Rest Pad",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 2599,
-          "oldPrice": null,
+          "price": 2570,
+          "oldPrice": 2599,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Meteor-L-P037-Computer-Keyboard-Wrist-Rest-Pad-PakByte-Computers-24397725990979.webp?v=1753679889",
@@ -110312,7 +110303,7 @@
             2599,
             2599,
             2599,
-            2599
+            2570
           ]
         },
         {
@@ -110320,8 +110311,8 @@
           "name": "Redragon Meteor M P036 Computer Keyboard Wrist Rest Pad",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 2060,
-          "oldPrice": null,
+          "price": 2190,
+          "oldPrice": 2060,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Meteor-M-P036-Computer-Keyboard-Wrist-Rest-Pad-PakByte-Computers-24397725433923.webp?v=1753679889",
@@ -110338,7 +110329,7 @@
             2060,
             2060,
             2060,
-            2060
+            2190
           ]
         },
         {
@@ -110346,8 +110337,8 @@
           "name": "Redragon Meteor S P035 Computer Keyboard Wrist Rest Pad",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 1640,
-          "oldPrice": null,
+          "price": 1690,
+          "oldPrice": 1640,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Meteor-S-P035-Computer-Keyboard-Wrist-Rest-Pad-PakByte-Computers-24397725302851.webp?v=1753679901",
@@ -110364,7 +110355,7 @@
             1640,
             1640,
             1640,
-            1640
+            1690
           ]
         },
         {
@@ -110372,9 +110363,9 @@
           "name": "Redragon P032 FLICK XL Mousepad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 3440,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 3690,
+          "oldPrice": 3440,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-P032-FLICK-XL-Mousepad-PakByte-Computers-24397724844099.webp?v=1753679901",
           "url": "https://www.pakbyte.pk/products/redragon-flick-xl-p032-waterproof-mouse-pad",
@@ -110390,7 +110381,7 @@
             3440,
             3440,
             3440,
-            3440
+            3690
           ]
         },
         {
@@ -110398,8 +110389,8 @@
           "name": "Redragon FLICK S P029 Small PC Mousepad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 1540,
-          "oldPrice": null,
+          "price": 1660,
+          "oldPrice": 1540,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-FLICK-S-P029-Small-PC-Mousepad-PakByte-Computers-24397724778563.webp?v=1753679901",
@@ -110416,7 +110407,7 @@
             1540,
             1540,
             1540,
-            1540
+            1660
           ]
         },
         {
@@ -110424,8 +110415,8 @@
           "name": "Redragon Pluto P026 RGB Gaming Mouse Pad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 4380,
-          "oldPrice": null,
+          "price": 4690,
+          "oldPrice": 4380,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-Pluto-P026-RGB-Gaming-Mouse-Pad-PakByte-Computers-24397724483651.webp?v=1753679901",
@@ -110442,7 +110433,7 @@
             4380,
             4380,
             4380,
-            4380
+            4690
           ]
         },
         {
@@ -110476,8 +110467,8 @@
           "name": "Redragon Capricorn P012 Gaming Mousepad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 1590,
-          "oldPrice": null,
+          "price": 1690,
+          "oldPrice": 1590,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Capricorn-P012-Gaming-Mousepad-PakByte-Computers-24397723435075.webp?v=1753679912",
@@ -110494,12 +110485,12 @@
             1590,
             1590,
             1590,
-            1590
+            1690
           ]
         },
         {
-          "id": "pakbyte_4fef7c35",
-          "name": "Redragon KUNLUN P006 Gaming Mouse Pad Extra Large XXL Extended",
+          "id": "pakbyte_5c133e70",
+          "name": "Redragon KUNLUN P006 Gaming Mouse Pad - Extra Large XXL Extended",
           "brand": "Redragon",
           "category": "mouse",
           "price": 3370,
@@ -110509,17 +110500,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-KUNLUN-P006-Gaming-Mouse-Pad-Extra-Large-XXL-Extended-PakByte-Computers-24397722386499.webp?v=1753679912",
           "url": "https://www.pakbyte.pk/products/redragon-kunlun-p006-extra-large-gaming-mouse-pad",
           "history": [
-            3370,
-            3370,
-            3370,
-            3370,
-            3370,
-            3370,
-            3370,
-            3370,
-            3370,
-            3370,
-            3370,
             3370
           ]
         },
@@ -110528,9 +110508,9 @@
           "name": "Redragon Suzaku P003 Huge Professional Gaming Mouse Pad",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 2490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 2290,
+          "oldPrice": 2490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Suzaku-P003-Huge-Professional-Gaming-Mouse-Pad-PakByte-Computers-24397721993283.webp?v=1753679912",
           "url": "https://www.pakbyte.pk/products/redragon-suzaku-p003-huge-professional-gaming-mouse-pad",
@@ -110546,7 +110526,7 @@
             2490,
             2490,
             2490,
-            2490
+            2290
           ]
         },
         {
@@ -115286,8 +115266,8 @@
           "name": "Redragon M987 REAPING Lightweight Gaming Mouse",
           "brand": "Redragon",
           "category": "mouse",
-          "price": 5220,
-          "oldPrice": null,
+          "price": 5590,
+          "oldPrice": 5220,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M987-REAPING-LIGHTWEIGHT-GAMING-MOUSE-PakByte-Computers-24397636272195.webp?v=1753680658",
@@ -115304,7 +115284,7 @@
             5220,
             5220,
             5220,
-            5220
+            5590
           ]
         },
         {
@@ -115339,7 +115319,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 5090,
-          "oldPrice": 4540,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M907-INSPIRIT-14400-DPI-Gaming-Mouse-PakByte-Computers-24397635223619.webp?v=1753680658",
@@ -115355,7 +115335,7 @@
             4540,
             4540,
             4540,
-            4540,
+            5090,
             5090
           ]
         },
@@ -115443,7 +115423,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 5690,
-          "oldPrice": 5399,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M808W-STORM-LUNAR-LIGHTWEIGHT-RGB-GAMING-MOUSE-WHITE-PakByte-Computers-24397634601027.webp?v=1753680670",
@@ -115459,7 +115439,7 @@
             5399,
             5399,
             5399,
-            5399,
+            5690,
             5690
           ]
         },
@@ -115469,7 +115449,7 @@
           "brand": "Redragon",
           "category": "mouse",
           "price": 7990,
-          "oldPrice": 7640,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M808-KS-STORM-PRO-RGB-Wireless-Gaming-Mouse-Black-PakByte-Computers-24397634797635.webp?v=1753680682",
@@ -115485,7 +115465,7 @@
             7640,
             7640,
             7640,
-            7640,
+            7990,
             7990
           ]
         },
@@ -128312,8 +128292,8 @@
           "name": "Redragon HA300 Scepter Pro Headset Stand",
           "brand": "Redragon",
           "category": "headset",
-          "price": 3990,
-          "oldPrice": null,
+          "price": 3890,
+          "oldPrice": 3990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-HA300-Scepter-Pro-Headset-Stand-PakByte-Computers-24397240565827.jpg?v=1753683468",
@@ -128330,7 +128310,7 @@
             3990,
             3990,
             3990,
-            3990
+            3890
           ]
         },
         {
@@ -133148,8 +133128,8 @@
           "name": "Redragon Tailgate GC-702 Gaming Case",
           "brand": "Redragon",
           "category": "case",
-          "price": 20990,
-          "oldPrice": null,
+          "price": 24790,
+          "oldPrice": 20990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Tailgate-GC-702-Gaming-Case-PakByte-Computers-24396950470723.jpg?v=1753684366",
@@ -133166,7 +133146,7 @@
             20990,
             20990,
             20990,
-            20990
+            24790
           ]
         },
         {
@@ -133174,8 +133154,8 @@
           "name": "Redragon Steeljaw GC-608 Gaming Case",
           "brand": "Redragon",
           "category": "case",
-          "price": 15990,
-          "oldPrice": null,
+          "price": 18090,
+          "oldPrice": 15990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Steeljaw-GC-608-Gaming-Case-PakByte-Computers-24396945883203.jpg?v=1753684379",
@@ -133192,7 +133172,7 @@
             15990,
             15990,
             15990,
-            15990
+            18090
           ]
         },
         {
@@ -148376,6 +148356,21 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_c311a610",
+          "name": "Asus Prime Radeon RX 9070 XT White OC Edition 16GB Graphics Card &#8211; USED",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 249999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/03/rbtech_asus_prime_radeon_9070_xt_16gb_oc_white.webp",
+          "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-white-oc-edition-16gb-graphics-card-used",
+          "history": [
+            249999
+          ]
+        },
+        {
           "id": "rbtechgames_4c57698f",
           "name": "Logitech POP Icon Keys Wireless Keyboard &#8211; Off White &#038; Orange",
           "brand": "Logitech",
@@ -148387,6 +148382,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_logitech_pop_icon_keys_off-white_orange.webp",
           "url": "https://rbtechngames.com/product/logitech-pop-icon-keys-wireless-keyboard-off-white-orange",
           "history": [
+            12499,
             12499,
             12499,
             12499,
@@ -149302,32 +149298,6 @@
             19999,
             19999,
             19999
-          ]
-        },
-        {
-          "id": "rbtechgames_2fecf127",
-          "name": "MSI PRO B650-S WIFI ATX AM5 DDR5 Gaming Motherboard &#8211; USED",
-          "brand": "MSI",
-          "category": "ram",
-          "price": 42999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_b650-s_wifi.png",
-          "url": "https://rbtechngames.com/product/msi-pro-b650-s-wifi-atx-am5-ddr5-gaming-motherboard-used",
-          "history": [
-            42999,
-            42999,
-            42999,
-            42999,
-            42999,
-            42999,
-            42999,
-            42999,
-            42999,
-            42999,
-            42999,
-            42999
           ]
         },
         {
@@ -150761,32 +150731,6 @@
           ]
         },
         {
-          "id": "rbtechgames_7eefd604",
-          "name": "Crucial T705 PCIe NVMe M.2 Gen 5 SSD -1TB/2TB/4TB (with Heatsink)",
-          "brand": "Crucial",
-          "category": "storage",
-          "price": 204999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_crucial_t705.png",
-          "url": "https://rbtechngames.com/product/crucial-t705-pcie-nvme-m-2-gen-5-ssd-1tb-2tb-4tb-with-heatsink",
-          "history": [
-            204999,
-            204999,
-            204999,
-            204999,
-            204999,
-            204999,
-            204999,
-            204999,
-            204999,
-            204999,
-            204999,
-            204999
-          ]
-        },
-        {
           "id": "rbtechgames_5418ea74",
           "name": "Lenovo Legion 5 (15AHP10), AMD Ryzen 7 260, 16GB RAM, 512GB SSD, RTX 5050, 15.1&#8243; QHD",
           "brand": "AMD",
@@ -151801,32 +151745,6 @@
           ]
         },
         {
-          "id": "rbtechgames_49bf787f",
-          "name": "ATK Dragonfly A9 Pro Max Lightweight Wireless Gaming Mouse &#8211; White/Black/Pink",
-          "brand": "ATK",
-          "category": "mouse",
-          "price": 14999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_atk__dragonfly_a9_pro_white.webp",
-          "url": "https://rbtechngames.com/product/atk-dragonfly-a9-pro-max-lightweight-wireless-gaming-mouse-white-black-pink",
-          "history": [
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999
-          ]
-        },
-        {
           "id": "rbtechgames_c063c766",
           "name": "Zotac Gaming GeForce RTX 5060 Ti 8GB Twin Edge Graphics Card",
           "brand": "Zotac",
@@ -152585,8 +152503,8 @@
           "name": "Zotac Gaming GeForce RTX 5050 Twin Edge 8GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 116999,
-          "oldPrice": null,
+          "price": 118999,
+          "oldPrice": 116999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_zotac_rtx_5050_twin_edge.jpg",
@@ -152603,7 +152521,7 @@
             116999,
             116999,
             116999,
-            116999
+            118999
           ]
         },
         {
@@ -154219,32 +154137,6 @@
           ]
         },
         {
-          "id": "rbtechgames_105f771b",
-          "name": "Zotac Gaming GeForce RTX 3070 Ti Trinity 8GB Graphics Card &#8211; USED",
-          "brand": "Zotac",
-          "category": "gpu",
-          "price": 117999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_zotac_rtx_3070_ti_trinity.jpg",
-          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3070-ti-trinity-8gb-graphics-card-used",
-          "history": [
-            117999,
-            117999,
-            117999,
-            117999,
-            117999,
-            117999,
-            117999,
-            117999,
-            117999,
-            117999,
-            117999,
-            117999
-          ]
-        },
-        {
           "id": "rbtechgames_020b1758",
           "name": "Asus ROG Astral GeForce RTX 5080 16GB White OC Edition Graphics Card",
           "brand": "ASUS",
@@ -154464,6 +154356,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_zotac_rtx_5060_ti_16gb_twin_Edge_oc_white.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-white-edition",
           "history": [
+            259999,
             259999,
             259999,
             259999,
@@ -155425,7 +155318,7 @@
             219999,
             219999,
             219999,
-            219999,
+            257499,
             257499,
             257499,
             257499,
@@ -155685,7 +155578,7 @@
             13999,
             13999,
             13999,
-            13999,
+            12999,
             12999,
             12999,
             12999,
@@ -155700,8 +155593,8 @@
           "name": "ASUS TUF Gaming GeForce RTX 5080 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 574999,
-          "oldPrice": null,
+          "price": 558999,
+          "oldPrice": 574999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_asus_tuf_gaming_rtx_5080_oc_16gb.jpg",
@@ -155718,7 +155611,7 @@
             574999,
             574999,
             574999,
-            574999
+            558999
           ]
         },
         {
@@ -155826,32 +155719,6 @@
           ]
         },
         {
-          "id": "rbtechgames_6be97760",
-          "name": "Zotac Gaming GeForce RTX 5070 Solid OC 12GB Graphics Card",
-          "brand": "Zotac",
-          "category": "gpu",
-          "price": 284999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
-          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-solid-oc-12gb-graphics-card",
-          "history": [
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999,
-            284999
-          ]
-        },
-        {
           "id": "rbtechgames_d583685a",
           "name": "Lexar 16GB (1x16GB) 3200MHz DDR4 Memory",
           "brand": "Lexar",
@@ -155901,58 +155768,6 @@
             12499,
             12499,
             12499
-          ]
-        },
-        {
-          "id": "rbtechgames_dbd24c19",
-          "name": "AMD Ryzen 5 9600X Desktop Processor &#8211; Tray",
-          "brand": "AMD",
-          "category": "cpu",
-          "price": 52499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_amd_ryzen_5_9600x.avif",
-          "url": "https://rbtechngames.com/product/amd-ryzen-5-9600x-desktop-processor-tray",
-          "history": [
-            52499,
-            52499,
-            52499,
-            52499,
-            52499,
-            52499,
-            52499,
-            52499,
-            52499,
-            52499,
-            52499,
-            52499
-          ]
-        },
-        {
-          "id": "rbtechgames_8e1f82c5",
-          "name": "AMD Ryzen 5 8400F Desktop Processor &#8211; Tray",
-          "brand": "AMD",
-          "category": "cpu",
-          "price": 28499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_ryzen_5_8400f.avif",
-          "url": "https://rbtechngames.com/product/amd-ryzen-5-8400f-desktop-processor-tray",
-          "history": [
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499
           ]
         },
         {
@@ -157305,32 +157120,6 @@
             82499,
             82499,
             82499
-          ]
-        },
-        {
-          "id": "rbtechgames_841f9872",
-          "name": "GIGABYTE GAMING OC GeForce RTX 3070 8GB &#8211; USED",
-          "brand": "Gigabyte",
-          "category": "gpu",
-          "price": 97999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/02/rbtech_gigabyte_gaming_OC_3070.png",
-          "url": "https://rbtechngames.com/product/gigabyte-gaming-oc-geforce-rtx-3070-8gb-used",
-          "history": [
-            97999,
-            97999,
-            97999,
-            97999,
-            97999,
-            97999,
-            97999,
-            97999,
-            97999,
-            97999,
-            97999,
-            97999
           ]
         },
         {
