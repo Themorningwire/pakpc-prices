@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T05:06:27.456114+00:00",
+  "lastUpdated": "2026-10-06T12:49:44.756576+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -9,8 +9,8 @@
       "verified": true,
       "products": [
         {
-          "id": "pakbyte_e9d855d3",
-          "name": "Redragon WYVERN K689 Wired Mechanical Gaming Keyboard",
+          "id": "pakbyte_f8958379",
+          "name": "Redragon WYVERN K689WBB RGB Wired Mechanical Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
           "price": 15490,
@@ -20,7 +20,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K689-Wired-Gasket-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1791216804",
           "url": "https://www.pakbyte.pk/products/redragon-wyvern-k689-wired-mechanical-gaming-keyboard",
           "history": [
-            15490,
             15490
           ]
         },
@@ -37,6 +36,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-trundle-k668-wbo-wired-gasket-rgb-gaming-keyboard",
           "history": [
             11090,
+            11090,
             11090
           ]
         },
@@ -52,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K628WG-POLLUX-Wired-Mechanical-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1791213348",
           "url": "https://www.pakbyte.pk/products/redragon-k628wg-pollux-wired-mechanical-keyboard-white-grey",
           "history": [
+            10390,
             10390,
             10390
           ]
@@ -10053,6 +10054,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-h888-tri-mode-gaming-headset",
           "history": [
             7790,
+            7790,
             7790
           ]
         },
@@ -10103,7 +10105,7 @@
             7799,
             7799,
             7799,
-            7799,
+            7990,
             7990,
             7990
           ]
@@ -11923,7 +11925,7 @@
             4480,
             4480,
             4480,
-            4480,
+            4890,
             4890,
             4890
           ]
@@ -11975,7 +11977,7 @@
             7140,
             7140,
             7140,
-            7140,
+            7990,
             7990,
             7990
           ]
@@ -12001,7 +12003,7 @@
             12990,
             12990,
             12990,
-            12990,
+            14790,
             14790,
             14790
           ]
@@ -12079,7 +12081,7 @@
             14650,
             14650,
             14650,
-            14650,
+            15790,
             15790,
             15790
           ]
@@ -20515,7 +20517,7 @@
           "category": "monitor",
           "price": 36990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GAMEON-GOES27FHD160IPS-27-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1773226810",
           "url": "https://www.pakbyte.pk/products/gameon-goes27fhd160ips-27-160hz-fhd-gaming-monitor-black",
@@ -20944,7 +20946,7 @@
             26490,
             26490,
             26490,
-            26490,
+            27490,
             27490,
             27490,
             27490
@@ -22115,7 +22117,7 @@
             11890,
             11890,
             11890,
-            11890,
+            12990,
             12990,
             12990
           ]
@@ -27783,7 +27785,7 @@
             1399,
             1399,
             1399,
-            1399,
+            1190,
             1190,
             1190
           ]
@@ -36363,7 +36365,7 @@
             6290,
             6290,
             6290,
-            6290,
+            7090,
             7090,
             7090
           ]
@@ -36389,7 +36391,7 @@
             4890,
             4890,
             4890,
-            4890,
+            5190,
             5190,
             5190
           ]
@@ -36415,7 +36417,7 @@
             6999,
             6999,
             6999,
-            6999,
+            6990,
             6990,
             6990
           ]
@@ -45125,7 +45127,7 @@
             6590,
             6590,
             6590,
-            6590,
+            7290,
             7290,
             7290
           ]
@@ -45151,7 +45153,7 @@
             12090,
             12090,
             12090,
-            12090,
+            13990,
             13990,
             13990
           ]
@@ -45177,7 +45179,7 @@
             12590,
             12590,
             12590,
-            12590,
+            16590,
             16590,
             16590
           ]
@@ -45203,7 +45205,7 @@
             11890,
             11890,
             11890,
-            11890,
+            13990,
             13990,
             13990
           ]
@@ -45281,7 +45283,7 @@
             3340,
             3340,
             3340,
-            3340,
+            3690,
             3690,
             3690
           ]
@@ -45307,7 +45309,7 @@
             4840,
             4840,
             4840,
-            4840,
+            5290,
             5290,
             5290
           ]
@@ -45404,6 +45406,7 @@
           "history": [
             7990,
             7990,
+            7990,
             7990
           ]
         },
@@ -45427,7 +45430,7 @@
             2890,
             2890,
             2890,
-            2890,
+            3890,
             3890,
             3890,
             3890
@@ -45732,7 +45735,7 @@
           "url": "https://www.pakbyte.pk/products/asus-rog-astral-geforce-rtx-5080-oc-edition-gaming-graphics-card",
           "history": [
             589990,
-            589990,
+            634999,
             634999,
             634999,
             634999,
@@ -50342,7 +50345,7 @@
             4990,
             4990,
             4990,
-            4990,
+            4790,
             4790,
             4790
           ]
@@ -50420,7 +50423,7 @@
             15090,
             15090,
             15090,
-            15090,
+            16290,
             16290,
             16290
           ]
@@ -50446,7 +50449,7 @@
             15290,
             15290,
             15290,
-            15290,
+            17890,
             17890,
             17890
           ]
@@ -50463,6 +50466,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GALATINPRO-K719AK-RGB-PRO_1.jpg?v=1756797385",
           "url": "https://www.pakbyte.pk/products/redragon-galatin-pro-k719ak-rgb-pro-95-keys-redefine-full-size-gaming-mechanical-keyboard",
           "history": [
+            19990,
             19990,
             19990
           ]
@@ -50488,7 +50492,7 @@
             13290,
             13290,
             13290,
-            13290,
+            16690,
             16690,
             16690
           ]
@@ -50514,7 +50518,7 @@
             13990,
             13990,
             13990,
-            13990,
+            15990,
             15990,
             15990
           ]
@@ -50566,7 +50570,7 @@
             1050,
             1050,
             1050,
-            1050,
+            1130,
             1130,
             1130
           ]
@@ -50618,7 +50622,7 @@
             7890,
             7890,
             7890,
-            7890,
+            8890,
             8890,
             8890
           ]
@@ -59984,8 +59988,8 @@
           ]
         },
         {
-          "id": "pakbyte_3b672bb9",
-          "name": "Redragon RGPS-PS007 850Watt 80 Plus Gold Fully-Modular Power Supply",
+          "id": "pakbyte_40d9e8c9",
+          "name": "Redragon RGPS-PS007 850Watt 80 Plus Gold Fully Modular Power Supply",
           "brand": "Redragon",
           "category": "psu",
           "price": 21490,
@@ -59995,17 +59999,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-RGPS-PS007-850Watt-80-Plus-Gold-Fully-Modular-Power-Supply-PakByte-Computers-26331103887427.webp?v=1753669900",
           "url": "https://www.pakbyte.pk/products/redragon-rgps-ps007-850watt-80-plus-gold-fully-modular-power-supply",
           "history": [
-            21490,
-            21490,
-            21490,
-            21490,
-            21490,
-            21490,
-            21490,
-            21490,
-            21490,
-            21490,
-            21490,
             21490
           ]
         },
@@ -60030,7 +60023,7 @@
             10890,
             10890,
             10890,
-            10890,
+            13490,
             13490,
             13490
           ]
@@ -72100,8 +72093,8 @@
           ]
         },
         {
-          "id": "pakbyte_5ea47fa5",
-          "name": "Lian Li UNI Fan SL Infinity 120 Triple Pack – White",
+          "id": "pakbyte_3d40adc2",
+          "name": "Lian Li UNI Fan SL-Infinity Wireless 120 - Triple Pack - White",
           "brand": "Lian Li",
           "category": "cooler",
           "price": 24490,
@@ -72111,23 +72104,12 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-UNI-Fan-SL-Infinity-120-Triple-Pack-White-PakByte-Computers-25890167390275.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120-triple-pack-white",
           "history": [
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
             24490
           ]
         },
         {
-          "id": "pakbyte_1279f0ff",
-          "name": "Lian Li Uni Fan SL-Infinity 120mm ARGB - Triple Pack- Black",
+          "id": "pakbyte_ec11562d",
+          "name": "Lian Li UNI Fan SL-Infinity Wireless 120 - Triple Pack - Black",
           "brand": "Lian Li",
           "category": "cooler",
           "price": 24490,
@@ -72137,17 +72119,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
             24490
           ]
         },
@@ -72354,7 +72325,7 @@
             7490,
             7490,
             7490,
-            7490,
+            7990,
             7990,
             7990
           ]
@@ -72406,7 +72377,7 @@
             13190,
             13190,
             13190,
-            13190,
+            15690,
             15690,
             15690
           ]
@@ -72614,7 +72585,7 @@
             13150,
             13150,
             13150,
-            13150,
+            13990,
             13990,
             13990
           ]
@@ -72847,7 +72818,7 @@
             5799,
             5799,
             5799,
-            5799,
+            5990,
             5990,
             5990,
             5990
@@ -77112,7 +77083,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5250,
             5250,
             5250
           ]
@@ -77164,7 +77135,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5290,
             5290,
             5290
           ]
@@ -77216,7 +77187,7 @@
             3840,
             3840,
             3840,
-            3840,
+            4150,
             4150,
             4150
           ]
@@ -77242,7 +77213,7 @@
             13490,
             13490,
             13490,
-            13490,
+            15490,
             15490,
             15490
           ]
@@ -77346,7 +77317,7 @@
             12490,
             12490,
             12490,
-            12490,
+            13490,
             13490,
             13490
           ]
@@ -77372,7 +77343,7 @@
             10590,
             10590,
             10590,
-            10590,
+            11990,
             11990,
             11990
           ]
@@ -77476,7 +77447,7 @@
             11050,
             11050,
             11050,
-            11050,
+            11390,
             11390,
             11390
           ]
@@ -77502,7 +77473,7 @@
             7350,
             7350,
             7350,
-            7350,
+            7920,
             7920,
             7920
           ]
@@ -77684,7 +77655,7 @@
             7750,
             7750,
             7750,
-            7750,
+            7880,
             7880,
             7880
           ]
@@ -77710,7 +77681,7 @@
             7240,
             7240,
             7240,
-            7240,
+            7960,
             7960,
             7960
           ]
@@ -77814,7 +77785,7 @@
             7190,
             7190,
             7190,
-            7190,
+            7290,
             7290,
             7290
           ]
@@ -77866,7 +77837,7 @@
             9250,
             9250,
             9250,
-            9250,
+            9490,
             9490,
             9490
           ]
@@ -77917,7 +77888,7 @@
             6740,
             6740,
             6740,
-            6740,
+            7290,
             7290,
             7290,
             7290
@@ -106908,7 +106879,7 @@
             14990,
             14990,
             14990,
-            14990,
+            17290,
             17290,
             17290
           ]
@@ -106960,7 +106931,7 @@
             9190,
             9190,
             9190,
-            9190,
+            10890,
             10890,
             10890
           ]
@@ -107012,7 +106983,7 @@
             12190,
             12190,
             12190,
-            12190,
+            13190,
             13190,
             13190
           ]
@@ -107064,7 +107035,7 @@
             12280,
             12280,
             12280,
-            12280,
+            12690,
             12690,
             12690
           ]
@@ -107142,7 +107113,7 @@
             6240,
             6240,
             6240,
-            6240,
+            6690,
             6690,
             6690
           ]
@@ -107194,7 +107165,7 @@
             7340,
             7340,
             7340,
-            7340,
+            7690,
             7690,
             7690
           ]
@@ -107272,7 +107243,7 @@
             4740,
             4740,
             4740,
-            4740,
+            4490,
             4490,
             4490
           ]
@@ -107324,7 +107295,7 @@
             3090,
             3090,
             3090,
-            3090,
+            3190,
             3190,
             3190
           ]
@@ -107356,8 +107327,8 @@
           ]
         },
         {
-          "id": "pakbyte_709f4ec7",
-          "name": "Redragon GC-PS010 850W Gaming PC Power Supply",
+          "id": "pakbyte_ea7bf453",
+          "name": "Redragon PS010 850W Gaming PC Power Supply",
           "brand": "Redragon",
           "category": "psu",
           "price": 22490,
@@ -107367,17 +107338,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS010-850W-Gaming-PC-Power-Supply-Semi-Modular-PakByte-Computers-24397785432131.webp?v=1753679418",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps010-850w-gaming-pc-power-supply-semi-modular",
           "history": [
-            22490,
-            22490,
-            22490,
-            22490,
-            22490,
-            22490,
-            22490,
-            22490,
-            22490,
-            22490,
-            22490,
             22490
           ]
         },
@@ -107434,8 +107394,8 @@
           ]
         },
         {
-          "id": "pakbyte_4c2ee156",
-          "name": "Redragon GC-PS003 600W Gaming PC Power Supply",
+          "id": "pakbyte_2d94cef9",
+          "name": "Redragon PS003 600W Gaming PC Power Supply",
           "brand": "Redragon",
           "category": "psu",
           "price": 11190,
@@ -107445,17 +107405,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS003-600W-Gaming-PC-Power-Supply-Full-Module-PakByte-Computers-24397785137219.webp?v=1753679418",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps003-600w-gaming-pc-power-supply-full-module",
           "history": [
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
             11190
           ]
         },
@@ -107472,6 +107421,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps002-600w-gaming-pc-power-supply",
           "history": [
             10190,
+            10190,
             10190
           ]
         },
@@ -107487,6 +107437,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS001-500W-Gaming-PC-Power-Supply-PakByte-Computers-24397784547395.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps001-500w-gaming-pc-power-supply",
           "history": [
+            8690,
             8690,
             8690
           ]
@@ -108370,7 +108321,7 @@
             11190,
             11190,
             11190,
-            11190,
+            11990,
             11990,
             11990
           ]
@@ -108448,7 +108399,7 @@
             13170,
             13170,
             13170,
-            13170,
+            14190,
             14190,
             14190
           ]
@@ -108604,7 +108555,7 @@
             13990,
             13990,
             13990,
-            13990,
+            16190,
             16190,
             16190
           ]
@@ -108630,7 +108581,7 @@
             11100,
             11100,
             11100,
-            11100,
+            11990,
             11990,
             11990
           ]
@@ -108942,7 +108893,7 @@
             8890,
             8890,
             8890,
-            8890,
+            10890,
             10890,
             10890
           ]
@@ -108985,6 +108936,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512-Shiva-RGB-Backlit-Membrane-Gaming-Keyboard-PakByte-Computers-24397753450563.webp?v=1753679690",
           "url": "https://www.pakbyte.pk/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard",
           "history": [
+            6190,
             6190,
             6190
           ]
@@ -110284,7 +110236,7 @@
             5790,
             5790,
             5790,
-            5790,
+            5390,
             5390,
             5390
           ]
@@ -110310,7 +110262,7 @@
             2599,
             2599,
             2599,
-            2599,
+            2570,
             2570,
             2570
           ]
@@ -110336,7 +110288,7 @@
             2060,
             2060,
             2060,
-            2060,
+            2190,
             2190,
             2190
           ]
@@ -110362,7 +110314,7 @@
             1640,
             1640,
             1640,
-            1640,
+            1690,
             1690,
             1690
           ]
@@ -110388,7 +110340,7 @@
             3440,
             3440,
             3440,
-            3440,
+            3690,
             3690,
             3690
           ]
@@ -110414,7 +110366,7 @@
             1540,
             1540,
             1540,
-            1540,
+            1660,
             1660,
             1660
           ]
@@ -110440,7 +110392,7 @@
             4380,
             4380,
             4380,
-            4380,
+            4690,
             4690,
             4690
           ]
@@ -110492,7 +110444,7 @@
             1590,
             1590,
             1590,
-            1590,
+            1690,
             1690,
             1690
           ]
@@ -110509,6 +110461,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-KUNLUN-P006-Gaming-Mouse-Pad-Extra-Large-XXL-Extended-PakByte-Computers-24397722386499.webp?v=1753679912",
           "url": "https://www.pakbyte.pk/products/redragon-kunlun-p006-extra-large-gaming-mouse-pad",
           "history": [
+            3370,
             3370,
             3370
           ]
@@ -110534,7 +110487,7 @@
             2490,
             2490,
             2490,
-            2490,
+            2290,
             2290,
             2290
           ]
@@ -115292,7 +115245,7 @@
             5220,
             5220,
             5220,
-            5220,
+            5590,
             5590,
             5590
           ]
@@ -115343,7 +115296,7 @@
             4540,
             4540,
             4540,
-            4540,
+            5090,
             5090,
             5090,
             5090
@@ -115447,7 +115400,7 @@
             5399,
             5399,
             5399,
-            5399,
+            5690,
             5690,
             5690,
             5690
@@ -115473,7 +115426,7 @@
             7640,
             7640,
             7640,
-            7640,
+            7990,
             7990,
             7990,
             7990
@@ -125260,8 +125213,8 @@
           "name": "Lian Li Galahad 240 AIO UNI Fan SL120 Edition ARGB 240mm Liquid CPU Cooler - White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 21990,
-          "oldPrice": null,
+          "price": 23990,
+          "oldPrice": 21990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Galahad-240-AIO-UNI-Fan-SL120-Edition-ARGB-240mm-Liquid-CPU-Cooler-White-PakByte-Computers-24397385793603.jpg?v=1753682688",
@@ -125278,7 +125231,7 @@
             21990,
             21990,
             21990,
-            21990
+            23990
           ]
         },
         {
@@ -128318,7 +128271,7 @@
             3990,
             3990,
             3990,
-            3990,
+            3890,
             3890,
             3890
           ]
@@ -133154,7 +133107,7 @@
             20990,
             20990,
             20990,
-            20990,
+            24790,
             24790,
             24790
           ]
@@ -133180,7 +133133,7 @@
             15990,
             15990,
             15990,
-            15990,
+            18090,
             18090,
             18090
           ]
@@ -148378,6 +148331,7 @@
           "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-white-oc-edition-16gb-graphics-card-used",
           "history": [
             249999,
+            249999,
             249999
           ]
         },
@@ -148393,6 +148347,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_logitech_pop_icon_keys_off-white_orange.webp",
           "url": "https://rbtechngames.com/product/logitech-pop-icon-keys-wireless-keyboard-off-white-orange",
           "history": [
+            12499,
             12499,
             12499,
             12499,
@@ -150613,32 +150568,6 @@
           ]
         },
         {
-          "id": "rbtechgames_4deca1bf",
-          "name": "SanDisk E30 USB-C Portable SSD &#8211; 1TB/2TB",
-          "brand": "SanDisk",
-          "category": "storage",
-          "price": 43999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_sandisk_e30_portable_ssd.webp",
-          "url": "https://rbtechngames.com/product/sandisk-e30-usb-c-portable-ssd-1tb-2tb",
-          "history": [
-            43999,
-            43999,
-            43999,
-            43999,
-            43999,
-            43999,
-            43999,
-            43999,
-            43999,
-            43999,
-            43999,
-            43999
-          ]
-        },
-        {
           "id": "rbtechgames_fb197f3a",
           "name": "Attack Shark RS3 Ultra Carbon Fiber Wireless 8K Gaming Mouse &#8211; Black/Silver/Red",
           "brand": "Attack",
@@ -151182,32 +151111,6 @@
             159999,
             159999,
             159999
-          ]
-        },
-        {
-          "id": "rbtechgames_d231b650",
-          "name": "Lenovo ThinkPad T14S, Intel Core i7 10th Gen, 32GB RAM, 256GB SSD, 14.0″ FHD, IPS Display,",
-          "brand": "Intel",
-          "category": "cpu",
-          "price": 89999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_lenovo_thinkpad_t14s_gen_1.webp",
-          "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-intel-core-i7-10th-gen-32gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-black-used",
-          "history": [
-            89999,
-            89999,
-            89999,
-            89999,
-            89999,
-            89999,
-            89999,
-            89999,
-            89999,
-            89999,
-            89999,
-            89999
           ]
         },
         {
@@ -152531,7 +152434,7 @@
             116999,
             116999,
             116999,
-            116999,
+            118999,
             118999,
             118999
           ]
@@ -154376,6 +154279,7 @@
             259999,
             259999,
             259999,
+            259999,
             259999
           ]
         },
@@ -155329,7 +155233,7 @@
           "history": [
             219999,
             219999,
-            219999,
+            257499,
             257499,
             257499,
             257499,
@@ -155589,7 +155493,7 @@
           "history": [
             13999,
             13999,
-            13999,
+            12999,
             12999,
             12999,
             12999,
@@ -155622,7 +155526,7 @@
             574999,
             574999,
             574999,
-            574999,
+            558999,
             558999,
             558999
           ]
