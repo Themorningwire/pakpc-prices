@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T04:32:41.118471+00:00",
+  "lastUpdated": "2026-10-07T12:43:40.286868+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -22,6 +22,7 @@
           "history": [
             15490,
             15490,
+            15490,
             15490
           ]
         },
@@ -41,6 +42,7 @@
             11090,
             11090,
             11090,
+            11090,
             11090
           ]
         },
@@ -56,6 +58,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K628WG-POLLUX-Wired-Mechanical-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1791213348",
           "url": "https://www.pakbyte.pk/products/redragon-k628wg-pollux-wired-mechanical-keyboard-white-grey",
           "history": [
+            10390,
             10390,
             10390,
             10390,
@@ -2226,8 +2229,8 @@
           "name": "ViewSonic VX2537 25\" 420Hz FHD Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 69790,
-          "oldPrice": null,
+          "price": 69990,
+          "oldPrice": 69790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX2537-25-FHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1788762350",
@@ -2244,7 +2247,7 @@
             69790,
             69790,
             69790,
-            69790
+            69990
           ]
         },
         {
@@ -3006,8 +3009,8 @@
           "name": "ViewSonic VX27G32A 2K 27″ QHD 275Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 70790,
-          "oldPrice": null,
+          "price": 68990,
+          "oldPrice": 70790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX27G32A-2K-27-QHD-275Hz-Gaming-Monitor-Price-in-Pakistan-Pakbyte_4.jpg?v=1787240690",
@@ -3024,7 +3027,7 @@
             70790,
             70790,
             70790,
-            70790
+            68990
           ]
         },
         {
@@ -3032,8 +3035,8 @@
           "name": "ViewSonic VX27G31A 27\" FHD Omni Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 51790,
-          "oldPrice": null,
+          "price": 49990,
+          "oldPrice": 51790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx27g31a-price-in-pakistan-pakbyte_2.webp?v=1787239603",
@@ -3050,7 +3053,7 @@
             51790,
             51790,
             51790,
-            51790
+            49990
           ]
         },
         {
@@ -3058,8 +3061,8 @@
           "name": "ViewSonic VX2532 - 320Hz 1080p FHD IPS 25\" Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 53790,
-          "oldPrice": null,
+          "price": 53990,
+          "oldPrice": 53790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2532-price-in-pakistan-pakbyte_1.webp?v=1787207331",
@@ -3076,7 +3079,7 @@
             53790,
             53790,
             53790,
-            53790
+            53990
           ]
         },
         {
@@ -3084,8 +3087,8 @@
           "name": "ViewSonic VX24G30-W 24\" 240Hz FHD Omni Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 46490,
-          "oldPrice": null,
+          "price": 44490,
+          "oldPrice": 46490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx24g30-w-price-in-pakistan-pakbyte_1.webp?v=1787206865",
@@ -3102,7 +3105,7 @@
             46490,
             46490,
             46490,
-            46490
+            44490
           ]
         },
         {
@@ -3110,8 +3113,8 @@
           "name": "ViewSonic VA27G1-H 27\" 144Hz FHD Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 37490,
-          "oldPrice": null,
+          "price": 35990,
+          "oldPrice": 37490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va27g1-h-price-in-pakistan-pakbyte_1.webp?v=1787121379",
@@ -3128,7 +3131,7 @@
             37490,
             37490,
             37490,
-            37490
+            35990
           ]
         },
         {
@@ -3136,8 +3139,8 @@
           "name": "ViewSonic VA24G2-H 24\" 144Hz FHD Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 33490,
-          "oldPrice": null,
+          "price": 30990,
+          "oldPrice": 33490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-VA24G2-H-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1787120813",
@@ -3154,7 +3157,7 @@
             33490,
             33490,
             33490,
-            33490
+            30990
           ]
         },
         {
@@ -10063,6 +10066,7 @@
             7790,
             7790,
             7790,
+            7790,
             7790
           ]
         },
@@ -10110,7 +10114,7 @@
             7799,
             7799,
             7799,
-            7799,
+            7990,
             7990,
             7990,
             7990,
@@ -11930,7 +11934,7 @@
             4480,
             4480,
             4480,
-            4480,
+            4890,
             4890,
             4890,
             4890,
@@ -11982,7 +11986,7 @@
             7140,
             7140,
             7140,
-            7140,
+            7990,
             7990,
             7990,
             7990,
@@ -12008,7 +12012,7 @@
             12990,
             12990,
             12990,
-            12990,
+            14790,
             14790,
             14790,
             14790,
@@ -12086,7 +12090,7 @@
             14650,
             14650,
             14650,
-            14650,
+            15790,
             15790,
             15790,
             15790,
@@ -12775,8 +12779,8 @@
           "name": "ViewSonic VX2757-2K-PRO-4 27” QHD 2k 425Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 111990,
-          "oldPrice": null,
+          "price": 110990,
+          "oldPrice": 111990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX2757-2K-PRO-4-27-QHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1778737782",
@@ -12793,7 +12797,7 @@
             111990,
             111990,
             111990,
-            111990
+            110990
           ]
         },
         {
@@ -12801,8 +12805,8 @@
           "name": "ViewSonic VX24G30 24” Full HD 240Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 41490,
-          "oldPrice": null,
+          "price": 39990,
+          "oldPrice": 41490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX24G30-24-Full-HD-Gaming-Monitor-price-in-pakistan-pakbyte_1.jpg?v=1778737548",
@@ -12819,7 +12823,7 @@
             41490,
             41490,
             41490,
-            41490
+            39990
           ]
         },
         {
@@ -12827,8 +12831,8 @@
           "name": "ViewSonic XG2730D IPS 4K 27\" 144Hz Dual Mode Esports Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 90790,
-          "oldPrice": null,
+          "price": 91990,
+          "oldPrice": 90790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-XG2730D-IPS-4K-27-144Hz-Dual-Mode-Esports-Gaming-Monitor-Price-in-Pakistan-Pakbyte.webp?v=1778737272",
@@ -12845,7 +12849,7 @@
             90790,
             90790,
             90790,
-            90790
+            91990
           ]
         },
         {
@@ -19899,8 +19903,8 @@
           "name": "ViewSonic VX2766-2K-PRO-9 27\", 2K QHD 320Hz IPS, HDR10 Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 73790,
-          "oldPrice": null,
+          "price": 72490,
+          "oldPrice": 73790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2766-2k-pro-9-price-in-pakistan-pakbyte_4.webp?v=1773390628",
@@ -19917,7 +19921,7 @@
             73790,
             73790,
             73790,
-            73790
+            72490
           ]
         },
         {
@@ -20951,7 +20955,7 @@
             26490,
             26490,
             26490,
-            26490,
+            27490,
             27490,
             27490,
             27490,
@@ -22122,7 +22126,7 @@
             11890,
             11890,
             11890,
-            11890,
+            12990,
             12990,
             12990,
             12990,
@@ -22499,8 +22503,8 @@
           "name": "Arktek NVIDIA GEFORCE GTX1650 4GB GDDR6 128-bit Graphics Card",
           "brand": "NVIDIA",
           "category": "gpu",
-          "price": 49990,
-          "oldPrice": null,
+          "price": 55499,
+          "oldPrice": 49990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Arktek-NVIDIA-GEFORCE-GTX1650-4GB-GDDR6-128-bit-Graphics-Card-Price-in-Pakistan-Pakbyte_1.jpg?v=1772080568",
@@ -22517,7 +22521,7 @@
             49990,
             49990,
             49990,
-            49990
+            55499
           ]
         },
         {
@@ -27790,7 +27794,7 @@
             1399,
             1399,
             1399,
-            1399,
+            1190,
             1190,
             1190,
             1190,
@@ -30789,29 +30793,18 @@
           ]
         },
         {
-          "id": "pakbyte_62bf6235",
-          "name": "ViewSonic VA240A-H 24 Inch HD Monitor",
+          "id": "pakbyte_00fd322f",
+          "name": "ViewSonic VA240A-H 24\" HD Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 28990,
+          "price": 27990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
           "url": "https://www.pakbyte.pk/products/viewsonic-va240a-h-24-inch-hd-monitor",
           "history": [
-            28990,
-            28990,
-            28990,
-            28990,
-            28990,
-            28990,
-            28990,
-            28990,
-            28990,
-            28990,
-            28990,
-            28990
+            27990
           ]
         },
         {
@@ -33135,7 +33128,7 @@
           "category": "keyboard",
           "price": 14490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-Max-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_6.webp?v=1766299277",
           "url": "https://www.pakbyte.pk/products/aula-f75-max-wireless-mechanical-keyboard-with-tft-screen-and-knob-gradient-gray",
@@ -36370,7 +36363,7 @@
             6290,
             6290,
             6290,
-            6290,
+            7090,
             7090,
             7090,
             7090,
@@ -36396,7 +36389,7 @@
             4890,
             4890,
             4890,
-            4890,
+            5190,
             5190,
             5190,
             5190,
@@ -36422,7 +36415,7 @@
             6999,
             6999,
             6999,
-            6999,
+            6990,
             6990,
             6990,
             6990,
@@ -39711,8 +39704,8 @@
           "name": "ViewSonic VA3208-4K-MHD 32\" 4K Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 80990,
-          "oldPrice": null,
+          "price": 93990,
+          "oldPrice": 80990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va3208-4k-mhd-monitor-price-in-pakistan-pakbyte_4.jpg?v=1764669414",
@@ -39729,7 +39722,7 @@
             80990,
             80990,
             80990,
-            80990
+            93990
           ]
         },
         {
@@ -39737,8 +39730,8 @@
           "name": "ViewSonic VA2708-4K-MHD 27-inch 60Hz 4K UHD Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 67790,
-          "oldPrice": null,
+          "price": 65990,
+          "oldPrice": 67790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-VA2708-4K-MHD-27-4K-UHD-3840x2160-60Hz-4ms-GTG-IPS-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1764665559",
@@ -39755,7 +39748,7 @@
             67790,
             67790,
             67790,
-            67790
+            65990
           ]
         },
         {
@@ -39763,8 +39756,8 @@
           "name": "ViewSonic XG2431 24\" FHD, 240Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 49490,
-          "oldPrice": null,
+          "price": 47990,
+          "oldPrice": 49490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/VIEWSONIC-GAMING-LED-24_-XG2431-GAMING-MoNITOR-PRICE-IN-PAKISTAN-PAKBYTE_1.webp?v=1764664837",
@@ -39781,7 +39774,7 @@
             49490,
             49490,
             49490,
-            49490
+            47990
           ]
         },
         {
@@ -39789,8 +39782,8 @@
           "name": "ViewSonic VA24G1-H 24\" Full HD 144Hz IPS 1ms Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 30990,
-          "oldPrice": null,
+          "price": 29990,
+          "oldPrice": 30990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va24g1-h-price-in-pakistan-pakbyte_5.webp?v=1764664311",
@@ -39807,7 +39800,7 @@
             30990,
             30990,
             30990,
-            30990
+            29990
           ]
         },
         {
@@ -45132,7 +45125,7 @@
             6590,
             6590,
             6590,
-            6590,
+            7290,
             7290,
             7290,
             7290,
@@ -45158,7 +45151,7 @@
             12090,
             12090,
             12090,
-            12090,
+            13990,
             13990,
             13990,
             13990,
@@ -45184,7 +45177,7 @@
             12590,
             12590,
             12590,
-            12590,
+            16590,
             16590,
             16590,
             16590,
@@ -45210,7 +45203,7 @@
             11890,
             11890,
             11890,
-            11890,
+            13990,
             13990,
             13990,
             13990,
@@ -45288,7 +45281,7 @@
             3340,
             3340,
             3340,
-            3340,
+            3690,
             3690,
             3690,
             3690,
@@ -45314,7 +45307,7 @@
             4840,
             4840,
             4840,
-            4840,
+            5290,
             5290,
             5290,
             5290,
@@ -45417,6 +45410,7 @@
             7990,
             7990,
             7990,
+            7990,
             7990
           ]
         },
@@ -45437,7 +45431,7 @@
             2890,
             2890,
             2890,
-            2890,
+            3890,
             3890,
             3890,
             3890,
@@ -47947,8 +47941,8 @@
           "name": "MSI GeForce RTX 5050 8G Ventus 2X OC 8GB Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 107990,
-          "oldPrice": null,
+          "price": 126999,
+          "oldPrice": 107990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5050-8g-ventus-2x-oc-price-in-pakistan-pakbyte_2.webp?v=1759584745",
@@ -47965,7 +47959,7 @@
             107990,
             107990,
             107990,
-            107990
+            126999
           ]
         },
         {
@@ -50352,7 +50346,7 @@
             4990,
             4990,
             4990,
-            4990,
+            4790,
             4790,
             4790,
             4790,
@@ -50430,7 +50424,7 @@
             15090,
             15090,
             15090,
-            15090,
+            16290,
             16290,
             16290,
             16290,
@@ -50456,7 +50450,7 @@
             15290,
             15290,
             15290,
-            15290,
+            17890,
             17890,
             17890,
             17890,
@@ -50476,6 +50470,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GALATINPRO-K719AK-RGB-PRO_1.jpg?v=1756797385",
           "url": "https://www.pakbyte.pk/products/redragon-galatin-pro-k719ak-rgb-pro-95-keys-redefine-full-size-gaming-mechanical-keyboard",
           "history": [
+            19990,
             19990,
             19990,
             19990,
@@ -50501,7 +50496,7 @@
             13290,
             13290,
             13290,
-            13290,
+            16690,
             16690,
             16690,
             16690,
@@ -50527,7 +50522,7 @@
             13990,
             13990,
             13990,
-            13990,
+            15990,
             15990,
             15990,
             15990,
@@ -50579,7 +50574,7 @@
             1050,
             1050,
             1050,
-            1050,
+            1130,
             1130,
             1130,
             1130,
@@ -50631,7 +50626,7 @@
             7890,
             7890,
             7890,
-            7890,
+            8890,
             8890,
             8890,
             8890,
@@ -57352,8 +57347,8 @@
           "name": "ViewSonic VX2779A-HD-PRO 27\" Full HD 240Hz Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 46490,
-          "oldPrice": null,
+          "price": 44990,
+          "oldPrice": 46490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2779a-hd-pro-monitor-price-in-pakistan_1.webp?v=1753857262",
@@ -57370,7 +57365,7 @@
             46490,
             46490,
             46490,
-            46490
+            44990
           ]
         },
         {
@@ -57378,8 +57373,8 @@
           "name": "ViewSonic VA270A-H - 120Hz 1080p Full HD IPS 27\" Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 35490,
-          "oldPrice": null,
+          "price": 34490,
+          "oldPrice": 35490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va270a-h-monitor-price-in-pakistan5_1.jpg?v=1753856921",
@@ -57396,7 +57391,7 @@
             35490,
             35490,
             35490,
-            35490
+            34490
           ]
         },
         {
@@ -57404,8 +57399,8 @@
           "name": "ViewSonic VX2479A-HD-PRO 24\" FHD, 240Hz, 1ms IPS Panel Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 39490,
-          "oldPrice": null,
+          "price": 37990,
+          "oldPrice": 39490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2479a-hd-pro-monitor-price-in-pakistan_1.jpg?v=1753855694",
@@ -57422,7 +57417,7 @@
             39490,
             39490,
             39490,
-            39490
+            37990
           ]
         },
         {
@@ -60013,6 +60008,7 @@
           "history": [
             21490,
             21490,
+            21490,
             21490
           ]
         },
@@ -60034,7 +60030,7 @@
             10890,
             10890,
             10890,
-            10890,
+            13490,
             13490,
             13490,
             13490,
@@ -62725,7 +62721,7 @@
           "name": "ATK VXE Dragonfly R1 Pro Wireless Gaming Mouse - Black",
           "brand": "ATK",
           "category": "mouse",
-          "price": 13490,
+          "price": 13999,
           "oldPrice": 14990,
           "inStock": true,
           "lowStock": false,
@@ -62743,7 +62739,7 @@
             13490,
             13490,
             13490,
-            13490
+            13999
           ]
         },
         {
@@ -62751,7 +62747,7 @@
           "name": "ATK VXE Dragonfly R1 Pro Wireless Gaming Mouse - White",
           "brand": "ATK",
           "category": "mouse",
-          "price": 13490,
+          "price": 13999,
           "oldPrice": 14990,
           "inStock": true,
           "lowStock": false,
@@ -62769,7 +62765,7 @@
             13490,
             13490,
             13490,
-            13490
+            13999
           ]
         },
         {
@@ -72120,6 +72116,7 @@
           "history": [
             24490,
             24490,
+            24490,
             24490
           ]
         },
@@ -72135,6 +72132,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
+            24490,
             24490,
             24490,
             24490
@@ -72340,7 +72338,7 @@
             7490,
             7490,
             7490,
-            7490,
+            7990,
             7990,
             7990,
             7990,
@@ -72392,7 +72390,7 @@
             13190,
             13190,
             13190,
-            13190,
+            15690,
             15690,
             15690,
             15690,
@@ -72600,7 +72598,7 @@
             13150,
             13150,
             13150,
-            13150,
+            13990,
             13990,
             13990,
             13990,
@@ -72833,7 +72831,7 @@
             5799,
             5799,
             5799,
-            5799,
+            5990,
             5990,
             5990,
             5990,
@@ -77098,7 +77096,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5250,
             5250,
             5250,
             5250,
@@ -77150,7 +77148,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5290,
             5290,
             5290,
             5290,
@@ -77202,7 +77200,7 @@
             3840,
             3840,
             3840,
-            3840,
+            4150,
             4150,
             4150,
             4150,
@@ -77228,7 +77226,7 @@
             13490,
             13490,
             13490,
-            13490,
+            15490,
             15490,
             15490,
             15490,
@@ -77332,7 +77330,7 @@
             12490,
             12490,
             12490,
-            12490,
+            13490,
             13490,
             13490,
             13490,
@@ -77358,7 +77356,7 @@
             10590,
             10590,
             10590,
-            10590,
+            11990,
             11990,
             11990,
             11990,
@@ -77462,7 +77460,7 @@
             11050,
             11050,
             11050,
-            11050,
+            11390,
             11390,
             11390,
             11390,
@@ -77488,7 +77486,7 @@
             7350,
             7350,
             7350,
-            7350,
+            7920,
             7920,
             7920,
             7920,
@@ -77670,7 +77668,7 @@
             7750,
             7750,
             7750,
-            7750,
+            7880,
             7880,
             7880,
             7880,
@@ -77696,7 +77694,7 @@
             7240,
             7240,
             7240,
-            7240,
+            7960,
             7960,
             7960,
             7960,
@@ -77800,7 +77798,7 @@
             7190,
             7190,
             7190,
-            7190,
+            7290,
             7290,
             7290,
             7290,
@@ -77852,7 +77850,7 @@
             9250,
             9250,
             9250,
-            9250,
+            9490,
             9490,
             9490,
             9490,
@@ -77903,7 +77901,7 @@
             6740,
             6740,
             6740,
-            6740,
+            7290,
             7290,
             7290,
             7290,
@@ -106894,7 +106892,7 @@
             14990,
             14990,
             14990,
-            14990,
+            17290,
             17290,
             17290,
             17290,
@@ -106946,7 +106944,7 @@
             9190,
             9190,
             9190,
-            9190,
+            10890,
             10890,
             10890,
             10890,
@@ -106998,7 +106996,7 @@
             12190,
             12190,
             12190,
-            12190,
+            13190,
             13190,
             13190,
             13190,
@@ -107050,7 +107048,7 @@
             12280,
             12280,
             12280,
-            12280,
+            12690,
             12690,
             12690,
             12690,
@@ -107128,7 +107126,7 @@
             6240,
             6240,
             6240,
-            6240,
+            6690,
             6690,
             6690,
             6690,
@@ -107180,7 +107178,7 @@
             7340,
             7340,
             7340,
-            7340,
+            7690,
             7690,
             7690,
             7690,
@@ -107258,7 +107256,7 @@
             4740,
             4740,
             4740,
-            4740,
+            4490,
             4490,
             4490,
             4490,
@@ -107310,7 +107308,7 @@
             3090,
             3090,
             3090,
-            3090,
+            3190,
             3190,
             3190,
             3190,
@@ -107356,6 +107354,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS010-850W-Gaming-PC-Power-Supply-Semi-Modular-PakByte-Computers-24397785432131.webp?v=1753679418",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps010-850w-gaming-pc-power-supply-semi-modular",
           "history": [
+            22490,
             22490,
             22490,
             22490
@@ -107427,6 +107426,7 @@
           "history": [
             11190,
             11190,
+            11190,
             11190
           ]
         },
@@ -107446,6 +107446,7 @@
             10190,
             10190,
             10190,
+            10190,
             10190
           ]
         },
@@ -107461,6 +107462,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS001-500W-Gaming-PC-Power-Supply-PakByte-Computers-24397784547395.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps001-500w-gaming-pc-power-supply",
           "history": [
+            8690,
             8690,
             8690,
             8690,
@@ -108344,7 +108346,7 @@
             11190,
             11190,
             11190,
-            11190,
+            11990,
             11990,
             11990,
             11990,
@@ -108422,7 +108424,7 @@
             13170,
             13170,
             13170,
-            13170,
+            14190,
             14190,
             14190,
             14190,
@@ -108578,7 +108580,7 @@
             13990,
             13990,
             13990,
-            13990,
+            16190,
             16190,
             16190,
             16190,
@@ -108604,7 +108606,7 @@
             11100,
             11100,
             11100,
-            11100,
+            11990,
             11990,
             11990,
             11990,
@@ -108916,7 +108918,7 @@
             8890,
             8890,
             8890,
-            8890,
+            10890,
             10890,
             10890,
             10890,
@@ -108962,6 +108964,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512-Shiva-RGB-Backlit-Membrane-Gaming-Keyboard-PakByte-Computers-24397753450563.webp?v=1753679690",
           "url": "https://www.pakbyte.pk/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard",
           "history": [
+            6190,
             6190,
             6190,
             6190,
@@ -110261,7 +110264,7 @@
             5790,
             5790,
             5790,
-            5790,
+            5390,
             5390,
             5390,
             5390,
@@ -110287,7 +110290,7 @@
             2599,
             2599,
             2599,
-            2599,
+            2570,
             2570,
             2570,
             2570,
@@ -110313,7 +110316,7 @@
             2060,
             2060,
             2060,
-            2060,
+            2190,
             2190,
             2190,
             2190,
@@ -110339,7 +110342,7 @@
             1640,
             1640,
             1640,
-            1640,
+            1690,
             1690,
             1690,
             1690,
@@ -110365,7 +110368,7 @@
             3440,
             3440,
             3440,
-            3440,
+            3690,
             3690,
             3690,
             3690,
@@ -110391,7 +110394,7 @@
             1540,
             1540,
             1540,
-            1540,
+            1660,
             1660,
             1660,
             1660,
@@ -110417,7 +110420,7 @@
             4380,
             4380,
             4380,
-            4380,
+            4690,
             4690,
             4690,
             4690,
@@ -110469,7 +110472,7 @@
             1590,
             1590,
             1590,
-            1590,
+            1690,
             1690,
             1690,
             1690,
@@ -110489,6 +110492,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-KUNLUN-P006-Gaming-Mouse-Pad-Extra-Large-XXL-Extended-PakByte-Computers-24397722386499.webp?v=1753679912",
           "url": "https://www.pakbyte.pk/products/redragon-kunlun-p006-extra-large-gaming-mouse-pad",
           "history": [
+            3370,
             3370,
             3370,
             3370,
@@ -110514,7 +110518,7 @@
             2490,
             2490,
             2490,
-            2490,
+            2290,
             2290,
             2290,
             2290,
@@ -115272,7 +115276,7 @@
             5220,
             5220,
             5220,
-            5220,
+            5590,
             5590,
             5590,
             5590,
@@ -115323,7 +115327,7 @@
             4540,
             4540,
             4540,
-            4540,
+            5090,
             5090,
             5090,
             5090,
@@ -115427,7 +115431,7 @@
             5399,
             5399,
             5399,
-            5399,
+            5690,
             5690,
             5690,
             5690,
@@ -115453,7 +115457,7 @@
             7640,
             7640,
             7640,
-            7640,
+            7990,
             7990,
             7990,
             7990,
@@ -120901,8 +120905,8 @@
           "name": "ViewSonic VX3276-2K-MHD-2 32\" IPS QHD Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 71990,
-          "oldPrice": null,
+          "price": 74990,
+          "oldPrice": 71990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX3276-2K-MHD-2-32-IPS-QHD-Entertainment-Monitor-PakByte-Computers-24397519814723.webp?v=1753681773",
@@ -120919,7 +120923,7 @@
             71990,
             71990,
             71990,
-            71990
+            74990
           ]
         },
         {
@@ -125258,7 +125262,7 @@
             21990,
             21990,
             21990,
-            21990,
+            23990,
             23990,
             23990,
             23990
@@ -128298,7 +128302,7 @@
             3990,
             3990,
             3990,
-            3990,
+            3890,
             3890,
             3890,
             3890,
@@ -133134,7 +133138,7 @@
             20990,
             20990,
             20990,
-            20990,
+            24790,
             24790,
             24790,
             24790,
@@ -133160,7 +133164,7 @@
             15990,
             15990,
             15990,
-            15990,
+            18090,
             18090,
             18090,
             18090,
@@ -148361,6 +148365,7 @@
           "url": "https://rbtechngames.com/product/msi-vector-16-hx-ai-a2xwhg-061us-intel-core-ultra-7-16gb-ram-512gb-ssd-rtx-5070-ti-16-fhd-144hz-ips-display-cosmo-gray-used",
           "history": [
             649999,
+            649999,
             649999
           ]
         },
@@ -148376,6 +148381,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_raider_ge68_hx.webp",
           "url": "https://rbtechngames.com/product/msi-raider-16-hx-ai-a2xwhg-667ca-intel-core-ultra-9-32gb-ram-1tb-ssd-rtx-5070-ti-16-qhd-240hz-ips-display-core-black-used",
           "history": [
+            744999,
             744999,
             744999
           ]
@@ -148393,6 +148399,7 @@
           "url": "https://rbtechngames.com/product/msi-raider-ge68-hx-13vf-062us-intel-i9-13th-gen-16gb-ram-1tb-ssd-rtx-4060-16-fhd-144hz-ips-display-core-black-used",
           "history": [
             359999,
+            359999,
             359999
           ]
         },
@@ -148408,6 +148415,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_asus_rog_strix_g16_2025_eclipse_gray.png",
           "url": "https://rbtechngames.com/product/asus-rog-strix-g16-2025-g615lm-ds94-intel-core-ultra-9-16gb-ram-1tb-ssd-rtx-5060-16-qhd-240hz-ips-display-eclipse-gray-new",
           "history": [
+            634999,
             634999,
             634999
           ]
@@ -148425,6 +148433,7 @@
           "url": "https://rbtechngames.com/product/lenovo-legion-7-16agp11-amd-ryzen-ai-7-32gb-ram-1tb-ssd-rtx-5060-16-2k-240hz-oled-display-glacier-white-open-box",
           "history": [
             644999,
+            644999,
             644999
           ]
         },
@@ -148440,6 +148449,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_16_shadow-7.jpg",
           "url": "https://rbtechngames.com/product/acer-shadow-16-sh16-41-7g41-amd-ryzen-7-16gb-ram-512gb-ssd-rtx-4060-16-fhd-165hz-ips-display-matte-black-used",
           "history": [
+            289999,
             289999,
             289999
           ]
@@ -148457,6 +148467,7 @@
           "url": "https://rbtechngames.com/product/hp-omen-16-slim-an0119nr-intel-core-9-285h-16gb-ram-1tb-ssd-rtx-5070-16-qhd-240hz-ips-display-shadow-black-open-box",
           "history": [
             534999,
+            534999,
             534999
           ]
         },
@@ -148472,6 +148483,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-ai-phn16-73-92b8-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5070-ti-16-qhd-240hz-ips-display-abyssal-black-new",
           "history": [
+            724999,
             724999,
             724999
           ]
@@ -148492,6 +148504,7 @@
             249999,
             249999,
             249999,
+            249999,
             249999
           ]
         },
@@ -148507,6 +148520,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_logitech_pop_icon_keys_off-white_orange.webp",
           "url": "https://rbtechngames.com/product/logitech-pop-icon-keys-wireless-keyboard-off-white-orange",
           "history": [
+            12499,
             12499,
             12499,
             12499,
@@ -149866,7 +149880,7 @@
             41999,
             41999,
             41999,
-            41999,
+            38499,
             38499,
             38499
           ]
@@ -150961,6 +150975,32 @@
             254999,
             254999,
             254999
+          ]
+        },
+        {
+          "id": "rbtechgames_0454b7be",
+          "name": "Acer Predator Helios Neo 16 (PHN16-71-57W1), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, ",
+          "brand": "Intel",
+          "category": "gpu",
+          "price": 239999,
+          "oldPrice": 244999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_acer_predator_helios_neo_16_abyssal_black.jpg",
+          "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-phn16-71-57w1-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-16-fhd-165hz-ips-display-abyssal-black-used",
+          "history": [
+            239999,
+            239999,
+            239999,
+            239999,
+            239999,
+            239999,
+            239999,
+            239999,
+            239999,
+            239999,
+            239999,
+            239999
           ]
         },
         {
@@ -152160,6 +152200,32 @@
           ]
         },
         {
+          "id": "rbtechgames_42a38114",
+          "name": "HP Victus 15 (FA2013DX), Intel Core i5 13th Gen, 8GB RAM, 512GB SSD, RTX 3050, 15.6&#8243;",
+          "brand": "Intel",
+          "category": "gpu",
+          "price": 254999,
+          "oldPrice": 259999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_hp_victus_15_fa2013dx.webp",
+          "url": "https://rbtechngames.com/product/hp-victus-15-fa2013dx-intel-core-i5-13th-gen-8gb-ram-512gb-ssd-rtx-3050-15-6-fhd-144hz-ips-display-mica-silver-new",
+          "history": [
+            241999,
+            241999,
+            241999,
+            241999,
+            241999,
+            241999,
+            241999,
+            241999,
+            241999,
+            241999,
+            241999,
+            254999
+          ]
+        },
+        {
           "id": "rbtechgames_41ed2eaa",
           "name": "ASUS ROG Strix G16 2025 (G615LP-275), Intel Core Ultra 9 275HX, 32GB RAM, 2TB SSD, RTX 507",
           "brand": "ASUS",
@@ -152593,7 +152659,7 @@
             116999,
             116999,
             116999,
-            116999,
+            118999,
             118999,
             118999,
             118999,
@@ -155508,7 +155574,7 @@
             40499,
             40499,
             40499,
-            40499,
+            38999,
             38999,
             38999
           ]
@@ -155687,7 +155753,7 @@
             574999,
             574999,
             574999,
-            574999,
+            558999,
             558999,
             558999,
             558999,
