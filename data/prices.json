@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T04:43:33.959090+00:00",
+  "lastUpdated": "2026-10-08T12:52:59.540194+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_1f8fe42f",
+          "name": "AOC 22B40HM 21.45′ Full HD VA Gaming Monitor",
+          "brand": "AOC",
+          "category": "monitor",
+          "price": 23490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-22b40hm-monitor-price-in-pakistan-pakbyte_1.webp?v=1791441065",
+          "url": "https://www.pakbyte.pk/products/aoc-22b40hm-21-45-full-hd-va-gaming-monitor",
+          "history": [
+            23490
+          ]
+        },
         {
           "id": "pakbyte_f35981ba",
           "name": "AOC AGON 16T3FE Portable Monitor",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-PORTABLE-LED-16T3FE-Price-in-Pakistan-Pakbyte_2.avif?v=1791383942",
           "url": "https://www.pakbyte.pk/products/aoc-agon-16t3fe-portable-monitor",
           "history": [
+            33990,
             33990,
             33990
           ]
@@ -37,6 +53,7 @@
           "url": "https://www.pakbyte.pk/products/zotac-geforce-rtx-3060-blower-edition-12gb-graphics-card",
           "history": [
             93999,
+            93999,
             93999
           ]
         },
@@ -52,6 +69,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K689-Wired-Gasket-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1791216804",
           "url": "https://www.pakbyte.pk/products/redragon-wyvern-k689-wired-mechanical-gaming-keyboard",
           "history": [
+            15490,
             15490,
             15490,
             15490,
@@ -79,6 +97,7 @@
             11090,
             11090,
             11090,
+            11090,
             11090
           ]
         },
@@ -94,6 +113,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K628WG-POLLUX-Wired-Mechanical-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1791213348",
           "url": "https://www.pakbyte.pk/products/redragon-k628wg-pollux-wired-mechanical-keyboard-white-grey",
           "history": [
+            10390,
             10390,
             10390,
             10390,
@@ -2282,7 +2302,7 @@
             69790,
             69790,
             69790,
-            69790,
+            69990,
             69990,
             69990,
             69990
@@ -3062,7 +3082,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990
@@ -3088,7 +3108,7 @@
             51790,
             51790,
             51790,
-            51790,
+            49990,
             49990,
             49990,
             49990
@@ -3114,7 +3134,7 @@
             53790,
             53790,
             53790,
-            53790,
+            53990,
             53990,
             53990,
             53990
@@ -3140,7 +3160,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44490,
             44490,
             44490,
             44490
@@ -3166,7 +3186,7 @@
             37490,
             37490,
             37490,
-            37490,
+            35990,
             35990,
             35990,
             35990
@@ -3192,7 +3212,7 @@
             33490,
             33490,
             33490,
-            33490,
+            30990,
             30990,
             30990,
             30990
@@ -3255,8 +3275,8 @@
           "name": "AOC 27G50Z 27\" 260Hz FHD Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 47490,
-          "oldPrice": null,
+          "price": 45990,
+          "oldPrice": 47490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-27g50z-price-in-pakistan-pakbyte_1.webp?v=1787035868",
@@ -3273,7 +3293,7 @@
             47490,
             47490,
             47490,
-            47490
+            45990
           ]
         },
         {
@@ -3281,8 +3301,8 @@
           "name": "AOC 27G50F 27\" IPS, FHD, 144hz Gaming Monitor - Black",
           "brand": "AOC",
           "category": "monitor",
-          "price": 40490,
-          "oldPrice": null,
+          "price": 38990,
+          "oldPrice": 40490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-27g50f-price-in-pakistan-pakbyte_1.webp?v=1787035462",
@@ -3299,7 +3319,7 @@
             40490,
             40490,
             40490,
-            40490
+            38990
           ]
         },
         {
@@ -3307,8 +3327,8 @@
           "name": "AOC 24G50F 23.8\" 180Hz FHD Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 34490,
-          "oldPrice": null,
+          "price": 32990,
+          "oldPrice": 34490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50f-price-in-pakistan-pakbyte_1.webp?v=1787034791",
@@ -3325,7 +3345,7 @@
             34490,
             34490,
             34490,
-            34490
+            32990
           ]
         },
         {
@@ -5725,8 +5745,8 @@
           "name": "Attack Shark X8 SE Series Tri-mode Lightweight Wireless Gaming Mouse – Berry Red",
           "brand": "Attack",
           "category": "mouse",
-          "price": 6999,
-          "oldPrice": null,
+          "price": 7499,
+          "oldPrice": 6999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATTACK-SHARK-X8-SE-Series-Tri-mode-Lightweight-Wireless-Gaming-Mouse-Berry-Red-Price-in-Pakistan-Pakbyte.jpg?v=1784305005",
@@ -5743,7 +5763,7 @@
             6999,
             6999,
             6999,
-            6999
+            7499
           ]
         },
         {
@@ -10107,6 +10127,7 @@
             7790,
             7790,
             7790,
+            7790,
             7790
           ]
         },
@@ -10151,7 +10172,7 @@
             7799,
             7799,
             7799,
-            7799,
+            7990,
             7990,
             7990,
             7990,
@@ -11971,7 +11992,7 @@
             4480,
             4480,
             4480,
-            4480,
+            4890,
             4890,
             4890,
             4890,
@@ -12023,7 +12044,7 @@
             7140,
             7140,
             7140,
-            7140,
+            7990,
             7990,
             7990,
             7990,
@@ -12049,7 +12070,7 @@
             12990,
             12990,
             12990,
-            12990,
+            14790,
             14790,
             14790,
             14790,
@@ -12127,7 +12148,7 @@
             14650,
             14650,
             14650,
-            14650,
+            15790,
             15790,
             15790,
             15790,
@@ -12834,7 +12855,7 @@
             111990,
             111990,
             111990,
-            111990,
+            110990,
             110990,
             110990,
             110990
@@ -12860,7 +12881,7 @@
             41490,
             41490,
             41490,
-            41490,
+            39990,
             39990,
             39990,
             39990
@@ -12886,7 +12907,7 @@
             90790,
             90790,
             90790,
-            90790,
+            91990,
             91990,
             91990,
             91990
@@ -19958,7 +19979,7 @@
             73790,
             73790,
             73790,
-            73790,
+            72490,
             72490,
             72490,
             72490
@@ -19995,8 +20016,8 @@
           "name": "AOC 27B36X 27\" Full HD LED Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 36990,
-          "oldPrice": null,
+          "price": 34990,
+          "oldPrice": 36990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-u27g4-27-uhd-160hz-price-in-pakistan-pakbyte_1.webp?v=1773380939",
@@ -20013,7 +20034,7 @@
             36990,
             36990,
             36990,
-            36990
+            34990
           ]
         },
         {
@@ -20021,8 +20042,8 @@
           "name": "AOC 25G4K 25\" 420Hz FHD Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 70790,
-          "oldPrice": null,
+          "price": 68990,
+          "oldPrice": 70790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-25G4K-25-QHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1773380509",
@@ -20039,7 +20060,7 @@
             70790,
             70790,
             70790,
-            70790
+            68990
           ]
         },
         {
@@ -20047,8 +20068,8 @@
           "name": "AOC 24G50Z 24\" FHD 240Hz Fast IPS Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 39490,
-          "oldPrice": null,
+          "price": 37990,
+          "oldPrice": 39490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50z-price-in-pakistan-pakbyte_4.webp?v=1773379757",
@@ -20065,7 +20086,7 @@
             39490,
             39490,
             39490,
-            39490
+            37990
           ]
         },
         {
@@ -20073,8 +20094,8 @@
           "name": "AOC 24B36X 24\" 144Hz FHD Gaming Monitor - Black",
           "brand": "AOC",
           "category": "monitor",
-          "price": 31490,
-          "oldPrice": null,
+          "price": 29990,
+          "oldPrice": 31490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-3-SIDED-FRAMELESS-GAMING-LED-24B36X-Price-in-Pakistan-Pakbyte_1.jpg?v=1773379430",
@@ -20091,7 +20112,7 @@
             31490,
             31490,
             31490,
-            31490
+            29990
           ]
         },
         {
@@ -20992,7 +21013,7 @@
           "history": [
             26490,
             26490,
-            26490,
+            27490,
             27490,
             27490,
             27490,
@@ -22051,7 +22072,7 @@
           "category": "cpu",
           "price": 84999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/amd-ryzen-5700x3d-processor-boxed-price-in-pakistan-pakbyte-1.jpg?v=1772561617",
           "url": "https://www.pakbyte.pk/products/amd-ryzen-7-5700x3d-3ghz-am4-desktop-processor-boxed",
@@ -22163,7 +22184,7 @@
             11890,
             11890,
             11890,
-            11890,
+            12990,
             12990,
             12990,
             12990,
@@ -22558,7 +22579,7 @@
             49990,
             49990,
             49990,
-            49990,
+            55499,
             55499,
             55499,
             55499
@@ -22959,9 +22980,9 @@
           "name": "Thermalright Peerless Vision 360 UB ARGB CPU Liquid Cooler - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 33990,
-          "oldPrice": null,
-          "inStock": true,
+          "price": 35499,
+          "oldPrice": 33990,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-peerless-vision-360-ub-lcd-argb-liquid-cpu-cooler-price-in-pakistan-pakbyte_1.jpg?v=1771947208",
           "url": "https://www.pakbyte.pk/products/thermalright-peerless-vision-360-ub-argb-cpu-liquid-cooler-white",
@@ -22977,7 +22998,7 @@
             33990,
             33990,
             33990,
-            33990
+            35499
           ]
         },
         {
@@ -22985,9 +23006,9 @@
           "name": "Thermalright Peerless Vision 360 UB ARGB CPU Liquid Cooler - Black",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 32990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 35499,
+          "oldPrice": 32990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-peerless-vision-360-ub-argb-black-price-in-pakistan-pakbyte_4.webp?v=1771946941",
           "url": "https://www.pakbyte.pk/products/thermalright-peerless-vision-360-ub-argb-cpu-liquid-cooler-black",
@@ -23003,7 +23024,7 @@
             32990,
             32990,
             32990,
-            32990
+            35499
           ]
         },
         {
@@ -27831,7 +27852,7 @@
             1399,
             1399,
             1399,
-            1399,
+            1190,
             1190,
             1190,
             1190,
@@ -28263,8 +28284,8 @@
           "name": "Philips Evnia 24M2N3200FQ 23.8\" FHD IPS, 200Hz Gaming LED Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 35490,
-          "oldPrice": null,
+          "price": 33990,
+          "oldPrice": 35490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-Evnia-24M2N3200FQ-FHD-200Hz-Gaming-LED-Monitor-Price-in-Pakistan-Pakbyte_3.webp?v=1768806475",
@@ -28281,7 +28302,7 @@
             35490,
             35490,
             35490,
-            35490
+            33990
           ]
         },
         {
@@ -30775,7 +30796,7 @@
             100790,
             100790,
             100790,
-            100790,
+            98990,
             98990,
             98990
           ]
@@ -30844,6 +30865,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
           "url": "https://www.pakbyte.pk/products/viewsonic-va240a-h-24-inch-hd-monitor",
           "history": [
+            27990,
             27990,
             27990,
             27990
@@ -32742,7 +32764,7 @@
             46300,
             46300,
             46300,
-            46300,
+            51990,
             51990,
             51990
           ]
@@ -33558,8 +33580,8 @@
           "name": "Philips Evnia 27M2N3200FQ 27\" Full HD 1080p Fast IPS 200Hz Gaming LED Monitor - Black",
           "brand": "Philips",
           "category": "monitor",
-          "price": 43490,
-          "oldPrice": null,
+          "price": 41990,
+          "oldPrice": 43490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips_27m2n3200fq_27-inch_gaming_led_monitor_pakistan_pakbyte_3.webp?v=1766226447",
@@ -33576,7 +33598,7 @@
             43490,
             43490,
             43490,
-            43490
+            41990
           ]
         },
         {
@@ -36402,7 +36424,7 @@
             6290,
             6290,
             6290,
-            6290,
+            7090,
             7090,
             7090,
             7090,
@@ -36428,7 +36450,7 @@
             4890,
             4890,
             4890,
-            4890,
+            5190,
             5190,
             5190,
             5190,
@@ -36454,7 +36476,7 @@
             6999,
             6999,
             6999,
-            6999,
+            6990,
             6990,
             6990,
             6990,
@@ -39761,7 +39783,7 @@
             80990,
             80990,
             80990,
-            80990,
+            93990,
             93990,
             93990,
             93990
@@ -39787,7 +39809,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990,
             65990
@@ -39813,7 +39835,7 @@
             49490,
             49490,
             49490,
-            49490,
+            47990,
             47990,
             47990,
             47990
@@ -39839,7 +39861,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29990,
             29990,
             29990,
             29990
@@ -45164,7 +45186,7 @@
             6590,
             6590,
             6590,
-            6590,
+            7290,
             7290,
             7290,
             7290,
@@ -45190,7 +45212,7 @@
             12090,
             12090,
             12090,
-            12090,
+            13990,
             13990,
             13990,
             13990,
@@ -45216,7 +45238,7 @@
             12590,
             12590,
             12590,
-            12590,
+            16590,
             16590,
             16590,
             16590,
@@ -45242,7 +45264,7 @@
             11890,
             11890,
             11890,
-            11890,
+            13990,
             13990,
             13990,
             13990,
@@ -45320,7 +45342,7 @@
             3340,
             3340,
             3340,
-            3340,
+            3690,
             3690,
             3690,
             3690,
@@ -45346,7 +45368,7 @@
             4840,
             4840,
             4840,
-            4840,
+            5290,
             5290,
             5290,
             5290,
@@ -45455,6 +45477,7 @@
             7990,
             7990,
             7990,
+            7990,
             7990
           ]
         },
@@ -45472,7 +45495,7 @@
           "history": [
             2890,
             2890,
-            2890,
+            3890,
             3890,
             3890,
             3890,
@@ -47465,8 +47488,8 @@
           "name": "Attack Shark X8 SE Wireless Gaming Mouse - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 6999,
-          "oldPrice": null,
+          "price": 7499,
+          "oldPrice": 6999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-se-wireless-mouse-white-price-in-pakistan-pakbyte_2.jpg?v=1760008893",
@@ -47483,7 +47506,7 @@
             6999,
             6999,
             6999,
-            6999
+            7499
           ]
         },
         {
@@ -47491,8 +47514,8 @@
           "name": "Attack Shark X8 SE Wireless Gaming Mouse - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 6999,
-          "oldPrice": null,
+          "price": 7499,
+          "oldPrice": 6999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-se-wireless-mouse-black-price-in-pakistan_2.jpg?v=1760008474",
@@ -47509,7 +47532,7 @@
             6999,
             6999,
             6999,
-            6999
+            7499
           ]
         },
         {
@@ -48000,7 +48023,7 @@
             107990,
             107990,
             107990,
-            107990,
+            126999,
             126999,
             126999,
             126999
@@ -50387,7 +50410,7 @@
             4990,
             4990,
             4990,
-            4990,
+            4790,
             4790,
             4790,
             4790,
@@ -50465,7 +50488,7 @@
             15090,
             15090,
             15090,
-            15090,
+            16290,
             16290,
             16290,
             16290,
@@ -50491,7 +50514,7 @@
             15290,
             15290,
             15290,
-            15290,
+            17890,
             17890,
             17890,
             17890,
@@ -50521,6 +50544,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -50539,7 +50563,7 @@
             13290,
             13290,
             13290,
-            13290,
+            16690,
             16690,
             16690,
             16690,
@@ -50565,7 +50589,7 @@
             13990,
             13990,
             13990,
-            13990,
+            15990,
             15990,
             15990,
             15990,
@@ -50617,7 +50641,7 @@
             1050,
             1050,
             1050,
-            1050,
+            1130,
             1130,
             1130,
             1130,
@@ -50669,7 +50693,7 @@
             7890,
             7890,
             7890,
-            7890,
+            8890,
             8890,
             8890,
             8890,
@@ -57279,7 +57303,7 @@
             95790,
             95790,
             95790,
-            95790,
+            96990,
             96990,
             96990
           ]
@@ -57305,7 +57329,7 @@
             206990,
             206990,
             206990,
-            206990,
+            204990,
             204990,
             204990
           ]
@@ -57331,7 +57355,7 @@
             191790,
             191790,
             191790,
-            191790,
+            179990,
             179990,
             179990
           ]
@@ -57408,7 +57432,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44990,
             44990,
             44990,
             44990
@@ -57434,7 +57458,7 @@
             35490,
             35490,
             35490,
-            35490,
+            34490,
             34490,
             34490,
             34490
@@ -57460,7 +57484,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990
@@ -60057,6 +60081,7 @@
             21490,
             21490,
             21490,
+            21490,
             21490
           ]
         },
@@ -60075,7 +60100,7 @@
             10890,
             10890,
             10890,
-            10890,
+            13490,
             13490,
             13490,
             13490,
@@ -62784,7 +62809,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999
@@ -62810,7 +62835,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999
@@ -72167,6 +72192,7 @@
             24490,
             24490,
             24490,
+            24490,
             24490
           ]
         },
@@ -72182,6 +72208,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
+            24490,
             24490,
             24490,
             24490,
@@ -72387,7 +72414,7 @@
             7490,
             7490,
             7490,
-            7490,
+            7990,
             7990,
             7990,
             7990,
@@ -72439,7 +72466,7 @@
             13190,
             13190,
             13190,
-            13190,
+            15690,
             15690,
             15690,
             15690,
@@ -72647,7 +72674,7 @@
             13150,
             13150,
             13150,
-            13150,
+            13990,
             13990,
             13990,
             13990,
@@ -72880,7 +72907,7 @@
           "history": [
             5799,
             5799,
-            5799,
+            5990,
             5990,
             5990,
             5990,
@@ -75213,7 +75240,7 @@
           "category": "psu",
           "price": 71800,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Corsair-HX1000i-Fully-Modular-Ultra-Low-Noise-Platinum-ATX-1000-Watt-PC-Power-Supply-UK-PakByte-Computers-25773640843331.jpg?v=1753672863",
           "url": "https://www.pakbyte.pk/products/corsair-hx1000i-fully-modular-ultra-low-noise-platinum-atx-1000-watt-pc-power-supply-uk",
@@ -77145,7 +77172,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5250,
             5250,
             5250,
             5250,
@@ -77197,7 +77224,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5290,
             5290,
             5290,
             5290,
@@ -77249,7 +77276,7 @@
             3840,
             3840,
             3840,
-            3840,
+            4150,
             4150,
             4150,
             4150,
@@ -77275,7 +77302,7 @@
             13490,
             13490,
             13490,
-            13490,
+            15490,
             15490,
             15490,
             15490,
@@ -77379,7 +77406,7 @@
             12490,
             12490,
             12490,
-            12490,
+            13490,
             13490,
             13490,
             13490,
@@ -77405,7 +77432,7 @@
             10590,
             10590,
             10590,
-            10590,
+            11990,
             11990,
             11990,
             11990,
@@ -77509,7 +77536,7 @@
             11050,
             11050,
             11050,
-            11050,
+            11390,
             11390,
             11390,
             11390,
@@ -77535,7 +77562,7 @@
             7350,
             7350,
             7350,
-            7350,
+            7920,
             7920,
             7920,
             7920,
@@ -77717,7 +77744,7 @@
             7750,
             7750,
             7750,
-            7750,
+            7880,
             7880,
             7880,
             7880,
@@ -77743,7 +77770,7 @@
             7240,
             7240,
             7240,
-            7240,
+            7960,
             7960,
             7960,
             7960,
@@ -77847,7 +77874,7 @@
             7190,
             7190,
             7190,
-            7190,
+            7290,
             7290,
             7290,
             7290,
@@ -77899,7 +77926,7 @@
             9250,
             9250,
             9250,
-            9250,
+            9490,
             9490,
             9490,
             9490,
@@ -77950,7 +77977,7 @@
           "history": [
             6740,
             6740,
-            6740,
+            7290,
             7290,
             7290,
             7290,
@@ -94077,7 +94104,7 @@
             84790,
             84790,
             84790,
-            84790,
+            83990,
             83990,
             83990
           ]
@@ -106941,7 +106968,7 @@
             14990,
             14990,
             14990,
-            14990,
+            17290,
             17290,
             17290,
             17290,
@@ -106993,7 +107020,7 @@
             9190,
             9190,
             9190,
-            9190,
+            10890,
             10890,
             10890,
             10890,
@@ -107045,7 +107072,7 @@
             12190,
             12190,
             12190,
-            12190,
+            13190,
             13190,
             13190,
             13190,
@@ -107097,7 +107124,7 @@
             12280,
             12280,
             12280,
-            12280,
+            12690,
             12690,
             12690,
             12690,
@@ -107175,7 +107202,7 @@
             6240,
             6240,
             6240,
-            6240,
+            6690,
             6690,
             6690,
             6690,
@@ -107227,7 +107254,7 @@
             7340,
             7340,
             7340,
-            7340,
+            7690,
             7690,
             7690,
             7690,
@@ -107305,7 +107332,7 @@
             4740,
             4740,
             4740,
-            4740,
+            4490,
             4490,
             4490,
             4490,
@@ -107357,7 +107384,7 @@
             3090,
             3090,
             3090,
-            3090,
+            3190,
             3190,
             3190,
             3190,
@@ -107406,6 +107433,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS010-850W-Gaming-PC-Power-Supply-Semi-Modular-PakByte-Computers-24397785432131.webp?v=1753679418",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps010-850w-gaming-pc-power-supply-semi-modular",
           "history": [
+            22490,
             22490,
             22490,
             22490,
@@ -107483,6 +107511,7 @@
             11190,
             11190,
             11190,
+            11190,
             11190
           ]
         },
@@ -107505,6 +107534,7 @@
             10190,
             10190,
             10190,
+            10190,
             10190
           ]
         },
@@ -107520,6 +107550,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS001-500W-Gaming-PC-Power-Supply-PakByte-Computers-24397784547395.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps001-500w-gaming-pc-power-supply",
           "history": [
+            8690,
             8690,
             8690,
             8690,
@@ -108403,7 +108434,7 @@
             11190,
             11190,
             11190,
-            11190,
+            11990,
             11990,
             11990,
             11990,
@@ -108481,7 +108512,7 @@
             13170,
             13170,
             13170,
-            13170,
+            14190,
             14190,
             14190,
             14190,
@@ -108637,7 +108668,7 @@
             13990,
             13990,
             13990,
-            13990,
+            16190,
             16190,
             16190,
             16190,
@@ -108663,7 +108694,7 @@
             11100,
             11100,
             11100,
-            11100,
+            11990,
             11990,
             11990,
             11990,
@@ -108975,7 +109006,7 @@
             8890,
             8890,
             8890,
-            8890,
+            10890,
             10890,
             10890,
             10890,
@@ -109024,6 +109055,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512-Shiva-RGB-Backlit-Membrane-Gaming-Keyboard-PakByte-Computers-24397753450563.webp?v=1753679690",
           "url": "https://www.pakbyte.pk/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard",
           "history": [
+            6190,
             6190,
             6190,
             6190,
@@ -110323,7 +110355,7 @@
             5790,
             5790,
             5790,
-            5790,
+            5390,
             5390,
             5390,
             5390,
@@ -110349,7 +110381,7 @@
             2599,
             2599,
             2599,
-            2599,
+            2570,
             2570,
             2570,
             2570,
@@ -110375,7 +110407,7 @@
             2060,
             2060,
             2060,
-            2060,
+            2190,
             2190,
             2190,
             2190,
@@ -110401,7 +110433,7 @@
             1640,
             1640,
             1640,
-            1640,
+            1690,
             1690,
             1690,
             1690,
@@ -110427,7 +110459,7 @@
             3440,
             3440,
             3440,
-            3440,
+            3690,
             3690,
             3690,
             3690,
@@ -110453,7 +110485,7 @@
             1540,
             1540,
             1540,
-            1540,
+            1660,
             1660,
             1660,
             1660,
@@ -110479,7 +110511,7 @@
             4380,
             4380,
             4380,
-            4380,
+            4690,
             4690,
             4690,
             4690,
@@ -110531,7 +110563,7 @@
             1590,
             1590,
             1590,
-            1590,
+            1690,
             1690,
             1690,
             1690,
@@ -110561,6 +110593,7 @@
             3370,
             3370,
             3370,
+            3370,
             3370
           ]
         },
@@ -110579,7 +110612,7 @@
             2490,
             2490,
             2490,
-            2490,
+            2290,
             2290,
             2290,
             2290,
@@ -114745,7 +114778,7 @@
             25190,
             25190,
             25190,
-            25190,
+            23990,
             23990,
             23990
           ]
@@ -115337,7 +115370,7 @@
             5220,
             5220,
             5220,
-            5220,
+            5590,
             5590,
             5590,
             5590,
@@ -115388,7 +115421,7 @@
           "history": [
             4540,
             4540,
-            4540,
+            5090,
             5090,
             5090,
             5090,
@@ -115492,7 +115525,7 @@
           "history": [
             5399,
             5399,
-            5399,
+            5690,
             5690,
             5690,
             5690,
@@ -115518,7 +115551,7 @@
           "history": [
             7640,
             7640,
-            7640,
+            7990,
             7990,
             7990,
             7990,
@@ -117527,7 +117560,7 @@
             154990,
             154990,
             154990,
-            154990,
+            153990,
             153990,
             153990
           ]
@@ -119217,7 +119250,7 @@
             83790,
             83790,
             83790,
-            83790,
+            85990,
             85990,
             85990
           ]
@@ -120137,8 +120170,8 @@
           "name": "Sapphire Pulse Radeon RX 6600 AMD 8GB Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 58490,
-          "oldPrice": null,
+          "price": 66999,
+          "oldPrice": 58490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Pulse-Radeon-RX-6600-AMD-8GB-Graphics-Card-PakByte-Computers-24397534724163.webp?v=1753681587",
@@ -120155,7 +120188,7 @@
             58490,
             58490,
             58490,
-            58490
+            66999
           ]
         },
         {
@@ -120984,7 +121017,7 @@
             71990,
             71990,
             71990,
-            71990,
+            74990,
             74990,
             74990,
             74990
@@ -123819,7 +123852,7 @@
             87790,
             87790,
             87790,
-            87790,
+            86990,
             86990,
             86990
           ]
@@ -123845,7 +123878,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990
           ]
@@ -125323,7 +125356,7 @@
             21990,
             21990,
             21990,
-            21990,
+            23990,
             23990,
             23990,
             23990,
@@ -128363,7 +128396,7 @@
             3990,
             3990,
             3990,
-            3990,
+            3890,
             3890,
             3890,
             3890,
@@ -130865,7 +130898,7 @@
             77990,
             77990,
             77990,
-            77990,
+            75990,
             75990,
             75990
           ]
@@ -133199,7 +133232,7 @@
             20990,
             20990,
             20990,
-            20990,
+            24790,
             24790,
             24790,
             24790,
@@ -133225,7 +133258,7 @@
             15990,
             15990,
             15990,
-            15990,
+            18090,
             18090,
             18090,
             18090,
@@ -133406,7 +133439,7 @@
           "category": "mouse",
           "price": 9999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0910/1806/8251/files/Rapoo-MT760-Bluetooth-Wireless-Mouse-Price-in-Pakistan-PakDukaan.jpg?v=1771913262",
           "url": "https://www.pakdukaan.pk/products/rapoo-mt760-multi-device-multi-mode-connection-bluetooth-wireless-mouse",
@@ -148429,6 +148462,7 @@
           "url": "https://rbtechngames.com/product/msi-geforce-gtx-1660-ti-armor-6gb-graphics-card-used",
           "history": [
             54999,
+            54999,
             54999
           ]
         },
@@ -148445,6 +148479,7 @@
           "url": "https://rbtechngames.com/product/steelseries-qck-cloth-gaming-mouse-pad-large-black-white",
           "history": [
             5499,
+            5499,
             5499
           ]
         },
@@ -148460,6 +148495,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_vector_16_hx_ai.webp",
           "url": "https://rbtechngames.com/product/msi-vector-16-hx-ai-a2xwhg-061us-intel-core-ultra-7-16gb-ram-512gb-ssd-rtx-5070-ti-16-fhd-144hz-ips-display-cosmo-gray-used",
           "history": [
+            649999,
             649999,
             649999,
             649999,
@@ -148483,6 +148519,7 @@
             744999,
             744999,
             744999,
+            744999,
             744999
           ]
         },
@@ -148498,6 +148535,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_raider_ge68_hx.webp",
           "url": "https://rbtechngames.com/product/msi-raider-ge68-hx-13vf-062us-intel-i9-13th-gen-16gb-ram-1tb-ssd-rtx-4060-16-fhd-144hz-ips-display-core-black-used",
           "history": [
+            359999,
             359999,
             359999,
             359999,
@@ -148521,6 +148559,7 @@
             634999,
             634999,
             634999,
+            634999,
             634999
           ]
         },
@@ -148536,6 +148575,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_lenovo_legion_7_16agp11_glacier_white.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-legion-7-16agp11-amd-ryzen-ai-7-32gb-ram-1tb-ssd-rtx-5060-16-2k-240hz-oled-display-glacier-white-open-box",
           "history": [
+            644999,
             644999,
             644999,
             644999,
@@ -148559,6 +148599,7 @@
             289999,
             289999,
             289999,
+            289999,
             289999
           ]
         },
@@ -148574,6 +148615,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_omen_16_slim_2025_shadow_black_2.webp",
           "url": "https://rbtechngames.com/product/hp-omen-16-slim-an0119nr-intel-core-9-285h-16gb-ram-1tb-ssd-rtx-5070-16-qhd-240hz-ips-display-shadow-black-open-box",
           "history": [
+            534999,
             534999,
             534999,
             534999,
@@ -148597,6 +148639,7 @@
             724999,
             724999,
             724999,
+            724999,
             724999
           ]
         },
@@ -148612,6 +148655,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/03/rbtech_asus_prime_radeon_9070_xt_16gb_oc_white.webp",
           "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-white-oc-edition-16gb-graphics-card-used",
           "history": [
+            249999,
             249999,
             249999,
             249999,
@@ -149966,7 +150010,7 @@
             41999,
             41999,
             41999,
-            41999,
+            38499,
             38499,
             38499,
             38499,
@@ -151457,32 +151501,6 @@
           ]
         },
         {
-          "id": "rbtechgames_cd4c5ec2",
-          "name": "HP HyperX Omen 15, AMD Ryzen AI 7 450, 16GB RAM, 512GB SSD, RTX 5050, 15.3&#8243; FHD+ 165",
-          "brand": "HyperX",
-          "category": "gpu",
-          "price": 364999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hyperx_omen_15.webp",
-          "url": "https://rbtechngames.com/product/hp-hyperx-omen-15-amd-ryzen-ai-7-450-16gb-ram-512gb-ssd-rtx-5050-15-3-fhd-165hz-ips-display-shadow-black-used",
-          "history": [
-            364999,
-            364999,
-            364999,
-            364999,
-            364999,
-            364999,
-            364999,
-            364999,
-            364999,
-            364999,
-            364999,
-            364999
-          ]
-        },
-        {
           "id": "rbtechgames_93130e4e",
           "name": "Dell G15 5525, AMD Ryzen 7 6800H, 16GB RAM, 512GB SSD, RTX 3060, 15.6&#8243; FHD 165Hz Dis",
           "brand": "AMD",
@@ -152185,32 +152203,6 @@
           ]
         },
         {
-          "id": "rbtechgames_0da62124",
-          "name": "MCHOSE A7 V2 Ultra Plus Lightweight Wireless Gaming Mouse &#8211; Black/White/Rose Red/Pin",
-          "brand": "MCHOSE",
-          "category": "mouse",
-          "price": 22999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_mchose_a7_v2_ultra_plus_black.webp",
-          "url": "https://rbtechngames.com/product/mchose-a7-v2-ultra-plus-lightweight-wireless-gaming-mouse-black-white-rose-red-pink",
-          "history": [
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999
-          ]
-        },
-        {
           "id": "rbtechgames_9e080c91",
           "name": "Asus ROG Astral GeForce RTX 5090 32GB White OC Edition Graphics Card",
           "brand": "ASUS",
@@ -152308,7 +152300,7 @@
             241999,
             241999,
             241999,
-            241999,
+            254999,
             254999,
             254999,
             254999
@@ -152719,7 +152711,7 @@
             116999,
             116999,
             116999,
-            116999,
+            118999,
             118999,
             118999,
             118999,
@@ -154875,6 +154867,7 @@
           "url": "https://rbtechngames.com/product/logitech-mx-keys-combo-for-business-gen-2-wireless-gaming-keyboard-and-mouse",
           "history": [
             60999,
+            60999,
             60999
           ]
         },
@@ -155211,7 +155204,7 @@
             109999,
             109999,
             109999,
-            109999,
+            149999,
             149999,
             149999
           ]
@@ -155702,7 +155695,7 @@
             40499,
             40499,
             40499,
-            40499,
+            38999,
             38999,
             38999,
             38999,
@@ -158557,6 +158550,7 @@
           "url": "https://rbtechngames.com/product/steelseries-qck-heavy-gaming-mouse-pad-medium",
           "history": [
             5999,
+            5999,
             5999
           ]
         },
@@ -158572,6 +158566,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_prism_cloth_medium.jpg",
           "url": "https://rbtechngames.com/product/steelseries-qck-prism-cloth-gaming-mouse-pad-medium",
           "history": [
+            9999,
             9999,
             9999
           ]
