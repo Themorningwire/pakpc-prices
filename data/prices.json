@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T22:46:57.136040+00:00",
+  "lastUpdated": "2026-10-08T04:43:33.959090+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-PORTABLE-LED-16T3FE-Price-in-Pakistan-Pakbyte_2.avif?v=1791383942",
           "url": "https://www.pakbyte.pk/products/aoc-agon-16t3fe-portable-monitor",
           "history": [
+            33990,
             33990
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/zotac-rtx-3060-blower-edition-pakbyte.jpg?v=1791380036",
           "url": "https://www.pakbyte.pk/products/zotac-geforce-rtx-3060-blower-edition-12gb-graphics-card",
           "history": [
+            93999,
             93999
           ]
         },
@@ -50,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K689-Wired-Gasket-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1791216804",
           "url": "https://www.pakbyte.pk/products/redragon-wyvern-k689-wired-mechanical-gaming-keyboard",
           "history": [
+            15490,
             15490,
             15490,
             15490,
@@ -75,6 +78,7 @@
             11090,
             11090,
             11090,
+            11090,
             11090
           ]
         },
@@ -90,6 +94,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K628WG-POLLUX-Wired-Mechanical-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1791213348",
           "url": "https://www.pakbyte.pk/products/redragon-k628wg-pollux-wired-mechanical-keyboard-white-grey",
           "history": [
+            10390,
             10390,
             10390,
             10390,
@@ -2278,7 +2283,7 @@
             69790,
             69790,
             69790,
-            69790,
+            69990,
             69990,
             69990
           ]
@@ -3058,7 +3063,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990
           ]
@@ -3084,7 +3089,7 @@
             51790,
             51790,
             51790,
-            51790,
+            49990,
             49990,
             49990
           ]
@@ -3110,7 +3115,7 @@
             53790,
             53790,
             53790,
-            53790,
+            53990,
             53990,
             53990
           ]
@@ -3136,7 +3141,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44490,
             44490,
             44490
           ]
@@ -3162,7 +3167,7 @@
             37490,
             37490,
             37490,
-            37490,
+            35990,
             35990,
             35990
           ]
@@ -3188,7 +3193,7 @@
             33490,
             33490,
             33490,
-            33490,
+            30990,
             30990,
             30990
           ]
@@ -10101,6 +10106,7 @@
             7790,
             7790,
             7790,
+            7790,
             7790
           ]
         },
@@ -10146,7 +10152,7 @@
             7799,
             7799,
             7799,
-            7799,
+            7990,
             7990,
             7990,
             7990,
@@ -11966,7 +11972,7 @@
             4480,
             4480,
             4480,
-            4480,
+            4890,
             4890,
             4890,
             4890,
@@ -12018,7 +12024,7 @@
             7140,
             7140,
             7140,
-            7140,
+            7990,
             7990,
             7990,
             7990,
@@ -12044,7 +12050,7 @@
             12990,
             12990,
             12990,
-            12990,
+            14790,
             14790,
             14790,
             14790,
@@ -12122,7 +12128,7 @@
             14650,
             14650,
             14650,
-            14650,
+            15790,
             15790,
             15790,
             15790,
@@ -12829,7 +12835,7 @@
             111990,
             111990,
             111990,
-            111990,
+            110990,
             110990,
             110990
           ]
@@ -12855,7 +12861,7 @@
             41490,
             41490,
             41490,
-            41490,
+            39990,
             39990,
             39990
           ]
@@ -12881,7 +12887,7 @@
             90790,
             90790,
             90790,
-            90790,
+            91990,
             91990,
             91990
           ]
@@ -19953,7 +19959,7 @@
             73790,
             73790,
             73790,
-            73790,
+            72490,
             72490,
             72490
           ]
@@ -20987,7 +20993,7 @@
             26490,
             26490,
             26490,
-            26490,
+            27490,
             27490,
             27490,
             27490,
@@ -22158,7 +22164,7 @@
             11890,
             11890,
             11890,
-            11890,
+            12990,
             12990,
             12990,
             12990,
@@ -22553,7 +22559,7 @@
             49990,
             49990,
             49990,
-            49990,
+            55499,
             55499,
             55499
           ]
@@ -27826,7 +27832,7 @@
             1399,
             1399,
             1399,
-            1399,
+            1190,
             1190,
             1190,
             1190,
@@ -30754,7 +30760,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 98990,
-          "oldPrice": 100790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VP2756A-2K-27-120Hz-IPS-Monitor-Price-in-Pakistan-Pakbyte.webp?v=1766995581",
@@ -30770,7 +30776,7 @@
             100790,
             100790,
             100790,
-            100790,
+            98990,
             98990
           ]
         },
@@ -30838,6 +30844,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
           "url": "https://www.pakbyte.pk/products/viewsonic-va240a-h-24-inch-hd-monitor",
           "history": [
+            27990,
             27990,
             27990
           ]
@@ -32720,7 +32727,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 51990,
-          "oldPrice": 46300,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va1655-portable-monitor-price-in-pakistan-pakbyte_2.webp?v=1766387035",
@@ -32736,7 +32743,7 @@
             46300,
             46300,
             46300,
-            46300,
+            51990,
             51990
           ]
         },
@@ -36396,7 +36403,7 @@
             6290,
             6290,
             6290,
-            6290,
+            7090,
             7090,
             7090,
             7090,
@@ -36422,7 +36429,7 @@
             4890,
             4890,
             4890,
-            4890,
+            5190,
             5190,
             5190,
             5190,
@@ -36448,7 +36455,7 @@
             6999,
             6999,
             6999,
-            6999,
+            6990,
             6990,
             6990,
             6990,
@@ -39755,7 +39762,7 @@
             80990,
             80990,
             80990,
-            80990,
+            93990,
             93990,
             93990
           ]
@@ -39781,7 +39788,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990
           ]
@@ -39807,7 +39814,7 @@
             49490,
             49490,
             49490,
-            49490,
+            47990,
             47990,
             47990
           ]
@@ -39833,7 +39840,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29990,
             29990,
             29990
           ]
@@ -45158,7 +45165,7 @@
             6590,
             6590,
             6590,
-            6590,
+            7290,
             7290,
             7290,
             7290,
@@ -45184,7 +45191,7 @@
             12090,
             12090,
             12090,
-            12090,
+            13990,
             13990,
             13990,
             13990,
@@ -45210,7 +45217,7 @@
             12590,
             12590,
             12590,
-            12590,
+            16590,
             16590,
             16590,
             16590,
@@ -45236,7 +45243,7 @@
             11890,
             11890,
             11890,
-            11890,
+            13990,
             13990,
             13990,
             13990,
@@ -45314,7 +45321,7 @@
             3340,
             3340,
             3340,
-            3340,
+            3690,
             3690,
             3690,
             3690,
@@ -45340,7 +45347,7 @@
             4840,
             4840,
             4840,
-            4840,
+            5290,
             5290,
             5290,
             5290,
@@ -45447,6 +45454,7 @@
             7990,
             7990,
             7990,
+            7990,
             7990
           ]
         },
@@ -45465,7 +45473,7 @@
             2890,
             2890,
             2890,
-            2890,
+            3890,
             3890,
             3890,
             3890,
@@ -47993,7 +48001,7 @@
             107990,
             107990,
             107990,
-            107990,
+            126999,
             126999,
             126999
           ]
@@ -50380,7 +50388,7 @@
             4990,
             4990,
             4990,
-            4990,
+            4790,
             4790,
             4790,
             4790,
@@ -50458,7 +50466,7 @@
             15090,
             15090,
             15090,
-            15090,
+            16290,
             16290,
             16290,
             16290,
@@ -50484,7 +50492,7 @@
             15290,
             15290,
             15290,
-            15290,
+            17890,
             17890,
             17890,
             17890,
@@ -50512,6 +50520,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -50531,7 +50540,7 @@
             13290,
             13290,
             13290,
-            13290,
+            16690,
             16690,
             16690,
             16690,
@@ -50557,7 +50566,7 @@
             13990,
             13990,
             13990,
-            13990,
+            15990,
             15990,
             15990,
             15990,
@@ -50609,7 +50618,7 @@
             1050,
             1050,
             1050,
-            1050,
+            1130,
             1130,
             1130,
             1130,
@@ -50661,7 +50670,7 @@
             7890,
             7890,
             7890,
-            7890,
+            8890,
             8890,
             8890,
             8890,
@@ -57255,7 +57264,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 96990,
-          "oldPrice": 95790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vp3481a-monitor-price-in-pakistan_1.webp?v=1753859949",
@@ -57271,7 +57280,7 @@
             95790,
             95790,
             95790,
-            95790,
+            96990,
             96990
           ]
         },
@@ -57281,7 +57290,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 204990,
-          "oldPrice": 206990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vp3481a-monitor-price-in-pakistan.webp?v=1753859400",
@@ -57297,7 +57306,7 @@
             206990,
             206990,
             206990,
-            206990,
+            204990,
             204990
           ]
         },
@@ -57307,7 +57316,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 179990,
-          "oldPrice": 191790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vp3256-4k-monitor-price-in-pakistan_1.webp?v=1753858541",
@@ -57323,7 +57332,7 @@
             191790,
             191790,
             191790,
-            191790,
+            179990,
             179990
           ]
         },
@@ -57400,7 +57409,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44990,
             44990,
             44990
           ]
@@ -57426,7 +57435,7 @@
             35490,
             35490,
             35490,
-            35490,
+            34490,
             34490,
             34490
           ]
@@ -57452,7 +57461,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990
           ]
@@ -60047,6 +60056,7 @@
             21490,
             21490,
             21490,
+            21490,
             21490
           ]
         },
@@ -60066,7 +60076,7 @@
             10890,
             10890,
             10890,
-            10890,
+            13490,
             13490,
             13490,
             13490,
@@ -62775,7 +62785,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999
           ]
@@ -62801,7 +62811,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999
           ]
@@ -72156,6 +72166,7 @@
             24490,
             24490,
             24490,
+            24490,
             24490
           ]
         },
@@ -72171,6 +72182,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
+            24490,
             24490,
             24490,
             24490,
@@ -72376,7 +72388,7 @@
             7490,
             7490,
             7490,
-            7490,
+            7990,
             7990,
             7990,
             7990,
@@ -72428,7 +72440,7 @@
             13190,
             13190,
             13190,
-            13190,
+            15690,
             15690,
             15690,
             15690,
@@ -72636,7 +72648,7 @@
             13150,
             13150,
             13150,
-            13150,
+            13990,
             13990,
             13990,
             13990,
@@ -72869,7 +72881,7 @@
             5799,
             5799,
             5799,
-            5799,
+            5990,
             5990,
             5990,
             5990,
@@ -77134,7 +77146,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5250,
             5250,
             5250,
             5250,
@@ -77186,7 +77198,7 @@
             4990,
             4990,
             4990,
-            4990,
+            5290,
             5290,
             5290,
             5290,
@@ -77238,7 +77250,7 @@
             3840,
             3840,
             3840,
-            3840,
+            4150,
             4150,
             4150,
             4150,
@@ -77264,7 +77276,7 @@
             13490,
             13490,
             13490,
-            13490,
+            15490,
             15490,
             15490,
             15490,
@@ -77368,7 +77380,7 @@
             12490,
             12490,
             12490,
-            12490,
+            13490,
             13490,
             13490,
             13490,
@@ -77394,7 +77406,7 @@
             10590,
             10590,
             10590,
-            10590,
+            11990,
             11990,
             11990,
             11990,
@@ -77498,7 +77510,7 @@
             11050,
             11050,
             11050,
-            11050,
+            11390,
             11390,
             11390,
             11390,
@@ -77524,7 +77536,7 @@
             7350,
             7350,
             7350,
-            7350,
+            7920,
             7920,
             7920,
             7920,
@@ -77706,7 +77718,7 @@
             7750,
             7750,
             7750,
-            7750,
+            7880,
             7880,
             7880,
             7880,
@@ -77732,7 +77744,7 @@
             7240,
             7240,
             7240,
-            7240,
+            7960,
             7960,
             7960,
             7960,
@@ -77836,7 +77848,7 @@
             7190,
             7190,
             7190,
-            7190,
+            7290,
             7290,
             7290,
             7290,
@@ -77888,7 +77900,7 @@
             9250,
             9250,
             9250,
-            9250,
+            9490,
             9490,
             9490,
             9490,
@@ -77939,7 +77951,7 @@
             6740,
             6740,
             6740,
-            6740,
+            7290,
             7290,
             7290,
             7290,
@@ -94050,7 +94062,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 83990,
-          "oldPrice": 84790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-TD2230-60Hz-1080p-FHD-IPS-22-10-Point-Touch-Screen-Monitor-PakByte-Computers-25070388510787.jpg?v=1766243822",
@@ -94066,7 +94078,7 @@
             84790,
             84790,
             84790,
-            84790,
+            83990,
             83990
           ]
         },
@@ -106930,7 +106942,7 @@
             14990,
             14990,
             14990,
-            14990,
+            17290,
             17290,
             17290,
             17290,
@@ -106982,7 +106994,7 @@
             9190,
             9190,
             9190,
-            9190,
+            10890,
             10890,
             10890,
             10890,
@@ -107034,7 +107046,7 @@
             12190,
             12190,
             12190,
-            12190,
+            13190,
             13190,
             13190,
             13190,
@@ -107086,7 +107098,7 @@
             12280,
             12280,
             12280,
-            12280,
+            12690,
             12690,
             12690,
             12690,
@@ -107164,7 +107176,7 @@
             6240,
             6240,
             6240,
-            6240,
+            6690,
             6690,
             6690,
             6690,
@@ -107216,7 +107228,7 @@
             7340,
             7340,
             7340,
-            7340,
+            7690,
             7690,
             7690,
             7690,
@@ -107294,7 +107306,7 @@
             4740,
             4740,
             4740,
-            4740,
+            4490,
             4490,
             4490,
             4490,
@@ -107346,7 +107358,7 @@
             3090,
             3090,
             3090,
-            3090,
+            3190,
             3190,
             3190,
             3190,
@@ -107394,6 +107406,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS010-850W-Gaming-PC-Power-Supply-Semi-Modular-PakByte-Computers-24397785432131.webp?v=1753679418",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps010-850w-gaming-pc-power-supply-semi-modular",
           "history": [
+            22490,
             22490,
             22490,
             22490,
@@ -107469,6 +107482,7 @@
             11190,
             11190,
             11190,
+            11190,
             11190
           ]
         },
@@ -107490,6 +107504,7 @@
             10190,
             10190,
             10190,
+            10190,
             10190
           ]
         },
@@ -107505,6 +107520,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS001-500W-Gaming-PC-Power-Supply-PakByte-Computers-24397784547395.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps001-500w-gaming-pc-power-supply",
           "history": [
+            8690,
             8690,
             8690,
             8690,
@@ -108388,7 +108404,7 @@
             11190,
             11190,
             11190,
-            11190,
+            11990,
             11990,
             11990,
             11990,
@@ -108466,7 +108482,7 @@
             13170,
             13170,
             13170,
-            13170,
+            14190,
             14190,
             14190,
             14190,
@@ -108622,7 +108638,7 @@
             13990,
             13990,
             13990,
-            13990,
+            16190,
             16190,
             16190,
             16190,
@@ -108648,7 +108664,7 @@
             11100,
             11100,
             11100,
-            11100,
+            11990,
             11990,
             11990,
             11990,
@@ -108960,7 +108976,7 @@
             8890,
             8890,
             8890,
-            8890,
+            10890,
             10890,
             10890,
             10890,
@@ -109008,6 +109024,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512-Shiva-RGB-Backlit-Membrane-Gaming-Keyboard-PakByte-Computers-24397753450563.webp?v=1753679690",
           "url": "https://www.pakbyte.pk/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard",
           "history": [
+            6190,
             6190,
             6190,
             6190,
@@ -110307,7 +110324,7 @@
             5790,
             5790,
             5790,
-            5790,
+            5390,
             5390,
             5390,
             5390,
@@ -110333,7 +110350,7 @@
             2599,
             2599,
             2599,
-            2599,
+            2570,
             2570,
             2570,
             2570,
@@ -110359,7 +110376,7 @@
             2060,
             2060,
             2060,
-            2060,
+            2190,
             2190,
             2190,
             2190,
@@ -110385,7 +110402,7 @@
             1640,
             1640,
             1640,
-            1640,
+            1690,
             1690,
             1690,
             1690,
@@ -110411,7 +110428,7 @@
             3440,
             3440,
             3440,
-            3440,
+            3690,
             3690,
             3690,
             3690,
@@ -110437,7 +110454,7 @@
             1540,
             1540,
             1540,
-            1540,
+            1660,
             1660,
             1660,
             1660,
@@ -110463,7 +110480,7 @@
             4380,
             4380,
             4380,
-            4380,
+            4690,
             4690,
             4690,
             4690,
@@ -110515,7 +110532,7 @@
             1590,
             1590,
             1590,
-            1590,
+            1690,
             1690,
             1690,
             1690,
@@ -110543,6 +110560,7 @@
             3370,
             3370,
             3370,
+            3370,
             3370
           ]
         },
@@ -110562,7 +110580,7 @@
             2490,
             2490,
             2490,
-            2490,
+            2290,
             2290,
             2290,
             2290,
@@ -114712,7 +114730,7 @@
           "brand": "AOC",
           "category": "ram",
           "price": 23990,
-          "oldPrice": 25190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-22B3HM-3-Sided-Frameless-21-5-Inches-75Hz-FHD-LED-Monitor-PakByte-Computers-24397647151171.webp?v=1753680585",
@@ -114728,7 +114746,7 @@
             25190,
             25190,
             25190,
-            25190,
+            23990,
             23990
           ]
         },
@@ -115320,7 +115338,7 @@
             5220,
             5220,
             5220,
-            5220,
+            5590,
             5590,
             5590,
             5590,
@@ -115371,7 +115389,7 @@
             4540,
             4540,
             4540,
-            4540,
+            5090,
             5090,
             5090,
             5090,
@@ -115475,7 +115493,7 @@
             5399,
             5399,
             5399,
-            5399,
+            5690,
             5690,
             5690,
             5690,
@@ -115501,7 +115519,7 @@
             7640,
             7640,
             7640,
-            7640,
+            7990,
             7990,
             7990,
             7990,
@@ -117494,7 +117512,7 @@
           "brand": "ViewSonic",
           "category": "ram",
           "price": 153990,
-          "oldPrice": 154990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VP2756-4K-27-4K-UHD-Pantone-Validated-100-sRGB-Factory-Pre-Calibrated-IPS-Monitor-with-60W-USB-C-PakByte-Computers-24397599342659.webp?v=1753681050",
@@ -117510,7 +117528,7 @@
             154990,
             154990,
             154990,
-            154990,
+            153990,
             153990
           ]
         },
@@ -119184,7 +119202,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 85990,
-          "oldPrice": 83790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/VIEWSONIC-TD2423-24-IR-Touch-Monitor-PakByte-Computers-24397567230019.webp?v=1753681340",
@@ -119200,7 +119218,7 @@
             83790,
             83790,
             83790,
-            83790,
+            85990,
             85990
           ]
         },
@@ -120967,7 +120985,7 @@
             71990,
             71990,
             71990,
-            71990,
+            74990,
             74990,
             74990
           ]
@@ -123786,7 +123804,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 86990,
-          "oldPrice": 87790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-TD1655-15-6-Inch-1080p-Portable-Monitor-with-IPS-Touchscreen-2-Way-Powered-60W-USB-C-Built-in-Stand-with-Cover-PakByte-Computers-24397447921731.webp?v=1753682211",
@@ -123802,7 +123820,7 @@
             87790,
             87790,
             87790,
-            87790,
+            86990,
             86990
           ]
         },
@@ -123812,7 +123830,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 68990,
-          "oldPrice": 70790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-162B9T-16-HD-inch-Touch-Monitor-60Hz-4ms-TN-Speakers-Height-Adjust-1366-x-768-220-cd-m-HDMI-DVI-VGA-DP-USB-3-1-PakByte-Computers-24397447364675.webp?v=1753682223",
@@ -123828,7 +123846,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990
           ]
         },
@@ -125306,7 +125324,7 @@
             21990,
             21990,
             21990,
-            21990,
+            23990,
             23990,
             23990,
             23990,
@@ -128346,7 +128364,7 @@
             3990,
             3990,
             3990,
-            3990,
+            3890,
             3890,
             3890,
             3890,
@@ -130832,7 +130850,7 @@
           "brand": "VIEWSONIC",
           "category": "monitor",
           "price": 75990,
-          "oldPrice": 77990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/VIEWSONICTOUCH-LED-EP1042T-10-10-Point-Touch-25ms-LED-Pannel-1280x800-HDMI-Micro-USB-SPEAKER-Vesa-Mount-PakByte-Computers-24397098221635.jpg?v=1753683996",
@@ -130848,7 +130866,7 @@
             77990,
             77990,
             77990,
-            77990,
+            75990,
             75990
           ]
         },
@@ -133182,7 +133200,7 @@
             20990,
             20990,
             20990,
-            20990,
+            24790,
             24790,
             24790,
             24790,
@@ -133208,7 +133226,7 @@
             15990,
             15990,
             15990,
-            15990,
+            18090,
             18090,
             18090,
             18090,
@@ -148410,6 +148428,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_gtx_1660_ti_armor_6gb.webp",
           "url": "https://rbtechngames.com/product/msi-geforce-gtx-1660-ti-armor-6gb-graphics-card-used",
           "history": [
+            54999,
             54999
           ]
         },
@@ -148425,6 +148444,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_steelseries_qck_cloth_large_black.webp",
           "url": "https://rbtechngames.com/product/steelseries-qck-cloth-gaming-mouse-pad-large-black-white",
           "history": [
+            5499,
             5499
           ]
         },
@@ -148440,6 +148460,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_vector_16_hx_ai.webp",
           "url": "https://rbtechngames.com/product/msi-vector-16-hx-ai-a2xwhg-061us-intel-core-ultra-7-16gb-ram-512gb-ssd-rtx-5070-ti-16-fhd-144hz-ips-display-cosmo-gray-used",
           "history": [
+            649999,
             649999,
             649999,
             649999,
@@ -148461,6 +148482,7 @@
             744999,
             744999,
             744999,
+            744999,
             744999
           ]
         },
@@ -148476,6 +148498,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_raider_ge68_hx.webp",
           "url": "https://rbtechngames.com/product/msi-raider-ge68-hx-13vf-062us-intel-i9-13th-gen-16gb-ram-1tb-ssd-rtx-4060-16-fhd-144hz-ips-display-core-black-used",
           "history": [
+            359999,
             359999,
             359999,
             359999,
@@ -148497,6 +148520,7 @@
             634999,
             634999,
             634999,
+            634999,
             634999
           ]
         },
@@ -148512,6 +148536,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_lenovo_legion_7_16agp11_glacier_white.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-legion-7-16agp11-amd-ryzen-ai-7-32gb-ram-1tb-ssd-rtx-5060-16-2k-240hz-oled-display-glacier-white-open-box",
           "history": [
+            644999,
             644999,
             644999,
             644999,
@@ -148533,6 +148558,7 @@
             289999,
             289999,
             289999,
+            289999,
             289999
           ]
         },
@@ -148548,6 +148574,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_omen_16_slim_2025_shadow_black_2.webp",
           "url": "https://rbtechngames.com/product/hp-omen-16-slim-an0119nr-intel-core-9-285h-16gb-ram-1tb-ssd-rtx-5070-16-qhd-240hz-ips-display-shadow-black-open-box",
           "history": [
+            534999,
             534999,
             534999,
             534999,
@@ -148569,6 +148596,7 @@
             724999,
             724999,
             724999,
+            724999,
             724999
           ]
         },
@@ -148584,6 +148612,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/03/rbtech_asus_prime_radeon_9070_xt_16gb_oc_white.webp",
           "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-white-oc-edition-16gb-graphics-card-used",
           "history": [
+            249999,
             249999,
             249999,
             249999,
@@ -149938,7 +149967,7 @@
             41999,
             41999,
             41999,
-            41999,
+            38499,
             38499,
             38499,
             38499,
@@ -152280,7 +152309,7 @@
             241999,
             241999,
             241999,
-            241999,
+            254999,
             254999,
             254999
           ]
@@ -152691,7 +152720,7 @@
             116999,
             116999,
             116999,
-            116999,
+            118999,
             118999,
             118999,
             118999,
@@ -154845,6 +154874,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_logitech_mx_keys_combo_for_business_gen_2.jpg",
           "url": "https://rbtechngames.com/product/logitech-mx-keys-combo-for-business-gen-2-wireless-gaming-keyboard-and-mouse",
           "history": [
+            60999,
             60999
           ]
         },
@@ -155166,7 +155196,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 149999,
-          "oldPrice": 109999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_zotac_rtx_5060_twin_edge_8gb.jpg",
@@ -155182,7 +155212,7 @@
             109999,
             109999,
             109999,
-            109999,
+            149999,
             149999
           ]
         },
@@ -155673,7 +155703,7 @@
             40499,
             40499,
             40499,
-            40499,
+            38999,
             38999,
             38999,
             38999,
@@ -158526,6 +158556,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_heavy_medium.jpg",
           "url": "https://rbtechngames.com/product/steelseries-qck-heavy-gaming-mouse-pad-medium",
           "history": [
+            5999,
             5999
           ]
         },
@@ -158541,6 +158572,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_prism_cloth_medium.jpg",
           "url": "https://rbtechngames.com/product/steelseries-qck-prism-cloth-gaming-mouse-pad-medium",
           "history": [
+            9999,
             9999
           ]
         },
