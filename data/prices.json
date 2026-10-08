@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T12:52:59.540194+00:00",
+  "lastUpdated": "2026-10-08T22:58:05.958200+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-22b40hm-monitor-price-in-pakistan-pakbyte_1.webp?v=1791441065",
           "url": "https://www.pakbyte.pk/products/aoc-22b40hm-21-45-full-hd-va-gaming-monitor",
           "history": [
+            23490,
             23490
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-PORTABLE-LED-16T3FE-Price-in-Pakistan-Pakbyte_2.avif?v=1791383942",
           "url": "https://www.pakbyte.pk/products/aoc-agon-16t3fe-portable-monitor",
           "history": [
+            33990,
             33990,
             33990,
             33990
@@ -54,6 +56,7 @@
           "history": [
             93999,
             93999,
+            93999,
             93999
           ]
         },
@@ -69,6 +72,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K689-Wired-Gasket-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1791216804",
           "url": "https://www.pakbyte.pk/products/redragon-wyvern-k689-wired-mechanical-gaming-keyboard",
           "history": [
+            15490,
             15490,
             15490,
             15490,
@@ -98,6 +102,7 @@
             11090,
             11090,
             11090,
+            11090,
             11090
           ]
         },
@@ -113,6 +118,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K628WG-POLLUX-Wired-Mechanical-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1791213348",
           "url": "https://www.pakbyte.pk/products/redragon-k628wg-pollux-wired-mechanical-keyboard-white-grey",
           "history": [
+            10390,
             10390,
             10390,
             10390,
@@ -2301,7 +2307,7 @@
             69790,
             69790,
             69790,
-            69790,
+            69990,
             69990,
             69990,
             69990,
@@ -3081,7 +3087,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -3107,7 +3113,7 @@
             51790,
             51790,
             51790,
-            51790,
+            49990,
             49990,
             49990,
             49990,
@@ -3133,7 +3139,7 @@
             53790,
             53790,
             53790,
-            53790,
+            53990,
             53990,
             53990,
             53990,
@@ -3159,7 +3165,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44490,
             44490,
             44490,
             44490,
@@ -3185,7 +3191,7 @@
             37490,
             37490,
             37490,
-            37490,
+            35990,
             35990,
             35990,
             35990,
@@ -3211,7 +3217,7 @@
             33490,
             33490,
             33490,
-            33490,
+            30990,
             30990,
             30990,
             30990,
@@ -3223,8 +3229,8 @@
           "name": "ViewSonic XG2738-2K-OLED 27\" 240Hz QD-OLED Gaming Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 160790,
-          "oldPrice": null,
+          "price": 158990,
+          "oldPrice": 160790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-xg2738-2k-oled-27-gaming-monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1787117716",
@@ -3241,7 +3247,7 @@
             160790,
             160790,
             160790,
-            160790
+            158990
           ]
         },
         {
@@ -3249,8 +3255,8 @@
           "name": "AOC CU34G4H 200Hz 34\" Curved Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 97790,
-          "oldPrice": null,
+          "price": 95990,
+          "oldPrice": 97790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-cu34g4h-price-in-pakistan-pakbyte_1.webp?v=1787037460",
@@ -3267,7 +3273,7 @@
             97790,
             97790,
             97790,
-            97790
+            95990
           ]
         },
         {
@@ -3276,7 +3282,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 45990,
-          "oldPrice": 47490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-27g50z-price-in-pakistan-pakbyte_1.webp?v=1787035868",
@@ -3292,7 +3298,7 @@
             47490,
             47490,
             47490,
-            47490,
+            45990,
             45990
           ]
         },
@@ -3302,7 +3308,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 38990,
-          "oldPrice": 40490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-27g50f-price-in-pakistan-pakbyte_1.webp?v=1787035462",
@@ -3318,7 +3324,7 @@
             40490,
             40490,
             40490,
-            40490,
+            38990,
             38990
           ]
         },
@@ -3328,7 +3334,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 32990,
-          "oldPrice": 34490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50f-price-in-pakistan-pakbyte_1.webp?v=1787034791",
@@ -3344,7 +3350,7 @@
             34490,
             34490,
             34490,
-            34490,
+            32990,
             32990
           ]
         },
@@ -5746,7 +5752,7 @@
           "brand": "Attack",
           "category": "mouse",
           "price": 7499,
-          "oldPrice": 6999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATTACK-SHARK-X8-SE-Series-Tri-mode-Lightweight-Wireless-Gaming-Mouse-Berry-Red-Price-in-Pakistan-Pakbyte.jpg?v=1784305005",
@@ -5762,7 +5768,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499
           ]
         },
@@ -10128,6 +10134,7 @@
             7790,
             7790,
             7790,
+            7790,
             7790
           ]
         },
@@ -10171,7 +10178,7 @@
           "history": [
             7799,
             7799,
-            7799,
+            7990,
             7990,
             7990,
             7990,
@@ -11991,7 +11998,7 @@
           "history": [
             4480,
             4480,
-            4480,
+            4890,
             4890,
             4890,
             4890,
@@ -12043,7 +12050,7 @@
           "history": [
             7140,
             7140,
-            7140,
+            7990,
             7990,
             7990,
             7990,
@@ -12069,7 +12076,7 @@
           "history": [
             12990,
             12990,
-            12990,
+            14790,
             14790,
             14790,
             14790,
@@ -12147,7 +12154,7 @@
           "history": [
             14650,
             14650,
-            14650,
+            15790,
             15790,
             15790,
             15790,
@@ -12854,7 +12861,7 @@
             111990,
             111990,
             111990,
-            111990,
+            110990,
             110990,
             110990,
             110990,
@@ -12880,7 +12887,7 @@
             41490,
             41490,
             41490,
-            41490,
+            39990,
             39990,
             39990,
             39990,
@@ -12906,7 +12913,7 @@
             90790,
             90790,
             90790,
-            90790,
+            91990,
             91990,
             91990,
             91990,
@@ -14452,8 +14459,8 @@
           "name": "AOC AG326UZD 31.5 inch 4K UHD 240Hz, QD-OLED Panel Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 286990,
-          "oldPrice": null,
+          "price": 284990,
+          "oldPrice": 286990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-ag326uzd-price-in-pakistan-pakbyte_1.webp?v=1777303798",
@@ -14470,7 +14477,7 @@
             286990,
             286990,
             286990,
-            286990
+            284990
           ]
         },
         {
@@ -14478,8 +14485,8 @@
           "name": "AOC Agon Pro AG276QKD2 27\", QHD 2560x1440, 500Hz QD-OLED Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 286790,
-          "oldPrice": null,
+          "price": 255990,
+          "oldPrice": 286790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-agon-pro-ag276qzd2-price-in-pakistan-pakbyte_1.webp?v=1777302228",
@@ -14496,7 +14503,7 @@
             286790,
             286790,
             286790,
-            286790
+            255990
           ]
         },
         {
@@ -14504,8 +14511,8 @@
           "name": "AOC Q27G40ZDF 240Hz 2K WQHD QD-OLED 0.03ms 27\" Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 163790,
-          "oldPrice": null,
+          "price": 161990,
+          "oldPrice": 163790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-q27g40zdf-price-in-pakistan-pakbyte_1.webp?v=1777301743",
@@ -14522,7 +14529,7 @@
             163790,
             163790,
             163790,
-            163790
+            161990
           ]
         },
         {
@@ -14530,8 +14537,8 @@
           "name": "Philips 322E1CB 32\" FHD, VA, 100Hz, 1ms MPRT, Adaptive-Sync Curved LCD Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 66790,
-          "oldPrice": null,
+          "price": 64990,
+          "oldPrice": 66790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-32E1CB-100hz-monitor-price-in-pakistan-pakbyte_5.webp?v=1777273740",
@@ -14548,7 +14555,7 @@
             66790,
             66790,
             66790,
-            66790
+            64990
           ]
         },
         {
@@ -14556,8 +14563,8 @@
           "name": "Philips 32E1N3500 - 100Hz 2K WQHD IPS 27\" Quad HD LCD Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 66790,
-          "oldPrice": null,
+          "price": 64990,
+          "oldPrice": 66790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips-32e1n3500-price-in-pakistan-pakbyte_4.webp?v=1777273011",
@@ -14574,7 +14581,7 @@
             66790,
             66790,
             66790,
-            66790
+            64990
           ]
         },
         {
@@ -19978,7 +19985,7 @@
             73790,
             73790,
             73790,
-            73790,
+            72490,
             72490,
             72490,
             72490,
@@ -19990,8 +19997,8 @@
           "name": "AOC U27G4 27\" 160Hz 4K UHD Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 103990,
-          "oldPrice": null,
+          "price": 101990,
+          "oldPrice": 103990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-U27G4-27-4K-UHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1773382096",
@@ -20008,7 +20015,7 @@
             103990,
             103990,
             103990,
-            103990
+            101990
           ]
         },
         {
@@ -20017,7 +20024,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 34990,
-          "oldPrice": 36990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-u27g4-27-uhd-160hz-price-in-pakistan-pakbyte_1.webp?v=1773380939",
@@ -20033,7 +20040,7 @@
             36990,
             36990,
             36990,
-            36990,
+            34990,
             34990
           ]
         },
@@ -20043,7 +20050,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 68990,
-          "oldPrice": 70790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-25G4K-25-QHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1773380509",
@@ -20059,7 +20066,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990
           ]
         },
@@ -20069,7 +20076,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 37990,
-          "oldPrice": 39490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50z-price-in-pakistan-pakbyte_4.webp?v=1773379757",
@@ -20085,7 +20092,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990
           ]
         },
@@ -20095,7 +20102,7 @@
           "brand": "AOC",
           "category": "monitor",
           "price": 29990,
-          "oldPrice": 31490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-3-SIDED-FRAMELESS-GAMING-LED-24B36X-Price-in-Pakistan-Pakbyte_1.jpg?v=1773379430",
@@ -20111,7 +20118,7 @@
             31490,
             31490,
             31490,
-            31490,
+            29990,
             29990
           ]
         },
@@ -21012,7 +21019,7 @@
           "url": "https://www.pakbyte.pk/products/logitech-zone-305-wireless-bluetooth-headset-with-microphone-for-business",
           "history": [
             26490,
-            26490,
+            27490,
             27490,
             27490,
             27490,
@@ -22183,7 +22190,7 @@
           "history": [
             11890,
             11890,
-            11890,
+            12990,
             12990,
             12990,
             12990,
@@ -22578,7 +22585,7 @@
             49990,
             49990,
             49990,
-            49990,
+            55499,
             55499,
             55499,
             55499,
@@ -22981,7 +22988,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 35499,
-          "oldPrice": 33990,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-peerless-vision-360-ub-lcd-argb-liquid-cpu-cooler-price-in-pakistan-pakbyte_1.jpg?v=1771947208",
@@ -22997,7 +23004,7 @@
             33990,
             33990,
             33990,
-            33990,
+            35499,
             35499
           ]
         },
@@ -23007,7 +23014,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 35499,
-          "oldPrice": 32990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-peerless-vision-360-ub-argb-black-price-in-pakistan-pakbyte_4.webp?v=1771946941",
@@ -23023,7 +23030,7 @@
             32990,
             32990,
             32990,
-            32990,
+            35499,
             35499
           ]
         },
@@ -27851,7 +27858,7 @@
           "history": [
             1399,
             1399,
-            1399,
+            1190,
             1190,
             1190,
             1190,
@@ -28258,8 +28265,8 @@
           "name": "Philips 27E1N1800A 27\" IPS 4K UHD Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 60790,
-          "oldPrice": null,
+          "price": 58990,
+          "oldPrice": 60790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips-27e1n1800a-monitor-price-in-pakistan-pakbyte_1_c94d1d7e-cc39-4c5e-8bae-ff20e22494ed.webp?v=1768806967",
@@ -28276,7 +28283,7 @@
             60790,
             60790,
             60790,
-            60790
+            58990
           ]
         },
         {
@@ -28285,7 +28292,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 33990,
-          "oldPrice": 35490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-Evnia-24M2N3200FQ-FHD-200Hz-Gaming-LED-Monitor-Price-in-Pakistan-Pakbyte_3.webp?v=1768806475",
@@ -28301,7 +28308,7 @@
             35490,
             35490,
             35490,
-            35490,
+            33990,
             33990
           ]
         },
@@ -30795,7 +30802,7 @@
             100790,
             100790,
             100790,
-            100790,
+            98990,
             98990,
             98990,
             98990
@@ -30865,6 +30872,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
           "url": "https://www.pakbyte.pk/products/viewsonic-va240a-h-24-inch-hd-monitor",
           "history": [
+            27990,
             27990,
             27990,
             27990,
@@ -32763,7 +32771,7 @@
             46300,
             46300,
             46300,
-            46300,
+            51990,
             51990,
             51990,
             51990
@@ -33528,8 +33536,8 @@
           "name": "Philips Evnia 34M2C3500L 32\" 180 Hz WQHD Curved VA Gaming Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 90790,
-          "oldPrice": null,
+          "price": 88990,
+          "oldPrice": 90790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips-34m2c3500l-price-in-pakistan-pakbyte_3.webp?v=1766227438",
@@ -33546,7 +33554,7 @@
             90790,
             90790,
             90790,
-            90790
+            88990
           ]
         },
         {
@@ -33554,8 +33562,8 @@
           "name": "AOC Q27G40ZE 27″ QHD 260Hz Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 60790,
-          "oldPrice": null,
+          "price": 59990,
+          "oldPrice": 60790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-Q27G42ZE-27-260Hz-2K-1440p-WQHD-IPS-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1766226902",
@@ -33572,7 +33580,7 @@
             60790,
             60790,
             60790,
-            60790
+            59990
           ]
         },
         {
@@ -33581,7 +33589,7 @@
           "brand": "Philips",
           "category": "monitor",
           "price": 41990,
-          "oldPrice": 43490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/philips_27m2n3200fq_27-inch_gaming_led_monitor_pakistan_pakbyte_3.webp?v=1766226447",
@@ -33597,7 +33605,7 @@
             43490,
             43490,
             43490,
-            43490,
+            41990,
             41990
           ]
         },
@@ -33606,8 +33614,8 @@
           "name": "AOC Q27G4/WS 27\" 200Hz  Fast IPS QHD Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 67790,
-          "oldPrice": null,
+          "price": 65990,
+          "oldPrice": 67790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-q27g4-ws-price-in-pakistan-pakbyte_4.webp?v=1766225895",
@@ -33624,7 +33632,7 @@
             67790,
             67790,
             67790,
-            67790
+            65990
           ]
         },
         {
@@ -36423,7 +36431,7 @@
           "history": [
             6290,
             6290,
-            6290,
+            7090,
             7090,
             7090,
             7090,
@@ -36449,7 +36457,7 @@
           "history": [
             4890,
             4890,
-            4890,
+            5190,
             5190,
             5190,
             5190,
@@ -36475,7 +36483,7 @@
           "history": [
             6999,
             6999,
-            6999,
+            6990,
             6990,
             6990,
             6990,
@@ -39782,7 +39790,7 @@
             80990,
             80990,
             80990,
-            80990,
+            93990,
             93990,
             93990,
             93990,
@@ -39808,7 +39816,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990,
             65990,
@@ -39834,7 +39842,7 @@
             49490,
             49490,
             49490,
-            49490,
+            47990,
             47990,
             47990,
             47990,
@@ -39860,7 +39868,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29990,
             29990,
             29990,
             29990,
@@ -45185,7 +45193,7 @@
           "history": [
             6590,
             6590,
-            6590,
+            7290,
             7290,
             7290,
             7290,
@@ -45211,7 +45219,7 @@
           "history": [
             12090,
             12090,
-            12090,
+            13990,
             13990,
             13990,
             13990,
@@ -45237,7 +45245,7 @@
           "history": [
             12590,
             12590,
-            12590,
+            16590,
             16590,
             16590,
             16590,
@@ -45263,7 +45271,7 @@
           "history": [
             11890,
             11890,
-            11890,
+            13990,
             13990,
             13990,
             13990,
@@ -45341,7 +45349,7 @@
           "history": [
             3340,
             3340,
-            3340,
+            3690,
             3690,
             3690,
             3690,
@@ -45367,7 +45375,7 @@
           "history": [
             4840,
             4840,
-            4840,
+            5290,
             5290,
             5290,
             5290,
@@ -45478,6 +45486,7 @@
             7990,
             7990,
             7990,
+            7990,
             7990
           ]
         },
@@ -45494,7 +45503,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-m816-deicide-basic-4000-dpi-rgb-gaming-mouse",
           "history": [
             2890,
-            2890,
+            3890,
             3890,
             3890,
             3890,
@@ -47489,7 +47498,7 @@
           "brand": "Attack",
           "category": "mouse",
           "price": 7499,
-          "oldPrice": 6999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-se-wireless-mouse-white-price-in-pakistan-pakbyte_2.jpg?v=1760008893",
@@ -47505,7 +47514,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499
           ]
         },
@@ -47515,7 +47524,7 @@
           "brand": "Attack",
           "category": "mouse",
           "price": 7499,
-          "oldPrice": 6999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-se-wireless-mouse-black-price-in-pakistan_2.jpg?v=1760008474",
@@ -47531,7 +47540,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499
           ]
         },
@@ -48022,7 +48031,7 @@
             107990,
             107990,
             107990,
-            107990,
+            126999,
             126999,
             126999,
             126999,
@@ -50409,7 +50418,7 @@
           "history": [
             4990,
             4990,
-            4990,
+            4790,
             4790,
             4790,
             4790,
@@ -50487,7 +50496,7 @@
           "history": [
             15090,
             15090,
-            15090,
+            16290,
             16290,
             16290,
             16290,
@@ -50513,7 +50522,7 @@
           "history": [
             15290,
             15290,
-            15290,
+            17890,
             17890,
             17890,
             17890,
@@ -50545,6 +50554,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -50562,7 +50572,7 @@
           "history": [
             13290,
             13290,
-            13290,
+            16690,
             16690,
             16690,
             16690,
@@ -50588,7 +50598,7 @@
           "history": [
             13990,
             13990,
-            13990,
+            15990,
             15990,
             15990,
             15990,
@@ -50640,7 +50650,7 @@
           "history": [
             1050,
             1050,
-            1050,
+            1130,
             1130,
             1130,
             1130,
@@ -50692,7 +50702,7 @@
           "history": [
             7890,
             7890,
-            7890,
+            8890,
             8890,
             8890,
             8890,
@@ -57302,7 +57312,7 @@
             95790,
             95790,
             95790,
-            95790,
+            96990,
             96990,
             96990,
             96990
@@ -57328,7 +57338,7 @@
             206990,
             206990,
             206990,
-            206990,
+            204990,
             204990,
             204990,
             204990
@@ -57354,7 +57364,7 @@
             191790,
             191790,
             191790,
-            191790,
+            179990,
             179990,
             179990,
             179990
@@ -57431,7 +57441,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44990,
             44990,
             44990,
             44990,
@@ -57457,7 +57467,7 @@
             35490,
             35490,
             35490,
-            35490,
+            34490,
             34490,
             34490,
             34490,
@@ -57483,7 +57493,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -57495,8 +57505,8 @@
           "name": "AOC C27G4ZE 27\" 280Hz, FHD Curved Ultra-Fast Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 60790,
-          "oldPrice": null,
+          "price": 58990,
+          "oldPrice": 60790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-c27g4ze-monitor-price-in-pakistan_1.jpg?v=1753853680",
@@ -57513,7 +57523,7 @@
             60790,
             60790,
             60790,
-            60790
+            58990
           ]
         },
         {
@@ -60082,6 +60092,7 @@
             21490,
             21490,
             21490,
+            21490,
             21490
           ]
         },
@@ -60099,7 +60110,7 @@
           "history": [
             10890,
             10890,
-            10890,
+            13490,
             13490,
             13490,
             13490,
@@ -62768,8 +62779,8 @@
           "name": "AOC CQ27G4 27\", QHD 2K, 180Hz 0.5ms Curved Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 61790,
-          "oldPrice": null,
+          "price": 59990,
+          "oldPrice": 61790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-CQ27G4-27-Curved-Gaming-Monitor-QHD-2K-2560x1440-1500R-VA-180Hz-0-5ms-AMD-FreeSync-Premium-PakByte-Computers-26176145064003.jpg?v=1753670531",
@@ -62786,7 +62797,7 @@
             61790,
             61790,
             61790,
-            61790
+            59990
           ]
         },
         {
@@ -62808,7 +62819,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -62834,7 +62845,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -72193,6 +72204,7 @@
             24490,
             24490,
             24490,
+            24490,
             24490
           ]
         },
@@ -72208,6 +72220,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
+            24490,
             24490,
             24490,
             24490,
@@ -72413,7 +72426,7 @@
           "history": [
             7490,
             7490,
-            7490,
+            7990,
             7990,
             7990,
             7990,
@@ -72465,7 +72478,7 @@
           "history": [
             13190,
             13190,
-            13190,
+            15690,
             15690,
             15690,
             15690,
@@ -72673,7 +72686,7 @@
           "history": [
             13150,
             13150,
-            13150,
+            13990,
             13990,
             13990,
             13990,
@@ -72906,7 +72919,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-m808-storm-lunar-lightweight-rgb-gaming-mouse-black",
           "history": [
             5799,
-            5799,
+            5990,
             5990,
             5990,
             5990,
@@ -77171,7 +77184,7 @@
           "history": [
             4990,
             4990,
-            4990,
+            5250,
             5250,
             5250,
             5250,
@@ -77223,7 +77236,7 @@
           "history": [
             4990,
             4990,
-            4990,
+            5290,
             5290,
             5290,
             5290,
@@ -77275,7 +77288,7 @@
           "history": [
             3840,
             3840,
-            3840,
+            4150,
             4150,
             4150,
             4150,
@@ -77301,7 +77314,7 @@
           "history": [
             13490,
             13490,
-            13490,
+            15490,
             15490,
             15490,
             15490,
@@ -77405,7 +77418,7 @@
           "history": [
             12490,
             12490,
-            12490,
+            13490,
             13490,
             13490,
             13490,
@@ -77431,7 +77444,7 @@
           "history": [
             10590,
             10590,
-            10590,
+            11990,
             11990,
             11990,
             11990,
@@ -77535,7 +77548,7 @@
           "history": [
             11050,
             11050,
-            11050,
+            11390,
             11390,
             11390,
             11390,
@@ -77561,7 +77574,7 @@
           "history": [
             7350,
             7350,
-            7350,
+            7920,
             7920,
             7920,
             7920,
@@ -77743,7 +77756,7 @@
           "history": [
             7750,
             7750,
-            7750,
+            7880,
             7880,
             7880,
             7880,
@@ -77769,7 +77782,7 @@
           "history": [
             7240,
             7240,
-            7240,
+            7960,
             7960,
             7960,
             7960,
@@ -77873,7 +77886,7 @@
           "history": [
             7190,
             7190,
-            7190,
+            7290,
             7290,
             7290,
             7290,
@@ -77925,7 +77938,7 @@
           "history": [
             9250,
             9250,
-            9250,
+            9490,
             9490,
             9490,
             9490,
@@ -77976,7 +77989,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-m811-aatrox-mmo-wired-rgb-gaming-mouse-black",
           "history": [
             6740,
-            6740,
+            7290,
             7290,
             7290,
             7290,
@@ -94103,7 +94116,7 @@
             84790,
             84790,
             84790,
-            84790,
+            83990,
             83990,
             83990,
             83990
@@ -106967,7 +106980,7 @@
           "history": [
             14990,
             14990,
-            14990,
+            17290,
             17290,
             17290,
             17290,
@@ -107019,7 +107032,7 @@
           "history": [
             9190,
             9190,
-            9190,
+            10890,
             10890,
             10890,
             10890,
@@ -107071,7 +107084,7 @@
           "history": [
             12190,
             12190,
-            12190,
+            13190,
             13190,
             13190,
             13190,
@@ -107123,7 +107136,7 @@
           "history": [
             12280,
             12280,
-            12280,
+            12690,
             12690,
             12690,
             12690,
@@ -107201,7 +107214,7 @@
           "history": [
             6240,
             6240,
-            6240,
+            6690,
             6690,
             6690,
             6690,
@@ -107253,7 +107266,7 @@
           "history": [
             7340,
             7340,
-            7340,
+            7690,
             7690,
             7690,
             7690,
@@ -107331,7 +107344,7 @@
           "history": [
             4740,
             4740,
-            4740,
+            4490,
             4490,
             4490,
             4490,
@@ -107383,7 +107396,7 @@
           "history": [
             3090,
             3090,
-            3090,
+            3190,
             3190,
             3190,
             3190,
@@ -107433,6 +107446,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS010-850W-Gaming-PC-Power-Supply-Semi-Modular-PakByte-Computers-24397785432131.webp?v=1753679418",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps010-850w-gaming-pc-power-supply-semi-modular",
           "history": [
+            22490,
             22490,
             22490,
             22490,
@@ -107512,6 +107526,7 @@
             11190,
             11190,
             11190,
+            11190,
             11190
           ]
         },
@@ -107535,6 +107550,7 @@
             10190,
             10190,
             10190,
+            10190,
             10190
           ]
         },
@@ -107550,6 +107566,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS001-500W-Gaming-PC-Power-Supply-PakByte-Computers-24397784547395.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps001-500w-gaming-pc-power-supply",
           "history": [
+            8690,
             8690,
             8690,
             8690,
@@ -108433,7 +108450,7 @@
           "history": [
             11190,
             11190,
-            11190,
+            11990,
             11990,
             11990,
             11990,
@@ -108511,7 +108528,7 @@
           "history": [
             13170,
             13170,
-            13170,
+            14190,
             14190,
             14190,
             14190,
@@ -108667,7 +108684,7 @@
           "history": [
             13990,
             13990,
-            13990,
+            16190,
             16190,
             16190,
             16190,
@@ -108693,7 +108710,7 @@
           "history": [
             11100,
             11100,
-            11100,
+            11990,
             11990,
             11990,
             11990,
@@ -109005,7 +109022,7 @@
           "history": [
             8890,
             8890,
-            8890,
+            10890,
             10890,
             10890,
             10890,
@@ -109055,6 +109072,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512-Shiva-RGB-Backlit-Membrane-Gaming-Keyboard-PakByte-Computers-24397753450563.webp?v=1753679690",
           "url": "https://www.pakbyte.pk/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard",
           "history": [
+            6190,
             6190,
             6190,
             6190,
@@ -110354,7 +110372,7 @@
           "history": [
             5790,
             5790,
-            5790,
+            5390,
             5390,
             5390,
             5390,
@@ -110380,7 +110398,7 @@
           "history": [
             2599,
             2599,
-            2599,
+            2570,
             2570,
             2570,
             2570,
@@ -110406,7 +110424,7 @@
           "history": [
             2060,
             2060,
-            2060,
+            2190,
             2190,
             2190,
             2190,
@@ -110432,7 +110450,7 @@
           "history": [
             1640,
             1640,
-            1640,
+            1690,
             1690,
             1690,
             1690,
@@ -110458,7 +110476,7 @@
           "history": [
             3440,
             3440,
-            3440,
+            3690,
             3690,
             3690,
             3690,
@@ -110484,7 +110502,7 @@
           "history": [
             1540,
             1540,
-            1540,
+            1660,
             1660,
             1660,
             1660,
@@ -110510,7 +110528,7 @@
           "history": [
             4380,
             4380,
-            4380,
+            4690,
             4690,
             4690,
             4690,
@@ -110562,7 +110580,7 @@
           "history": [
             1590,
             1590,
-            1590,
+            1690,
             1690,
             1690,
             1690,
@@ -110594,6 +110612,7 @@
             3370,
             3370,
             3370,
+            3370,
             3370
           ]
         },
@@ -110611,7 +110630,7 @@
           "history": [
             2490,
             2490,
-            2490,
+            2290,
             2290,
             2290,
             2290,
@@ -114777,7 +114796,7 @@
             25190,
             25190,
             25190,
-            25190,
+            23990,
             23990,
             23990,
             23990
@@ -115369,7 +115388,7 @@
           "history": [
             5220,
             5220,
-            5220,
+            5590,
             5590,
             5590,
             5590,
@@ -115420,7 +115439,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-m907-inspirit-gaming-mouse",
           "history": [
             4540,
-            4540,
+            5090,
             5090,
             5090,
             5090,
@@ -115524,7 +115543,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-m808w-storm-lunar-lightweight-rgb-gaming-mouse-white",
           "history": [
             5399,
-            5399,
+            5690,
             5690,
             5690,
             5690,
@@ -115550,7 +115569,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-m808-ks-storm-pro-rgb-wireless-gaming-mouse",
           "history": [
             7640,
-            7640,
+            7990,
             7990,
             7990,
             7990,
@@ -117559,7 +117578,7 @@
             154990,
             154990,
             154990,
-            154990,
+            153990,
             153990,
             153990,
             153990
@@ -117622,8 +117641,8 @@
           "name": "Philips 34E1C5600HE - 100Hz 2K 1440p WQHD VA 34\" Curved LCD Monitor",
           "brand": "Philips",
           "category": "monitor",
-          "price": 126990,
-          "oldPrice": null,
+          "price": 124990,
+          "oldPrice": 126990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/PHILIPS-34E1C5600HE-34-UltraWide-Monitor-with-Built-in-Windows-Hello-Webcam-Noise-Canceling-Mic-PakByte-Computers-24397598490691.webp?v=1753681061",
@@ -117640,7 +117659,7 @@
             126990,
             126990,
             126990,
-            126990
+            124990
           ]
         },
         {
@@ -119249,7 +119268,7 @@
             83790,
             83790,
             83790,
-            83790,
+            85990,
             85990,
             85990,
             85990
@@ -120171,7 +120190,7 @@
           "brand": "Sapphire",
           "category": "gpu",
           "price": 66999,
-          "oldPrice": 58490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Pulse-Radeon-RX-6600-AMD-8GB-Graphics-Card-PakByte-Computers-24397534724163.webp?v=1753681587",
@@ -120187,7 +120206,7 @@
             58490,
             58490,
             58490,
-            58490,
+            66999,
             66999
           ]
         },
@@ -121016,7 +121035,7 @@
             71990,
             71990,
             71990,
-            71990,
+            74990,
             74990,
             74990,
             74990,
@@ -123851,7 +123870,7 @@
             87790,
             87790,
             87790,
-            87790,
+            86990,
             86990,
             86990,
             86990
@@ -123877,7 +123896,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990
@@ -123966,8 +123985,8 @@
           "name": "AOC AG493UCX2 AGON 49\" Dual QHD VA 165Hz Super Wide Curved Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 321990,
-          "oldPrice": null,
+          "price": 329990,
+          "oldPrice": 321990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-AG493UCX2-AGON-Super-Wide-Curved-Gaming-Monitor-49-Dual-QHD-VA-165Hz-1ms-PakByte-Computers-24397439467587.webp?v=1753682292",
@@ -123984,7 +124003,7 @@
             321990,
             321990,
             321990,
-            321990
+            329990
           ]
         },
         {
@@ -125355,7 +125374,7 @@
             21990,
             21990,
             21990,
-            21990,
+            23990,
             23990,
             23990,
             23990,
@@ -128395,7 +128414,7 @@
           "history": [
             3990,
             3990,
-            3990,
+            3890,
             3890,
             3890,
             3890,
@@ -130897,7 +130916,7 @@
             77990,
             77990,
             77990,
-            77990,
+            75990,
             75990,
             75990,
             75990
@@ -133231,7 +133250,7 @@
           "history": [
             20990,
             20990,
-            20990,
+            24790,
             24790,
             24790,
             24790,
@@ -133257,7 +133276,7 @@
           "history": [
             15990,
             15990,
-            15990,
+            18090,
             18090,
             18090,
             18090,
@@ -148463,6 +148482,7 @@
           "history": [
             54999,
             54999,
+            54999,
             54999
           ]
         },
@@ -148480,6 +148500,7 @@
           "history": [
             5499,
             5499,
+            5499,
             5499
           ]
         },
@@ -148495,6 +148516,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_vector_16_hx_ai.webp",
           "url": "https://rbtechngames.com/product/msi-vector-16-hx-ai-a2xwhg-061us-intel-core-ultra-7-16gb-ram-512gb-ssd-rtx-5070-ti-16-fhd-144hz-ips-display-cosmo-gray-used",
           "history": [
+            649999,
             649999,
             649999,
             649999,
@@ -148520,6 +148542,7 @@
             744999,
             744999,
             744999,
+            744999,
             744999
           ]
         },
@@ -148535,6 +148558,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_raider_ge68_hx.webp",
           "url": "https://rbtechngames.com/product/msi-raider-ge68-hx-13vf-062us-intel-i9-13th-gen-16gb-ram-1tb-ssd-rtx-4060-16-fhd-144hz-ips-display-core-black-used",
           "history": [
+            359999,
             359999,
             359999,
             359999,
@@ -148560,6 +148584,7 @@
             634999,
             634999,
             634999,
+            634999,
             634999
           ]
         },
@@ -148575,6 +148600,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_lenovo_legion_7_16agp11_glacier_white.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-legion-7-16agp11-amd-ryzen-ai-7-32gb-ram-1tb-ssd-rtx-5060-16-2k-240hz-oled-display-glacier-white-open-box",
           "history": [
+            644999,
             644999,
             644999,
             644999,
@@ -148600,6 +148626,7 @@
             289999,
             289999,
             289999,
+            289999,
             289999
           ]
         },
@@ -148615,6 +148642,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_omen_16_slim_2025_shadow_black_2.webp",
           "url": "https://rbtechngames.com/product/hp-omen-16-slim-an0119nr-intel-core-9-285h-16gb-ram-1tb-ssd-rtx-5070-16-qhd-240hz-ips-display-shadow-black-open-box",
           "history": [
+            534999,
             534999,
             534999,
             534999,
@@ -148640,6 +148668,7 @@
             724999,
             724999,
             724999,
+            724999,
             724999
           ]
         },
@@ -148655,6 +148684,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/03/rbtech_asus_prime_radeon_9070_xt_16gb_oc_white.webp",
           "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-white-oc-edition-16gb-graphics-card-used",
           "history": [
+            249999,
             249999,
             249999,
             249999,
@@ -150009,7 +150039,7 @@
             41999,
             41999,
             41999,
-            41999,
+            38499,
             38499,
             38499,
             38499,
@@ -150822,6 +150852,23 @@
             209999,
             209999,
             209999
+          ]
+        },
+        {
+          "id": "rbtechgames_470db25b",
+          "name": "Zotac GeForce GTX 1080 Ti Blower Edition 11GB Graphics Card &#8211; USED",
+          "brand": "Zotac",
+          "category": "gpu",
+          "price": 54999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_zotac_rtx_1080_ti_blower.jpg",
+          "url": "https://rbtechngames.com/product/zotac-geforce-gtx-1080-ti-blower-edition-11gb-graphics-card-used",
+          "history": [
+            54999,
+            54999,
+            54999
           ]
         },
         {
@@ -152299,7 +152346,7 @@
             241999,
             241999,
             241999,
-            241999,
+            254999,
             254999,
             254999,
             254999,
@@ -152710,7 +152757,7 @@
           "history": [
             116999,
             116999,
-            116999,
+            118999,
             118999,
             118999,
             118999,
@@ -154868,6 +154915,7 @@
           "history": [
             60999,
             60999,
+            60999,
             60999
           ]
         },
@@ -155203,7 +155251,7 @@
             109999,
             109999,
             109999,
-            109999,
+            149999,
             149999,
             149999,
             149999
@@ -155415,6 +155463,32 @@
             45499,
             45499,
             45499
+          ]
+        },
+        {
+          "id": "rbtechgames_4b280247",
+          "name": "MSI B650M Gaming Plus Wifi M-ATX AM5 DDR5 Gaming Motherboard",
+          "brand": "MSI",
+          "category": "ram",
+          "price": 54999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_msi_b650m_gaming_plus_wifi.png",
+          "url": "https://rbtechngames.com/product/msi-b650m-gaming-plus-wifi-m-atx-am5-ddr5-gaming-motherboard",
+          "history": [
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999,
+            54999
           ]
         },
         {
@@ -155694,7 +155768,7 @@
             40499,
             40499,
             40499,
-            40499,
+            38999,
             38999,
             38999,
             38999,
@@ -158551,6 +158625,7 @@
           "history": [
             5999,
             5999,
+            5999,
             5999
           ]
         },
@@ -158566,6 +158641,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_prism_cloth_medium.jpg",
           "url": "https://rbtechngames.com/product/steelseries-qck-prism-cloth-gaming-mouse-pad-medium",
           "history": [
+            9999,
             9999,
             9999,
             9999
