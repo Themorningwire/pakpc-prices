@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:38:37.960301+00:00",
+  "lastUpdated": "2026-10-09T22:19:11.659891+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_15d82e20",
+          "name": "Viewsonic CDE8614-2C 86\" 4K Commercial Display with Pro AV Integration",
+          "brand": "Viewsonic",
+          "category": "monitor",
+          "price": 564990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE8614-2C-Price-in-Pakistan-Pakbyte_1_2b62ceda-746a-4cbf-8be5-6395cd424cf6.webp?v=1791561624",
+          "url": "https://www.pakbyte.pk/products/viewsonic-cde8614-2c-86-4k-commercial-display-with-pro-av-integration",
+          "history": [
+            564990
+          ]
+        },
         {
           "id": "pakbyte_6d79cd6a",
           "name": "Viewsonic CDE7531-1C 75\" 4K Professional Commercial Display with Pro AV Integration",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE7531-1C-Commercial-Display-Price-in-Pakistan-Pakbyte_1.webp?v=1791546897",
           "url": "https://www.pakbyte.pk/products/viewsonic-cde7531-1c-75-4k-professional-commercial-display-with-pro-av-integration",
           "history": [
+            429990,
             429990
           ]
         },
@@ -35,6 +51,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-interactive-flat-panel-viewboard-in6504v-c-price-in-pakistan-pakbyte_4.webp?v=1791544630",
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in6504v-c-google-edla-65-inch-4k-interactive-display",
           "history": [
+            429990,
             429990
           ]
         },
@@ -53,6 +70,7 @@
             23490,
             23490,
             23490,
+            23490,
             23490
           ]
         },
@@ -68,6 +86,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-PORTABLE-LED-16T3FE-Price-in-Pakistan-Pakbyte_2.avif?v=1791383942",
           "url": "https://www.pakbyte.pk/products/aoc-agon-16t3fe-portable-monitor",
           "history": [
+            33990,
             33990,
             33990,
             33990,
@@ -93,6 +112,7 @@
             93999,
             93999,
             93999,
+            93999,
             93999
           ]
         },
@@ -108,6 +128,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K689-Wired-Gasket-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1791216804",
           "url": "https://www.pakbyte.pk/products/redragon-wyvern-k689-wired-mechanical-gaming-keyboard",
           "history": [
+            15490,
             15490,
             15490,
             15490,
@@ -2346,7 +2367,7 @@
             69790,
             69790,
             69790,
-            69790,
+            69990,
             69990,
             69990,
             69990,
@@ -3012,7 +3033,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 559990,
-          "oldPrice": 561990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-in7504v-interactive-display-price-in-pakistan-pakbyte_1.webp?v=1787565147",
@@ -3028,7 +3049,7 @@
             561990,
             561990,
             561990,
-            561990,
+            559990,
             559990
           ]
         },
@@ -3126,7 +3147,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -3152,7 +3173,7 @@
             51790,
             51790,
             51790,
-            51790,
+            49990,
             49990,
             49990,
             49990,
@@ -3178,7 +3199,7 @@
             53790,
             53790,
             53790,
-            53790,
+            53990,
             53990,
             53990,
             53990,
@@ -3204,7 +3225,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44490,
             44490,
             44490,
             44490,
@@ -3230,7 +3251,7 @@
             37490,
             37490,
             37490,
-            37490,
+            35990,
             35990,
             35990,
             35990,
@@ -3256,7 +3277,7 @@
             33490,
             33490,
             33490,
-            33490,
+            30990,
             30990,
             30990,
             30990,
@@ -3286,7 +3307,7 @@
             160790,
             160790,
             160790,
-            160790,
+            158990,
             158990,
             158990,
             158990
@@ -3312,7 +3333,7 @@
             97790,
             97790,
             97790,
-            97790,
+            95990,
             95990,
             95990,
             95990
@@ -3337,7 +3358,7 @@
             47490,
             47490,
             47490,
-            47490,
+            45990,
             45990,
             45990,
             45990,
@@ -3363,7 +3384,7 @@
             40490,
             40490,
             40490,
-            40490,
+            38990,
             38990,
             38990,
             38990,
@@ -3389,7 +3410,7 @@
             34490,
             34490,
             34490,
-            34490,
+            32990,
             32990,
             32990,
             32990,
@@ -5807,7 +5828,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -9849,8 +9870,8 @@
           "name": "Logitech G PRO X2 Superstrike Wireless Gaming Mouse - Black/White",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 68999,
-          "oldPrice": null,
+          "price": 49999,
+          "oldPrice": 68999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g-pro-x2-superstrike-price-in-pakistan-pakbyte_1.webp?v=1782743060",
@@ -9867,7 +9888,7 @@
             68999,
             68999,
             68999,
-            68999
+            49999
           ]
         },
         {
@@ -12902,7 +12923,7 @@
             111990,
             111990,
             111990,
-            111990,
+            110990,
             110990,
             110990,
             110990,
@@ -12928,7 +12949,7 @@
             41490,
             41490,
             41490,
-            41490,
+            39990,
             39990,
             39990,
             39990,
@@ -12954,7 +12975,7 @@
             90790,
             90790,
             90790,
-            90790,
+            91990,
             91990,
             91990,
             91990,
@@ -14478,7 +14499,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 659990,
-          "oldPrice": 661990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IN6505-C-Certified-EDLA-ViewBoard-65-4K-Interactive-Display-Price-in-Pakistan-Pakbyte_1.jpg?v=1777387335",
@@ -14494,7 +14515,7 @@
             661990,
             661990,
             661990,
-            661990,
+            659990,
             659990
           ]
         },
@@ -14518,7 +14539,7 @@
             286990,
             286990,
             286990,
-            286990,
+            284990,
             284990,
             284990,
             284990
@@ -14544,7 +14565,7 @@
             286790,
             286790,
             286790,
-            286790,
+            255990,
             255990,
             255990,
             255990
@@ -14570,7 +14591,7 @@
             163790,
             163790,
             163790,
-            163790,
+            161990,
             161990,
             161990,
             161990
@@ -14596,7 +14617,7 @@
             66790,
             66790,
             66790,
-            66790,
+            64990,
             64990,
             64990,
             64990
@@ -14622,7 +14643,7 @@
             66790,
             66790,
             66790,
-            66790,
+            64990,
             64990,
             64990,
             64990
@@ -19496,7 +19517,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 539990,
-          "oldPrice": 541990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewboard-IN7505-C-75-Google-certified-EDLA-interactive-display-price-in-pakistan-pakbyte.webp?v=1773513947",
@@ -19512,7 +19533,7 @@
             541990,
             541990,
             541990,
-            541990,
+            539990,
             539990
           ]
         },
@@ -19522,7 +19543,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 409990,
-          "oldPrice": 411990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewBoard-IN6505-C-65-Google-Certified-EDLA-Interactive-Display-PriceinPakistan-Pakbyte.webp?v=1773512778",
@@ -19538,7 +19559,7 @@
             411990,
             411990,
             411990,
-            411990,
+            409990,
             409990
           ]
         },
@@ -19938,7 +19959,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 379990,
-          "oldPrice": 381990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IFP6534-4K-Interactive-Display-Price-in-Pakistan-Pakbyte.webp?v=1773413416",
@@ -19954,7 +19975,7 @@
             381990,
             381990,
             381990,
-            381990,
+            379990,
             379990
           ]
         },
@@ -20026,7 +20047,7 @@
             73790,
             73790,
             73790,
-            73790,
+            72490,
             72490,
             72490,
             72490,
@@ -20056,7 +20077,7 @@
             103990,
             103990,
             103990,
-            103990,
+            101990,
             101990,
             101990,
             101990
@@ -20081,7 +20102,7 @@
             36990,
             36990,
             36990,
-            36990,
+            34990,
             34990,
             34990,
             34990,
@@ -20107,7 +20128,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -20133,7 +20154,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -20159,7 +20180,7 @@
             31490,
             31490,
             31490,
-            31490,
+            29990,
             29990,
             29990,
             29990,
@@ -22626,7 +22647,7 @@
             49990,
             49990,
             49990,
-            49990,
+            55499,
             55499,
             55499,
             55499,
@@ -23045,7 +23066,7 @@
             33990,
             33990,
             33990,
-            33990,
+            35499,
             35499,
             35499,
             35499,
@@ -23071,7 +23092,7 @@
             32990,
             32990,
             32990,
-            32990,
+            35499,
             35499,
             35499,
             35499,
@@ -28324,7 +28345,7 @@
             60790,
             60790,
             60790,
-            60790,
+            58990,
             58990,
             58990,
             58990
@@ -28349,7 +28370,7 @@
             35490,
             35490,
             35490,
-            35490,
+            33990,
             33990,
             33990,
             33990,
@@ -30843,7 +30864,7 @@
             100790,
             100790,
             100790,
-            100790,
+            98990,
             98990,
             98990,
             98990,
@@ -30916,6 +30937,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
           "url": "https://www.pakbyte.pk/products/viewsonic-va240a-h-24-inch-hd-monitor",
           "history": [
+            27990,
             27990,
             27990,
             27990,
@@ -32814,7 +32836,7 @@
             46300,
             46300,
             46300,
-            46300,
+            51990,
             51990,
             51990,
             51990,
@@ -33597,7 +33619,7 @@
             90790,
             90790,
             90790,
-            90790,
+            88990,
             88990,
             88990,
             88990
@@ -33623,7 +33645,7 @@
             60790,
             60790,
             60790,
-            60790,
+            59990,
             59990,
             59990,
             59990
@@ -33648,7 +33670,7 @@
             43490,
             43490,
             43490,
-            43490,
+            41990,
             41990,
             41990,
             41990,
@@ -33675,7 +33697,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990,
             65990
@@ -39667,7 +39689,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 198990,
-          "oldPrice": 201990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE4314-2C-43-4K-Commercial-Display-with-Pro-AV-Integration-Price-in-Pakistan-Pakbyte_4.webp?v=1764755520",
@@ -39683,7 +39705,7 @@
             201990,
             201990,
             201990,
-            201990,
+            198990,
             198990
           ]
         },
@@ -39693,7 +39715,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 239990,
-          "oldPrice": 201990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE5514-2C-55-4K-Commercial-Display-with-Pro-AV-Integration-Price-in-Pakistan-Pakbyte_4.webp?v=1764755044",
@@ -39709,7 +39731,7 @@
             201990,
             201990,
             201990,
-            201990,
+            239990,
             239990
           ]
         },
@@ -39719,7 +39741,7 @@
           "brand": "Viewsonic",
           "category": "monitor",
           "price": 309990,
-          "oldPrice": 311990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE6514-2C-65-4K-Commercial-Display-with-Pro-AV-Integration_4.webp?v=1764754733",
@@ -39735,7 +39757,7 @@
             311990,
             311990,
             311990,
-            311990,
+            309990,
             309990
           ]
         },
@@ -39745,7 +39767,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 16990,
-          "oldPrice": 17990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VB-WIFI-USB-WIFI-MODULE-Price-in-Pakistan-Pakbyte_2.jpg?v=1764742770",
@@ -39761,7 +39783,7 @@
             17990,
             17990,
             17990,
-            17990,
+            16990,
             16990
           ]
         },
@@ -39833,7 +39855,7 @@
             80990,
             80990,
             80990,
-            80990,
+            93990,
             93990,
             93990,
             93990,
@@ -39859,7 +39881,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990,
             65990,
@@ -39885,7 +39907,7 @@
             49490,
             49490,
             49490,
-            49490,
+            47990,
             47990,
             47990,
             47990,
@@ -39911,7 +39933,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29990,
             29990,
             29990,
             29990,
@@ -47558,7 +47580,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -47584,7 +47606,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -48075,7 +48097,7 @@
             107990,
             107990,
             107990,
-            107990,
+            126999,
             126999,
             126999,
             126999,
@@ -57358,7 +57380,7 @@
             95790,
             95790,
             95790,
-            95790,
+            96990,
             96990,
             96990,
             96990,
@@ -57384,7 +57406,7 @@
             206990,
             206990,
             206990,
-            206990,
+            204990,
             204990,
             204990,
             204990,
@@ -57410,7 +57432,7 @@
             191790,
             191790,
             191790,
-            191790,
+            179990,
             179990,
             179990,
             179990,
@@ -57487,7 +57509,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44990,
             44990,
             44990,
             44990,
@@ -57513,7 +57535,7 @@
             35490,
             35490,
             35490,
-            35490,
+            34490,
             34490,
             34490,
             34490,
@@ -57539,7 +57561,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -57569,7 +57591,7 @@
             60790,
             60790,
             60790,
-            60790,
+            58990,
             58990,
             58990,
             58990
@@ -60135,6 +60157,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-RGPS-PS007-850Watt-80-Plus-Gold-Fully-Modular-Power-Supply-PakByte-Computers-26331103887427.webp?v=1753669900",
           "url": "https://www.pakbyte.pk/products/redragon-rgps-ps007-850watt-80-plus-gold-fully-modular-power-supply",
           "history": [
+            21490,
             21490,
             21490,
             21490,
@@ -62845,7 +62868,7 @@
             61790,
             61790,
             61790,
-            61790,
+            59990,
             59990,
             59990,
             59990
@@ -62867,7 +62890,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -62893,7 +62916,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -72258,6 +72281,7 @@
             24490,
             24490,
             24490,
+            24490,
             24490
           ]
         },
@@ -72273,6 +72297,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
+            24490,
             24490,
             24490,
             24490,
@@ -94168,7 +94193,7 @@
             84790,
             84790,
             84790,
-            84790,
+            83990,
             83990,
             83990,
             83990,
@@ -107510,6 +107535,7 @@
             22490,
             22490,
             22490,
+            22490,
             22490
           ]
         },
@@ -107577,6 +107603,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS003-600W-Gaming-PC-Power-Supply-Full-Module-PakByte-Computers-24397785137219.webp?v=1753679418",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps003-600w-gaming-pc-power-supply-full-module",
           "history": [
+            11190,
             11190,
             11190,
             11190,
@@ -114860,7 +114887,7 @@
             25190,
             25190,
             25190,
-            25190,
+            23990,
             23990,
             23990,
             23990,
@@ -117642,7 +117669,7 @@
             154990,
             154990,
             154990,
-            154990,
+            153990,
             153990,
             153990,
             153990,
@@ -117723,7 +117750,7 @@
             126990,
             126990,
             126990,
-            126990,
+            124990,
             124990,
             124990,
             124990
@@ -119332,7 +119359,7 @@
             83790,
             83790,
             83790,
-            83790,
+            85990,
             85990,
             85990,
             85990,
@@ -120270,7 +120297,7 @@
             58490,
             58490,
             58490,
-            58490,
+            66999,
             66999,
             66999,
             66999,
@@ -121099,7 +121126,7 @@
             71990,
             71990,
             71990,
-            71990,
+            74990,
             74990,
             74990,
             74990,
@@ -123934,7 +123961,7 @@
             87790,
             87790,
             87790,
-            87790,
+            86990,
             86990,
             86990,
             86990,
@@ -123960,7 +123987,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -124067,7 +124094,7 @@
             321990,
             321990,
             321990,
-            321990,
+            329990,
             329990,
             329990,
             329990
@@ -125438,7 +125465,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-galahad-aio-240-rgb-uni-fan-sl120-edition-cpu-liquid-cooler-white",
           "history": [
             21990,
-            21990,
+            23990,
             23990,
             23990,
             23990,
@@ -130980,7 +131007,7 @@
             77990,
             77990,
             77990,
-            77990,
+            75990,
             75990,
             75990,
             75990,
@@ -148552,6 +148579,7 @@
             54999,
             54999,
             54999,
+            54999,
             54999
           ]
         },
@@ -148572,6 +148600,7 @@
             5499,
             5499,
             5499,
+            5499,
             5499
           ]
         },
@@ -148587,6 +148616,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_vector_16_hx_ai.webp",
           "url": "https://rbtechngames.com/product/msi-vector-16-hx-ai-a2xwhg-061us-intel-core-ultra-7-16gb-ram-512gb-ssd-rtx-5070-ti-16-fhd-144hz-ips-display-cosmo-gray-used",
           "history": [
+            649999,
             649999,
             649999,
             649999,
@@ -148618,6 +148648,7 @@
             744999,
             744999,
             744999,
+            744999,
             744999
           ]
         },
@@ -148633,6 +148664,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_raider_ge68_hx.webp",
           "url": "https://rbtechngames.com/product/msi-raider-ge68-hx-13vf-062us-intel-i9-13th-gen-16gb-ram-1tb-ssd-rtx-4060-16-fhd-144hz-ips-display-core-black-used",
           "history": [
+            359999,
             359999,
             359999,
             359999,
@@ -148664,6 +148696,7 @@
             634999,
             634999,
             634999,
+            634999,
             634999
           ]
         },
@@ -148679,6 +148712,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_lenovo_legion_7_16agp11_glacier_white.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-legion-7-16agp11-amd-ryzen-ai-7-32gb-ram-1tb-ssd-rtx-5060-16-2k-240hz-oled-display-glacier-white-open-box",
           "history": [
+            644999,
             644999,
             644999,
             644999,
@@ -148710,6 +148744,7 @@
             289999,
             289999,
             289999,
+            289999,
             289999
           ]
         },
@@ -148733,6 +148768,7 @@
             534999,
             534999,
             534999,
+            534999,
             534999
           ]
         },
@@ -148748,6 +148784,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-ai-phn16-73-92b8-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5070-ti-16-qhd-240hz-ips-display-abyssal-black-new",
           "history": [
+            724999,
             724999,
             724999,
             724999,
@@ -148939,32 +148976,6 @@
             674999,
             674999,
             674999
-          ]
-        },
-        {
-          "id": "rbtechgames_1c43cd07",
-          "name": "Asus ROG Strix G15 2021 (G513QM), AMD Ryzen 9 5900HX, 16GB RAM, 512GB SSD, RTX 3060, 15.6&",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 239999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_rog_strix_g15_2021_eclipse_black.png",
-          "url": "https://rbtechngames.com/product/asus-rog-strix-g15-2021-g513qm-amd-ryzen-9-5900hx-16gb-ram-512gb-ssd-rtx-3060-15-6-fhd-240hz-ips-display-black-used",
-          "history": [
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999
           ]
         },
         {
@@ -150125,7 +150136,7 @@
           "history": [
             41999,
             41999,
-            41999,
+            38499,
             38499,
             38499,
             38499,
@@ -150955,6 +150966,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_zotac_rtx_1080_ti_blower.jpg",
           "url": "https://rbtechngames.com/product/zotac-geforce-gtx-1080-ti-blower-edition-11gb-graphics-card-used",
           "history": [
+            54999,
             54999,
             54999,
             54999,
@@ -152434,7 +152446,7 @@
             241999,
             241999,
             241999,
-            241999,
+            254999,
             254999,
             254999,
             254999,
@@ -152546,32 +152558,6 @@
             854999,
             854999,
             854999
-          ]
-        },
-        {
-          "id": "rbtechgames_f060e211",
-          "name": "MSI GeForce RTX 5050 8GB Gaming OC Graphics Card",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 114999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_msi_rtx_5050_8gb_gaming_oc.webp",
-          "url": "https://rbtechngames.com/product/msi-geforce-rtx-5050-8gb-gaming-oc-graphics-card",
-          "history": [
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999,
-            114999
           ]
         },
         {
@@ -152728,6 +152714,32 @@
             10499,
             10499,
             10499
+          ]
+        },
+        {
+          "id": "rbtechgames_b857bf4c",
+          "name": "Attack Shark CM02 eSport Gaming Mouse Pad &#8211; Black/Black Red Contour/White Contour",
+          "brand": "Attack",
+          "category": "mouse",
+          "price": 3499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_attack_shark_cm02_black_red_contour.webp",
+          "url": "https://rbtechngames.com/product/attack-shark-cm02-esport-gaming-mouse-pad-black-black-red-contour-white-contour",
+          "history": [
+            3499,
+            3499,
+            3499,
+            3499,
+            3499,
+            3499,
+            3499,
+            3499,
+            3499,
+            3499,
+            3499,
+            3499
           ]
         },
         {
@@ -153964,6 +153976,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_aula_win60_he_max_grey_yellow_3.webp",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-grey-yellow-wing-chun-magnetic-switch",
           "history": [
+            12999,
             12999
           ]
         },
@@ -154566,6 +154579,32 @@
           ]
         },
         {
+          "id": "rbtechgames_47aee8f7",
+          "name": "Seagate IronWolf Pro 14TB NAS Internal Hard Drive",
+          "brand": "Seagate",
+          "category": "storage",
+          "price": 144999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_seagate_ironwolf_pro_14tb.png",
+          "url": "https://rbtechngames.com/product/seagate-ironwolf-pro-14tb-nas-internal-hard-drive",
+          "history": [
+            144999,
+            144999,
+            144999,
+            144999,
+            144999,
+            144999,
+            144999,
+            144999,
+            144999,
+            144999,
+            144999,
+            144999
+          ]
+        },
+        {
           "id": "rbtechgames_44aaa1ea",
           "name": "Sapphire Pulse AMD Radeon RX 9060 XT OC 16GB Graphics Card",
           "brand": "Sapphire",
@@ -154641,32 +154680,6 @@
             4499,
             4499,
             4499
-          ]
-        },
-        {
-          "id": "rbtechgames_8cbf611e",
-          "name": "Gigabyte GeForce RTX 5060 Windforce Max OC 8GB Graphics Card",
-          "brand": "Gigabyte",
-          "category": "gpu",
-          "price": 144999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_gigabyte_rtx_5060_windforce_max_oc_8gb.webp",
-          "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5060-windforce-max-oc-8gb-graphics-card",
-          "history": [
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999
           ]
         },
         {
@@ -154998,6 +155011,7 @@
             60999,
             60999,
             60999,
+            60999,
             60999
           ]
         },
@@ -155136,8 +155150,8 @@
           "name": "Lexar NQ780 M.2 2280 PCIe Gen 4 NVMe SSD &#8211; 512GB/1TB/2TB/4TB",
           "brand": "Lexar",
           "category": "storage",
-          "price": 26499,
-          "oldPrice": null,
+          "price": 72999,
+          "oldPrice": 26499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
@@ -155154,7 +155168,7 @@
             26499,
             26499,
             26499,
-            26499
+            72999
           ]
         },
         {
@@ -155330,7 +155344,7 @@
             109999,
             109999,
             109999,
-            109999,
+            149999,
             149999,
             149999,
             149999,
@@ -155429,6 +155443,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_aula_win60_he_max_white_blue_grey.webp",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-white-blue-grey-wing-chun-switch",
           "history": [
+            12999,
             12999
           ]
         },
@@ -155652,6 +155667,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_aula_win60_he_max_red_contour.jpg",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-red-contour-wing-chun-magnetic-switches",
           "history": [
+            13499,
             13499
           ]
         },
@@ -155825,7 +155841,7 @@
           "history": [
             40499,
             40499,
-            40499,
+            38999,
             38999,
             38999,
             38999,
@@ -155835,6 +155851,21 @@
             38999,
             38999,
             38999
+          ]
+        },
+        {
+          "id": "rbtechgames_c7e2c312",
+          "name": "Zotac Gaming GeForce RTX 5060 Ti 16GB Twin Edge OC Graphics Card",
+          "brand": "Zotac",
+          "category": "gpu",
+          "price": 256999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_zotac_rtx_5060_ti_twin_edge_oc_16gb.jpg",
+          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-graphics-card",
+          "history": [
+            256999
           ]
         },
         {
@@ -155994,6 +156025,21 @@
           ]
         },
         {
+          "id": "rbtechgames_18f533f6",
+          "name": "Zotac Gaming GeForce RTX 5080 Solid Core 16GB OC Graphics Card",
+          "brand": "Zotac",
+          "category": "gpu",
+          "price": 489999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
+          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-core-16gb-oc-graphics-card",
+          "history": [
+            489999
+          ]
+        },
+        {
           "id": "rbtechgames_2c76cab5",
           "name": "Gigabyte GeForce RTX 5070 Windforce 12GB OC SFF Graphics Card",
           "brand": "Gigabyte",
@@ -156095,6 +156141,32 @@
             23999,
             23999,
             23999
+          ]
+        },
+        {
+          "id": "rbtechgames_6be97760",
+          "name": "Zotac Gaming GeForce RTX 5070 Solid OC 12GB Graphics Card",
+          "brand": "Zotac",
+          "category": "gpu",
+          "price": 284999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
+          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-solid-oc-12gb-graphics-card",
+          "history": [
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999,
+            284999
           ]
         },
         {
@@ -158688,6 +158760,7 @@
             5999,
             5999,
             5999,
+            5999,
             5999
           ]
         },
@@ -158703,6 +158776,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_prism_cloth_medium.jpg",
           "url": "https://rbtechngames.com/product/steelseries-qck-prism-cloth-gaming-mouse-pad-medium",
           "history": [
+            9999,
             9999,
             9999,
             9999,
