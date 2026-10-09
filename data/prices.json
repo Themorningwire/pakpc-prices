@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T04:46:38.781149+00:00",
+  "lastUpdated": "2026-10-09T12:38:37.960301+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,36 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_6d79cd6a",
+          "name": "Viewsonic CDE7531-1C 75\" 4K Professional Commercial Display with Pro AV Integration",
+          "brand": "Viewsonic",
+          "category": "monitor",
+          "price": 429990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE7531-1C-Commercial-Display-Price-in-Pakistan-Pakbyte_1.webp?v=1791546897",
+          "url": "https://www.pakbyte.pk/products/viewsonic-cde7531-1c-75-4k-professional-commercial-display-with-pro-av-integration",
+          "history": [
+            429990
+          ]
+        },
+        {
+          "id": "pakbyte_ae2e8090",
+          "name": "Viewsonic ViewBoard IN6504V-C Google EDLA 65 Inch 4K Interactive Display",
+          "brand": "Viewsonic",
+          "category": "monitor",
+          "price": 429990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-interactive-flat-panel-viewboard-in6504v-c-price-in-pakistan-pakbyte_4.webp?v=1791544630",
+          "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in6504v-c-google-edla-65-inch-4k-interactive-display",
+          "history": [
+            429990
+          ]
+        },
         {
           "id": "pakbyte_1f8fe42f",
           "name": "AOC 22B40HM 21.45′ Full HD VA Gaming Monitor",
@@ -20,6 +50,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-22b40hm-monitor-price-in-pakistan-pakbyte_1.webp?v=1791441065",
           "url": "https://www.pakbyte.pk/products/aoc-22b40hm-21-45-full-hd-va-gaming-monitor",
           "history": [
+            23490,
             23490,
             23490,
             23490
@@ -37,6 +68,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-PORTABLE-LED-16T3FE-Price-in-Pakistan-Pakbyte_2.avif?v=1791383942",
           "url": "https://www.pakbyte.pk/products/aoc-agon-16t3fe-portable-monitor",
           "history": [
+            33990,
             33990,
             33990,
             33990,
@@ -60,6 +92,7 @@
             93999,
             93999,
             93999,
+            93999,
             93999
           ]
         },
@@ -75,6 +108,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K689-Wired-Gasket-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1791216804",
           "url": "https://www.pakbyte.pk/products/redragon-wyvern-k689-wired-mechanical-gaming-keyboard",
           "history": [
+            15490,
             15490,
             15490,
             15490,
@@ -108,6 +142,7 @@
             11090,
             11090,
             11090,
+            11090,
             11090
           ]
         },
@@ -123,6 +158,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K628WG-POLLUX-Wired-Mechanical-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1791213348",
           "url": "https://www.pakbyte.pk/products/redragon-k628wg-pollux-wired-mechanical-keyboard-white-grey",
           "history": [
+            10390,
             10390,
             10390,
             10390,
@@ -2311,7 +2347,7 @@
             69790,
             69790,
             69790,
-            69790,
+            69990,
             69990,
             69990,
             69990,
@@ -2975,8 +3011,8 @@
           "name": "ViewSonic IN7504V-C ViewBoard 75\" Google Certified EDLA Interactive Display",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 561990,
-          "oldPrice": null,
+          "price": 559990,
+          "oldPrice": 561990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-in7504v-interactive-display-price-in-pakistan-pakbyte_1.webp?v=1787565147",
@@ -2993,7 +3029,7 @@
             561990,
             561990,
             561990,
-            561990
+            559990
           ]
         },
         {
@@ -3091,7 +3127,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -3117,7 +3153,7 @@
             51790,
             51790,
             51790,
-            51790,
+            49990,
             49990,
             49990,
             49990,
@@ -3143,7 +3179,7 @@
             53790,
             53790,
             53790,
-            53790,
+            53990,
             53990,
             53990,
             53990,
@@ -3169,7 +3205,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44490,
             44490,
             44490,
             44490,
@@ -3195,7 +3231,7 @@
             37490,
             37490,
             37490,
-            37490,
+            35990,
             35990,
             35990,
             35990,
@@ -3221,7 +3257,7 @@
             33490,
             33490,
             33490,
-            33490,
+            30990,
             30990,
             30990,
             30990,
@@ -3251,7 +3287,7 @@
             160790,
             160790,
             160790,
-            160790,
+            158990,
             158990,
             158990
           ]
@@ -3277,7 +3313,7 @@
             97790,
             97790,
             97790,
-            97790,
+            95990,
             95990,
             95990
           ]
@@ -3302,7 +3338,7 @@
             47490,
             47490,
             47490,
-            47490,
+            45990,
             45990,
             45990,
             45990
@@ -3328,7 +3364,7 @@
             40490,
             40490,
             40490,
-            40490,
+            38990,
             38990,
             38990,
             38990
@@ -3354,7 +3390,7 @@
             34490,
             34490,
             34490,
-            34490,
+            32990,
             32990,
             32990,
             32990
@@ -5772,7 +5808,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499
@@ -10142,6 +10178,7 @@
             7790,
             7790,
             7790,
+            7790,
             7790
           ]
         },
@@ -10183,7 +10220,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-king-ultra-m999-price-in-pakistan-pakbyte_1.webp?v=1782193113",
           "url": "https://www.pakbyte.pk/products/redragon-king-ultra-m999-wireless-gaming-mouse-black",
           "history": [
-            7799,
+            7990,
             7990,
             7990,
             7990,
@@ -12003,7 +12040,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-STEALTH-M923-WL-Price-in-Pakistan-Pakbyte_1.webp?v=1779467210",
           "url": "https://www.pakbyte.pk/products/redragon-stealth-m923-wired-gaming-mouse",
           "history": [
-            4480,
+            4890,
             4890,
             4890,
             4890,
@@ -12055,7 +12092,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K526-Volcano-Pro-Price-in-Pakistan-Pakbyte_1.webp?v=1779466084",
           "url": "https://www.pakbyte.pk/products/redragon-volcano-k526-pro-104-keys-mechanical-feel-keyboard",
           "history": [
-            7140,
+            7990,
             7990,
             7990,
             7990,
@@ -12081,7 +12118,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K648-Wired-Aluminum-RGB-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1779465681",
           "url": "https://www.pakbyte.pk/products/redragon-olaf-k648-90-wired-aluminum-rgb-gaming-keyboard",
           "history": [
-            12990,
+            14790,
             14790,
             14790,
             14790,
@@ -12159,7 +12196,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-ANTONIUM-K745WB-PRO-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1779463981",
           "url": "https://www.pakbyte.pk/products/redragon-antonium-pro-k745wb-rgb-mechanical-wired-keyboard",
           "history": [
-            14650,
+            15790,
             15790,
             15790,
             15790,
@@ -12866,7 +12903,7 @@
             111990,
             111990,
             111990,
-            111990,
+            110990,
             110990,
             110990,
             110990,
@@ -12892,7 +12929,7 @@
             41490,
             41490,
             41490,
-            41490,
+            39990,
             39990,
             39990,
             39990,
@@ -12918,7 +12955,7 @@
             90790,
             90790,
             90790,
-            90790,
+            91990,
             91990,
             91990,
             91990,
@@ -14440,8 +14477,8 @@
           "name": "Viewsonic ViewBoard IN8605-C Certified EDLA ViewBoard 86” 4K Interactive Display",
           "brand": "Viewsonic",
           "category": "monitor",
-          "price": 661990,
-          "oldPrice": null,
+          "price": 659990,
+          "oldPrice": 661990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IN6505-C-Certified-EDLA-ViewBoard-65-4K-Interactive-Display-Price-in-Pakistan-Pakbyte_1.jpg?v=1777387335",
@@ -14458,7 +14495,7 @@
             661990,
             661990,
             661990,
-            661990
+            659990
           ]
         },
         {
@@ -14482,7 +14519,7 @@
             286990,
             286990,
             286990,
-            286990,
+            284990,
             284990,
             284990
           ]
@@ -14508,7 +14545,7 @@
             286790,
             286790,
             286790,
-            286790,
+            255990,
             255990,
             255990
           ]
@@ -14534,7 +14571,7 @@
             163790,
             163790,
             163790,
-            163790,
+            161990,
             161990,
             161990
           ]
@@ -14560,7 +14597,7 @@
             66790,
             66790,
             66790,
-            66790,
+            64990,
             64990,
             64990
           ]
@@ -14586,7 +14623,7 @@
             66790,
             66790,
             66790,
-            66790,
+            64990,
             64990,
             64990
           ]
@@ -19458,8 +19495,8 @@
           "name": "Viewsonic ViewBoard IN7505-N Google Certified EDLA 75” 4K Interactive Display",
           "brand": "Viewsonic",
           "category": "monitor",
-          "price": 541990,
-          "oldPrice": null,
+          "price": 539990,
+          "oldPrice": 541990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewboard-IN7505-C-75-Google-certified-EDLA-interactive-display-price-in-pakistan-pakbyte.webp?v=1773513947",
@@ -19476,7 +19513,7 @@
             541990,
             541990,
             541990,
-            541990
+            539990
           ]
         },
         {
@@ -19484,8 +19521,8 @@
           "name": "Viewsonic ViewBoard IN6505-N Google Certified EDLA 65” 4K Interactive Display",
           "brand": "Viewsonic",
           "category": "monitor",
-          "price": 411990,
-          "oldPrice": null,
+          "price": 409990,
+          "oldPrice": 411990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewBoard-IN6505-C-65-Google-Certified-EDLA-Interactive-Display-PriceinPakistan-Pakbyte.webp?v=1773512778",
@@ -19502,7 +19539,7 @@
             411990,
             411990,
             411990,
-            411990
+            409990
           ]
         },
         {
@@ -19900,8 +19937,8 @@
           "name": "Viewsonic ViewBoard IFP6534 EDLA Certified 65” 4K Interactive Display",
           "brand": "Viewsonic",
           "category": "monitor",
-          "price": 381990,
-          "oldPrice": null,
+          "price": 379990,
+          "oldPrice": 381990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IFP6534-4K-Interactive-Display-Price-in-Pakistan-Pakbyte.webp?v=1773413416",
@@ -19918,7 +19955,7 @@
             381990,
             381990,
             381990,
-            381990
+            379990
           ]
         },
         {
@@ -19990,7 +20027,7 @@
             73790,
             73790,
             73790,
-            73790,
+            72490,
             72490,
             72490,
             72490,
@@ -20020,7 +20057,7 @@
             103990,
             103990,
             103990,
-            103990,
+            101990,
             101990,
             101990
           ]
@@ -20045,7 +20082,7 @@
             36990,
             36990,
             36990,
-            36990,
+            34990,
             34990,
             34990,
             34990
@@ -20071,7 +20108,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990
@@ -20097,7 +20134,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990
@@ -20123,7 +20160,7 @@
             31490,
             31490,
             31490,
-            31490,
+            29990,
             29990,
             29990,
             29990
@@ -22195,7 +22232,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-STARBLADE-K707-price-in-pakistan-pakbyte_1.webp?v=1772265652",
           "url": "https://www.pakbyte.pk/products/redragon-star-blade-k707sp-rgb-wired-mechanical-keyboard",
           "history": [
-            11890,
+            12990,
             12990,
             12990,
             12990,
@@ -22590,7 +22627,7 @@
             49990,
             49990,
             49990,
-            49990,
+            55499,
             55499,
             55499,
             55499,
@@ -23009,7 +23046,7 @@
             33990,
             33990,
             33990,
-            33990,
+            35499,
             35499,
             35499,
             35499
@@ -23035,7 +23072,7 @@
             32990,
             32990,
             32990,
-            32990,
+            35499,
             35499,
             35499,
             35499
@@ -27863,7 +27900,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-P016-price-in-pakistan-pakbyte_1.jpg?v=1770824740",
           "url": "https://www.pakbyte.pk/products/redragon-p016-pisces-gaming-mousepad",
           "history": [
-            1399,
+            1190,
             1190,
             1190,
             1190,
@@ -28288,7 +28325,7 @@
             60790,
             60790,
             60790,
-            60790,
+            58990,
             58990,
             58990
           ]
@@ -28313,7 +28350,7 @@
             35490,
             35490,
             35490,
-            35490,
+            33990,
             33990,
             33990,
             33990
@@ -30807,7 +30844,7 @@
             100790,
             100790,
             100790,
-            100790,
+            98990,
             98990,
             98990,
             98990,
@@ -30879,6 +30916,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
           "url": "https://www.pakbyte.pk/products/viewsonic-va240a-h-24-inch-hd-monitor",
           "history": [
+            27990,
             27990,
             27990,
             27990,
@@ -32777,7 +32815,7 @@
             46300,
             46300,
             46300,
-            46300,
+            51990,
             51990,
             51990,
             51990,
@@ -33560,7 +33598,7 @@
             90790,
             90790,
             90790,
-            90790,
+            88990,
             88990,
             88990
           ]
@@ -33586,7 +33624,7 @@
             60790,
             60790,
             60790,
-            60790,
+            59990,
             59990,
             59990
           ]
@@ -33611,7 +33649,7 @@
             43490,
             43490,
             43490,
-            43490,
+            41990,
             41990,
             41990,
             41990
@@ -33638,7 +33676,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990
           ]
@@ -36437,7 +36475,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K525-Black-Shiva-PRO-Membrance-Keyboard-price-in-pakistan-pakbyte_4.webp?v=1765825598",
           "url": "https://www.pakbyte.pk/products/redragon-k525-shiva-pro-wireless-anti-ghosting-membrane-gaming-keyboard",
           "history": [
-            6290,
+            7090,
             7090,
             7090,
             7090,
@@ -36463,7 +36501,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K525-White-Shiva-Lite-Membrance-Keyboard-price-in-pakistan-pakbyte_2.webp?v=1765825254",
           "url": "https://www.pakbyte.pk/products/redragon-k525-shiva-lite-gaming-keyboard-with-detachable-wrist-rest-white-grey",
           "history": [
-            4890,
+            5190,
             5190,
             5190,
             5190,
@@ -36489,7 +36527,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K617-FIZZ-WG-RGB-Wired-Gaming-Keyboard-price-in-pakistan-pakbyte_3.webp?v=1765824898",
           "url": "https://www.pakbyte.pk/products/redragon-fizz-k617-60-rgb-mechanical-keyboard-with-red-switches-white-gray",
           "history": [
-            6999,
+            6990,
             6990,
             6990,
             6990,
@@ -39628,8 +39666,8 @@
           "name": "Viewsonic CDE4314-2C 43\" 4K Commercial Display with Pro AV Integration",
           "brand": "Viewsonic",
           "category": "monitor",
-          "price": 201990,
-          "oldPrice": null,
+          "price": 198990,
+          "oldPrice": 201990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE4314-2C-43-4K-Commercial-Display-with-Pro-AV-Integration-Price-in-Pakistan-Pakbyte_4.webp?v=1764755520",
@@ -39646,7 +39684,7 @@
             201990,
             201990,
             201990,
-            201990
+            198990
           ]
         },
         {
@@ -39654,8 +39692,8 @@
           "name": "Viewsonic CDE5514-2C 55\" 4K Commercial Display with Pro AV Integration",
           "brand": "Viewsonic",
           "category": "monitor",
-          "price": 201990,
-          "oldPrice": null,
+          "price": 239990,
+          "oldPrice": 201990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE5514-2C-55-4K-Commercial-Display-with-Pro-AV-Integration-Price-in-Pakistan-Pakbyte_4.webp?v=1764755044",
@@ -39672,7 +39710,7 @@
             201990,
             201990,
             201990,
-            201990
+            239990
           ]
         },
         {
@@ -39680,8 +39718,8 @@
           "name": "Viewsonic CDE6514-2C 65\" 4K Commercial Display with Pro AV Integration",
           "brand": "Viewsonic",
           "category": "monitor",
-          "price": 311990,
-          "oldPrice": null,
+          "price": 309990,
+          "oldPrice": 311990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE6514-2C-65-4K-Commercial-Display-with-Pro-AV-Integration_4.webp?v=1764754733",
@@ -39698,7 +39736,7 @@
             311990,
             311990,
             311990,
-            311990
+            309990
           ]
         },
         {
@@ -39706,8 +39744,8 @@
           "name": "ViewSonic VB-WIFI-001 Wireless Module for ViewBoard  and Wireless Presentation Display",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 17990,
-          "oldPrice": null,
+          "price": 16990,
+          "oldPrice": 17990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VB-WIFI-USB-WIFI-MODULE-Price-in-Pakistan-Pakbyte_2.jpg?v=1764742770",
@@ -39724,7 +39762,7 @@
             17990,
             17990,
             17990,
-            17990
+            16990
           ]
         },
         {
@@ -39796,7 +39834,7 @@
             80990,
             80990,
             80990,
-            80990,
+            93990,
             93990,
             93990,
             93990,
@@ -39822,7 +39860,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990,
             65990,
@@ -39848,7 +39886,7 @@
             49490,
             49490,
             49490,
-            49490,
+            47990,
             47990,
             47990,
             47990,
@@ -39874,7 +39912,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29990,
             29990,
             29990,
             29990,
@@ -45199,7 +45237,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-s107-price-in-pakistan-pakbyte_1.jpg?v=1761955651",
           "url": "https://www.pakbyte.pk/products/redragon-s107-gaming-keyboard-and-mouse-combo",
           "history": [
-            6590,
+            7290,
             7290,
             7290,
             7290,
@@ -45225,7 +45263,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k744-pro-price-in-pakistan-pakbyte_2.jpg?v=1761955518",
           "url": "https://www.pakbyte.pk/products/redragon-k744-pro-wireless-gasket-rgb-gaming-keyboard-cerulean-polar",
           "history": [
-            12090,
+            13990,
             13990,
             13990,
             13990,
@@ -45251,7 +45289,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k740-gaming-keyboard-purple-price-in-pakistan-pakbyte_2.jpg?v=1761955334",
           "url": "https://www.pakbyte.pk/products/redragon-k740-wired-rgb-gaming-keyboard-purple-rain",
           "history": [
-            12590,
+            16590,
             16590,
             16590,
             16590,
@@ -45277,7 +45315,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k740-price-in-pakistan-pakbyte_2.jpg?v=1761955098",
           "url": "https://www.pakbyte.pk/products/redragon-k740-wired-rgb-gaming-keyboard",
           "history": [
-            11890,
+            13990,
             13990,
             13990,
             13990,
@@ -45355,7 +45393,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k521-price-in-pakistan-pakbyte_2.jpg?v=1761953796",
           "url": "https://www.pakbyte.pk/products/redragon-k521-rainbow-gaming-keyboard",
           "history": [
-            3340,
+            3690,
             3690,
             3690,
             3690,
@@ -45381,7 +45419,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-m921-mouse-price-in-pakistan-pakbyte_2.jpg?v=1761952933",
           "url": "https://www.pakbyte.pk/products/redragon-m921-mmo-gaming-mouse",
           "history": [
-            4840,
+            5290,
             5290,
             5290,
             5290,
@@ -47521,7 +47559,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499
@@ -47547,7 +47585,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499
@@ -48038,7 +48076,7 @@
             107990,
             107990,
             107990,
-            107990,
+            126999,
             126999,
             126999,
             126999,
@@ -50425,7 +50463,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-hylas-h260-headset_1.webp?v=1756809503",
           "url": "https://www.pakbyte.pk/products/redragon-hylas-h260-rgb-gaming-headset-with-microphone-white",
           "history": [
-            4990,
+            4790,
             4790,
             4790,
             4790,
@@ -50503,7 +50541,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/RedragonK728WBB-RGB-PROAntonium-PRO_1.jpg?v=1756797861",
           "url": "https://www.pakbyte.pk/products/redragon-k728wbb-rgb-pro-antonium-pro-tkl-mechanical-gaming-keyboard-87-keys-leopard-l-switches-wireless-and-wired-rgb-backlight-white",
           "history": [
-            15090,
+            16290,
             16290,
             16290,
             16290,
@@ -50529,7 +50567,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k743-antonium-pro-lcd-keyboard_1.webp?v=1756797579",
           "url": "https://www.pakbyte.pk/products/redragon-k743-antonium-pro-lcd-80-gasket-rgb-gaming-keyboard",
           "history": [
-            15290,
+            17890,
             17890,
             17890,
             17890,
@@ -50565,6 +50603,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -50580,7 +50619,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k689-wyvern-pro-keyboard_1.webp?v=1756796988",
           "url": "https://www.pakbyte.pk/products/redragon-k689-wyvern-pro-wireless-gasket-rgb-gaming-keyboard",
           "history": [
-            13290,
+            16690,
             16690,
             16690,
             16690,
@@ -50606,7 +50645,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K686-Eisa-Max-Wireless-Gasket-Mechanical-Gaming-Keyboard_1.jpg?v=1756796670",
           "url": "https://www.pakbyte.pk/products/redragon-k686-eisa-max-wireless-gasket-mechanical-gaming-keyboard",
           "history": [
-            13990,
+            15990,
             15990,
             15990,
             15990,
@@ -50658,7 +50697,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-AK1-S-P046S-Anime-Gaming-Mouse-Pad_1.jpg?v=1756790904",
           "url": "https://www.pakbyte.pk/products/redragon-ak1-s-p046s-anime-gaming-mouse-pad",
           "history": [
-            1050,
+            1130,
             1130,
             1130,
             1130,
@@ -50710,7 +50749,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M918-King-Max-Wireless-Gaming-Mouse.webp?v=1756749964",
           "url": "https://www.pakbyte.pk/products/redragon-m918-akb-pro-1k-hz-3-modes-wireless-anime-gaming-mouse",
           "history": [
-            7890,
+            8890,
             8890,
             8890,
             8890,
@@ -57320,7 +57359,7 @@
             95790,
             95790,
             95790,
-            95790,
+            96990,
             96990,
             96990,
             96990,
@@ -57346,7 +57385,7 @@
             206990,
             206990,
             206990,
-            206990,
+            204990,
             204990,
             204990,
             204990,
@@ -57372,7 +57411,7 @@
             191790,
             191790,
             191790,
-            191790,
+            179990,
             179990,
             179990,
             179990,
@@ -57449,7 +57488,7 @@
             46490,
             46490,
             46490,
-            46490,
+            44990,
             44990,
             44990,
             44990,
@@ -57475,7 +57514,7 @@
             35490,
             35490,
             35490,
-            35490,
+            34490,
             34490,
             34490,
             34490,
@@ -57501,7 +57540,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -57531,7 +57570,7 @@
             60790,
             60790,
             60790,
-            60790,
+            58990,
             58990,
             58990
           ]
@@ -60104,6 +60143,7 @@
             21490,
             21490,
             21490,
+            21490,
             21490
           ]
         },
@@ -60119,7 +60159,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H510-Zeus-Pro-3-Mode-RGB-7-1-Surround-Sound-Wireless-Gaming-Headset-PakByte-Computers-26331010334787.jpg?v=1753669901",
           "url": "https://www.pakbyte.pk/products/redragon-h510-zeus-pro-3-mode-rgb-7-1-surround-sound-wireless-gaming-headset",
           "history": [
-            10890,
+            13490,
             13490,
             13490,
             13490,
@@ -62806,7 +62846,7 @@
             61790,
             61790,
             61790,
-            61790,
+            59990,
             59990,
             59990
           ]
@@ -62828,7 +62868,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -62854,7 +62894,7 @@
             13490,
             13490,
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -72217,6 +72257,7 @@
             24490,
             24490,
             24490,
+            24490,
             24490
           ]
         },
@@ -72232,6 +72273,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
+            24490,
             24490,
             24490,
             24490,
@@ -72437,7 +72479,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H376-AURORA-USB-Wired-Gaming-Headset-Black-PakByte-Computers-25887818973251.webp?v=1753672325",
           "url": "https://www.pakbyte.pk/products/redragon-h376-aurora-usb-wired-gaming-headset-black",
           "history": [
-            7490,
+            7990,
             7990,
             7990,
             7990,
@@ -72489,7 +72531,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K617-FIZZ-60-Rapid-Trigger-Wired-Magnetic-switch-Gaming-Keyboard-PakByte-Computers-25887362908227.webp?v=1753672336",
           "url": "https://www.pakbyte.pk/products/redragon-k617-fizz-60-rapid-trigger-wired-magnetic-switch-gaming-keyboard",
           "history": [
-            13190,
+            15690,
             15690,
             15690,
             15690,
@@ -72697,7 +72739,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K632-PRO-HORUS-MINI-60-Wireless-RGB-Mechanical-Keyboard-PakByte-Computers-25887049154627.webp?v=1753672452",
           "url": "https://www.pakbyte.pk/products/redragon-k632-pro-horus-mini-60-wireless-rgb-mechanical-keyboard",
           "history": [
-            13150,
+            13990,
             13990,
             13990,
             13990,
@@ -77195,7 +77237,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H211-CRONUS-Wired-Gaming-Headset-Black-PakByte-Computers-25770236870723.jpg?v=1753673167",
           "url": "https://www.pakbyte.pk/products/redragon-h211-cronus-wired-gaming-headset-black",
           "history": [
-            4990,
+            5250,
             5250,
             5250,
             5250,
@@ -77247,7 +77289,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H231-Scream-Wired-Gaming-Headset-Black-PakByte-Computers-25770221895747.webp?v=1753673294",
           "url": "https://www.pakbyte.pk/products/redragon-h231-scream-wired-gaming-headset-stereo-surround-sound-40mm-drivers-leather-foam-ear-pads-noise-canceling-microphone-multi-platforms-headphone-works-with-pc-ps4-5-ns-xbox-one-black",
           "history": [
-            4990,
+            5290,
             5290,
             5290,
             5290,
@@ -77299,7 +77341,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H120-RGB-ARES-Wired-Gaming-Headset-PakByte-Computers-25770205151299.webp?v=1753673294",
           "url": "https://www.pakbyte.pk/products/redragon-h120-rgb-ares-wired-gaming-headset",
           "history": [
-            3840,
+            4150,
             4150,
             4150,
             4150,
@@ -77325,7 +77367,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Gaming-Essentials-S129W-Keyboard-Mouse-Headset-3-in-1-Combo-Set-White-PakByte-Computers-25770180673603.jpg?v=1753673294",
           "url": "https://www.pakbyte.pk/products/redragon-gaming-essentials-s129w-keyboard-mouse-headset-3-in-1-combo-set-white",
           "history": [
-            13490,
+            15490,
             15490,
             15490,
             15490,
@@ -77429,7 +77471,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-Fizz-Pro-K616-RGB-Bluetooth-wireless-USB-2-4G-3-mode-Mechanical-Gaming-Keyboard-Red-Switches-White-Grey-PakByte-Computers-25770148888643.webp?v=1753673318",
           "url": "https://www.pakbyte.pk/products/redragon-fizz-pro-k616-rgb-bluetooth-wireless-usb-2-4g-3-mode-mechanical-gaming-keyboard-red-switches-white-grey",
           "history": [
-            12490,
+            13490,
             13490,
             13490,
             13490,
@@ -77455,7 +77497,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K616-FIZZ-PRO-RGB-Mechanical-Gaming-Keyboard-Black-PakByte-Computers-25770138107971.webp?v=1753673318",
           "url": "https://www.pakbyte.pk/products/redragon-k616-fizz-pro-rgb-mechanical-gaming-keyboard-black",
           "history": [
-            10590,
+            11990,
             11990,
             11990,
             11990,
@@ -77559,7 +77601,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K582-SURARA-RGB-Mechanical-Gaming-Keyboard-PakByte-Computers-25770098786371.jpg?v=1753673330",
           "url": "https://www.pakbyte.pk/products/redragon-k582-surara-rgb-mechanical-gaming-keyboard",
           "history": [
-            11050,
+            11390,
             11390,
             11390,
             11390,
@@ -77585,7 +77627,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K552-RGB-1-KUMARA-Full-Anti-Ghosting-Mechanical-Gaming-Keyboard-Black-PakByte-Computers-25770087088195.webp?v=1753673330",
           "url": "https://www.pakbyte.pk/products/redragon-k552-rgb-1-kumara-full-anti-ghosting-mechanical-gaming-keyboard-black",
           "history": [
-            7350,
+            7920,
             7920,
             7920,
             7920,
@@ -77767,7 +77809,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-DRAGONBORN-K630-60-RGB-Mechanical-Gaming-Keyboard-White-Red-Switches-PakByte-Computers-25769791324227.webp?v=1753673366",
           "url": "https://www.pakbyte.pk/products/redragon-dragonborn-k630-60-rgb-mechanical-gaming-keyboard-white-red-switches",
           "history": [
-            7750,
+            7880,
             7880,
             7880,
             7880,
@@ -77793,7 +77835,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-DRAGONBORN-K630-60-RGB-Mechanical-Gaming-Keyboard-Black-Brown-Switches-PakByte-Computers-25769782083651.webp?v=1753673366",
           "url": "https://www.pakbyte.pk/products/redragon-dragonborn-k630-60-rgb-mechanical-gaming-keyboard-black-brown-switches",
           "history": [
-            7240,
+            7960,
             7960,
             7960,
             7960,
@@ -77897,7 +77939,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512W-SHIVA-RGB-Backlit-Membrane-Gaming-Keyboard-White-PakByte-Computers-25769668608067.webp?v=1753673378",
           "url": "https://www.pakbyte.pk/products/redragon-k512w-shiva-rgb-backlit-membrane-gaming-keyboard-white",
           "history": [
-            7190,
+            7290,
             7290,
             7290,
             7290,
@@ -77949,7 +77991,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-M913-Impact-Elite-Wireless-Gaming-Mouse-Black-PakByte-Computers-25769582198851.webp?v=1753673389",
           "url": "https://www.pakbyte.pk/products/redragon-m913-impact-elite-wireless-gaming-mouse-black",
           "history": [
-            9250,
+            9490,
             9490,
             9490,
             9490,
@@ -94127,7 +94169,7 @@
             84790,
             84790,
             84790,
-            84790,
+            83990,
             83990,
             83990,
             83990,
@@ -106991,7 +107033,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-IRE-PRO-H848-Bluetooth-Wireless-Gaming-Headset-White-Blue-PakByte-Computers-24397793656899.webp?v=1753679360",
           "url": "https://www.pakbyte.pk/products/redragon-ire-pro-h848-bluetooth-wireless-gaming-headset-white-blue",
           "history": [
-            14990,
+            17290,
             17290,
             17290,
             17290,
@@ -107043,7 +107085,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H818-PELOPS-Wireless-Gaming-Headset-7-1-Surround-Sound-PakByte-Computers-24397793296451.webp?v=1753679360",
           "url": "https://www.pakbyte.pk/products/redragon-h818-pelops-wireless-gaming-headset-7-1-surround-sound",
           "history": [
-            9190,
+            10890,
             10890,
             10890,
             10890,
@@ -107095,7 +107137,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H510W-ZEUS-2-Wired-Gaming-Headset-White-PakByte-Computers-24397792051267.webp?v=1753679371",
           "url": "https://www.pakbyte.pk/products/redragon-h510w-zeus-2-wired-gaming-headset-white",
           "history": [
-            12190,
+            13190,
             13190,
             13190,
             13190,
@@ -107147,7 +107189,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H510-1-ZEUS-2-Wired-Gaming-Headset-Black-PakByte-Computers-24397791199299.webp?v=1753679383",
           "url": "https://www.pakbyte.pk/products/redragon-h510-1-zeus-2-wired-gaming-headset-black",
           "history": [
-            12280,
+            12690,
             12690,
             12690,
             12690,
@@ -107225,7 +107267,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H350-PANDORA-2-RGB-USB-Gaming-Headset-Black-PakByte-Computers-24397790314563.webp?v=1753679383",
           "url": "https://www.pakbyte.pk/products/redragon-h350-pandora-2-rgb-usb-gaming-headset-black",
           "history": [
-            6240,
+            6690,
             6690,
             6690,
             6690,
@@ -107277,7 +107319,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H320-LAMIA-2-RGB-Gaming-Headset-With-Noise-Cancellation-Black-PakByte-Computers-24397789528131.webp?v=1753679394",
           "url": "https://www.pakbyte.pk/products/redragon-h320-lamia-2-rgb-gaming-headset-with-noise-cancellation-black",
           "history": [
-            7340,
+            7690,
             7690,
             7690,
             7690,
@@ -107355,7 +107397,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H260-HYLAS-RGB-Gaming-Headset-Black-PakByte-Computers-24397788938307.webp?v=1753679406",
           "url": "https://www.pakbyte.pk/products/redragon-h260-hylas-rgb-gaming-headset-black",
           "history": [
-            4740,
+            4490,
             4490,
             4490,
             4490,
@@ -107407,7 +107449,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H120-ARES-Wired-Gaming-Headset-PakByte-Computers-24397786742851.webp?v=1753679406",
           "url": "https://www.pakbyte.pk/products/redragon-h120-ares-wired-gaming-headset",
           "history": [
-            3090,
+            3190,
             3190,
             3190,
             3190,
@@ -107459,6 +107501,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS010-850W-Gaming-PC-Power-Supply-Semi-Modular-PakByte-Computers-24397785432131.webp?v=1753679418",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps010-850w-gaming-pc-power-supply-semi-modular",
           "history": [
+            22490,
             22490,
             22490,
             22490,
@@ -107542,6 +107585,7 @@
             11190,
             11190,
             11190,
+            11190,
             11190
           ]
         },
@@ -107567,6 +107611,7 @@
             10190,
             10190,
             10190,
+            10190,
             10190
           ]
         },
@@ -107582,6 +107627,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS001-500W-Gaming-PC-Power-Supply-PakByte-Computers-24397784547395.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps001-500w-gaming-pc-power-supply",
           "history": [
+            8690,
             8690,
             8690,
             8690,
@@ -108465,7 +108511,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K580-VATA-RGB-Mechanical-Gaming-Keyboard-PakByte-Computers-24397767082051.webp?v=1753679599",
           "url": "https://www.pakbyte.pk/products/redragon-k580-vata-rgb-mechanical-gaming-keyboard",
           "history": [
-            11190,
+            11990,
             11990,
             11990,
             11990,
@@ -108543,7 +108589,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Devarajas-K556-RGB-Mechanical-Gaming-Keyboard-PakByte-Computers-24397765640259.webp?v=1753679610",
           "url": "https://www.pakbyte.pk/products/redragon-devarajas-k556-rgb-mechanical-gaming-keyboard",
           "history": [
-            13170,
+            14190,
             14190,
             14190,
             14190,
@@ -108699,7 +108745,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-IRELIA-PRO-K658CT-RGB-PRO-Wireless-Mechanical-Keyboard-White-PakByte-Computers-24397762461763.webp?v=1753679632",
           "url": "https://www.pakbyte.pk/products/redragon-irelia-pro-k658ct-rgb-pro-wireless-mechanical-keyboard-white",
           "history": [
-            13990,
+            16190,
             16190,
             16190,
             16190,
@@ -108725,7 +108771,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-HORUS-K632-RGB-Wired-Mechanical-Gaming-Keyboard-PakByte-Computers-24397761183811.webp?v=1753679644",
           "url": "https://www.pakbyte.pk/products/redragon-noctis-k632-rgb-wired-mechanical-gaming-keyboard",
           "history": [
-            11100,
+            11990,
             11990,
             11990,
             11990,
@@ -109037,7 +109083,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Draconic-K530-Pro-RGB-Wireless-Mechanical-Gaming-Keyboard-Black-PakByte-Computers-24397753909315.webp?v=1753679679",
           "url": "https://www.pakbyte.pk/products/redragon-draconic-k530-rgb-wireless-mechanical-gaming-keyboard-black",
           "history": [
-            8890,
+            10890,
             10890,
             10890,
             10890,
@@ -109089,6 +109135,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K512-Shiva-RGB-Backlit-Membrane-Gaming-Keyboard-PakByte-Computers-24397753450563.webp?v=1753679690",
           "url": "https://www.pakbyte.pk/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard",
           "history": [
+            6190,
             6190,
             6190,
             6190,
@@ -110388,7 +110435,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Flick-3XL-P040-Mouse-Pad-PakByte-Computers-24397726122051.webp?v=1753679889",
           "url": "https://www.pakbyte.pk/products/redragon-flick-3xl-p040-mouse-pad",
           "history": [
-            5790,
+            5390,
             5390,
             5390,
             5390,
@@ -110414,7 +110461,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Meteor-L-P037-Computer-Keyboard-Wrist-Rest-Pad-PakByte-Computers-24397725990979.webp?v=1753679889",
           "url": "https://www.pakbyte.pk/products/redragon-meteor-l-p037-computer-keyboard-wrist-rest-pad",
           "history": [
-            2599,
+            2570,
             2570,
             2570,
             2570,
@@ -110440,7 +110487,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Meteor-M-P036-Computer-Keyboard-Wrist-Rest-Pad-PakByte-Computers-24397725433923.webp?v=1753679889",
           "url": "https://www.pakbyte.pk/products/redragon-meteor-m-p036-computer-keyboard-wrist-rest-pad",
           "history": [
-            2060,
+            2190,
             2190,
             2190,
             2190,
@@ -110466,7 +110513,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Meteor-S-P035-Computer-Keyboard-Wrist-Rest-Pad-PakByte-Computers-24397725302851.webp?v=1753679901",
           "url": "https://www.pakbyte.pk/products/redragon-meteor-s-p035-computer-keyboard-wrist-rest-pad",
           "history": [
-            1640,
+            1690,
             1690,
             1690,
             1690,
@@ -110492,7 +110539,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-P032-FLICK-XL-Mousepad-PakByte-Computers-24397724844099.webp?v=1753679901",
           "url": "https://www.pakbyte.pk/products/redragon-flick-xl-p032-waterproof-mouse-pad",
           "history": [
-            3440,
+            3690,
             3690,
             3690,
             3690,
@@ -110518,7 +110565,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-FLICK-S-P029-Small-PC-Mousepad-PakByte-Computers-24397724778563.webp?v=1753679901",
           "url": "https://www.pakbyte.pk/products/redragon-flick-s-p029-small-pc-mousepad",
           "history": [
-            1540,
+            1660,
             1660,
             1660,
             1660,
@@ -110544,7 +110591,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-Pluto-P026-RGB-Gaming-Mouse-Pad-PakByte-Computers-24397724483651.webp?v=1753679901",
           "url": "https://www.pakbyte.pk/products/redragon-pluto-p026-rgb-gaming-mouse-pad",
           "history": [
-            4380,
+            4690,
             4690,
             4690,
             4690,
@@ -110596,7 +110643,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Capricorn-P012-Gaming-Mousepad-PakByte-Computers-24397723435075.webp?v=1753679912",
           "url": "https://www.pakbyte.pk/products/redragon-capricorn-p012-gaming-mousepad",
           "history": [
-            1590,
+            1690,
             1690,
             1690,
             1690,
@@ -110632,6 +110679,7 @@
             3370,
             3370,
             3370,
+            3370,
             3370
           ]
         },
@@ -110647,7 +110695,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Suzaku-P003-Huge-Professional-Gaming-Mouse-Pad-PakByte-Computers-24397721993283.webp?v=1753679912",
           "url": "https://www.pakbyte.pk/products/redragon-suzaku-p003-huge-professional-gaming-mouse-pad",
           "history": [
-            2490,
+            2290,
             2290,
             2290,
             2290,
@@ -114813,7 +114861,7 @@
             25190,
             25190,
             25190,
-            25190,
+            23990,
             23990,
             23990,
             23990,
@@ -115405,7 +115453,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M987-REAPING-LIGHTWEIGHT-GAMING-MOUSE-PakByte-Computers-24397636272195.webp?v=1753680658",
           "url": "https://www.pakbyte.pk/products/redragon-m987-reaping-lightweight-gaming-mouse",
           "history": [
-            5220,
+            5590,
             5590,
             5590,
             5590,
@@ -117595,7 +117643,7 @@
             154990,
             154990,
             154990,
-            154990,
+            153990,
             153990,
             153990,
             153990,
@@ -117676,7 +117724,7 @@
             126990,
             126990,
             126990,
-            126990,
+            124990,
             124990,
             124990
           ]
@@ -119285,7 +119333,7 @@
             83790,
             83790,
             83790,
-            83790,
+            85990,
             85990,
             85990,
             85990,
@@ -120223,7 +120271,7 @@
             58490,
             58490,
             58490,
-            58490,
+            66999,
             66999,
             66999,
             66999
@@ -121052,7 +121100,7 @@
             71990,
             71990,
             71990,
-            71990,
+            74990,
             74990,
             74990,
             74990,
@@ -123887,7 +123935,7 @@
             87790,
             87790,
             87790,
-            87790,
+            86990,
             86990,
             86990,
             86990,
@@ -123913,7 +123961,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -124020,7 +124068,7 @@
             321990,
             321990,
             321990,
-            321990,
+            329990,
             329990,
             329990
           ]
@@ -125391,7 +125439,7 @@
           "history": [
             21990,
             21990,
-            21990,
+            23990,
             23990,
             23990,
             23990,
@@ -126866,7 +126914,7 @@
           "category": "keyboard",
           "price": 56800,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-Claymore-II-Wireless-Modular-Gaming-Mechanical-Keyboard-Black-PakByte-Computers-24397327695939.jpg?v=1753683089",
           "url": "https://www.pakbyte.pk/products/asus-rog-claymore-ii-wireless-modular-gaming-mechanical-keyboard-rog-rx-switches-detachable-numpad-wrist-rest-for-tkl-80-100-aura-sync-media-controls-fast-charge-usb-2-0-passthrough-black",
@@ -128431,7 +128479,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-HA300-Scepter-Pro-Headset-Stand-PakByte-Computers-24397240565827.jpg?v=1753683468",
           "url": "https://www.pakbyte.pk/products/redragon-ha300-scepter-pro-headset-stand",
           "history": [
-            3990,
+            3890,
             3890,
             3890,
             3890,
@@ -130933,7 +130981,7 @@
             77990,
             77990,
             77990,
-            77990,
+            75990,
             75990,
             75990,
             75990,
@@ -133267,7 +133315,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Tailgate-GC-702-Gaming-Case-PakByte-Computers-24396950470723.jpg?v=1753684366",
           "url": "https://www.pakbyte.pk/products/redragon-tailgate-gc-702-gaming-case",
           "history": [
-            20990,
+            24790,
             24790,
             24790,
             24790,
@@ -133293,7 +133341,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Steeljaw-GC-608-Gaming-Case-PakByte-Computers-24396945883203.jpg?v=1753684379",
           "url": "https://www.pakbyte.pk/products/redragon-steeljaw-gc-608-gaming-case",
           "history": [
-            15990,
+            18090,
             18090,
             18090,
             18090,
@@ -148503,6 +148551,7 @@
             54999,
             54999,
             54999,
+            54999,
             54999
           ]
         },
@@ -148522,6 +148571,7 @@
             5499,
             5499,
             5499,
+            5499,
             5499
           ]
         },
@@ -148537,6 +148587,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_vector_16_hx_ai.webp",
           "url": "https://rbtechngames.com/product/msi-vector-16-hx-ai-a2xwhg-061us-intel-core-ultra-7-16gb-ram-512gb-ssd-rtx-5070-ti-16-fhd-144hz-ips-display-cosmo-gray-used",
           "history": [
+            649999,
             649999,
             649999,
             649999,
@@ -148566,6 +148617,7 @@
             744999,
             744999,
             744999,
+            744999,
             744999
           ]
         },
@@ -148581,6 +148633,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_raider_ge68_hx.webp",
           "url": "https://rbtechngames.com/product/msi-raider-ge68-hx-13vf-062us-intel-i9-13th-gen-16gb-ram-1tb-ssd-rtx-4060-16-fhd-144hz-ips-display-core-black-used",
           "history": [
+            359999,
             359999,
             359999,
             359999,
@@ -148610,6 +148663,7 @@
             634999,
             634999,
             634999,
+            634999,
             634999
           ]
         },
@@ -148625,6 +148679,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_lenovo_legion_7_16agp11_glacier_white.jpeg",
           "url": "https://rbtechngames.com/product/lenovo-legion-7-16agp11-amd-ryzen-ai-7-32gb-ram-1tb-ssd-rtx-5060-16-2k-240hz-oled-display-glacier-white-open-box",
           "history": [
+            644999,
             644999,
             644999,
             644999,
@@ -148654,6 +148709,7 @@
             289999,
             289999,
             289999,
+            289999,
             289999
           ]
         },
@@ -148669,6 +148725,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_omen_16_slim_2025_shadow_black_2.webp",
           "url": "https://rbtechngames.com/product/hp-omen-16-slim-an0119nr-intel-core-9-285h-16gb-ram-1tb-ssd-rtx-5070-16-qhd-240hz-ips-display-shadow-black-open-box",
           "history": [
+            534999,
             534999,
             534999,
             534999,
@@ -148698,6 +148755,7 @@
             724999,
             724999,
             724999,
+            724999,
             724999
           ]
         },
@@ -148713,6 +148771,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/03/rbtech_asus_prime_radeon_9070_xt_16gb_oc_white.webp",
           "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-white-oc-edition-16gb-graphics-card-used",
           "history": [
+            249999,
             249999,
             249999,
             249999,
@@ -150061,13 +150120,13 @@
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_teamgroup_nv5000.png",
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/teamgroup_nv5000_first_cutout_square_transparent.png",
           "url": "https://rbtechngames.com/product/teamgroup-nv5000-pcie-nvme-m-2-gen-4-ssd-500gb-1tb-2tb",
           "history": [
             41999,
             41999,
             41999,
-            41999,
+            38499,
             38499,
             38499,
             38499,
@@ -150896,6 +150955,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_zotac_rtx_1080_ti_blower.jpg",
           "url": "https://rbtechngames.com/product/zotac-geforce-gtx-1080-ti-blower-edition-11gb-graphics-card-used",
           "history": [
+            54999,
             54999,
             54999,
             54999,
@@ -152375,7 +152435,7 @@
             241999,
             241999,
             241999,
-            241999,
+            254999,
             254999,
             254999,
             254999,
@@ -152786,7 +152846,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_zotac_rtx_5050_twin_edge.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5050-twin-edge-8gb-graphics-card",
           "history": [
-            116999,
+            118999,
             118999,
             118999,
             118999,
@@ -153893,8 +153953,8 @@
           ]
         },
         {
-          "id": "rbtechgames_7aa98c40",
-          "name": "Aula WIN60 HE MAX 65% Wired RGB Magnetic Gaming Keyboard &#8211; Grey Yellow (Wing Chun Ma",
+          "id": "rbtechgames_63990cfe",
+          "name": "Aula WIN60 HE MAX 60% Wired RGB Magnetic Gaming Keyboard &#8211; Grey Yellow (Wing Chun Ma",
           "brand": "Aula",
           "category": "keyboard",
           "price": 12999,
@@ -153904,17 +153964,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_aula_win60_he_max_grey_yellow_3.webp",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-grey-yellow-wing-chun-magnetic-switch",
           "history": [
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
             12999
           ]
         },
@@ -154948,6 +154997,7 @@
             60999,
             60999,
             60999,
+            60999,
             60999
           ]
         },
@@ -155281,7 +155331,7 @@
             109999,
             109999,
             109999,
-            109999,
+            149999,
             149999,
             149999,
             149999,
@@ -155368,8 +155418,8 @@
           ]
         },
         {
-          "id": "rbtechgames_6f190796",
-          "name": "Aula WIN60 HE MAX 65% Wired RGB Magnetic Gaming Keyboard &#8211; White Blue Grey (Wing Chu",
+          "id": "rbtechgames_c1cd37b9",
+          "name": "Aula WIN60 HE MAX 60% Wired RGB Magnetic Gaming Keyboard &#8211; White Blue Grey (Wing Chu",
           "brand": "Aula",
           "category": "keyboard",
           "price": 12999,
@@ -155379,17 +155429,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_aula_win60_he_max_white_blue_grey.webp",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-white-blue-grey-wing-chun-switch",
           "history": [
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
-            12999,
             12999
           ]
         },
@@ -155602,8 +155641,8 @@
           ]
         },
         {
-          "id": "rbtechgames_29fcadf9",
-          "name": "Aula WIN60 HE MAX 65% Wired RGB Magnetic Gaming Keyboard – Red (Contour) [Wing Chun Magnet",
+          "id": "rbtechgames_36cb1031",
+          "name": "Aula WIN60 HE MAX 60% Wired RGB Magnetic Gaming Keyboard – Red (Contour) [Wing Chun Magnet",
           "brand": "Aula",
           "category": "keyboard",
           "price": 13499,
@@ -155613,17 +155652,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_aula_win60_he_max_red_contour.jpg",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-red-contour-wing-chun-magnetic-switches",
           "history": [
-            13499,
-            13499,
-            13499,
-            13499,
-            13499,
-            13499,
-            13499,
-            13499,
-            13499,
-            13499,
-            13499,
             13499
           ]
         },
@@ -155798,7 +155826,7 @@
             40499,
             40499,
             40499,
-            40499,
+            38999,
             38999,
             38999,
             38999,
@@ -158659,6 +158687,7 @@
             5999,
             5999,
             5999,
+            5999,
             5999
           ]
         },
@@ -158674,6 +158703,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_prism_cloth_medium.jpg",
           "url": "https://rbtechngames.com/product/steelseries-qck-prism-cloth-gaming-mouse-pad-medium",
           "history": [
+            9999,
             9999,
             9999,
             9999,
