@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T17:16:25.768940+00:00",
+  "lastUpdated": "2026-10-10T21:12:47.370271+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_af12726c",
+          "name": "SteelSeries QcK XL Performance Speed Gaming Mousepad",
+          "brand": "SteelSeries",
+          "category": "mouse",
+          "price": 14990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-xl-performance-price-in-pakistan-pakbyte_1.webp?v=1791659509",
+          "url": "https://www.pakbyte.pk/products/steelseries-qck-xl-performance-speed-gaming-mousepad",
+          "history": [
+            14990
+          ]
+        },
         {
           "id": "pakbyte_15d82e20",
           "name": "Viewsonic CDE8614-2C 86\" 4K Commercial Display with Pro AV Integration",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE8614-2C-Price-in-Pakistan-Pakbyte_1_2b62ceda-746a-4cbf-8be5-6395cd424cf6.webp?v=1791561624",
           "url": "https://www.pakbyte.pk/products/viewsonic-cde8614-2c-86-4k-commercial-display-with-pro-av-integration",
           "history": [
+            564990,
             564990,
             564990,
             564990,
@@ -38,6 +54,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE7531-1C-Commercial-Display-Price-in-Pakistan-Pakbyte_1.webp?v=1791546897",
           "url": "https://www.pakbyte.pk/products/viewsonic-cde7531-1c-75-4k-professional-commercial-display-with-pro-av-integration",
           "history": [
+            429990,
             429990,
             429990,
             429990,
@@ -61,6 +78,7 @@
             429990,
             429990,
             429990,
+            429990,
             429990
           ]
         },
@@ -76,6 +94,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-22b40hm-monitor-price-in-pakistan-pakbyte_1.webp?v=1791441065",
           "url": "https://www.pakbyte.pk/products/aoc-22b40hm-21-45-full-hd-va-gaming-monitor",
           "history": [
+            23490,
             23490,
             23490,
             23490,
@@ -107,6 +126,7 @@
             33990,
             33990,
             33990,
+            33990,
             33990
           ]
         },
@@ -122,6 +142,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/zotac-rtx-3060-blower-edition-pakbyte.jpg?v=1791380036",
           "url": "https://www.pakbyte.pk/products/zotac-geforce-rtx-3060-blower-edition-12gb-graphics-card",
           "history": [
+            93999,
             93999,
             93999,
             93999,
@@ -2382,7 +2403,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX2537-25-FHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1788762350",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2537-25-420hz-fhd-gaming-monitor",
           "history": [
-            69790,
+            69990,
             69990,
             69990,
             69990,
@@ -3064,7 +3085,7 @@
             561990,
             561990,
             561990,
-            561990,
+            559990,
             559990,
             559990,
             559990,
@@ -3078,7 +3099,7 @@
           "brand": "ATK",
           "category": "mouse",
           "price": 23999,
-          "oldPrice": 21990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-a9-mini-ultimate-price-in-pakistan-pakbyte.webp?v=1787558310",
@@ -3094,7 +3115,7 @@
             21990,
             21990,
             21990,
-            21990,
+            23999,
             23999
           ]
         },
@@ -3162,7 +3183,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX27G32A-2K-27-QHD-275Hz-Gaming-Monitor-Price-in-Pakistan-Pakbyte_4.jpg?v=1787240690",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx27g32a-2k-27-qhd-275hz-gaming-monitor",
           "history": [
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -3188,7 +3209,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx27g31a-price-in-pakistan-pakbyte_2.webp?v=1787239603",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx27g31a-27-fhd-omni-gaming-monitor",
           "history": [
-            51790,
+            49990,
             49990,
             49990,
             49990,
@@ -3214,7 +3235,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2532-price-in-pakistan-pakbyte_1.webp?v=1787207331",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2532-320hz-1080p-fhd-ips-25-gaming-monitor",
           "history": [
-            53790,
+            53990,
             53990,
             53990,
             53990,
@@ -3240,7 +3261,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx24g30-w-price-in-pakistan-pakbyte_1.webp?v=1787206865",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx24g30-w-24-240hz-fhd-omni-gaming-monitor",
           "history": [
-            46490,
+            44490,
             44490,
             44490,
             44490,
@@ -3266,7 +3287,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va27g1-h-price-in-pakistan-pakbyte_1.webp?v=1787121379",
           "url": "https://www.pakbyte.pk/products/viewsonic-va27g1-h-27-144hz-fhd-gaming-monitor",
           "history": [
-            37490,
+            35990,
             35990,
             35990,
             35990,
@@ -3292,7 +3313,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-VA24G2-H-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1787120813",
           "url": "https://www.pakbyte.pk/products/viewsonic-va24g2-h-24-144hz-fhd-gaming-monitor",
           "history": [
-            33490,
+            30990,
             30990,
             30990,
             30990,
@@ -3322,7 +3343,7 @@
             160790,
             160790,
             160790,
-            160790,
+            158990,
             158990,
             158990,
             158990,
@@ -3348,7 +3369,7 @@
             97790,
             97790,
             97790,
-            97790,
+            95990,
             95990,
             95990,
             95990,
@@ -3373,7 +3394,7 @@
             47490,
             47490,
             47490,
-            47490,
+            45990,
             45990,
             45990,
             45990,
@@ -3399,7 +3420,7 @@
             40490,
             40490,
             40490,
-            40490,
+            38990,
             38990,
             38990,
             38990,
@@ -3425,7 +3446,7 @@
             34490,
             34490,
             34490,
-            34490,
+            32990,
             32990,
             32990,
             32990,
@@ -5843,7 +5864,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -9903,7 +9924,7 @@
             68999,
             68999,
             68999,
-            68999,
+            49999,
             49999,
             49999,
             49999,
@@ -12938,7 +12959,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX2757-2K-PRO-4-27-QHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1778737782",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2757-2k-pro-4-27-qhd-2k-425hz-gaming-monitor",
           "history": [
-            111990,
+            110990,
             110990,
             110990,
             110990,
@@ -12964,7 +12985,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX24G30-24-Full-HD-Gaming-Monitor-price-in-pakistan-pakbyte_1.jpg?v=1778737548",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx24g30-24-full-hd-240hz-gaming-monitor",
           "history": [
-            41490,
+            39990,
             39990,
             39990,
             39990,
@@ -12990,7 +13011,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-XG2730D-IPS-4K-27-144Hz-Dual-Mode-Esports-Gaming-Monitor-Price-in-Pakistan-Pakbyte.webp?v=1778737272",
           "url": "https://www.pakbyte.pk/products/viewsonic-xg2730d-ips-4k-27-144hz-dual-mode-esports-gaming-monitor",
           "history": [
-            90790,
+            91990,
             91990,
             91990,
             91990,
@@ -14530,7 +14551,7 @@
             661990,
             661990,
             661990,
-            661990,
+            659990,
             659990,
             659990,
             659990,
@@ -14554,7 +14575,7 @@
             286990,
             286990,
             286990,
-            286990,
+            284990,
             284990,
             284990,
             284990,
@@ -14580,7 +14601,7 @@
             286790,
             286790,
             286790,
-            286790,
+            255990,
             255990,
             255990,
             255990,
@@ -14606,7 +14627,7 @@
             163790,
             163790,
             163790,
-            163790,
+            161990,
             161990,
             161990,
             161990,
@@ -14632,7 +14653,7 @@
             66790,
             66790,
             66790,
-            66790,
+            64990,
             64990,
             64990,
             64990,
@@ -14658,7 +14679,7 @@
             66790,
             66790,
             66790,
-            66790,
+            64990,
             64990,
             64990,
             64990,
@@ -15376,7 +15397,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 269999,
-          "oldPrice": 219990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-GeForce-RTX-5070-12GB-Inspire-3X-OC-Graphics-Card-Price-in-Pakistan-Pakbyte_1.jpg?v=1776318730",
@@ -15392,7 +15413,7 @@
             219990,
             219990,
             219990,
-            219990,
+            269999,
             269999
           ]
         },
@@ -17659,29 +17680,18 @@
           ]
         },
         {
-          "id": "pakbyte_e4190bc0",
-          "name": "SteelSeries QcK Cloth Gaming Mouse Pad - White",
+          "id": "pakbyte_7b2c7bf6",
+          "name": "SteelSeries QcK Large Gaming Mouse Pad - White",
           "brand": "SteelSeries",
           "category": "mouse",
-          "price": 6290,
+          "price": 6490,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-large-white-price-in-pakistan-pakbyte_3.webp?v=1774344198",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-large-white-price-in-pakistan-pakbyte_1.webp?v=1774344198",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-cloth-gaming-mouse-pad-white",
           "history": [
-            6290,
-            6290,
-            6290,
-            6290,
-            6290,
-            6290,
-            6290,
-            6290,
-            6290,
-            6290,
-            6290,
-            6290
+            6490
           ]
         },
         {
@@ -17711,28 +17721,17 @@
           ]
         },
         {
-          "id": "pakbyte_2931776b",
-          "name": "SteelSeries QcK Large Gaming Mousepad",
+          "id": "pakbyte_9f95e32b",
+          "name": "SteelSeries QcK Large Gaming Mousepad - Black",
           "brand": "SteelSeries",
           "category": "mouse",
           "price": 4790,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Steelseries-QCK-Edge-Large-price-in-pakistan-pakbyte_1.jpg?v=1774337494",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-large-gaming-mousepad",
           "history": [
-            4790,
-            4790,
-            4790,
-            4790,
-            4790,
-            4790,
-            4790,
-            4790,
-            4790,
-            4790,
-            4790,
             4790
           ]
         },
@@ -17767,9 +17766,9 @@
           "name": "SteelSeries QcK XL Performance Control Gaming Mousepad",
           "brand": "SteelSeries",
           "category": "mouse",
-          "price": 14490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 14990,
+          "oldPrice": 14490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Steelseries-QCK-performance-control-mousepad-price-in-pakistan-pakbyte_1.jpg?v=1774336158",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-xl-performance-control-gaming-mousepad",
@@ -17785,7 +17784,7 @@
             14490,
             14490,
             14490,
-            14490
+            14990
           ]
         },
         {
@@ -17897,8 +17896,8 @@
           "name": "SteelSeries Arctis Nova 7P Wireless Gen 2 Gaming Headset - Black",
           "brand": "SteelSeries",
           "category": "headset",
-          "price": 61990,
-          "oldPrice": null,
+          "price": 63990,
+          "oldPrice": 61990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-arctis-nova-7p-gen-2-price-in-pakistan-pakbyte_1.webp?v=1773899962",
@@ -17915,7 +17914,7 @@
             61990,
             61990,
             61990,
-            61990
+            63990
           ]
         },
         {
@@ -17923,8 +17922,8 @@
           "name": "SteelSeries Arctis Nova 7P Wireless Gen 2 Gaming Headset - White",
           "brand": "SteelSeries",
           "category": "headset",
-          "price": 61990,
-          "oldPrice": null,
+          "price": 63990,
+          "oldPrice": 61990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-7P-Wireless-price-in-pakistan-pakbyte_1.webp?v=1773899636",
@@ -17941,7 +17940,7 @@
             61990,
             61990,
             61990,
-            61990
+            63990
           ]
         },
         {
@@ -17949,8 +17948,8 @@
           "name": "SteelSeries Arctis Nova 7 Gen 2 Wireless Multi-Platform Gaming Headset - White",
           "brand": "SteelSeries",
           "category": "headset",
-          "price": 61990,
-          "oldPrice": null,
+          "price": 63990,
+          "oldPrice": 61990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-7-Wireless-Gen-2-price-in-pakistan-pakbyte_1.webp?v=1773898938",
@@ -17967,7 +17966,7 @@
             61990,
             61990,
             61990,
-            61990
+            63990
           ]
         },
         {
@@ -17975,8 +17974,8 @@
           "name": "SteelSeries Arctis Nova 3P Wireless PlayStation Gaming Headset - Black",
           "brand": "SteelSeries",
           "category": "headset",
-          "price": 33490,
-          "oldPrice": null,
+          "price": 32990,
+          "oldPrice": 33490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-arctis-nova-3p-price-in-pakistan-pakbyte_5.webp?v=1773897641",
@@ -17993,7 +17992,7 @@
             33490,
             33490,
             33490,
-            33490
+            32990
           ]
         },
         {
@@ -19548,7 +19547,7 @@
             541990,
             541990,
             541990,
-            541990,
+            539990,
             539990,
             539990,
             539990,
@@ -19574,7 +19573,7 @@
             411990,
             411990,
             411990,
-            411990,
+            409990,
             409990,
             409990,
             409990,
@@ -19990,7 +19989,7 @@
             381990,
             381990,
             381990,
-            381990,
+            379990,
             379990,
             379990,
             379990,
@@ -20062,7 +20061,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2766-2k-pro-9-price-in-pakistan-pakbyte_4.webp?v=1773390628",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2766-2k-pro-9-27-2k-qhd-320hz-ips-hdr10-gaming-monitor",
           "history": [
-            73790,
+            72490,
             72490,
             72490,
             72490,
@@ -20092,7 +20091,7 @@
             103990,
             103990,
             103990,
-            103990,
+            101990,
             101990,
             101990,
             101990,
@@ -20117,7 +20116,7 @@
             36990,
             36990,
             36990,
-            36990,
+            34990,
             34990,
             34990,
             34990,
@@ -20143,7 +20142,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -20169,7 +20168,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -20195,7 +20194,7 @@
             31490,
             31490,
             31490,
-            31490,
+            29990,
             29990,
             29990,
             29990,
@@ -21017,8 +21016,8 @@
           "name": "SteelSeries Arctis Nova 7 Wireless Gen 2 Multi-Platform Gaming Headset - Black",
           "brand": "SteelSeries",
           "category": "headset",
-          "price": 61990,
-          "oldPrice": null,
+          "price": 63990,
+          "oldPrice": 61990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-arctis-nova-7-gen-2-wireless-headset-price-in-pakistan-pakbyte-1.jpg?v=1773195630",
@@ -21035,7 +21034,7 @@
             61990,
             61990,
             61990,
-            61990
+            63990
           ]
         },
         {
@@ -22662,7 +22661,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Arktek-NVIDIA-GEFORCE-GTX1650-4GB-GDDR6-128-bit-Graphics-Card-Price-in-Pakistan-Pakbyte_1.jpg?v=1772080568",
           "url": "https://www.pakbyte.pk/products/arktek-nvidia-geforce-gtx1650-4gb-gddr6-128-bit-graphics-card",
           "history": [
-            49990,
+            55499,
             55499,
             55499,
             55499,
@@ -23081,7 +23080,7 @@
             33990,
             33990,
             33990,
-            33990,
+            35499,
             35499,
             35499,
             35499,
@@ -23107,7 +23106,7 @@
             32990,
             32990,
             32990,
-            32990,
+            35499,
             35499,
             35499,
             35499,
@@ -28360,7 +28359,7 @@
             60790,
             60790,
             60790,
-            60790,
+            58990,
             58990,
             58990,
             58990,
@@ -28385,7 +28384,7 @@
             35490,
             35490,
             35490,
-            35490,
+            33990,
             33990,
             33990,
             33990,
@@ -30879,7 +30878,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vp2756a-2k-27-120hz-ips-monitor",
           "history": [
             100790,
-            100790,
+            98990,
             98990,
             98990,
             98990,
@@ -30956,6 +30955,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
           "url": "https://www.pakbyte.pk/products/viewsonic-va240a-h-24-inch-hd-monitor",
           "history": [
+            27990,
             27990,
             27990,
             27990,
@@ -32854,7 +32854,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-va1655-15-6-1080p-fhd-ips-portable-monitor-with-built-in-stand",
           "history": [
             46300,
-            46300,
+            51990,
             51990,
             51990,
             51990,
@@ -33637,7 +33637,7 @@
             90790,
             90790,
             90790,
-            90790,
+            88990,
             88990,
             88990,
             88990,
@@ -33663,7 +33663,7 @@
             60790,
             60790,
             60790,
-            60790,
+            59990,
             59990,
             59990,
             59990,
@@ -33688,7 +33688,7 @@
             43490,
             43490,
             43490,
-            43490,
+            41990,
             41990,
             41990,
             41990,
@@ -33715,7 +33715,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990,
             65990,
@@ -39723,7 +39723,7 @@
             201990,
             201990,
             201990,
-            201990,
+            198990,
             198990,
             198990,
             198990,
@@ -39749,7 +39749,7 @@
             201990,
             201990,
             201990,
-            201990,
+            239990,
             239990,
             239990,
             239990,
@@ -39775,7 +39775,7 @@
             311990,
             311990,
             311990,
-            311990,
+            309990,
             309990,
             309990,
             309990,
@@ -39801,7 +39801,7 @@
             17990,
             17990,
             17990,
-            17990,
+            16990,
             16990,
             16990,
             16990,
@@ -39873,7 +39873,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va3208-4k-mhd-monitor-price-in-pakistan-pakbyte_4.jpg?v=1764669414",
           "url": "https://www.pakbyte.pk/products/viewsonic-va3208-4k-mhd-32-4k-monitor",
           "history": [
-            80990,
+            93990,
             93990,
             93990,
             93990,
@@ -39899,7 +39899,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-VA2708-4K-MHD-27-4K-UHD-3840x2160-60Hz-4ms-GTG-IPS-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1764665559",
           "url": "https://www.pakbyte.pk/products/viewsonic-va2708-4k-mhd-27-inch-60hz-4k-uhd-monitor",
           "history": [
-            67790,
+            65990,
             65990,
             65990,
             65990,
@@ -39925,7 +39925,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/VIEWSONIC-GAMING-LED-24_-XG2431-GAMING-MoNITOR-PRICE-IN-PAKISTAN-PAKBYTE_1.webp?v=1764664837",
           "url": "https://www.pakbyte.pk/products/viewsonic-xg2431-24-fhd-240hz-gaming-monitor",
           "history": [
-            49490,
+            47990,
             47990,
             47990,
             47990,
@@ -39951,7 +39951,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va24g1-h-price-in-pakistan-pakbyte_5.webp?v=1764664311",
           "url": "https://www.pakbyte.pk/products/viewsonic-va24g1-h-24-full-hd-144hz-ips-1ms-gaming-monitor",
           "history": [
-            30990,
+            29990,
             29990,
             29990,
             29990,
@@ -47598,7 +47598,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -47624,7 +47624,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -48115,7 +48115,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5050-8g-ventus-2x-oc-price-in-pakistan-pakbyte_2.webp?v=1759584745",
           "url": "https://www.pakbyte.pk/products/msi-geforce-rtx-5050-8g-ventus-2x-oc-8gb-graphics-card",
           "history": [
-            107990,
+            126999,
             126999,
             126999,
             126999,
@@ -57398,7 +57398,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx3418c-2k-34-va-1500r-uwqhd-180hz-1ms-mprt-amd-freesync-premium-hdr10-curved-gaming-monitor",
           "history": [
             95790,
-            95790,
+            96990,
             96990,
             96990,
             96990,
@@ -57424,7 +57424,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vp3481a-34-inch-3440-x-1440-100hz-5ms-uwqhd-va-ultrawide-premium-monitor",
           "history": [
             206990,
-            206990,
+            204990,
             204990,
             204990,
             204990,
@@ -57450,7 +57450,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vp3256-4k-32-inch-4k-uhd-ips-ergonomic-monitor",
           "history": [
             191790,
-            191790,
+            179990,
             179990,
             179990,
             179990,
@@ -57527,7 +57527,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2779a-hd-pro-monitor-price-in-pakistan_1.webp?v=1753857262",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2779a-hd-pro-gaming-monitor-27-inch-full-hd-1920-x-1080-ips-240hz-1ms",
           "history": [
-            46490,
+            44990,
             44990,
             44990,
             44990,
@@ -57553,7 +57553,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va270a-h-monitor-price-in-pakistan5_1.jpg?v=1753856921",
           "url": "https://www.pakbyte.pk/products/viewsonic-va270a-h-120hz-1080p-full-hd-ips-27-monitor-with-fast-1ms-response-time",
           "history": [
-            35490,
+            34490,
             34490,
             34490,
             34490,
@@ -57579,7 +57579,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2479a-hd-pro-monitor-price-in-pakistan_1.jpg?v=1753855694",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2479a-hd-pro-24-fhd-240hz-1ms-ips-panel-gaming-monitor",
           "history": [
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -57609,7 +57609,7 @@
             60790,
             60790,
             60790,
-            60790,
+            58990,
             58990,
             58990,
             58990,
@@ -62887,7 +62887,7 @@
             61790,
             61790,
             61790,
-            61790,
+            59990,
             59990,
             59990,
             59990,
@@ -62909,7 +62909,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-Pro-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167571152963.jpg?v=1753670531",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-pro-wireless-gaming-mouse-black",
           "history": [
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -62935,7 +62935,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-Pro-Wireless-Gaming-Mouse-White-PakByte-Computers-26167570759747.jpg?v=1753670543",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-pro-wireless-gaming-mouse-white",
           "history": [
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -67479,7 +67479,7 @@
           "brand": "Seagate",
           "category": "storage",
           "price": 239999,
-          "oldPrice": 117499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Seagate-Barracuda-20TB-Internal-Hard-Drive-PakByte-Computers-25965212794947.jpg?v=1753671216",
@@ -67495,7 +67495,7 @@
             117499,
             117499,
             117499,
-            117499,
+            239999,
             239999
           ]
         },
@@ -70626,7 +70626,7 @@
           "category": "headset",
           "price": 19890,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-1P-Playstation-Gaming-Headset-Black-PakByte-Computers-25896397275203.jpg?v=1753671998",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-1p-playstation-gaming-headset-black",
@@ -85496,8 +85496,8 @@
           "name": "SteelSeries QCK 3XL Gaming Mouse Pad",
           "brand": "SteelSeries",
           "category": "mouse",
-          "price": 12490,
-          "oldPrice": null,
+          "price": 13490,
+          "oldPrice": 12490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-QCK-3XL-Gaming-Mouse-Pad-PakByte-Computers-25566948687939.jpg?v=1753675295",
@@ -85514,7 +85514,7 @@
             12490,
             12490,
             12490,
-            12490
+            13490
           ]
         },
         {
@@ -85522,9 +85522,9 @@
           "name": "SteelSeries QCK Prism Medium RGB Mousepad",
           "brand": "SteelSeries",
           "category": "mouse",
-          "price": 9700,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 9990,
+          "oldPrice": 9700,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-QCK-Prism-Medium-RGB-Mousepad-PakByte-Computers-25566933450819.jpg?v=1753675295",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-prism-medium-rgb-mousepad",
@@ -85540,7 +85540,7 @@
             9700,
             9700,
             9700,
-            9700
+            9990
           ]
         },
         {
@@ -85938,9 +85938,9 @@
           "name": "SteelSeries Arctis Nova 5P Wireless Headphone - White",
           "brand": "SteelSeries",
           "category": "headset",
-          "price": 49900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 46990,
+          "oldPrice": 49900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-5P-Wireless-Headphone-White-PakByte-Computers-25566766235715.jpg?v=1753675361",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-5p-wireless-headphone-white",
@@ -85956,7 +85956,7 @@
             49900,
             49900,
             49900,
-            49900
+            46990
           ]
         },
         {
@@ -85966,7 +85966,7 @@
           "category": "headset",
           "price": 46990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-5P-Wireless-Headphone-Black-PakByte-Computers-25566764826691.jpg?v=1753675373",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-5p-wireless-headphone-black",
@@ -86018,7 +86018,7 @@
           "category": "headset",
           "price": 44990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-5-Wireless-Headphone-Black-PakByte-Computers-25566749884483.jpg?v=1753675374",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-5-wireless-headphone-black",
@@ -94214,7 +94214,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-td2230-60hz-1080p-fhd-ips-22-10-point-touch-screen-monitor",
           "history": [
             84790,
-            84790,
+            83990,
             83990,
             83990,
             83990,
@@ -114910,7 +114910,7 @@
           "url": "https://www.pakbyte.pk/products/aoc-22b3hm-3-sided-frameless-21-5-inches-75hz-fhd-led-monitor",
           "history": [
             25190,
-            25190,
+            23990,
             23990,
             23990,
             23990,
@@ -117692,7 +117692,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vp2756-4k-27-4k-uhd-pantone-validated-100-srgb-factory-pre-calibrated-ips-monitor-with-60w-usb-c",
           "history": [
             154990,
-            154990,
+            153990,
             153990,
             153990,
             153990,
@@ -117773,7 +117773,7 @@
             126990,
             126990,
             126990,
-            126990,
+            124990,
             124990,
             124990,
             124990,
@@ -118806,7 +118806,7 @@
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Apex-3-TKL-Wired-Gaming-Keyboard-with-RGB-Backlighting-Black-64831-PakByte-Computers-24397577879619.webp?v=1753681226",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Apex-3-TKL-Wired-Gaming-Keyboard-with-RGB-Backlighting-Black-64831-PakByte-Computers-24397577945155.webp?v=1753681226",
           "url": "https://www.pakbyte.pk/products/steelseries-apex-3-tkl-wired-gaming-keyboard-with-rgb-backlighting-black",
           "history": [
             16990,
@@ -119382,7 +119382,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-td2423-24-ir-touch-monitor",
           "history": [
             83790,
-            83790,
+            85990,
             85990,
             85990,
             85990,
@@ -120320,7 +120320,7 @@
             58490,
             58490,
             58490,
-            58490,
+            66999,
             66999,
             66999,
             66999,
@@ -121149,7 +121149,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX3276-2K-MHD-2-32-IPS-QHD-Entertainment-Monitor-PakByte-Computers-24397519814723.webp?v=1753681773",
           "url": "https://www.pakbyte.pk/products/viewsonic-vx3276-2k-mhd-2-monitor",
           "history": [
-            71990,
+            74990,
             74990,
             74990,
             74990,
@@ -123984,7 +123984,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-td1655",
           "history": [
             87790,
-            87790,
+            86990,
             86990,
             86990,
             86990,
@@ -124010,7 +124010,7 @@
           "url": "https://www.pakbyte.pk/products/philips-162b9t",
           "history": [
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -124117,7 +124117,7 @@
             321990,
             321990,
             321990,
-            321990,
+            329990,
             329990,
             329990,
             329990,
@@ -124310,8 +124310,8 @@
           ]
         },
         {
-          "id": "pakbyte_326abace",
-          "name": "SteelSeries Arctis Nova 1 Multi-System Gaming Headset - Black",
+          "id": "pakbyte_4cba9260",
+          "name": "SteelSeries Arctis Nova 1 Gaming Headset - Black",
           "brand": "SteelSeries",
           "category": "headset",
           "price": 19990,
@@ -124321,17 +124321,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-1-Multi-System-Gaming-Headset-Black-PakByte-Computers-24397427179587.webp?v=1753682327",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-1-multi-system-gaming-headset-black",
           "history": [
-            19990,
-            19990,
-            19990,
-            19990,
-            19990,
-            19990,
-            19990,
-            19990,
-            19990,
-            19990,
-            19990,
             19990
           ]
         },
@@ -131030,7 +131019,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonictouch-led-ep1042t-10-10-point-touch-25ms-led-pannel-1280x800-hdmi-micro-usb-speaker-vesa-mount",
           "history": [
             77990,
-            77990,
+            75990,
             75990,
             75990,
             75990,
@@ -131483,6 +131472,21 @@
             5000,
             5000,
             5000
+          ]
+        },
+        {
+          "id": "pakbyte_99dacb39",
+          "name": "SteelSeries QcK Prism Series Cloth RGB Gaming Mousepad - XL",
+          "brand": "SteelSeries",
+          "category": "mouse",
+          "price": 16490,
+          "oldPrice": null,
+          "inStock": false,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-prism-cloth-xl-price-in-pakistan-pakbyte_1.jpg?v=1791659144",
+          "url": "https://www.pakbyte.pk/products/steelseries-qck-prism-cloth-gaming-surface-medium-optimized-for-gaming-sensors",
+          "history": [
+            16490
           ]
         },
         {
@@ -148601,6 +148605,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_v_16_ai.webp",
           "url": "https://rbtechngames.com/product/acer-nitro-v16s-ai-anv16s-41-r2aj-amd-ryzen-7-260-16gb-ram-1tb-ssd-rtx-5060-16-fhd-180hz-ips-display-obsidian-black-used",
           "history": [
+            434999,
             434999
           ]
         },
@@ -148616,6 +148621,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_lenovo_loq_15_15irx10_rgb.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-i7-14th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-luna-grey-used",
           "history": [
+            394999,
             394999
           ]
         },
@@ -148631,6 +148637,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5070-15-3-fhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            544999,
             544999
           ]
         },
@@ -148646,6 +148653,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-fhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            514999,
             514999
           ]
         },
@@ -148661,6 +148669,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_zephrus_g14_ga403_platinum_white.png",
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g14-2025-ga403um-amd-ryzen-9-270-16gb-ram-1tb-ssd-rtx-5060-14-3k-120hz-oled-display-platinum-white-used-copy",
           "history": [
+            609999,
             609999
           ]
         },
@@ -148676,6 +148685,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_elitebook_640_g9.webp",
           "url": "https://rbtechngames.com/product/hp-elitebook-640-g9-intel-core-i5-1245u-16gb-ram-256gb-ssd-14-fhd-ips-display-used",
           "history": [
+            104999,
             104999
           ]
         },
@@ -148691,6 +148701,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_hp_zbook_firefly_14_g9.webp",
           "url": "https://rbtechngames.com/product/hp-zbook-firefly-14-g9-intel-core-i7-1255u-16gb-ram-512gb-ssd-nvidia-t550-4gb-gpu-14-fhd-ips-display-used",
           "history": [
+            157999,
             157999
           ]
         },
@@ -148706,6 +148717,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_rtx_3070_ti_gaming_oc_8gb.png",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-8gb-graphics-card-used",
           "history": [
+            124999,
             124999
           ]
         },
@@ -148721,6 +148733,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_vzmore_ax9_max_ai.webp",
           "url": "https://rbtechngames.com/product/vzmore-ax9-max-ai-mini-pc-amd-ryzen-ai-9-hx-470-32gb-ram-1tb-ssd",
           "history": [
+            399999,
             399999
           ]
         },
@@ -148736,6 +148749,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_bosgame_e6_eco.webp",
           "url": "https://rbtechngames.com/product/bosgame-e6-eco-mini-pc-intel-core-3-304-12gb-ram-512gb-ssd",
           "history": [
+            94999,
             94999
           ]
         },
@@ -148751,6 +148765,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_steelseries_qck_cloth_large_black.webp",
           "url": "https://rbtechngames.com/product/steelseries-qck-cloth-gaming-mouse-pad-large-black-white",
           "history": [
+            5499,
             5499,
             5499,
             5499,
@@ -151149,6 +151164,7 @@
             54999,
             54999,
             54999,
+            54999,
             54999
           ]
         },
@@ -151548,7 +151564,7 @@
           "brand": "AMD",
           "category": "gpu",
           "price": 434999,
-          "oldPrice": 364999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_loq_15_15ahp10.webp",
@@ -151564,7 +151580,7 @@
             364999,
             364999,
             364999,
-            364999,
+            434999,
             434999
           ]
         },
@@ -152620,7 +152636,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_hp_victus_15_fa2013dx.webp",
           "url": "https://rbtechngames.com/product/hp-victus-15-fa2013dx-intel-core-i5-13th-gen-8gb-ram-512gb-ssd-rtx-3050-15-6-fhd-144hz-ips-display-mica-silver-new",
           "history": [
-            241999,
+            254999,
             254999,
             254999,
             254999,
@@ -152906,6 +152922,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_attack_shark_cm02_black_red_contour.webp",
           "url": "https://rbtechngames.com/product/attack-shark-cm02-esport-gaming-mouse-pad-black-black-red-contour-white-contour",
           "history": [
+            3499,
             3499
           ]
         },
@@ -154121,6 +154138,7 @@
             12999,
             12999,
             12999,
+            12999,
             12999
           ]
         },
@@ -155020,6 +155038,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/MSIKatana-1.png",
           "url": "https://rbtechngames.com/product/msi-katana-15-hx-2025-intel-core-i7-14th-gen-16gb-ram-1tb-ssd-rtx-5070-15-6-qhd-165hz-ips-display-windows-11-black-new",
           "history": [
+            484999,
             484999
           ]
         },
@@ -155113,6 +155132,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_logitech_mx_keys_combo_for_business_gen_2.jpg",
           "url": "https://rbtechngames.com/product/logitech-mx-keys-combo-for-business-gen-2-wireless-gaming-keyboard-and-mouse",
           "history": [
+            60999,
             60999,
             60999,
             60999,
@@ -155261,7 +155281,7 @@
           "brand": "Lexar",
           "category": "storage",
           "price": 26499,
-          "oldPrice": 72999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
@@ -155274,10 +155294,10 @@
             26499,
             26499,
             26499,
+            72999,
+            72999,
+            72999,
             26499,
-            72999,
-            72999,
-            72999,
             26499
           ]
         },
@@ -155450,7 +155470,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-twin-edge-8gb-graphics-card",
           "history": [
             109999,
-            109999,
+            149999,
             149999,
             149999,
             149999,
@@ -155553,6 +155573,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_aula_win60_he_max_white_blue_grey.webp",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-white-blue-grey-wing-chun-switch",
           "history": [
+            12999,
             12999,
             12999,
             12999,
@@ -155784,6 +155805,7 @@
             13499,
             13499,
             13499,
+            13499,
             13499
           ]
         },
@@ -155984,6 +156006,7 @@
             256999,
             256999,
             256999,
+            256999,
             256999
           ]
         },
@@ -156155,6 +156178,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-core-16gb-oc-graphics-card",
           "history": [
+            489999,
             489999,
             489999,
             489999,
@@ -158808,6 +158832,7 @@
             5999,
             5999,
             5999,
+            5999,
             5999
           ]
         },
@@ -158823,6 +158848,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_prism_cloth_medium.jpg",
           "url": "https://rbtechngames.com/product/steelseries-qck-prism-cloth-gaming-mouse-pad-medium",
           "history": [
+            9999,
             9999,
             9999,
             9999,
