@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T11:58:25.532966+00:00",
+  "lastUpdated": "2026-10-10T17:16:25.768940+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -22,6 +22,7 @@
           "history": [
             564990,
             564990,
+            564990,
             564990
           ]
         },
@@ -37,6 +38,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE7531-1C-Commercial-Display-Price-in-Pakistan-Pakbyte_1.webp?v=1791546897",
           "url": "https://www.pakbyte.pk/products/viewsonic-cde7531-1c-75-4k-professional-commercial-display-with-pro-av-integration",
           "history": [
+            429990,
             429990,
             429990,
             429990,
@@ -58,6 +60,7 @@
             429990,
             429990,
             429990,
+            429990,
             429990
           ]
         },
@@ -73,6 +76,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-22b40hm-monitor-price-in-pakistan-pakbyte_1.webp?v=1791441065",
           "url": "https://www.pakbyte.pk/products/aoc-22b40hm-21-45-full-hd-va-gaming-monitor",
           "history": [
+            23490,
             23490,
             23490,
             23490,
@@ -102,6 +106,7 @@
             33990,
             33990,
             33990,
+            33990,
             33990
           ]
         },
@@ -117,6 +122,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/zotac-rtx-3060-blower-edition-pakbyte.jpg?v=1791380036",
           "url": "https://www.pakbyte.pk/products/zotac-geforce-rtx-3060-blower-edition-12gb-graphics-card",
           "history": [
+            93999,
             93999,
             93999,
             93999,
@@ -2377,7 +2383,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2537-25-420hz-fhd-gaming-monitor",
           "history": [
             69790,
-            69790,
+            69990,
             69990,
             69990,
             69990,
@@ -3059,7 +3065,7 @@
             561990,
             561990,
             561990,
-            561990,
+            559990,
             559990,
             559990,
             559990,
@@ -3071,8 +3077,8 @@
           "name": "ATK Blazing A9 Mini+ Ultimate Wireless Gaming Mouse - Lake Green",
           "brand": "ATK",
           "category": "mouse",
-          "price": 21990,
-          "oldPrice": null,
+          "price": 23999,
+          "oldPrice": 21990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-blazing-a9-mini-ultimate-price-in-pakistan-pakbyte.webp?v=1787558310",
@@ -3089,7 +3095,7 @@
             21990,
             21990,
             21990,
-            21990
+            23999
           ]
         },
         {
@@ -3157,7 +3163,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx27g32a-2k-27-qhd-275hz-gaming-monitor",
           "history": [
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -3183,7 +3189,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx27g31a-27-fhd-omni-gaming-monitor",
           "history": [
             51790,
-            51790,
+            49990,
             49990,
             49990,
             49990,
@@ -3209,7 +3215,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2532-320hz-1080p-fhd-ips-25-gaming-monitor",
           "history": [
             53790,
-            53790,
+            53990,
             53990,
             53990,
             53990,
@@ -3235,7 +3241,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx24g30-w-24-240hz-fhd-omni-gaming-monitor",
           "history": [
             46490,
-            46490,
+            44490,
             44490,
             44490,
             44490,
@@ -3261,7 +3267,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-va27g1-h-27-144hz-fhd-gaming-monitor",
           "history": [
             37490,
-            37490,
+            35990,
             35990,
             35990,
             35990,
@@ -3287,7 +3293,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-va24g2-h-24-144hz-fhd-gaming-monitor",
           "history": [
             33490,
-            33490,
+            30990,
             30990,
             30990,
             30990,
@@ -3317,7 +3323,7 @@
             160790,
             160790,
             160790,
-            160790,
+            158990,
             158990,
             158990,
             158990,
@@ -3343,7 +3349,7 @@
             97790,
             97790,
             97790,
-            97790,
+            95990,
             95990,
             95990,
             95990,
@@ -3368,7 +3374,7 @@
             47490,
             47490,
             47490,
-            47490,
+            45990,
             45990,
             45990,
             45990,
@@ -3394,7 +3400,7 @@
             40490,
             40490,
             40490,
-            40490,
+            38990,
             38990,
             38990,
             38990,
@@ -3420,7 +3426,7 @@
             34490,
             34490,
             34490,
-            34490,
+            32990,
             32990,
             32990,
             32990,
@@ -5838,7 +5844,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -9898,7 +9904,7 @@
             68999,
             68999,
             68999,
-            68999,
+            49999,
             49999,
             49999,
             49999
@@ -12407,7 +12413,7 @@
           "category": "mouse",
           "price": 3440,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-x31-price-in-pakistan-pakbyte_1.webp?v=1778920413",
           "url": "https://www.pakbyte.pk/products/e-yooso-x31-large-wireless-mouse-black",
@@ -12933,7 +12939,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2757-2k-pro-4-27-qhd-2k-425hz-gaming-monitor",
           "history": [
             111990,
-            111990,
+            110990,
             110990,
             110990,
             110990,
@@ -12959,7 +12965,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx24g30-24-full-hd-240hz-gaming-monitor",
           "history": [
             41490,
-            41490,
+            39990,
             39990,
             39990,
             39990,
@@ -12985,7 +12991,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-xg2730d-ips-4k-27-144hz-dual-mode-esports-gaming-monitor",
           "history": [
             90790,
-            90790,
+            91990,
             91990,
             91990,
             91990,
@@ -14525,7 +14531,7 @@
             661990,
             661990,
             661990,
-            661990,
+            659990,
             659990,
             659990,
             659990,
@@ -14549,7 +14555,7 @@
             286990,
             286990,
             286990,
-            286990,
+            284990,
             284990,
             284990,
             284990,
@@ -14575,7 +14581,7 @@
             286790,
             286790,
             286790,
-            286790,
+            255990,
             255990,
             255990,
             255990,
@@ -14601,7 +14607,7 @@
             163790,
             163790,
             163790,
-            163790,
+            161990,
             161990,
             161990,
             161990,
@@ -14627,7 +14633,7 @@
             66790,
             66790,
             66790,
-            66790,
+            64990,
             64990,
             64990,
             64990,
@@ -14653,7 +14659,7 @@
             66790,
             66790,
             66790,
-            66790,
+            64990,
             64990,
             64990,
             64990,
@@ -15369,8 +15375,8 @@
           "name": "MSI GeForce RTX 5070 12GB Inspire 3X OC Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 219990,
-          "oldPrice": null,
+          "price": 269999,
+          "oldPrice": 219990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-GeForce-RTX-5070-12GB-Inspire-3X-OC-Graphics-Card-Price-in-Pakistan-Pakbyte_1.jpg?v=1776318730",
@@ -15387,7 +15393,7 @@
             219990,
             219990,
             219990,
-            219990
+            269999
           ]
         },
         {
@@ -19543,7 +19549,7 @@
             541990,
             541990,
             541990,
-            541990,
+            539990,
             539990,
             539990,
             539990,
@@ -19569,7 +19575,7 @@
             411990,
             411990,
             411990,
-            411990,
+            409990,
             409990,
             409990,
             409990,
@@ -19985,7 +19991,7 @@
             381990,
             381990,
             381990,
-            381990,
+            379990,
             379990,
             379990,
             379990,
@@ -20057,7 +20063,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2766-2k-pro-9-27-2k-qhd-320hz-ips-hdr10-gaming-monitor",
           "history": [
             73790,
-            73790,
+            72490,
             72490,
             72490,
             72490,
@@ -20087,7 +20093,7 @@
             103990,
             103990,
             103990,
-            103990,
+            101990,
             101990,
             101990,
             101990,
@@ -20112,7 +20118,7 @@
             36990,
             36990,
             36990,
-            36990,
+            34990,
             34990,
             34990,
             34990,
@@ -20138,7 +20144,7 @@
             70790,
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -20164,7 +20170,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -20190,7 +20196,7 @@
             31490,
             31490,
             31490,
-            31490,
+            29990,
             29990,
             29990,
             29990,
@@ -22657,7 +22663,7 @@
           "url": "https://www.pakbyte.pk/products/arktek-nvidia-geforce-gtx1650-4gb-gddr6-128-bit-graphics-card",
           "history": [
             49990,
-            49990,
+            55499,
             55499,
             55499,
             55499,
@@ -23076,7 +23082,7 @@
             33990,
             33990,
             33990,
-            33990,
+            35499,
             35499,
             35499,
             35499,
@@ -23102,7 +23108,7 @@
             32990,
             32990,
             32990,
-            32990,
+            35499,
             35499,
             35499,
             35499,
@@ -23405,7 +23411,7 @@
           "category": "cooler",
           "price": 5490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/power-train-prism-8rs-black-price-in-pakistan-pakbyte.webp?v=1771934107",
           "url": "https://www.pakbyte.pk/products/power-train-prism-8rs-120mm-argb-reverse-blade-4-pin-pwm-case-fan-black",
@@ -28355,7 +28361,7 @@
             60790,
             60790,
             60790,
-            60790,
+            58990,
             58990,
             58990,
             58990,
@@ -28380,7 +28386,7 @@
             35490,
             35490,
             35490,
-            35490,
+            33990,
             33990,
             33990,
             33990,
@@ -30874,7 +30880,7 @@
           "history": [
             100790,
             100790,
-            100790,
+            98990,
             98990,
             98990,
             98990,
@@ -30950,6 +30956,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va240a-h-24-1080p-ips-monitor-with-frameless-design-Price-in-Pakistan-Pakbyte_1.webp?v=1766992546",
           "url": "https://www.pakbyte.pk/products/viewsonic-va240a-h-24-inch-hd-monitor",
           "history": [
+            27990,
             27990,
             27990,
             27990,
@@ -32848,7 +32855,7 @@
           "history": [
             46300,
             46300,
-            46300,
+            51990,
             51990,
             51990,
             51990,
@@ -33631,7 +33638,7 @@
             90790,
             90790,
             90790,
-            90790,
+            88990,
             88990,
             88990,
             88990,
@@ -33657,7 +33664,7 @@
             60790,
             60790,
             60790,
-            60790,
+            59990,
             59990,
             59990,
             59990,
@@ -33682,7 +33689,7 @@
             43490,
             43490,
             43490,
-            43490,
+            41990,
             41990,
             41990,
             41990,
@@ -33709,7 +33716,7 @@
             67790,
             67790,
             67790,
-            67790,
+            65990,
             65990,
             65990,
             65990,
@@ -39717,7 +39724,7 @@
             201990,
             201990,
             201990,
-            201990,
+            198990,
             198990,
             198990,
             198990,
@@ -39743,7 +39750,7 @@
             201990,
             201990,
             201990,
-            201990,
+            239990,
             239990,
             239990,
             239990,
@@ -39769,7 +39776,7 @@
             311990,
             311990,
             311990,
-            311990,
+            309990,
             309990,
             309990,
             309990,
@@ -39795,7 +39802,7 @@
             17990,
             17990,
             17990,
-            17990,
+            16990,
             16990,
             16990,
             16990,
@@ -39867,7 +39874,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-va3208-4k-mhd-32-4k-monitor",
           "history": [
             80990,
-            80990,
+            93990,
             93990,
             93990,
             93990,
@@ -39893,7 +39900,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-va2708-4k-mhd-27-inch-60hz-4k-uhd-monitor",
           "history": [
             67790,
-            67790,
+            65990,
             65990,
             65990,
             65990,
@@ -39919,7 +39926,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-xg2431-24-fhd-240hz-gaming-monitor",
           "history": [
             49490,
-            49490,
+            47990,
             47990,
             47990,
             47990,
@@ -39945,7 +39952,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-va24g1-h-24-full-hd-144hz-ips-1ms-gaming-monitor",
           "history": [
             30990,
-            30990,
+            29990,
             29990,
             29990,
             29990,
@@ -47592,7 +47599,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -47618,7 +47625,7 @@
             6999,
             6999,
             6999,
-            6999,
+            7499,
             7499,
             7499,
             7499,
@@ -48109,7 +48116,7 @@
           "url": "https://www.pakbyte.pk/products/msi-geforce-rtx-5050-8g-ventus-2x-oc-8gb-graphics-card",
           "history": [
             107990,
-            107990,
+            126999,
             126999,
             126999,
             126999,
@@ -57392,7 +57399,7 @@
           "history": [
             95790,
             95790,
-            95790,
+            96990,
             96990,
             96990,
             96990,
@@ -57418,7 +57425,7 @@
           "history": [
             206990,
             206990,
-            206990,
+            204990,
             204990,
             204990,
             204990,
@@ -57444,7 +57451,7 @@
           "history": [
             191790,
             191790,
-            191790,
+            179990,
             179990,
             179990,
             179990,
@@ -57521,7 +57528,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2779a-hd-pro-gaming-monitor-27-inch-full-hd-1920-x-1080-ips-240hz-1ms",
           "history": [
             46490,
-            46490,
+            44990,
             44990,
             44990,
             44990,
@@ -57547,7 +57554,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-va270a-h-120hz-1080p-full-hd-ips-27-monitor-with-fast-1ms-response-time",
           "history": [
             35490,
-            35490,
+            34490,
             34490,
             34490,
             34490,
@@ -57573,7 +57580,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx2479a-hd-pro-24-fhd-240hz-1ms-ips-panel-gaming-monitor",
           "history": [
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -57603,7 +57610,7 @@
             60790,
             60790,
             60790,
-            60790,
+            58990,
             58990,
             58990,
             58990,
@@ -62881,7 +62888,7 @@
             61790,
             61790,
             61790,
-            61790,
+            59990,
             59990,
             59990,
             59990,
@@ -62903,7 +62910,7 @@
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-pro-wireless-gaming-mouse-black",
           "history": [
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -62929,7 +62936,7 @@
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-pro-wireless-gaming-mouse-white",
           "history": [
             13490,
-            13490,
+            13999,
             13999,
             13999,
             13999,
@@ -67471,8 +67478,8 @@
           "name": "Seagate Barracuda 20TB Internal Hard Drive",
           "brand": "Seagate",
           "category": "storage",
-          "price": 117499,
-          "oldPrice": null,
+          "price": 239999,
+          "oldPrice": 117499,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Seagate-Barracuda-20TB-Internal-Hard-Drive-PakByte-Computers-25965212794947.jpg?v=1753671216",
@@ -67489,7 +67496,7 @@
             117499,
             117499,
             117499,
-            117499
+            239999
           ]
         },
         {
@@ -94208,7 +94215,7 @@
           "history": [
             84790,
             84790,
-            84790,
+            83990,
             83990,
             83990,
             83990,
@@ -114904,7 +114911,7 @@
           "history": [
             25190,
             25190,
-            25190,
+            23990,
             23990,
             23990,
             23990,
@@ -117686,7 +117693,7 @@
           "history": [
             154990,
             154990,
-            154990,
+            153990,
             153990,
             153990,
             153990,
@@ -117767,7 +117774,7 @@
             126990,
             126990,
             126990,
-            126990,
+            124990,
             124990,
             124990,
             124990,
@@ -119376,7 +119383,7 @@
           "history": [
             83790,
             83790,
-            83790,
+            85990,
             85990,
             85990,
             85990,
@@ -120314,7 +120321,7 @@
             58490,
             58490,
             58490,
-            58490,
+            66999,
             66999,
             66999,
             66999,
@@ -121143,7 +121150,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vx3276-2k-mhd-2-monitor",
           "history": [
             71990,
-            71990,
+            74990,
             74990,
             74990,
             74990,
@@ -123978,7 +123985,7 @@
           "history": [
             87790,
             87790,
-            87790,
+            86990,
             86990,
             86990,
             86990,
@@ -124004,7 +124011,7 @@
           "history": [
             70790,
             70790,
-            70790,
+            68990,
             68990,
             68990,
             68990,
@@ -124111,7 +124118,7 @@
             321990,
             321990,
             321990,
-            321990,
+            329990,
             329990,
             329990,
             329990,
@@ -131024,7 +131031,7 @@
           "history": [
             77990,
             77990,
-            77990,
+            75990,
             75990,
             75990,
             75990,
@@ -148583,26 +148590,153 @@
       "verified": true,
       "products": [
         {
-          "id": "rbtechgames_1be959dd",
-          "name": "MSI GeForce GTX 1660 Ti Armor 6GB Graphics Card &#8211; USED",
-          "brand": "MSI",
+          "id": "rbtechgames_e6a196b8",
+          "name": "Acer Nitro V16S AI (ANV16S-41-R2AJ), AMD Ryzen 7 260, 16GB RAM, 1TB SSD, RTX 5060, 16&#824",
+          "brand": "AMD",
           "category": "gpu",
-          "price": 54999,
+          "price": 434999,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_gtx_1660_ti_armor_6gb.webp",
-          "url": "https://rbtechngames.com/product/msi-geforce-gtx-1660-ti-armor-6gb-graphics-card-used",
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_v_16_ai.webp",
+          "url": "https://rbtechngames.com/product/acer-nitro-v16s-ai-anv16s-41-r2aj-amd-ryzen-7-260-16gb-ram-1tb-ssd-rtx-5060-16-fhd-180hz-ips-display-obsidian-black-used",
           "history": [
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999
+            434999
+          ]
+        },
+        {
+          "id": "rbtechgames_bcd79e79",
+          "name": "Lenovo LOQ 15 (15IRX10), Intel i7 14th Gen, 16GB RAM, 1TB SSD, RTX 5050, 15.6&#8243; FHD 1",
+          "brand": "Intel",
+          "category": "gpu",
+          "price": 394999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_lenovo_loq_15_15irx10_rgb.webp",
+          "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-i7-14th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-luna-grey-used",
+          "history": [
+            394999
+          ]
+        },
+        {
+          "id": "rbtechgames_35a0d827",
+          "name": "Lenovo LOQ 15 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5070, 15.3&#8243; FHD+ ",
+          "brand": "AMD",
+          "category": "gpu",
+          "price": 544999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
+          "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5070-15-3-fhd-165hz-oled-display-eclipse-black-new",
+          "history": [
+            544999
+          ]
+        },
+        {
+          "id": "rbtechgames_0a0028eb",
+          "name": "Lenovo LOQ 15 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.3&#8243; FHD+ ",
+          "brand": "AMD",
+          "category": "gpu",
+          "price": 514999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
+          "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-fhd-165hz-oled-display-eclipse-black-new",
+          "history": [
+            514999
+          ]
+        },
+        {
+          "id": "rbtechgames_90fa7207",
+          "name": "ASUS ROG Zephyrus G14 2025 (GA403UM), AMD Ryzen 9 270, 16GB RAM, 1TB SSD, RTX 5060, 14&#82",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 609999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_zephrus_g14_ga403_platinum_white.png",
+          "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g14-2025-ga403um-amd-ryzen-9-270-16gb-ram-1tb-ssd-rtx-5060-14-3k-120hz-oled-display-platinum-white-used-copy",
+          "history": [
+            609999
+          ]
+        },
+        {
+          "id": "rbtechgames_0a702f1d",
+          "name": "HP EliteBook 640 G9, Intel Core i5-1245U, 16GB RAM, 256GB SSD, 14&#8243; FHD IPS Display &",
+          "brand": "Intel",
+          "category": "cpu",
+          "price": 104999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_elitebook_640_g9.webp",
+          "url": "https://rbtechngames.com/product/hp-elitebook-640-g9-intel-core-i5-1245u-16gb-ram-256gb-ssd-14-fhd-ips-display-used",
+          "history": [
+            104999
+          ]
+        },
+        {
+          "id": "rbtechgames_ccc3f439",
+          "name": "HP ZBook Firefly 14 G9, Intel Core i7-1255U, 16GB RAM, 512GB SSD, Nvidia T550 4GB GPU, 14&",
+          "brand": "Intel",
+          "category": "cpu",
+          "price": 157999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_hp_zbook_firefly_14_g9.webp",
+          "url": "https://rbtechngames.com/product/hp-zbook-firefly-14-g9-intel-core-i7-1255u-16gb-ram-512gb-ssd-nvidia-t550-4gb-gpu-14-fhd-ips-display-used",
+          "history": [
+            157999
+          ]
+        },
+        {
+          "id": "rbtechgames_0e3f1dd6",
+          "name": "Gigabyte GeForce RTX 3070 Ti Gaming OC 8GB Graphics Card &#8211; USED",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 124999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_rtx_3070_ti_gaming_oc_8gb.png",
+          "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-8gb-graphics-card-used",
+          "history": [
+            124999
+          ]
+        },
+        {
+          "id": "rbtechgames_44ce2edf",
+          "name": "Vzmore AX9 Max AI Mini PC &#8211; AMD Ryzen AI 9 HX 470 (32GB RAM/1TB SSD)",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 399999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_vzmore_ax9_max_ai.webp",
+          "url": "https://rbtechngames.com/product/vzmore-ax9-max-ai-mini-pc-amd-ryzen-ai-9-hx-470-32gb-ram-1tb-ssd",
+          "history": [
+            399999
+          ]
+        },
+        {
+          "id": "rbtechgames_eb51d4d0",
+          "name": "Bosgame E6 Eco Mini PC &#8211; Intel Core 3 304 (12GB RAM/512GB SSD)",
+          "brand": "Intel",
+          "category": "ram",
+          "price": 94999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_bosgame_e6_eco.webp",
+          "url": "https://rbtechngames.com/product/bosgame-e6-eco-mini-pc-intel-core-3-304-12gb-ram-512gb-ssd",
+          "history": [
+            94999
           ]
         },
         {
@@ -148617,6 +148751,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_steelseries_qck_cloth_large_black.webp",
           "url": "https://rbtechngames.com/product/steelseries-qck-cloth-gaming-mouse-pad-large-black-white",
           "history": [
+            5499,
             5499,
             5499,
             5499,
@@ -151013,6 +151148,7 @@
             54999,
             54999,
             54999,
+            54999,
             54999
           ]
         },
@@ -151407,6 +151543,32 @@
           ]
         },
         {
+          "id": "rbtechgames_df15d2d4",
+          "name": "Lenovo LOQ 15 (15AHP10), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.6&#8243; FHD 1",
+          "brand": "AMD",
+          "category": "gpu",
+          "price": 434999,
+          "oldPrice": 364999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_loq_15_15ahp10.webp",
+          "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp10-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-6-fhd-144hz-ips-display-luna-grey-used",
+          "history": [
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            434999
+          ]
+        },
+        {
           "id": "rbtechgames_fb0a2ea0",
           "name": "ASUS TUF Gaming F16 2026, Intel Core i7 14th Gen, 16GB RAM, 512GB SSD, RTX 5060, 16&#8243;",
           "brand": "ASUS",
@@ -151586,32 +151748,6 @@
             143999,
             143999,
             143999
-          ]
-        },
-        {
-          "id": "rbtechgames_6c41c9b7",
-          "name": "Gigabyte B850M Stealth Ice M-ATX AM5 DDR5 Gaming Motherboard",
-          "brand": "Gigabyte",
-          "category": "ram",
-          "price": 69999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_gigabyte_b850m_aorus_stealth_ice.webp",
-          "url": "https://rbtechngames.com/product/gigabyte-b850m-stealth-ice-m-atx-am5-ddr5-gaming-motherboard",
-          "history": [
-            69999,
-            69999,
-            69999,
-            69999,
-            69999,
-            69999,
-            69999,
-            69999,
-            69999,
-            69999,
-            69999,
-            69999
           ]
         },
         {
@@ -152485,7 +152621,7 @@
           "url": "https://rbtechngames.com/product/hp-victus-15-fa2013dx-intel-core-i5-13th-gen-8gb-ram-512gb-ssd-rtx-3050-15-6-fhd-144hz-ips-display-mica-silver-new",
           "history": [
             241999,
-            241999,
+            254999,
             254999,
             254999,
             254999,
@@ -152759,8 +152895,8 @@
           ]
         },
         {
-          "id": "rbtechgames_b857bf4c",
-          "name": "Attack Shark CM02 eSport Gaming Mouse Pad &#8211; Black/Black Red Contour/White Contour",
+          "id": "rbtechgames_928ef325",
+          "name": "Attack Shark CM02 eSport Gaming Mouse Pad &#8211; Black/Black Red Contour/White Contour/Gr",
           "brand": "Attack",
           "category": "mouse",
           "price": 3499,
@@ -152770,17 +152906,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_attack_shark_cm02_black_red_contour.webp",
           "url": "https://rbtechngames.com/product/attack-shark-cm02-esport-gaming-mouse-pad-black-black-red-contour-white-contour",
           "history": [
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
             3499
           ]
         },
@@ -153903,32 +154028,6 @@
           ]
         },
         {
-          "id": "rbtechgames_af01f1da",
-          "name": "UGREEN 40707 Hard Drive &#038; Accessories Case &#8211; Small",
-          "brand": "UGREEN",
-          "category": "storage",
-          "price": 1799,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_ugreen40707_img1.webp",
-          "url": "https://rbtechngames.com/product/ugreen-40707-hard-drive-accessories-case-small",
-          "history": [
-            1799,
-            1799,
-            1799,
-            1799,
-            1799,
-            1799,
-            1799,
-            1799,
-            1799,
-            1799,
-            1799,
-            1799
-          ]
-        },
-        {
           "id": "rbtechgames_ddf39cd8",
           "name": "Crucial Pro OC 32GB (2x16GB) 6400MT/s CL38 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Crucial",
@@ -154021,6 +154120,7 @@
             12999,
             12999,
             12999,
+            12999,
             12999
           ]
         },
@@ -154048,32 +154148,6 @@
             99499,
             99499,
             99499
-          ]
-        },
-        {
-          "id": "rbtechgames_9508b965",
-          "name": "Asus ProArt GeForce RTX 5080 16GB OC Graphics Card",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 514999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_asus_proart_rtx_5080_16gb_oc.webp",
-          "url": "https://rbtechngames.com/product/asus-proart-geforce-rtx-5080-16gb-oc-graphics-card",
-          "history": [
-            514999,
-            514999,
-            514999,
-            514999,
-            514999,
-            514999,
-            514999,
-            514999,
-            514999,
-            514999,
-            514999,
-            514999
           ]
         },
         {
@@ -154334,32 +154408,6 @@
             42499,
             42499,
             42499
-          ]
-        },
-        {
-          "id": "rbtechgames_c68cac46",
-          "name": "Colorful iGame GeForce RTX 5080 Ultra W OC 16GB-V Graphics Card",
-          "brand": "Colorful",
-          "category": "gpu",
-          "price": 499999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_colorful_igame_rtx_5080_ultra_w_oc_16gb.webp",
-          "url": "https://rbtechngames.com/product/colorful-igame-geforce-rtx-5080-ultra-w-oc-16gb-v-graphics-card",
-          "history": [
-            499999,
-            499999,
-            499999,
-            499999,
-            499999,
-            499999,
-            499999,
-            499999,
-            499999,
-            499999,
-            499999,
-            499999
           ]
         },
         {
@@ -154961,6 +155009,21 @@
           ]
         },
         {
+          "id": "rbtechgames_34fc74ad",
+          "name": "MSI Katana 15 HX (2025), Intel Core i7 14th Gen, 16GB RAM, 1TB SSD, RTX 5070, 15.6&#8243; ",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 484999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/09/MSIKatana-1.png",
+          "url": "https://rbtechngames.com/product/msi-katana-15-hx-2025-intel-core-i7-14th-gen-16gb-ram-1tb-ssd-rtx-5070-15-6-qhd-165hz-ips-display-windows-11-black-new",
+          "history": [
+            484999
+          ]
+        },
+        {
           "id": "rbtechgames_22a66df0",
           "name": "Artisan Mizugumo Futae-P8 (Water Spider Futae-P8) Mouse Skates",
           "brand": "Artisan",
@@ -155050,6 +155113,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_logitech_mx_keys_combo_for_business_gen_2.jpg",
           "url": "https://rbtechngames.com/product/logitech-mx-keys-combo-for-business-gen-2-wireless-gaming-keyboard-and-mouse",
           "history": [
+            60999,
             60999,
             60999,
             60999,
@@ -155196,8 +155260,8 @@
           "name": "Lexar NQ780 M.2 2280 PCIe Gen 4 NVMe SSD &#8211; 512GB/1TB/2TB/4TB",
           "brand": "Lexar",
           "category": "storage",
-          "price": 72999,
-          "oldPrice": null,
+          "price": 26499,
+          "oldPrice": 72999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
@@ -155211,10 +155275,10 @@
             26499,
             26499,
             26499,
-            26499,
             72999,
             72999,
-            72999
+            72999,
+            26499
           ]
         },
         {
@@ -155387,7 +155451,7 @@
           "history": [
             109999,
             109999,
-            109999,
+            149999,
             149999,
             149999,
             149999,
@@ -155489,6 +155553,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_aula_win60_he_max_white_blue_grey.webp",
           "url": "https://rbtechngames.com/product/aula-win60-he-max-65-wired-rgb-magnetic-gaming-keyboard-white-blue-grey-wing-chun-switch",
           "history": [
+            12999,
             12999,
             12999,
             12999,
@@ -155718,6 +155783,7 @@
             13499,
             13499,
             13499,
+            13499,
             13499
           ]
         },
@@ -155917,6 +155983,7 @@
           "history": [
             256999,
             256999,
+            256999,
             256999
           ]
         },
@@ -156088,6 +156155,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-core-16gb-oc-graphics-card",
           "history": [
+            489999,
             489999,
             489999,
             489999
@@ -156299,32 +156367,6 @@
             74999,
             74999,
             74999
-          ]
-        },
-        {
-          "id": "rbtechgames_30f03342",
-          "name": "ASUS Falchion Ace HFX (M605) 65% RGB Gaming Keyboard &#8211; Black (Magnetic Switches)",
-          "brand": "ASUS",
-          "category": "keyboard",
-          "price": 49999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/02/rbtech_asus_rog_falchion_ace_hfx.png",
-          "url": "https://rbtechngames.com/product/asus-falchion-ace-hfx-m605-65-rgb-gaming-keyboard-black-magnetic-switches",
-          "history": [
-            49999,
-            49999,
-            49999,
-            49999,
-            49999,
-            49999,
-            49999,
-            49999,
-            49999,
-            49999,
-            49999,
-            49999
           ]
         },
         {
@@ -158174,32 +158216,6 @@
           ]
         },
         {
-          "id": "rbtechgames_e9976a46",
-          "name": "AMD Ryzen 5 7600 Gaming Processor &#8211; TRAY",
-          "brand": "AMD",
-          "category": "cpu",
-          "price": 44999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2023/08/rbtech_ryzen_7600.jpeg",
-          "url": "https://rbtechngames.com/product/amd-ryzen-5-7600-gaming-processor-tray",
-          "history": [
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999
-          ]
-        },
-        {
           "id": "rbtechgames_a28eaed2",
           "name": "ADATA LEGEND 710 256GB NVMe M.2 SSD",
           "brand": "ADATA",
@@ -158223,32 +158239,6 @@
             16499,
             16499,
             16499
-          ]
-        },
-        {
-          "id": "rbtechgames_db66bc80",
-          "name": "PALIT GeForce RTX 3080 Ti GamingPro 12GB &#8211; USED",
-          "brand": "Palit",
-          "category": "gpu",
-          "price": 164999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2023/06/rbtech_palit_rtx3080ti_gamingpro_1.png",
-          "url": "https://rbtechngames.com/product/palit-geforce-rtx-3080-ti-gamingpro-12gb",
-          "history": [
-            164999,
-            164999,
-            164999,
-            164999,
-            164999,
-            164999,
-            164999,
-            164999,
-            164999,
-            164999,
-            164999,
-            164999
           ]
         },
         {
@@ -158817,6 +158807,7 @@
             5999,
             5999,
             5999,
+            5999,
             5999
           ]
         },
@@ -158832,6 +158823,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/06/steelseries_qck_prism_cloth_medium.jpg",
           "url": "https://rbtechngames.com/product/steelseries-qck-prism-cloth-gaming-mouse-pad-medium",
           "history": [
+            9999,
             9999,
             9999,
             9999,
