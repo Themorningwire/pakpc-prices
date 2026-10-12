@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T04:33:10.630019+00:00",
+  "lastUpdated": "2026-10-12T14:32:21.293363+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,81 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_a11075c6",
+          "name": "MSI B550M-A Pro AMD AM4 microATX Motherboard",
+          "brand": "MSI",
+          "category": "motherboard",
+          "price": 29999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b550m-a-pro-motherboard-price-in-pakistan-pakbyte-4.jpg?v=1791811512",
+          "url": "https://www.pakbyte.pk/products/msi-b550m-a-pro-amd-am4-microatx-motherboard",
+          "history": [
+            29999
+          ]
+        },
+        {
+          "id": "pakbyte_58cf7ec2",
+          "name": "Netac 16GB DDR4 3200MHz UDIMM Desktop Memory",
+          "brand": "Netac",
+          "category": "ram",
+          "price": 29999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/netac-ddr4-3200mhz-udimm-desktop-memory-16gb-1-pakbyte.webp?v=1791810169",
+          "url": "https://www.pakbyte.pk/products/netac-16gb-ddr4-3200mhz-udimm-desktop-memory",
+          "history": [
+            29999
+          ]
+        },
+        {
+          "id": "pakbyte_03b03a21",
+          "name": "JBL Tune 780NC Wireless Over-Ear Bluetooth Headphones – Black",
+          "brand": "JBL",
+          "category": "headset",
+          "price": 23990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/JBL-Tune-780NC-price-in-pakistan-pakbyte_2.webp?v=1791791048",
+          "url": "https://www.pakbyte.pk/products/jbl-tune-780nc-wireless-over-ear-bluetooth-headphones-black",
+          "history": [
+            23990
+          ]
+        },
+        {
+          "id": "pakbyte_a55a6239",
+          "name": "JBL Tune 760NC Lightweight Over-Ear Wireless Headphones - Blue",
+          "brand": "JBL",
+          "category": "headset",
+          "price": 18990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/jbl-tune-760nc-price-in-pakistan-pakbyte_1.webp?v=1791790712",
+          "url": "https://www.pakbyte.pk/products/jbl-tune-760nc-lightweight-over-ear-wireless-headphones-blue",
+          "history": [
+            18990
+          ]
+        },
+        {
+          "id": "pakbyte_f1cc531d",
+          "name": "JBL Tune 530BT Wireless On-Ear Headphones - Black",
+          "brand": "JBL",
+          "category": "headset",
+          "price": 13490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/jbl-tune-530bt-price-in-pakistan-pakbyte_1.webp?v=1791790238",
+          "url": "https://www.pakbyte.pk/products/jbl-tune-530bt-wireless-on-ear-headphones-black",
+          "history": [
+            13490
+          ]
+        },
         {
           "id": "pakbyte_af12726c",
           "name": "SteelSeries QcK XL Performance Speed Gaming Mousepad",
@@ -20,6 +95,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-xl-performance-price-in-pakistan-pakbyte_1.webp?v=1791659509",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-xl-performance-speed-gaming-mousepad",
           "history": [
+            14990,
             14990,
             14990,
             14990,
@@ -39,6 +115,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE8614-2C-Price-in-Pakistan-Pakbyte_1_2b62ceda-746a-4cbf-8be5-6395cd424cf6.webp?v=1791561624",
           "url": "https://www.pakbyte.pk/products/viewsonic-cde8614-2c-86-4k-commercial-display-with-pro-av-integration",
           "history": [
+            564990,
             564990,
             564990,
             564990,
@@ -71,6 +148,7 @@
             429990,
             429990,
             429990,
+            429990,
             429990
           ]
         },
@@ -86,6 +164,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-interactive-flat-panel-viewboard-in6504v-c-price-in-pakistan-pakbyte_4.webp?v=1791544630",
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in6504v-c-google-edla-65-inch-4k-interactive-display",
           "history": [
+            429990,
             429990,
             429990,
             429990,
@@ -1841,8 +1920,8 @@
           ]
         },
         {
-          "id": "pakbyte_76ca43f9",
-          "name": "Aula F75 Mechanical Keyboard Gaming - Gradient Purple - Star Vector Switches",
+          "id": "pakbyte_3a6b4d26",
+          "name": "Aula F75 Mechanical Gaming Keyboard - Gradient Purple - Star Vector Switches",
           "brand": "Aula",
           "category": "keyboard",
           "price": 11890,
@@ -1852,17 +1931,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-gradient-purple-price-in-pakistan-pakbyte_1.webp?v=1789628753",
           "url": "https://www.pakbyte.pk/products/aula-f75-mechanical-keyboard-gaming-gradient-purple-star-vector-switches",
           "history": [
-            11890,
-            11890,
-            11890,
-            11890,
-            11890,
-            11890,
-            11890,
-            11890,
-            11890,
-            11890,
-            11890,
             11890
           ]
         },
@@ -3101,7 +3169,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-in7504v-c-viewboard-75-google-certified-edla-interactive-display",
           "history": [
             561990,
-            561990,
+            559990,
             559990,
             559990,
             559990,
@@ -3131,7 +3199,7 @@
             21990,
             21990,
             21990,
-            21990,
+            23999,
             23999,
             23999,
             23999,
@@ -3639,8 +3707,8 @@
           "name": "ID-Cooling View 510 ARGB Panoramic ATX PC Case - White",
           "brand": "ID-Cooling",
           "category": "ram",
-          "price": 16990,
-          "oldPrice": null,
+          "price": 17499,
+          "oldPrice": 16990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-view-510-argb-price-in-pakistan-pakbyte_5.webp?v=1786945865",
@@ -3657,7 +3725,7 @@
             16990,
             16990,
             16990,
-            16990
+            17499
           ]
         },
         {
@@ -8971,7 +9039,7 @@
           "category": "motherboard",
           "price": 29490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-PRO-B550M-B-PRO-AM4-AMD-B550-ATX-AMD-Motherboard-Price-in-Pakistan-Pakbyte_1.jpg?v=1783318742",
           "url": "https://www.pakbyte.pk/products/msi-pro-b550m-b-am4-amd-b550-atx-amd-motherboard",
@@ -9940,7 +10008,7 @@
           "history": [
             68999,
             68999,
-            68999,
+            49999,
             49999,
             49999,
             49999,
@@ -14567,7 +14635,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in8605-c-certified-edla-viewboard-86-4k-interactive-display",
           "history": [
             661990,
-            661990,
+            659990,
             659990,
             659990,
             659990,
@@ -15429,7 +15497,7 @@
             219990,
             219990,
             219990,
-            219990,
+            269999,
             269999,
             269999,
             269999,
@@ -17369,7 +17437,7 @@
           "category": "headset",
           "price": 5490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gk-kunten-price-in-pakistan-pakbyte_1.webp?v=1774365584",
           "url": "https://www.pakbyte.pk/products/gk-kunten-dynamic-drive-type-c-hifi-bass-earbud-sport-music-cancelling-headsets",
@@ -17716,6 +17784,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -17757,6 +17826,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Steelseries-QCK-Edge-Large-price-in-pakistan-pakbyte_1.jpg?v=1774337494",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-large-gaming-mousepad",
           "history": [
+            4790,
             4790,
             4790,
             4790,
@@ -17808,7 +17878,7 @@
             14490,
             14490,
             14490,
-            14490,
+            14990,
             14990,
             14990,
             14990,
@@ -17938,7 +18008,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -17964,7 +18034,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -17990,7 +18060,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -18016,7 +18086,7 @@
             33490,
             33490,
             33490,
-            33490,
+            32990,
             32990,
             32990,
             32990,
@@ -19571,7 +19641,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in7505-n-google-certified-edla-75-4k-interactive-display",
           "history": [
             541990,
-            541990,
+            539990,
             539990,
             539990,
             539990,
@@ -19597,7 +19667,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-in6505-n-google-certified-edla-65-4k-interactive-display",
           "history": [
             411990,
-            411990,
+            409990,
             409990,
             409990,
             409990,
@@ -20013,7 +20083,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-viewboard-ifp6534-edla-certified-65-4k-interactive-display",
           "history": [
             381990,
-            381990,
+            379990,
             379990,
             379990,
             379990,
@@ -21058,7 +21128,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -39747,7 +39817,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-cde4314-2c-43-4k-commercial-display-with-pro-av-integration",
           "history": [
             201990,
-            201990,
+            198990,
             198990,
             198990,
             198990,
@@ -39773,7 +39843,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-cde5514-2c-55-4k-commercial-display-with-pro-av-integration",
           "history": [
             201990,
-            201990,
+            239990,
             239990,
             239990,
             239990,
@@ -39799,7 +39869,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-cde6514-2c-65-4k-commercial-display-with-pro-av-integration",
           "history": [
             311990,
-            311990,
+            309990,
             309990,
             309990,
             309990,
@@ -39825,7 +39895,7 @@
           "url": "https://www.pakbyte.pk/products/viewsonic-vb-wifi-001-wireless-module-for-viewboard-and-wireless-presentation-display",
           "history": [
             17990,
-            17990,
+            16990,
             16990,
             16990,
             16990,
@@ -44759,7 +44829,7 @@
           "category": "monitor",
           "price": 87990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/koorui-34e6uc-gaming-monitor-price-in-pakistan-pakbyte_1.jpg?v=1762345680",
           "url": "https://www.pakbyte.pk/products/koorui-34e6uc-34-inch-180hz-1000r-curved-ultrawide-wqhd-gaming-monitor",
@@ -64259,7 +64329,7 @@
           "category": "gpu",
           "price": 204990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HP-PAVILION-15-EG2044TX-Laptop-Intel-Core-i7-1255U-16GB-DDR4-512GB-PCIe-value-Nvidia-GeForce-MX550-2GB-15-6-FHD-Win-11-Natural-Silver-PakByte-Computers-26086655721539.jpg?v=1753671058",
           "url": "https://www.pakbyte.pk/products/hp-pavilion-15-eg2044tx-laptop-intel-core-i7-1255u-16gb-ddr4-512gb-pcie-value-nvidia-geforce-mx550-2gb-15-6-fhd-win-11-natural-silver",
@@ -67519,7 +67589,7 @@
             117499,
             117499,
             117499,
-            117499,
+            239999,
             239999,
             239999,
             239999,
@@ -78403,7 +78473,7 @@
           "category": "monitor",
           "price": 5890,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-CC-1013-CPU-Cooler-With-Temperature-Display-12cm-RGB-Fan-4-Heat-Pipes-PakByte-Computers-25769239576643.webp?v=1753673451",
           "url": "https://www.pakbyte.pk/products/redragon-cc-1013-cpu-cooler-with-temperature-display-12cm-rgb-fan-4-heat-pipes",
@@ -80951,7 +81021,7 @@
           "category": "cooler",
           "price": 5490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Assassin-King-120-SE-White-ARGB-CPU-Air-Cooler-PakByte-Computers-25830009405507.jpg?v=1753674446",
           "url": "https://www.pakbyte.pk/products/thermalright-assassin-king-120-se-white-argb-cpu-air-cooler",
@@ -85538,7 +85608,7 @@
             12490,
             12490,
             12490,
-            12490,
+            13490,
             13490,
             13490,
             13490,
@@ -85564,7 +85634,7 @@
             9700,
             9700,
             9700,
-            9700,
+            9990,
             9990,
             9990,
             9990,
@@ -85980,7 +86050,7 @@
             49900,
             49900,
             49900,
-            49900,
+            46990,
             46990,
             46990,
             46990,
@@ -122941,7 +123011,7 @@
           "category": "case",
           "price": 12790,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XPG-VALOR-AIR-Mid-Tower-Gaming-Case-Black-PakByte-Computers-24397469450307.webp?v=1753682041",
           "url": "https://www.pakbyte.pk/products/xpg-valor-air-mid-tower-gaming-case-black",
@@ -123407,8 +123477,8 @@
           "name": "AMD Ryzen 5 5600X Desktop Processor - Tray",
           "brand": "AMD",
           "category": "cpu",
-          "price": 39999,
-          "oldPrice": null,
+          "price": 36999,
+          "oldPrice": 39999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AMD-Ryzen-5-5600X-6-core-12-Thread-Unlocked-Desktop-Processor-with-Wraith-Stealth-Cooler-Tray-PakByte-Computers-24397455786051.webp?v=1753682151",
@@ -123425,7 +123495,7 @@
             39999,
             39999,
             39999,
-            39999
+            36999
           ]
         },
         {
@@ -124350,6 +124420,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-1-Multi-System-Gaming-Headset-Black-PakByte-Computers-24397427179587.webp?v=1753682327",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-1-multi-system-gaming-headset-black",
           "history": [
+            19990,
             19990,
             19990,
             19990,
@@ -131519,6 +131590,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-prism-cloth-xl-price-in-pakistan-pakbyte_1.jpg?v=1791659144",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-prism-cloth-gaming-surface-medium-optimized-for-gaming-sensors",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -148647,6 +148719,7 @@
             434999,
             434999,
             434999,
+            434999,
             434999
           ]
         },
@@ -148667,12 +148740,13 @@
             394999,
             394999,
             394999,
+            394999,
             394999
           ]
         },
         {
-          "id": "rbtechgames_58247b0c",
-          "name": "Lenovo Legion 15 2026 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5070, 15.3&#824",
+          "id": "rbtechgames_34684c83",
+          "name": "Lenovo Legion 5 2026 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5070, 15.3&#8243",
           "brand": "AMD",
           "category": "gpu",
           "price": 544999,
@@ -148680,15 +148754,14 @@
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
-          "url": "https://rbtechngames.com/product/lenovo-legion-15-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5070-15-3-qhd-165hz-oled-display-eclipse-black-new",
+          "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5070-15-3-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
-            544999,
             544999
           ]
         },
         {
-          "id": "rbtechgames_831a33bc",
-          "name": "Lenovo Legion 15 2026 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.3&#824",
+          "id": "rbtechgames_09d8d2ed",
+          "name": "Lenovo Legion 5 2026 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.3&#8243",
           "brand": "AMD",
           "category": "gpu",
           "price": 514999,
@@ -148696,9 +148769,8 @@
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
-          "url": "https://rbtechngames.com/product/lenovo-legion-15-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-oled-display-eclipse-black-new",
+          "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
-            514999,
             514999
           ]
         },
@@ -148715,6 +148787,7 @@
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g14-2025-ga403um-amd-ryzen-9-270-16gb-ram-1tb-ssd-rtx-5060-14-3k-120hz-oled-display-platinum-white-new",
           "history": [
             609999,
+            609999,
             609999
           ]
         },
@@ -148730,6 +148803,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_elitebook_640_g9.webp",
           "url": "https://rbtechngames.com/product/hp-elitebook-640-g9-intel-core-i5-1245u-16gb-ram-256gb-ssd-14-fhd-ips-display-used",
           "history": [
+            104999,
             104999,
             104999,
             104999,
@@ -148755,6 +148829,7 @@
             157999,
             157999,
             157999,
+            157999,
             157999
           ]
         },
@@ -148770,6 +148845,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_rtx_3070_ti_gaming_oc_8gb.png",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-8gb-graphics-card-used",
           "history": [
+            124999,
             124999,
             124999,
             124999,
@@ -148795,6 +148871,7 @@
             399999,
             399999,
             399999,
+            399999,
             399999
           ]
         },
@@ -148810,6 +148887,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_bosgame_e6_eco.webp",
           "url": "https://rbtechngames.com/product/bosgame-e6-eco-mini-pc-intel-core-3-304-12gb-ram-512gb-ssd",
           "history": [
+            94999,
             94999,
             94999,
             94999,
@@ -149261,8 +149339,8 @@
           ]
         },
         {
-          "id": "rbtechgames_e3b6fb71",
-          "name": "Lenovo LOQ 15 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.3&#8243; FHD+ ",
+          "id": "rbtechgames_6b6632c6",
+          "name": "Lenovo LOQ 15 2026 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.3&#8243; ",
           "brand": "AMD",
           "category": "gpu",
           "price": 474999,
@@ -149270,19 +149348,8 @@
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_lenovo_loq_15_15ahp11_luna_grey_1.webp",
-          "url": "https://rbtechngames.com/product/lenovo-loq-15-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-fhd-165hz-ips-display-luna-grey-new",
+          "url": "https://rbtechngames.com/product/lenovo-loq-15-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-fhd-165hz-ips-display-luna-grey-new",
           "history": [
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
-            474999,
             474999
           ]
         },
@@ -151523,32 +151590,6 @@
           ]
         },
         {
-          "id": "rbtechgames_0454b7be",
-          "name": "Acer Predator Helios Neo 16 (PHN16-71-57W1), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, ",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 239999,
-          "oldPrice": 244999,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_acer_predator_helios_neo_16_abyssal_black.jpg",
-          "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-phn16-71-57w1-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-16-fhd-165hz-ips-display-abyssal-black-used",
-          "history": [
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999,
-            239999
-          ]
-        },
-        {
           "id": "rbtechgames_9147925b",
           "name": "Asus Zenbook 14 OLED (UM3405GA), AMD Ryzen AI 9 465, 16GB RAM, 512GB SSD, 14&#8243; FHD+ O",
           "brand": "ASUS",
@@ -151643,7 +151684,7 @@
             364999,
             364999,
             364999,
-            364999,
+            434999,
             434999,
             434999,
             434999,
@@ -152073,7 +152114,7 @@
           "name": "Lenovo ThinkPad T14S Gen 6, Intel Core Ultra 7, 32GB RAM, 512GB SSD, 14.0″ FHD, IPS Touch ",
           "brand": "Intel",
           "category": "ram",
-          "price": 364999,
+          "price": 334999,
           "oldPrice": 384999,
           "inStock": true,
           "lowStock": false,
@@ -152091,7 +152132,7 @@
             364999,
             364999,
             364999,
-            364999
+            334999
           ]
         },
         {
@@ -152511,29 +152552,18 @@
           ]
         },
         {
-          "id": "rbtechgames_3f619e66",
-          "name": "HP ZBook Studio 16 G10, Intel Core i9 13th Gen, 32GB RAM, 512GB SSD, RTX A1000, 16&#8243; ",
+          "id": "rbtechgames_74590652",
+          "name": "HP ZBook Studio 16 G10, Intel Core i9 13th Gen, 16GB RAM, 512GB SSD, RTX A1000, 16&#8243; ",
           "brand": "Intel",
           "category": "gpu",
-          "price": 349999,
-          "oldPrice": null,
+          "price": 289999,
+          "oldPrice": 349999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_hp_zbook_studio_16_g10_silver.webp",
-          "url": "https://rbtechngames.com/product/hp-zbook-studio-16-g10-intel-core-i9-13th-gen-32gb-ram-512gb-ssd-rtx-a1000-16-wquxga-4k-oled-touch-display-natural-silver-used",
+          "url": "https://rbtechngames.com/product/hp-zbook-studio-16-g10-intel-core-i9-13th-gen-16gb-ram-512gb-ssd-rtx-a1000-16-wquxga-4k-oled-touch-display-natural-silver-used",
           "history": [
-            349999,
-            349999,
-            349999,
-            349999,
-            349999,
-            349999,
-            349999,
-            349999,
-            349999,
-            349999,
-            349999,
-            349999
+            289999
           ]
         },
         {
@@ -152541,8 +152571,8 @@
           "name": "Lenovo ThinkPad P1 Gen 7, Intel Core Ultra 9, 32GB RAM, 512GB SSD, RTX 2000, 16&#8243; WQU",
           "brand": "Intel",
           "category": "gpu",
-          "price": 449999,
-          "oldPrice": null,
+          "price": 414999,
+          "oldPrice": 449999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_thinkpad_p1_gen_7_black.jpg",
@@ -152559,7 +152589,7 @@
             449999,
             449999,
             449999,
-            449999
+            414999
           ]
         },
         {
@@ -152990,6 +153020,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_attack_shark_cm02_black_red_contour.webp",
           "url": "https://rbtechngames.com/product/attack-shark-cm02-esport-gaming-mouse-pad-black-black-red-contour-white-contour",
           "history": [
+            3499,
             3499,
             3499,
             3499,
@@ -154215,6 +154246,7 @@
             12999,
             12999,
             12999,
+            12999,
             12999
           ]
         },
@@ -155119,6 +155151,7 @@
             484999,
             484999,
             484999,
+            484999,
             484999
           ]
         },
@@ -155370,10 +155403,10 @@
           "history": [
             26499,
             26499,
+            72999,
+            72999,
+            72999,
             26499,
-            72999,
-            72999,
-            72999,
             26499,
             26499,
             26499,
@@ -155663,6 +155696,7 @@
             12999,
             12999,
             12999,
+            12999,
             12999
           ]
         },
@@ -155895,6 +155929,7 @@
             13499,
             13499,
             13499,
+            13499,
             13499
           ]
         },
@@ -156100,6 +156135,7 @@
             256999,
             256999,
             256999,
+            256999,
             256999
           ]
         },
@@ -156271,6 +156307,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-core-16gb-oc-graphics-card",
           "history": [
+            489999,
             489999,
             489999,
             489999,
@@ -157008,32 +157045,6 @@
             13999,
             13999,
             13999
-          ]
-        },
-        {
-          "id": "rbtechgames_751f5543",
-          "name": "Asus Prime B760M-K D4 M-ATX LGA1700 DDR4 Gaming Motherboard",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 28499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/11/rbtech_asus_prime_b760m-k_d4.png",
-          "url": "https://rbtechngames.com/product/asus-prime-b760m-k-d4-m-atx-lga1700-ddr4-gaming-motherboard",
-          "history": [
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499,
-            28499
           ]
         },
         {
@@ -159010,32 +159021,6 @@
             18499,
             18499,
             18499
-          ]
-        },
-        {
-          "id": "rbtechgames_2d892000",
-          "name": "SteelSeries Sensei Ten Gaming Mouse",
-          "brand": "SteelSeries",
-          "category": "mouse",
-          "price": 22999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/01/steelseries-sensei-10.png",
-          "url": "https://rbtechngames.com/product/steelseries-sensei-ten-gaming-mouse",
-          "history": [
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999,
-            22999
           ]
         },
         {
