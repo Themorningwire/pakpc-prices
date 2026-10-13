@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T00:11:41.688573+00:00",
+  "lastUpdated": "2026-10-13T13:38:36.083337+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -21,6 +21,7 @@
           "url": "https://www.pakbyte.pk/products/msi-b550m-a-pro-amd-am4-microatx-motherboard",
           "history": [
             29999,
+            29999,
             29999
           ]
         },
@@ -36,6 +37,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/netac-ddr4-3200mhz-udimm-desktop-memory-16gb-1-pakbyte.webp?v=1791810169",
           "url": "https://www.pakbyte.pk/products/netac-16gb-ddr4-3200mhz-udimm-desktop-memory",
           "history": [
+            29999,
             29999,
             29999
           ]
@@ -53,6 +55,7 @@
           "url": "https://www.pakbyte.pk/products/jbl-tune-780nc-wireless-over-ear-bluetooth-headphones-black",
           "history": [
             23990,
+            23990,
             23990
           ]
         },
@@ -69,6 +72,7 @@
           "url": "https://www.pakbyte.pk/products/jbl-tune-760nc-lightweight-over-ear-wireless-headphones-blue",
           "history": [
             18990,
+            18990,
             18990
           ]
         },
@@ -84,6 +88,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/jbl-tune-530bt-price-in-pakistan-pakbyte_1.webp?v=1791790238",
           "url": "https://www.pakbyte.pk/products/jbl-tune-530bt-wireless-on-ear-headphones-black",
           "history": [
+            13490,
             13490,
             13490
           ]
@@ -106,6 +111,7 @@
             14990,
             14990,
             14990,
+            14990,
             14990
           ]
         },
@@ -121,6 +127,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-CDE8614-2C-Price-in-Pakistan-Pakbyte_1_2b62ceda-746a-4cbf-8be5-6395cd424cf6.webp?v=1791561624",
           "url": "https://www.pakbyte.pk/products/viewsonic-cde8614-2c-86-4k-commercial-display-with-pro-av-integration",
           "history": [
+            564990,
             564990,
             564990,
             564990,
@@ -1941,6 +1948,7 @@
           "url": "https://www.pakbyte.pk/products/aula-f75-mechanical-keyboard-gaming-gradient-purple-star-vector-switches",
           "history": [
             11890,
+            11890,
             11890
           ]
         },
@@ -3207,7 +3215,7 @@
             21990,
             21990,
             21990,
-            21990,
+            23999,
             23999,
             23999,
             23999,
@@ -3733,7 +3741,7 @@
             16990,
             16990,
             16990,
-            16990,
+            17499,
             17499,
             17499
           ]
@@ -10016,7 +10024,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g-pro-x2-superstrike-price-in-pakistan-pakbyte_1.webp?v=1782743060",
           "url": "https://www.pakbyte.pk/products/logitech-g-pro-x2-superstrike-wireless-gaming-mouse-black-white",
           "history": [
-            68999,
+            49999,
             49999,
             49999,
             49999,
@@ -13935,8 +13943,8 @@
           "name": "Asus ProArt GeForce RTX 5080 OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 469990,
-          "oldPrice": null,
+          "price": 489999,
+          "oldPrice": 469990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-proart-rtx-5080-oc-edition-price-in-pakistan-pakbyte_1.webp?v=1778136480",
@@ -13953,7 +13961,7 @@
             469990,
             469990,
             469990,
-            469990
+            489999
           ]
         },
         {
@@ -15505,7 +15513,7 @@
             219990,
             219990,
             219990,
-            219990,
+            269999,
             269999,
             269999,
             269999,
@@ -15965,7 +15973,7 @@
           "category": "headset",
           "price": 4990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kz-gale-usb-price-in-pakistan-pakbyte_1.webp?v=1776076224",
           "url": "https://www.pakbyte.pk/products/kz-gale-usb-c-headphones-type-c-iem-earphone-with-microphone-black",
@@ -17796,6 +17804,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -17837,6 +17846,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Steelseries-QCK-Edge-Large-price-in-pakistan-pakbyte_1.jpg?v=1774337494",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-large-gaming-mousepad",
           "history": [
+            4790,
             4790,
             4790,
             4790,
@@ -17888,7 +17898,7 @@
             14490,
             14490,
             14490,
-            14490,
+            14990,
             14990,
             14990,
             14990,
@@ -18018,7 +18028,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -18044,7 +18054,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -18070,7 +18080,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -18096,7 +18106,7 @@
             33490,
             33490,
             33490,
-            33490,
+            32990,
             32990,
             32990,
             32990,
@@ -21138,7 +21148,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -67599,7 +67609,7 @@
             117499,
             117499,
             117499,
-            117499,
+            239999,
             239999,
             239999,
             239999,
@@ -67849,8 +67859,8 @@
           "name": "XPG Lancer Blade 32GB (16GBx2) RGB 6000MHz DDR5 Memory - Black",
           "brand": "XPG",
           "category": "ram",
-          "price": 142999,
-          "oldPrice": null,
+          "price": 159999,
+          "oldPrice": 142999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/xpg-lancer-blade-rgb-32gb-6000mhz-ddr5-ram-price-in-pakistan-pakbyte_1.jpg?v=1757460569",
@@ -67867,7 +67877,7 @@
             142999,
             142999,
             142999,
-            142999
+            159999
           ]
         },
         {
@@ -81501,7 +81511,7 @@
           "category": "psu",
           "price": 12890,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-TB-650S-650W-80-Bronze-Power-Supply-PakByte-Computers-25832601681987.jpg?v=1753674549",
           "url": "https://www.pakbyte.pk/products/thermalright-tr-tb650s-chassis-power-supply-atx-80-plus-bronze-medal",
@@ -85618,7 +85628,7 @@
             12490,
             12490,
             12490,
-            12490,
+            13490,
             13490,
             13490,
             13490,
@@ -85644,7 +85654,7 @@
             9700,
             9700,
             9700,
-            9700,
+            9990,
             9990,
             9990,
             9990,
@@ -86060,7 +86070,7 @@
             49900,
             49900,
             49900,
-            49900,
+            46990,
             46990,
             46990,
             46990,
@@ -123505,7 +123515,7 @@
             39999,
             39999,
             39999,
-            39999,
+            36999,
             36999,
             36999
           ]
@@ -124432,6 +124442,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-1-Multi-System-Gaming-Headset-Black-PakByte-Computers-24397427179587.webp?v=1753682327",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-1-multi-system-gaming-headset-black",
           "history": [
+            19990,
             19990,
             19990,
             19990,
@@ -131603,6 +131614,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-prism-cloth-xl-price-in-pakistan-pakbyte_1.jpg?v=1791659144",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-prism-cloth-gaming-surface-medium-optimized-for-gaming-sensors",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -148728,6 +148740,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_x870_aorus_elite_x3d_ice.png",
           "url": "https://rbtechngames.com/product/gigabyte-x870-aorus-elite-x3d-ice-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            104999,
             104999
           ]
         },
@@ -148743,6 +148756,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_v_16_ai.webp",
           "url": "https://rbtechngames.com/product/acer-nitro-v16s-ai-anv16s-41-r2aj-amd-ryzen-7-260-16gb-ram-1tb-ssd-rtx-5060-16-fhd-180hz-ips-display-obsidian-black-used",
           "history": [
+            434999,
             434999,
             434999,
             434999,
@@ -148772,6 +148786,7 @@
             394999,
             394999,
             394999,
+            394999,
             394999
           ]
         },
@@ -148788,6 +148803,7 @@
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5070-15-3-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
             544999,
+            544999,
             544999
           ]
         },
@@ -148803,6 +148819,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            514999,
             514999,
             514999
           ]
@@ -148822,6 +148839,7 @@
             609999,
             609999,
             609999,
+            609999,
             609999
           ]
         },
@@ -148837,6 +148855,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_elitebook_640_g9.webp",
           "url": "https://rbtechngames.com/product/hp-elitebook-640-g9-intel-core-i5-1245u-16gb-ram-256gb-ssd-14-fhd-ips-display-used",
           "history": [
+            104999,
             104999,
             104999,
             104999,
@@ -148866,6 +148885,7 @@
             157999,
             157999,
             157999,
+            157999,
             157999
           ]
         },
@@ -148881,6 +148901,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_rtx_3070_ti_gaming_oc_8gb.png",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-8gb-graphics-card-used",
           "history": [
+            124999,
             124999,
             124999,
             124999,
@@ -148910,6 +148931,7 @@
             399999,
             399999,
             399999,
+            399999,
             399999
           ]
         },
@@ -148925,6 +148947,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_bosgame_e6_eco.webp",
           "url": "https://rbtechngames.com/product/bosgame-e6-eco-mini-pc-intel-core-3-304-12gb-ram-512gb-ssd",
           "history": [
+            94999,
             94999,
             94999,
             94999,
@@ -149089,32 +149112,6 @@
             644999,
             644999,
             644999
-          ]
-        },
-        {
-          "id": "rbtechgames_df0351b6",
-          "name": "Acer Shadow 16 (SH16-41-7G41), AMD Ryzen 7, 16GB RAM, 512GB SSD, RTX 4060, 16&#8243; FHD+ ",
-          "brand": "AMD",
-          "category": "gpu",
-          "price": 289999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_16_shadow-7.jpg",
-          "url": "https://rbtechngames.com/product/acer-shadow-16-sh16-41-7g41-amd-ryzen-7-16gb-ram-512gb-ssd-rtx-4060-16-fhd-165hz-ips-display-matte-black-used",
-          "history": [
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999
           ]
         },
         {
@@ -149389,6 +149386,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_lenovo_loq_15_15ahp11_luna_grey_1.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-fhd-165hz-ips-display-luna-grey-new",
           "history": [
+            474999,
             474999,
             474999
           ]
@@ -151722,7 +151720,7 @@
             364999,
             364999,
             364999,
-            364999,
+            434999,
             434999,
             434999,
             434999,
@@ -152170,7 +152168,7 @@
             364999,
             364999,
             364999,
-            364999,
+            334999,
             334999,
             334999
           ]
@@ -152604,6 +152602,7 @@
           "url": "https://rbtechngames.com/product/hp-zbook-studio-16-g10-intel-core-i9-13th-gen-16gb-ram-512gb-ssd-rtx-a1000-16-wquxga-4k-oled-touch-display-natural-silver-used",
           "history": [
             289999,
+            289999,
             289999
           ]
         },
@@ -152628,7 +152627,7 @@
             449999,
             449999,
             449999,
-            449999,
+            414999,
             414999,
             414999
           ]
@@ -153061,6 +153060,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_attack_shark_cm02_black_red_contour.webp",
           "url": "https://rbtechngames.com/product/attack-shark-cm02-esport-gaming-mouse-pad-black-black-red-contour-white-contour",
           "history": [
+            3499,
             3499,
             3499,
             3499,
@@ -155196,6 +155196,7 @@
             484999,
             484999,
             484999,
+            484999,
             484999
           ]
         },
@@ -155445,10 +155446,10 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
+            72999,
+            72999,
+            72999,
             26499,
-            72999,
-            72999,
-            72999,
             26499,
             26499,
             26499,
@@ -156183,6 +156184,7 @@
             256999,
             256999,
             256999,
+            256999,
             256999
           ]
         },
@@ -156354,6 +156356,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-core-16gb-oc-graphics-card",
           "history": [
+            489999,
             489999,
             489999,
             489999,
@@ -158731,32 +158734,6 @@
             2399,
             2399,
             2399
-          ]
-        },
-        {
-          "id": "rbtechgames_f1066b45",
-          "name": "Logitech G413 SE Mechanical Gaming Keyboard",
-          "brand": "Logitech",
-          "category": "keyboard",
-          "price": 18500,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2022/11/logitech_g413_1.webp",
-          "url": "https://rbtechngames.com/product/logitech-g413-se-mechanical-gaming-keyboard",
-          "history": [
-            18500,
-            18500,
-            18500,
-            18500,
-            18500,
-            18500,
-            18500,
-            18500,
-            18500,
-            18500,
-            18500,
-            18500
           ]
         },
         {
