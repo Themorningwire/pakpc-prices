@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T13:38:36.083337+00:00",
+  "lastUpdated": "2026-10-13T22:19:52.129993+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_06036aff",
+          "name": "ATK X1 SE Lightweight Wireless Gaming Mouse - Black",
+          "brand": "ATK",
+          "category": "mouse",
+          "price": 7990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-x1-se-price-in-pakistan-pakbyte.webp?v=1791910502",
+          "url": "https://www.pakbyte.pk/products/atk-x1-se-lightweight-wireless-gaming-mouse-black",
+          "history": [
+            7990
+          ]
+        },
         {
           "id": "pakbyte_a11075c6",
           "name": "MSI B550M-A Pro AMD AM4 microATX Motherboard",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b550m-a-pro-motherboard-price-in-pakistan-pakbyte-4.jpg?v=1791811512",
           "url": "https://www.pakbyte.pk/products/msi-b550m-a-pro-amd-am4-microatx-motherboard",
           "history": [
+            29999,
             29999,
             29999,
             29999
@@ -39,6 +55,7 @@
           "history": [
             29999,
             29999,
+            29999,
             29999
           ]
         },
@@ -54,6 +71,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/JBL-Tune-780NC-price-in-pakistan-pakbyte_2.webp?v=1791791048",
           "url": "https://www.pakbyte.pk/products/jbl-tune-780nc-wireless-over-ear-bluetooth-headphones-black",
           "history": [
+            23990,
             23990,
             23990,
             23990
@@ -73,6 +91,7 @@
           "history": [
             18990,
             18990,
+            18990,
             18990
           ]
         },
@@ -90,6 +109,7 @@
           "history": [
             13490,
             13490,
+            13490,
             13490
           ]
         },
@@ -105,6 +125,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-xl-performance-price-in-pakistan-pakbyte_1.webp?v=1791659509",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-xl-performance-speed-gaming-mousepad",
           "history": [
+            14990,
             14990,
             14990,
             14990,
@@ -1949,6 +1970,7 @@
           "history": [
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -3214,7 +3236,7 @@
           "history": [
             21990,
             21990,
-            21990,
+            23999,
             23999,
             23999,
             23999,
@@ -3740,7 +3762,7 @@
             16990,
             16990,
             16990,
-            16990,
+            17499,
             17499,
             17499,
             17499
@@ -13944,7 +13966,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 489999,
-          "oldPrice": 469990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-proart-rtx-5080-oc-edition-price-in-pakistan-pakbyte_1.webp?v=1778136480",
@@ -13960,7 +13982,7 @@
             469990,
             469990,
             469990,
-            469990,
+            489999,
             489999
           ]
         },
@@ -15512,7 +15534,7 @@
           "history": [
             219990,
             219990,
-            219990,
+            269999,
             269999,
             269999,
             269999,
@@ -17805,6 +17827,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -17846,6 +17869,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Steelseries-QCK-Edge-Large-price-in-pakistan-pakbyte_1.jpg?v=1774337494",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-large-gaming-mousepad",
           "history": [
+            4790,
             4790,
             4790,
             4790,
@@ -17897,7 +17921,7 @@
             14490,
             14490,
             14490,
-            14490,
+            14990,
             14990,
             14990,
             14990,
@@ -18027,7 +18051,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -18053,7 +18077,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -18079,7 +18103,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -18105,7 +18129,7 @@
             33490,
             33490,
             33490,
-            33490,
+            32990,
             32990,
             32990,
             32990,
@@ -21147,7 +21171,7 @@
             61990,
             61990,
             61990,
-            61990,
+            63990,
             63990,
             63990,
             63990,
@@ -67608,7 +67632,7 @@
           "history": [
             117499,
             117499,
-            117499,
+            239999,
             239999,
             239999,
             239999,
@@ -67860,7 +67884,7 @@
           "brand": "XPG",
           "category": "ram",
           "price": 159999,
-          "oldPrice": 142999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/xpg-lancer-blade-rgb-32gb-6000mhz-ddr5-ram-price-in-pakistan-pakbyte_1.jpg?v=1757460569",
@@ -67876,7 +67900,7 @@
             142999,
             142999,
             142999,
-            142999,
+            159999,
             159999
           ]
         },
@@ -85627,7 +85651,7 @@
             12490,
             12490,
             12490,
-            12490,
+            13490,
             13490,
             13490,
             13490,
@@ -85653,7 +85677,7 @@
             9700,
             9700,
             9700,
-            9700,
+            9990,
             9990,
             9990,
             9990,
@@ -86069,7 +86093,7 @@
             49900,
             49900,
             49900,
-            49900,
+            46990,
             46990,
             46990,
             46990,
@@ -123514,7 +123538,7 @@
             39999,
             39999,
             39999,
-            39999,
+            36999,
             36999,
             36999,
             36999
@@ -124442,6 +124466,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-1-Multi-System-Gaming-Headset-Black-PakByte-Computers-24397427179587.webp?v=1753682327",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-1-multi-system-gaming-headset-black",
           "history": [
+            19990,
             19990,
             19990,
             19990,
@@ -131614,6 +131639,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/steelseries-qck-prism-cloth-xl-price-in-pakistan-pakbyte_1.jpg?v=1791659144",
           "url": "https://www.pakbyte.pk/products/steelseries-qck-prism-cloth-gaming-surface-medium-optimized-for-gaming-sensors",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -148729,6 +148755,21 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_1d97babf",
+          "name": "Logitech G Pro X2 Superstrike Lightspeed Wireless Gaming Mouse &#8211; Lunar Eclipse",
+          "brand": "Logitech",
+          "category": "mouse",
+          "price": 57999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_logitech_g_pro_x2_superstrike.webp",
+          "url": "https://rbtechngames.com/product/logitech-g-pro-x2-superstrike-lightspeed-wireless-gaming-mouse-lunar-eclipse",
+          "history": [
+            57999
+          ]
+        },
+        {
           "id": "rbtechgames_b2a6a52d",
           "name": "Gigabyte X870 Aorus Elite X3D Ice ATX AM5 DDR5 Gaming Motherboard",
           "brand": "Gigabyte",
@@ -148740,6 +148781,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_x870_aorus_elite_x3d_ice.png",
           "url": "https://rbtechngames.com/product/gigabyte-x870-aorus-elite-x3d-ice-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            104999,
             104999,
             104999
           ]
@@ -148756,6 +148798,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_nitro_v_16_ai.webp",
           "url": "https://rbtechngames.com/product/acer-nitro-v16s-ai-anv16s-41-r2aj-amd-ryzen-7-260-16gb-ram-1tb-ssd-rtx-5060-16-fhd-180hz-ips-display-obsidian-black-used",
           "history": [
+            434999,
             434999,
             434999,
             434999,
@@ -148787,6 +148830,7 @@
             394999,
             394999,
             394999,
+            394999,
             394999
           ]
         },
@@ -148804,6 +148848,7 @@
           "history": [
             544999,
             544999,
+            544999,
             544999
           ]
         },
@@ -148819,6 +148864,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            514999,
             514999,
             514999,
             514999
@@ -148840,6 +148886,7 @@
             609999,
             609999,
             609999,
+            609999,
             609999
           ]
         },
@@ -148855,6 +148902,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_elitebook_640_g9.webp",
           "url": "https://rbtechngames.com/product/hp-elitebook-640-g9-intel-core-i5-1245u-16gb-ram-256gb-ssd-14-fhd-ips-display-used",
           "history": [
+            104999,
             104999,
             104999,
             104999,
@@ -148886,6 +148934,7 @@
             157999,
             157999,
             157999,
+            157999,
             157999
           ]
         },
@@ -148901,6 +148950,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_rtx_3070_ti_gaming_oc_8gb.png",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-3070-ti-gaming-oc-8gb-graphics-card-used",
           "history": [
+            124999,
             124999,
             124999,
             124999,
@@ -148932,6 +148982,7 @@
             399999,
             399999,
             399999,
+            399999,
             399999
           ]
         },
@@ -148947,6 +148998,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_bosgame_e6_eco.webp",
           "url": "https://rbtechngames.com/product/bosgame-e6-eco-mini-pc-intel-core-3-304-12gb-ram-512gb-ssd",
           "history": [
+            94999,
             94999,
             94999,
             94999,
@@ -149388,6 +149440,7 @@
           "history": [
             474999,
             474999,
+            474999,
             474999
           ]
         },
@@ -149441,6 +149494,23 @@
             168999,
             168999,
             168999
+          ]
+        },
+        {
+          "id": "rbtechgames_428f96ef",
+          "name": "Asus Prime A320M-E AM4 M-ATX DDR4 Gaming Motherboard &#8211; USED",
+          "brand": "ASUS",
+          "category": "ram",
+          "price": 9999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/02/asus-prime-a320m-e.jpg",
+          "url": "https://rbtechngames.com/product/asus-prime-a320m-e-am4-m-atx-ddr4-gaming-motherboard-used",
+          "history": [
+            9999,
+            9999,
+            9999
           ]
         },
         {
@@ -151342,32 +151412,6 @@
           ]
         },
         {
-          "id": "rbtechgames_470db25b",
-          "name": "Zotac GeForce GTX 1080 Ti Blower Edition 11GB Graphics Card &#8211; USED",
-          "brand": "Zotac",
-          "category": "gpu",
-          "price": 54999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_zotac_rtx_1080_ti_blower.jpg",
-          "url": "https://rbtechngames.com/product/zotac-geforce-gtx-1080-ti-blower-edition-11gb-graphics-card-used",
-          "history": [
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999
-          ]
-        },
-        {
           "id": "rbtechgames_fda98617",
           "name": "Zotac Gaming GeForce RTX 5060 Twin Edge OC 8GB Graphics Card &#8211; USED",
           "brand": "Zotac",
@@ -151719,7 +151763,7 @@
           "history": [
             364999,
             364999,
-            364999,
+            434999,
             434999,
             434999,
             434999,
@@ -152167,7 +152211,7 @@
             364999,
             364999,
             364999,
-            364999,
+            334999,
             334999,
             334999,
             334999
@@ -152603,6 +152647,7 @@
           "history": [
             289999,
             289999,
+            289999,
             289999
           ]
         },
@@ -152626,7 +152671,7 @@
             449999,
             449999,
             449999,
-            449999,
+            414999,
             414999,
             414999,
             414999
@@ -152997,6 +153042,32 @@
           ]
         },
         {
+          "id": "rbtechgames_50700d65",
+          "name": "Logitech MX Master 4 Wireless 8K Mouse with Haptic Feedback &#8211; Graphite/Pale Grey/Bla",
+          "brand": "Logitech",
+          "category": "mouse",
+          "price": 29499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_mx_master_4_graphite.webp",
+          "url": "https://rbtechngames.com/product/logitech-mx-master-4-wireless-8k-mouse-with-haptic-feedback-graphite-pale-grey-black",
+          "history": [
+            29499,
+            29499,
+            29499,
+            29499,
+            29499,
+            29499,
+            29499,
+            29499,
+            29499,
+            29499,
+            29499,
+            29499
+          ]
+        },
+        {
           "id": "rbtechgames_f5ab4d95",
           "name": "Aula F87 Pro V2 TKL Wireless RGB Gaming Keyboard &#8211; White Contours (Seiya Switch)",
           "brand": "Aula",
@@ -153060,6 +153131,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_attack_shark_cm02_black_red_contour.webp",
           "url": "https://rbtechngames.com/product/attack-shark-cm02-esport-gaming-mouse-pad-black-black-red-contour-white-contour",
           "history": [
+            3499,
             3499,
             3499,
             3499,
@@ -153589,32 +153661,6 @@
             7499,
             7499,
             7499
-          ]
-        },
-        {
-          "id": "rbtechgames_0087e2bb",
-          "name": "Rapoo VT960 PRO Wireless Gaming Mouse &#8211; Black",
-          "brand": "Rapoo",
-          "category": "mouse",
-          "price": 10445,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_rapoo_vt960pro.webp",
-          "url": "https://rbtechngames.com/product/rapoo-vt960-pro-wireless-gaming-mouse-black",
-          "history": [
-            10445,
-            10445,
-            10445,
-            10445,
-            10445,
-            10445,
-            10445,
-            10445,
-            10445,
-            10445,
-            10445,
-            10445
           ]
         },
         {
@@ -155197,6 +155243,7 @@
             484999,
             484999,
             484999,
+            484999,
             484999
           ]
         },
@@ -155448,7 +155495,7 @@
           "history": [
             72999,
             72999,
-            72999,
+            26499,
             26499,
             26499,
             26499,
@@ -157018,6 +157065,32 @@
             28999,
             28999,
             28999
+          ]
+        },
+        {
+          "id": "rbtechgames_59b4edaf",
+          "name": "AMD Ryzen 7 9800X3D Desktop Processor",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 128999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/11/2900400-ryzen-7-9800x3d-product.avif",
+          "url": "https://rbtechngames.com/product/amd-ryzen-7-9800x3d-desktop-processor",
+          "history": [
+            128999,
+            128999,
+            128999,
+            128999,
+            128999,
+            128999,
+            128999,
+            128999,
+            128999,
+            128999,
+            128999,
+            128999
           ]
         },
         {
@@ -158971,32 +159044,6 @@
           ]
         },
         {
-          "id": "rbtechgames_1d3a580b",
-          "name": "LEXAR 8GB (1X8) DDR4 3200MHz Desktop Memory Kit",
-          "brand": "LEXAR",
-          "category": "ram",
-          "price": 17999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/07/lexar.png",
-          "url": "https://rbtechngames.com/product/lexar-8gb-1x8-ddr4-3200mhz-desktop-memory-kit",
-          "history": [
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999,
-            17999
-          ]
-        },
-        {
           "id": "rbtechgames_36b3d2cc",
           "name": "SteelSeries QCK Heavy Gaming Mouse Pad &#8211; Medium",
           "brand": "SteelSeries",
@@ -159124,6 +159171,32 @@
             7499,
             7499,
             7499
+          ]
+        },
+        {
+          "id": "rbtechgames_eb426f68",
+          "name": "Logitech G102 LightSync Gaming Mouse &#8211; Black",
+          "brand": "Logitech",
+          "category": "mouse",
+          "price": 5500,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/01/logitech-g102.jpg",
+          "url": "https://rbtechngames.com/product/logitech-g102-prodigy-gaming-mouse",
+          "history": [
+            5500,
+            5500,
+            5500,
+            5500,
+            5500,
+            5500,
+            5500,
+            5500,
+            5500,
+            5500,
+            5500,
+            5500
           ]
         },
         {
