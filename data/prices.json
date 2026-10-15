@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T03:24:22.150200+00:00",
+  "lastUpdated": "2026-10-15T10:55:11.520273+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_6442b2a4",
+          "name": "HyperX Cloud III S Wireless Gaming Headset - Black/Red",
+          "brand": "HyperX",
+          "category": "headset",
+          "price": 35990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hyperx-cloud-iii-s-price-in-pakistan-pakbyte_1.webp?v=1792042353",
+          "url": "https://www.pakbyte.pk/products/hyperx-cloud-iii-s-wireless-gaming-headset-black-red",
+          "history": [
+            35990
+          ]
+        },
         {
           "id": "pakbyte_06036aff",
           "name": "ATK X1 SE Lightweight Wireless Gaming Mouse - Black",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-x1-se-price-in-pakistan-pakbyte.webp?v=1791910502",
           "url": "https://www.pakbyte.pk/products/atk-x1-se-lightweight-wireless-gaming-mouse-black",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -40,6 +56,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b550m-a-pro-motherboard-price-in-pakistan-pakbyte-4.jpg?v=1791811512",
           "url": "https://www.pakbyte.pk/products/msi-b550m-a-pro-amd-am4-microatx-motherboard",
           "history": [
+            29999,
             29999,
             29999,
             29999,
@@ -71,6 +88,7 @@
             29999,
             29999,
             29999,
+            29999,
             29999
           ]
         },
@@ -86,6 +104,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/JBL-Tune-780NC-price-in-pakistan-pakbyte_2.webp?v=1791791048",
           "url": "https://www.pakbyte.pk/products/jbl-tune-780nc-wireless-over-ear-bluetooth-headphones-black",
           "history": [
+            23990,
             23990,
             23990,
             23990,
@@ -117,6 +136,7 @@
             18990,
             18990,
             18990,
+            18990,
             18990
           ]
         },
@@ -132,6 +152,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/jbl-tune-530bt-price-in-pakistan-pakbyte_1.webp?v=1791790238",
           "url": "https://www.pakbyte.pk/products/jbl-tune-530bt-wireless-on-ear-headphones-black",
           "history": [
+            13490,
             13490,
             13490,
             13490,
@@ -2009,6 +2030,7 @@
             11890,
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -3794,7 +3816,7 @@
           "history": [
             16990,
             16990,
-            16990,
+            17499,
             17499,
             17499,
             17499,
@@ -14014,7 +14036,7 @@
             469990,
             469990,
             469990,
-            469990,
+            489999,
             489999,
             489999,
             489999,
@@ -18835,8 +18857,8 @@
           ]
         },
         {
-          "id": "pakbyte_15af77a7",
-          "name": "HyperX Pulsefire Saga Gaming Mouse - Black",
+          "id": "pakbyte_58d14487",
+          "name": "HyperX Pulsefire Saga Wired Gaming Mouse - Black",
           "brand": "HyperX",
           "category": "mouse",
           "price": 17490,
@@ -18846,17 +18868,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Pulsefire-Saga-Gaming-Mouse-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1773812368",
           "url": "https://www.pakbyte.pk/products/hyperx-pulsefire-saga-gaming-mouse-black",
           "history": [
-            17490,
-            17490,
-            17490,
-            17490,
-            17490,
-            17490,
-            17490,
-            17490,
-            17490,
-            17490,
-            17490,
             17490
           ]
         },
@@ -67938,7 +67949,7 @@
             142999,
             142999,
             142999,
-            142999,
+            159999,
             159999,
             159999,
             159999,
@@ -79473,7 +79484,7 @@
           "category": "headset",
           "price": 1390,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGreen-Headphone-Splitter-for-Computer-3-5mm-Female-to-2-Dual-3-5mm-Male-Braided-Audio-Splitter-Cable-Microphone-Stereo-Jack-Earphones-Port-Cord-Gaming-Headset-to-PC-Laptop-Adapter-Black-PakByte-Computers-25763181002819.jpg?v=1753674086",
           "url": "https://www.pakbyte.pk/products/ugreen-headphone-splitter-for-computer-3-5mm-female-to-2-dual-3-5mm-male-braided-audio-splitter-cable-microphone-stereo-jack-earphones-port-cord-gaming-headset-to-pc-laptop-adapter-black",
@@ -79493,55 +79504,18 @@
           ]
         },
         {
-          "id": "pakbyte_63ed3f3c",
-          "name": "UGreen 3.5mm Audio Stereo Y Splitter Extension Cable 3.5mm Male to 2 Female for Earphone, ",
-          "brand": "UGreen",
-          "category": "headset",
-          "price": 1390,
-          "oldPrice": null,
-          "inStock": false,
-          "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGreen-3-5mm-Audio-Stereo-Y-Splitter-Extension-Cable-3-5mm-Male-to-2-Female-for-Earphone-Headset-Splitter-Adapter-Compatible-for-PS4-Xbox-One-Laptop-Phone-PC-Gaming-Headset-with-Mic-Black-PakByte-Computers-25763171434563.jpg?v=1753674086",
-          "url": "https://www.pakbyte.pk/products/ugreen-3-5mm-audio-stereo-y-splitter-extension-cable-3-5mm-male-to-2-female-for-earphone-headset-splitter-adapter-compatible-for-ps4-xbox-one-laptop-phone-pc-gaming-headset-with-mic-black",
-          "history": [
-            1390,
-            1390,
-            1390,
-            1390,
-            1390,
-            1390,
-            1390,
-            1390,
-            1390,
-            1390,
-            1390,
-            1390
-          ]
-        },
-        {
-          "id": "pakbyte_bde34530",
-          "name": "Ugreen 3.5mm Male to 3.5mm Male Cable Gold Plated Metal Case with Braid 1.5M (Blue)",
+          "id": "pakbyte_f71df37f",
+          "name": "Ugreen 3.5mm Male to 3.5mm Male Cable Gold Plated Metal Case with Braid 1.5M",
           "brand": "Ugreen",
           "category": "case",
-          "price": 1490,
+          "price": 1390,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-3-5mm-Male-to-3-5mm-Male-Cable-Gold-Plated-Metal-Case-with-Braid-1-5M-Blue-PakByte-Computers-25763141943363.png?v=1753674110",
           "url": "https://www.pakbyte.pk/products/ugreen-3-5mm-male-to-3-5mm-male-cable-gold-plated-metal-case-with-braid-1-5m-blue",
           "history": [
-            1490,
-            1490,
-            1490,
-            1490,
-            1490,
-            1490,
-            1490,
-            1490,
-            1490,
-            1490,
-            1490,
-            1490
+            1390
           ]
         },
         {
@@ -123576,7 +123550,7 @@
           "history": [
             39999,
             39999,
-            39999,
+            36999,
             36999,
             36999,
             36999,
@@ -148817,6 +148791,7 @@
           "url": "https://rbtechngames.com/product/palit-geforce-rtx-3080-gamingpro-10gb-graphics-card-used",
           "history": [
             134999,
+            134999,
             134999
           ]
         },
@@ -148832,6 +148807,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_h610m_h_v2_ddr4.webp",
           "url": "https://rbtechngames.com/product/gigabyte-h610m-h-v2-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999
           ]
@@ -148853,6 +148829,7 @@
             57999,
             57999,
             57999,
+            57999,
             57999
           ]
         },
@@ -148868,6 +148845,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_x870_aorus_elite_x3d_ice.png",
           "url": "https://rbtechngames.com/product/gigabyte-x870-aorus-elite-x3d-ice-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            104999,
             104999,
             104999,
             104999,
@@ -148950,6 +148928,7 @@
             544999,
             544999,
             544999,
+            544999,
             544999
           ]
         },
@@ -148973,6 +148952,7 @@
             514999,
             514999,
             514999,
+            514999,
             514999
           ]
         },
@@ -148988,6 +148968,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_zephrus_g14_ga403_platinum_white.png",
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g14-2025-ga403um-amd-ryzen-9-270-16gb-ram-1tb-ssd-rtx-5060-14-3k-120hz-oled-display-platinum-white-new",
           "history": [
+            609999,
             609999,
             609999,
             609999,
@@ -149567,6 +149548,7 @@
             474999,
             474999,
             474999,
+            474999,
             474999
           ]
         },
@@ -149634,6 +149616,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/02/asus-prime-a320m-e.jpg",
           "url": "https://rbtechngames.com/product/asus-prime-a320m-e-am4-m-atx-ddr4-gaming-motherboard-used",
           "history": [
+            9999,
             9999,
             9999,
             9999,
@@ -151751,32 +151734,6 @@
           ]
         },
         {
-          "id": "rbtechgames_9147925b",
-          "name": "Asus Zenbook 14 OLED (UM3405GA), AMD Ryzen AI 9 465, 16GB RAM, 512GB SSD, 14&#8243; FHD+ O",
-          "brand": "ASUS",
-          "category": "cpu",
-          "price": 339999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_asus_zenbook_14_um3405_jade_black.png",
-          "url": "https://rbtechngames.com/product/asus-zenbook-14-oled-um3405ga-amd-ryzen-ai-9-465-16gb-ram-512gb-ssd-14-fhd-oled-touch-display-jade-black-open-box",
-          "history": [
-            339999,
-            339999,
-            339999,
-            339999,
-            339999,
-            339999,
-            339999,
-            339999,
-            339999,
-            339999,
-            339999,
-            339999
-          ]
-        },
-        {
           "id": "rbtechgames_1155848f",
           "name": "Dell Latitude 7430, Intel Core i7 12th Gen, 16GB RAM, 256GB SSD, 14&#8243; FHD IPS Touch D",
           "brand": "Intel",
@@ -152089,32 +152046,6 @@
           ]
         },
         {
-          "id": "rbtechgames_ae2af9da",
-          "name": "Lenovo Legion 5i (15IRX10), Intel Core i9 14th, 16GB/32GB RAM, 1TB SSD, RTX 5070, 15.1&#82",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 559999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/09/Legion_5_15IRX10_CT1_02.avif",
-          "url": "https://rbtechngames.com/product/lenovo-legion-5i-15irx10-intel-core-i9-14th-16gb-32gb-ram-1tb-ssd-rtx-5070-15-1-qhd-165hz-oled-display-eclipse-black-new",
-          "history": [
-            559999,
-            559999,
-            559999,
-            559999,
-            559999,
-            559999,
-            559999,
-            559999,
-            559999,
-            559999,
-            559999,
-            559999
-          ]
-        },
-        {
           "id": "rbtechgames_93130e4e",
           "name": "Dell G15 5525, AMD Ryzen 7 6800H, 16GB RAM, 512GB SSD, RTX 3060, 15.6&#8243; FHD 165Hz Dis",
           "brand": "AMD",
@@ -152284,7 +152215,7 @@
           "history": [
             364999,
             364999,
-            364999,
+            334999,
             334999,
             334999,
             334999,
@@ -152732,6 +152663,7 @@
             289999,
             289999,
             289999,
+            289999,
             289999
           ]
         },
@@ -152749,7 +152681,7 @@
           "history": [
             449999,
             449999,
-            449999,
+            414999,
             414999,
             414999,
             414999,
@@ -154664,8 +154596,8 @@
           "name": "Transcend Jetram 16GB (1x16GB) 6400Mhz CL52 CUDIMM DDR5 Ram",
           "brand": "Transcend",
           "category": "ram",
-          "price": 64999,
-          "oldPrice": null,
+          "price": 74999,
+          "oldPrice": 64999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_transcend_jetram_16gb_cudimm.jpg",
@@ -154682,7 +154614,7 @@
             64999,
             64999,
             64999,
-            64999
+            74999
           ]
         },
         {
@@ -158148,8 +158080,8 @@
           "name": "Adata 16GB (1x16GB) 5600MHz C46 DDR5 U-DIMM Desktop Memory",
           "brand": "Adata",
           "category": "ram",
-          "price": 67499,
-          "oldPrice": null,
+          "price": 69999,
+          "oldPrice": 67499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_adata_ddr5_16gb_5600mhz_2.jpg",
@@ -158166,7 +158098,7 @@
             67499,
             67499,
             67499,
-            67499
+            69999
           ]
         },
         {
@@ -158252,8 +158184,8 @@
           "name": "Transcend JetRam 16GB (16GBx1) 5600MHZ CL46 DDR5",
           "brand": "Transcend",
           "category": "ram",
-          "price": 67499,
-          "oldPrice": null,
+          "price": 69999,
+          "oldPrice": 67499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/12/rbtech_transcend_jetram_8GB_ddr5_4800mhz.jpg",
@@ -158270,7 +158202,7 @@
             67499,
             67499,
             67499,
-            67499
+            69999
           ]
         },
         {
@@ -158713,32 +158645,6 @@
             114999,
             114999,
             114999
-          ]
-        },
-        {
-          "id": "rbtechgames_63a78df6",
-          "name": "USAMS Smart Cover with Pencil Holder Keyboard For iPad US-BH642",
-          "brand": "USAMS",
-          "category": "keyboard",
-          "price": 5200,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2023/02/rbtech_usams_usbh642.webp",
-          "url": "https://rbtechngames.com/product/usams-smart-cover-with-pencil-holder-keyboard-for-ipad-us-bh642",
-          "history": [
-            5200,
-            5200,
-            5200,
-            5200,
-            5200,
-            5200,
-            5200,
-            5200,
-            5200,
-            5200,
-            5200,
-            5200
           ]
         },
         {
