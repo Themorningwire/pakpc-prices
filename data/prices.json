@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T10:55:11.520273+00:00",
+  "lastUpdated": "2026-10-15T16:23:10.481562+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hyperx-cloud-iii-s-price-in-pakistan-pakbyte_1.webp?v=1792042353",
           "url": "https://www.pakbyte.pk/products/hyperx-cloud-iii-s-wireless-gaming-headset-black-red",
           "history": [
+            35990,
             35990
           ]
         },
@@ -41,6 +42,7 @@
             7990,
             7990,
             7990,
+            7990,
             7990
           ]
         },
@@ -56,6 +58,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b550m-a-pro-motherboard-price-in-pakistan-pakbyte-4.jpg?v=1791811512",
           "url": "https://www.pakbyte.pk/products/msi-b550m-a-pro-amd-am4-microatx-motherboard",
           "history": [
+            29999,
             29999,
             29999,
             29999,
@@ -89,6 +92,7 @@
             29999,
             29999,
             29999,
+            29999,
             29999
           ]
         },
@@ -104,6 +108,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/JBL-Tune-780NC-price-in-pakistan-pakbyte_2.webp?v=1791791048",
           "url": "https://www.pakbyte.pk/products/jbl-tune-780nc-wireless-over-ear-bluetooth-headphones-black",
           "history": [
+            23990,
             23990,
             23990,
             23990,
@@ -137,6 +142,7 @@
             18990,
             18990,
             18990,
+            18990,
             18990
           ]
         },
@@ -152,6 +158,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/jbl-tune-530bt-price-in-pakistan-pakbyte_1.webp?v=1791790238",
           "url": "https://www.pakbyte.pk/products/jbl-tune-530bt-wireless-on-ear-headphones-black",
           "history": [
+            13490,
             13490,
             13490,
             13490,
@@ -2031,6 +2038,7 @@
             11890,
             11890,
             11890,
+            11890,
             11890
           ]
         },
@@ -3815,7 +3823,7 @@
           "url": "https://www.pakbyte.pk/products/id-cooling-view-510-argb-panoramic-atx-pc-case-white",
           "history": [
             16990,
-            16990,
+            17499,
             17499,
             17499,
             17499,
@@ -7859,32 +7867,6 @@
           ]
         },
         {
-          "id": "pakbyte_1c5fab90",
-          "name": "ID-Cooling SE-214-XT ZF White ARGB CPU Air Cooler - White",
-          "brand": "ID-Cooling",
-          "category": "cooler",
-          "price": 4990,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-se-214-xt-zf-white-cooler-price-in-pakistan-pakbyte_1_b1d4e25c-7594-402e-8184-33e8f40762bd.webp?v=1783660342",
-          "url": "https://www.pakbyte.pk/products/id-cooling-se-214-xt-zf-white-argb-cpu-air-cooler-white",
-          "history": [
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990,
-            4990
-          ]
-        },
-        {
           "id": "pakbyte_ef55f024",
           "name": "ID-Cooling SE-214-XT V2 ARGB CPU Air Cooler - Black",
           "brand": "ID-Cooling",
@@ -10751,7 +10733,7 @@
           "category": "mouse",
           "price": 20990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-z7-purple-price-in-pakistan-pakbyte.webp?v=1781767360",
           "url": "https://www.pakbyte.pk/products/eweadn-z7-flagship-wireless-gaming-mouse-purple",
@@ -14035,7 +14017,7 @@
             469990,
             469990,
             469990,
-            469990,
+            489999,
             489999,
             489999,
             489999,
@@ -18868,6 +18850,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Pulsefire-Saga-Gaming-Mouse-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1773812368",
           "url": "https://www.pakbyte.pk/products/hyperx-pulsefire-saga-gaming-mouse-black",
           "history": [
+            17490,
             17490
           ]
         },
@@ -24338,7 +24321,7 @@
           "category": "headset",
           "price": 7490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Bloody-GR585-All-in-One-Wireless-Wired-Gaming-Headset-USB-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1771846972",
           "url": "https://www.pakbyte.pk/products/bloody-gr585-wireless-wired-usb-gaming-headset-black",
@@ -46536,29 +46519,18 @@
           ]
         },
         {
-          "id": "pakbyte_55732235",
-          "name": "ID-Cooling SE-214-XT ZF White ARGB CPU Air Cooler",
+          "id": "pakbyte_043d51fa",
+          "name": "ID-Cooling SE-214-XT ZF ARGB CPU Air Cooler - White",
           "brand": "ID-Cooling",
           "category": "cooler",
-          "price": 5990,
+          "price": 4990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-se-214-xt-zf-white-cooler-price-in-pakistan-pakbyte_1.webp?v=1761389600",
           "url": "https://www.pakbyte.pk/products/id-cooling-se-214-xt-zf-white-argb-cpu-air-cooler",
           "history": [
-            5990,
-            5990,
-            5990,
-            5990,
-            5990,
-            5990,
-            5990,
-            5990,
-            5990,
-            5990,
-            5990,
-            5990
+            4990
           ]
         },
         {
@@ -67948,7 +67920,7 @@
             142999,
             142999,
             142999,
-            142999,
+            159999,
             159999,
             159999,
             159999,
@@ -68536,8 +68508,8 @@
           "name": "Thermalright Fan Hub X4 Fan Hub Controller",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1290,
-          "oldPrice": null,
+          "price": 1499,
+          "oldPrice": 1290,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Fan-Hub-X4-Fan-Hub-Controller-PakByte-Computers-25950882168899.jpg?v=1753671375",
@@ -68554,7 +68526,7 @@
             1290,
             1290,
             1290,
-            1290
+            1499
           ]
         },
         {
@@ -79515,6 +79487,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-3-5mm-Male-to-3-5mm-Male-Cable-Gold-Plated-Metal-Case-with-Braid-1-5M-Blue-PakByte-Computers-25763141943363.png?v=1753674110",
           "url": "https://www.pakbyte.pk/products/ugreen-3-5mm-male-to-3-5mm-male-cable-gold-plated-metal-case-with-braid-1-5m-blue",
           "history": [
+            1390,
             1390
           ]
         },
@@ -123549,7 +123522,7 @@
           "url": "https://www.pakbyte.pk/products/amd-ryzen-5-5600x-desktop-processor-tray",
           "history": [
             39999,
-            39999,
+            36999,
             36999,
             36999,
             36999,
@@ -148792,6 +148765,7 @@
           "history": [
             134999,
             134999,
+            134999,
             134999
           ]
         },
@@ -148807,6 +148781,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_h610m_h_v2_ddr4.webp",
           "url": "https://rbtechngames.com/product/gigabyte-h610m-h-v2-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999
@@ -148830,6 +148805,7 @@
             57999,
             57999,
             57999,
+            57999,
             57999
           ]
         },
@@ -148845,6 +148821,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_x870_aorus_elite_x3d_ice.png",
           "url": "https://rbtechngames.com/product/gigabyte-x870-aorus-elite-x3d-ice-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            104999,
             104999,
             104999,
             104999,
@@ -148929,6 +148906,7 @@
             544999,
             544999,
             544999,
+            544999,
             544999
           ]
         },
@@ -148944,6 +148922,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            514999,
             514999,
             514999,
             514999,
@@ -149549,6 +149528,7 @@
             474999,
             474999,
             474999,
+            474999,
             474999
           ]
         },
@@ -149616,6 +149596,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/02/asus-prime-a320m-e.jpg",
           "url": "https://rbtechngames.com/product/asus-prime-a320m-e-am4-m-atx-ddr4-gaming-motherboard-used",
           "history": [
+            9999,
             9999,
             9999,
             9999,
@@ -152214,7 +152195,7 @@
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14s-gen-6-intel-core-ultra-7-32gb-ram-512gb-ssd-14-0%e2%80%b3-fhd-ips-touch-display-black-used",
           "history": [
             364999,
-            364999,
+            334999,
             334999,
             334999,
             334999,
@@ -152664,6 +152645,7 @@
             289999,
             289999,
             289999,
+            289999,
             289999
           ]
         },
@@ -152680,7 +152662,7 @@
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-p1-gen-7-intel-core-ultra-9-32gb-ram-512gb-ssd-rtx-2000-16-wquxga-4k-oled-touch-display-black-used",
           "history": [
             449999,
-            449999,
+            414999,
             414999,
             414999,
             414999,
@@ -152750,8 +152732,8 @@
           "name": "Asus ROG Astral GeForce RTX 5090 32GB White OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 1949999,
-          "oldPrice": null,
+          "price": 2249999,
+          "oldPrice": 1949999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
@@ -152768,7 +152750,7 @@
             1949999,
             1949999,
             1949999,
-            1949999
+            2249999
           ]
         },
         {
@@ -154597,7 +154579,7 @@
           "brand": "Transcend",
           "category": "ram",
           "price": 74999,
-          "oldPrice": 64999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_transcend_jetram_16gb_cudimm.jpg",
@@ -154613,7 +154595,7 @@
             64999,
             64999,
             64999,
-            64999,
+            74999,
             74999
           ]
         },
@@ -156000,8 +155982,8 @@
           "name": "Zotac Gaming GeForce RTX 5090 AMP Extreme Infinity 32GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 1749999,
-          "oldPrice": null,
+          "price": 1949999,
+          "oldPrice": 1749999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_zotac_rtx_5090_amp_extreme_infinity_32gb.jpg",
@@ -156018,7 +156000,7 @@
             1749999,
             1749999,
             1749999,
-            1749999
+            1949999
           ]
         },
         {
@@ -158081,7 +158063,7 @@
           "brand": "Adata",
           "category": "ram",
           "price": 69999,
-          "oldPrice": 67499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_adata_ddr5_16gb_5600mhz_2.jpg",
@@ -158097,7 +158079,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999
           ]
         },
@@ -158185,7 +158167,7 @@
           "brand": "Transcend",
           "category": "ram",
           "price": 69999,
-          "oldPrice": 67499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/12/rbtech_transcend_jetram_8GB_ddr5_4800mhz.jpg",
@@ -158201,7 +158183,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999
           ]
         },
