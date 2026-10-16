@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T20:58:25.568623+00:00",
+  "lastUpdated": "2026-10-16T03:19:42.110629+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -22,6 +22,7 @@
           "history": [
             35990,
             35990,
+            35990,
             35990
           ]
         },
@@ -37,6 +38,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-x1-se-price-in-pakistan-pakbyte.webp?v=1791910502",
           "url": "https://www.pakbyte.pk/products/atk-x1-se-lightweight-wireless-gaming-mouse-black",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -14023,7 +14025,7 @@
           "url": "https://www.pakbyte.pk/products/asus-proart-geforce-rtx-5080-oc-edition-graphics-card",
           "history": [
             469990,
-            469990,
+            489999,
             489999,
             489999,
             489999,
@@ -18858,6 +18860,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Pulsefire-Saga-Gaming-Mouse-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1773812368",
           "url": "https://www.pakbyte.pk/products/hyperx-pulsefire-saga-gaming-mouse-black",
           "history": [
+            17490,
             17490,
             17490,
             17490
@@ -46540,6 +46543,7 @@
           "url": "https://www.pakbyte.pk/products/id-cooling-se-214-xt-zf-white-argb-cpu-air-cooler",
           "history": [
             4990,
+            4990,
             4990
           ]
         },
@@ -67928,7 +67932,7 @@
           "url": "https://www.pakbyte.pk/products/xpg-lancer-blade-32gb-2x16gb-6000mhz-c30-ddr5-dram-memory-black",
           "history": [
             142999,
-            142999,
+            159999,
             159999,
             159999,
             159999,
@@ -68534,7 +68538,7 @@
             1290,
             1290,
             1290,
-            1290,
+            1499,
             1499,
             1499
           ]
@@ -79497,6 +79501,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-3-5mm-Male-to-3-5mm-Male-Cable-Gold-Plated-Metal-Case-with-Braid-1-5M-Blue-PakByte-Computers-25763141943363.png?v=1753674110",
           "url": "https://www.pakbyte.pk/products/ugreen-3-5mm-male-to-3-5mm-male-cable-gold-plated-metal-case-with-braid-1-5m-blue",
           "history": [
+            1390,
             1390,
             1390,
             1390
@@ -148774,6 +148779,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_palit_rtx_3070_gamingpro.png",
           "url": "https://rbtechngames.com/product/palit-geforce-rtx-3070-gamingpro-8gb-graphics-card-used",
           "history": [
+            104999,
             104999
           ]
         },
@@ -148789,6 +148795,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_asus_prime_a520m-r.webp",
           "url": "https://rbtechngames.com/product/asus-prime-a520m-r-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999
           ]
         },
@@ -148808,6 +148815,7 @@
             134999,
             134999,
             134999,
+            134999,
             134999
           ]
         },
@@ -148823,6 +148831,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_h610m_h_v2_ddr4.webp",
           "url": "https://rbtechngames.com/product/gigabyte-h610m-h-v2-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -148850,6 +148859,7 @@
             57999,
             57999,
             57999,
+            57999,
             57999
           ]
         },
@@ -148865,6 +148875,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_x870_aorus_elite_x3d_ice.png",
           "url": "https://rbtechngames.com/product/gigabyte-x870-aorus-elite-x3d-ice-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            104999,
             104999,
             104999,
             104999,
@@ -149618,6 +149629,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/02/asus-prime-a320m-e.jpg",
           "url": "https://rbtechngames.com/product/asus-prime-a320m-e-am4-m-atx-ddr4-gaming-motherboard-used",
           "history": [
+            9999,
             9999,
             9999,
             9999,
@@ -152772,7 +152784,7 @@
             1949999,
             1949999,
             1949999,
-            1949999,
+            2249999,
             2249999,
             2249999
           ]
@@ -154617,7 +154629,7 @@
             64999,
             64999,
             64999,
-            64999,
+            74999,
             74999,
             74999,
             74999
@@ -156022,7 +156034,7 @@
             1749999,
             1749999,
             1749999,
-            1749999,
+            1949999,
             1949999,
             1949999
           ]
@@ -156345,7 +156357,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 31499,
-          "oldPrice": 34499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_logitech_g_pro_x_superlight_2_dex_black.webp",
@@ -156361,7 +156373,7 @@
             34499,
             34499,
             34499,
-            34499,
+            31499,
             31499
           ]
         },
@@ -158101,7 +158113,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999
@@ -158205,7 +158217,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999
