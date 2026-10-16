@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T16:09:02.077761+00:00",
+  "lastUpdated": "2026-10-16T20:33:15.919807+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb4-gen4-240w-usb-c-to-usb-c-cable-price-in-pakistan-pakbyte_1.webp?v=1792150044",
           "url": "https://www.pakbyte.pk/products/ugreen-65383-thunderbolt-4-usb-c-to-usb-c-cable-usb4-gen4-16k-display-1m",
           "history": [
+            6490,
             6490
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hyperx-cloud-iii-s-price-in-pakistan-pakbyte_1.webp?v=1792042353",
           "url": "https://www.pakbyte.pk/products/hyperx-cloud-iii-s-wireless-gaming-headset-black-red",
           "history": [
+            35990,
             35990,
             35990,
             35990,
@@ -2441,7 +2443,7 @@
           "brand": "Sapphire",
           "category": "gpu",
           "price": 205999,
-          "oldPrice": 169990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-pure-rx-9060-xt-16gb-price-in-pakistan-pakbyte_1.webp?v=1789366629",
@@ -2457,7 +2459,7 @@
             169990,
             169990,
             169990,
-            169990,
+            205999,
             205999
           ]
         },
@@ -18879,6 +18881,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Pulsefire-Saga-Gaming-Mouse-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1773812368",
           "url": "https://www.pakbyte.pk/products/hyperx-pulsefire-saga-gaming-mouse-black",
           "history": [
+            17490,
             17490,
             17490,
             17490,
@@ -46567,6 +46570,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -68156,7 +68160,7 @@
           "brand": "XPG",
           "category": "storage",
           "price": 50999,
-          "oldPrice": 45990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XPG-Gammix-S70-Blade-1TB-Internal-Gaming-SSD-PakByte-Computers-25956194877507.jpg?v=1753671312",
@@ -68172,7 +68176,7 @@
             45990,
             45990,
             45990,
-            45990,
+            50999,
             50999
           ]
         },
@@ -68558,7 +68562,7 @@
             1290,
             1290,
             1290,
-            1290,
+            1499,
             1499,
             1499,
             1499,
@@ -79524,6 +79528,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-3-5mm-Male-to-3-5mm-Male-Cable-Gold-Plated-Metal-Case-with-Braid-1-5M-Blue-PakByte-Computers-25763141943363.png?v=1753674110",
           "url": "https://www.pakbyte.pk/products/ugreen-3-5mm-male-to-3-5mm-male-cable-gold-plated-metal-case-with-braid-1-5m-blue",
           "history": [
+            1390,
             1390,
             1390,
             1390,
@@ -148807,6 +148812,7 @@
             104999,
             104999,
             104999,
+            104999,
             104999
           ]
         },
@@ -148822,6 +148828,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_asus_prime_a520m-r.webp",
           "url": "https://rbtechngames.com/product/asus-prime-a520m-r-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -148847,6 +148854,7 @@
             134999,
             134999,
             134999,
+            134999,
             134999
           ]
         },
@@ -148862,6 +148870,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_h610m_h_v2_ddr4.webp",
           "url": "https://rbtechngames.com/product/gigabyte-h610m-h-v2-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -149393,32 +149402,6 @@
           ]
         },
         {
-          "id": "rbtechgames_c311a610",
-          "name": "Asus Prime Radeon RX 9070 XT White OC Edition 16GB Graphics Card &#8211; USED",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 249999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/03/rbtech_asus_prime_radeon_9070_xt_16gb_oc_white.webp",
-          "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-white-oc-edition-16gb-graphics-card-used",
-          "history": [
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999
-          ]
-        },
-        {
           "id": "rbtechgames_4c57698f",
           "name": "Logitech POP Icon Keys Wireless Keyboard &#8211; Off White &#038; Orange",
           "brand": "Logitech",
@@ -149676,32 +149659,6 @@
             168999,
             168999,
             168999
-          ]
-        },
-        {
-          "id": "rbtechgames_428f96ef",
-          "name": "Asus Prime A320M-E AM4 M-ATX DDR4 Gaming Motherboard &#8211; USED",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 9999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2021/02/asus-prime-a320m-e.jpg",
-          "url": "https://rbtechngames.com/product/asus-prime-a320m-e-am4-m-atx-ddr4-gaming-motherboard-used",
-          "history": [
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999
           ]
         },
         {
@@ -152045,6 +152002,32 @@
           ]
         },
         {
+          "id": "rbtechgames_21e0ec50",
+          "name": "AMD Ryzen 5 5600X Processor (TRAY) &#8211; USED",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 30000,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/10/image_2021-10-04_154104-2.png",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-5600x-processor-tray-used",
+          "history": [
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000,
+            30000
+          ]
+        },
+        {
           "id": "rbtechgames_1337e773",
           "name": "Gigabyte Z890 Aorus Pro Ice ATX LGA1851 DDR5 Gaming Motherboard",
           "brand": "Gigabyte",
@@ -152172,32 +152155,6 @@
             17999,
             17999,
             17999
-          ]
-        },
-        {
-          "id": "rbtechgames_110b0bb5",
-          "name": "Asus ROG Strix Z790-F Gaming WiFi II ATX LGA1700 DDR5 Gaming Motherboard",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 119999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_strix_z790-f_gaming_wifi_ii.png",
-          "url": "https://rbtechngames.com/product/asus-rog-strix-z790-f-gaming-wifi-ii-atx-lga1700-ddr5-gaming-motherboard",
-          "history": [
-            119999,
-            119999,
-            119999,
-            119999,
-            119999,
-            119999,
-            119999,
-            119999,
-            119999,
-            119999,
-            119999,
-            119999
           ]
         },
         {
@@ -152406,32 +152363,6 @@
             40999,
             40999,
             40999
-          ]
-        },
-        {
-          "id": "rbtechgames_47018fc4",
-          "name": "Asus Prime X870-P WiFi-CSM ATX AM5 DDR5 Gaming Motherboard",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 86499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_x870-p_wifi-csm.webp",
-          "url": "https://rbtechngames.com/product/asus-prime-x870-p-wifi-csm-atx-am5-ddr5-gaming-motherboard",
-          "history": [
-            86499,
-            86499,
-            86499,
-            86499,
-            86499,
-            86499,
-            86499,
-            86499,
-            86499,
-            86499,
-            86499,
-            86499
           ]
         },
         {
@@ -152816,10 +152747,10 @@
             1949999,
             1949999,
             1949999,
-            1949999,
             2249999,
             2249999,
             2249999,
+            2849999,
             2849999,
             2849999
           ]
@@ -153342,32 +153273,6 @@
             118999,
             118999,
             118999
-          ]
-        },
-        {
-          "id": "rbtechgames_8c92e97e",
-          "name": "Aula Nova75 Wireless Custom Mechanical RGB LCD Gaming Keyboard &#8211; White &#038; Grey (",
-          "brand": "Aula",
-          "category": "keyboard",
-          "price": 14999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_aula_nova75_gray_white.jpg",
-          "url": "https://rbtechngames.com/product/aula-nova75-wireless-custom-mechanical-rgb-lcd-gaming-keyboard-white-grey-star-vector-switch",
-          "history": [
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999
           ]
         },
         {
@@ -154661,7 +154566,7 @@
             64999,
             64999,
             64999,
-            64999,
+            74999,
             74999,
             74999,
             74999,
@@ -156066,10 +155971,10 @@
             1749999,
             1749999,
             1749999,
-            1749999,
             1949999,
             1949999,
             1949999,
+            2449999,
             2449999,
             2449999
           ]
@@ -156405,7 +156310,7 @@
             34499,
             34499,
             34499,
-            34499,
+            31499,
             31499,
             31499,
             31499,
@@ -156670,6 +156575,32 @@
             12499,
             12499,
             12499
+          ]
+        },
+        {
+          "id": "rbtechgames_dbd24c19",
+          "name": "AMD Ryzen 5 9600X Desktop Processor &#8211; Tray",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 52499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_amd_ryzen_5_9600x.avif",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-9600x-desktop-processor-tray",
+          "history": [
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499,
+            52499
           ]
         },
         {
@@ -157401,6 +157332,21 @@
           ]
         },
         {
+          "id": "rbtechgames_11d755f7",
+          "name": "AMD Ryzen 7 7700X 4.5GHz 8-Core AM5 Processor &#8211; Tray",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 59999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2023/02/amd_ryzen7_7700x.jpg",
+          "url": "https://rbtechngames.com/product/amd-ryzen-7-7700x-4-5ghz-8-core-am5-processor-tray",
+          "history": [
+            59999
+          ]
+        },
+        {
           "id": "rbtechgames_1f9c2804",
           "name": "ASUS ROG Chakram X (P708) Wireless RGB Gaming Mouse",
           "brand": "ASUS",
@@ -158051,6 +157997,32 @@
           ]
         },
         {
+          "id": "rbtechgames_ac064254",
+          "name": "AMD RYZEN 5 7500F AM5 (6C/12T) Processor &#8211; Tray &#8211; NEW",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 33499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2024/04/AMD_RYZEN_5_7500F.jpg",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-7500f-am5-6c-12t-processor-tray-new",
+          "history": [
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499,
+            33499
+          ]
+        },
+        {
           "id": "rbtechgames_bf035fc4",
           "name": "Logitech MK345 Wireless Keyboard And Mouse Combo",
           "brand": "Logitech",
@@ -158145,7 +158117,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158249,7 +158221,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158571,6 +158543,32 @@
           ]
         },
         {
+          "id": "rbtechgames_e9976a46",
+          "name": "AMD Ryzen 5 7600 Gaming Processor &#8211; TRAY",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 44999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2023/08/rbtech_ryzen_7600.jpeg",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-7600-gaming-processor-tray",
+          "history": [
+            44999,
+            44999,
+            44999,
+            44999,
+            44999,
+            44999,
+            44999,
+            44999,
+            44999,
+            44999,
+            44999,
+            44999
+          ]
+        },
+        {
           "id": "rbtechgames_a28eaed2",
           "name": "ADATA LEGEND 710 256GB NVMe M.2 SSD",
           "brand": "ADATA",
@@ -158831,6 +158829,21 @@
           ]
         },
         {
+          "id": "rbtechgames_81090cbf",
+          "name": "AMD Ryzen 7 5800X3D Gaming Processor &#8211; TRAY",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 109999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2022/11/amd_5800x_1.jpg",
+          "url": "https://rbtechngames.com/product/amd-ryzen-7-5800x-3d-gaming-processor",
+          "history": [
+            109999
+          ]
+        },
+        {
           "id": "rbtechgames_ddb524ae",
           "name": "Glorious Model I Wired 69 Grams &#8211; Matte Black",
           "brand": "Glorious",
@@ -159036,6 +159049,29 @@
             25999,
             25999,
             25999
+          ]
+        },
+        {
+          "id": "rbtechgames_d8224fad",
+          "name": "AMD Ryzen 9 5950X 16-core, 32-Thread Desktop Processor (TRAY)",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 92999,
+          "oldPrice": 148999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/10/image_2021-10-04_154104-2.png",
+          "url": "https://rbtechngames.com/product/amd-ryzen-9-5950x-16-core-32-thread-desktop-processor-tray",
+          "history": [
+            148999,
+            148999,
+            148999,
+            148999,
+            148999,
+            148999,
+            148999,
+            148999,
+            92999
           ]
         },
         {
