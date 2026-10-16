@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T10:47:15.630394+00:00",
+  "lastUpdated": "2026-10-16T16:09:02.077761+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_94a3a730",
+          "name": "UGREEN 65383 Thunderbolt 4 USB C to USB C Cable USB4 Gen4 16K Display - 1M",
+          "brand": "UGREEN",
+          "category": "monitor",
+          "price": 6490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb4-gen4-240w-usb-c-to-usb-c-cable-price-in-pakistan-pakbyte_1.webp?v=1792150044",
+          "url": "https://www.pakbyte.pk/products/ugreen-65383-thunderbolt-4-usb-c-to-usb-c-cable-usb4-gen4-16k-display-1m",
+          "history": [
+            6490
+          ]
+        },
         {
           "id": "pakbyte_6442b2a4",
           "name": "HyperX Cloud III S Wireless Gaming Headset - Black/Red",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hyperx-cloud-iii-s-price-in-pakistan-pakbyte_1.webp?v=1792042353",
           "url": "https://www.pakbyte.pk/products/hyperx-cloud-iii-s-wireless-gaming-headset-black-red",
           "history": [
+            35990,
             35990,
             35990,
             35990,
@@ -39,6 +55,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-x1-se-price-in-pakistan-pakbyte.webp?v=1791910502",
           "url": "https://www.pakbyte.pk/products/atk-x1-se-lightweight-wireless-gaming-mouse-black",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -2423,8 +2440,8 @@
           "name": "Sapphire RX 9060 XT Pure Gaming OC 16GB Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 169990,
-          "oldPrice": null,
+          "price": 205999,
+          "oldPrice": 169990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-pure-rx-9060-xt-16gb-price-in-pakistan-pakbyte_1.webp?v=1789366629",
@@ -2441,7 +2458,7 @@
             169990,
             169990,
             169990,
-            169990
+            205999
           ]
         },
         {
@@ -12071,7 +12088,7 @@
           "category": "monitor",
           "price": 50990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-tuf-gaming-series-5-vg249qml5a-price-in-pakistan-pakbyte_1.webp?v=1780301542",
           "url": "https://www.pakbyte.pk/products/asus-tuf-series-5-vg249qml5a-23-8-1080p-gaming-monitor",
@@ -18862,6 +18879,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Pulsefire-Saga-Gaming-Mouse-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1773812368",
           "url": "https://www.pakbyte.pk/products/hyperx-pulsefire-saga-gaming-mouse-black",
           "history": [
+            17490,
             17490,
             17490,
             17490,
@@ -46548,6 +46566,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -52018,7 +52037,7 @@
           "category": "gpu",
           "price": 114990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-tuf-rtx-3070-ti-price-in-pakistan-pakbyte_1.jpg?v=1756116556",
           "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-rtx-3070-ti-oc-graphic-card",
@@ -68136,8 +68155,8 @@
           "name": "XPG Gammix S70 Blade 1TB Gen4 M.2 NVMe",
           "brand": "XPG",
           "category": "storage",
-          "price": 45990,
-          "oldPrice": null,
+          "price": 50999,
+          "oldPrice": 45990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XPG-Gammix-S70-Blade-1TB-Internal-Gaming-SSD-PakByte-Computers-25956194877507.jpg?v=1753671312",
@@ -68154,7 +68173,7 @@
             45990,
             45990,
             45990,
-            45990
+            50999
           ]
         },
         {
@@ -68540,7 +68559,7 @@
             1290,
             1290,
             1290,
-            1290,
+            1499,
             1499,
             1499,
             1499,
@@ -79509,6 +79528,7 @@
             1390,
             1390,
             1390,
+            1390,
             1390
           ]
         },
@@ -85577,7 +85597,7 @@
           "category": "ram",
           "price": 164990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Corsair-Dominator-Titanium-RGB-DDR5-6000MHz-64GB-32GB-X-2-PakByte-Computers-25566960287811.jpg?v=1753675282",
           "url": "https://www.pakbyte.pk/products/dominator-titanium-rgb-ddr5-6000mhz-64gb-32gb-x-2",
@@ -148786,6 +148806,7 @@
           "history": [
             104999,
             104999,
+            104999,
             104999
           ]
         },
@@ -148803,6 +148824,7 @@
           "history": [
             19999,
             19999,
+            19999,
             19999
           ]
         },
@@ -148818,6 +148840,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_palit_rtx_3080_gamingpro.png",
           "url": "https://rbtechngames.com/product/palit-geforce-rtx-3080-gamingpro-10gb-graphics-card-used",
           "history": [
+            134999,
             134999,
             134999,
             134999,
@@ -148845,6 +148868,7 @@
             19999,
             19999,
             19999,
+            19999,
             19999
           ]
         },
@@ -148860,6 +148884,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_logitech_g_pro_x2_superstrike.webp",
           "url": "https://rbtechngames.com/product/logitech-g-pro-x2-superstrike-lightspeed-wireless-gaming-mouse-lunar-eclipse",
           "history": [
+            57999,
             57999,
             57999,
             57999,
@@ -152779,7 +152804,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 2849999,
-          "oldPrice": 2249999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
@@ -152792,10 +152817,10 @@
             1949999,
             1949999,
             1949999,
-            1949999,
             2249999,
             2249999,
             2249999,
+            2849999,
             2849999
           ]
         },
@@ -154637,7 +154662,7 @@
             64999,
             64999,
             64999,
-            64999,
+            74999,
             74999,
             74999,
             74999,
@@ -156029,7 +156054,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 2449999,
-          "oldPrice": 1949999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_zotac_rtx_5090_amp_extreme_infinity_32gb.jpg",
@@ -156042,10 +156067,10 @@
             1749999,
             1749999,
             1749999,
-            1749999,
             1949999,
             1949999,
             1949999,
+            2449999,
             2449999
           ]
         },
@@ -156381,7 +156406,7 @@
             34499,
             34499,
             34499,
-            34499,
+            31499,
             31499,
             31499,
             31499
@@ -158121,7 +158146,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158225,7 +158250,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999,
