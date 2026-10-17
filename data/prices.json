@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T03:10:39.182962+00:00",
+  "lastUpdated": "2026-10-17T10:12:22.850298+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -22,6 +22,7 @@
           "history": [
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -37,6 +38,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hyperx-cloud-iii-s-price-in-pakistan-pakbyte_1.webp?v=1792042353",
           "url": "https://www.pakbyte.pk/products/hyperx-cloud-iii-s-wireless-gaming-headset-black-red",
           "history": [
+            35990,
             35990,
             35990,
             35990,
@@ -964,7 +966,7 @@
           "category": "keyboard",
           "price": 13490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-hero-68-he-price-in-pakistan-pakbyte_1_71304e19-9d77-49eb-a745-de578895c8e4.webp?v=1790608992",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-wired-side-engraved-gaming-keyboard-gradient-black-red",
@@ -2459,7 +2461,7 @@
             169990,
             169990,
             169990,
-            169990,
+            205999,
             205999,
             205999,
             205999
@@ -13496,7 +13498,7 @@
           "category": "keyboard",
           "price": 11490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-hero-68-he-price-in-pakistan-pakbyte_1.webp?v=1778415041",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-60-gaming-keyboard-wired-hall-effect-magnetic-switch-keyboard-white-contour",
@@ -18883,6 +18885,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Pulsefire-Saga-Gaming-Mouse-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1773812368",
           "url": "https://www.pakbyte.pk/products/hyperx-pulsefire-saga-gaming-mouse-black",
           "history": [
+            17490,
             17490,
             17490,
             17490,
@@ -42846,7 +42849,7 @@
           "category": "cooler",
           "price": 14990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-peerless-assassin-140-digital-black-price-in-pakistan-pakbyte_3.webp?v=1763556802",
           "url": "https://www.pakbyte.pk/products/thermalright-peerless-assassin-140-digital-cpu-cooler-black",
@@ -46569,6 +46572,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-se-214-xt-zf-white-cooler-price-in-pakistan-pakbyte_1.webp?v=1761389600",
           "url": "https://www.pakbyte.pk/products/id-cooling-se-214-xt-zf-white-argb-cpu-air-cooler",
           "history": [
+            4990,
             4990,
             4990,
             4990,
@@ -68178,7 +68182,7 @@
             45990,
             45990,
             45990,
-            45990,
+            50999,
             50999,
             50999,
             50999
@@ -68564,7 +68568,7 @@
             1290,
             1290,
             1290,
-            1290,
+            1499,
             1499,
             1499,
             1499,
@@ -79539,6 +79543,7 @@
             1390,
             1390,
             1390,
+            1390,
             1390
           ]
         },
@@ -86853,8 +86858,8 @@
           "name": "Darkflash ATLAS-01 Single Monitor Arm",
           "brand": "Darkflash",
           "category": "monitor",
-          "price": 6990,
-          "oldPrice": null,
+          "price": 8999,
+          "oldPrice": 6990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Darkflash-MONITOR-ARM-ATLAS-01-PakByte-Computers-25536018841667.jpg?v=1753675529",
@@ -86871,7 +86876,7 @@
             6990,
             6990,
             6990,
-            6990
+            8999
           ]
         },
         {
@@ -148814,6 +148819,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_amd_ryzen_7_5700g.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-7-5700g-am4-processor-with-radeon-graphics-tray",
           "history": [
+            59999,
             59999
           ]
         },
@@ -148829,6 +148835,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/amd_ryzen5_5600g_1.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-5-5600g-am4-processor-with-radeon-graphics-tray",
           "history": [
+            49999,
             49999
           ]
         },
@@ -148844,6 +148851,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/05/ryzen_9_5900x.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-9-5900x-3-7-ghz-12-core-am4-processor-tray",
           "history": [
+            74999,
             74999
           ]
         },
@@ -148864,6 +148872,7 @@
             104999,
             104999,
             104999,
+            104999,
             104999
           ]
         },
@@ -148879,6 +148888,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_asus_prime_a520m-r.webp",
           "url": "https://rbtechngames.com/product/asus-prime-a520m-r-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -148908,6 +148918,7 @@
             134999,
             134999,
             134999,
+            134999,
             134999
           ]
         },
@@ -148923,6 +148934,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_h610m_h_v2_ddr4.webp",
           "url": "https://rbtechngames.com/product/gigabyte-h610m-h-v2-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -152799,10 +152811,10 @@
             1949999,
             1949999,
             1949999,
-            1949999,
             2249999,
             2249999,
             2249999,
+            2849999,
             2849999,
             2849999,
             2849999,
@@ -154618,7 +154630,7 @@
             64999,
             64999,
             64999,
-            64999,
+            74999,
             74999,
             74999,
             74999,
@@ -154627,32 +154639,6 @@
             74999,
             74999,
             74999
-          ]
-        },
-        {
-          "id": "rbtechgames_ec5c9fc2",
-          "name": "XPG Gammix S60 NVMe M.2 Gen 4 SSD &#8211; 512GB/1TB/2TB",
-          "brand": "XPG",
-          "category": "storage",
-          "price": 42499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_xpg_gammix_s60.png",
-          "url": "https://rbtechngames.com/product/xpg-gammix-s60-nvme-m-2-gen-4-ssd-512gb-1tb-2tb",
-          "history": [
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499
           ]
         },
         {
@@ -156023,10 +156009,10 @@
             1749999,
             1749999,
             1749999,
-            1749999,
             1949999,
             1949999,
             1949999,
+            2449999,
             2449999,
             2449999,
             2449999,
@@ -156362,7 +156348,7 @@
             34499,
             34499,
             34499,
-            34499,
+            31499,
             31499,
             31499,
             31499,
@@ -157398,6 +157384,7 @@
           "url": "https://rbtechngames.com/product/amd-ryzen-7-7700x-4-5ghz-8-core-am5-processor-tray",
           "history": [
             59999,
+            59999,
             59999
           ]
         },
@@ -158170,7 +158157,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158274,7 +158261,7 @@
             67499,
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158889,13 +158876,14 @@
           "brand": "AMD",
           "category": "cpu",
           "price": 124999,
-          "oldPrice": 109999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2022/11/amd_5800x_1.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-7-5800x-3d-gaming-processor",
           "history": [
             109999,
+            124999,
             124999
           ]
         },
@@ -159127,6 +159115,7 @@
             148999,
             148999,
             148999,
+            92999,
             92999,
             92999
           ]
