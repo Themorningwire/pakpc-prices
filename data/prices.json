@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T10:12:22.850298+00:00",
+  "lastUpdated": "2026-10-17T15:01:29.569596+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -23,6 +23,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -38,6 +39,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hyperx-cloud-iii-s-price-in-pakistan-pakbyte_1.webp?v=1792042353",
           "url": "https://www.pakbyte.pk/products/hyperx-cloud-iii-s-wireless-gaming-headset-black-red",
           "history": [
+            35990,
             35990,
             35990,
             35990,
@@ -2460,7 +2462,7 @@
             169990,
             169990,
             169990,
-            169990,
+            205999,
             205999,
             205999,
             205999,
@@ -18893,6 +18895,7 @@
             17490,
             17490,
             17490,
+            17490,
             17490
           ]
         },
@@ -33099,7 +33102,7 @@
           "category": "keyboard",
           "price": 16490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-hero-84-he-price-in-pakistan-pakbyte_7.webp?v=1766312157",
           "url": "https://www.pakbyte.pk/products/aula-hero-84-he-75-mechanical-hall-effect-magnetic-switches-keyboard-white-contour",
@@ -46572,6 +46575,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-se-214-xt-zf-white-cooler-price-in-pakistan-pakbyte_1.webp?v=1761389600",
           "url": "https://www.pakbyte.pk/products/id-cooling-se-214-xt-zf-white-argb-cpu-air-cooler",
           "history": [
+            4990,
             4990,
             4990,
             4990,
@@ -63229,7 +63233,7 @@
           "category": "mouse",
           "price": 7490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-SE-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167567810627.jpg?v=1753670555",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-se-wireless-gaming-mouse-black",
@@ -68181,7 +68185,7 @@
             45990,
             45990,
             45990,
-            45990,
+            50999,
             50999,
             50999,
             50999,
@@ -68567,7 +68571,7 @@
             1290,
             1290,
             1290,
-            1290,
+            1499,
             1499,
             1499,
             1499,
@@ -79544,6 +79548,7 @@
             1390,
             1390,
             1390,
+            1390,
             1390
           ]
         },
@@ -86859,7 +86864,7 @@
           "brand": "Darkflash",
           "category": "monitor",
           "price": 8999,
-          "oldPrice": 6990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Darkflash-MONITOR-ARM-ATLAS-01-PakByte-Computers-25536018841667.jpg?v=1753675529",
@@ -86875,7 +86880,7 @@
             6990,
             6990,
             6990,
-            6990,
+            8999,
             8999
           ]
         },
@@ -90342,8 +90347,8 @@
           "name": "Bloody G575P Stereo Sound Gaming Headset 3.5mm - Black",
           "brand": "Bloody",
           "category": "headset",
-          "price": 5090,
-          "oldPrice": null,
+          "price": 5199,
+          "oldPrice": 5090,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Bloody-G575P-Stereo-Sound-Gaming-Headset-3-5mm-Black-PakByte-Computers-25264091922499.jpg?v=1753676509",
@@ -90360,7 +90365,7 @@
             5090,
             5090,
             5090,
-            5090
+            5199
           ]
         },
         {
@@ -148820,6 +148825,7 @@
           "url": "https://rbtechngames.com/product/amd-ryzen-7-5700g-am4-processor-with-radeon-graphics-tray",
           "history": [
             59999,
+            59999,
             59999
           ]
         },
@@ -148836,6 +148842,7 @@
           "url": "https://rbtechngames.com/product/amd-ryzen-5-5600g-am4-processor-with-radeon-graphics-tray",
           "history": [
             49999,
+            49999,
             49999
           ]
         },
@@ -148851,6 +148858,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/05/ryzen_9_5900x.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-9-5900x-3-7-ghz-12-core-am4-processor-tray",
           "history": [
+            74999,
             74999,
             74999
           ]
@@ -148873,6 +148881,7 @@
             104999,
             104999,
             104999,
+            104999,
             104999
           ]
         },
@@ -148888,6 +148897,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_asus_prime_a520m-r.webp",
           "url": "https://rbtechngames.com/product/asus-prime-a520m-r-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -148919,6 +148929,7 @@
             134999,
             134999,
             134999,
+            134999,
             134999
           ]
         },
@@ -148934,6 +148945,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_h610m_h_v2_ddr4.webp",
           "url": "https://rbtechngames.com/product/gigabyte-h610m-h-v2-m-atx-lga1700-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -152810,10 +152822,10 @@
             1949999,
             1949999,
             1949999,
-            1949999,
             2249999,
             2249999,
             2249999,
+            2849999,
             2849999,
             2849999,
             2849999,
@@ -154629,7 +154641,7 @@
           "history": [
             64999,
             64999,
-            64999,
+            74999,
             74999,
             74999,
             74999,
@@ -156008,10 +156020,10 @@
             1749999,
             1749999,
             1749999,
-            1749999,
             1949999,
             1949999,
             1949999,
+            2449999,
             2449999,
             2449999,
             2449999,
@@ -156347,7 +156359,7 @@
             34499,
             34499,
             34499,
-            34499,
+            31499,
             31499,
             31499,
             31499,
@@ -157385,6 +157397,7 @@
           "history": [
             59999,
             59999,
+            59999,
             59999
           ]
         },
@@ -158156,7 +158169,7 @@
           "history": [
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158260,7 +158273,7 @@
           "history": [
             67499,
             67499,
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158884,6 +158897,7 @@
           "history": [
             109999,
             124999,
+            124999,
             124999
           ]
         },
@@ -159115,6 +159129,7 @@
             148999,
             148999,
             148999,
+            92999,
             92999,
             92999,
             92999
