@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T03:13:35.355213+00:00",
+  "lastUpdated": "2026-10-18T10:27:55.710339+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,186 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_996a4035",
+          "name": "Lian Li HydroShift II OLED Curved 360 Fanless AIO CPU Cooler – White",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 82490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lianli-hydroshift-oled-curved-360-fanless-price-in-pakistan-pakbyte_1.webp?v=1792317210",
+          "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-oled-curved-360-fanless-aio-cpu-cooler-white",
+          "history": [
+            82490
+          ]
+        },
+        {
+          "id": "pakbyte_d3591bcb",
+          "name": "Lian Li HydroShift II OLED Curved 360 Fanless AIO CPU Cooler – Black",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 82490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Oled-Cureved360-fanless-cpu-cooler-pprice-in-pakistan-pakbyte_1.webp?v=1792316930",
+          "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-oled-curved-360-fanless-aio-cpu-cooler-black",
+          "history": [
+            82490
+          ]
+        },
+        {
+          "id": "pakbyte_b4dbaba6",
+          "name": "Lian Li Hydroshift II OLED Curved 360TL Liquid CPU Cooler - Black",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 99990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-oled-curved-360tl-price-in-pakistan-pakbyte_5.webp?v=1792316504",
+          "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-oled-curved-360tl-liquid-cpu-cooler-black",
+          "history": [
+            99990
+          ]
+        },
+        {
+          "id": "pakbyte_3eb7219a",
+          "name": "Lian Li Hydroshift II OLED Curved 360TL Liquid CPU Cooler - White",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 99990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-oled-curved-360tl-price-in-pakistan-pakbyte_1.webp?v=1792316151",
+          "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-oled-curved-360tl-liquid-cpu-cooler-white",
+          "history": [
+            99990
+          ]
+        },
+        {
+          "id": "pakbyte_3dab5560",
+          "name": "Lian Li UNI FAN SL-INF LCD FLEX 120mm Reverse Blade Single Fan – White",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 14490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-Reverse-blade-case-fan-price-in-pakistan-pakbyte_3.jpg?v=1792315506",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-reverse-blade-single-fan-white",
+          "history": [
+            14490
+          ]
+        },
+        {
+          "id": "pakbyte_6a2e0a2c",
+          "name": "Lian Li UNI FAN SL-INF LCD FLEX 120mm Reverse Blade Single Fan – Black",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 14490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-Reverse-Blade-Case-Fan-Price-in-Pakistan-Pakbyte_1.jpg?v=1792315273",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-reverse-blade-single-fan-black",
+          "history": [
+            14490
+          ]
+        },
+        {
+          "id": "pakbyte_0bccf765",
+          "name": "Lian Li UNI FAN SL-INF LCD FLEX 120mm Reverse Blade 3-Pack – White",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 39990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-LCD-Case-Fan-Reverse-Blade-White-Price-in-Pakistan-Pakbyte_2.jpg?v=1792314916",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-reverse-blade-3-pack-white",
+          "history": [
+            39990
+          ]
+        },
+        {
+          "id": "pakbyte_6b99678a",
+          "name": "Lian Li UNI FAN SL-INF LCD FLEX 120mm Reverse Blade 3-Pack – Black",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 39990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SL-INF-Flex-120-LCD-Case-Fan-Reverse-Blade-Price-in-Pakistan-Pakbyte_1.jpg?v=1792314751",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-reverse-blade-3-pack-black",
+          "history": [
+            39990
+          ]
+        },
+        {
+          "id": "pakbyte_1a91a1ab",
+          "name": "Lian Li UNI FAN SL-INF LCD FLEX 120mm 3-Pack – White",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 39990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-LCD-Case-Fan-White-Price-in-Pakistan-Pakbyte_1.jpg?v=1792314505",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-3-pack-white",
+          "history": [
+            39990
+          ]
+        },
+        {
+          "id": "pakbyte_8ead4104",
+          "name": "Lian Li UNI FAN SL-INF LCD FLEX 120mm 3-Pack – Black",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 39990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SL-INF-Flex-120-LCD-Case-Fan-Price-in-Pakistan-Pakbyte_1.jpg?v=1792314272",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-3-pack-black",
+          "history": [
+            39990
+          ]
+        },
+        {
+          "id": "pakbyte_da23b60f",
+          "name": "Lian Li B4-mATX  Compact 21.3L mATX case - White",
+          "brand": "Lian Li",
+          "category": "case",
+          "price": 25990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-B4-mATX-Casing-Price-in-Pakistan-Pakbyte_5.jpg?v=1792313355",
+          "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-compact-21-3l-matx-case-white",
+          "history": [
+            25990
+          ]
+        },
+        {
+          "id": "pakbyte_ec2444ca",
+          "name": "Lian Li B4-mATX  Compact 21.3L mATX case - Black",
+          "brand": "Lian Li",
+          "category": "case",
+          "price": 24990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-B4-mATX-casing-price-in-pakistan-pakbyte_2.jpg?v=1792313053",
+          "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-compact-21-3l-matx-case-black",
+          "history": [
+            24990
+          ]
+        },
         {
           "id": "pakbyte_94a3a730",
           "name": "UGREEN 65383 Thunderbolt 4 USB C to USB C Cable USB4 Gen4 16K Display - 1M",
@@ -20,6 +200,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb4-gen4-240w-usb-c-to-usb-c-cable-price-in-pakistan-pakbyte_1.webp?v=1792150044",
           "url": "https://www.pakbyte.pk/products/ugreen-65383-thunderbolt-4-usb-c-to-usb-c-cable-usb4-gen4-16k-display-1m",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -2463,7 +2644,7 @@
             169990,
             169990,
             169990,
-            169990,
+            205999,
             205999,
             205999,
             205999,
@@ -19458,7 +19639,7 @@
           "category": "psu",
           "price": 45990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-sx-platinum-price-in-pakistan-pakbyte_20.webp?v=1773556795",
           "url": "https://www.pakbyte.pk/products/lian-li-sx-platinum-1200w-sxp-compact-atx-form-factor-power-supply-white",
@@ -19538,7 +19719,7 @@
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-sx-platinum-price-in-pakistan-pakbyte_10.webp?v=1773554766",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-sx-platinum-price-in-pakistan-pakbyte_9.webp?v=1773554766",
           "url": "https://www.pakbyte.pk/products/lian-li-sx-platinum-1000w-sxp-compact-atx-form-factor-power-supply-black",
           "history": [
             39990,
@@ -19664,8 +19845,8 @@
           "name": "Lian Li Lancool 217 INF Mirror Casing - White",
           "brand": "Lian Li",
           "category": "case",
-          "price": 36990,
-          "oldPrice": null,
+          "price": 37990,
+          "oldPrice": 36990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Lancool-217-INF-Mirror-Casing-White-Price-in-Pakistan-Pakbyte_1.webp?v=1773518504",
@@ -19682,7 +19863,7 @@
             36990,
             36990,
             36990,
-            36990
+            37990
           ]
         },
         {
@@ -19692,7 +19873,7 @@
           "category": "case",
           "price": 29990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11d-mini-v2-flow-black-price-in-pakistan-Pakbyte_1.webp?v=1773516822",
           "url": "https://www.pakbyte.pk/products/lian-li-o11d-mini-v2-flow-compact-atx-mid-tower-airflow-computer-case-black",
@@ -19718,7 +19899,7 @@
           "category": "case",
           "price": 29990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11d-mini-v2-flow-price-in-pakistan-pakbyte_1.webp?v=1773516594",
           "url": "https://www.pakbyte.pk/products/lian-li-o11d-mini-v2-flow-compact-atx-mid-tower-airflow-computer-case-white",
@@ -19742,9 +19923,9 @@
           "name": "Lian Li Vector V100 Mini Micro Form Factor Compact PC Case - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 19990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 18990,
+          "oldPrice": 19990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-mini-price-in-pakistan-pakbyte_1.webp?v=1773515689",
           "url": "https://www.pakbyte.pk/products/lian-li-vector-v100-mini-micro-form-factor-compact-pc-case-black",
@@ -19760,7 +19941,7 @@
             19990,
             19990,
             19990,
-            19990
+            18990
           ]
         },
         {
@@ -26114,7 +26295,7 @@
           "category": "psu",
           "price": 19490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-rb-series-psu-price-in-pakistan-pakbyte_1_c87c01bd-e1ed-46e8-aee8-b44e5247eeb0.webp?v=1771252770",
           "url": "https://www.pakbyte.pk/products/lian-li-rb-series-750w-80-bronze-non-modular-power-supply-black",
@@ -26190,8 +26371,8 @@
           "name": "Lian Li Lancool 217 INF Mirror Casing - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 36990,
-          "oldPrice": null,
+          "price": 37990,
+          "oldPrice": 36990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LianLi-Lancool217-INF-price-in-pakistan-pakbyte_1.jpg?v=1771243810",
@@ -26208,7 +26389,7 @@
             36990,
             36990,
             36990,
-            36990
+            37990
           ]
         },
         {
@@ -34200,7 +34381,7 @@
           "category": "case",
           "price": 23490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-white-price-in-pakistan-pakbyte_2.webp?v=1766068916",
           "url": "https://www.pakbyte.pk/products/casing-1",
@@ -34226,7 +34407,7 @@
           "category": "case",
           "price": 22490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-black-price-in-pakistan-pakbyte_1.webp?v=1766068438",
           "url": "https://www.pakbyte.pk/products/lian-li-vector-v100-atx-mid-tower-pc-case-black",
@@ -34276,9 +34457,9 @@
           "name": "Lian Li Lancool 217 Genuine Walnut Wood Computer Case - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 34990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 35990,
+          "oldPrice": 34990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-lancool-217-casing-price-in-pakistan-pakbyte_2.jpg?v=1766066790",
           "url": "https://www.pakbyte.pk/products/lian-li-lancool-217-genuine-walnut-wood-computer-case-black",
@@ -34294,7 +34475,7 @@
             34990,
             34990,
             34990,
-            34990
+            35990
           ]
         },
         {
@@ -34354,8 +34535,8 @@
           "name": "Lian Li O11D Mini V2 ATX Mid-Tower Computer Case - White",
           "brand": "Lian Li",
           "category": "case",
-          "price": 24990,
-          "oldPrice": null,
+          "price": 26490,
+          "oldPrice": 24990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11d-mini-v2-white-price-in-pakistan-pakbyte_1.webp?v=1766064364",
@@ -34372,7 +34553,7 @@
             24990,
             24990,
             24990,
-            24990
+            26490
           ]
         },
         {
@@ -34380,9 +34561,9 @@
           "name": "Lian Li O11D Mini V2  ATX Mid-Tower Computer Case - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 24990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 26490,
+          "oldPrice": 24990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11d-mini-v2-black-price-in-pakistan-pakbyte_3.webp?v=1766063867",
           "url": "https://www.pakbyte.pk/products/lian-li-o11d-mini-v2-atx-mid-tower-computer-case-black",
@@ -34398,7 +34579,7 @@
             24990,
             24990,
             24990,
-            24990
+            26490
           ]
         },
         {
@@ -46581,6 +46762,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-se-214-xt-zf-white-cooler-price-in-pakistan-pakbyte_1.webp?v=1761389600",
           "url": "https://www.pakbyte.pk/products/id-cooling-se-214-xt-zf-white-argb-cpu-air-cooler",
           "history": [
+            4990,
             4990,
             4990,
             4990,
@@ -59781,9 +59963,9 @@
           "name": "Lian Li O11 Vision Compact ATX Mid Tower Gaming Case - White",
           "brand": "Lian Li",
           "category": "case",
-          "price": 39990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 40990,
+          "oldPrice": 39990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-O11-Vision-Compact-ATX-Mid-Tower-Gaming-Case-White-PakByte-Computers-26336992657475.jpg?v=1753669720",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-compact-atx-mid-tower-gaming-case-white",
@@ -59799,7 +59981,7 @@
             39990,
             39990,
             39990,
-            39990
+            40990
           ]
         },
         {
@@ -59807,9 +59989,9 @@
           "name": "Lian Li O11 Vision Compact ATX Mid Tower Gaming Case - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 38990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 40990,
+          "oldPrice": 38990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-O11-Vision-Compact-ATX-Mid-Tower-Gaming-Case-Black-PakByte-Computers-26336984694851.jpg?v=1753669720",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-compact-atx-mid-tower-gaming-case-black",
@@ -59825,7 +60007,7 @@
             38990,
             38990,
             38990,
-            38990
+            40990
           ]
         },
         {
@@ -68190,7 +68372,7 @@
             45990,
             45990,
             45990,
-            45990,
+            50999,
             50999,
             50999,
             50999,
@@ -68576,7 +68758,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Fan-Hub-X4-Fan-Hub-Controller-PakByte-Computers-25950882168899.jpg?v=1753671375",
           "url": "https://www.pakbyte.pk/products/thermalright-fan-hub-x4-fan-hub-controller",
           "history": [
-            1290,
+            1499,
             1499,
             1499,
             1499,
@@ -72517,8 +72699,8 @@
           ]
         },
         {
-          "id": "pakbyte_3d40adc2",
-          "name": "Lian Li UNI Fan SL-Infinity Wireless 120 - Triple Pack - White",
+          "id": "pakbyte_43105f1b",
+          "name": "Lian Li UNI Fan SL-Infinity 120 with L Wireless Controller  - Triple Pack - White",
           "brand": "Lian Li",
           "category": "cooler",
           "price": 24490,
@@ -72528,23 +72710,12 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-UNI-Fan-SL-Infinity-120-Triple-Pack-White-PakByte-Computers-25890167390275.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120-triple-pack-white",
           "history": [
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
             24490
           ]
         },
         {
-          "id": "pakbyte_ec11562d",
-          "name": "Lian Li UNI Fan SL-Infinity Wireless 120 - Triple Pack - Black",
+          "id": "pakbyte_b58bc0e0",
+          "name": "Lian Li UNI Fan SL-Infinity 120 with L Wireless Controller - Triple Pack - Black",
           "brand": "Lian Li",
           "category": "cooler",
           "price": 24490,
@@ -72554,17 +72725,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
-            24490,
             24490
           ]
         },
@@ -86887,7 +87047,7 @@
             6990,
             6990,
             6990,
-            6990,
+            8999,
             8999,
             8999,
             8999,
@@ -90372,7 +90532,7 @@
             5090,
             5090,
             5090,
-            5090,
+            5199,
             5199,
             5199,
             5199
@@ -125691,8 +125851,8 @@
           "name": "Lian Li Galahad 240 AIO UNI Fan SL120 Edition ARGB 240mm Liquid CPU Cooler - White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 23990,
-          "oldPrice": null,
+          "price": 21990,
+          "oldPrice": 23990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Galahad-240-AIO-UNI-Fan-SL120-Edition-ARGB-240mm-Liquid-CPU-Cooler-White-PakByte-Computers-24397385793603.jpg?v=1753682688",
@@ -125709,7 +125869,7 @@
             23990,
             23990,
             23990,
-            23990
+            21990
           ]
         },
         {
@@ -148834,6 +148994,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_zotac_rtx_3070_twin_edge_oc.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3070-twin-edge-oc-8gb-graphics-card-used",
           "history": [
+            104999,
             104999
           ]
         },
@@ -148849,6 +149010,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_amd_ryzen_7_5700g.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-7-5700g-am4-processor-with-radeon-graphics-tray",
           "history": [
+            59999,
             59999,
             59999,
             59999,
@@ -148872,6 +149034,7 @@
             49999,
             49999,
             49999,
+            49999,
             49999
           ]
         },
@@ -148887,6 +149050,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/05/ryzen_9_5900x.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-9-5900x-3-7-ghz-12-core-am4-processor-tray",
           "history": [
+            74999,
             74999,
             74999,
             74999,
@@ -148915,6 +149079,7 @@
             104999,
             104999,
             104999,
+            104999,
             104999
           ]
         },
@@ -148930,6 +149095,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_asus_prime_a520m-r.webp",
           "url": "https://rbtechngames.com/product/asus-prime-a520m-r-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -152776,10 +152942,10 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
           "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card",
           "history": [
-            1949999,
             2249999,
             2249999,
             2249999,
+            2849999,
             2849999,
             2849999,
             2849999,
@@ -155948,10 +156114,10 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_zotac_rtx_5090_amp_extreme_infinity_32gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5090-amp-extreme-infinity-32gb-graphics-card",
           "history": [
-            1749999,
             1949999,
             1949999,
             1949999,
+            2449999,
             2449999,
             2449999,
             2449999,
@@ -156287,7 +156453,7 @@
           "url": "https://rbtechngames.com/product/logitech-g-pro-x-superlight-2-dex-lightspeed-wireless-gaming-mouse-black-white-pink",
           "history": [
             34499,
-            34499,
+            31499,
             31499,
             31499,
             31499,
@@ -157326,6 +157492,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/02/amd_ryzen7_7700x.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-7-7700x-4-5ghz-8-core-am5-processor-tray",
           "history": [
+            59999,
             59999,
             59999,
             59999,
@@ -158807,6 +158974,7 @@
             124999,
             124999,
             124999,
+            124999,
             124999
           ]
         },
@@ -159035,7 +159203,7 @@
             148999,
             148999,
             148999,
-            148999,
+            92999,
             92999,
             92999,
             92999,
