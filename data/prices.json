@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T20:11:27.832491+00:00",
+  "lastUpdated": "2026-10-18T03:13:35.355213+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -25,6 +25,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -40,6 +41,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hyperx-cloud-iii-s-price-in-pakistan-pakbyte_1.webp?v=1792042353",
           "url": "https://www.pakbyte.pk/products/hyperx-cloud-iii-s-wireless-gaming-headset-black-red",
           "history": [
+            35990,
             35990,
             35990,
             35990,
@@ -2462,7 +2464,7 @@
             169990,
             169990,
             169990,
-            169990,
+            205999,
             205999,
             205999,
             205999,
@@ -18889,6 +18891,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/HyperX-Pulsefire-Saga-Gaming-Mouse-Black-Price-in-Pakistan-Pakbyte_1.jpg?v=1773812368",
           "url": "https://www.pakbyte.pk/products/hyperx-pulsefire-saga-gaming-mouse-black",
           "history": [
+            17490,
             17490,
             17490,
             17490,
@@ -46587,6 +46590,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -68187,7 +68191,7 @@
             45990,
             45990,
             45990,
-            45990,
+            50999,
             50999,
             50999,
             50999,
@@ -68573,7 +68577,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-fan-hub-x4-fan-hub-controller",
           "history": [
             1290,
-            1290,
+            1499,
             1499,
             1499,
             1499,
@@ -79554,6 +79558,7 @@
             1390,
             1390,
             1390,
+            1390,
             1390
           ]
         },
@@ -86883,7 +86888,7 @@
             6990,
             6990,
             6990,
-            6990,
+            8999,
             8999,
             8999,
             8999
@@ -90368,7 +90373,7 @@
             5090,
             5090,
             5090,
-            5090,
+            5199,
             5199,
             5199
           ]
@@ -148818,6 +148823,21 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_a527b268",
+          "name": "Zotac Gaming GeForce RTX 3070 Twin Edge OC 8GB Graphics Card &#8211; USED",
+          "brand": "Zotac",
+          "category": "gpu",
+          "price": 104999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_zotac_rtx_3070_twin_edge_oc.jpg",
+          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3070-twin-edge-oc-8gb-graphics-card-used",
+          "history": [
+            104999
+          ]
+        },
+        {
           "id": "rbtechgames_06ffbbf7",
           "name": "AMD Ryzen 7 5700G AM4 Processor with Radeon Graphics &#8211; TRAY",
           "brand": "AMD",
@@ -148829,6 +148849,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_amd_ryzen_7_5700g.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-7-5700g-am4-processor-with-radeon-graphics-tray",
           "history": [
+            59999,
             59999,
             59999,
             59999,
@@ -148850,6 +148871,7 @@
             49999,
             49999,
             49999,
+            49999,
             49999
           ]
         },
@@ -148865,6 +148887,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2021/05/ryzen_9_5900x.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-9-5900x-3-7-ghz-12-core-am4-processor-tray",
           "history": [
+            74999,
             74999,
             74999,
             74999,
@@ -148891,6 +148914,7 @@
             104999,
             104999,
             104999,
+            104999,
             104999
           ]
         },
@@ -148906,6 +148930,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_asus_prime_a520m-r.webp",
           "url": "https://rbtechngames.com/product/asus-prime-a520m-r-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -150296,32 +150321,6 @@
           ]
         },
         {
-          "id": "rbtechgames_1962f0cc",
-          "name": "Aula Nova75 Wireless Custom Mechanical RGB LCD Gaming Keyboard &#8211; Grey White Red (Car",
-          "brand": "Aula",
-          "category": "ram",
-          "price": 14999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_aula_nova75_white_gray_red.webp",
-          "url": "https://rbtechngames.com/product/aula-nova75-wireless-custom-mechanical-rgb-lcd-gaming-keyboard-grey-white-red-caramel-latte-switches",
-          "history": [
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999,
-            14999
-          ]
-        },
-        {
           "id": "rbtechgames_b10ebe46",
           "name": "Aula F87 Pro V2 TKL Wireless RGB Gaming Keyboard &#8211; Black Frosted (LEOBOG Ice Crystal",
           "brand": "Aula",
@@ -151255,32 +151254,6 @@
             22499,
             22499,
             22499
-          ]
-        },
-        {
-          "id": "rbtechgames_78d738a8",
-          "name": "Gigabyte H510M DS2V M-ATX LGA1200 DDR4 Gaming Motherboard &#8211; USED",
-          "brand": "Gigabyte",
-          "category": "ram",
-          "price": 9999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_gigabyte_h510m_ds2v.webp",
-          "url": "https://rbtechngames.com/product/gigabyte-h510m-ds2v-m-atx-lga1200-ddr4-gaming-motherboard-used",
-          "history": [
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999,
-            9999
           ]
         },
         {
@@ -152506,32 +152479,6 @@
           ]
         },
         {
-          "id": "rbtechgames_d157ea7b",
-          "name": "AMD Ryzen 5 5600XT AM4 Desktop Processor &#8211; Tray",
-          "brand": "AMD",
-          "category": "cpu",
-          "price": 39499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2020/11/amd-ryzen-5-5600x-2.jpg",
-          "url": "https://rbtechngames.com/product/amd-ryzen-5-5600xt-am4-desktop-processor-tray",
-          "history": [
-            39499,
-            39499,
-            39499,
-            39499,
-            39499,
-            39499,
-            39499,
-            39499,
-            39499,
-            39499,
-            39499,
-            39499
-          ]
-        },
-        {
           "id": "rbtechgames_350cd4f0",
           "name": "Asus ROG Keris II Origin (P722) 8K Wireless Gaming Mouse &#8211; Black/Moonlight White",
           "brand": "ASUS",
@@ -152830,10 +152777,10 @@
           "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card",
           "history": [
             1949999,
-            1949999,
             2249999,
             2249999,
             2249999,
+            2849999,
             2849999,
             2849999,
             2849999,
@@ -154040,32 +153987,6 @@
           ]
         },
         {
-          "id": "rbtechgames_a26104ad",
-          "name": "Rapoo X1500 Pro Wireless Keyboard and Mouse Combo &#8211; Black/White",
-          "brand": "Rapoo",
-          "category": "keyboard",
-          "price": 3995,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_rapoo_x1500-1.webp",
-          "url": "https://rbtechngames.com/product/rapoo-x1500-wireless-keyboard-and-mouse-combo-black-white",
-          "history": [
-            3995,
-            3995,
-            3995,
-            3995,
-            3995,
-            3995,
-            3995,
-            3995,
-            3995,
-            3995,
-            3995,
-            3995
-          ]
-        },
-        {
           "id": "rbtechgames_19f5c7db",
           "name": "Rapoo X260S Wireless Keyboard and Mouse Combo &#8211; Black",
           "brand": "Rapoo",
@@ -154649,7 +154570,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_transcend_jetram_16gb_cudimm.jpg",
           "url": "https://rbtechngames.com/product/transcend-jetram-16gb-1x16gb-6400mhz-cl52-cudimm-ddr5-ram",
           "history": [
-            64999,
+            74999,
             74999,
             74999,
             74999,
@@ -156028,10 +155949,10 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5090-amp-extreme-infinity-32gb-graphics-card",
           "history": [
             1749999,
-            1749999,
             1949999,
             1949999,
             1949999,
+            2449999,
             2449999,
             2449999,
             2449999,
@@ -156367,7 +156288,7 @@
           "history": [
             34499,
             34499,
-            34499,
+            31499,
             31499,
             31499,
             31499,
@@ -157409,6 +157330,7 @@
             59999,
             59999,
             59999,
+            59999,
             59999
           ]
         },
@@ -157696,32 +157618,6 @@
             39499,
             39499,
             39499
-          ]
-        },
-        {
-          "id": "rbtechgames_3a4ce8f7",
-          "name": "Logitech G Pro X Superlight 2 Wireless Gaming Mouse &#8211; Black",
-          "brand": "Logitech",
-          "category": "mouse",
-          "price": 34499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/06/rbtech_logitech_g_pro_x_superlight_2_black.webp",
-          "url": "https://rbtechngames.com/product/logitech-g-pro-x-superlight-2-wireless-gaming-mouse-black",
-          "history": [
-            34499,
-            34499,
-            34499,
-            34499,
-            34499,
-            34499,
-            34499,
-            34499,
-            34499,
-            34499,
-            34499,
-            34499
           ]
         },
         {
@@ -158178,7 +158074,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_adata_ddr5_16gb_5600mhz_2.jpg",
           "url": "https://rbtechngames.com/product/adata-16gb-1x16gb-5600mhz-c46-ddr5-u-dimm-desktop-memory",
           "history": [
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158282,7 +158178,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/12/rbtech_transcend_jetram_8GB_ddr5_4800mhz.jpg",
           "url": "https://rbtechngames.com/product/transcend-jetram-16gb-16gbx1-5600mhz-cl46-ddr5",
           "history": [
-            67499,
+            69999,
             69999,
             69999,
             69999,
@@ -158910,6 +158806,7 @@
             124999,
             124999,
             124999,
+            124999,
             124999
           ]
         },
@@ -159139,7 +159036,7 @@
             148999,
             148999,
             148999,
-            148999,
+            92999,
             92999,
             92999,
             92999,
