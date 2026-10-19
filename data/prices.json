@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T03:26:49.726812+00:00",
+  "lastUpdated": "2026-10-19T12:15:30.761624+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,96 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_be3d01b3",
+          "name": "Lian Li EDGE Platinum V2 1350W ATX 3.1 PSU with EDGE Hub ADV – White",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 74990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Platinum-Edge-V2-1350w-power-supply-price-in-pakistan-pakbyte_2.webp?v=1792382983",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1350w-atx-3-1-psu-with-edge-hub-adv-white",
+          "history": [
+            74990
+          ]
+        },
+        {
+          "id": "pakbyte_53961769",
+          "name": "Lian Li EDGE Platinum V2 1350W ATX 3.1 PSU with EDGE Hub ADV – Black",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 74990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-edge-platinum-v2-1350w-power-supplu-price-in-pakistan-pakbyte_3.webp?v=1792382832",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1350w-atx-3-1-psu-with-edge-hub-adv-black",
+          "history": [
+            74990
+          ]
+        },
+        {
+          "id": "pakbyte_a0e80b7d",
+          "name": "Lian Li EDGE Platinum V2 1200W ATX 3.1 PSU with EDGE Hub V2 – White",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 52990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Platinum-Edge-V2-1200w-power-supply-price-in-pakistan-pakbyte_2.webp?v=1792382650",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1200w-atx-3-1-psu-with-edge-hub-v2-white",
+          "history": [
+            52990
+          ]
+        },
+        {
+          "id": "pakbyte_e81e9e35",
+          "name": "Lian Li EDGE Platinum V2 1200W ATX 3.1 PSU with EDGE Hub V2 – Black",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 52990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-edge-platinum-v2-1200w-power-supplu-price-in-pakistan-pakbyte_3.webp?v=1792382489",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1200w-atx-3-1-psu-with-edge-hub-v2-black",
+          "history": [
+            52990
+          ]
+        },
+        {
+          "id": "pakbyte_16999528",
+          "name": "Lian Li EDGE Platinum V2 1000W ATX 3.1 PSU with EDGE Hub V2 – White",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 48490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Platinum-Edge-V2-1000w-poweer-supply-price-in-pakistan-pakbyte_2.webp?v=1792382286",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1000w-atx-3-1-psu-with-edge-hub-v2-white",
+          "history": [
+            48490
+          ]
+        },
+        {
+          "id": "pakbyte_42af7142",
+          "name": "Lian Li EDGE Platinum V2 1000W ATX 3.1 PSU with EDGE Hub V2 – Black",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 48490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-edge-platinum-v2-1000w-power-supplu-price-in-pakistan-pakbyte_1.webp?v=1792381761",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1000w-atx-3-1-psu-with-edge-hub-v2-black",
+          "history": [
+            48490
+          ]
+        },
         {
           "id": "pakbyte_996a4035",
           "name": "Lian Li HydroShift II OLED Curved 360 Fanless AIO CPU Cooler – White",
@@ -20,6 +110,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lianli-hydroshift-oled-curved-360-fanless-price-in-pakistan-pakbyte_1.webp?v=1792317210",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-oled-curved-360-fanless-aio-cpu-cooler-white",
           "history": [
+            82490,
             82490,
             82490,
             82490,
@@ -41,6 +132,7 @@
             82490,
             82490,
             82490,
+            82490,
             82490
           ]
         },
@@ -56,6 +148,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-oled-curved-360tl-price-in-pakistan-pakbyte_5.webp?v=1792316504",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-oled-curved-360tl-liquid-cpu-cooler-black",
           "history": [
+            99990,
             99990,
             99990,
             99990,
@@ -77,6 +170,7 @@
             99990,
             99990,
             99990,
+            99990,
             99990
           ]
         },
@@ -92,6 +186,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-Reverse-blade-case-fan-price-in-pakistan-pakbyte_3.jpg?v=1792315506",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-reverse-blade-single-fan-white",
           "history": [
+            14490,
             14490,
             14490,
             14490,
@@ -113,6 +208,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -128,6 +224,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-LCD-Case-Fan-Reverse-Blade-White-Price-in-Pakistan-Pakbyte_2.jpg?v=1792314916",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-reverse-blade-3-pack-white",
           "history": [
+            39990,
             39990,
             39990,
             39990,
@@ -149,6 +246,7 @@
             39990,
             39990,
             39990,
+            39990,
             39990
           ]
         },
@@ -164,6 +262,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-LCD-Case-Fan-White-Price-in-Pakistan-Pakbyte_1.jpg?v=1792314505",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-3-pack-white",
           "history": [
+            39990,
             39990,
             39990,
             39990,
@@ -185,6 +284,7 @@
             39990,
             39990,
             39990,
+            39990,
             39990
           ]
         },
@@ -200,6 +300,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-B4-mATX-Casing-Price-in-Pakistan-Pakbyte_5.jpg?v=1792313355",
           "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-compact-21-3l-matx-case-white",
           "history": [
+            25990,
             25990,
             25990,
             25990,
@@ -221,6 +322,7 @@
             24990,
             24990,
             24990,
+            24990,
             24990
           ]
         },
@@ -236,6 +338,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb4-gen4-240w-usb-c-to-usb-c-cable-price-in-pakistan-pakbyte_1.webp?v=1792150044",
           "url": "https://www.pakbyte.pk/products/ugreen-65383-thunderbolt-4-usb-c-to-usb-c-cable-usb4-gen4-16k-display-1m",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -2679,7 +2782,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-pure-rx-9060-xt-16gb-price-in-pakistan-pakbyte_1.webp?v=1789366629",
           "url": "https://www.pakbyte.pk/products/sapphire-rx-9060-xt-pure-gaming-oc-16gb-graphics-card",
           "history": [
-            169990,
+            205999,
             205999,
             205999,
             205999,
@@ -19898,7 +20001,7 @@
             36990,
             36990,
             36990,
-            36990,
+            37990,
             37990,
             37990,
             37990,
@@ -19976,7 +20079,7 @@
             19990,
             19990,
             19990,
-            19990,
+            18990,
             18990,
             18990,
             18990,
@@ -26424,7 +26527,7 @@
             36990,
             36990,
             36990,
-            36990,
+            37990,
             37990,
             37990,
             37990,
@@ -34510,7 +34613,7 @@
             34990,
             34990,
             34990,
-            34990,
+            35990,
             35990,
             35990,
             35990,
@@ -34588,7 +34691,7 @@
             24990,
             24990,
             24990,
-            24990,
+            26490,
             26490,
             26490,
             26490,
@@ -34614,7 +34717,7 @@
             24990,
             24990,
             24990,
-            24990,
+            26490,
             26490,
             26490,
             26490,
@@ -60016,7 +60119,7 @@
             39990,
             39990,
             39990,
-            39990,
+            40990,
             40990,
             40990,
             40990,
@@ -60042,7 +60145,7 @@
             38990,
             38990,
             38990,
-            38990,
+            40990,
             40990,
             40990,
             40990,
@@ -68407,7 +68510,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XPG-Gammix-S70-Blade-1TB-Internal-Gaming-SSD-PakByte-Computers-25956194877507.jpg?v=1753671312",
           "url": "https://www.pakbyte.pk/products/xpg-gammix-s70-blade-1tb-internal-gaming-ssd",
           "history": [
-            45990,
+            50999,
             50999,
             50999,
             50999,
@@ -72752,6 +72855,7 @@
             24490,
             24490,
             24490,
+            24490,
             24490
           ]
         },
@@ -72767,6 +72871,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
+            24490,
             24490,
             24490,
             24490,
@@ -87088,7 +87193,7 @@
             6990,
             6990,
             6990,
-            6990,
+            8999,
             8999,
             8999,
             8999,
@@ -90573,7 +90678,7 @@
             5090,
             5090,
             5090,
-            5090,
+            5199,
             5199,
             5199,
             5199,
@@ -125910,7 +126015,7 @@
             23990,
             23990,
             23990,
-            23990,
+            21990,
             21990,
             21990,
             21990,
@@ -149043,6 +149148,7 @@
             104999,
             104999,
             104999,
+            104999,
             104999
           ]
         },
@@ -149066,6 +149172,7 @@
             59999,
             59999,
             59999,
+            59999,
             59999
           ]
         },
@@ -149074,8 +149181,8 @@
           "name": "AMD Ryzen 5 5600G AM4 Processor with Radeon Graphics &#8211; TRAY",
           "brand": "AMD",
           "category": "gpu",
-          "price": 49999,
-          "oldPrice": null,
+          "price": 44999,
+          "oldPrice": 49999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/amd_ryzen5_5600g_1.jpg",
@@ -149089,7 +149196,8 @@
             49999,
             49999,
             49999,
-            49999
+            49999,
+            44999
           ]
         },
         {
@@ -149097,8 +149205,8 @@
           "name": "AMD Ryzen 9 5900X 3.7 GHz 12-Core AM4 Processor &#8211; TRAY",
           "brand": "AMD",
           "category": "cpu",
-          "price": 74999,
-          "oldPrice": null,
+          "price": 72499,
+          "oldPrice": 74999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2021/05/ryzen_9_5900x.jpg",
@@ -149112,7 +149220,8 @@
             74999,
             74999,
             74999,
-            74999
+            74999,
+            72499
           ]
         },
         {
@@ -149224,8 +149333,8 @@
           "name": "Logitech G Pro X2 Superstrike Lightspeed Wireless Gaming Mouse &#8211; Lunar Eclipse",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 57999,
-          "oldPrice": null,
+          "price": 54999,
+          "oldPrice": 57999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_logitech_g_pro_x2_superstrike.webp",
@@ -149242,7 +149351,7 @@
             57999,
             57999,
             57999,
-            57999
+            54999
           ]
         },
         {
@@ -149250,8 +149359,8 @@
           "name": "Gigabyte X870 Aorus Elite X3D Ice ATX AM5 DDR5 Gaming Motherboard",
           "brand": "Gigabyte",
           "category": "ram",
-          "price": 104999,
-          "oldPrice": null,
+          "price": 99999,
+          "oldPrice": 104999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_x870_aorus_elite_x3d_ice.png",
@@ -149268,7 +149377,7 @@
             104999,
             104999,
             104999,
-            104999
+            99999
           ]
         },
         {
@@ -149458,8 +149567,8 @@
           "name": "Gigabyte GeForce RTX 3070 Ti Gaming OC 8GB Graphics Card &#8211; USED",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 124999,
-          "oldPrice": null,
+          "price": 114999,
+          "oldPrice": 124999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_gigabyte_rtx_3070_ti_gaming_oc_8gb.png",
@@ -149476,7 +149585,7 @@
             124999,
             124999,
             124999,
-            124999
+            114999
           ]
         },
         {
@@ -152883,32 +152992,6 @@
             114999,
             114999,
             114999
-          ]
-        },
-        {
-          "id": "rbtechgames_74590652",
-          "name": "HP ZBook Studio 16 G10, Intel Core i9 13th Gen, 16GB RAM, 512GB SSD, RTX A1000, 16&#8243; ",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 289999,
-          "oldPrice": 349999,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_hp_zbook_studio_16_g10_silver.webp",
-          "url": "https://rbtechngames.com/product/hp-zbook-studio-16-g10-intel-core-i9-13th-gen-16gb-ram-512gb-ssd-rtx-a1000-16-wquxga-4k-oled-touch-display-natural-silver-used",
-          "history": [
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999
           ]
         },
         {
@@ -156790,8 +156873,8 @@
           "name": "AMD Ryzen 5 9600X Desktop Processor &#8211; Tray",
           "brand": "AMD",
           "category": "cpu",
-          "price": 52499,
-          "oldPrice": null,
+          "price": 50499,
+          "oldPrice": 52499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_amd_ryzen_5_9600x.avif",
@@ -156808,7 +156891,7 @@
             52499,
             52499,
             52499,
-            52499
+            50499
           ]
         },
         {
@@ -157284,8 +157367,8 @@
           "name": "AMD Ryzen 7 9800X3D Desktop Processor",
           "brand": "AMD",
           "category": "cpu",
-          "price": 128999,
-          "oldPrice": null,
+          "price": 124999,
+          "oldPrice": 128999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/11/2900400-ryzen-7-9800x3d-product.avif",
@@ -157302,7 +157385,7 @@
             128999,
             128999,
             128999,
-            128999
+            124999
           ]
         },
         {
@@ -157551,6 +157634,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/02/amd_ryzen7_7700x.jpg",
           "url": "https://rbtechngames.com/product/amd-ryzen-7-7700x-4-5ghz-8-core-am5-processor-tray",
           "history": [
+            59999,
             59999,
             59999,
             59999,
@@ -158166,8 +158250,8 @@
           "name": "AMD Ryzen 7 7800X3D (8 Cores/16 Thread) &#8211; TRAY &#8211; NEW",
           "brand": "AMD",
           "category": "cpu",
-          "price": 82499,
-          "oldPrice": null,
+          "price": 81499,
+          "oldPrice": 82499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/04/rbtech_amd_ryzen_7_7800X3D_tray.jpg",
@@ -158184,7 +158268,7 @@
             82499,
             82499,
             82499,
-            82499
+            81499
           ]
         },
         {
@@ -158738,8 +158822,8 @@
           "name": "AMD Ryzen 5 7600 Gaming Processor &#8211; TRAY",
           "brand": "AMD",
           "category": "cpu",
-          "price": 44999,
-          "oldPrice": null,
+          "price": 40999,
+          "oldPrice": 44999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/08/rbtech_ryzen_7600.jpeg",
@@ -158756,7 +158840,7 @@
             44999,
             44999,
             44999,
-            44999
+            40999
           ]
         },
         {
@@ -158868,8 +158952,8 @@
           "name": "Gainward GeForce RTX 3070 Ti Phoenix 8GB &#8211; USED",
           "brand": "Gainward",
           "category": "gpu",
-          "price": 114999,
-          "oldPrice": null,
+          "price": 112499,
+          "oldPrice": 114999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/04/rbtech_gainward_rtx3070ti_chasin_1.jpg",
@@ -158886,7 +158970,7 @@
             114999,
             114999,
             114999,
-            114999
+            112499
           ]
         },
         {
@@ -159024,8 +159108,8 @@
           "name": "AMD Ryzen 7 5800X3D Gaming Processor &#8211; TRAY",
           "brand": "AMD",
           "category": "cpu",
-          "price": 124999,
-          "oldPrice": null,
+          "price": 119999,
+          "oldPrice": 124999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2022/11/amd_5800x_1.jpg",
@@ -159040,7 +159124,8 @@
             124999,
             124999,
             124999,
-            124999
+            124999,
+            119999
           ]
         },
         {
@@ -159256,15 +159341,14 @@
           "name": "AMD Ryzen 9 5950X 16-core, 32-Thread Desktop Processor (TRAY)",
           "brand": "AMD",
           "category": "cpu",
-          "price": 92999,
-          "oldPrice": null,
+          "price": 89999,
+          "oldPrice": 92999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2021/10/image_2021-10-04_154104-2.png",
           "url": "https://rbtechngames.com/product/amd-ryzen-9-5950x-16-core-32-thread-desktop-processor-tray",
           "history": [
             148999,
-            148999,
             92999,
             92999,
             92999,
@@ -159274,7 +159358,8 @@
             92999,
             92999,
             92999,
-            92999
+            92999,
+            89999
           ]
         },
         {
@@ -159438,8 +159523,8 @@
           "name": "Logitech G102 LightSync Gaming Mouse &#8211; Black",
           "brand": "Logitech",
           "category": "mouse",
-          "price": 5500,
-          "oldPrice": null,
+          "price": 4999,
+          "oldPrice": 5500,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2021/01/logitech-g102.jpg",
@@ -159456,7 +159541,7 @@
             5500,
             5500,
             5500,
-            5500
+            4999
           ]
         },
         {
