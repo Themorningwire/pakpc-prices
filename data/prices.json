@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T16:24:22.611471+00:00",
+  "lastUpdated": "2026-10-20T21:17:31.424254+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,36 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_f30b82a5",
+          "name": "UGREEN 10239 4K Display port to HDMI Uni Directional Cable - 1.5m",
+          "brand": "UGREEN",
+          "category": "monitor",
+          "price": 2490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-4K-Displayport-to-HDMI-Cable-Price-in-Pakistan-Pakbyte.jpg?v=1792522118",
+          "url": "https://www.pakbyte.pk/products/ugreen-10239-4k-display-port-to-hdmi-uni-directional-cable-1-5m",
+          "history": [
+            2490
+          ]
+        },
+        {
+          "id": "pakbyte_ea56ef40",
+          "name": "Ugreen 35843 4K DisplayPort to HDMI Cable - 3M",
+          "brand": "Ugreen",
+          "category": "monitor",
+          "price": 2990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-4K-DisplayPort-to-HDMI-Cable-Price-in-Pakistan-Pakbyte_1.webp?v=1792521757",
+          "url": "https://www.pakbyte.pk/products/ugreen-35843-4k-displayport-to-hdmi-cable-3m",
+          "history": [
+            2990
+          ]
+        },
         {
           "id": "pakbyte_0a3bde8b",
           "name": "UGREEN 40360 4K Mini DisplayPort to HDMI Adapter",
@@ -20,6 +50,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-40360-4K-Mini-DisplayPort-to-HDMI-Adapter-Price-in-Pakistan-Pakbyte.jpg?v=1792430386",
           "url": "https://www.pakbyte.pk/products/ugreen-40360-4k-mini-displayport-to-hdmi-adapter",
           "history": [
+            2590,
             2590,
             2590,
             2590,
@@ -41,6 +72,7 @@
             4490,
             4490,
             4490,
+            4490,
             4490
           ]
         },
@@ -56,6 +88,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Platinum-Edge-V2-1350w-power-supply-price-in-pakistan-pakbyte_2.webp?v=1792382983",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1350w-atx-3-1-psu-with-edge-hub-adv-white",
           "history": [
+            74990,
             74990,
             74990,
             74990,
@@ -79,6 +112,7 @@
             74990,
             74990,
             74990,
+            74990,
             74990
           ]
         },
@@ -94,6 +128,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Platinum-Edge-V2-1200w-power-supply-price-in-pakistan-pakbyte_2.webp?v=1792382650",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1200w-atx-3-1-psu-with-edge-hub-v2-white",
           "history": [
+            52990,
             52990,
             52990,
             52990,
@@ -117,6 +152,7 @@
             52990,
             52990,
             52990,
+            52990,
             52990
           ]
         },
@@ -132,6 +168,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Platinum-Edge-V2-1000w-poweer-supply-price-in-pakistan-pakbyte_2.webp?v=1792382286",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1000w-atx-3-1-psu-with-edge-hub-v2-white",
           "history": [
+            48490,
             48490,
             48490,
             48490,
@@ -155,6 +192,7 @@
             48490,
             48490,
             48490,
+            48490,
             48490
           ]
         },
@@ -170,6 +208,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lianli-hydroshift-oled-curved-360-fanless-price-in-pakistan-pakbyte_1.webp?v=1792317210",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-oled-curved-360-fanless-aio-cpu-cooler-white",
           "history": [
+            82490,
             82490,
             82490,
             82490,
@@ -201,6 +240,7 @@
             82490,
             82490,
             82490,
+            82490,
             82490
           ]
         },
@@ -216,6 +256,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-oled-curved-360tl-price-in-pakistan-pakbyte_5.webp?v=1792316504",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-oled-curved-360tl-liquid-cpu-cooler-black",
           "history": [
+            99990,
             99990,
             99990,
             99990,
@@ -247,6 +288,7 @@
             99990,
             99990,
             99990,
+            99990,
             99990
           ]
         },
@@ -262,6 +304,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-Reverse-blade-case-fan-price-in-pakistan-pakbyte_3.jpg?v=1792315506",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-reverse-blade-single-fan-white",
           "history": [
+            14490,
             14490,
             14490,
             14490,
@@ -293,6 +336,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -308,6 +352,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-LCD-Case-Fan-Reverse-Blade-White-Price-in-Pakistan-Pakbyte_2.jpg?v=1792314916",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-reverse-blade-3-pack-white",
           "history": [
+            39990,
             39990,
             39990,
             39990,
@@ -339,6 +384,7 @@
             39990,
             39990,
             39990,
+            39990,
             39990
           ]
         },
@@ -354,6 +400,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-SLINF-Flex120-LCD-Case-Fan-White-Price-in-Pakistan-Pakbyte_1.jpg?v=1792314505",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-lcd-flex-120mm-3-pack-white",
           "history": [
+            39990,
             39990,
             39990,
             39990,
@@ -385,6 +432,7 @@
             39990,
             39990,
             39990,
+            39990,
             39990
           ]
         },
@@ -408,6 +456,7 @@
             25990,
             25990,
             25990,
+            25990,
             25990
           ]
         },
@@ -423,6 +472,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-B4-mATX-casing-price-in-pakistan-pakbyte_2.jpg?v=1792313053",
           "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-compact-21-3l-matx-case-black",
           "history": [
+            24990,
             24990,
             24990,
             24990,
@@ -15619,34 +15669,23 @@
           ]
         },
         {
-          "id": "pakbyte_76b78bd9",
-          "name": "Ugreen USB-C to DisplayPort 1.4 Cable 3M",
+          "id": "pakbyte_dd45670f",
+          "name": "Ugreen 25839 USB-C to DisplayPort 1.4 Cable - 3M",
           "brand": "Ugreen",
           "category": "monitor",
-          "price": 5199,
+          "price": 4990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb-c-to-displayport-price-in-pakistan-pakbyte_1.webp?v=1776700664",
           "url": "https://www.pakbyte.pk/products/ugreen-usb-c-to-displayport-1-4-cable-3m",
           "history": [
-            5199,
-            5199,
-            5199,
-            5199,
-            5199,
-            5199,
-            5199,
-            5199,
-            5199,
-            5199,
-            5199,
-            5199
+            4990
           ]
         },
         {
-          "id": "pakbyte_1e3b08fe",
-          "name": "Ugreen DisplayPort Male to HDMI Male Cable - 3M",
+          "id": "pakbyte_8f68ceb0",
+          "name": "Ugreen 10203 DisplayPort Male to HDMI Male Cable - 3M",
           "brand": "Ugreen",
           "category": "monitor",
           "price": 2990,
@@ -15656,17 +15695,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-dp-to-hdmi-cable-price-in-pakistan-pakbyte_4.webp?v=1776699839",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-male-to-hdmi-male-cable-3m",
           "history": [
-            2990,
-            2990,
-            2990,
-            2990,
-            2990,
-            2990,
-            2990,
-            2990,
-            2990,
-            2990,
-            2990,
             2990
           ]
         },
@@ -15708,6 +15736,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-80393-Display-Port-8K1.4-MM-Cable-3M-Price-in-Pakistan-Pakbyte.jpg?v=1776508081",
           "url": "https://www.pakbyte.pk/products/ugreen-80393-display-port-8k1-4-m-m-cable-3m",
           "history": [
+            2790,
             2790,
             2790,
             2790,
@@ -20096,7 +20125,7 @@
           "history": [
             36990,
             36990,
-            36990,
+            37990,
             37990,
             37990,
             37990,
@@ -20174,7 +20203,7 @@
           "history": [
             19990,
             19990,
-            19990,
+            18990,
             18990,
             18990,
             18990,
@@ -26622,7 +26651,7 @@
           "history": [
             36990,
             36990,
-            36990,
+            37990,
             37990,
             37990,
             37990,
@@ -34708,7 +34737,7 @@
           "history": [
             34990,
             34990,
-            34990,
+            35990,
             35990,
             35990,
             35990,
@@ -34786,7 +34815,7 @@
           "history": [
             24990,
             24990,
-            24990,
+            26490,
             26490,
             26490,
             26490,
@@ -34812,7 +34841,7 @@
           "history": [
             24990,
             24990,
-            24990,
+            26490,
             26490,
             26490,
             26490,
@@ -50417,7 +50446,7 @@
             229990,
             229990,
             229990,
-            229990,
+            259999,
             259999,
             259999,
             259999,
@@ -60214,7 +60243,7 @@
           "history": [
             39990,
             39990,
-            39990,
+            40990,
             40990,
             40990,
             40990,
@@ -60240,7 +60269,7 @@
           "history": [
             38990,
             38990,
-            38990,
+            40990,
             40990,
             40990,
             40990,
@@ -72960,6 +72989,7 @@
             24490,
             24490,
             24490,
+            24490,
             24490
           ]
         },
@@ -72975,6 +73005,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
+            24490,
             24490,
             24490,
             24490,
@@ -79787,6 +79818,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -79805,6 +79837,7 @@
             3090,
             3090,
             3090,
+            3090,
             3090
           ]
         },
@@ -79820,6 +79853,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-DisplayPort-8K-Cable-2m-PakByte-Computers-25763501998147.jpg?v=1753674138",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-8k-cable-3m",
           "history": [
+            3190,
             3190,
             3190,
             3190,
@@ -79867,6 +79901,7 @@
             3790,
             3790,
             3790,
+            3790,
             3790
           ]
         },
@@ -79882,6 +79917,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGreen-DisplayPort-1-4-Certified-Cable-5M-8k-DisplayPort-to-DisplayPort-Cable-Nylon-Braided-DP-to-DP-8K-60Hz-and-4K-144Hz-Support-32-4Gbps-HDR-HDCP-Gaming-Monitor-Cable-for-Laptop-PC-TV-PakByte-Computers-25763239919683.jpg?v=1753674048",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-1-4-certified-cable-5m",
           "history": [
+            3190,
             3190,
             3190,
             3190,
@@ -126078,7 +126114,7 @@
           "history": [
             23990,
             23990,
-            23990,
+            21990,
             21990,
             21990,
             21990,
@@ -149201,27 +149237,33 @@
       "verified": true,
       "products": [
         {
-          "id": "rbtechgames_a527b268",
-          "name": "Zotac Gaming GeForce RTX 3070 Twin Edge OC 8GB Graphics Card &#8211; USED",
-          "brand": "Zotac",
-          "category": "gpu",
-          "price": 97999,
+          "id": "rbtechgames_68ab022e",
+          "name": "Asus X870 Max Gaming WiFi7 W ATX AM5 DDR5 Gaming Motherboard",
+          "brand": "ASUS",
+          "category": "ram",
+          "price": 96999,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_zotac_rtx_3070_twin_edge_oc.jpg",
-          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3070-twin-edge-oc-8gb-graphics-card-used",
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_asus_x870_max_gaming_wifi7_w.webp",
+          "url": "https://rbtechngames.com/product/asus-x870-max-gaming-wifi7-w-atx-am5-ddr5-gaming-motherboard",
           "history": [
-            104999,
-            104999,
-            104999,
-            104999,
-            104999,
-            104999,
-            97999,
-            97999,
-            97999,
-            97999
+            96999
+          ]
+        },
+        {
+          "id": "rbtechgames_682fee25",
+          "name": "Asus ROG Crosshair X870E Dark Hero ATX AM5 DDR5 Gaming Motherboard",
+          "brand": "ASUS",
+          "category": "ram",
+          "price": 297999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_asus_rog_crosshair_x870e_dark_hero.png",
+          "url": "https://rbtechngames.com/product/asus-rog-crosshair-x870e-dark-hero-atx-am5-ddr5-gaming-motherboard",
+          "history": [
+            297999
           ]
         },
         {
@@ -149268,7 +149310,7 @@
             49999,
             49999,
             49999,
-            49999,
+            44999,
             44999,
             44999,
             44999,
@@ -149294,7 +149336,7 @@
             74999,
             74999,
             74999,
-            74999,
+            72499,
             72499,
             72499,
             72499,
@@ -149424,7 +149466,7 @@
             57999,
             57999,
             57999,
-            57999,
+            54999,
             54999,
             54999,
             54999,
@@ -149450,7 +149492,7 @@
             104999,
             104999,
             104999,
-            104999,
+            99999,
             99999,
             99999,
             99999,
@@ -149658,7 +149700,7 @@
             124999,
             124999,
             124999,
-            124999,
+            114999,
             114999,
             114999,
             114999,
@@ -151016,6 +151058,31 @@
             34999,
             34999,
             34999
+          ]
+        },
+        {
+          "id": "rbtechgames_eaaf195d",
+          "name": "Zotac Gaming GeForce RTX 5070 Solid OC 12GB Graphics Card &#8211; USED",
+          "brand": "Zotac",
+          "category": "gpu",
+          "price": 249999,
+          "oldPrice": 234999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
+          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-solid-oc-12gb-graphics-card-used",
+          "history": [
+            224999,
+            224999,
+            224999,
+            224999,
+            224999,
+            224999,
+            234999,
+            234999,
+            234999,
+            234999,
+            249999
           ]
         },
         {
@@ -154607,32 +154674,6 @@
           ]
         },
         {
-          "id": "rbtechgames_7c2f548e",
-          "name": "SteelSeries QcK Edge Cloth Gaming Mouse Pad &#8211; XL (Black)",
-          "brand": "SteelSeries",
-          "category": "mouse",
-          "price": 7499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_steelseries_qck_edge_cloth_xl.webp",
-          "url": "https://rbtechngames.com/product/steelseries-qck-edge-cloth-gaming-mouse-pad-xl-black",
-          "history": [
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499
-          ]
-        },
-        {
           "id": "rbtechgames_ddf39cd8",
           "name": "Crucial Pro OC 32GB (2x16GB) 6400MT/s CL38 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Crucial",
@@ -155301,7 +155342,7 @@
             184999,
             184999,
             184999,
-            184999,
+            194999,
             194999,
             194999,
             194999,
@@ -155717,7 +155758,7 @@
             60999,
             60999,
             60999,
-            60999,
+            59499,
             59499,
             59499,
             59499,
@@ -155873,7 +155914,7 @@
             26499,
             26499,
             26499,
-            26499,
+            42499,
             42499,
             42499,
             42499,
@@ -156185,7 +156226,7 @@
             14500,
             14500,
             14500,
-            14500,
+            13499,
             13499,
             13499,
             13499,
@@ -156445,7 +156486,7 @@
             257499,
             257499,
             257499,
-            257499,
+            259499,
             259499,
             259499,
             259499,
@@ -156913,7 +156954,7 @@
             32499,
             32499,
             32499,
-            32499,
+            34499,
             34499,
             34499,
             34499,
@@ -156964,7 +157005,7 @@
             52499,
             52499,
             52499,
-            52499,
+            50499,
             50499,
             50499,
             50499,
@@ -157303,7 +157344,7 @@
             8799,
             8799,
             8799,
-            8799,
+            8499,
             8499,
             8499,
             8499,
@@ -157458,7 +157499,7 @@
             128999,
             128999,
             128999,
-            128999,
+            124999,
             124999,
             124999,
             124999,
@@ -158342,7 +158383,7 @@
             82499,
             82499,
             82499,
-            82499,
+            81499,
             81499,
             81499,
             81499,
@@ -158703,6 +158744,7 @@
             114999,
             114999,
             114999,
+            114999,
             114999
           ]
         },
@@ -158932,7 +158974,7 @@
             44999,
             44999,
             44999,
-            44999,
+            40999,
             40999,
             40999,
             40999,
@@ -159062,7 +159104,7 @@
             114999,
             114999,
             114999,
-            114999,
+            112499,
             112499,
             112499,
             112499,
@@ -159218,7 +159260,7 @@
             124999,
             124999,
             124999,
-            124999,
+            119999,
             119999,
             119999,
             119999,
@@ -159426,7 +159468,7 @@
             92999,
             92999,
             92999,
-            92999,
+            89999,
             89999,
             89999,
             89999,
@@ -159608,7 +159650,7 @@
             5500,
             5500,
             5500,
-            5500,
+            4999,
             4999,
             4999,
             4999,
