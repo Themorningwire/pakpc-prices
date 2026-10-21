@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T16:40:55.221916+00:00",
+  "lastUpdated": "2026-10-21T21:17:25.323001+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_02416618",
+          "name": "ATK Blaze XSoft eSport Gaming Mouse Pad - Lake Green",
+          "brand": "ATK",
+          "category": "mouse",
+          "price": 4490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK_blaze-mousepad-pice-in-pakistan-pakbyte.webp?v=1792601021",
+          "url": "https://www.pakbyte.pk/products/atk-blaze-xsoft-esport-gaming-mouse-pad-lake-green",
+          "history": [
+            4490
+          ]
+        },
         {
           "id": "pakbyte_faa9c83c",
           "name": "ATK Blaze XSoft eSport Gaming Mouse Pad - Black",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Blaze-xsoft-gaming-mousepad-price-in-pakistan-pakbyte.webp?v=1792600466",
           "url": "https://www.pakbyte.pk/products/atk-blaze-xsoft-esport-gaming-mouse-pad-black",
           "history": [
+            4490,
             4490
           ]
         },
@@ -35,6 +51,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Blaze-XSoft-eSport-Gaming-Mousepad-price-in-pakistan-pakbyte.webp?v=1792600168",
           "url": "https://www.pakbyte.pk/products/atk-blaze-xsoft-esport-gaming-mouse-pad-red",
           "history": [
+            4490,
             4490
           ]
         },
@@ -50,6 +67,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Atk-Anime-Xsoft-Nana-Mousepad-Price-in-Pakistan-Pakbyte.jpg?v=1792596915",
           "url": "https://www.pakbyte.pk/products/atk-anime-soft-gaming-mouse-pad-490-x-420-mm-nana",
           "history": [
+            4490,
             4490
           ]
         },
@@ -65,6 +83,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Glasspad-Riffle-Black-price-in-pakistan-pakbyte.webp?v=1792595871",
           "url": "https://www.pakbyte.pk/products/atk-glasspad-riffle-lian-yi-mousepad-black",
           "history": [
+            19990,
             19990
           ]
         },
@@ -80,6 +99,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Glasspad-Riffle-White-price-in-pakistan-pakbyte.webp?v=1792595036",
           "url": "https://www.pakbyte.pk/products/atk-glasspad-riffle-lian-yi-mousepad-white",
           "history": [
+            19990,
             19990
           ]
         },
@@ -95,6 +115,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Tempered-Glass-MousePad-Crimson-Limited-Edition-Price-in-Pakistan-Pakbyte_1.webp?v=1792593831",
           "url": "https://www.pakbyte.pk/products/atk-tempered-glass-mouse-pad-crimson-limited-edition",
           "history": [
+            15990,
             15990
           ]
         },
@@ -110,6 +131,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-99g-price-in-pakistan-pakbyte_1.webp?v=1792591024",
           "url": "https://www.pakbyte.pk/products/atk-99g-xsoft-esports-gaming-mouse-pad-matcha-green",
           "history": [
+            3990,
             3990
           ]
         },
@@ -125,6 +147,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Anime-Mousepad-Riverie-Price-in-Pakistan-Pakbyte.webp?v=1792590698",
           "url": "https://www.pakbyte.pk/products/atk-anime-mouse-pad-reverie",
           "history": [
+            4490,
             4490
           ]
         },
@@ -140,6 +163,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-4K-Displayport-to-HDMI-Cable-Price-in-Pakistan-Pakbyte.jpg?v=1792522118",
           "url": "https://www.pakbyte.pk/products/ugreen-10239-4k-display-port-to-hdmi-uni-directional-cable-1-5m",
           "history": [
+            2490,
             2490,
             2490,
             2490,
@@ -161,6 +185,7 @@
             2990,
             2990,
             2990,
+            2990,
             2990
           ]
         },
@@ -176,6 +201,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-40360-4K-Mini-DisplayPort-to-HDMI-Adapter-Price-in-Pakistan-Pakbyte.jpg?v=1792430386",
           "url": "https://www.pakbyte.pk/products/ugreen-40360-4k-mini-displayport-to-hdmi-adapter",
           "history": [
+            2590,
             2590,
             2590,
             2590,
@@ -205,6 +231,7 @@
             4490,
             4490,
             4490,
+            4490,
             4490
           ]
         },
@@ -220,6 +247,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Platinum-Edge-V2-1350w-power-supply-price-in-pakistan-pakbyte_2.webp?v=1792382983",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1350w-atx-3-1-psu-with-edge-hub-adv-white",
           "history": [
+            74990,
             74990,
             74990,
             74990,
@@ -251,6 +279,7 @@
             74990,
             74990,
             74990,
+            74990,
             74990
           ]
         },
@@ -266,6 +295,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Platinum-Edge-V2-1200w-power-supply-price-in-pakistan-pakbyte_2.webp?v=1792382650",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1200w-atx-3-1-psu-with-edge-hub-v2-white",
           "history": [
+            52990,
             52990,
             52990,
             52990,
@@ -297,6 +327,7 @@
             52990,
             52990,
             52990,
+            52990,
             52990
           ]
         },
@@ -320,6 +351,7 @@
             48490,
             48490,
             48490,
+            48490,
             48490
           ]
         },
@@ -335,6 +367,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-edge-platinum-v2-1000w-power-supplu-price-in-pakistan-pakbyte_1.webp?v=1792381761",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-platinum-v2-1000w-atx-3-1-psu-with-edge-hub-v2-black",
           "history": [
+            48490,
             48490,
             48490,
             48490,
@@ -15857,6 +15890,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -15872,6 +15906,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-dp-to-hdmi-cable-price-in-pakistan-pakbyte_4.webp?v=1776699839",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-male-to-hdmi-male-cable-3m",
           "history": [
+            2990,
             2990,
             2990,
             2990,
@@ -15916,6 +15951,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-80393-Display-Port-8K1.4-MM-Cable-3M-Price-in-Pakistan-Pakbyte.jpg?v=1776508081",
           "url": "https://www.pakbyte.pk/products/ugreen-80393-display-port-8k1-4-m-m-cable-3m",
           "history": [
+            2790,
             2790,
             2790,
             2790,
@@ -29556,7 +29592,7 @@
           "brand": "WD",
           "category": "storage",
           "price": 118999,
-          "oldPrice": 85999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/wd-sn850x-ssd-nvme-price-in-pakistan-pakbyte-2.jpg?v=1768431094",
@@ -29572,7 +29608,7 @@
             85999,
             85999,
             85999,
-            85999,
+            118999,
             118999
           ]
         },
@@ -50625,7 +50661,7 @@
             229990,
             229990,
             229990,
-            229990,
+            259999,
             259999,
             259999,
             259999,
@@ -80009,6 +80045,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -80031,6 +80068,7 @@
             3090,
             3090,
             3090,
+            3090,
             3090
           ]
         },
@@ -80046,6 +80084,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-DisplayPort-8K-Cable-2m-PakByte-Computers-25763501998147.jpg?v=1753674138",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-8k-cable-3m",
           "history": [
+            3190,
             3190,
             3190,
             3190,
@@ -80101,6 +80140,7 @@
             3790,
             3790,
             3790,
+            3790,
             3790
           ]
         },
@@ -80116,6 +80156,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGreen-DisplayPort-1-4-Certified-Cable-5M-8k-DisplayPort-to-DisplayPort-Cable-Nylon-Braided-DP-to-DP-8K-60Hz-and-4K-144Hz-Support-32-4Gbps-HDR-HDCP-Gaming-Monitor-Cable-for-Laptop-PC-TV-PakByte-Computers-25763239919683.jpg?v=1753674048",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-1-4-certified-cable-5m",
           "history": [
+            3190,
             3190,
             3190,
             3190,
@@ -87184,6 +87225,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-RTX-4060-VENTUS-2X-0C-8GB-BLACK-PakByte-Computers-25556650655811.jpg?v=1753675464",
           "url": "https://www.pakbyte.pk/products/msi-rtx-4060-ventus-2x-0c-8gbblack",
           "history": [
+            99800,
             99800
           ]
         },
@@ -149442,6 +149484,7 @@
             96999,
             96999,
             96999,
+            96999,
             96999
           ]
         },
@@ -149457,6 +149500,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_asus_rog_crosshair_x870e_dark_hero.png",
           "url": "https://rbtechngames.com/product/asus-rog-crosshair-x870e-dark-hero-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            297999,
             297999,
             297999,
             297999,
@@ -149503,7 +149547,7 @@
           "history": [
             49999,
             49999,
-            49999,
+            44999,
             44999,
             44999,
             44999,
@@ -149529,7 +149573,7 @@
           "history": [
             74999,
             74999,
-            74999,
+            72499,
             72499,
             72499,
             72499,
@@ -149659,7 +149703,7 @@
           "history": [
             57999,
             57999,
-            57999,
+            54999,
             54999,
             54999,
             54999,
@@ -149685,7 +149729,7 @@
           "history": [
             104999,
             104999,
-            104999,
+            99999,
             99999,
             99999,
             99999,
@@ -149893,7 +149937,7 @@
           "history": [
             124999,
             124999,
-            124999,
+            114999,
             114999,
             114999,
             114999,
@@ -150326,8 +150370,8 @@
           "name": "HP HyperX Omen 15 (15-GB0090WM), AMD Ryzen 9 8940HX, 16GB RAM, 1TB SSD, RTX 5070, 15.3&#82",
           "brand": "HyperX",
           "category": "gpu",
-          "price": 599999,
-          "oldPrice": null,
+          "price": 569999,
+          "oldPrice": 599999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_hp_hyperx_omen_15_shadow_black.webp",
@@ -150344,7 +150388,7 @@
             599999,
             599999,
             599999,
-            599999
+            569999
           ]
         },
         {
@@ -151272,11 +151316,11 @@
             224999,
             224999,
             224999,
-            224999,
             234999,
             234999,
             234999,
             234999,
+            249999,
             249999,
             249999,
             249999,
@@ -152926,8 +152970,8 @@
           "name": "HP HyperX Omen 15 (15-GA0031TX), Intel Core i7 14th Gen, 24GB RAM, 1TB SSD, RTX 5060, 15.3",
           "brand": "HyperX",
           "category": "gpu",
-          "price": 524999,
-          "oldPrice": 549999,
+          "price": 489999,
+          "oldPrice": 524999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hyperx_omen_15.webp",
@@ -152944,7 +152988,7 @@
             524999,
             524999,
             524999,
-            524999
+            489999
           ]
         },
         {
@@ -153153,6 +153197,32 @@
             29999,
             29999,
             29999
+          ]
+        },
+        {
+          "id": "rbtechgames_d157ea7b",
+          "name": "AMD Ryzen 5 5600XT AM4 Desktop Processor &#8211; Tray",
+          "brand": "AMD",
+          "category": "cpu",
+          "price": 39499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2020/11/amd-ryzen-5-5600x-2.jpg",
+          "url": "https://rbtechngames.com/product/amd-ryzen-5-5600xt-am4-desktop-processor-tray",
+          "history": [
+            39499,
+            39499,
+            39499,
+            39499,
+            39499,
+            39499,
+            39499,
+            39499,
+            39499,
+            39499,
+            39499,
+            39499
           ]
         },
         {
@@ -153751,32 +153821,6 @@
             29499,
             29499,
             29499
-          ]
-        },
-        {
-          "id": "rbtechgames_f5ab4d95",
-          "name": "Aula F87 Pro V2 TKL Wireless RGB Gaming Keyboard &#8211; White Contours (Seiya Switch)",
-          "brand": "Aula",
-          "category": "keyboard",
-          "price": 12499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_aula_f87_pro_v2_white_contours.webp",
-          "url": "https://rbtechngames.com/product/aula-f87-pro-v2-tkl-wireless-rgb-gaming-keyboard-white-contours-seiya-switch",
-          "history": [
-            12499,
-            12499,
-            12499,
-            12499,
-            12499,
-            12499,
-            12499,
-            12499,
-            12499,
-            12499,
-            12499,
-            12499
           ]
         },
         {
@@ -155510,7 +155554,7 @@
             184999,
             184999,
             184999,
-            184999,
+            194999,
             194999,
             194999,
             194999,
@@ -155926,7 +155970,7 @@
             60999,
             60999,
             60999,
-            60999,
+            59499,
             59499,
             59499,
             59499,
@@ -156072,8 +156116,8 @@
           "name": "Lexar NQ780 M.2 2280 PCIe Gen 4 NVMe SSD &#8211; 512GB/1TB/2TB/4TB",
           "brand": "Lexar",
           "category": "storage",
-          "price": 42499,
-          "oldPrice": null,
+          "price": 26499,
+          "oldPrice": 42499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
@@ -156082,7 +156126,6 @@
             26499,
             26499,
             26499,
-            26499,
             42499,
             42499,
             42499,
@@ -156090,7 +156133,8 @@
             42499,
             42499,
             42499,
-            42499
+            42499,
+            26499
           ]
         },
         {
@@ -156394,7 +156438,7 @@
             14500,
             14500,
             14500,
-            14500,
+            13499,
             13499,
             13499,
             13499,
@@ -156654,7 +156698,7 @@
             257499,
             257499,
             257499,
-            257499,
+            259499,
             259499,
             259499,
             259499,
@@ -157122,7 +157166,7 @@
             32499,
             32499,
             32499,
-            32499,
+            34499,
             34499,
             34499,
             34499,
@@ -157173,7 +157217,7 @@
           "history": [
             52499,
             52499,
-            52499,
+            50499,
             50499,
             50499,
             50499,
@@ -157512,7 +157556,7 @@
             8799,
             8799,
             8799,
-            8799,
+            8499,
             8499,
             8499,
             8499,
@@ -157667,7 +157711,7 @@
           "history": [
             128999,
             128999,
-            128999,
+            124999,
             124999,
             124999,
             124999,
@@ -158525,7 +158569,7 @@
           "history": [
             82499,
             82499,
-            82499,
+            81499,
             81499,
             81499,
             81499,
@@ -158894,6 +158938,7 @@
             114999,
             114999,
             114999,
+            114999,
             114999
           ]
         },
@@ -159119,7 +159164,7 @@
           "history": [
             44999,
             44999,
-            44999,
+            40999,
             40999,
             40999,
             40999,
@@ -159249,7 +159294,7 @@
           "history": [
             114999,
             114999,
-            114999,
+            112499,
             112499,
             112499,
             112499,
@@ -159405,7 +159450,7 @@
           "history": [
             124999,
             124999,
-            124999,
+            119999,
             119999,
             119999,
             119999,
@@ -159613,7 +159658,7 @@
           "history": [
             92999,
             92999,
-            92999,
+            89999,
             89999,
             89999,
             89999,
@@ -159795,7 +159840,7 @@
           "history": [
             5500,
             5500,
-            5500,
+            4999,
             4999,
             4999,
             4999,
