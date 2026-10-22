@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T11:13:40.136181+00:00",
+  "lastUpdated": "2026-10-22T16:41:50.196692+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,81 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_167a45e1",
+          "name": "AOC CQ27G4Z2 27\" 1500R 260Hz Curved  Monitor",
+          "brand": "AOC",
+          "category": "monitor",
+          "price": 59990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-CQ27G4Z2-Monitor-Price-in-Pakistan-Pakbyte_1.avif?v=1792676839",
+          "url": "https://www.pakbyte.pk/products/aoc-cq27g4z2-27-1500r-260hz-curved-monitor",
+          "history": [
+            59990
+          ]
+        },
+        {
+          "id": "pakbyte_f32d02b8",
+          "name": "AOC AGP346UCSD 34\" Frameless Curved Gaming LED",
+          "brand": "AOC",
+          "category": "ram",
+          "price": 352990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-3-SIDED-FRAMELESS-CURVED-GAMING-LED-34-AGP346UCSD-Price-in-Pakistan-Pakbyte_2.avif?v=1792676277",
+          "url": "https://www.pakbyte.pk/products/aoc-agp346ucsd-34-frameless-curved-gaming-led",
+          "history": [
+            352990
+          ]
+        },
+        {
+          "id": "pakbyte_dda1e040",
+          "name": "Philips 32E1N1100L 100Hz FHD LCD Monitor",
+          "brand": "Philips",
+          "category": "monitor",
+          "price": 58990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-32E1N1100L-FHD-Monitor-Price-in-Pakistan-Pakbyte.jpg?v=1792675008",
+          "url": "https://www.pakbyte.pk/products/philips-32e1n1100l-100hz-fhd-lcd-monitor",
+          "history": [
+            58990
+          ]
+        },
+        {
+          "id": "pakbyte_03a4bb5b",
+          "name": "AOC CQ32G4Z 32-Inch Triple-Mode Curved Gaming Monitor",
+          "brand": "AOC",
+          "category": "monitor",
+          "price": 88990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-CQ32G4Z-Trimode-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.webp?v=1792671479",
+          "url": "https://www.pakbyte.pk/products/aoc-cq32g4z-32-inch-triple-mode-curved-gaming-monitor",
+          "history": [
+            88990
+          ]
+        },
+        {
+          "id": "pakbyte_1406846f",
+          "name": "AOC C32G2ZE - 240Hz 1080p FHD VA 32\" Curved Gaming Monitor",
+          "brand": "AOC",
+          "category": "monitor",
+          "price": 65990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-c32g2ze-gaming-monitor-price-in-pakistan-pakbyte_1.jpg?v=1792670459",
+          "url": "https://www.pakbyte.pk/products/aoc-c32g2ze-240hz-1080p-fhd-va-32-curved-gaming-monitor",
+          "history": [
+            65990
+          ]
+        },
         {
           "id": "pakbyte_02416618",
           "name": "ATK Blaze XSoft eSport Gaming Mouse Pad - Lake Green",
@@ -20,6 +95,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK_blaze-mousepad-pice-in-pakistan-pakbyte.webp?v=1792601021",
           "url": "https://www.pakbyte.pk/products/atk-blaze-xsoft-esport-gaming-mouse-pad-lake-green",
           "history": [
+            4490,
             4490,
             4490,
             4490
@@ -37,6 +113,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Blaze-xsoft-gaming-mousepad-price-in-pakistan-pakbyte.webp?v=1792600466",
           "url": "https://www.pakbyte.pk/products/atk-blaze-xsoft-esport-gaming-mouse-pad-black",
           "history": [
+            4490,
             4490,
             4490,
             4490,
@@ -58,6 +135,7 @@
             4490,
             4490,
             4490,
+            4490,
             4490
           ]
         },
@@ -73,6 +151,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Atk-Anime-Xsoft-Nana-Mousepad-Price-in-Pakistan-Pakbyte.jpg?v=1792596915",
           "url": "https://www.pakbyte.pk/products/atk-anime-soft-gaming-mouse-pad-490-x-420-mm-nana",
           "history": [
+            4490,
             4490
           ]
         },
@@ -88,6 +167,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Glasspad-Riffle-Black-price-in-pakistan-pakbyte.webp?v=1792595871",
           "url": "https://www.pakbyte.pk/products/atk-glasspad-riffle-lian-yi-mousepad-black",
           "history": [
+            19990,
             19990,
             19990,
             19990,
@@ -109,6 +189,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -124,6 +205,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Tempered-Glass-MousePad-Crimson-Limited-Edition-Price-in-Pakistan-Pakbyte_1.webp?v=1792593831",
           "url": "https://www.pakbyte.pk/products/atk-tempered-glass-mouse-pad-crimson-limited-edition",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -145,6 +227,7 @@
             3990,
             3990,
             3990,
+            3990,
             3990
           ]
         },
@@ -160,6 +243,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Anime-Mousepad-Riverie-Price-in-Pakistan-Pakbyte.webp?v=1792590698",
           "url": "https://www.pakbyte.pk/products/atk-anime-mouse-pad-reverie",
           "history": [
+            4490,
             4490,
             4490,
             4490,
@@ -184,6 +268,7 @@
             2490,
             2490,
             2490,
+            2490,
             2490
           ]
         },
@@ -199,6 +284,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-4K-DisplayPort-to-HDMI-Cable-Price-in-Pakistan-Pakbyte_1.webp?v=1792521757",
           "url": "https://www.pakbyte.pk/products/ugreen-35843-4k-displayport-to-hdmi-cable-3m",
           "history": [
+            2990,
             2990,
             2990,
             2990,
@@ -230,6 +316,7 @@
             2590,
             2590,
             2590,
+            2590,
             2590
           ]
         },
@@ -245,6 +332,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-45039-displayport-8k-price-in-pakistan-pakbyte.webp?v=1792429768",
           "url": "https://www.pakbyte.pk/products/ugreen-45039-displayport-8k-cable-5m",
           "history": [
+            4490,
             4490,
             4490,
             4490,
@@ -1043,8 +1131,8 @@
           "name": "AOC 22B40HM 21.45′ Full HD VA Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 23490,
-          "oldPrice": null,
+          "price": 22990,
+          "oldPrice": 23490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-22b40hm-monitor-price-in-pakistan-pakbyte_1.webp?v=1791441065",
@@ -1061,7 +1149,7 @@
             23490,
             23490,
             23490,
-            23490
+            22990
           ]
         },
         {
@@ -1069,8 +1157,8 @@
           "name": "AOC AGON 16T3FE Portable Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 33990,
-          "oldPrice": null,
+          "price": 30990,
+          "oldPrice": 33990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-PORTABLE-LED-16T3FE-Price-in-Pakistan-Pakbyte_2.avif?v=1791383942",
@@ -1087,7 +1175,7 @@
             33990,
             33990,
             33990,
-            33990
+            30990
           ]
         },
         {
@@ -4190,7 +4278,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 48990,
-          "oldPrice": 53990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-vx2532-price-in-pakistan-pakbyte_1.webp?v=1787207331",
@@ -4206,7 +4294,7 @@
             53990,
             53990,
             53990,
-            53990,
+            48990,
             48990
           ]
         },
@@ -4397,8 +4485,8 @@
           "name": "AOC 24G50F 23.8\" 180Hz FHD Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 32990,
-          "oldPrice": null,
+          "price": 31990,
+          "oldPrice": 32990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50f-price-in-pakistan-pakbyte_1.webp?v=1787034791",
@@ -4415,7 +4503,7 @@
             32990,
             32990,
             32990,
-            32990
+            31990
           ]
         },
         {
@@ -13888,7 +13976,7 @@
           "brand": "ViewSonic",
           "category": "monitor",
           "price": 104990,
-          "oldPrice": 110990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-VX2757-2K-PRO-4-27-QHD-Gaming-Monitor-Price-in-Pakistan-Pakbyte_1.jpg?v=1778737782",
@@ -13904,7 +13992,7 @@
             110990,
             110990,
             110990,
-            110990,
+            104990,
             104990
           ]
         },
@@ -15551,8 +15639,8 @@
           "name": "AOC Q27G40ZDF 240Hz 2K WQHD QD-OLED 0.03ms 27\" Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 161990,
-          "oldPrice": null,
+          "price": 157990,
+          "oldPrice": 161990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-q27g40zdf-price-in-pakistan-pakbyte_1.webp?v=1777301743",
@@ -15569,7 +15657,7 @@
             161990,
             161990,
             161990,
-            161990
+            157990
           ]
         },
         {
@@ -15928,6 +16016,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -15943,6 +16032,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-dp-to-hdmi-cable-price-in-pakistan-pakbyte_4.webp?v=1776699839",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-male-to-hdmi-male-cable-3m",
           "history": [
+            2990,
             2990,
             2990,
             2990,
@@ -15990,6 +16080,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-80393-Display-Port-8K1.4-MM-Cable-3M-Price-in-Pakistan-Pakbyte.jpg?v=1776508081",
           "url": "https://www.pakbyte.pk/products/ugreen-80393-display-port-8k1-4-m-m-cable-3m",
           "history": [
+            2790,
             2790,
             2790,
             2790,
@@ -20922,8 +21013,8 @@
           "name": "Viewsonic ViewBoard IFP6534 EDLA Certified 65” 4K Interactive Display",
           "brand": "Viewsonic",
           "category": "monitor",
-          "price": 379990,
-          "oldPrice": null,
+          "price": 399990,
+          "oldPrice": 379990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Viewsonic-ViewBoard-IFP6534-4K-Interactive-Display-Price-in-Pakistan-Pakbyte.webp?v=1773413416",
@@ -20940,7 +21031,7 @@
             379990,
             379990,
             379990,
-            379990
+            399990
           ]
         },
         {
@@ -20948,8 +21039,8 @@
           "name": "ViewSonic IFP7534 75\" 4K Android EDLA-Certified ViewBoard Interactive Display",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 531990,
-          "oldPrice": null,
+          "price": 524990,
+          "oldPrice": 531990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-IFP7534-ViewBoard-Interactive-Display-Price-in-Pakistan-Pakbyte.webp?v=1773413035",
@@ -20966,7 +21057,7 @@
             531990,
             531990,
             531990,
-            531990
+            524990
           ]
         },
         {
@@ -21104,8 +21195,8 @@
           "name": "AOC 24G50Z 24\" FHD 240Hz Fast IPS Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 37990,
-          "oldPrice": null,
+          "price": 35990,
+          "oldPrice": 37990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-24g50z-price-in-pakistan-pakbyte_4.webp?v=1773379757",
@@ -21122,7 +21213,7 @@
             37990,
             37990,
             37990,
-            37990
+            35990
           ]
         },
         {
@@ -21130,8 +21221,8 @@
           "name": "AOC 24B36X 24\" 144Hz FHD Gaming Monitor - Black",
           "brand": "AOC",
           "category": "monitor",
-          "price": 29990,
-          "oldPrice": null,
+          "price": 28990,
+          "oldPrice": 29990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-3-SIDED-FRAMELESS-GAMING-LED-24B36X-Price-in-Pakistan-Pakbyte_1.jpg?v=1773379430",
@@ -21148,7 +21239,7 @@
             29990,
             29990,
             29990,
-            29990
+            28990
           ]
         },
         {
@@ -29646,7 +29737,7 @@
             85999,
             85999,
             85999,
-            85999,
+            118999,
             118999,
             118999,
             118999,
@@ -33788,29 +33879,18 @@
           ]
         },
         {
-          "id": "pakbyte_fe750d55",
-          "name": "ViewSonic VA1655 15.6\" 1080p FHD IPS Portable Monitor with Built-in Stand",
+          "id": "pakbyte_e9428624",
+          "name": "ViewSonic VA1655 15.6\" 60Hz 1080p FHD IPS Portable Monitor with Built-in Stand",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 51990,
+          "price": 41990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/viewsonic-va1655-portable-monitor-price-in-pakistan-pakbyte_2.webp?v=1766387035",
           "url": "https://www.pakbyte.pk/products/viewsonic-va1655-15-6-1080p-fhd-ips-portable-monitor-with-built-in-stand",
           "history": [
-            51990,
-            51990,
-            51990,
-            51990,
-            51990,
-            51990,
-            51990,
-            51990,
-            51990,
-            51990,
-            51990,
-            51990
+            41990
           ]
         },
         {
@@ -34650,8 +34730,8 @@
           "name": "AOC Q27G4/WS 27\" 200Hz  Fast IPS QHD Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 65990,
-          "oldPrice": null,
+          "price": 66990,
+          "oldPrice": 65990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-q27g4-ws-price-in-pakistan-pakbyte_4.webp?v=1766225895",
@@ -34668,7 +34748,7 @@
             65990,
             65990,
             65990,
-            65990
+            66990
           ]
         },
         {
@@ -50699,7 +50779,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5070-12g-shadow-3x-oc_1.webp?v=1757158082",
           "url": "https://www.pakbyte.pk/products/msi-gaming-rtx-5070-12g-shadow-3x-oc-graphics-card",
           "history": [
-            229990,
+            259999,
             259999,
             259999,
             259999,
@@ -80089,6 +80169,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -80114,6 +80195,7 @@
             3090,
             3090,
             3090,
+            3090,
             3090
           ]
         },
@@ -80129,6 +80211,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-DisplayPort-8K-Cable-2m-PakByte-Computers-25763501998147.jpg?v=1753674138",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-8k-cable-3m",
           "history": [
+            3190,
             3190,
             3190,
             3190,
@@ -80190,6 +80273,7 @@
             3790,
             3790,
             3790,
+            3790,
             3790
           ]
         },
@@ -80205,6 +80289,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGreen-DisplayPort-1-4-Certified-Cable-5M-8k-DisplayPort-to-DisplayPort-Cable-Nylon-Braided-DP-to-DP-8K-60Hz-and-4K-144Hz-Support-32-4Gbps-HDR-HDCP-Gaming-Monitor-Cable-for-Laptop-PC-TV-PakByte-Computers-25763239919683.jpg?v=1753674048",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-1-4-certified-cable-5m",
           "history": [
+            3190,
             3190,
             3190,
             3190,
@@ -87276,6 +87361,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-RTX-4060-VENTUS-2X-0C-8GB-BLACK-PakByte-Computers-25556650655811.jpg?v=1753675464",
           "url": "https://www.pakbyte.pk/products/msi-rtx-4060-ventus-2x-0c-8gbblack",
           "history": [
+            99800,
             99800,
             99800,
             99800,
@@ -95504,7 +95590,7 @@
           "brand": "Sapphire",
           "category": "gpu",
           "price": 88999,
-          "oldPrice": 83000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Pulse-AMD-Radeon-RX-6700-XT-12GB-GDDR6-Graphics-Card-PakByte-Computers-25048564301891.jpg?v=1753677189",
@@ -95520,7 +95606,7 @@
             83000,
             83000,
             83000,
-            83000,
+            88999,
             88999
           ]
         },
@@ -124883,8 +124969,8 @@
           "name": "ViewSonic TD1655 15.6 Inch 1080p Portable Monitor",
           "brand": "ViewSonic",
           "category": "monitor",
-          "price": 86990,
-          "oldPrice": null,
+          "price": 88990,
+          "oldPrice": 86990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ViewSonic-TD1655-15-6-Inch-1080p-Portable-Monitor-with-IPS-Touchscreen-2-Way-Powered-60W-USB-C-Built-in-Stand-with-Cover-PakByte-Computers-24397447921731.webp?v=1753682211",
@@ -124901,7 +124987,7 @@
             86990,
             86990,
             86990,
-            86990
+            88990
           ]
         },
         {
@@ -125013,8 +125099,8 @@
           "name": "AOC AG493UCX2 AGON 49\" Dual QHD VA 165Hz Super Wide Curved Gaming Monitor",
           "brand": "AOC",
           "category": "monitor",
-          "price": 329990,
-          "oldPrice": null,
+          "price": 294990,
+          "oldPrice": 329990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-AG493UCX2-AGON-Super-Wide-Curved-Gaming-Monitor-49-Dual-QHD-VA-165Hz-1ms-PakByte-Computers-24397439467587.webp?v=1753682292",
@@ -125031,7 +125117,7 @@
             329990,
             329990,
             329990,
-            329990
+            294990
           ]
         },
         {
@@ -149540,6 +149626,7 @@
             96999,
             96999,
             96999,
+            96999,
             96999
           ]
         },
@@ -149555,6 +149642,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_asus_rog_crosshair_x870e_dark_hero.png",
           "url": "https://rbtechngames.com/product/asus-rog-crosshair-x870e-dark-hero-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            297999,
             297999,
             297999,
             297999,
@@ -150442,7 +150530,7 @@
             599999,
             599999,
             599999,
-            599999,
+            569999,
             569999,
             569999,
             569999
@@ -151370,11 +151458,11 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-solid-oc-12gb-graphics-card-used",
           "history": [
-            224999,
             234999,
             234999,
             234999,
             234999,
+            249999,
             249999,
             249999,
             249999,
@@ -151675,8 +151763,8 @@
           "name": "Lenovo LOQ 17 (17IRX10), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, RTX 5050, 17.3&#8243",
           "brand": "Intel",
           "category": "gpu",
-          "price": 374999,
-          "oldPrice": null,
+          "price": 394999,
+          "oldPrice": 374999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_lenovo_loq_15_15irx10_rgb.webp",
@@ -151693,7 +151781,7 @@
             374999,
             374999,
             374999,
-            374999
+            394999
           ]
         },
         {
@@ -152316,7 +152404,7 @@
             304999,
             304999,
             304999,
-            304999,
+            294999,
             294999
           ]
         },
@@ -152342,7 +152430,7 @@
             209999,
             209999,
             209999,
-            209999,
+            189999,
             189999
           ]
         },
@@ -153042,7 +153130,7 @@
             524999,
             524999,
             524999,
-            524999,
+            489999,
             489999,
             489999,
             489999
@@ -153730,7 +153818,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 899999,
-          "oldPrice": 854999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_msi_raider_16_max_hx_b2w.webp",
@@ -153746,7 +153834,7 @@
             854999,
             854999,
             854999,
-            854999,
+            899999,
             899999
           ]
         },
@@ -155601,14 +155689,13 @@
           "name": "Sapphire Pulse AMD Radeon RX 9060 XT OC 16GB Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 194999,
-          "oldPrice": null,
+          "price": 204999,
+          "oldPrice": 194999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_sapphire_pulse__rx_9060_xt_oc_16gb.webp",
           "url": "https://rbtechngames.com/product/sapphire-pulse-amd-radeon-rx-9060-xt-oc-16gb-graphics-card",
           "history": [
-            184999,
             194999,
             194999,
             194999,
@@ -155619,7 +155706,8 @@
             194999,
             194999,
             194999,
-            194999
+            194999,
+            204999
           ]
         },
         {
@@ -156024,7 +156112,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_logitech_mx_keys_combo_for_business_gen_2.jpg",
           "url": "https://rbtechngames.com/product/logitech-mx-keys-combo-for-business-gen-2-wireless-gaming-keyboard-and-mouse",
           "history": [
-            60999,
+            59499,
             59499,
             59499,
             59499,
@@ -156180,15 +156268,15 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
+            42499,
+            42499,
+            42499,
+            42499,
+            42499,
+            42499,
+            42499,
+            42499,
             26499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
             26499,
             26499,
             26499
@@ -156492,7 +156580,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_logitech_m720.webp",
           "url": "https://rbtechngames.com/product/logitech-m720-triathlon-multi-computer-wireless-mouse",
           "history": [
-            14500,
+            13499,
             13499,
             13499,
             13499,
@@ -156752,7 +156840,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_zotac_rtx_5060_ti_amp_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-amp-16gb-graphics-card",
           "history": [
-            257499,
+            259499,
             259499,
             259499,
             259499,
@@ -157058,7 +157146,7 @@
           "brand": "Zotac",
           "category": "gpu",
           "price": 499999,
-          "oldPrice": 489999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
@@ -157074,7 +157162,7 @@
             489999,
             489999,
             489999,
-            489999,
+            499999,
             499999
           ]
         },
@@ -157220,7 +157308,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_lexar_16gb.webp",
           "url": "https://rbtechngames.com/product/lexar-16gb-1x16gb-3200mhz-ddr4-memory",
           "history": [
-            32499,
+            34499,
             34499,
             34499,
             34499,
@@ -157610,7 +157698,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/12/rbtech_logitech_g740.webp",
           "url": "https://rbtechngames.com/product/logitech-g740-thick-cloth-gaming-mousepad-large",
           "history": [
-            8799,
+            8499,
             8499,
             8499,
             8499,
@@ -158988,6 +159076,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/11/rbtech_intel_core_i7_14700KF.jpeg",
           "url": "https://rbtechngames.com/product/intel-core-i7-14700kf-20-cores-8-p-cores-12-e-cores",
           "history": [
+            114999,
             114999,
             114999,
             114999,
