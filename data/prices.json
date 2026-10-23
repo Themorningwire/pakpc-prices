@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T11:05:03.433693+00:00",
+  "lastUpdated": "2026-10-23T16:31:51.751674+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,66 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_5f5f5419",
+          "name": "AULA HERO 75 HE Wireless Magnetic Gaming Keyboard - Black - Stormrise Magnetic Switches",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 17490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero75-He-magnetic-gaming-keyboard-price-in-Pakistan-pakbyte_1.jpg?v=1792768537",
+          "url": "https://www.pakbyte.pk/products/aula-hero-75-he-wireless-magnetic-gaming-keyboard-black-stormrise-magnetic-switches",
+          "history": [
+            17490
+          ]
+        },
+        {
+          "id": "pakbyte_eeaab725",
+          "name": "AULA Hero 75 HE Tri-Mode Magnetic Keyboard - Orange - Spirit Cloud Magnetic Switches",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 17490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-He-Orange-keyboard-Price-in-Pakistan-Pakbyte.jpg?v=1792767905",
+          "url": "https://www.pakbyte.pk/products/aula-hero-75-he-tri-mode-magnetic-keyboard-orange-spirit-cloud-magnetic-switches",
+          "history": [
+            17490
+          ]
+        },
+        {
+          "id": "pakbyte_5b716902",
+          "name": "AULA F75 HE Hall Effect Tri-Mode Gaming Keyboard - Black/Grey - Dragon King Magnetic Switc",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 14490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-HE-Black-Grey-Keyboard-Price-in-Pakistan-Pakbyte.jpg?v=1792767126",
+          "url": "https://www.pakbyte.pk/products/aula-f75-he-hall-effect-tri-mode-gaming-keyboard-black-grey-dragon-king-magnetic-switches",
+          "history": [
+            14490
+          ]
+        },
+        {
+          "id": "pakbyte_65c5737a",
+          "name": "AULA F75HE Wireless Magnetic Gaming Keyboard - Black Contour - Black King Magnetic Switch",
+          "brand": "AULA",
+          "category": "keyboard",
+          "price": 14490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-f75-he-black-contour-gaming-keyboard-price-in-pakistan-pakbyte.jpg?v=1792765529",
+          "url": "https://www.pakbyte.pk/products/aula-f75he-wireless-magnetic-gaming-keyboard-black-contour-black-king-magnetic-switch",
+          "history": [
+            14490
+          ]
+        },
         {
           "id": "pakbyte_167a45e1",
           "name": "AOC CQ27G4Z2 27\" 1500R 260Hz Curved  Monitor",
@@ -20,6 +80,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AOC-CQ27G4Z2-Monitor-Price-in-Pakistan-Pakbyte_1.avif?v=1792676839",
           "url": "https://www.pakbyte.pk/products/aoc-cq27g4z2-27-1500r-260hz-curved-monitor",
           "history": [
+            59990,
             59990,
             59990,
             59990,
@@ -41,6 +102,7 @@
             352990,
             352990,
             352990,
+            352990,
             352990
           ]
         },
@@ -56,6 +118,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Philips-32E1N1100L-FHD-Monitor-Price-in-Pakistan-Pakbyte.jpg?v=1792675008",
           "url": "https://www.pakbyte.pk/products/philips-32e1n1100l-100hz-fhd-lcd-monitor",
           "history": [
+            58990,
             58990,
             58990,
             58990,
@@ -77,6 +140,7 @@
             88990,
             88990,
             88990,
+            88990,
             88990
           ]
         },
@@ -92,6 +156,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aoc-c32g2ze-gaming-monitor-price-in-pakistan-pakbyte_1.jpg?v=1792670459",
           "url": "https://www.pakbyte.pk/products/aoc-c32g2ze-240hz-1080p-fhd-va-32-curved-gaming-monitor",
           "history": [
+            65990,
             65990,
             65990,
             65990,
@@ -116,6 +181,7 @@
             4490,
             4490,
             4490,
+            4490,
             4490
           ]
         },
@@ -131,6 +197,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Blaze-xsoft-gaming-mousepad-price-in-pakistan-pakbyte.webp?v=1792600466",
           "url": "https://www.pakbyte.pk/products/atk-blaze-xsoft-esport-gaming-mouse-pad-black",
           "history": [
+            4490,
             4490,
             4490,
             4490,
@@ -160,6 +227,7 @@
             4490,
             4490,
             4490,
+            4490,
             4490
           ]
         },
@@ -179,6 +247,7 @@
             4490,
             4490,
             4490,
+            4490,
             4490
           ]
         },
@@ -194,6 +263,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Glasspad-Riffle-Black-price-in-pakistan-pakbyte.webp?v=1792595871",
           "url": "https://www.pakbyte.pk/products/atk-glasspad-riffle-lian-yi-mousepad-black",
           "history": [
+            19990,
             19990,
             19990,
             19990,
@@ -223,6 +293,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -238,6 +309,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Tempered-Glass-MousePad-Crimson-Limited-Edition-Price-in-Pakistan-Pakbyte_1.webp?v=1792593831",
           "url": "https://www.pakbyte.pk/products/atk-tempered-glass-mouse-pad-crimson-limited-edition",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -267,6 +339,7 @@
             3990,
             3990,
             3990,
+            3990,
             3990
           ]
         },
@@ -282,6 +355,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Anime-Mousepad-Riverie-Price-in-Pakistan-Pakbyte.webp?v=1792590698",
           "url": "https://www.pakbyte.pk/products/atk-anime-mouse-pad-reverie",
           "history": [
+            4490,
             4490,
             4490,
             4490,
@@ -314,6 +388,7 @@
             2490,
             2490,
             2490,
+            2490,
             2490
           ]
         },
@@ -329,6 +404,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-4K-DisplayPort-to-HDMI-Cable-Price-in-Pakistan-Pakbyte_1.webp?v=1792521757",
           "url": "https://www.pakbyte.pk/products/ugreen-35843-4k-displayport-to-hdmi-cable-3m",
           "history": [
+            2990,
             2990,
             2990,
             2990,
@@ -1193,7 +1269,7 @@
             23490,
             23490,
             23490,
-            23490,
+            22990,
             22990,
             22990,
             22990,
@@ -1219,7 +1295,7 @@
             33990,
             33990,
             33990,
-            33990,
+            30990,
             30990,
             30990,
             30990,
@@ -2995,8 +3071,8 @@
           ]
         },
         {
-          "id": "pakbyte_bffe8ce2",
-          "name": "AULA SC590 Pro  High-performance Wireless Gaming Mouse with Smart Display",
+          "id": "pakbyte_d81a995e",
+          "name": "AULA SC590 Pro High-performance Wireless Gaming Mouse with Smart Display - White",
           "brand": "AULA",
           "category": "monitor",
           "price": 5890,
@@ -3006,23 +3082,12 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-SC590PRO-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1789626379",
           "url": "https://www.pakbyte.pk/products/aula-sc590-pro-high-performance-wireless-gaming-mouse-with-smart-display-1",
           "history": [
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
             5890
           ]
         },
         {
-          "id": "pakbyte_be2eb211",
-          "name": "AULA SC590 Pro High-performance Wireless Gaming Mouse with Smart Display",
+          "id": "pakbyte_0e530056",
+          "name": "AULA SC590 Pro High-performance Wireless Gaming Mouse with Smart Display - Black",
           "brand": "AULA",
           "category": "monitor",
           "price": 5890,
@@ -3032,17 +3097,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-SC590PRO-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1789625171",
           "url": "https://www.pakbyte.pk/products/aula-sc590-pro-high-performance-wireless-gaming-mouse-with-smart-display",
           "history": [
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
-            5890,
             5890
           ]
         },
@@ -4338,7 +4392,7 @@
             53990,
             53990,
             53990,
-            53990,
+            48990,
             48990,
             48990,
             48990,
@@ -4547,7 +4601,7 @@
             32990,
             32990,
             32990,
-            32990,
+            31990,
             31990,
             31990,
             31990,
@@ -14036,7 +14090,7 @@
             110990,
             110990,
             110990,
-            110990,
+            104990,
             104990,
             104990,
             104990,
@@ -15701,7 +15755,7 @@
             161990,
             161990,
             161990,
-            161990,
+            157990,
             157990,
             157990,
             157990,
@@ -16068,6 +16122,7 @@
             4990,
             4990,
             4990,
+            4990,
             4990
           ]
         },
@@ -16083,6 +16138,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-dp-to-hdmi-cable-price-in-pakistan-pakbyte_4.webp?v=1776699839",
           "url": "https://www.pakbyte.pk/products/ugreen-displayport-male-to-hdmi-male-cable-3m",
           "history": [
+            2990,
             2990,
             2990,
             2990,
@@ -21081,7 +21137,7 @@
             379990,
             379990,
             379990,
-            379990,
+            399990,
             399990,
             399990,
             399990,
@@ -21107,7 +21163,7 @@
             531990,
             531990,
             531990,
-            531990,
+            524990,
             524990,
             524990,
             524990,
@@ -21263,7 +21319,7 @@
             37990,
             37990,
             37990,
-            37990,
+            35990,
             35990,
             35990,
             35990,
@@ -21289,7 +21345,7 @@
             29990,
             29990,
             29990,
-            29990,
+            28990,
             28990,
             28990,
             28990,
@@ -23225,8 +23281,8 @@
           "name": "Aula F75 Gasket 75% Wireless Hot Swappable Gaming Keyboard - Thunder Black - Reaper Switch",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 11890,
-          "oldPrice": null,
+          "price": 12390,
+          "oldPrice": 11890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/epomaker-aula-f75-gaming-keyboard-black-price-in-pakistan-pakbyte_2.jpg?v=1755315243",
@@ -23243,7 +23299,7 @@
             11890,
             11890,
             11890,
-            11890
+            12390
           ]
         },
         {
@@ -29487,29 +29543,18 @@
           ]
         },
         {
-          "id": "pakbyte_91e909f0",
-          "name": "AULA F75 Max Wireless Keyboard with TFT Screen and Knob - Glacier White",
+          "id": "pakbyte_c956797d",
+          "name": "AULA F75 Max Wireless Keyboard with TFT Screen and Knob - Glacier White - Reaper Switches",
           "brand": "AULA",
           "category": "keyboard",
-          "price": 18499,
+          "price": 14490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-max-wireless-keyboard-glacier-white-price-in-pakistan-pakbyte-2.webp?v=1768578749",
           "url": "https://www.pakbyte.pk/products/aula-f75-max-wireless-keyboard-with-tft-screen-and-knob-glacier-white",
           "history": [
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499
+            14490
           ]
         },
         {
@@ -29787,7 +29832,7 @@
             85999,
             85999,
             85999,
-            85999,
+            118999,
             118999,
             118999,
             118999,
@@ -30064,7 +30109,7 @@
           "brand": "GFury",
           "category": "monitor",
           "price": 46999,
-          "oldPrice": 45990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GFury-GF-27-Dominion-27_-Dual-Mode-LED-Gaming-Monitor-Price-in-Pakistan-Pakbyte_3.webp?v=1768298746",
@@ -30080,7 +30125,7 @@
             45990,
             45990,
             45990,
-            45990,
+            46999,
             46999
           ]
         },
@@ -33947,6 +33992,7 @@
             41990,
             41990,
             41990,
+            41990,
             41990
           ]
         },
@@ -34371,9 +34417,9 @@
           "name": "Aula F75 Max Wireless Side Engraved Mechanical Keyboard - Gradient Gray - Reaper Switches",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 14490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 14990,
+          "oldPrice": 14490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F75-Max-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_6.webp?v=1766299277",
           "url": "https://www.pakbyte.pk/products/aula-f75-max-wireless-mechanical-keyboard-with-tft-screen-and-knob-gradient-gray",
@@ -34389,7 +34435,7 @@
             14490,
             14490,
             14490,
-            14490
+            14990
           ]
         },
         {
@@ -34397,8 +34443,8 @@
           "name": "Aula F75 Wireless Creamy Mechanical Keyboard with RGB Backlit - Comic - Reaper Switches",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 12790,
-          "oldPrice": null,
+          "price": 12990,
+          "oldPrice": 12790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-comic-price-in-pakistan-pakbyte_1.webp?v=1766298615",
@@ -34415,7 +34461,7 @@
             12790,
             12790,
             12790,
-            12790
+            12990
           ]
         },
         {
@@ -34527,8 +34573,8 @@
           "name": "Aula F75 Wireless 75% Gasket Hot Swappable Side Engraved Custom Keyboard - Gradient Gray  ",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 12990,
-          "oldPrice": null,
+          "price": 13490,
+          "oldPrice": 12990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-gradient-gray-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1766254202",
@@ -34545,7 +34591,7 @@
             12990,
             12990,
             12990,
-            12990
+            13490
           ]
         },
         {
@@ -34801,7 +34847,7 @@
             65990,
             65990,
             65990,
-            65990,
+            66990,
             66990,
             66990,
             66990,
@@ -54417,8 +54463,8 @@
           "name": "Aula F75 Gasket 75% Wireless Hot Swappable Gaming Keyboard - Glacier Blue - Reaper Switche",
           "brand": "Aula",
           "category": "keyboard",
-          "price": 12490,
-          "oldPrice": null,
+          "price": 12990,
+          "oldPrice": 12490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/epomaker-x-aula-f75-blue-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1755315519",
@@ -54435,7 +54481,7 @@
             12490,
             12490,
             12490,
-            12490
+            12990
           ]
         },
         {
@@ -87425,6 +87471,7 @@
             99800,
             99800,
             99800,
+            99800,
             99800
           ]
         },
@@ -95662,7 +95709,7 @@
             83000,
             83000,
             83000,
-            83000,
+            88999,
             88999,
             88999,
             88999,
@@ -125043,7 +125090,7 @@
             86990,
             86990,
             86990,
-            86990,
+            88990,
             88990,
             88990,
             88990,
@@ -125173,7 +125220,7 @@
             329990,
             329990,
             329990,
-            329990,
+            294990,
             294990,
             294990,
             294990,
@@ -149682,6 +149729,7 @@
           "history": [
             259999,
             259999,
+            259999,
             259999
           ]
         },
@@ -149697,6 +149745,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/691630_817569_01_front_zoom.jpg",
           "url": "https://rbtechngames.com/product/lenovo-legion-pro-5-16iax10-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-rtx-5070-16-qhd-165hz-oled-display-eclipse-black-new",
           "history": [
+            639999,
             639999,
             639999,
             639999
@@ -149715,6 +149764,7 @@
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-ai-phn16-73-92el-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5060-16-qhd-180hz-ips-display-abyssal-black-open-box",
           "history": [
             494999,
+            494999,
             494999
           ]
         },
@@ -149730,6 +149780,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_rog_zephyrus_g16_2025_eclipse_grey.png",
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g16-gu605cr-intel-core-ultra-9-32gb-ram-2tb-ssd-rtx-5070-ti-16-qhd-240hz-oled-display-eclipse-gray-open-box",
           "history": [
+            984999,
             984999,
             984999,
             984999
@@ -149749,6 +149800,7 @@
           "history": [
             479999,
             479999,
+            479999,
             479999
           ]
         },
@@ -149764,6 +149816,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_omen_16_wf0032tx_shadow_black.webp",
           "url": "https://rbtechngames.com/product/hp-omen-16-b1072nf-intel-core-i7-12th-gen-16gb-ram-512gb-ssd-rtx-3070-ti-16-1-qhd-165hz-ips-display-shadow-black-used",
           "history": [
+            289999,
             289999,
             289999,
             289999
@@ -149791,6 +149844,7 @@
             96999,
             96999,
             96999,
+            96999,
             96999
           ]
         },
@@ -149806,6 +149860,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_asus_rog_crosshair_x870e_dark_hero.png",
           "url": "https://rbtechngames.com/product/asus-rog-crosshair-x870e-dark-hero-atx-am5-ddr5-gaming-motherboard",
           "history": [
+            297999,
             297999,
             297999,
             297999,
@@ -150136,8 +150191,8 @@
           "name": "HP ZBook Firefly 14 G9, Intel Core i7-1255U, 16GB RAM, 512GB SSD, Nvidia T550 4GB GPU, 14&",
           "brand": "Intel",
           "category": "cpu",
-          "price": 157999,
-          "oldPrice": null,
+          "price": 159999,
+          "oldPrice": 157999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_hp_zbook_firefly_14_g9.webp",
@@ -150154,7 +150209,7 @@
             157999,
             157999,
             157999,
-            157999
+            159999
           ]
         },
         {
@@ -150335,7 +150390,7 @@
             359999,
             359999,
             359999,
-            359999,
+            344999,
             344999
           ]
         },
@@ -150615,7 +150670,7 @@
             599999,
             599999,
             599999,
-            599999,
+            569999,
             569999,
             569999,
             569999,
@@ -151547,7 +151602,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-solid-oc-12gb-graphics-card-used",
           "history": [
-            234999,
+            249999,
             249999,
             249999,
             249999,
@@ -151866,7 +151921,7 @@
             374999,
             374999,
             374999,
-            374999,
+            394999,
             394999,
             394999,
             394999,
@@ -152489,7 +152544,7 @@
             304999,
             304999,
             304999,
-            304999,
+            294999,
             294999,
             294999,
             294999,
@@ -152515,7 +152570,7 @@
             209999,
             209999,
             209999,
-            209999,
+            189999,
             189999,
             189999,
             189999,
@@ -153189,7 +153244,7 @@
             524999,
             524999,
             524999,
-            524999,
+            489999,
             489999,
             489999,
             489999,
@@ -153642,29 +153697,18 @@
           ]
         },
         {
-          "id": "rbtechgames_f61992bd",
-          "name": "Dell Latitude 7450, Intel Core Ultra 7, 32GB RAM, 512GB SSD, 14&#8243; QHD+, IPS Touch Dis",
+          "id": "rbtechgames_a1782ae4",
+          "name": "Dell Latitude 7450, Intel Core Ultra 7, 32GB RAM, 256GB SSD, 14&#8243; QHD+, IPS Touch Dis",
           "brand": "Intel",
           "category": "ram",
-          "price": 219999,
-          "oldPrice": null,
+          "price": 214999,
+          "oldPrice": 219999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_dell_latitude_7450_1.jpg",
-          "url": "https://rbtechngames.com/product/dell-latitude-7450-intel-core-ultra-7-32gb-ram-512gb-ssd-14-qhd-ips-touch-display-titan-gray-used",
+          "url": "https://rbtechngames.com/product/dell-latitude-7450-intel-core-ultra-7-32gb-ram-256gb-ssd-14-qhd-ips-touch-display-titan-gray-used",
           "history": [
-            219999,
-            219999,
-            219999,
-            219999,
-            219999,
-            219999,
-            219999,
-            219999,
-            219999,
-            219999,
-            219999,
-            219999
+            214999
           ]
         },
         {
@@ -153893,7 +153937,7 @@
             854999,
             854999,
             854999,
-            854999,
+            899999,
             899999,
             899999,
             899999,
@@ -153958,7 +154002,7 @@
           "name": "MSI Raider 16 Max HX B2W (B2WI-003US), Intel Core Ultra 9 290HX Plus, 32GB RAM, 1TB SSD, R",
           "brand": "MSI",
           "category": "gpu",
-          "price": 1149999,
+          "price": 1184999,
           "oldPrice": 1249999,
           "inStock": true,
           "lowStock": false,
@@ -153976,7 +154020,7 @@
             1149999,
             1149999,
             1149999,
-            1149999
+            1184999
           ]
         },
         {
@@ -155065,7 +155109,7 @@
             279999,
             279999,
             279999,
-            279999,
+            272999,
             272999,
             272999,
             272999
@@ -155093,6 +155137,7 @@
             386999,
             464999,
             464999,
+            464999,
             464999
           ]
         },
@@ -155105,7 +155150,7 @@
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_ugreen_40405.webp",
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_ugreen_40405_1.webp",
           "url": "https://rbtechngames.com/product/ugreen-40405-gaming-mouse-pad-large",
           "history": [
             999,
@@ -155695,32 +155740,6 @@
           ]
         },
         {
-          "id": "rbtechgames_020b1758",
-          "name": "Asus ROG Astral GeForce RTX 5080 16GB White OC Edition Graphics Card",
-          "brand": "ASUS",
-          "category": "gpu",
-          "price": 694999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_asus_rog_astral_rtx_5080_16gb_oc_white.png",
-          "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5080-16gb-white-oc-edition-graphics-card",
-          "history": [
-            694999,
-            694999,
-            694999,
-            694999,
-            694999,
-            694999,
-            694999,
-            694999,
-            694999,
-            694999,
-            694999,
-            694999
-          ]
-        },
-        {
           "id": "rbtechgames_ba1e76cc",
           "name": "Asus TUF Gaming GeForce RTX 5070 12GB OC Graphics Card",
           "brand": "ASUS",
@@ -155817,7 +155836,7 @@
             194999,
             194999,
             194999,
-            194999,
+            204999,
             204999,
             204999,
             204999,
@@ -156386,7 +156405,7 @@
             42499,
             42499,
             42499,
-            42499,
+            26499,
             26499,
             26499,
             26499,
@@ -157272,7 +157291,7 @@
             489999,
             489999,
             489999,
-            489999,
+            499999,
             499999,
             499999,
             499999,
