@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T12:19:43.336024+00:00",
+  "lastUpdated": "2026-10-26T22:20:03.454645+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_e6b16098",
+          "name": "Ugreen 75246 HDMI KVM Switch 1 Monitor 2 Computers, 4 USB 3.0 Ports",
+          "brand": "Ugreen",
+          "category": "monitor",
+          "price": 9990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-hdmi-kvm-switch-price-in-pakistan-pakbyte_1.webp?v=1793029664",
+          "url": "https://www.pakbyte.pk/products/ugreen-75246-hdmi-kvm-switch-1-monitor-2-computers-4-usb-3-0-ports",
+          "history": [
+            9990
+          ]
+        },
         {
           "id": "pakbyte_3d896728",
           "name": "Ugreen 75163 Wireless Bluetooth Keyboard",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-75163-price-in-pakistan-pakbyte_1.webp?v=1792863636",
           "url": "https://www.pakbyte.pk/products/ugreen-75163-wireless-bluetooth-keyboard",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -41,6 +57,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-ergonomic-mouse-65042-price-in-pakistan-pakbyte_1.webp?v=1792862778",
           "url": "https://www.pakbyte.pk/products/ugreen-65042-ergonomic-wireless-bluetooth-vertical-mouse",
           "history": [
+            3490,
             3490,
             3490,
             3490,
@@ -1622,7 +1639,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F99-Pro-Wireless-Gaming-Keyboard-Price-in-Pakistan-Pakbyte.jpg?v=1790955877",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-mechanical-keyboard-black-cotton-candy-switch",
           "history": [
-            14990,
+            15490,
             15490,
             15490,
             15490,
@@ -2662,7 +2679,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-Hero68-Mini-Air-Price-in-Pakistan-Pakbyte.jpg?v=1790950664",
           "url": "https://www.pakbyte.pk/products/aula-hero68-mini-air-keyboard-pink-rainbow-sea-wave-switches",
           "history": [
-            16990,
+            17490,
             17490,
             17490,
             17490,
@@ -2766,7 +2783,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-g7-price-in-pakistan-pakbyte_1.webp?v=1789671800",
           "url": "https://www.pakbyte.pk/products/aula-g7-wireless-gaming-headset-black",
           "history": [
-            6490,
+            6790,
             6790,
             6790,
             6790,
@@ -2792,7 +2809,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-G7-Wireless-Gaming-Headset-White-Price-in-Pakistan-Pakbyte_1.webp?v=1789671333",
           "url": "https://www.pakbyte.pk/products/aula-g7-wireless-gaming-headset-white",
           "history": [
-            6490,
+            6790,
             6790,
             6790,
             6790,
@@ -2896,7 +2913,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-mini60-he-pro-price-in-pakistan-pakbyte_1.webp?v=1789667850",
           "url": "https://www.pakbyte.pk/products/aula-mini60-wireless-gaming-keyboard-white-smoky-cloud-magnetic-switches",
           "history": [
-            8890,
+            9390,
             9390,
             9390,
             9390,
@@ -2948,7 +2965,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Hero68-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1789667022",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-60-wired-gaming-keyboard-white-meteor-magnetic-switches",
           "history": [
-            11890,
+            12490,
             12490,
             12490,
             12490,
@@ -2974,7 +2991,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-l99-price-in-pakistan-pakbyte_5.webp?v=1789664969",
           "url": "https://www.pakbyte.pk/products/aula-l99-wireless-mechanical-gaming-keyboard-red-black-caramel-latte-switches",
           "history": [
-            21990,
+            22890,
             22890,
             22890,
             22890,
@@ -3000,7 +3017,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-l99-price-in-pakistan-pakbyte_1_cbf53860-95b2-4e1d-98be-860e2264eab1.webp?v=1789664619",
           "url": "https://www.pakbyte.pk/products/aula-l99-wireless-mechanical-gaming-keyboard-white-purple-caramel-latte-switches",
           "history": [
-            21990,
+            22890,
             22890,
             22890,
             22890,
@@ -3026,7 +3043,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f99-pro-96-white-cotton-candy-price-in-pakistan-pakbyte.webp?v=1789644987",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-mechanical-keyboard-white-cotton-candy-switches",
           "history": [
-            14990,
+            15490,
             15490,
             15490,
             15490,
@@ -3052,7 +3069,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-nova75-price-in-pakistan-pakbyte_1_83486e7e-3bea-4835-8b3e-cf38fdf7acff.webp?v=1789644068",
           "url": "https://www.pakbyte.pk/products/aula-nova75-mechanical-gaming-keyboard-black-translucent-phantom-cherry-switch",
           "history": [
-            15990,
+            16490,
             16490,
             16490,
             16490,
@@ -3078,7 +3095,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-S75-PRO-Wireless-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1789640791",
           "url": "https://www.pakbyte.pk/products/aula-s75-pro-wireless-mechanical-keyboard-w-screen-gradient-gray-star-vector-switch",
           "history": [
-            13990,
+            14490,
             14490,
             14490,
             14490,
@@ -3156,7 +3173,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-gradient-purple-price-in-pakistan-pakbyte_1.webp?v=1789628753",
           "url": "https://www.pakbyte.pk/products/aula-f75-mechanical-keyboard-gaming-gradient-purple-star-vector-switches",
           "history": [
-            11890,
+            12390,
             12390,
             12390,
             12390,
@@ -5083,7 +5100,7 @@
             434990,
             434990,
             434990,
-            434990,
+            479999,
             479999,
             479999,
             479999,
@@ -14544,7 +14561,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-Mini60-HE-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.jpg?v=1790949149",
           "url": "https://www.pakbyte.pk/products/aula-mini60-he-hall-effect-gaming-keyboard-black-leobog-stormrise-wind-cloud-magnetic-switch",
           "history": [
-            8890,
+            9390,
             9390,
             9390,
             9390,
@@ -14622,7 +14639,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-WIN68HE-Black-Price-in-pakistan-pakbyte.jpg?v=1778414397",
           "url": "https://www.pakbyte.pk/products/aula-win68he-gray-wood-magnetic-rt-extreme-response-gaming-keyboard-black",
           "history": [
-            7290,
+            7490,
             7490,
             7490,
             7490,
@@ -14674,7 +14691,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f108-pro-gradient-black-price-in-pakistan-pakbyte_1.webp?v=1778412764",
           "url": "https://www.pakbyte.pk/products/aula-f108-pro-wireless-mechanical-keyboard-gradient-gray",
           "history": [
-            16490,
+            17490,
             17490,
             17490,
             17490,
@@ -14752,7 +14769,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F99-Pro-Price-in-Pakistan-Pakbyte_1.jpg?v=1778410871",
           "url": "https://www.pakbyte.pk/products/aula-f99-pro-wireless-gaming-keyboard-white-black-green",
           "history": [
-            14490,
+            14990,
             14990,
             14990,
             14990,
@@ -14856,7 +14873,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-s75-pro-white-blue-price-in-pakistan-pakbyte_1.webp?v=1778407797",
           "url": "https://www.pakbyte.pk/products/aula-s75-pro-wireless-mechanical-keyboard-light-blue-white-star-vector-switch",
           "history": [
-            13790,
+            13990,
             13990,
             13990,
             13990,
@@ -16150,7 +16167,7 @@
           "brand": "UGREEN",
           "category": "storage",
           "price": 1490,
-          "oldPrice": 2490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-70610-SATA-to-USB-C-Adapter-Cable-for-2.5-SSDHDD-Price-in-Pakistan-Pakbyte.webp?v=1776788216",
@@ -16166,7 +16183,7 @@
             2490,
             2490,
             2490,
-            2490,
+            1490,
             1490
           ]
         },
@@ -16176,7 +16193,7 @@
           "brand": "Ugreen",
           "category": "storage",
           "price": 1490,
-          "oldPrice": 1990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-USB-A-SATA-Price-in-Pakistan-Pakbyte.jpg?v=1776787980",
@@ -16192,7 +16209,7 @@
             1990,
             1990,
             1990,
-            1990,
+            1490,
             1490
           ]
         },
@@ -16260,7 +16277,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-slim-wireless-mouse-green-price-in-pakistan-pakbyte_1.jpg?v=1776750070",
           "url": "https://www.pakbyte.pk/products/ugreen-slim-2-4g-wireless-mouse-green-1",
           "history": [
-            2490,
+            1990,
             1990,
             1990,
             1990,
@@ -34236,6 +34253,7 @@
             12490,
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -34277,7 +34295,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-hero-68-he-keyboard-price-in-pakistan-white-price-in-pakistan-pakbyte_2.webp?v=1766310758",
           "url": "https://www.pakbyte.pk/products/aula-hero-68-he-wired-mechanical-meteor-magnetic-switch-custom-keyboard-white",
           "history": [
-            10490,
+            10990,
             10990,
             10990,
             10990,
@@ -34667,7 +34685,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/aula-f75-black-contour-price-in-pakistan-pakbyte_2.webp?v=1766298248",
           "url": "https://www.pakbyte.pk/products/aula-f75-gasket-75-wireless-hot-swappable-mechanical-gaming-keyboard-black-contour",
           "history": [
-            12990,
+            13490,
             13490,
             13490,
             13490,
@@ -38960,7 +38978,7 @@
             60490,
             60490,
             60490,
-            60490,
+            71999,
             71999,
             71999,
             71999,
@@ -38977,7 +38995,7 @@
           "brand": "Adata",
           "category": "ram",
           "price": 72999,
-          "oldPrice": 60490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/adata-16gb-5600mhz-ddr5-desktop-ram-price-in-pakistan-pakbyte.png?v=1765217602",
@@ -38993,7 +39011,7 @@
             60490,
             60490,
             60490,
-            60490,
+            72999,
             72999
           ]
         },
@@ -39367,7 +39385,7 @@
           "brand": "ADATA",
           "category": "storage",
           "price": 29999,
-          "oldPrice": 27990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/adata-HD710-Pro-2TB-price-in-pakistan-pakbyte.webp?v=1765186214",
@@ -39383,7 +39401,7 @@
             27990,
             27990,
             27990,
-            27990,
+            29999,
             29999
           ]
         },
@@ -39454,7 +39472,7 @@
             25690,
             25690,
             25690,
-            25690,
+            34999,
             34999,
             34999,
             34999,
@@ -41551,7 +41569,7 @@
           "brand": "Ugreen",
           "category": "storage",
           "price": 2290,
-          "oldPrice": 2299,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-nvme-to-pcie-adapter-price-in-pakistan-pakbyte_1.jpg?v=1764566943",
@@ -41567,7 +41585,7 @@
             2299,
             2299,
             2299,
-            2299,
+            2290,
             2290
           ]
         },
@@ -41603,7 +41621,7 @@
           "brand": "UGREEN",
           "category": "storage",
           "price": 2790,
-          "oldPrice": 3199,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-10902-M.2-NVMe-SSD-Enclosure-USB-Type-C-Thunderbolt-Price-in-Pakistan-Pakbyte.jpg?v=1764430702",
@@ -41619,7 +41637,7 @@
             3199,
             3199,
             3199,
-            3199,
+            2790,
             2790
           ]
         },
@@ -41977,7 +41995,7 @@
             5799,
             5799,
             5799,
-            5799,
+            4990,
             4990,
             4990,
             4990,
@@ -42876,8 +42894,8 @@
           "name": "Sapphire Pulse AMD Radeon RX 9060 XT OC 16GB GDDR6 Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 183999,
-          "oldPrice": null,
+          "price": 189999,
+          "oldPrice": 183999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/sapphire-pulse-rx-9060-xt-16gb-oc-price-in-pakistan-pakbyte_2.webp?v=1764000499",
@@ -42894,7 +42912,7 @@
             183999,
             183999,
             183999,
-            183999
+            189999
           ]
         },
         {
@@ -49377,7 +49395,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 162999,
-          "oldPrice": 122990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5060-8g-ventus-2x-oc-gpu-price-in-pakistan-pakbyte_2.png?v=1759585123",
@@ -49393,7 +49411,7 @@
             122990,
             122990,
             122990,
-            122990,
+            162999,
             162999
           ]
         },
@@ -49412,7 +49430,7 @@
             118990,
             118990,
             118990,
-            118990,
+            159999,
             159999,
             159999,
             159999,
@@ -52132,8 +52150,8 @@
           "name": "Western Digital WD Green SN3000 500GB Gen 4 NVMe",
           "brand": "WD",
           "category": "storage",
-          "price": 29999,
-          "oldPrice": 23499,
+          "price": 23999,
+          "oldPrice": 29999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/western-digital-wd-green-sn3000-500gb-gen4-nvme-ssd-price-in-pakistan-pakbyte_1.jpg?v=1756729276",
@@ -52149,8 +52167,8 @@
             23499,
             23499,
             23499,
-            23499,
-            29999
+            29999,
+            23999
           ]
         },
         {
@@ -53225,7 +53243,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 104999,
-          "oldPrice": 96999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-gaming-x-trio-rtx-3070-price-in-pakistan-pakbyte_2.jpg?v=1756115984",
@@ -53241,7 +53259,7 @@
             96999,
             96999,
             96999,
-            96999,
+            104999,
             104999
           ]
         },
@@ -54135,7 +54153,7 @@
           "brand": "Attack",
           "category": "mouse",
           "price": 12999,
-          "oldPrice": 12490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x3-pro-white-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1756099948",
@@ -54151,7 +54169,7 @@
             12490,
             12490,
             12490,
-            12490,
+            12999,
             12999
           ]
         },
@@ -54161,7 +54179,7 @@
           "brand": "Attack",
           "category": "mouse",
           "price": 12999,
-          "oldPrice": 12490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x3-pro-black-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1756099833",
@@ -54177,7 +54195,7 @@
             12490,
             12490,
             12490,
-            12490,
+            12999,
             12999
           ]
         },
@@ -70287,7 +70305,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Wireless-Mouse-Ergonomic-Mouse-Bluetooth-5-0-USB-2-4G-Red-PakByte-Computers-25931023122499.jpg?v=1753671552",
           "url": "https://www.pakbyte.pk/products/ugreen-wireless-mouse-ergonomic-mouse-bluetooth-5-0-usb-2-4g-red",
           "history": [
-            2490,
+            2190,
             2190,
             2190,
             2190,
@@ -70323,6 +70341,7 @@
             1590,
             1590,
             1590,
+            1590,
             1590
           ]
         },
@@ -70338,6 +70357,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Slim-2-4G-Wireless-Mouse-Light-Gray-PakByte-Computers-25925939363907.jpg?v=1753671564",
           "url": "https://www.pakbyte.pk/products/ugreen-slim-2-4g-wireless-mouse-light-gray",
           "history": [
+            1990,
             1990,
             1990,
             1990,
@@ -70441,6 +70461,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Ergonomic-Mouse-Pad-with-Wrist-Rest-Black-PakByte-Computers-25925864816707.jpg?v=1753671589",
           "url": "https://www.pakbyte.pk/products/ugreen-ergonomic-mouse-pad-with-wrist-rest-black",
           "history": [
+            1240,
             1240
           ]
         },
@@ -70615,7 +70636,7 @@
             87999,
             87999,
             87999,
-            87999,
+            93999,
             93999,
             93999,
             93999,
@@ -80086,6 +80107,7 @@
             2190,
             2190,
             2190,
+            2190,
             2190
           ]
         },
@@ -80101,6 +80123,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-PC-Mouse-Wireless-Quiet-With-4000-DPI-2-4GHz-Connection-18-Months-Battery-Life-USB-Wireless-Mouse-Compatible-With-Laptop-Computer-Windows-11-macOS-Linux-Black-PakByte-Computers-25764056531011.jpg?v=1753673605",
           "url": "https://www.pakbyte.pk/products/ugreen-pc-mouse-wireless-quiet-with-4000-dpi-2-4ghz-connection-18-months-battery-life-usb-wireless-mouse-compatible-with-laptop-computer-windows-11-macos-linux-black",
           "history": [
+            1990,
             1990,
             1990,
             1990,
@@ -80136,6 +80159,7 @@
             3490,
             3490,
             3490,
+            3490,
             3490
           ]
         },
@@ -80157,6 +80181,7 @@
             5790,
             5790,
             5790,
+            5790,
             5790
           ]
         },
@@ -80172,6 +80197,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-M-2-NVMe-SSD-Enclosure-Tool-Free-NVMe-Enclosure-10Gbps-NVMe-to-USB-Adapter-with-USB-3-2-Gen2-Aluminum-M2-SSD-Enclosure-Supports-M-and-B-M-Keys-and-Size-in-2230-2242-2260-2280-SSDs-Black-PakByte-Computers-25764038082627.jpg?v=1753673618",
           "url": "https://www.pakbyte.pk/products/ugreen-m-2-nvme-ssd-enclosure-tool-free-nvme-enclosure-10gbps-nvme-to-usb-adapter-with-usb-3-2-gen2-aluminum-m2-ssd-enclosure-supports-m-and-b-m-keys-and-size-in-2230-2242-2260-2280-ssds-black",
           "history": [
+            3890,
             3890
           ]
         },
@@ -80213,6 +80239,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-USB-3-0-to-SATA-Dual-Bay-Hard-Drive-Duplicator-Cloner-Docking-Station-EU-PakByte-Computers-25764029399107.jpg?v=1753673631",
           "url": "https://www.pakbyte.pk/products/ugreen-usb-3-0-to-sata-dual-bay-hard-drive-duplicator-cloner-docking-station-eu",
           "history": [
+            7490,
             7490
           ]
         },
@@ -80228,6 +80255,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-External-Hard-Drive-Enclosure-for-3-5-Inch-SATA-SSD-HDD-USB-3-0-to-SATA-III-Hard-Drive-Case-with-UASP-Power-Adapter-Compatible-PakByte-Computers-25764024483907.png?v=1753673643",
           "url": "https://www.pakbyte.pk/products/ugreen-external-hard-drive-enclosure-for-3-5-inch-sata-ssd-hdd-usb-3-0-to-sata-iii-hard-drive-case-with-uasp-power-adapter-compatible",
           "history": [
+            5490,
             5490
           ]
         },
@@ -80243,6 +80271,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-2-5-Hard-Drive-Enclosure-USB-3-0-to-SATA-III-Adapter-Supports-2-5-Inch-SSD-HDD-9-5mm-7mm-External-Hard-Drive-Enclosure-PakByte-Computers-25764019765315.jpg?v=1753673644",
           "url": "https://www.pakbyte.pk/products/ugreen-2-5-hard-drive-enclosure-usb-3-0-to-sata-iii-adapter-supports-2-5-inch-ssd-hdd-9-5mm-7mm-external-hard-drive-enclosure",
           "history": [
+            2290,
             2290
           ]
         },
@@ -80252,7 +80281,7 @@
           "brand": "UGreen",
           "category": "storage",
           "price": 3499,
-          "oldPrice": 2399,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-2-5-Hard-Drive-Enclosure-USB-A-to-USB-C-USB-C-to-USB-C-to-SATA-III-6Gbps-for-SSD-HDD-9-5-7mm-External-Hard-Drive-Disk-Case-PakByte-Computers-25764016193603.png?v=1753673644",
@@ -80268,7 +80297,7 @@
             2399,
             2399,
             2399,
-            2399,
+            3499,
             3499
           ]
         },
@@ -80362,6 +80391,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-USB-Audio-Adapter-External-Stereo-Sound-Card-3-5mm-Headphone-Mic-PakByte-Computers-25763522740291.jpg?v=1753673922",
           "url": "https://www.pakbyte.pk/products/ugreen-usb-audio-adapter-external-stereo-sound-card-3-5mm-headphone-mic",
           "history": [
+            2490,
             2490,
             2490,
             2490,
@@ -87540,7 +87570,7 @@
             637000,
             637000,
             637000,
-            637000,
+            899999,
             899999,
             899999,
             899999,
@@ -89230,7 +89260,7 @@
             122990,
             122990,
             122990,
-            122990,
+            114999,
             114999,
             114999,
             114999,
@@ -98607,7 +98637,7 @@
           "brand": "Corsair",
           "category": "case",
           "price": 18499,
-          "oldPrice": 17000,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Corsair-480T-Airflow-Mid-Tower-ATX-Case-Black-PakByte-Computers-24908456034371.png?v=1753677719",
@@ -98623,7 +98653,7 @@
             17000,
             17000,
             17000,
-            17000,
+            18499,
             18499
           ]
         },
@@ -149882,6 +149912,7 @@
           "url": "https://rbtechngames.com/product/msi-b860-gaming-plus-wifi-atx-lga1851-ddr5-gaming-motherboard",
           "history": [
             64499,
+            64499,
             64499
           ]
         },
@@ -149897,6 +149928,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_zotav_rtx_2060_twin_fan.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-2060-twin-fan-6gb-graphics-card-used",
           "history": [
+            59999,
             59999,
             59999
           ]
@@ -150029,32 +150061,6 @@
             479999,
             479999,
             479999
-          ]
-        },
-        {
-          "id": "rbtechgames_2b966381",
-          "name": "HP Omen 16 (B1072NF), Intel Core i7 12th Gen, 16GB RAM, 512GB SSD, RTX 3070 Ti, 16.1&#8243",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 289999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_omen_16_wf0032tx_shadow_black.webp",
-          "url": "https://rbtechngames.com/product/hp-omen-16-b1072nf-intel-core-i7-12th-gen-16gb-ram-512gb-ssd-rtx-3070-ti-16-1-qhd-165hz-ips-display-shadow-black-used",
-          "history": [
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999,
-            289999
           ]
         },
         {
@@ -151797,32 +151803,6 @@
             34999,
             34999,
             34999
-          ]
-        },
-        {
-          "id": "rbtechgames_eaaf195d",
-          "name": "Zotac Gaming GeForce RTX 5070 Solid OC 12GB Graphics Card &#8211; USED",
-          "brand": "Zotac",
-          "category": "gpu",
-          "price": 249999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
-          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-solid-oc-12gb-graphics-card-used",
-          "history": [
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999,
-            249999
           ]
         },
         {
@@ -153698,6 +153678,32 @@
           ]
         },
         {
+          "id": "rbtechgames_49bf787f",
+          "name": "ATK Dragonfly A9 Pro Max Lightweight Wireless Gaming Mouse &#8211; White/Black/Pink",
+          "brand": "ATK",
+          "category": "mouse",
+          "price": 14999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_atk__dragonfly_a9_pro_white.webp",
+          "url": "https://rbtechngames.com/product/atk-dragonfly-a9-pro-max-lightweight-wireless-gaming-mouse-white-black-pink",
+          "history": [
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999,
+            14999
+          ]
+        },
+        {
           "id": "rbtechgames_c063c766",
           "name": "Zotac Gaming GeForce RTX 5060 Ti 8GB Twin Edge Graphics Card",
           "brand": "Zotac",
@@ -155496,8 +155502,8 @@
           "name": "Attack Shark X820Ultra 75% Wireless RGB Mechanical Gaming Keyboard &#8211; Star White/Star",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 16499,
-          "oldPrice": null,
+          "price": 18499,
+          "oldPrice": 16499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_attack_shark_x820ultra_star_white.webp",
@@ -155514,7 +155520,7 @@
             16499,
             16499,
             16499,
-            16499
+            18499
           ]
         },
         {
@@ -155896,7 +155902,7 @@
             299999,
             299999,
             299999,
-            299999,
+            314999,
             314999,
             314999,
             314999,
@@ -156364,7 +156370,7 @@
             379999,
             379999,
             379999,
-            379999,
+            384999,
             384999,
             384999,
             384999,
@@ -156484,8 +156490,8 @@
           "name": "Lexar NQ780 M.2 2280 PCIe Gen 4 NVMe SSD &#8211; 512GB/1TB/2TB/4TB",
           "brand": "Lexar",
           "category": "storage",
-          "price": 42499,
-          "oldPrice": null,
+          "price": 26499,
+          "oldPrice": 42499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
@@ -156500,9 +156506,9 @@
             26499,
             26499,
             26499,
-            26499,
             42499,
-            42499
+            42499,
+            26499
           ]
         },
         {
@@ -157130,6 +157136,32 @@
           ]
         },
         {
+          "id": "rbtechgames_e16afe4a",
+          "name": "Samsung 9100 PRO NVMe M.2 GEN 5 SSD &#8211; 1TB/2TB/4TB",
+          "brand": "Samsung",
+          "category": "storage",
+          "price": 124999,
+          "oldPrice": 114999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_samsung_9100_pro.jpg",
+          "url": "https://rbtechngames.com/product/samsung-9100-pro-nvme-m-2-gen-5-ssd-1tb-2tb-4tb",
+          "history": [
+            94999,
+            94999,
+            94999,
+            94999,
+            94999,
+            94999,
+            94999,
+            94999,
+            114999,
+            114999,
+            114999,
+            124999
+          ]
+        },
+        {
           "id": "rbtechgames_c1a3d481",
           "name": "WD Green SN3000 NVMe M.2 GEN 4 SSD &#8211; 500GB/1TB/2TB",
           "brand": "WD",
@@ -157286,29 +157318,29 @@
           ]
         },
         {
-          "id": "rbtechgames_f169efc4",
-          "name": "WD Blue SN5000 NVMe Gen 4 SSD &#8211; 500GB/1TB/2TB/4TB",
-          "brand": "WD",
+          "id": "rbtechgames_c991e494",
+          "name": "Samsung 990 EVO Plus NVMe M.2 Gen 4 SSD &#8211; 1TB/2TB/4TB",
+          "brand": "Samsung",
           "category": "storage",
-          "price": 42499,
-          "oldPrice": null,
+          "price": 99999,
+          "oldPrice": 72999,
           "inStock": true,
           "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_wd_blue_sn5000_500gb.webp",
-          "url": "https://rbtechngames.com/product/wd-blue-sn5000-nvme-gen-4-ssd-500gb-1tb-2tb-4tb",
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_samsung_990_evo_plus_1tb.webp",
+          "url": "https://rbtechngames.com/product/samsung-990-evo-plus-nvme-m-2-gen-4-ssd-1tb-2tb-4tb",
           "history": [
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499,
-            42499
+            72999,
+            72999,
+            72999,
+            72999,
+            72999,
+            72999,
+            72999,
+            72999,
+            72999,
+            72999,
+            72999,
+            99999
           ]
         },
         {
@@ -157378,7 +157410,7 @@
             274999,
             274999,
             274999,
-            274999,
+            279999,
             279999,
             279999,
             279999,
@@ -157673,32 +157705,6 @@
             8799,
             8799,
             8799
-          ]
-        },
-        {
-          "id": "rbtechgames_b3895331",
-          "name": "Intel Core i5-14400F Desktop Processor &#8211; TRAY",
-          "brand": "Intel",
-          "category": "cpu",
-          "price": 45499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/02/rbtech_intel_i5_14400f.jpg",
-          "url": "https://rbtechngames.com/product/intel-core-i5-14400f-desktop-processor-tray",
-          "history": [
-            45499,
-            45499,
-            45499,
-            45499,
-            45499,
-            45499,
-            45499,
-            45499,
-            45499,
-            45499,
-            45499,
-            45499
           ]
         },
         {
@@ -158742,32 +158748,6 @@
           ]
         },
         {
-          "id": "rbtechgames_499f5b1e",
-          "name": "XPG Lancer Blade RGB 64GB DDR5 6000MHz CL30 (2x32GB) Desktop Memory &#8211; Black",
-          "brand": "XPG",
-          "category": "ram",
-          "price": 409999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/06/rbtech_xpg_lancer_blade_rgb_black.png",
-          "url": "https://rbtechngames.com/product/xpg-lancer-blade-rbg-64gb-ddr5-6000mhz-cl30-2x32gb-desktop-memory-black",
-          "history": [
-            409999,
-            409999,
-            409999,
-            409999,
-            409999,
-            409999,
-            409999,
-            409999,
-            409999,
-            409999,
-            409999,
-            409999
-          ]
-        },
-        {
           "id": "rbtechgames_2a6afa2b",
           "name": "ASUS ROG Gladius III Wireless AimPoint (P711) Gaming Mouse &#8211; Black",
           "brand": "ASUS",
@@ -159016,7 +158996,7 @@
             49999,
             49999,
             49999,
-            49999,
+            59999,
             59999,
             59999,
             59999,
@@ -159522,6 +159502,21 @@
           ]
         },
         {
+          "id": "rbtechgames_b3253641",
+          "name": "Samsung 990 PRO 1TB PCIe 4.0 NVMe M.2 SSD",
+          "brand": "Samsung",
+          "category": "storage",
+          "price": 69999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2023/08/rbtech_samsung_990pro_1tb_1.jpg",
+          "url": "https://rbtechngames.com/product/samsung-990-pro-1tb-pcie-4-0-nvme-m-2-ssd",
+          "history": [
+            69999
+          ]
+        },
+        {
           "id": "rbtechgames_a28eaed2",
           "name": "ADATA LEGEND 710 256GB NVMe M.2 SSD",
           "brand": "ADATA",
@@ -159571,6 +159566,21 @@
             49499,
             49499,
             49499
+          ]
+        },
+        {
+          "id": "rbtechgames_93ecd5be",
+          "name": "Samsung 990 PRO 2TB PCIe 4.0 NVMe M.2 SSD",
+          "brand": "Samsung",
+          "category": "storage",
+          "price": 115999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2023/05/rbtech_samsung990pro2tb_1.webp",
+          "url": "https://rbtechngames.com/product/samsung-990-pro-2tb-pcie-4-0-nvme-m-2-ssd",
+          "history": [
+            115999
           ]
         },
         {
@@ -160042,6 +160052,32 @@
           ]
         },
         {
+          "id": "rbtechgames_1d3a580b",
+          "name": "LEXAR 8GB (1X8) DDR4 3200MHz Desktop Memory Kit",
+          "brand": "LEXAR",
+          "category": "ram",
+          "price": 17999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2021/07/lexar.png",
+          "url": "https://rbtechngames.com/product/lexar-8gb-1x8-ddr4-3200mhz-desktop-memory-kit",
+          "history": [
+            17999,
+            17999,
+            17999,
+            17999,
+            17999,
+            17999,
+            17999,
+            17999,
+            17999,
+            17999,
+            17999,
+            17999
+          ]
+        },
+        {
           "id": "rbtechgames_36b3d2cc",
           "name": "SteelSeries QCK Heavy Gaming Mouse Pad &#8211; Medium",
           "brand": "SteelSeries",
@@ -160136,7 +160172,7 @@
             31499,
             31499,
             31499,
-            31499,
+            32499,
             32499,
             32499,
             32499,
