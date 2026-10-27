@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T03:52:52.737119+00:00",
+  "lastUpdated": "2026-10-27T11:39:37.012252+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,96 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_9ea1ea90",
+          "name": "Attack Shark X87 Ultra 8K Mechanical Wireless Gaming Keyboard - Ink Shade",
+          "brand": "Attack",
+          "category": "keyboard",
+          "price": 15990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X87-Ultra-Keyboard-Ink-Shade-Price-in-Pakistan-Pakbyte_4.webp?v=1793096856",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x87-ultra-8k-mechanical-wireless-gaming-keyboard-ink-shade",
+          "history": [
+            15990
+          ]
+        },
+        {
+          "id": "pakbyte_987b59bc",
+          "name": "Attack Shark X87 Ultra 8K Mechanical Wireless Gaming Keyboard - Iced Orange",
+          "brand": "Attack",
+          "category": "keyboard",
+          "price": 15990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X87-Ultra-8K-Mechanical-Wireless-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1793096417",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x87-ultra-8k-mechanical-wireless-gaming-keyboard-iced-orange",
+          "history": [
+            15990
+          ]
+        },
+        {
+          "id": "pakbyte_654c2890",
+          "name": "Attack Shark X87 Ultra 8K Mechanical Wireless Gaming Keyboard - Shadow Jade",
+          "brand": "Attack",
+          "category": "keyboard",
+          "price": 15990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X87-Ultra-8K-Mechanical-Wireless-Gaming-Keyboard-Shadow-Jade-Price-in-Pakistan-Pakbyte_1.webp?v=1793096099",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x87-ultra-8k-mechanical-wireless-gaming-keyboard-shadow-jade",
+          "history": [
+            15990
+          ]
+        },
+        {
+          "id": "pakbyte_e77190c2",
+          "name": "Ugreen 85489 14-Port USB-C Docking Station Triple 4K Display",
+          "brand": "Ugreen",
+          "category": "monitor",
+          "price": 59990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-85489-docking-station-price-in-pakistan-pakbyte_1.webp?v=1793084504",
+          "url": "https://www.pakbyte.pk/products/ugreen-85489-14-port-usb-c-docking-station-triple-4k-display",
+          "history": [
+            59990
+          ]
+        },
+        {
+          "id": "pakbyte_2d5ec669",
+          "name": "Ugreen 85774 USB-C Docking Station Dual Monitor, 9-in-1 Aluminum Dock",
+          "brand": "Ugreen",
+          "category": "monitor",
+          "price": 9990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb-c-docking-station-price-in-pakistan-pakbyte_1.webp?v=1793082999",
+          "url": "https://www.pakbyte.pk/products/ugreen-85774-usb-c-docking-station-dual-monitor-9-in-1-aluminum-dock",
+          "history": [
+            9990
+          ]
+        },
+        {
+          "id": "pakbyte_f93b1703",
+          "name": "Ugreen 60164 USB-C to 3.5mm Headphone and Charger Adapter",
+          "brand": "Ugreen",
+          "category": "headset",
+          "price": 3490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-headphones-adapter-price-in-pakistan-pakbyte_1.webp?v=1793078017",
+          "url": "https://www.pakbyte.pk/products/ugreen-60164-usb-c-to-3-5mm-headphone-and-charger-adapter",
+          "history": [
+            3490
+          ]
+        },
         {
           "id": "pakbyte_e6b16098",
           "name": "Ugreen 75246 HDMI KVM Switch 1 Monitor 2 Computers, 4 USB 3.0 Ports",
@@ -20,6 +110,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-hdmi-kvm-switch-price-in-pakistan-pakbyte_1.webp?v=1793029664",
           "url": "https://www.pakbyte.pk/products/ugreen-75246-hdmi-kvm-switch-1-monitor-2-computers-4-usb-3-0-ports",
           "history": [
+            9990,
             9990,
             9990
           ]
@@ -44,6 +135,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -59,6 +151,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-ergonomic-mouse-65042-price-in-pakistan-pakbyte_1.webp?v=1792862778",
           "url": "https://www.pakbyte.pk/products/ugreen-65042-ergonomic-wireless-bluetooth-vertical-mouse",
           "history": [
+            3490,
             3490,
             3490,
             3490,
@@ -5101,7 +5194,7 @@
           "url": "https://www.pakbyte.pk/products/manli-nebula-geforce-rtx-5080-16gb-gddr7-graphic-card",
           "history": [
             434990,
-            434990,
+            479999,
             479999,
             479999,
             479999,
@@ -14349,8 +14442,8 @@
           "name": "Asus Prime RTX 5070 OC Edition 12GB GDDR7 Graphics Card - White",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 269999,
-          "oldPrice": null,
+          "price": 329999,
+          "oldPrice": 269999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Prime-RTX-5070-12GB-OC-GDDR7-Price-in-Pakistan-Pakbyte_1.jpg?v=1779693606",
@@ -14367,7 +14460,7 @@
             269999,
             269999,
             269999,
-            269999
+            329999
           ]
         },
         {
@@ -16117,8 +16210,8 @@
           "name": "UGREEN 35625 Triple Monitor USB-C Hub 8-Port Docking Station Multi Display Adapter",
           "brand": "UGREEN",
           "category": "monitor",
-          "price": 10990,
-          "oldPrice": null,
+          "price": 9990,
+          "oldPrice": 10990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-35625-price-in-pakistan-pakbyte.jpg?v=1776858642",
@@ -16135,7 +16228,7 @@
             10990,
             10990,
             10990,
-            10990
+            9990
           ]
         },
         {
@@ -16184,7 +16277,7 @@
             2490,
             2490,
             2490,
-            2490,
+            1490,
             1490,
             1490,
             1490
@@ -16210,7 +16303,7 @@
             1990,
             1990,
             1990,
-            1990,
+            1490,
             1490,
             1490,
             1490
@@ -16379,7 +16472,7 @@
           "category": "monitor",
           "price": 2790,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-80393-Display-Port-8K1.4-MM-Cable-3M-Price-in-Pakistan-Pakbyte.jpg?v=1776508081",
           "url": "https://www.pakbyte.pk/products/ugreen-80393-display-port-8k1-4-m-m-cable-3m",
@@ -18405,9 +18498,9 @@
           "name": "Attack Shark R68 HE Carbon Fiber 8000Hz Rapid Trigger Keyboard - Ice Ninja",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 22990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 16490,
+          "oldPrice": 22990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r68-he-price-in-pakistan-pakbyte_5.webp?v=1774868248",
           "url": "https://www.pakbyte.pk/products/attack-shark-r68-he-carbon-fiber-8000hz-rapid-trigger-keyboard-ice-ninja",
@@ -18423,7 +18516,7 @@
             22990,
             22990,
             22990,
-            22990
+            16490
           ]
         },
         {
@@ -18431,9 +18524,9 @@
           "name": "Attack Shark R68 HE Carbon Fiber 8000Hz Rapid Trigger Keyboard - Carbon Ink Blade",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 22990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 14990,
+          "oldPrice": 22990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r68-he-price-in-pakistan-pakbyte_1.webp?v=1774859724",
           "url": "https://www.pakbyte.pk/products/attack-shark-r68-he-carbon-fiber-8000hz-rapid-trigger-keyboard-carbon-ink-blade",
@@ -18449,7 +18542,7 @@
             22990,
             22990,
             22990,
-            22990
+            14990
           ]
         },
         {
@@ -20929,7 +21022,7 @@
           "category": "monitor",
           "price": 14490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/andaseat_stealth_ii_duo_a6d_white-price-in-pakistan-pakbyte_1.jpg?v=1773504940",
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-ii-duo-a6d-ergonomic-dual-monitor-arm-black-white",
@@ -26465,8 +26558,8 @@
           "name": "A4Tech OP-550S Silent Click Wired USB Mouse with Teflon Feet - Black",
           "brand": "A4Tech",
           "category": "mouse",
-          "price": 770,
-          "oldPrice": null,
+          "price": 1090,
+          "oldPrice": 770,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/A4tech-OP550S-price-in-pakistan-pakbyte_1.jpg?v=1771649497",
@@ -26483,7 +26576,7 @@
             770,
             770,
             770,
-            770
+            1090
           ]
         },
         {
@@ -38979,7 +39072,7 @@
           "url": "https://www.pakbyte.pk/products/adata-16gb-1x16gb-5600mhz-c46-ddr5-laptop-memory",
           "history": [
             60490,
-            60490,
+            71999,
             71999,
             71999,
             71999,
@@ -39012,7 +39105,7 @@
             60490,
             60490,
             60490,
-            60490,
+            72999,
             72999,
             72999,
             72999
@@ -39402,7 +39495,7 @@
             27990,
             27990,
             27990,
-            27990,
+            29999,
             29999,
             29999,
             29999
@@ -39473,7 +39566,7 @@
           "url": "https://www.pakbyte.pk/products/adata-hd680-2tb-external-hard-drive-blue",
           "history": [
             25690,
-            25690,
+            34999,
             34999,
             34999,
             34999,
@@ -41586,7 +41679,7 @@
             2299,
             2299,
             2299,
-            2299,
+            2290,
             2290,
             2290,
             2290
@@ -41638,7 +41731,7 @@
             3199,
             3199,
             3199,
-            3199,
+            2790,
             2790,
             2790,
             2790
@@ -41996,7 +42089,7 @@
           "history": [
             5799,
             5799,
-            5799,
+            4990,
             4990,
             4990,
             4990,
@@ -42913,7 +43006,7 @@
             183999,
             183999,
             183999,
-            183999,
+            189999,
             189999,
             189999
           ]
@@ -49412,7 +49505,7 @@
             122990,
             122990,
             122990,
-            122990,
+            162999,
             162999,
             162999,
             162999
@@ -49431,7 +49524,7 @@
           "url": "https://www.pakbyte.pk/products/msi-gaming-rtx-5060-8g-shadow-2x-oc-graphics-card",
           "history": [
             118990,
-            118990,
+            159999,
             159999,
             159999,
             159999,
@@ -52168,8 +52261,8 @@
             23499,
             23499,
             23499,
-            23499,
             29999,
+            23999,
             23999,
             23999
           ]
@@ -53260,7 +53353,7 @@
             96999,
             96999,
             96999,
-            96999,
+            104999,
             104999,
             104999,
             104999
@@ -54170,7 +54263,7 @@
             12490,
             12490,
             12490,
-            12490,
+            12999,
             12999,
             12999,
             12999
@@ -54196,7 +54289,7 @@
             12490,
             12490,
             12490,
-            12490,
+            12999,
             12999,
             12999,
             12999
@@ -70171,8 +70264,8 @@
           "name": "UGREEN 15978 13-in-1 Revodok Pro 313 Docking Station 4K Triple Display",
           "brand": "UGREEN",
           "category": "monitor",
-          "price": 34990,
-          "oldPrice": null,
+          "price": 17990,
+          "oldPrice": 34990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-15978-13-in-1-Revodok-Pro-313-Docking-Station-4K-Triple-Display-PakByte-Computers-25931776262211.jpg?v=1753671465",
@@ -70189,7 +70282,7 @@
             34990,
             34990,
             34990,
-            34990
+            17990
           ]
         },
         {
@@ -70375,81 +70468,48 @@
           ]
         },
         {
-          "id": "pakbyte_ad810d4b",
-          "name": "Ugreen Laptop Sleeve Case Bag, 15-15.9\" - Gray",
+          "id": "pakbyte_7bee361d",
+          "name": "Ugreen 30325 Laptop Sleeve Case Bag, 15-15.9\" - Gray",
           "brand": "Ugreen",
           "category": "case",
-          "price": 3499,
+          "price": 3490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Laptop-Sleeve-Case-Bag-15-15-9-Gray-PakByte-Computers-25925901123651.jpg?v=1753671577",
           "url": "https://www.pakbyte.pk/products/ugreen-laptop-sleeve-case-bag-15-15-9-gray",
           "history": [
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499
+            3490
           ]
         },
         {
-          "id": "pakbyte_8f64eb2b",
-          "name": "Ugreen Laptop Sleeve Case Bag, Nubuck Leather and Padded Velvet Foam Interior, 14-14.9\", G",
+          "id": "pakbyte_320a5ba9",
+          "name": "Ugreen 50337 Laptop Sleeve Case Bag, Nubuck Leather and Padded Velvet Foam Interior, 14-14",
           "brand": "Ugreen",
           "category": "case",
-          "price": 4499,
+          "price": 3490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Laptop-Sleeve-Case-Bag-Nubuck-Leather-and-Padded-Velvet-Foam-Interior-14-14-9-Gray-PakByte-Computers-25925891653699.jpg?v=1753671577",
           "url": "https://www.pakbyte.pk/products/ugreen-laptop-sleeve-case-bag-nubuck-leather-and-padded-velvet-foam-interior-14-14-9-gray",
           "history": [
-            4499,
-            4499,
-            4499,
-            4499,
-            4499,
-            4499,
-            4499,
-            4499,
-            4499,
-            4499,
-            4499,
-            4499
+            3490
           ]
         },
         {
-          "id": "pakbyte_e2a69506",
-          "name": "UGREEN Laptop Case Shockproof Water Resistant Laptop Sleeve for 14-15 Inch Laptops",
+          "id": "pakbyte_abf7e817",
+          "name": "UGREEN 20476 Laptop Case Shockproof Water Resistant Laptop Sleeve for 14-15 Inch Laptops",
           "brand": "UGREEN",
           "category": "case",
-          "price": 3999,
+          "price": 2990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/UGREEN-Laptop-Case-Shockproof-Water-Resistant-Laptop-Sleeve-for-14-15-Inch-Laptops-PakByte-Computers-25925886607427.jpg?v=1753671577",
           "url": "https://www.pakbyte.pk/products/ugreen-laptop-case-shockproof-water-resistant-laptop-sleeve-for-14-15-inch-laptops",
           "history": [
-            3999,
-            3999,
-            3999,
-            3999,
-            3999,
-            3999,
-            3999,
-            3999,
-            3999,
-            3999,
-            3999,
-            3999
+            2990
           ]
         },
         {
@@ -70464,6 +70524,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Ergonomic-Mouse-Pad-with-Wrist-Rest-Black-PakByte-Computers-25925864816707.jpg?v=1753671589",
           "url": "https://www.pakbyte.pk/products/ugreen-ergonomic-mouse-pad-with-wrist-rest-black",
           "history": [
+            1240,
             1240,
             1240,
             1240
@@ -70638,7 +70699,7 @@
           "url": "https://www.pakbyte.pk/products/sapphire-nitro-radeon-rx-6700-xt-12gb-graphics-card",
           "history": [
             87999,
-            87999,
+            93999,
             93999,
             93999,
             93999,
@@ -80187,6 +80248,7 @@
             5790,
             5790,
             5790,
+            5790,
             5790
           ]
         },
@@ -80202,6 +80264,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-M-2-NVMe-SSD-Enclosure-Tool-Free-NVMe-Enclosure-10Gbps-NVMe-to-USB-Adapter-with-USB-3-2-Gen2-Aluminum-M2-SSD-Enclosure-Supports-M-and-B-M-Keys-and-Size-in-2230-2242-2260-2280-SSDs-Black-PakByte-Computers-25764038082627.jpg?v=1753673618",
           "url": "https://www.pakbyte.pk/products/ugreen-m-2-nvme-ssd-enclosure-tool-free-nvme-enclosure-10gbps-nvme-to-usb-adapter-with-usb-3-2-gen2-aluminum-m2-ssd-enclosure-supports-m-and-b-m-keys-and-size-in-2230-2242-2260-2280-ssds-black",
           "history": [
+            3890,
             3890,
             3890,
             3890
@@ -80247,6 +80310,7 @@
           "history": [
             7490,
             7490,
+            7490,
             7490
           ]
         },
@@ -80264,6 +80328,7 @@
           "history": [
             5490,
             5490,
+            5490,
             5490
           ]
         },
@@ -80279,6 +80344,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-2-5-Hard-Drive-Enclosure-USB-3-0-to-SATA-III-Adapter-Supports-2-5-Inch-SSD-HDD-9-5mm-7mm-External-Hard-Drive-Enclosure-PakByte-Computers-25764019765315.jpg?v=1753673644",
           "url": "https://www.pakbyte.pk/products/ugreen-2-5-hard-drive-enclosure-usb-3-0-to-sata-iii-adapter-supports-2-5-inch-ssd-hdd-9-5mm-7mm-external-hard-drive-enclosure",
           "history": [
+            2290,
             2290,
             2290,
             2290
@@ -80304,7 +80370,7 @@
             2399,
             2399,
             2399,
-            2399,
+            3499,
             3499,
             3499,
             3499
@@ -80337,29 +80403,18 @@
           ]
         },
         {
-          "id": "pakbyte_a7166d83",
-          "name": "Ugreen 4-Port USB 3.0 Hub, 5Gbps High Speed Data Transmission with USB-C Power Supply for ",
+          "id": "pakbyte_415f918a",
+          "name": "Ugreen 15548 4-Port USB 3.0 Hub, 5Gbps High Speed Data Transmission with USB-C Power Suppl",
           "brand": "Ugreen",
-          "category": "storage",
-          "price": 3499,
+          "category": "psu",
+          "price": 1990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-4-Port-USB-3-0-Hub-5Gbps-High-Speed-Data-Transmission-with-USB-C-Power-Supply-for-PC-Laptop-Flash-Drive-Mobile-HDD-Windows-PakByte-Computers-25763831611459.jpg?v=1753673662",
           "url": "https://www.pakbyte.pk/products/ugreen-4-port-usb-3-0-hub-5gbps-high-speed-data-transmission-with-usb-c-power-supply-for-pc-laptop-flash-drive-mobile-hdd-windows",
           "history": [
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499
+            1990
           ]
         },
         {
@@ -87577,7 +87632,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-rtx-4090-windforce-v2-24gb",
           "history": [
             637000,
-            637000,
+            899999,
             899999,
             899999,
             899999,
@@ -89267,7 +89322,7 @@
           "url": "https://www.pakbyte.pk/products/amd-ryzen-9-9900x-gaming-processor",
           "history": [
             122990,
-            122990,
+            114999,
             114999,
             114999,
             114999,
@@ -98660,7 +98715,7 @@
             17000,
             17000,
             17000,
-            17000,
+            18499,
             18499,
             18499,
             18499
@@ -117211,7 +117266,7 @@
           "category": "mouse",
           "price": 3490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M705-PEGASUS-7200-DPI-GAMING-MOUSE-PakByte-Computers-24397630079043.webp?v=1753680705",
           "url": "https://www.pakbyte.pk/products/redragon-m705-pegasus-7200-dpi-gaming-mouse",
@@ -149923,6 +149978,7 @@
             64499,
             64499,
             64499,
+            64499,
             64499
           ]
         },
@@ -149938,6 +149994,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_zotav_rtx_2060_twin_fan.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-2060-twin-fan-6gb-graphics-card-used",
           "history": [
+            59999,
             59999,
             59999,
             59999,
@@ -153819,32 +153876,6 @@
           ]
         },
         {
-          "id": "rbtechgames_2cfb74a4",
-          "name": "Lenovo ThinkPad P1 Gen 7, Intel Core Ultra 9, 32GB RAM, 512GB SSD, RTX 2000, 16&#8243; WQU",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 414999,
-          "oldPrice": 449999,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_lenovo_thinkpad_p1_gen_7_black.jpg",
-          "url": "https://rbtechngames.com/product/lenovo-thinkpad-p1-gen-7-intel-core-ultra-9-32gb-ram-512gb-ssd-rtx-2000-16-wquxga-4k-oled-touch-display-black-used",
-          "history": [
-            414999,
-            414999,
-            414999,
-            414999,
-            414999,
-            414999,
-            414999,
-            414999,
-            414999,
-            414999,
-            414999,
-            414999
-          ]
-        },
-        {
           "id": "rbtechgames_a1782ae4",
           "name": "Dell Latitude 7450, Intel Core Ultra 7, 32GB RAM, 256GB SSD, 14&#8243; QHD+, IPS Touch Dis",
           "brand": "Intel",
@@ -155529,7 +155560,7 @@
             16499,
             16499,
             16499,
-            16499,
+            18499,
             18499,
             18499
           ]
@@ -155911,7 +155942,7 @@
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-rtx-5070-12gb-oc-graphics-card",
           "history": [
             299999,
-            299999,
+            314999,
             314999,
             314999,
             314999,
@@ -156379,7 +156410,7 @@
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16gb-graphics-card",
           "history": [
             379999,
-            379999,
+            384999,
             384999,
             384999,
             384999,
@@ -156515,9 +156546,9 @@
             26499,
             26499,
             26499,
+            42499,
+            42499,
             26499,
-            42499,
-            42499,
             26499,
             26499
           ]
@@ -157164,10 +157195,10 @@
             94999,
             94999,
             94999,
-            94999,
             114999,
             114999,
             114999,
+            124999,
             124999,
             124999
           ]
@@ -157349,7 +157380,7 @@
             72999,
             72999,
             72999,
-            72999,
+            99999,
             99999,
             99999
           ]
@@ -157419,7 +157450,7 @@
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5070-windforce-12gb-oc-sff-graphics-card",
           "history": [
             274999,
-            274999,
+            279999,
             279999,
             279999,
             279999,
@@ -159005,7 +159036,7 @@
           "url": "https://rbtechngames.com/product/xpg-gammix-s70-blade-pcie-gen4x4-m-2-2280-ssd-512gb-1tb-2tb-4tb",
           "history": [
             49999,
-            49999,
+            59999,
             59999,
             59999,
             59999,
@@ -159525,6 +159556,7 @@
           "url": "https://rbtechngames.com/product/samsung-990-pro-1tb-pcie-4-0-nvme-m-2-ssd",
           "history": [
             69999,
+            69999,
             69999
           ]
         },
@@ -159592,6 +159624,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/05/rbtech_samsung990pro2tb_1.webp",
           "url": "https://rbtechngames.com/product/samsung-990-pro-2tb-pcie-4-0-nvme-m-2-ssd",
           "history": [
+            115999,
             115999,
             115999
           ]
@@ -160183,7 +160216,7 @@
             31499,
             31499,
             31499,
-            31499,
+            32499,
             32499,
             32499,
             32499,
