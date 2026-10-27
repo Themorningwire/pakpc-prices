@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T17:31:16.719213+00:00",
+  "lastUpdated": "2026-10-27T21:51:00.530359+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attackshark-R85HE-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1793112050",
           "url": "https://www.pakbyte.pk/products/attack-shark-r85he-75-wired-rapid-trigger-magnetic-switch-gaming-keyboard-green",
           "history": [
+            14990,
             14990
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r68-he-price-in-pakistan-pakbyte_1_95cd5207-7057-4ac4-b6d3-74a7174228f4.webp?v=1793111473",
           "url": "https://www.pakbyte.pk/products/attack-shark-r68-he-carbon-fiber-8000hz-rapid-trigger-keyboard-black",
           "history": [
+            14990,
             14990
           ]
         },
@@ -50,6 +52,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X87-Ultra-Keyboard-Ink-Shade-Price-in-Pakistan-Pakbyte_4.webp?v=1793096856",
           "url": "https://www.pakbyte.pk/products/attack-shark-x87-ultra-8k-mechanical-wireless-gaming-keyboard-ink-shade",
           "history": [
+            15990,
             15990,
             15990
           ]
@@ -67,6 +70,7 @@
           "url": "https://www.pakbyte.pk/products/attack-shark-x87-ultra-8k-mechanical-wireless-gaming-keyboard-iced-orange",
           "history": [
             15990,
+            15990,
             15990
           ]
         },
@@ -82,6 +86,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X87-Ultra-8K-Mechanical-Wireless-Gaming-Keyboard-Shadow-Jade-Price-in-Pakistan-Pakbyte_1.webp?v=1793096099",
           "url": "https://www.pakbyte.pk/products/attack-shark-x87-ultra-8k-mechanical-wireless-gaming-keyboard-shadow-jade",
           "history": [
+            15990,
             15990,
             15990
           ]
@@ -99,6 +104,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-85489-14-port-usb-c-docking-station-triple-4k-display",
           "history": [
             59990,
+            59990,
             59990
           ]
         },
@@ -114,6 +120,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb-c-docking-station-price-in-pakistan-pakbyte_1.webp?v=1793082999",
           "url": "https://www.pakbyte.pk/products/ugreen-85774-usb-c-docking-station-dual-monitor-9-in-1-aluminum-dock",
           "history": [
+            9990,
             9990,
             9990
           ]
@@ -131,6 +138,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-60164-usb-c-to-3-5mm-headphone-and-charger-adapter",
           "history": [
             3490,
+            3490,
             3490
           ]
         },
@@ -146,6 +154,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-hdmi-kvm-switch-price-in-pakistan-pakbyte_1.webp?v=1793029664",
           "url": "https://www.pakbyte.pk/products/ugreen-75246-hdmi-kvm-switch-1-monitor-2-computers-4-usb-3-0-ports",
           "history": [
+            9990,
             9990,
             9990,
             9990,
@@ -174,6 +183,7 @@
             6490,
             6490,
             6490,
+            6490,
             6490
           ]
         },
@@ -189,6 +199,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-ergonomic-mouse-65042-price-in-pakistan-pakbyte_1.webp?v=1792862778",
           "url": "https://www.pakbyte.pk/products/ugreen-65042-ergonomic-wireless-bluetooth-vertical-mouse",
           "history": [
+            3490,
             3490,
             3490,
             3490,
@@ -14497,7 +14508,7 @@
             269999,
             269999,
             269999,
-            269999,
+            329999,
             329999,
             329999
           ]
@@ -16265,7 +16276,7 @@
             10990,
             10990,
             10990,
-            10990,
+            9990,
             9990,
             9990
           ]
@@ -16314,7 +16325,7 @@
             2490,
             2490,
             2490,
-            2490,
+            1490,
             1490,
             1490,
             1490,
@@ -16340,7 +16351,7 @@
             1990,
             1990,
             1990,
-            1990,
+            1490,
             1490,
             1490,
             1490,
@@ -18553,7 +18564,7 @@
             22990,
             22990,
             22990,
-            22990,
+            16490,
             16490,
             16490
           ]
@@ -18579,7 +18590,7 @@
             22990,
             22990,
             22990,
-            22990,
+            14990,
             14990,
             14990
           ]
@@ -21891,8 +21902,8 @@
           "name": "Hikvision E1000 128GB M.2 PCle NVMe SSD",
           "brand": "Hikvision",
           "category": "storage",
-          "price": 6199,
-          "oldPrice": null,
+          "price": 7499,
+          "oldPrice": 6199,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Hikvision-E1000-price-in-pakistan-pakbyte.webp?v=1773240473",
@@ -21909,7 +21920,7 @@
             6199,
             6199,
             6199,
-            6199
+            7499
           ]
         },
         {
@@ -26613,7 +26624,7 @@
             770,
             770,
             770,
-            770,
+            1090,
             1090,
             1090
           ]
@@ -27951,7 +27962,7 @@
           "category": "headset",
           "price": 4090,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-VH310-price-in-pakistan-pakbyte_1.jpg?v=1770996231",
           "url": "https://www.pakbyte.pk/products/rapoo-vh310-wired-gaming-headset",
@@ -39142,7 +39153,7 @@
             60490,
             60490,
             60490,
-            60490,
+            72999,
             72999,
             72999,
             72999,
@@ -39532,7 +39543,7 @@
             27990,
             27990,
             27990,
-            27990,
+            29999,
             29999,
             29999,
             29999,
@@ -41112,6 +41123,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attackshark-R85-HE-75_-wired-mechanical-keyboard-price-in-pakistan-pakbyte_2.jpg?v=1764762531",
           "url": "https://www.pakbyte.pk/products/attack-shark-r85-he-75-wired-mechanical-keyboard-white-contour",
           "history": [
+            14990,
             14990
           ]
         },
@@ -41705,7 +41717,7 @@
             2299,
             2299,
             2299,
-            2299,
+            2290,
             2290,
             2290,
             2290,
@@ -41757,7 +41769,7 @@
             3199,
             3199,
             3199,
-            3199,
+            2790,
             2790,
             2790,
             2790,
@@ -42115,7 +42127,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-45792-wireless-mouse-price-in-pakistan-pakbyte.jpg?v=1764224355",
           "url": "https://www.pakbyte.pk/products/ugreen-45792-wireless-mouse",
           "history": [
-            5799,
+            4990,
             4990,
             4990,
             4990,
@@ -43032,7 +43044,7 @@
             183999,
             183999,
             183999,
-            183999,
+            189999,
             189999,
             189999,
             189999,
@@ -49531,7 +49543,7 @@
             122990,
             122990,
             122990,
-            122990,
+            162999,
             162999,
             162999,
             162999,
@@ -52287,8 +52299,8 @@
             23499,
             23499,
             23499,
-            23499,
             29999,
+            23999,
             23999,
             23999,
             23999,
@@ -53379,7 +53391,7 @@
             96999,
             96999,
             96999,
-            96999,
+            104999,
             104999,
             104999,
             104999,
@@ -54289,7 +54301,7 @@
             12490,
             12490,
             12490,
-            12490,
+            12999,
             12999,
             12999,
             12999,
@@ -54315,7 +54327,7 @@
             12490,
             12490,
             12490,
-            12490,
+            12999,
             12999,
             12999,
             12999,
@@ -63091,7 +63103,7 @@
           "brand": "Thermalright",
           "category": "psu",
           "price": 24999,
-          "oldPrice": 21990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-SG-750-750W-80-Plus-Gold-Fully-Modular-ATX-3-1-Power-Supply-PakByte-Computers-26298298859587.jpg?v=1753670353",
@@ -63107,7 +63119,7 @@
             21990,
             21990,
             21990,
-            21990,
+            24999,
             24999
           ]
         },
@@ -70308,7 +70320,7 @@
             34990,
             34990,
             34990,
-            34990,
+            17990,
             17990,
             17990
           ]
@@ -70508,6 +70520,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-laptop-sleeve-case-bag-15-15-9-gray",
           "history": [
             3490,
+            3490,
             3490
           ]
         },
@@ -70523,6 +70536,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Laptop-Sleeve-Case-Bag-Nubuck-Leather-and-Padded-Velvet-Foam-Interior-14-14-9-Gray-PakByte-Computers-25925891653699.jpg?v=1753671577",
           "url": "https://www.pakbyte.pk/products/ugreen-laptop-sleeve-case-bag-nubuck-leather-and-padded-velvet-foam-interior-14-14-9-gray",
           "history": [
+            3490,
             3490,
             3490
           ]
@@ -70540,6 +70554,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-laptop-case-shockproof-water-resistant-laptop-sleeve-for-14-15-inch-laptops",
           "history": [
             2990,
+            2990,
             2990
           ]
         },
@@ -70555,6 +70570,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Ergonomic-Mouse-Pad-with-Wrist-Rest-Black-PakByte-Computers-25925864816707.jpg?v=1753671589",
           "url": "https://www.pakbyte.pk/products/ugreen-ergonomic-mouse-pad-with-wrist-rest-black",
           "history": [
+            1240,
             1240,
             1240,
             1240,
@@ -80282,6 +80298,7 @@
             5790,
             5790,
             5790,
+            5790,
             5790
           ]
         },
@@ -80297,6 +80314,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-M-2-NVMe-SSD-Enclosure-Tool-Free-NVMe-Enclosure-10Gbps-NVMe-to-USB-Adapter-with-USB-3-2-Gen2-Aluminum-M2-SSD-Enclosure-Supports-M-and-B-M-Keys-and-Size-in-2230-2242-2260-2280-SSDs-Black-PakByte-Computers-25764038082627.jpg?v=1753673618",
           "url": "https://www.pakbyte.pk/products/ugreen-m-2-nvme-ssd-enclosure-tool-free-nvme-enclosure-10gbps-nvme-to-usb-adapter-with-usb-3-2-gen2-aluminum-m2-ssd-enclosure-supports-m-and-b-m-keys-and-size-in-2230-2242-2260-2280-ssds-black",
           "history": [
+            3890,
             3890,
             3890,
             3890,
@@ -80346,6 +80364,7 @@
             7490,
             7490,
             7490,
+            7490,
             7490
           ]
         },
@@ -80365,6 +80384,7 @@
             5490,
             5490,
             5490,
+            5490,
             5490
           ]
         },
@@ -80380,6 +80400,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-2-5-Hard-Drive-Enclosure-USB-3-0-to-SATA-III-Adapter-Supports-2-5-Inch-SSD-HDD-9-5mm-7mm-External-Hard-Drive-Enclosure-PakByte-Computers-25764019765315.jpg?v=1753673644",
           "url": "https://www.pakbyte.pk/products/ugreen-2-5-hard-drive-enclosure-usb-3-0-to-sata-iii-adapter-supports-2-5-inch-ssd-hdd-9-5mm-7mm-external-hard-drive-enclosure",
           "history": [
+            2290,
             2290,
             2290,
             2290,
@@ -80405,7 +80426,7 @@
             2399,
             2399,
             2399,
-            2399,
+            3499,
             3499,
             3499,
             3499,
@@ -80451,6 +80472,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-4-Port-USB-3-0-Hub-5Gbps-High-Speed-Data-Transmission-with-USB-C-Power-Supply-for-PC-Laptop-Flash-Drive-Mobile-HDD-Windows-PakByte-Computers-25763831611459.jpg?v=1753673662",
           "url": "https://www.pakbyte.pk/products/ugreen-4-port-usb-3-0-hub-5gbps-high-speed-data-transmission-with-usb-c-power-supply-for-pc-laptop-flash-drive-mobile-hdd-windows",
           "history": [
+            1990,
             1990,
             1990
           ]
@@ -98751,7 +98773,7 @@
             17000,
             17000,
             17000,
-            17000,
+            18499,
             18499,
             18499,
             18499,
@@ -150018,6 +150040,7 @@
             64499,
             64499,
             64499,
+            64499,
             64499
           ]
         },
@@ -150033,6 +150056,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_zotav_rtx_2060_twin_fan.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-2060-twin-fan-6gb-graphics-card-used",
           "history": [
+            59999,
             59999,
             59999,
             59999,
@@ -151113,7 +151137,7 @@
           "brand": "G.Skill",
           "category": "ram",
           "price": 174999,
-          "oldPrice": 168999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/06/rbtech_gskill_trident_z5_rgb_black.webp",
@@ -151129,7 +151153,7 @@
             168999,
             168999,
             168999,
-            168999,
+            174999,
             174999
           ]
         },
@@ -155429,7 +155453,7 @@
           "brand": "Crucial",
           "category": "ram",
           "price": 164999,
-          "oldPrice": 154999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_crucial_pro_oc_ddr5_black.png",
@@ -155445,7 +155469,7 @@
             154999,
             154999,
             154999,
-            154999,
+            164999,
             164999
           ]
         },
@@ -155624,7 +155648,7 @@
             16499,
             16499,
             16499,
-            16499,
+            18499,
             18499,
             18499,
             18499,
@@ -156287,7 +156311,7 @@
           "brand": "Patriot",
           "category": "ram",
           "price": 184999,
-          "oldPrice": 164999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_patriot_viper_venom_rgb_ddr5.jpg",
@@ -156303,7 +156327,7 @@
             164999,
             164999,
             164999,
-            164999,
+            184999,
             184999
           ]
         },
@@ -156313,7 +156337,7 @@
           "brand": "XPG",
           "category": "ram",
           "price": 174999,
-          "oldPrice": 164999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_xpg_lancer_32GB_6000mhz.jpg",
@@ -156329,7 +156353,7 @@
             164999,
             164999,
             164999,
-            164999,
+            174999,
             174999
           ]
         },
@@ -156610,9 +156634,9 @@
             26499,
             26499,
             26499,
+            42499,
+            42499,
             26499,
-            42499,
-            42499,
             26499,
             26499,
             26499,
@@ -157249,7 +157273,7 @@
           "brand": "Samsung",
           "category": "storage",
           "price": 144999,
-          "oldPrice": 124999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_samsung_9100_pro.jpg",
@@ -157259,13 +157283,13 @@
             94999,
             94999,
             94999,
-            94999,
             114999,
             114999,
             114999,
             124999,
             124999,
             124999,
+            144999,
             144999
           ]
         },
@@ -157444,7 +157468,7 @@
             72999,
             72999,
             72999,
-            72999,
+            99999,
             99999,
             99999,
             99999,
@@ -159624,6 +159648,7 @@
             69999,
             69999,
             69999,
+            69999,
             69999
           ]
         },
@@ -159691,6 +159716,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/05/rbtech_samsung990pro2tb_1.webp",
           "url": "https://rbtechngames.com/product/samsung-990-pro-2tb-pcie-4-0-nvme-m-2-ssd",
           "history": [
+            115999,
             115999,
             115999,
             115999,
@@ -160275,14 +160301,13 @@
           "brand": "ADATA",
           "category": "ram",
           "price": 34499,
-          "oldPrice": 32499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2021/02/adata_2666.jpg",
           "url": "https://rbtechngames.com/product/adata-16gb-1x16-ddr4-3200mhz-premier-desktop-memory-stick",
           "history": [
             31499,
-            31499,
             32499,
             32499,
             32499,
@@ -160292,6 +160317,7 @@
             32499,
             32499,
             32499,
+            34499,
             34499
           ]
         },
