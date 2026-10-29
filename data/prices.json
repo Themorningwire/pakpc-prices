@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T04:34:23.452498+00:00",
+  "lastUpdated": "2026-10-29T12:21:36.683948+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,171 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_adf2ae46",
+          "name": "Attack Shark X11 Ultra 8K Carbon Fiber Wireless Gaming Mouse - Red",
+          "brand": "Attack",
+          "category": "mouse",
+          "price": 19990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x11-ultra-price-in-pakistan-pakbyte_8.webp?v=1793270603",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x11-ultra-8k-carbon-fiber-wireless-gaming-mouse-red",
+          "history": [
+            19990
+          ]
+        },
+        {
+          "id": "pakbyte_9b09b7ef",
+          "name": "Attack Shark X11 Ultra 8K Carbon Fiber Wireless Gaming Mouse - Purple",
+          "brand": "Attack",
+          "category": "mouse",
+          "price": 19990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x11-ultra-price-in-pakistan-pakbyte_1.webp?v=1793270121",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x11-ultra-8k-carbon-fiber-wireless-gaming-mouse-purple",
+          "history": [
+            19990
+          ]
+        },
+        {
+          "id": "pakbyte_7d367771",
+          "name": "ATTACK SHARK R3 Magnesium Alloy Wireless Gaming Mouse - Silver",
+          "brand": "ATTACK",
+          "category": "mouse",
+          "price": 20490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-R3-Wireless-Gaming-Mouse-Silver-Price-in-Pakistan-Pakbyte.webp?v=1793258357",
+          "url": "https://www.pakbyte.pk/products/attack-shark-r3-magnesium-alloy-wireless-gaming-mouse-silver",
+          "history": [
+            20490
+          ]
+        },
+        {
+          "id": "pakbyte_9e519df2",
+          "name": "ATTACK SHARK R3 Magnesium Alloy Wireless Gaming Mouse - Purple",
+          "brand": "ATTACK",
+          "category": "mouse",
+          "price": 20490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AttackShark-R3-Wireless-Gaming-Mouse-Price-in-Pakistan-Pakbyte.webp?v=1793257895",
+          "url": "https://www.pakbyte.pk/products/attack-shark-r3-magnesium-alloy-wireless-gaming-mouse-purple",
+          "history": [
+            20490
+          ]
+        },
+        {
+          "id": "pakbyte_22dcd4e4",
+          "name": "Attack Shark R98 HE Rapid Trigger Magnetic Switch Keyboard - Ice Ninja",
+          "brand": "Attack",
+          "category": "keyboard",
+          "price": 16990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r98-he-white-price-in-pakistan-pakbyte.webp?v=1793256578",
+          "url": "https://www.pakbyte.pk/products/attack-shark-r98-he-rapid-trigger-magnetic-switch-keyboard-ice-ninja",
+          "history": [
+            16990
+          ]
+        },
+        {
+          "id": "pakbyte_8e780bb8",
+          "name": "Attack Shark R98 HE Rapid Trigger Magnetic Switch Keyboard - Neon Green",
+          "brand": "Attack",
+          "category": "keyboard",
+          "price": 16990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r98-he-price-in-pakistan-pakbyte.webp?v=1793256273",
+          "url": "https://www.pakbyte.pk/products/attack-shark-r98-he-rapid-trigger-magnetic-switch-keyboard-neon-green",
+          "history": [
+            16990
+          ]
+        },
+        {
+          "id": "pakbyte_4e368603",
+          "name": "Attack Shark K86 Wireless Mechanical Keyboard - Moonlight",
+          "brand": "Attack",
+          "category": "keyboard",
+          "price": 15490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-k86-price-in-pakistan-pakbyte_1.webp?v=1793255542",
+          "url": "https://www.pakbyte.pk/products/attack-shark-k86-wireless-mechanical-keyboard-moonlight",
+          "history": [
+            15490
+          ]
+        },
+        {
+          "id": "pakbyte_3afbd645",
+          "name": "ATTACK SHARK X85PRO Tri-mode Gasket Mechanical Keyboard - Cheese White",
+          "brand": "ATTACK",
+          "category": "keyboard",
+          "price": 13990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X85-Pro-Trimode-keyboard-Price-in-pakistan-Pakbyte.jpg?v=1793255270",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x85pro-tri-mode-gasket-mechanical-keyboard-cheese-white",
+          "history": [
+            13990
+          ]
+        },
+        {
+          "id": "pakbyte_2cc6bb19",
+          "name": "Attack Shark X85Pro Wireless Gaming Keyboard - Star Black",
+          "brand": "Attack",
+          "category": "keyboard",
+          "price": 13990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x85pro-gaming-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1793253678",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x85pro-wireless-gaming-keyboard-star-black",
+          "history": [
+            13990
+          ]
+        },
+        {
+          "id": "pakbyte_b39fb2e3",
+          "name": "Attack Shark X68 HE Wired Rapid Trigger Magnetic Gaming Keyboard – Rose Red",
+          "brand": "Attack",
+          "category": "keyboard",
+          "price": 11990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-X68-HE-Price-in-Pakistan-Pakbyte.webp?v=1793252793",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x68-he-wired-rapid-trigger-magnetic-gaming-keyboard-rose-red",
+          "history": [
+            11990
+          ]
+        },
+        {
+          "id": "pakbyte_ec1bf43c",
+          "name": "ATTACK SHARK X68 HE 60% Wired Gaming Keyboard Rapid Trigger – Black",
+          "brand": "ATTACK",
+          "category": "keyboard",
+          "price": 10990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-shark-X68He-Black-Price-in-Pakistan-Pakbyte.webp?v=1793252179",
+          "url": "https://www.pakbyte.pk/products/attack-shark-x68-he-60-wired-gaming-keyboard-rapid-trigger-black",
+          "history": [
+            10990
+          ]
+        },
         {
           "id": "pakbyte_1fe1fb92",
           "name": "Attack Shark X820 ULTRA Tri-Mode Wireless 75% Gasket-Mounted Mechanical Gaming Keyboard – ",
@@ -20,6 +185,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-X820-Ultra-keyboard-price-in-pakistan-pakbyte_1.webp?v=1793165485",
           "url": "https://www.pakbyte.pk/products/attack-shark-x820-ultra-tri-mode-wireless-75-gasket-mounted-mechanical-gaming-keyboard-dark-warrior",
           "history": [
+            17490,
             17490,
             17490,
             17490
@@ -39,6 +205,7 @@
           "history": [
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -54,6 +221,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r82-he-price-in-pakistan-pakbyte_1.webp?v=1793164780",
           "url": "https://www.pakbyte.pk/products/attack-shark-r82-he-rapid-trigger-wired-mechanical-gaming-keyboard-moonlight",
           "history": [
+            13490,
             13490,
             13490,
             13490
@@ -73,6 +241,7 @@
           "history": [
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -88,6 +257,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attackshark-R85HE-Keyboard-price-in-pakistan-pakbyte_1.webp?v=1793112050",
           "url": "https://www.pakbyte.pk/products/attack-shark-r85he-75-wired-rapid-trigger-magnetic-switch-gaming-keyboard-green",
           "history": [
+            14990,
             14990,
             14990,
             14990,
@@ -113,6 +283,7 @@
             14990,
             14990,
             14990,
+            14990,
             14990
           ]
         },
@@ -128,6 +299,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X87-Ultra-Keyboard-Ink-Shade-Price-in-Pakistan-Pakbyte_4.webp?v=1793096856",
           "url": "https://www.pakbyte.pk/products/attack-shark-x87-ultra-8k-mechanical-wireless-gaming-keyboard-ink-shade",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -155,6 +327,7 @@
             15990,
             15990,
             15990,
+            15990,
             15990
           ]
         },
@@ -170,6 +343,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X87-Ultra-8K-Mechanical-Wireless-Gaming-Keyboard-Shadow-Jade-Price-in-Pakistan-Pakbyte_1.webp?v=1793096099",
           "url": "https://www.pakbyte.pk/products/attack-shark-x87-ultra-8k-mechanical-wireless-gaming-keyboard-shadow-jade",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -197,6 +371,7 @@
             59990,
             59990,
             59990,
+            59990,
             59990
           ]
         },
@@ -212,6 +387,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-usb-c-docking-station-price-in-pakistan-pakbyte_1.webp?v=1793082999",
           "url": "https://www.pakbyte.pk/products/ugreen-85774-usb-c-docking-station-dual-monitor-9-in-1-aluminum-dock",
           "history": [
+            9990,
             9990,
             9990,
             9990,
@@ -239,6 +415,7 @@
             3490,
             3490,
             3490,
+            3490,
             3490
           ]
         },
@@ -254,6 +431,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-hdmi-kvm-switch-price-in-pakistan-pakbyte_1.webp?v=1793029664",
           "url": "https://www.pakbyte.pk/products/ugreen-75246-hdmi-kvm-switch-1-monitor-2-computers-4-usb-3-0-ports",
           "history": [
+            9990,
             9990,
             9990,
             9990,
@@ -7290,8 +7468,8 @@
           "name": "Attack Shark X8 Ultra Wireless Gaming Mouse - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 17490,
-          "oldPrice": null,
+          "price": 14490,
+          "oldPrice": 17490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-ultra-price-in-pakistan-pakbyte_5.webp?v=1784307263",
@@ -7308,7 +7486,7 @@
             17490,
             17490,
             17490,
-            17490
+            14490
           ]
         },
         {
@@ -7316,8 +7494,8 @@
           "name": "Attack Shark X8 Ultra Wireless Gaming Mouse - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 17490,
-          "oldPrice": null,
+          "price": 14490,
+          "oldPrice": 17490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x8-ultra-price-in-pakistan-pakbyte_1.webp?v=1784306954",
@@ -7334,7 +7512,7 @@
             17490,
             17490,
             17490,
-            17490
+            14490
           ]
         },
         {
@@ -7732,9 +7910,9 @@
           "name": "Attack Shark R1 Wireless Gaming Mouse - Red",
           "brand": "Attack",
           "category": "mouse",
-          "price": 5990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 5390,
+          "oldPrice": 5990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r1-price-in-pakistan-pakbyte_1.webp?v=1784298938",
           "url": "https://www.pakbyte.pk/products/attack-shark-r1-wireless-gaming-mouse-red",
@@ -7750,7 +7928,7 @@
             5990,
             5990,
             5990,
-            5990
+            5390
           ]
         },
         {
@@ -8252,8 +8430,8 @@
           "name": "Attack Shark X82 Pro HE Wireless Rapid Trigger RGB Mechanical Gaming Keyboard - White Comi",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 19990,
-          "oldPrice": null,
+          "price": 17490,
+          "oldPrice": 19990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x82-pro-he-keyboard-price-in-pakistan-pakbyte_1.webp?v=1784214804",
@@ -8270,7 +8448,7 @@
             19990,
             19990,
             19990,
-            19990
+            17490
           ]
         },
         {
@@ -8304,8 +8482,8 @@
           "name": "Attack Shark X68 PRO HE Wireless Keyboard Magnetic Switch – White Contour",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 19990,
-          "oldPrice": null,
+          "price": 16990,
+          "oldPrice": 19990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATTACK-SHARK-X68-PRO-HE-Wireless-Keyboard-Magnetic-Switch-White-Contour-Price-in-Pakistan-Pakbyte_1.webp?v=1784212066",
@@ -8322,7 +8500,7 @@
             19990,
             19990,
             19990,
-            19990
+            16990
           ]
         },
         {
@@ -8356,8 +8534,8 @@
           "name": "Attack Shark X68 PRO HE Wireless Rapid Trigger Gaming Keyboard - Black/Red Contour",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 20990,
-          "oldPrice": null,
+          "price": 16990,
+          "oldPrice": 20990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x68-pro-he-red-keyboard-price-in-pakistan-pakbyte_1.webp?v=1784211388",
@@ -8374,7 +8552,7 @@
             20990,
             20990,
             20990,
-            20990
+            16990
           ]
         },
         {
@@ -14607,7 +14785,7 @@
             269999,
             269999,
             269999,
-            269999,
+            329999,
             329999,
             329999,
             329999,
@@ -16375,7 +16553,7 @@
             10990,
             10990,
             10990,
-            10990,
+            9990,
             9990,
             9990,
             9990,
@@ -16424,7 +16602,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-70610-sata-to-usb-c-converter-cable-for-2-5-ssd-hdd",
           "history": [
             2490,
-            2490,
+            1490,
             1490,
             1490,
             1490,
@@ -16450,7 +16628,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-70609-sata-to-usb-3-0-adapter-cable-for-2-5-hdd-ssd-5gbps-uasp",
           "history": [
             1990,
-            1990,
+            1490,
             1490,
             1490,
             1490,
@@ -18663,7 +18841,7 @@
             22990,
             22990,
             22990,
-            22990,
+            16490,
             16490,
             16490,
             16490,
@@ -18689,7 +18867,7 @@
             22990,
             22990,
             22990,
-            22990,
+            14990,
             14990,
             14990,
             14990,
@@ -22019,7 +22197,7 @@
             6199,
             6199,
             6199,
-            6199,
+            7499,
             7499,
             7499,
             7499,
@@ -22916,9 +23094,9 @@
           "name": "Attack Shark X11 Lightweight Wireless Gaming Mouse with RGB Charging Dock - Red",
           "brand": "Attack",
           "category": "mouse",
-          "price": 6190,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 6490,
+          "oldPrice": 6190,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x11-wireless-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1772803005",
           "url": "https://www.pakbyte.pk/products/attack-shark-x11-lightweight-wireless-gaming-mouse-with-rgb-charging-dock-red",
@@ -22934,7 +23112,7 @@
             6190,
             6190,
             6190,
-            6190
+            6490
           ]
         },
         {
@@ -26723,7 +26901,7 @@
             770,
             770,
             770,
-            770,
+            1090,
             1090,
             1090,
             1090,
@@ -39252,7 +39430,7 @@
           "url": "https://www.pakbyte.pk/products/adata-16gb-1x16gb-5600mhz-desktop-memory",
           "history": [
             60490,
-            60490,
+            72999,
             72999,
             72999,
             72999,
@@ -39642,7 +39820,7 @@
           "url": "https://www.pakbyte.pk/products/adata-hd710-pro-2tb-external-hard-drive",
           "history": [
             27990,
-            27990,
+            29999,
             29999,
             29999,
             29999,
@@ -41232,6 +41410,7 @@
             14990,
             14990,
             14990,
+            14990,
             14990
           ]
         },
@@ -41820,7 +41999,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-70503-m-2-nvme-to-pci-express-3-0-x4-ssd-card-adapter",
           "history": [
             2299,
-            2299,
+            2290,
             2290,
             2290,
             2290,
@@ -41872,7 +42051,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-10902-m-2-nvme-ssd-enclosure-usb-type-c-thunderbolt",
           "history": [
             3199,
-            3199,
+            2790,
             2790,
             2790,
             2790,
@@ -43147,7 +43326,7 @@
           "history": [
             183999,
             183999,
-            183999,
+            189999,
             189999,
             189999,
             189999,
@@ -49536,7 +49715,7 @@
           "category": "psu",
           "price": 13490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-mag-a650bn-price-in-pakistan-pakbyte_2.webp?v=1759588171",
           "url": "https://www.pakbyte.pk/products/msi-mag-a650bn-80-plus-bronze-power-supply",
@@ -49646,7 +49825,7 @@
           "url": "https://www.pakbyte.pk/products/msi-geforce-rtx-5060-8g-ventus-2x-oc-graphics-card",
           "history": [
             122990,
-            122990,
+            162999,
             162999,
             162999,
             162999,
@@ -52402,8 +52581,8 @@
           "url": "https://www.pakbyte.pk/products/western-digital-wd-green-sn3000-500gb-gen-4-nvme",
           "history": [
             23499,
-            23499,
             29999,
+            23999,
             23999,
             23999,
             23999,
@@ -53494,7 +53673,7 @@
           "url": "https://www.pakbyte.pk/products/msi-rtx-3070-gaming-x-trio-8gb-graphic-card",
           "history": [
             96999,
-            96999,
+            104999,
             104999,
             104999,
             104999,
@@ -53735,7 +53914,7 @@
             20499,
             20499,
             20499,
-            20499,
+            13990,
             13990,
             13990,
             13990
@@ -53761,7 +53940,7 @@
             19499,
             19499,
             19499,
-            19499,
+            13990,
             13990,
             13990,
             13990
@@ -53798,9 +53977,9 @@
           "name": "Attack Shark K86 Wireless Mechanical Keyboard - Retro Grey",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 15499,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 13990,
+          "oldPrice": 15499,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-k86-wireless-keyboard-retro-grey-price-in-pakistan-pakbyte_1.png?v=1756107299",
           "url": "https://www.pakbyte.pk/products/attack-shark-k86-wireless-mechanical-keyboard-retro-grey",
@@ -53816,7 +53995,7 @@
             15499,
             15499,
             15499,
-            15499
+            13990
           ]
         },
         {
@@ -54058,9 +54237,9 @@
           "name": "Attack Shark X82 Pro HE Wireless Gaming Keyboard - White Contour",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 19890,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 16990,
+          "oldPrice": 19890,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x82-pro-he-keyboard-white-price-in-pakistan-pakbyte_1.webp?v=1756105142",
           "url": "https://www.pakbyte.pk/products/attack-shark-x82-pro-he-wireless-gaming-keyboard-white-contour",
@@ -54076,7 +54255,7 @@
             19890,
             19890,
             19890,
-            19890
+            16990
           ]
         },
         {
@@ -54084,8 +54263,8 @@
           "name": "Attack Shark X82 Pro HE Wireless Gaming Keyboard - Black Contour",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 18490,
-          "oldPrice": null,
+          "price": 16990,
+          "oldPrice": 18490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x82-pro-he-keyboard-black-price-in-pakistan-pakbyte_1.webp?v=1756105002",
@@ -54102,7 +54281,7 @@
             18490,
             18490,
             18490,
-            18490
+            16990
           ]
         },
         {
@@ -54214,9 +54393,9 @@
           "name": "Attack Shark X68 HE 60% Wired Gaming Keyboard - White Contours",
           "brand": "Attack",
           "category": "keyboard",
-          "price": 15390,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 11990,
+          "oldPrice": 15390,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x68-he-white-contours-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1756101177",
           "url": "https://www.pakbyte.pk/products/attack-shark-x68-he-60-wired-gaming-keyboard-white-contours",
@@ -54232,7 +54411,7 @@
             15390,
             15390,
             15390,
-            15390
+            11990
           ]
         },
         {
@@ -54318,8 +54497,8 @@
           "name": "Attack Shark G3 Pro Wireless Gaming Mouse with Charging Dock - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 8399,
-          "oldPrice": null,
+          "price": 6390,
+          "oldPrice": 8399,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-g3pro-white-mouse-price-in-pakistan-pakbyte_1.webp?v=1756100486",
@@ -54336,7 +54515,7 @@
             8399,
             8399,
             8399,
-            8399
+            6390
           ]
         },
         {
@@ -54344,9 +54523,9 @@
           "name": "Attack Shark G3 Pro Wireless Gaming Mouse with Charging Dock - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 7190,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 6390,
+          "oldPrice": 7190,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-g3pro-black-mouse-price-in-pakistan-pakbyte_1.webp?v=1756100352",
           "url": "https://www.pakbyte.pk/products/attack-shark-g3-pro-wireless-gaming-mouse-with-charging-dock-black",
@@ -54362,7 +54541,7 @@
             7190,
             7190,
             7190,
-            7190
+            6390
           ]
         },
         {
@@ -54370,8 +54549,8 @@
           "name": "Attack Shark X6 Wireless Gaming Mouse - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 11990,
-          "oldPrice": null,
+          "price": 10490,
+          "oldPrice": 11990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x6-white-gaming-mouse-price-in-pakistan-pakbyte_1.png?v=1756100234",
@@ -54388,7 +54567,7 @@
             11990,
             11990,
             11990,
-            11990
+            10490
           ]
         },
         {
@@ -54396,15 +54575,14 @@
           "name": "Attack Shark X3 Pro 4K/8K Wireless Gaming Mouse - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 12999,
-          "oldPrice": null,
+          "price": 12490,
+          "oldPrice": 12999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x3-pro-white-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1756099948",
           "url": "https://www.pakbyte.pk/products/attack-shark-x3-pro-4k-8k-wireless-gaming-mouse-white",
           "history": [
             12490,
-            12490,
             12999,
             12999,
             12999,
@@ -54414,7 +54592,8 @@
             12999,
             12999,
             12999,
-            12999
+            12999,
+            12490
           ]
         },
         {
@@ -54422,15 +54601,14 @@
           "name": "Attack Shark X3 Pro 4K/8K Wireless Gaming Mouse - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 12999,
-          "oldPrice": null,
+          "price": 12490,
+          "oldPrice": 12999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x3-pro-black-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1756099833",
           "url": "https://www.pakbyte.pk/products/attack-shark-x3-pro-4k-8k-wireless-gaming-mouse-black",
           "history": [
             12490,
-            12490,
             12999,
             12999,
             12999,
@@ -54440,7 +54618,8 @@
             12999,
             12999,
             12999,
-            12999
+            12999,
+            12490
           ]
         },
         {
@@ -63222,7 +63401,7 @@
             21990,
             21990,
             21990,
-            21990,
+            24999,
             24999,
             24999,
             24999,
@@ -64590,7 +64769,7 @@
           "category": "mouse",
           "price": 7490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-SE-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167567810627.jpg?v=1753670555",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-se-wireless-gaming-mouse-black",
@@ -65030,8 +65209,8 @@
           "name": "G.SKILL Trident Z5 RGB Series 32GB (2x16GB) DDR5 CL36 6000MHz Desktop Memory - Matte White",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 151990,
-          "oldPrice": null,
+          "price": 167999,
+          "oldPrice": 151990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-SKILL-Trident-Z5-RGB-Series-DDR5-RAM-32GB-2x16GB-6000MHz-Intel-XMP-3-0-Desktop-Computer-Memory-Matte-White-PakByte-Computers-26167509385283.jpg?v=1753670713",
@@ -65048,7 +65227,7 @@
             151990,
             151990,
             151990,
-            151990
+            167999
           ]
         },
         {
@@ -70167,7 +70346,7 @@
             209999,
             209999,
             209999,
-            209999,
+            234999,
             234999,
             234999,
             234999
@@ -70423,7 +70602,7 @@
             34990,
             34990,
             34990,
-            34990,
+            17990,
             17990,
             17990,
             17990,
@@ -70633,6 +70812,7 @@
             3490,
             3490,
             3490,
+            3490,
             3490
           ]
         },
@@ -70648,6 +70828,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Laptop-Sleeve-Case-Bag-Nubuck-Leather-and-Padded-Velvet-Foam-Interior-14-14-9-Gray-PakByte-Computers-25925891653699.jpg?v=1753671577",
           "url": "https://www.pakbyte.pk/products/ugreen-laptop-sleeve-case-bag-nubuck-leather-and-padded-velvet-foam-interior-14-14-9-gray",
           "history": [
+            3490,
             3490,
             3490,
             3490,
@@ -70675,6 +70856,7 @@
             2990,
             2990,
             2990,
+            2990,
             2990
           ]
         },
@@ -70690,6 +70872,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-Ergonomic-Mouse-Pad-with-Wrist-Rest-Black-PakByte-Computers-25925864816707.jpg?v=1753671589",
           "url": "https://www.pakbyte.pk/products/ugreen-ergonomic-mouse-pad-with-wrist-rest-black",
           "history": [
+            1240,
             1240,
             1240,
             1240,
@@ -80447,6 +80630,7 @@
             3890,
             3890,
             3890,
+            3890,
             3890
           ]
         },
@@ -80497,6 +80681,7 @@
             7490,
             7490,
             7490,
+            7490,
             7490
           ]
         },
@@ -80512,6 +80697,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-External-Hard-Drive-Enclosure-for-3-5-Inch-SATA-SSD-HDD-USB-3-0-to-SATA-III-Hard-Drive-Case-with-UASP-Power-Adapter-Compatible-PakByte-Computers-25764024483907.png?v=1753673643",
           "url": "https://www.pakbyte.pk/products/ugreen-external-hard-drive-enclosure-for-3-5-inch-sata-ssd-hdd-usb-3-0-to-sata-iii-hard-drive-case-with-uasp-power-adapter-compatible",
           "history": [
+            5490,
             5490,
             5490,
             5490,
@@ -80545,6 +80731,7 @@
             2290,
             2290,
             2290,
+            2290,
             2290
           ]
         },
@@ -80561,7 +80748,7 @@
           "url": "https://www.pakbyte.pk/products/ugreen-2-5-hard-drive-enclosure-usb-a-to-usb-c-usb-c-to-usb-c-to-sata-iii-6gbps-for-ssd-hdd-9-5-7mm-external-hard-drive-disk-case",
           "history": [
             2399,
-            2399,
+            3499,
             3499,
             3499,
             3499,
@@ -80612,6 +80799,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-4-Port-USB-3-0-Hub-5Gbps-High-Speed-Data-Transmission-with-USB-C-Power-Supply-for-PC-Laptop-Flash-Drive-Mobile-HDD-Windows-PakByte-Computers-25763831611459.jpg?v=1753673662",
           "url": "https://www.pakbyte.pk/products/ugreen-4-port-usb-3-0-hub-5gbps-high-speed-data-transmission-with-usb-c-power-supply-for-pc-laptop-flash-drive-mobile-hdd-windows",
           "history": [
+            1990,
             1990,
             1990,
             1990,
@@ -89596,8 +89784,8 @@
           "name": "Attack Shark X6 Wireless Gaming Mouse - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 11990,
-          "oldPrice": null,
+          "price": 10490,
+          "oldPrice": 11990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x6-black-gaming-mouse-price-in-pakistan-pakbyte_1.png?v=1756100084",
@@ -89614,7 +89802,7 @@
             11990,
             11990,
             11990,
-            11990
+            10490
           ]
         },
         {
@@ -89622,9 +89810,9 @@
           "name": "Attack Shark X11 Wireless Gaming Mouse - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 7190,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 6490,
+          "oldPrice": 6999,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATTACK-SHARK-X11-White-Wireless-Gaming-Mouse-with-Charging-Dock-PakByte-Computers-25560078319683.webp?v=1753675732",
           "url": "https://www.pakbyte.pk/products/attack-shark-x11-white-wireless-gaming-mouse-with-charging-dock",
@@ -89640,7 +89828,7 @@
             7190,
             7190,
             7190,
-            7190
+            6490
           ]
         },
         {
@@ -89648,9 +89836,9 @@
           "name": "Attack Shark X11 Wireless Gaming Mouse - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 7190,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 6490,
+          "oldPrice": 6999,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATTACK-SHARK-X11-Black-Wireless-Gaming-Mouse-PakByte-Computers-25526665019459.png?v=1753675743",
           "url": "https://www.pakbyte.pk/products/attack-shark-x11-black-wireless-gaming-mouse",
@@ -89666,7 +89854,7 @@
             7190,
             7190,
             7190,
-            7190
+            6490
           ]
         },
         {
@@ -89700,9 +89888,9 @@
           "name": "Attack Shark R1 Wireless Gaming Mouse - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 6999,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 5390,
+          "oldPrice": 6999,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r1-black-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1760007897",
           "url": "https://www.pakbyte.pk/products/attack-shark-r1-black",
@@ -89718,7 +89906,7 @@
             6999,
             6999,
             6999,
-            6999
+            5390
           ]
         },
         {
@@ -93212,7 +93400,7 @@
           "category": "cooler",
           "price": 2550,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Cooler-Master-Thermal-Pad-Pro-1-0mm-PakByte-Computers-25249699823683.png?v=1753676727",
           "url": "https://www.pakbyte.pk/products/cooler-master-thermal-pad-pro-1-0mm",
@@ -97294,7 +97482,7 @@
           "category": "psu",
           "price": 73800,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Rog-Strix-1200W-Gold-Aura-Edition-Fully-Modular-Power-Supply-PakByte-Computers-25010458296387.jpg?v=1753677358",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-1200w-gold-aura-edition-fully-modular-power-supply",
@@ -98912,7 +99100,7 @@
           "url": "https://www.pakbyte.pk/products/corsair-480t-airflow-mid-tower-atx-case-black",
           "history": [
             17000,
-            17000,
+            18499,
             18499,
             18499,
             18499,
@@ -99322,7 +99510,7 @@
           "category": "cooler",
           "price": 3000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Cooler-Master-1-0-mm-High-Performance-Thermal-Pad-TPX-NOPP-9010-R1-PakByte-Computers-24807274545219.jpg?v=1753677771",
           "url": "https://www.pakbyte.pk/products/cooler-master-thermal-pad-1-0-mm-high-performance-thermal-pad-conductivity-w-m-k-13-3m-nano-elements-rapid-cooling-double-sided-adhesive-for-electronics-and-devices-tpx-nopp-9010-r1",
@@ -150168,6 +150356,30 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_1023ef55",
+          "name": "MSI B860 Gaming Plus WiFi ATX LGA1851 DDR5 Gaming Motherboard",
+          "brand": "MSI",
+          "category": "ram",
+          "price": 64499,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_msi_b860_gaming_plus_wifi.webp",
+          "url": "https://rbtechngames.com/product/msi-b860-gaming-plus-wifi-atx-lga1851-ddr5-gaming-motherboard",
+          "history": [
+            64499,
+            64499,
+            64499,
+            64499,
+            64499,
+            64499,
+            64499,
+            64499,
+            64499,
+            64499
+          ]
+        },
+        {
           "id": "rbtechgames_02506853",
           "name": "Acer Predator Triton 300 SE (PT314-52S), Intel Core i7 12th Gen, 16GB RAM, 1TB SSD, RTX 30",
           "brand": "Intel",
@@ -150688,32 +150900,6 @@
           ]
         },
         {
-          "id": "rbtechgames_ccc3f439",
-          "name": "HP ZBook Firefly 14 G9, Intel Core i7-1255U, 16GB RAM, 512GB SSD, Nvidia T550 4GB GPU, 14&",
-          "brand": "Intel",
-          "category": "cpu",
-          "price": 159999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_hp_zbook_firefly_14_g9.webp",
-          "url": "https://rbtechngames.com/product/hp-zbook-firefly-14-g9-intel-core-i7-1255u-16gb-ram-512gb-ssd-nvidia-t550-4gb-gpu-14-fhd-ips-display-used",
-          "history": [
-            159999,
-            159999,
-            159999,
-            159999,
-            159999,
-            159999,
-            159999,
-            159999,
-            159999,
-            159999,
-            159999,
-            159999
-          ]
-        },
-        {
           "id": "rbtechgames_44ce2edf",
           "name": "Vzmore AX9 Max AI Mini PC &#8211; AMD Ryzen AI 9 HX 470 (32GB RAM/1TB SSD)",
           "brand": "AMD",
@@ -151228,6 +151414,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -151248,7 +151435,7 @@
             168999,
             168999,
             168999,
-            168999,
+            174999,
             174999,
             174999,
             174999,
@@ -151697,32 +151884,6 @@
             12499,
             12499,
             12499
-          ]
-        },
-        {
-          "id": "rbtechgames_01732d0a",
-          "name": "Aula Hero 68 HE (Wind Series) 65% Wired RGB Magnetic Gaming Keyboard &#8211; Black Frosted",
-          "brand": "Aula",
-          "category": "keyboard",
-          "price": 14499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_aula_hero_68_he_black_frosted.webp",
-          "url": "https://rbtechngames.com/product/aula-hero-68-he-wind-series-65-wired-rgb-magnetic-gaming-keyboard-black-frosted-jade-king-switches",
-          "history": [
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499,
-            14499
           ]
         },
         {
@@ -155512,7 +155673,7 @@
             154999,
             154999,
             154999,
-            154999,
+            164999,
             164999,
             164999,
             164999,
@@ -155691,7 +155852,7 @@
           "history": [
             16499,
             16499,
-            16499,
+            18499,
             18499,
             18499,
             18499,
@@ -156370,7 +156531,7 @@
             164999,
             164999,
             164999,
-            164999,
+            184999,
             184999,
             184999,
             184999,
@@ -156396,7 +156557,7 @@
             164999,
             164999,
             164999,
-            164999,
+            174999,
             174999,
             174999,
             174999,
@@ -156677,9 +156838,9 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
+            42499,
+            42499,
             26499,
-            42499,
-            42499,
             26499,
             26499,
             26499,
@@ -157329,10 +157490,10 @@
           "history": [
             114999,
             114999,
-            114999,
             124999,
             124999,
             124999,
+            144999,
             144999,
             144999,
             144999,
@@ -157511,7 +157672,7 @@
           "history": [
             72999,
             72999,
-            72999,
+            99999,
             99999,
             99999,
             99999,
@@ -159727,6 +159888,7 @@
             69999,
             69999,
             69999,
+            69999,
             69999
           ]
         },
@@ -159794,6 +159956,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/05/rbtech_samsung990pro2tb_1.webp",
           "url": "https://rbtechngames.com/product/samsung-990-pro-2tb-pcie-4-0-nvme-m-2-ssd",
           "history": [
+            115999,
             115999,
             115999,
             115999,
@@ -160394,7 +160557,7 @@
             32499,
             32499,
             32499,
-            32499,
+            34499,
             34499,
             34499,
             34499,
