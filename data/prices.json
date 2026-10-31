@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T04:17:26.700289+00:00",
+  "lastUpdated": "2026-10-31T11:44:42.103761+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,171 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_569df8b5",
+          "name": "E-YOOSO Z-79 Pro Tri-Mode RGB Mechanical Keyboard – Gradient Black/Red - Manbo Switch",
+          "brand": "E-YOOSO",
+          "category": "keyboard",
+          "price": 15670,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-z-79-pro-tri-mode-rgb-keyboard-black-red-manbo-price-in-pakistan-pakbyte.webp?v=1793428709",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z-79-pro-tri-mode-rgb-mechanical-keyboard-gradient-black-red-manbo-switch",
+          "history": [
+            15670
+          ]
+        },
+        {
+          "id": "pakbyte_e38757a5",
+          "name": "E-YOOSO Z-99 Ultra Tri-Mode RGB Mechanical Keyboard – Transparent Purple - Silver Switch",
+          "brand": "E-YOOSO",
+          "category": "keyboard",
+          "price": 10790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-z-99-ultra-transparent-purple-silver-switch-tri-mode-rgb-keyboard-price-in-pakistan-pakbyte_1.webp?v=1793428071",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z-99-ultra-tri-mode-rgb-mechanical-keyboard-transparent-purple-silver-switch",
+          "history": [
+            10790
+          ]
+        },
+        {
+          "id": "pakbyte_7c4881df",
+          "name": "E-YOOSO Z-99  99-Keys Mechanical Keyboard – Dark Grey/Light Grey/Green - Monochrome Blue S",
+          "brand": "E-YOOSO",
+          "category": "keyboard",
+          "price": 7380,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-yooso-Z-99-Keyboard-Price-in-Pakistan-Pakbyte.jpg?v=1793427764",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z-99-99-keys-mechanical-keyboard-dark-grey-light-grey-green-monochrome-blue-switch",
+          "history": [
+            7380
+          ]
+        },
+        {
+          "id": "pakbyte_9e98f484",
+          "name": "E-Yooso HZ-82 Hall Effect Magnetic Switch Rapid Trigger Gaming Keyboard - Gradient Gray",
+          "brand": "E-Yooso",
+          "category": "monitor",
+          "price": 9340,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-hz82-price-in-pakistan-pakbyte_1.webp?v=1793427207",
+          "url": "https://www.pakbyte.pk/products/e-yooso-hz-82-hall-effect-magnetic-switch-rapid-trigger-gaming-keyboard-gradient-gray",
+          "history": [
+            9340
+          ]
+        },
+        {
+          "id": "pakbyte_0df46550",
+          "name": "E-YOOSO Z-94 Wired Rainbow Mechanical Keyboard – Blue/Black - Blue Switch",
+          "brand": "E-YOOSO",
+          "category": "keyboard",
+          "price": 5780,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-z-94-blue-black-blue-switch-rainbow-wired-mechanical-keyboard-price-in-pakistan-pakbyte.webp?v=1793426503",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z-94-wired-rainbow-mechanical-keyboard-blue-black-blue-switch",
+          "history": [
+            5780
+          ]
+        },
+        {
+          "id": "pakbyte_b5fcf185",
+          "name": "E-Yooso Z-87 Wired Mechanical Keyboard - Black/Grey - Brown Switch",
+          "brand": "E-Yooso",
+          "category": "keyboard",
+          "price": 5750,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-Yooso-Z-87-Black-Grey-Mechanical-Gaming-Keyboard-Price-in-Pakistan-pakbyte_1.webp?v=1793426034",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z-87-wired-mechanical-keyboard-black-grey-brown-switch",
+          "history": [
+            5750
+          ]
+        },
+        {
+          "id": "pakbyte_5ef43212",
+          "name": "E-Yooso Z19 94 Keys, USB Type-C Wired, Mechanical Keyboard - White/Blue, Red Switches",
+          "brand": "E-Yooso",
+          "category": "keyboard",
+          "price": 6990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Eyooso-White-green-monochrome-keyboard-price-in-pakistan-pakbyte.jpg?v=1793425157",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z19-94-keys-usb-type-c-wired-mechanical-keyboard-white-blue-red-switches",
+          "history": [
+            6990
+          ]
+        },
+        {
+          "id": "pakbyte_a26455b3",
+          "name": "E-YOOSO Z-13 Monochrome 89-Keys Mechanical Keyboard – White/Green - Blue Switch",
+          "brand": "E-YOOSO",
+          "category": "keyboard",
+          "price": 6660,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Eyooso-White-green-monochrome-backligt-keyboard-price-in-pakistan-pakbyte_c1757a45-cc38-4679-81a3-eb2acc732a3c.jpg?v=1793424863",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z-13-monochrome-89-keys-mechanical-keyboard-white-green-blue-switch",
+          "history": [
+            6660
+          ]
+        },
+        {
+          "id": "pakbyte_61708382",
+          "name": "E-YOOSO Z-13 Monochrome 89-Keys Mechanical Keyboard – White/Green - Red Switch",
+          "brand": "E-YOOSO",
+          "category": "keyboard",
+          "price": 6660,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Eyooso-White-green-monochrome-backligt-keyboard-price-in-pakistan-pakbyte.jpg?v=1793424706",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z-13-monochrome-89-keys-mechanical-keyboard-white-green-red-switch",
+          "history": [
+            6660
+          ]
+        },
+        {
+          "id": "pakbyte_f5036edf",
+          "name": "E-Yooso Z-686 68 Keys Hot-Swappable Wired Mechanical Keyboard - Grey/White - Red Switch",
+          "brand": "E-Yooso",
+          "category": "keyboard",
+          "price": 5990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-Yooso-Z686-monochrome-backlight-keyboard-price-in-pakistan-pakbyte_1.webp?v=1793424138",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z-686-68-keys-hot-swappable-wired-mechanical-keyboard-grey-white-red-switch",
+          "history": [
+            5990
+          ]
+        },
+        {
+          "id": "pakbyte_b5730621",
+          "name": "E-Yooso Z686 68 Keys USB Type-C Wired Mechanical Keyboard -  Black/Grey - Brown Switches",
+          "brand": "E-Yooso",
+          "category": "keyboard",
+          "price": 5990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-z686-price-in-pakistan-pakbyte_d09da4a1-d24b-4399-aa73-530c24141fd3.webp?v=1793422802",
+          "url": "https://www.pakbyte.pk/products/e-yooso-z686-68-keys-usb-type-c-wired-mechanical-keyboard-black-grey-brown-switches",
+          "history": [
+            5990
+          ]
+        },
         {
           "id": "pakbyte_62d36900",
           "name": "XPG Pylon II 650W Bronze Power Supply",
@@ -20,6 +185,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/xpg-pylon-ii-650w-price-in-pakistan-pakbyte1.webp?v=1793370145",
           "url": "https://www.pakbyte.pk/products/xpg-pylon-ii-650w-bronze-power-supply",
           "history": [
+            15399,
             15399,
             15399
           ]
@@ -36,6 +202,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-vxe-dragonfly-x3-turbo-price-in-pakistan-pakbyte_1.jpg?v=1793288534",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-x3-turbo-wireless-gaming-mouse-white",
           "history": [
+            12490,
             12490,
             12490,
             12490,
@@ -59,6 +226,7 @@
             12490,
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -74,6 +242,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-vxe-dragonfly-x3-pro-price-in-pakistan-pakbyte.webp?v=1793285892",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-x3-pro-wireless-gaming-mouse-metallic-silver",
           "history": [
+            10990,
             10990,
             10990,
             10990,
@@ -97,6 +266,7 @@
             10990,
             10990,
             10990,
+            10990,
             10990
           ]
         },
@@ -112,6 +282,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attackshark-cm03-mousepad-price-in-pakistan-pakbyte_3.webp?v=1793282083",
           "url": "https://www.pakbyte.pk/products/attack-shark-cm03-esport-gaming-mouse-pad-grey",
           "history": [
+            4490,
             4490,
             4490,
             4490,
@@ -135,6 +306,7 @@
             4490,
             4490,
             4490,
+            4490,
             4490
           ]
         },
@@ -150,6 +322,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attackshark-cm02-mousepad-price-in-pakistan-pakbyte_1.webp?v=1793281535",
           "url": "https://www.pakbyte.pk/products/attack-shark-cm02-gaming-mouse-pad-black",
           "history": [
+            2490,
             2490,
             2490,
             2490,
@@ -173,6 +346,7 @@
             10990,
             10990,
             10990,
+            10990,
             10990
           ]
         },
@@ -188,6 +362,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-shark-L50-Price-in-Pakistan-Pakbyte_1.webp?v=1793280690",
           "url": "https://www.pakbyte.pk/products/attack-shark-l50-pro-wireless-gaming-headset-black",
           "history": [
+            10990,
             10990,
             10990,
             10990,
@@ -211,6 +386,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -230,6 +406,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -245,6 +422,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x11-ultra-price-in-pakistan-pakbyte_8.webp?v=1793270603",
           "url": "https://www.pakbyte.pk/products/attack-shark-x11-ultra-8k-carbon-fiber-wireless-gaming-mouse-red",
           "history": [
+            19990,
             19990,
             19990,
             19990,
@@ -270,6 +448,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -285,6 +464,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-R3-Wireless-Gaming-Mouse-Silver-Price-in-Pakistan-Pakbyte.webp?v=1793258357",
           "url": "https://www.pakbyte.pk/products/attack-shark-r3-magnesium-alloy-wireless-gaming-mouse-silver",
           "history": [
+            20490,
             20490,
             20490,
             20490,
@@ -310,6 +490,7 @@
             20490,
             20490,
             20490,
+            20490,
             20490
           ]
         },
@@ -325,6 +506,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r98-he-white-price-in-pakistan-pakbyte.webp?v=1793256578",
           "url": "https://www.pakbyte.pk/products/attack-shark-r98-he-rapid-trigger-magnetic-switch-keyboard-ice-ninja",
           "history": [
+            16990,
             16990,
             16990,
             16990,
@@ -350,6 +532,7 @@
             16990,
             16990,
             16990,
+            16990,
             16990
           ]
         },
@@ -365,6 +548,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-k86-price-in-pakistan-pakbyte_1.webp?v=1793255542",
           "url": "https://www.pakbyte.pk/products/attack-shark-k86-wireless-mechanical-keyboard-moonlight",
           "history": [
+            15490,
             15490,
             15490,
             15490,
@@ -390,6 +574,7 @@
             13990,
             13990,
             13990,
+            13990,
             13990
           ]
         },
@@ -405,6 +590,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x85pro-gaming-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1793253678",
           "url": "https://www.pakbyte.pk/products/attack-shark-x85pro-wireless-gaming-keyboard-star-black",
           "history": [
+            13990,
             13990,
             13990,
             13990,
@@ -430,6 +616,7 @@
             11990,
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -450,6 +637,7 @@
             10990,
             10990,
             10990,
+            10990,
             10990
           ]
         },
@@ -465,6 +653,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-X820-Ultra-keyboard-price-in-pakistan-pakbyte_1.webp?v=1793165485",
           "url": "https://www.pakbyte.pk/products/attack-shark-x820-ultra-tri-mode-wireless-75-gasket-mounted-mechanical-gaming-keyboard-dark-warrior",
           "history": [
+            17490,
             17490,
             17490,
             17490,
@@ -496,6 +685,7 @@
             11990,
             11990,
             11990,
+            11990,
             11990
           ]
         },
@@ -519,6 +709,7 @@
             13490,
             13490,
             13490,
+            13490,
             13490
           ]
         },
@@ -534,6 +725,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r82-he-white-price-in-pakistan-pakbyte_1_237e00b2-01ce-49a0-b40b-d6fa19e9dda6.webp?v=1793164277",
           "url": "https://www.pakbyte.pk/products/attack-shark-r82-he-rapid-trigger-wired-mechanical-gaming-keyboard-white-contour",
           "history": [
+            11990,
             11990,
             11990,
             11990,
@@ -1902,8 +2094,8 @@
           "name": "HyperX Cloud III S Wireless Gaming Headset - Black/Red",
           "brand": "HyperX",
           "category": "headset",
-          "price": 35990,
-          "oldPrice": null,
+          "price": 29999,
+          "oldPrice": 35990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hyperx-cloud-iii-s-price-in-pakistan-pakbyte_1.webp?v=1792042353",
@@ -1920,7 +2112,7 @@
             35990,
             35990,
             35990,
-            35990
+            29999
           ]
         },
         {
@@ -6428,7 +6620,7 @@
           "category": "headset",
           "price": 4690,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/hoco-w35-max-price-in-pakistan-pakbyte.webp?v=1784822611",
           "url": "https://www.pakbyte.pk/products/hoco-w35-max-auspicious-anc-noise-reduction-bt-headphones-silver",
@@ -7816,7 +8008,7 @@
             17490,
             17490,
             17490,
-            17490,
+            14490,
             14490,
             14490,
             14490,
@@ -7842,7 +8034,7 @@
             17490,
             17490,
             17490,
-            17490,
+            14490,
             14490,
             14490,
             14490,
@@ -8077,7 +8269,7 @@
             10490,
             10490,
             10490,
-            10490,
+            10990,
             10990,
             10990,
             10990,
@@ -8103,7 +8295,7 @@
             11990,
             11990,
             11990,
-            11990,
+            10990,
             10990,
             10990,
             10990,
@@ -8258,7 +8450,7 @@
             5990,
             5990,
             5990,
-            5990,
+            5390,
             5390,
             5390,
             5390,
@@ -8778,7 +8970,7 @@
             19990,
             19990,
             19990,
-            19990,
+            17490,
             17490,
             17490,
             17490,
@@ -8830,7 +9022,7 @@
             19990,
             19990,
             19990,
-            19990,
+            16990,
             16990,
             16990,
             16990,
@@ -8882,7 +9074,7 @@
             20990,
             20990,
             20990,
-            20990,
+            16990,
             16990,
             16990,
             16990,
@@ -12003,7 +12195,7 @@
             49999,
             49999,
             49999,
-            49999,
+            48990,
             48990,
             48990,
             48990,
@@ -12497,7 +12689,7 @@
             27790,
             27790,
             27790,
-            27790,
+            28490,
             28490,
             28490,
             28490,
@@ -14564,8 +14756,8 @@
           "name": "E-Yooso Z82 Tri-Mode Wireless Gaming Keyboard - White/Grey/Black",
           "brand": "E-Yooso",
           "category": "keyboard",
-          "price": 10740,
-          "oldPrice": null,
+          "price": 9980,
+          "oldPrice": 10740,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-yooso-Z-82-Grey-Price-in-Pakistan-Pakbyte.jpg?v=1778919401",
@@ -14582,33 +14774,22 @@
             10740,
             10740,
             10740,
-            10740
+            9980
           ]
         },
         {
-          "id": "pakbyte_9c03c160",
-          "name": "E-Yooso Z82 Tri-Mode Wireless Gaming Keyboard - White",
+          "id": "pakbyte_54e20570",
+          "name": "E-Yooso Z82 Tri-Mode Wireless Gaming Keyboard - White - Silverwood Switches",
           "brand": "E-Yooso",
           "category": "keyboard",
-          "price": 10940,
+          "price": 9870,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-yooso-Z-82-White-Price-in-Pakistan-Pakbyte.jpg?v=1778917549",
           "url": "https://www.pakbyte.pk/products/e-yooso-z82-tri-mode-wireless-gaming-keyboard-white",
           "history": [
-            10940,
-            10940,
-            10940,
-            10940,
-            10940,
-            10940,
-            10940,
-            10940,
-            10940,
-            10940,
-            10940,
-            10940
+            9870
           ]
         },
         {
@@ -14618,7 +14799,7 @@
           "category": "keyboard",
           "price": 8940,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-yooso-Z82-Price-in-Pakistan-Pakbyte.jpg?v=1778916423",
           "url": "https://www.pakbyte.pk/products/e-yooso-z-82-75-wired-mechanical-gaming-keyboard-white-red-black",
@@ -14638,29 +14819,18 @@
           ]
         },
         {
-          "id": "pakbyte_00565c95",
-          "name": "E-Yooso Z-99 RGB 99-Keys Silverwood Switch Wireless Mechanical Keyboard - White/Purple/Blu",
+          "id": "pakbyte_9fcf7ebd",
+          "name": "E-Yooso Z-99 RGB 99-Keys Wireless Mechanical Keyboard - White/Purple/Blue - Silverwood Swi",
           "brand": "E-Yooso",
           "category": "keyboard",
-          "price": 11190,
+          "price": 10670,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-yooso-Z-99-RGB-keyboard-price-in-pakistan-pakbyte.jpg?v=1778864501",
           "url": "https://www.pakbyte.pk/products/e-yooso-z-99-rgb-99-keys-silverwood-switch-wireless-mechanical-keyboard-white-purple-blue",
           "history": [
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190,
-            11190
+            10670
           ]
         },
         {
@@ -14690,29 +14860,18 @@
           ]
         },
         {
-          "id": "pakbyte_0553d3ca",
-          "name": "E-Yooso Z99 Wireless Tri-Mode Bluetooth Mechanical Keyboard - Gradient Grey",
+          "id": "pakbyte_ff66675d",
+          "name": "E-Yooso Z99 Wireless Tri-Mode Bluetooth Mechanical Keyboard - Gradient Grey - Silverwood S",
           "brand": "E-Yooso",
           "category": "keyboard",
-          "price": 11690,
+          "price": 10540,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-z99-price-in-pakistan-pakbyte_1.webp?v=1778863713",
           "url": "https://www.pakbyte.pk/products/e-yooso-z99-wireless-tri-mode-bluetooth-mechanical-keyboard-gradient-grey",
           "history": [
-            11690,
-            11690,
-            11690,
-            11690,
-            11690,
-            11690,
-            11690,
-            11690,
-            11690,
-            11690,
-            11690,
-            11690
+            10540
           ]
         },
         {
@@ -14746,8 +14905,8 @@
           "name": "E-Yooso HZ68 Rapid Trigger Mechanical Keyboard with Hall Effect, Magnetic Switch - Gradien",
           "brand": "E-Yooso",
           "category": "monitor",
-          "price": 9490,
-          "oldPrice": null,
+          "price": 8140,
+          "oldPrice": 9490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-hz68-price-in-pakistan-pakbyte_5.webp?v=1778861735",
@@ -14764,7 +14923,7 @@
             9490,
             9490,
             9490,
-            9490
+            8140
           ]
         },
         {
@@ -14772,8 +14931,8 @@
           "name": "E-Yooso HZ68 Rapid Trigger Mechanical Keyboard with Hall Effect, Magnetic Switch - White",
           "brand": "E-Yooso",
           "category": "monitor",
-          "price": 8990,
-          "oldPrice": null,
+          "price": 8140,
+          "oldPrice": 8990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-hz68-price-in-pakistan-pakbyte_1.webp?v=1778861478",
@@ -14790,7 +14949,7 @@
             8990,
             8990,
             8990,
-            8990
+            8140
           ]
         },
         {
@@ -14872,55 +15031,33 @@
           ]
         },
         {
-          "id": "pakbyte_460665e1",
-          "name": "E-Yooso Z68 TRI-Mode Silverwood Switch Wireless Mechanical Keyboard - Grey",
+          "id": "pakbyte_6ccbf5aa",
+          "name": "E-Yooso Z68 Tri-Mode Wireless Mechanical Keyboard - Gradient Grey - Silverwood Switch",
           "brand": "E-Yooso",
           "category": "keyboard",
-          "price": 10140,
+          "price": 9290,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-yooso-Z68-price-in-pakistan-pakbyte.jpg?v=1778859310",
           "url": "https://www.pakbyte.pk/products/e-yooso-z68-tri-mode-silverwood-switch-wireless-mechanical-keyboard-grey",
           "history": [
-            10140,
-            10140,
-            10140,
-            10140,
-            10140,
-            10140,
-            10140,
-            10140,
-            10140,
-            10140,
-            10140,
-            10140
+            9290
           ]
         },
         {
-          "id": "pakbyte_0938aeaf",
-          "name": "E-Yooso Z686 Tri-Mode Wireless (BT/2.4G/USB) Type-C Wired, Mechanical Keyboard - White, Bl",
+          "id": "pakbyte_ee16d324",
+          "name": "E-Yooso Z686 Tri-Mode Wireless (BT/2.4G/USB) Type-C Wired, Mechanical Keyboard - White - B",
           "brand": "E-Yooso",
           "category": "keyboard",
-          "price": 7940,
+          "price": 5990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-z686-price-in-pakistan-pakbyte_1.webp?v=1778858169",
           "url": "https://www.pakbyte.pk/products/e-yooso-z686-tri-mode-wireless-bt-2-4g-usb-type-c-wired-mechanical-keyboard-white-blue-switch",
           "history": [
-            7940,
-            7940,
-            7940,
-            7940,
-            7940,
-            7940,
-            7940,
-            7940,
-            7940,
-            7940,
-            7940,
-            7940
+            5990
           ]
         },
         {
@@ -14976,29 +15113,18 @@
           ]
         },
         {
-          "id": "pakbyte_874af7f0",
-          "name": "E-Yooso Z11 USB 60% Mini Mechanical Gaming Wired Keyboard - White Grey, Brown Switch",
+          "id": "pakbyte_dfe65d32",
+          "name": "E-Yooso Z11 USB 60% Mini Mechanical Gaming Wired Keyboard - White Grey - Brown Switch",
           "brand": "E-Yooso",
           "category": "keyboard",
-          "price": 6140,
+          "price": 5540,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-z11-white-grey-price-in-pakistan-pakbyte.webp?v=1778854839",
           "url": "https://www.pakbyte.pk/products/e-yooso-z11-usb-60-mini-mechanical-gaming-wired-keyboard-white-grey-brown-switch",
           "history": [
-            6140,
-            6140,
-            6140,
-            6140,
-            6140,
-            6140,
-            6140,
-            6140,
-            6140,
-            6140,
-            6140,
-            6140
+            5540
           ]
         },
         {
@@ -19465,7 +19591,7 @@
             31990,
             31990,
             31990,
-            31990,
+            28490,
             28490,
             28490,
             28490,
@@ -19491,7 +19617,7 @@
             31790,
             31790,
             31790,
-            31790,
+            33490,
             33490,
             33490,
             33490,
@@ -22527,7 +22653,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Hikvision-E1000-price-in-pakistan-pakbyte.webp?v=1773240473",
           "url": "https://www.pakbyte.pk/products/hikvision-e1000-128gb-m-2-pcle-nvme-ssd",
           "history": [
-            6199,
+            7499,
             7499,
             7499,
             7499,
@@ -23442,7 +23568,7 @@
             6190,
             6190,
             6190,
-            6190,
+            6490,
             6490,
             6490,
             6490,
@@ -41684,7 +41810,7 @@
           "category": "keyboard",
           "price": 27890,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Attack-Shark-X75-Aluminum-CNC-Wireless-Gaming-Keyboard-Cheese-White-Price-in-Pakistan-Pakbyte_1.jpg?v=1764770050",
           "url": "https://www.pakbyte.pk/products/attack-shark-x75-aluminum-cnc-wireless-gaming-keyboard-cheese-white",
@@ -42191,7 +42317,7 @@
             119900,
             119900,
             119900,
-            119900,
+            374990,
             374990,
             374990,
             374990
@@ -45127,7 +45253,7 @@
             37399,
             37399,
             37399,
-            37399,
+            31990,
             31990,
             31990,
             31990,
@@ -49573,7 +49699,7 @@
             17890,
             17890,
             17890,
-            17890,
+            17990,
             17990,
             17990,
             17990,
@@ -49625,7 +49751,7 @@
             17890,
             17890,
             17890,
-            17890,
+            17990,
             17990,
             17990,
             17990,
@@ -54223,7 +54349,7 @@
           "history": [
             20499,
             20499,
-            20499,
+            13990,
             13990,
             13990,
             13990,
@@ -54249,7 +54375,7 @@
           "history": [
             19499,
             19499,
-            19499,
+            13990,
             13990,
             13990,
             13990,
@@ -54304,7 +54430,7 @@
             15499,
             15499,
             15499,
-            15499,
+            13990,
             13990,
             13990,
             13990,
@@ -54564,7 +54690,7 @@
             19890,
             19890,
             19890,
-            19890,
+            16990,
             16990,
             16990,
             16990,
@@ -54590,7 +54716,7 @@
             18490,
             18490,
             18490,
-            18490,
+            16990,
             16990,
             16990,
             16990,
@@ -54720,7 +54846,7 @@
             15390,
             15390,
             15390,
-            15390,
+            11990,
             11990,
             11990,
             11990,
@@ -54824,7 +54950,7 @@
             8399,
             8399,
             8399,
-            8399,
+            6390,
             6390,
             6390,
             6390,
@@ -54850,7 +54976,7 @@
             7190,
             7190,
             7190,
-            7190,
+            6390,
             6390,
             6390,
             6390,
@@ -54876,7 +55002,7 @@
             11990,
             11990,
             11990,
-            11990,
+            10490,
             10490,
             10490,
             10490,
@@ -54902,7 +55028,7 @@
             12999,
             12999,
             12999,
-            12999,
+            12490,
             12490,
             12490,
             12490,
@@ -54928,7 +55054,7 @@
             12999,
             12999,
             12999,
-            12999,
+            12490,
             12490,
             12490,
             12490,
@@ -58467,7 +58593,7 @@
             314990,
             314990,
             314990,
-            314990,
+            424999,
             424999,
             424999,
             424999
@@ -62342,7 +62468,7 @@
             54799,
             54799,
             54799,
-            54799,
+            59999,
             59999,
             59999
           ]
@@ -65562,7 +65688,7 @@
             151990,
             151990,
             151990,
-            151990,
+            167999,
             167999,
             167999,
             167999,
@@ -70681,7 +70807,7 @@
           "history": [
             209999,
             209999,
-            209999,
+            234999,
             234999,
             234999,
             234999,
@@ -76460,7 +76586,7 @@
             1499,
             1499,
             1499,
-            1499,
+            1999,
             1999,
             1999
           ]
@@ -83844,7 +83970,7 @@
             1490,
             1490,
             1490,
-            1490,
+            1999,
             1999,
             1999
           ]
@@ -90158,7 +90284,7 @@
             11990,
             11990,
             11990,
-            11990,
+            10490,
             10490,
             10490,
             10490,
@@ -90184,7 +90310,7 @@
             7190,
             7190,
             7190,
-            7190,
+            6490,
             6490,
             6490,
             6490,
@@ -90210,7 +90336,7 @@
             7190,
             7190,
             7190,
-            7190,
+            6490,
             6490,
             6490,
             6490,
@@ -90262,7 +90388,7 @@
             6999,
             6999,
             6999,
-            6999,
+            5390,
             5390,
             5390,
             5390,
@@ -131866,7 +131992,7 @@
             13790,
             13790,
             13790,
-            13790,
+            14399,
             14399,
             14399
           ]
@@ -134699,7 +134825,7 @@
             38999,
             38999,
             38999,
-            38999,
+            46999,
             46999,
             46999,
             46999
@@ -150718,25 +150844,6 @@
       "verified": true,
       "products": [
         {
-          "id": "rbtechgames_89831ddf",
-          "name": "Acer Predator Helios Neo 16S AI (PHN16-71-917K), Intel Core 9 275HX, 16GB RAM, 1TB SSD, RT",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 634999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
-          "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16s-ai-phn16-71-917k-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5070-16-qhd-240hz-oled-display-abyssal-black-new",
-          "history": [
-            574999,
-            574999,
-            634999,
-            634999,
-            634999
-          ]
-        },
-        {
           "id": "rbtechgames_2f466ab7",
           "name": "HP Victus 16 (R0073TX), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, RTX 4050, 16.1&#8243;",
           "brand": "Intel",
@@ -150748,6 +150855,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_hp_victus_16_mica_silver.jpeg",
           "url": "https://rbtechngames.com/product/hp-victus-16-r0073tx-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-16-1-fhd-144hz-ips-display-mica-silver-used",
           "history": [
+            229999,
             229999,
             229999,
             229999,
@@ -150771,6 +150879,7 @@
             269999,
             269999,
             269999,
+            269999,
             269999
           ]
         },
@@ -150786,6 +150895,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-021916.png",
           "url": "https://rbtechngames.com/product/lenovo-ideapad-slim-3-gen-10-15ahp10-amd-ryzen-5-8640hs-8gb-ram-256gb-ssd-15-1-qhd-165hz-oled-display-luna-grey-new",
           "history": [
+            239999,
             239999,
             239999,
             239999,
@@ -150809,6 +150919,7 @@
             124999,
             124999,
             124999,
+            124999,
             124999
           ]
         },
@@ -150828,6 +150939,7 @@
             147999,
             147999,
             147999,
+            147999,
             147999
           ]
         },
@@ -150843,6 +150955,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_elitebook_840_g9_pike_silver.png",
           "url": "https://rbtechngames.com/product/hp-elitebook-840-g9-intel-i5-1240p-16gb-ram-512gb-ssd-14-fhd-ips-display-pike-silver-used",
           "history": [
+            144999,
             144999,
             144999,
             144999,
@@ -150900,32 +151013,6 @@
             259999,
             259999,
             259999
-          ]
-        },
-        {
-          "id": "rbtechgames_7a6c650c",
-          "name": "Lenovo Legion Pro 5 (16IAX10), Intel Core Ultra 7 255HX, 16GB RAM, 1TB SSD, RTX 5070, 16&#",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 639999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/10/691630_817569_01_front_zoom.jpg",
-          "url": "https://rbtechngames.com/product/lenovo-legion-pro-5-16iax10-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-rtx-5070-16-qhd-165hz-oled-display-eclipse-black-new",
-          "history": [
-            639999,
-            639999,
-            639999,
-            639999,
-            639999,
-            639999,
-            639999,
-            639999,
-            639999,
-            639999,
-            639999,
-            639999
           ]
         },
         {
@@ -151004,6 +151091,32 @@
             479999,
             479999,
             479999
+          ]
+        },
+        {
+          "id": "rbtechgames_2b966381",
+          "name": "HP Omen 16 (B1072NF), Intel Core i7 12th Gen, 16GB RAM, 512GB SSD, RTX 3070 Ti, 16.1&#8243",
+          "brand": "Intel",
+          "category": "gpu",
+          "price": 289999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_omen_16_wf0032tx_shadow_black.webp",
+          "url": "https://rbtechngames.com/product/hp-omen-16-b1072nf-intel-core-i7-12th-gen-16gb-ram-512gb-ssd-rtx-3070-ti-16-1-qhd-165hz-ips-display-shadow-black-used",
+          "history": [
+            289999,
+            289999,
+            289999,
+            289999,
+            289999,
+            289999,
+            289999,
+            289999,
+            289999,
+            289999,
+            289999,
+            289999
           ]
         },
         {
@@ -151156,7 +151269,7 @@
             104999,
             104999,
             104999,
-            104999,
+            97999,
             97999,
             97999,
             97999
@@ -153548,8 +153661,8 @@
             279999,
             279999,
             279999,
-            279999,
             284999,
+            294999,
             294999,
             294999
           ]
@@ -153783,7 +153896,7 @@
             74999,
             74999,
             74999,
-            74999,
+            84999,
             84999,
             84999
           ]
@@ -153808,7 +153921,7 @@
             254999,
             254999,
             254999,
-            254999,
+            259999,
             259999,
             259999,
             259999
@@ -154432,7 +154545,7 @@
             39499,
             39499,
             39499,
-            39499,
+            38499,
             38499,
             38499,
             38499
@@ -154536,7 +154649,7 @@
             159999,
             159999,
             159999,
-            159999,
+            174999,
             174999,
             174999,
             174999
@@ -154562,7 +154675,7 @@
             499999,
             499999,
             499999,
-            499999,
+            564999,
             564999,
             564999,
             564999
@@ -154618,6 +154731,32 @@
             99999,
             99999,
             99999
+          ]
+        },
+        {
+          "id": "rbtechgames_be0a5f7f",
+          "name": "Crucial SODIMM 32GB (1x32GB) 5600MT/s CL46 DDR5 Laptop Memory",
+          "brand": "Crucial",
+          "category": "ram",
+          "price": 114999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_crucial_sodimm_ddr5_single.jpg",
+          "url": "https://rbtechngames.com/product/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory",
+          "history": [
+            114999,
+            114999,
+            114999,
+            114999,
+            114999,
+            114999,
+            114999,
+            114999,
+            114999,
+            114999,
+            114999,
+            114999
           ]
         },
         {
@@ -154692,7 +154831,7 @@
             2849999,
             2849999,
             2849999,
-            2849999,
+            3199999,
             3199999,
             3199999,
             3199999
@@ -154796,8 +154935,8 @@
             289999,
             289999,
             289999,
-            289999,
             299999,
+            309999,
             309999,
             309999
           ]
@@ -155990,7 +156129,7 @@
             272999,
             272999,
             272999,
-            272999,
+            279999,
             279999,
             279999,
             279999,
@@ -156226,7 +156365,7 @@
             264999,
             264999,
             264999,
-            264999,
+            269999,
             269999,
             269999,
             269999
@@ -156564,8 +156703,8 @@
             384999,
             384999,
             384999,
-            384999,
             399999,
+            429999,
             429999,
             429999
           ]
@@ -156668,8 +156807,8 @@
             314999,
             314999,
             314999,
-            314999,
             319999,
+            329999,
             329999,
             329999
           ]
@@ -157058,7 +157197,7 @@
             289999,
             289999,
             289999,
-            289999,
+            294999,
             294999,
             294999,
             294999
@@ -157266,7 +157405,7 @@
             499999,
             499999,
             499999,
-            499999,
+            544999,
             544999,
             544999,
             544999
@@ -157396,7 +157535,7 @@
             149999,
             149999,
             149999,
-            149999,
+            159999,
             159999,
             159999,
             159999
@@ -157682,7 +157821,7 @@
             2449999,
             2449999,
             2449999,
-            2449999,
+            2999999,
             2999999,
             2999999,
             2999999
@@ -157786,7 +157925,7 @@
             259499,
             259499,
             259499,
-            259499,
+            264999,
             264999,
             264999,
             264999
@@ -157942,7 +158081,7 @@
             256999,
             256999,
             256999,
-            256999,
+            259999,
             259999,
             259999,
             259999
@@ -158124,7 +158263,7 @@
             499999,
             499999,
             499999,
-            499999,
+            549999,
             549999,
             549999,
             549999
@@ -158150,7 +158289,7 @@
             279999,
             279999,
             279999,
-            279999,
+            299999,
             299999,
             299999,
             299999
@@ -158254,7 +158393,7 @@
             284999,
             284999,
             284999,
-            284999,
+            299999,
             299999,
             299999,
             299999
@@ -158577,8 +158716,8 @@
           "name": "MSI PRO B650-S WIFI ATX AM5 DDR5 Gaming Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 51499,
-          "oldPrice": null,
+          "price": 53499,
+          "oldPrice": 51499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_b650-s_wifi.png",
@@ -158595,7 +158734,7 @@
             51499,
             51499,
             51499,
-            51499
+            53499
           ]
         },
         {
@@ -159684,7 +159823,7 @@
             33499,
             33499,
             33499,
-            33499,
+            30999,
             30999,
             30999,
             30999
@@ -160334,7 +160473,7 @@
             49499,
             49499,
             49499,
-            49499,
+            47499,
             47499,
             47499,
             47499
@@ -160386,7 +160525,7 @@
             43499,
             43499,
             43499,
-            43499,
+            41499,
             41499,
             41499,
             41499
@@ -160464,7 +160603,7 @@
             48499,
             48499,
             48499,
-            48499,
+            44999,
             44999,
             44999,
             44999
@@ -160490,7 +160629,7 @@
             35499,
             35499,
             35499,
-            35499,
+            34499,
             34499,
             34499,
             34499
@@ -160698,7 +160837,7 @@
             39499,
             39499,
             39499,
-            39499,
+            38499,
             38499,
             38499,
             38499
@@ -161218,7 +161357,7 @@
             54999,
             54999,
             54999,
-            54999,
+            53499,
             53499,
             53499,
             53499
