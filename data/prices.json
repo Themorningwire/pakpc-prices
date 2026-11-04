@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T04:59:10.056691+00:00",
+  "lastUpdated": "2026-11-04T13:50:14.419044+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,201 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_be607ba4",
+          "name": "PC Cooler RT620Pro TC ARGB Dual Tower CPU Air Cooler - Black",
+          "brand": "PC",
+          "category": "cooler",
+          "price": 10190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt620pro-tc-argb-price-in-pakistan-pakbyte_1.webp?v=1793795694",
+          "url": "https://www.pakbyte.pk/products/pc-cooler-rt620pro-tc-argb-dual-tower-cpu-air-cooler-black",
+          "history": [
+            10190
+          ]
+        },
+        {
+          "id": "pakbyte_5edabe02",
+          "name": "PC Cooler CPS RT500 Digital ARGB CPU Air Cooler - White",
+          "brand": "PC",
+          "category": "cooler",
+          "price": 8390,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-cps-rt500-digital-argb-price-in-pakistan-pakbyte_5.webp?v=1793795197",
+          "url": "https://www.pakbyte.pk/products/pc-cooler-cps-rt500-digital-argb-cpu-air-cooler-white",
+          "history": [
+            8390
+          ]
+        },
+        {
+          "id": "pakbyte_74bb8c03",
+          "name": "PC Cooler CPS RT500 Digital ARGB CPU Air Cooler - Black",
+          "brand": "PC",
+          "category": "cooler",
+          "price": 7990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-cps-rt500-digital-argb-price-in-pakistan-pakbyte_1.webp?v=1793794164",
+          "url": "https://www.pakbyte.pk/products/pc-cooler-cps-rt500-digital-argb-cpu-air-cooler-black",
+          "history": [
+            7990
+          ]
+        },
+        {
+          "id": "pakbyte_421f2ed0",
+          "name": "PC Cooler RT400 Digital ARGB CPU Air Cooler - Black",
+          "brand": "PC",
+          "category": "cooler",
+          "price": 7490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt400-digital-argb-price-in-pakistan-pakbyte_1.webp?v=1793793522",
+          "url": "https://www.pakbyte.pk/products/pccooler-rt400-digital-argb-cpu-air-cooler-black",
+          "history": [
+            7490
+          ]
+        },
+        {
+          "id": "pakbyte_ec06ace5",
+          "name": "PC Cooler CPS R400 ARGB Air CPU Cooler - White",
+          "brand": "PC",
+          "category": "cooler",
+          "price": 5290,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-cps-r400-argb-price-in-pakistan-pakbyte_5.webp?v=1793793118",
+          "url": "https://www.pakbyte.pk/products/pc-cooler-cps-r400-argb-air-cpu-cooler-white",
+          "history": [
+            5290
+          ]
+        },
+        {
+          "id": "pakbyte_21cc0daf",
+          "name": "PC Cooler CPS R400 ARGB Air CPU Cooler - Black",
+          "brand": "PC",
+          "category": "cooler",
+          "price": 5290,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-cps-r400-argb-price-in-pakistan-pakbyte_2.webp?v=1793792552",
+          "url": "https://www.pakbyte.pk/products/pc-cooler-cps-r400-argb-air-cpu-cooler-black",
+          "history": [
+            5290
+          ]
+        },
+        {
+          "id": "pakbyte_5a03e56f",
+          "name": "PC Cooler R300 ARGB CPU Air Cooler - Black",
+          "brand": "PC",
+          "category": "cooler",
+          "price": 3990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-r300-argb-price-in-pakistan-pakbyte_3.webp?v=1793792290",
+          "url": "https://www.pakbyte.pk/products/pccooler-r300-argb-cpu-air-cooler-black",
+          "history": [
+            3990
+          ]
+        },
+        {
+          "id": "pakbyte_2ed94e85",
+          "name": "ATK Dragonfly A9 Air+ Wireless Gaming Mouse -  Leviatan Edition",
+          "brand": "ATK",
+          "category": "mouse",
+          "price": 21990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-A9-Air-Plus-Gaming-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1793791999",
+          "url": "https://www.pakbyte.pk/products/atk-dragonfly-a9-air-wireless-gaming-mouse-leviatan-edition",
+          "history": [
+            21990
+          ]
+        },
+        {
+          "id": "pakbyte_dffca96c",
+          "name": "Redragon EISA K768 Wireless RGB Mechanical Gaming Keyboard",
+          "brand": "Redragon",
+          "category": "keyboard",
+          "price": 15590,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-EISA-K7681-Wireless-Machaical-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1793791097",
+          "url": "https://www.pakbyte.pk/products/redragon-eisa-k768-wireless-rgb-mechanical-gaming-keyboard",
+          "history": [
+            15590
+          ]
+        },
+        {
+          "id": "pakbyte_49cac3ed",
+          "name": "Redragon K768BG EISA 100 PRO Tri-Mode RGB Mechanical Keyboard",
+          "brand": "Redragon",
+          "category": "keyboard",
+          "price": 17790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k768bg-eisa-100-pro-tri-mode-rgb-mechanical-keyboard-price-in-pakistan-pakbyte_3.avif?v=1793790759",
+          "url": "https://www.pakbyte.pk/products/redragon-k768bg-eisa-100-pro-tri-mode-rgb-mechanical-keyboard",
+          "history": [
+            17790
+          ]
+        },
+        {
+          "id": "pakbyte_5eb49c60",
+          "name": "Redragon EISA100-WGR K768 Wireless RGB Mechanical Gaming Keyboard",
+          "brand": "Redragon",
+          "category": "keyboard",
+          "price": 15680,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-EISA100-WGR-K768-Wireless-RGB-Mechanical-Gaming-Keyboard_Price-in-Pakistan-Pakbyte_1.webp?v=1793790400",
+          "url": "https://www.pakbyte.pk/products/redragon-eisa100-wgr-k768-wireless-rgb-mechanical-gaming-keyboard",
+          "history": [
+            15680
+          ]
+        },
+        {
+          "id": "pakbyte_cc8b938b",
+          "name": "Redragon K758 ABYSSAL Wired RGB One-Handed Mechanical Keypad - Black",
+          "brand": "Redragon",
+          "category": "keyboard",
+          "price": 6090,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k758-price-in-pakistan-pakbyte_4.avif?v=1793789314",
+          "url": "https://www.pakbyte.pk/products/redragon-k758-abyssal-wired-rgb-one-handed-mechanical-keypad-black",
+          "history": [
+            6090
+          ]
+        },
+        {
+          "id": "pakbyte_6c118972",
+          "name": "Redragon M998-STD-1K EBONY STANDARD Tri-Mode Gaming Mouse with Charging Dock",
+          "brand": "Redragon",
+          "category": "mouse",
+          "price": 6650,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-m998-std-1k-ebony-standard-tri-mode-gaming-mouse-price-in-pakistan-pakbyte_4.avif?v=1793788650",
+          "url": "https://www.pakbyte.pk/products/redragon-m998-std-1k-ebony-standard-tri-mode-gaming-mouse-with-charging-dock",
+          "history": [
+            6650
+          ]
+        },
         {
           "id": "pakbyte_0ecbc9f6",
           "name": "Redragon GCP-511 Wideseeker Turbo Fan Laptop Cooler",
@@ -20,6 +215,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Windseeker-GCP-511-Laptop-Cooling-Pad-Price-in-Pakistan-Pakbyte_1.webp?v=1793452418",
           "url": "https://www.pakbyte.pk/products/redragon-gcp-511-wideseeker-turbo-fan-laptop-cooler",
           "history": [
+            10520,
             10520,
             10520,
             10520,
@@ -55,6 +251,7 @@
             6540,
             6540,
             6540,
+            6540,
             6540
           ]
         },
@@ -80,6 +277,7 @@
             5150,
             5150,
             5150,
+            5150,
             5150
           ]
         },
@@ -95,7 +293,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/e-yooso-x31-price-in-pakistan-pakbyte_1_0f7bf5b6-db90-450b-82cc-9ff02a5e6b0f.webp?v=1793449885",
           "url": "https://www.pakbyte.pk/products/e-yooso-x31-large-wireless-mouse-black-1",
           "history": [
-            3440,
+            3190,
             3190,
             3190,
             3190,
@@ -131,6 +329,7 @@
             4490,
             4490,
             4490,
+            4490,
             4490
           ]
         },
@@ -146,6 +345,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-YOOSO-K-700-One-Hand-Gaming-Mechanical-Keyboard-Price-in-Pakistan-Pakbyte_1.jpg?v=1793449298",
           "url": "https://www.pakbyte.pk/products/e-yooso-k-700-one-hand-gaming-mechanical-keyboard",
           "history": [
+            5380,
             5380,
             5380,
             5380,
@@ -181,6 +381,7 @@
             11190,
             11190,
             11190,
+            11190,
             11190
           ]
         },
@@ -196,6 +397,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/E-Yooso-Z-101-Tri-Mode-Wireless-RGB-Mechanical-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1793448226",
           "url": "https://www.pakbyte.pk/products/e-yooso-z-101-tri-mode-rgb-mechanical-keyboard-grey-black-purple-silver-switch",
           "history": [
+            8490,
             8490,
             8490,
             8490,
@@ -14894,7 +15096,7 @@
             7990,
             7990,
             7990,
-            7990,
+            8140,
             8140,
             8140
           ]
@@ -14956,9 +15158,9 @@
           "name": "Redragon K761WG RGB WYVERN PRO Keyboard with LCD Screen & Knob",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 16270,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 16990,
+          "oldPrice": 16270,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K761WG-wyvern-LCD-pro-gaming-keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1779464441",
           "url": "https://www.pakbyte.pk/products/redragon-k761wg-rgb-wyvern-pro-keyboard-with-lcd-screen-knob",
@@ -14974,7 +15176,7 @@
             16270,
             16270,
             16270,
-            16270
+            16990
           ]
         },
         {
@@ -26331,7 +26533,7 @@
             990,
             990,
             990,
-            990,
+            1299,
             1299,
             1299,
             1299,
@@ -30504,9 +30706,9 @@
           "name": "Redragon Terraflare K762 Pro Wireless Gasket Gaming Keyboard - Black/White",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13790,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 16590,
+          "oldPrice": 13790,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-terraflare-k762-pro-price-in-pakistan-pakbyte_2.webp?v=1770876252",
           "url": "https://www.pakbyte.pk/products/redragon-terraflare-k762-pro-wireless-gasket-gaming-keyboard-white-blue",
@@ -30522,7 +30724,7 @@
             13790,
             13790,
             13790,
-            13790
+            16590
           ]
         },
         {
@@ -30530,8 +30732,8 @@
           "name": "Redragon Star Blade K707 PRO 80% Wireless Gasket RGB Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 12990,
-          "oldPrice": null,
+          "price": 13990,
+          "oldPrice": 12990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K707-rgb-pro-price-in-pakistan-pakbyte_1.jpg?v=1770875288",
@@ -30548,7 +30750,7 @@
             12990,
             12990,
             12990,
-            12990
+            13990
           ]
         },
         {
@@ -30719,7 +30921,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-ccw-3011-price-in-pakistan-pakbyte_1.jpg?v=1770793961",
           "url": "https://www.pakbyte.pk/products/redragon-ccw-3011-argb-liquid-cpu-cooler",
           "history": [
-            15970,
+            15890,
             15890,
             15890,
             15890,
@@ -32721,7 +32923,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-rtx-5060-8gb-price-in-pakistan-pakbyte_1.webp?v=1767247708",
           "url": "https://www.pakbyte.pk/products/asus-geforce-prime-rtx-5060-8g-graphics-card",
           "history": [
-            127990,
+            176999,
             176999,
             176999,
             176999,
@@ -39230,7 +39432,7 @@
             7090,
             7090,
             7090,
-            7090,
+            7190,
             7190,
             7190
           ]
@@ -39266,8 +39468,8 @@
           "name": "Redragon FIZZ K617 60% RGB Mechanical Keyboard with Red Switches - White & Gray",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 6990,
-          "oldPrice": null,
+          "price": 7290,
+          "oldPrice": 6990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K617-FIZZ-WG-RGB-Wired-Gaming-Keyboard-price-in-pakistan-pakbyte_3.webp?v=1765824898",
@@ -39284,7 +39486,7 @@
             6990,
             6990,
             6990,
-            6990
+            7290
           ]
         },
         {
@@ -48028,8 +48230,8 @@
           "name": "Redragon K740 Wired RGB Gaming Keyboard - Purple Rain",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 16590,
-          "oldPrice": null,
+          "price": 16690,
+          "oldPrice": 16590,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-k740-gaming-keyboard-purple-price-in-pakistan-pakbyte_2.jpg?v=1761955334",
@@ -48046,7 +48248,7 @@
             16590,
             16590,
             16590,
-            16590
+            16690
           ]
         },
         {
@@ -48148,7 +48350,7 @@
             3690,
             3690,
             3690,
-            3690,
+            3740,
             3740,
             3740
           ]
@@ -48277,7 +48479,7 @@
             7990,
             7990,
             7990,
-            7990,
+            8150,
             8150,
             8150,
             8150
@@ -48329,7 +48531,7 @@
             4350,
             4350,
             4350,
-            4350,
+            4540,
             4540,
             4540,
             4540
@@ -52747,7 +52949,7 @@
             340990,
             340990,
             340990,
-            340990,
+            424999,
             424999,
             424999,
             424999,
@@ -53280,8 +53482,8 @@
           "name": "Redragon K728WBB-RGB Antonium PRO TKL Mechanical Gaming Keyboard - White",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 16290,
-          "oldPrice": null,
+          "price": 15190,
+          "oldPrice": 16290,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/RedragonK728WBB-RGB-PROAntonium-PRO_1.jpg?v=1756797861",
@@ -53298,7 +53500,7 @@
             16290,
             16290,
             16290,
-            16290
+            15190
           ]
         },
         {
@@ -53581,7 +53783,7 @@
             5890,
             5890,
             5890,
-            5890,
+            5190,
             5190,
             5190,
             5190
@@ -80242,8 +80444,8 @@
           "name": "REDRAGON Fizz Pro K616 RGB Gaming Keyboard – Red Switches - White/Grey",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 13490,
-          "oldPrice": null,
+          "price": 11790,
+          "oldPrice": 13490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-Fizz-Pro-K616-RGB-Bluetooth-wireless-USB-2-4G-3-mode-Mechanical-Gaming-Keyboard-Red-Switches-White-Grey-PakByte-Computers-25770148888643.webp?v=1753673318",
@@ -80260,7 +80462,7 @@
             13490,
             13490,
             13490,
-            13490
+            11790
           ]
         },
         {
@@ -80372,8 +80574,8 @@
           "name": "Redragon K582 SURARA RGB Mechanical Gaming Keyboard",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 11390,
-          "oldPrice": null,
+          "price": 10490,
+          "oldPrice": 11390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K582-SURARA-RGB-Mechanical-Gaming-Keyboard-PakByte-Computers-25770098786371.jpg?v=1753673330",
@@ -80390,7 +80592,7 @@
             11390,
             11390,
             11390,
-            11390
+            10490
           ]
         },
         {
@@ -80398,8 +80600,8 @@
           "name": "Redragon K552 RGB-1 KUMARA Mechanical Gaming Keyboard - Black",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 7920,
-          "oldPrice": null,
+          "price": 7890,
+          "oldPrice": 7920,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K552-RGB-1-KUMARA-Full-Anti-Ghosting-Mechanical-Gaming-Keyboard-Black-PakByte-Computers-25770087088195.webp?v=1753673330",
@@ -80416,7 +80618,7 @@
             7920,
             7920,
             7920,
-            7920
+            7890
           ]
         },
         {
@@ -80424,8 +80626,8 @@
           "name": "Redragon K552W KUMARA RGB Mechanical Gaming Keyboard - White",
           "brand": "Redragon",
           "category": "keyboard",
-          "price": 7890,
-          "oldPrice": null,
+          "price": 8490,
+          "oldPrice": 7890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-K552W-KUMARA-RGB-Mechanical-Gaming-Keyboard-White-PakByte-Computers-25770072244291.png?v=1753673342",
@@ -80442,7 +80644,7 @@
             7890,
             7890,
             7890,
-            7890
+            8490
           ]
         },
         {
@@ -81003,7 +81205,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-BALDER-CC-2199-RGB-CPU-Air-Cooler-PakByte-Computers-25769322840131.webp?v=1753673451",
           "url": "https://www.pakbyte.pk/products/redragon-balder-cc-2199-rgb-cpu-air-cooler",
           "history": [
-            7620,
+            7590,
             7590,
             7590,
             7590,
@@ -109856,8 +110058,8 @@
           "name": "Redragon H818 PELOPS 7.1 Surround Sound Wireless Gaming Headset",
           "brand": "Redragon",
           "category": "headset",
-          "price": 10890,
-          "oldPrice": null,
+          "price": 12290,
+          "oldPrice": 10890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H818-PELOPS-Wireless-Gaming-Headset-7-1-Surround-Sound-PakByte-Computers-24397793296451.webp?v=1753679360",
@@ -109874,7 +110076,7 @@
             10890,
             10890,
             10890,
-            10890
+            12290
           ]
         },
         {
@@ -111926,7 +112128,7 @@
             6190,
             6190,
             6190,
-            6190,
+            6390,
             6390,
             6390
           ]
@@ -113485,7 +113687,7 @@
             2290,
             2290,
             2290,
-            2290,
+            2990,
             2990,
             2990,
             2990
@@ -118549,6 +118751,7 @@
           "history": [
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -118564,6 +118767,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M711-COBRA-GAMING-MOUSE-WHITE-PakByte-Computers-24397631029315.webp?v=1753680693",
           "url": "https://www.pakbyte.pk/products/redragon-m711-cobra-gaming-mouse-white",
           "history": [
+            5450,
             5450,
             5450,
             5450
@@ -118745,7 +118949,7 @@
             6590,
             6590,
             6590,
-            6590,
+            6390,
             6390,
             6390,
             6390
@@ -118797,7 +119001,7 @@
             6990,
             6990,
             6990,
-            6990,
+            8290,
             8290,
             8290,
             8290
@@ -151345,6 +151549,7 @@
             53999,
             53999,
             53999,
+            53999,
             53999
           ]
         },
@@ -151438,6 +151643,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hp_elitebook_840_g9_pike_silver.png",
           "url": "https://rbtechngames.com/product/hp-elitebook-840-g9-intel-i7-1270p-16gb-ram-512gb-ssd-14-fhd-ips-display-pike-silver-used",
           "history": [
+            144999,
             144999,
             144999,
             144999,
@@ -154689,7 +154895,7 @@
             489999,
             489999,
             489999,
-            489999,
+            509999,
             509999,
             509999,
             509999
@@ -154745,32 +154951,6 @@
             109999,
             109999,
             109999
-          ]
-        },
-        {
-          "id": "rbtechgames_0f45914d",
-          "name": "HP EliteBook 840 G8, Intel i5 11th Gen, 16GB RAM, 256GB SSD, 14.0″ FHD, IPS Display, Pike ",
-          "brand": "Intel",
-          "category": "ram",
-          "price": 84999,
-          "oldPrice": 89999,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/11/hp-elitebook-840-aero-g8-11thgen-ci7-silver-laptop-rates-in-pakistan.jpg",
-          "url": "https://rbtechngames.com/product/hp-elitebook-840-g8-intel-i5-11th-gen-16gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-pike-silver-used",
-          "history": [
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999
           ]
         },
         {
@@ -154999,7 +155179,7 @@
             174999,
             174999,
             174999,
-            174999,
+            188999,
             188999,
             188999,
             188999,
@@ -156789,7 +156969,7 @@
           "history": [
             18499,
             18499,
-            18499,
+            16499,
             16499,
             16499,
             16499,
@@ -156821,7 +157001,7 @@
             17999,
             17999,
             17999,
-            17999,
+            16499,
             16499,
             16499,
             16499
@@ -157470,7 +157650,7 @@
             164999,
             164999,
             164999,
-            164999,
+            184999,
             184999,
             184999,
             184999,
@@ -157905,6 +158085,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_aula_f99_pro_blue_white_black.webp",
           "url": "https://rbtechngames.com/product/aula-f99-pro-wireless-rgb-magnetic-gaming-keyboard-blue-white-black-white-black-grey-black-green-blue-side-printed-black-side-printed",
           "history": [
+            15499,
             15499,
             15499,
             15499
@@ -158390,6 +158571,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_zotac_rtx_5070_twin_edge_oc_12gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-twin-edge-oc-12gb-graphics-card",
           "history": [
+            284999,
             284999,
             284999
           ]
