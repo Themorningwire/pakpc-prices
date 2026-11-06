@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T13:47:29.137977+00:00",
+  "lastUpdated": "2026-11-06T22:44:54.812942+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,51 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_5da121b5",
+          "name": "Lian Li O11 Vision-M mATX PC Case - Black",
+          "brand": "Lian Li",
+          "category": "case",
+          "price": 23490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11-vision-m-price-in-pakistan-pakbyte_5.webp?v=1793993407",
+          "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-m-matx-pc-case-black-1",
+          "history": [
+            23490
+          ]
+        },
+        {
+          "id": "pakbyte_97c1ad05",
+          "name": "Lian Li B4-mATX Mesh Compact 21.3L Micro-ATX PC Case - Black",
+          "brand": "Lian Li",
+          "category": "case",
+          "price": 22490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-b4-matx-compact-case-black-price-in-pakistan-pakbyte_1.webp?v=1793991981",
+          "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-mesh-compact-21-3l-micro-atx-pc-case-black",
+          "history": [
+            22490
+          ]
+        },
+        {
+          "id": "pakbyte_6868c6fb",
+          "name": "Lian Li B4-mATX Mesh Compact 21.3L Micro-ATX PC Case - White",
+          "brand": "Lian Li",
+          "category": "case",
+          "price": 23490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-b4-matx-compact-case-price-in-Pakistan-pakbyte_1.webp?v=1793991720",
+          "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-mesh-compact-21-3l-micro-atx-pc-case-white",
+          "history": [
+            23490
+          ]
+        },
         {
           "id": "pakbyte_0baa9f2b",
           "name": "PC Cooler DA360 V2 ARGB 360mm AIO Liquid CPU Cooler - White",
@@ -20,6 +65,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-da360-v2-argb-360mm-aio-liquid-cpu-cooler-price-in-pakistan-pakbyte_8.webp?v=1793859689",
           "url": "https://www.pakbyte.pk/products/pc-cooler-da360-v2-argb-360mm-aio-liquid-cpu-cooler-white",
           "history": [
+            16490,
             16490,
             16490,
             16490
@@ -39,6 +85,7 @@
           "history": [
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -54,6 +101,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt620-pro-digital-cpu-air-cooler-price-in-pakistan-pakbyte_1.webp?v=1793858732",
           "url": "https://www.pakbyte.pk/products/pc-cooler-rt620-digital-cpu-air-cooler-black",
           "history": [
+            14490,
             14490,
             14490,
             14490
@@ -73,6 +121,7 @@
           "history": [
             13790,
             13790,
+            13790,
             13790
           ]
         },
@@ -88,6 +137,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt720-tc-argb-price-in-pakistan-pakbyte_1.webp?v=1793857732",
           "url": "https://www.pakbyte.pk/products/pc-cooler-rt720-tc-argb-cpu-air-cooler-black",
           "history": [
+            13490,
             13490,
             13490,
             13490
@@ -107,6 +157,7 @@
           "history": [
             10490,
             10490,
+            10490,
             10490
           ]
         },
@@ -122,6 +173,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt620pro-tc-argb-price-in-pakistan-pakbyte_1.webp?v=1793795694",
           "url": "https://www.pakbyte.pk/products/pc-cooler-rt620pro-tc-argb-dual-tower-cpu-air-cooler-black",
           "history": [
+            10190,
             10190,
             10190,
             10190,
@@ -147,6 +199,7 @@
             8390,
             8390,
             8390,
+            8390,
             8390
           ]
         },
@@ -162,6 +215,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-cps-rt500-digital-argb-price-in-pakistan-pakbyte_1.webp?v=1793794164",
           "url": "https://www.pakbyte.pk/products/pc-cooler-cps-rt500-digital-argb-cpu-air-cooler-black",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -187,6 +241,7 @@
             7490,
             7490,
             7490,
+            7490,
             7490
           ]
         },
@@ -202,6 +257,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-cps-r400-argb-price-in-pakistan-pakbyte_5.webp?v=1793793118",
           "url": "https://www.pakbyte.pk/products/pc-cooler-cps-r400-argb-air-cpu-cooler-white",
           "history": [
+            5290,
             5290,
             5290,
             5290,
@@ -227,6 +283,7 @@
             5290,
             5290,
             5290,
+            5290,
             5290
           ]
         },
@@ -242,6 +299,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-r300-argb-price-in-pakistan-pakbyte_3.webp?v=1793792290",
           "url": "https://www.pakbyte.pk/products/pccooler-r300-argb-cpu-air-cooler-black",
           "history": [
+            3990,
             3990,
             3990,
             3990,
@@ -267,6 +325,7 @@
             21990,
             21990,
             21990,
+            21990,
             21990
           ]
         },
@@ -282,6 +341,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-EISA-K7681-Wireless-Machaical-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1793791097",
           "url": "https://www.pakbyte.pk/products/redragon-eisa-k768-wireless-rgb-mechanical-gaming-keyboard",
           "history": [
+            15590,
             15590,
             15590,
             15590,
@@ -307,6 +367,7 @@
             17790,
             17790,
             17790,
+            17790,
             17790
           ]
         },
@@ -322,6 +383,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-EISA100-WGR-K768-Wireless-RGB-Mechanical-Gaming-Keyboard_Price-in-Pakistan-Pakbyte_1.webp?v=1793790400",
           "url": "https://www.pakbyte.pk/products/redragon-eisa100-wgr-k768-wireless-rgb-mechanical-gaming-keyboard",
           "history": [
+            15680,
             15680,
             15680,
             15680,
@@ -347,6 +409,7 @@
             6090,
             6090,
             6090,
+            6090,
             6090
           ]
         },
@@ -362,6 +425,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-m998-std-1k-ebony-standard-tri-mode-gaming-mouse-price-in-pakistan-pakbyte_4.avif?v=1793788650",
           "url": "https://www.pakbyte.pk/products/redragon-m998-std-1k-ebony-standard-tri-mode-gaming-mouse-with-charging-dock",
           "history": [
+            6650,
             6650,
             6650,
             6650,
@@ -15257,7 +15321,7 @@
             7990,
             7990,
             7990,
-            7990,
+            8140,
             8140,
             8140,
             8140,
@@ -15337,7 +15401,7 @@
             16270,
             16270,
             16270,
-            16270,
+            16990,
             16990,
             16990,
             16990,
@@ -18965,8 +19029,8 @@
           "name": "Ease EC124IF Pro Panoramic ATX Gaming Case",
           "brand": "EASE",
           "category": "ram",
-          "price": 13990,
-          "oldPrice": null,
+          "price": 11990,
+          "oldPrice": 13990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ease-EC124IF-Pro-Gaming-Case-Price-in-Pakistan-Pakbyte_1.jpg?v=1775995472",
@@ -18983,7 +19047,7 @@
             13990,
             13990,
             13990,
-            13990
+            11990
           ]
         },
         {
@@ -18991,8 +19055,8 @@
           "name": "Ease EC124IF ARGB ATX Gaming Case",
           "brand": "EASE",
           "category": "case",
-          "price": 13990,
-          "oldPrice": null,
+          "price": 10990,
+          "oldPrice": 13990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ease-EC124IF-casing-price-in-pakistan-pakbyte_1.jpg?v=1775992381",
@@ -19009,7 +19073,7 @@
             13990,
             13990,
             13990,
-            13990
+            10990
           ]
         },
         {
@@ -26694,7 +26758,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/fantech-mp64-basic-price-in-pakistan-pakbyte_1.webp?v=1771931730",
           "url": "https://www.pakbyte.pk/products/fantech-mp64-basic-xl-gaming-mouse-pad",
           "history": [
-            990,
+            1299,
             1299,
             1299,
             1299,
@@ -29027,8 +29091,8 @@
           "name": "Lian Li O11D EVO RGB Mid-Tower E-ATX Gaming Case - White",
           "brand": "Lian Li",
           "category": "case",
-          "price": 59990,
-          "oldPrice": null,
+          "price": 54990,
+          "oldPrice": 59990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11d-evo-rgb-white-casing-price-in-pakistan-pakbyte_1.jpg?v=1771244762",
@@ -29045,7 +29109,7 @@
             59990,
             59990,
             59990,
-            59990
+            54990
           ]
         },
         {
@@ -30885,7 +30949,7 @@
             13790,
             13790,
             13790,
-            13790,
+            16590,
             16590,
             16590,
             16590,
@@ -30911,7 +30975,7 @@
             12990,
             12990,
             12990,
-            12990,
+            13990,
             13990,
             13990,
             13990,
@@ -37193,7 +37257,7 @@
           "category": "case",
           "price": 26490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11d-mini-v2-white-price-in-pakistan-pakbyte_1.webp?v=1766064364",
           "url": "https://www.pakbyte.pk/products/lian-li-o11d-mini-v2-atx-mid-tower-computer-case-white",
@@ -39593,7 +39657,7 @@
             7090,
             7090,
             7090,
-            7090,
+            7190,
             7190,
             7190,
             7190,
@@ -39647,7 +39711,7 @@
             6990,
             6990,
             6990,
-            6990,
+            7290,
             7290,
             7290,
             7290,
@@ -46240,7 +46304,7 @@
           "brand": "Logitech",
           "category": "mouse",
           "price": 7499,
-          "oldPrice": 7290,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g304-lightspeed-white-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1763213136",
@@ -46256,7 +46320,7 @@
             7290,
             7290,
             7290,
-            7290,
+            7499,
             7499
           ]
         },
@@ -48409,7 +48473,7 @@
             16590,
             16590,
             16590,
-            16590,
+            16690,
             16690,
             16690,
             16690,
@@ -48511,7 +48575,7 @@
             3690,
             3690,
             3690,
-            3690,
+            3740,
             3740,
             3740,
             3740,
@@ -48640,7 +48704,7 @@
           "history": [
             7990,
             7990,
-            7990,
+            8150,
             8150,
             8150,
             8150,
@@ -48692,7 +48756,7 @@
           "history": [
             4350,
             4350,
-            4350,
+            4540,
             4540,
             4540,
             4540,
@@ -52598,7 +52662,7 @@
             72999,
             72999,
             72999,
-            72999,
+            88999,
             88999,
             88999,
             88999
@@ -53110,7 +53174,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5070-ti-16g-shadow-3x-oc-gpu-price-in-pakistan-pakbyte_1.jpg?v=1757070804",
           "url": "https://www.pakbyte.pk/products/msi-geforce-rtx-5070-ti-16g-shadow-3x-oc-graphics-card",
           "history": [
-            340990,
+            424999,
             424999,
             424999,
             424999,
@@ -53661,7 +53725,7 @@
             16290,
             16290,
             16290,
-            16290,
+            15190,
             15190,
             15190,
             15190,
@@ -53944,7 +54008,7 @@
           "history": [
             5890,
             5890,
-            5890,
+            5190,
             5190,
             5190,
             5190,
@@ -80623,7 +80687,7 @@
             13490,
             13490,
             13490,
-            13490,
+            11790,
             11790,
             11790,
             11790,
@@ -80753,7 +80817,7 @@
             11390,
             11390,
             11390,
-            11390,
+            10490,
             10490,
             10490,
             10490,
@@ -80779,7 +80843,7 @@
             7920,
             7920,
             7920,
-            7920,
+            7890,
             7890,
             7890,
             7890,
@@ -80805,7 +80869,7 @@
             7890,
             7890,
             7890,
-            7890,
+            8490,
             8490,
             8490,
             8490,
@@ -99476,7 +99540,7 @@
             36999,
             36999,
             36999,
-            36999,
+            42999,
             42999,
             42999,
             42999
@@ -110237,7 +110301,7 @@
             10890,
             10890,
             10890,
-            10890,
+            12290,
             12290,
             12290,
             12290,
@@ -112289,7 +112353,7 @@
             6190,
             6190,
             6190,
-            6190,
+            6390,
             6390,
             6390,
             6390,
@@ -113848,7 +113912,7 @@
           "history": [
             2290,
             2290,
-            2290,
+            2990,
             2990,
             2990,
             2990,
@@ -118924,6 +118988,7 @@
             4690,
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -118939,6 +119004,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M711-COBRA-GAMING-MOUSE-WHITE-PakByte-Computers-24397631029315.webp?v=1753680693",
           "url": "https://www.pakbyte.pk/products/redragon-m711-cobra-gaming-mouse-white",
           "history": [
+            5450,
             5450,
             5450,
             5450,
@@ -119120,7 +119186,7 @@
           "history": [
             6590,
             6590,
-            6590,
+            6390,
             6390,
             6390,
             6390,
@@ -119172,7 +119238,7 @@
           "history": [
             6990,
             6990,
-            6990,
+            8290,
             8290,
             8290,
             8290,
@@ -127613,9 +127679,9 @@
           "name": "Lian Li O11D EVO RGB E-ATX Gaming Dual Chamber Medium Case - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 59990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 52990,
+          "oldPrice": 59990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-O11D-EVO-RGB-E-ATX-Gaming-Dual-Chamber-Case-PakByte-Computers-26336999473219.jpg?v=1753682363",
           "url": "https://www.pakbyte.pk/products/lian-li-o11d-evo-black",
@@ -127631,7 +127697,7 @@
             59990,
             59990,
             59990,
-            59990
+            52990
           ]
         },
         {
@@ -151832,6 +151898,7 @@
             144999,
             144999,
             144999,
+            144999,
             144999
           ]
         },
@@ -154332,32 +154399,6 @@
           ]
         },
         {
-          "id": "rbtechgames_1725d645",
-          "name": "Asus B850 Max Gaming WiFi ATX AM5 DDR5 Gaming Motherboard &#8211; OPEN BOX",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 64999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_b850_max_gaming_wifi.webp",
-          "url": "https://rbtechngames.com/product/asus-b850-max-gaming-wifi-atx-am5-ddr5-gaming-motherboard-open-box",
-          "history": [
-            64999,
-            64999,
-            64999,
-            64999,
-            64999,
-            64999,
-            64999,
-            64999,
-            64999,
-            64999,
-            64999,
-            64999
-          ]
-        },
-        {
           "id": "rbtechgames_4a626d67",
           "name": "MSI PRO B760M-A WiFi DDR5 ProSeries Motherboard &#8211; USED",
           "brand": "MSI",
@@ -154414,8 +154455,8 @@
           "name": "Asus Dual GeForce RTX 5070 12GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 294999,
-          "oldPrice": null,
+          "price": 299999,
+          "oldPrice": 294999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_asus_dual_rtx_5070_12gb.webp",
@@ -154432,7 +154473,7 @@
             294999,
             294999,
             294999,
-            294999
+            299999
           ]
         },
         {
@@ -154622,8 +154663,8 @@
           "name": "PNY GeForce RTX 5060 Ti 16GB Epic-X RGB OC Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 259999,
-          "oldPrice": null,
+          "price": 264999,
+          "oldPrice": 259999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_pny_rtx_5060_ti_epic-x-rgb-oc.webp",
@@ -154640,7 +154681,7 @@
             259999,
             259999,
             259999,
-            259999
+            264999
           ]
         },
         {
@@ -155047,7 +155088,7 @@
           "history": [
             489999,
             489999,
-            489999,
+            509999,
             509999,
             509999,
             509999,
@@ -155109,32 +155150,6 @@
             109999,
             109999,
             109999
-          ]
-        },
-        {
-          "id": "rbtechgames_af8366a9",
-          "name": "Asus B850M AYW Gaming WiFi M-ATX AM5 DDR5 Gaming Motherboard",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 47999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_b850m_ayw_gaming_wifi.webp",
-          "url": "https://rbtechngames.com/product/asus-b850m-ayw-gaming-wifi-m-atx-am5-ddr5-gaming-motherboard",
-          "history": [
-            47999,
-            47999,
-            47999,
-            47999,
-            47999,
-            47999,
-            47999,
-            47999,
-            47999,
-            47999,
-            47999,
-            47999
           ]
         },
         {
@@ -155331,7 +155346,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_zotac_rtx_5060_ti_8gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-8gb-twin-edge-graphics-card",
           "history": [
-            174999,
+            188999,
             188999,
             188999,
             188999,
@@ -155350,8 +155365,8 @@
           "name": "Asus Prime GeForce RTX 5080 16GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 564999,
-          "oldPrice": null,
+          "price": 724999,
+          "oldPrice": 564999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_prime_rtx_5080_16gb_oc.webp",
@@ -155368,7 +155383,7 @@
             564999,
             564999,
             564999,
-            564999
+            724999
           ]
         },
         {
@@ -155443,7 +155458,7 @@
             114999,
             114999,
             114999,
-            114999,
+            144999,
             144999,
             144999,
             144999
@@ -155473,32 +155488,6 @@
             214999,
             214999,
             214999
-          ]
-        },
-        {
-          "id": "rbtechgames_ffb28250",
-          "name": "MSI Stealth 16 AI (A2HWGG-009IT), Intel Core Ultra 9 285H, 32GB RAM, 1TB SSD, RTX 5070, 16",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 674999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_msi_stealth_16_ai_core_black.webp",
-          "url": "https://rbtechngames.com/product/msi-stealth-16-ai-a2hwgg-009it-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-rtx-5070-16-qhd-240hz-oled-display-core-black-new",
-          "history": [
-            674999,
-            674999,
-            674999,
-            674999,
-            674999,
-            674999,
-            674999,
-            674999,
-            674999,
-            674999,
-            674999,
-            674999
           ]
         },
         {
@@ -155663,7 +155652,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 964999,
-          "oldPrice": 899999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_msi_raider_16_max_hx_b2w.webp",
@@ -155679,7 +155668,7 @@
             899999,
             899999,
             899999,
-            899999,
+            964999,
             964999
           ]
         },
@@ -155811,6 +155800,32 @@
             29499,
             29499,
             29499
+          ]
+        },
+        {
+          "id": "rbtechgames_e73ffbb2",
+          "name": "MSI B850M Gaming Plus WiFi6E AM5 M-ATX DDR5 Gaming Motherboard",
+          "brand": "MSI",
+          "category": "ram",
+          "price": 62999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_msi_b850m_gaming_plus_wifi6e.webp",
+          "url": "https://rbtechngames.com/product/msi-b850m-gaming-plus-wifi6e-am5-m-atx-ddr5-gaming-motherboard",
+          "history": [
+            62999,
+            62999,
+            62999,
+            62999,
+            62999,
+            62999,
+            62999,
+            62999,
+            62999,
+            62999,
+            62999,
+            62999
           ]
         },
         {
@@ -155948,8 +155963,8 @@
           "name": "Zotac Gaming GeForce RTX 5050 Twin Edge 8GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 118999,
-          "oldPrice": null,
+          "price": 132499,
+          "oldPrice": 118999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_zotac_rtx_5050_twin_edge.jpg",
@@ -155966,7 +155981,7 @@
             118999,
             118999,
             118999,
-            118999
+            132499
           ]
         },
         {
@@ -157014,8 +157029,8 @@
           "name": "Asus Dual GeForce RTX 5060 Ti 16GB OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 269999,
-          "oldPrice": null,
+          "price": 274999,
+          "oldPrice": 269999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_asus_dual_rtx_5060_ti_16gb_oc.webp",
@@ -157032,7 +157047,7 @@
             269999,
             269999,
             269999,
-            269999
+            274999
           ]
         },
         {
@@ -157101,7 +157116,7 @@
           "history": [
             17999,
             17999,
-            17999,
+            16499,
             16499,
             16499,
             16499,
@@ -157326,8 +157341,8 @@
           "name": "PNY GeForce RTX 5070 Ti Triple Fan OC 16GB Graphics Card",
           "brand": "PNY",
           "category": "gpu",
-          "price": 429999,
-          "oldPrice": null,
+          "price": 464999,
+          "oldPrice": 429999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_pny_rtx_5070_ti_triple_fan_oc.png",
@@ -157344,7 +157359,7 @@
             429999,
             429999,
             429999,
-            429999
+            464999
           ]
         },
         {
@@ -157404,8 +157419,8 @@
           "name": "Asus ROG Astral GeForce RTX 5080 16GB White OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 694999,
-          "oldPrice": null,
+          "price": 874999,
+          "oldPrice": 694999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_asus_rog_astral_rtx_5080_16gb_oc_white.png",
@@ -157422,7 +157437,7 @@
             694999,
             694999,
             694999,
-            694999
+            874999
           ]
         },
         {
@@ -157586,8 +157601,8 @@
           "name": "Zotac Gaming GeForce RTX 5060 Ti 16GB Twin Edge OC &#8211; White Edition",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 259999,
-          "oldPrice": null,
+          "price": 269999,
+          "oldPrice": 259999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/11/rbtech_zotac_rtx_5060_ti_16gb_twin_Edge_oc_white.jpg",
@@ -157604,7 +157619,7 @@
             259999,
             259999,
             259999,
-            259999
+            269999
           ]
         },
         {
@@ -157750,7 +157765,7 @@
           "url": "https://rbtechngames.com/product/amd-ryzen-9-9950x3d-desktop-processor-tray",
           "history": [
             164999,
-            164999,
+            184999,
             184999,
             184999,
             184999,
@@ -158028,8 +158043,8 @@
           "name": "Lexar NQ780 M.2 2280 PCIe Gen 4 NVMe SSD &#8211; 512GB/1TB/2TB/4TB",
           "brand": "Lexar",
           "category": "storage",
-          "price": 26499,
-          "oldPrice": null,
+          "price": 42499,
+          "oldPrice": 26499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
@@ -158046,7 +158061,7 @@
             26499,
             26499,
             26499,
-            26499
+            42499
           ]
         },
         {
@@ -158067,7 +158082,7 @@
             544999,
             544999,
             544999,
-            544999,
+            679999,
             679999,
             679999,
             679999,
@@ -158217,6 +158232,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_aula_f99_pro_blue_white_black.webp",
           "url": "https://rbtechngames.com/product/aula-f99-pro-wireless-rgb-magnetic-gaming-keyboard-blue-white-black-white-black-grey-black-green-blue-side-printed-black-side-printed",
           "history": [
+            15499,
             15499,
             15499,
             15499,
@@ -158545,8 +158561,8 @@
           "name": "Zotac Gaming GeForce RTX 5060 Ti AMP 16GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 264999,
-          "oldPrice": null,
+          "price": 274999,
+          "oldPrice": 264999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_zotac_rtx_5060_ti_amp_16gb.jpg",
@@ -158563,7 +158579,7 @@
             264999,
             264999,
             264999,
-            264999
+            274999
           ]
         },
         {
@@ -158701,8 +158717,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 284999,
-          "oldPrice": null,
+          "price": 294999,
+          "oldPrice": 284999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_zotac_rtx_5070_twin_edge_oc_12gb.jpg",
@@ -158715,7 +158731,8 @@
             284999,
             284999,
             284999,
-            284999
+            284999,
+            294999
           ]
         },
         {
@@ -158723,8 +158740,8 @@
           "name": "Zotac Gaming GeForce RTX 5060 Ti 16GB Twin Edge OC Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 259999,
-          "oldPrice": null,
+          "price": 269999,
+          "oldPrice": 259999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/05/rbtech_zotac_rtx_5060_ti_twin_edge_oc_16gb.jpg",
@@ -158741,7 +158758,7 @@
             259999,
             259999,
             259999,
-            259999
+            269999
           ]
         },
         {
@@ -158905,8 +158922,8 @@
           "name": "Zotac Gaming GeForce RTX 5080 Solid Core 16GB OC Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 549999,
-          "oldPrice": null,
+          "price": 699999,
+          "oldPrice": 549999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5080_solid_core_oc_16gb.jpg",
@@ -158923,7 +158940,7 @@
             549999,
             549999,
             549999,
-            549999
+            699999
           ]
         },
         {
@@ -158940,13 +158957,13 @@
           "history": [
             379999,
             379999,
-            379999,
             389999,
             389999,
             389999,
             389999,
             449999,
             449999,
+            484999,
             484999,
             484999,
             484999
@@ -158957,8 +158974,8 @@
           "name": "Gigabyte GeForce RTX 5070 Windforce 12GB OC SFF Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 299999,
-          "oldPrice": null,
+          "price": 309999,
+          "oldPrice": 299999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_gigabyte_rtx_5070_windforce_oc_sff_12gb.webp",
@@ -158975,7 +158992,7 @@
             299999,
             299999,
             299999,
-            299999
+            309999
           ]
         },
         {
@@ -159061,8 +159078,8 @@
           "name": "Zotac Gaming GeForce RTX 5070 Solid OC 12GB Graphics Card",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 299999,
-          "oldPrice": null,
+          "price": 309999,
+          "oldPrice": 299999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/03/rbtech_zotac_rtx_5070_solid_oc_12gb.jpg",
@@ -159079,7 +159096,7 @@
             299999,
             299999,
             299999,
-            299999
+            309999
           ]
         },
         {
@@ -159418,32 +159435,6 @@
             10500,
             10500,
             10500
-          ]
-        },
-        {
-          "id": "rbtechgames_b07e6d31",
-          "name": "Swipe SP Gaming Mousepad &#8211; Large (Ruby/Daybreak/Void)",
-          "brand": "Swipe",
-          "category": "mouse",
-          "price": 3499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_swipe_sp_large_daybreak.webp",
-          "url": "https://rbtechngames.com/product/swipe-sp-gaming-mousepad-large-ruby-daybreak",
-          "history": [
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499,
-            3499
           ]
         },
         {
