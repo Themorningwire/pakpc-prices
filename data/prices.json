@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T04:49:40.753986+00:00",
+  "lastUpdated": "2026-11-07T12:31:09.983937+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,81 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_0744575a",
+          "name": "Lian Li UNI Fan SL-INF Flex 120mm Reverse Blade ARGB Fan - 3 Pack - White",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 28490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-sl-inf-flex-price-in-pakistan-pakbyte_5_239ea02b-b975-48f0-9a82-53d3d3c14a50.webp?v=1794047038",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-argb-fan-3-pack-white",
+          "history": [
+            28490
+          ]
+        },
+        {
+          "id": "pakbyte_2acf9a57",
+          "name": "Lian Li UNI Fan SL-INF Flex 120mm Reverse Blade ARGB Fan - 3 Pack - Black",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 28490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-sl-inf-flex-price-in-pakistan-pakbyte_1_32027e6f-2a75-4b3b-bf59-51b22f451508.webp?v=1794046781",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-argb-fan-3-pack-black",
+          "history": [
+            28490
+          ]
+        },
+        {
+          "id": "pakbyte_1618f25c",
+          "name": "Lian Li Vector V150 INF Micro ATX PC Case - Black",
+          "brand": "Lian Li",
+          "category": "case",
+          "price": 24990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v150-inf-price-in-pakistan-pakbyte_1.webp?v=1794038960",
+          "url": "https://www.pakbyte.pk/products/lian-li-vector-v150-inf-micro-atx-pc-case-black",
+          "history": [
+            24990
+          ]
+        },
+        {
+          "id": "pakbyte_34e0e57c",
+          "name": "Lian-Li O11 VISION-M Digital Computer Case - White",
+          "brand": "Lian-Li",
+          "category": "case",
+          "price": 42490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-011-Digital-casing-price-in-pakistan-pakbyte_5.jpg?v=1794034894",
+          "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-m-digital-computer-case-white",
+          "history": [
+            42490
+          ]
+        },
+        {
+          "id": "pakbyte_885373f1",
+          "name": "Lian-Li O11 VISION-M Digital M-ATX Computer Case - Black",
+          "brand": "Lian-Li",
+          "category": "case",
+          "price": 41490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lianli-011-Digital-casing-price-in-pakistan-pakbyte_1.jpg?v=1794034275",
+          "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-m-digital-m-atx-computer-case-black",
+          "history": [
+            41490
+          ]
+        },
         {
           "id": "pakbyte_5da121b5",
           "name": "Lian Li O11 Vision-M mATX PC Case - Black",
@@ -20,6 +95,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11-vision-m-price-in-pakistan-pakbyte_5.webp?v=1793993407",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-m-matx-pc-case-black-1",
           "history": [
+            23490,
             23490,
             23490
           ]
@@ -37,6 +113,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-mesh-compact-21-3l-micro-atx-pc-case-black",
           "history": [
             22490,
+            22490,
             22490
           ]
         },
@@ -53,6 +130,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-mesh-compact-21-3l-micro-atx-pc-case-white",
           "history": [
             23490,
+            23490,
             23490
           ]
         },
@@ -68,6 +146,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-da360-v2-argb-360mm-aio-liquid-cpu-cooler-price-in-pakistan-pakbyte_8.webp?v=1793859689",
           "url": "https://www.pakbyte.pk/products/pc-cooler-da360-v2-argb-360mm-aio-liquid-cpu-cooler-white",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -91,6 +170,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -106,6 +186,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt620-pro-digital-cpu-air-cooler-price-in-pakistan-pakbyte_1.webp?v=1793858732",
           "url": "https://www.pakbyte.pk/products/pc-cooler-rt620-digital-cpu-air-cooler-black",
           "history": [
+            14490,
             14490,
             14490,
             14490,
@@ -129,6 +210,7 @@
             13790,
             13790,
             13790,
+            13790,
             13790
           ]
         },
@@ -144,6 +226,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt720-tc-argb-price-in-pakistan-pakbyte_1.webp?v=1793857732",
           "url": "https://www.pakbyte.pk/products/pc-cooler-rt720-tc-argb-cpu-air-cooler-black",
           "history": [
+            13490,
             13490,
             13490,
             13490,
@@ -167,6 +250,7 @@
             10490,
             10490,
             10490,
+            10490,
             10490
           ]
         },
@@ -182,6 +266,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt620pro-tc-argb-price-in-pakistan-pakbyte_1.webp?v=1793795694",
           "url": "https://www.pakbyte.pk/products/pc-cooler-rt620pro-tc-argb-dual-tower-cpu-air-cooler-black",
           "history": [
+            10190,
             10190,
             10190,
             10190,
@@ -211,6 +296,7 @@
             8390,
             8390,
             8390,
+            8390,
             8390
           ]
         },
@@ -226,6 +312,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-cps-rt500-digital-argb-price-in-pakistan-pakbyte_1.webp?v=1793794164",
           "url": "https://www.pakbyte.pk/products/pc-cooler-cps-rt500-digital-argb-cpu-air-cooler-black",
           "history": [
+            7990,
             7990,
             7990,
             7990,
@@ -255,6 +342,7 @@
             7490,
             7490,
             7490,
+            7490,
             7490
           ]
         },
@@ -270,6 +358,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-cps-r400-argb-price-in-pakistan-pakbyte_5.webp?v=1793793118",
           "url": "https://www.pakbyte.pk/products/pc-cooler-cps-r400-argb-air-cpu-cooler-white",
           "history": [
+            5290,
             5290,
             5290,
             5290,
@@ -299,6 +388,7 @@
             5290,
             5290,
             5290,
+            5290,
             5290
           ]
         },
@@ -314,6 +404,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-r300-argb-price-in-pakistan-pakbyte_3.webp?v=1793792290",
           "url": "https://www.pakbyte.pk/products/pccooler-r300-argb-cpu-air-cooler-black",
           "history": [
+            3990,
             3990,
             3990,
             3990,
@@ -343,6 +434,7 @@
             21990,
             21990,
             21990,
+            21990,
             21990
           ]
         },
@@ -358,6 +450,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-EISA-K7681-Wireless-Machaical-Gaming-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1793791097",
           "url": "https://www.pakbyte.pk/products/redragon-eisa-k768-wireless-rgb-mechanical-gaming-keyboard",
           "history": [
+            15590,
             15590,
             15590,
             15590,
@@ -387,6 +480,7 @@
             17790,
             17790,
             17790,
+            17790,
             17790
           ]
         },
@@ -402,6 +496,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-EISA100-WGR-K768-Wireless-RGB-Mechanical-Gaming-Keyboard_Price-in-Pakistan-Pakbyte_1.webp?v=1793790400",
           "url": "https://www.pakbyte.pk/products/redragon-eisa100-wgr-k768-wireless-rgb-mechanical-gaming-keyboard",
           "history": [
+            15680,
             15680,
             15680,
             15680,
@@ -431,6 +526,7 @@
             6090,
             6090,
             6090,
+            6090,
             6090
           ]
         },
@@ -446,6 +542,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-m998-std-1k-ebony-standard-tri-mode-gaming-mouse-price-in-pakistan-pakbyte_4.avif?v=1793788650",
           "url": "https://www.pakbyte.pk/products/redragon-m998-std-1k-ebony-standard-tri-mode-gaming-mouse-with-charging-dock",
           "history": [
+            6650,
             6650,
             6650,
             6650,
@@ -15341,7 +15438,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-volcano-k526-pro-104-keys-mechanical-feel-keyboard",
           "history": [
             7990,
-            7990,
+            8140,
             8140,
             8140,
             8140,
@@ -15421,7 +15518,7 @@
             16270,
             16270,
             16270,
-            16270,
+            16990,
             16990,
             16990,
             16990,
@@ -19067,7 +19164,7 @@
             13990,
             13990,
             13990,
-            13990,
+            11990,
             11990,
             11990
           ]
@@ -19093,7 +19190,7 @@
             13990,
             13990,
             13990,
-            13990,
+            10990,
             10990,
             10990
           ]
@@ -22379,8 +22476,8 @@
           "name": "Lian Li CL120 Wireless Triple Fan Pack - Black",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 15490,
-          "oldPrice": null,
+          "price": 13990,
+          "oldPrice": 15490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-cl120-argb-black-price-in-pakistan-pakbyte_1_a96262c7-c56b-4638-b080-ceeb93ee04de.webp?v=1773559214",
@@ -22397,7 +22494,7 @@
             15490,
             15490,
             15490,
-            15490
+            13990
           ]
         },
         {
@@ -22691,8 +22788,8 @@
           "name": "Lian Li Vector V100 Mini Micro Form Factor Compact PC Case - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 18990,
-          "oldPrice": null,
+          "price": 19990,
+          "oldPrice": 18990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-mini-price-in-pakistan-pakbyte_1.webp?v=1773515689",
@@ -22709,7 +22806,7 @@
             18990,
             18990,
             18990,
-            18990
+            19990
           ]
         },
         {
@@ -28801,8 +28898,8 @@
           "name": "Lian Li UNI Fan CL120 ARGB 120mm PWM Fans - Triple Pack Reverse Blade - White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 15490,
-          "oldPrice": null,
+          "price": 13990,
+          "oldPrice": 15490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-cl120-price-in-pakistan-pakbyte_1.webp?v=1771265981",
@@ -28819,7 +28916,7 @@
             15490,
             15490,
             15490,
-            15490
+            13990
           ]
         },
         {
@@ -28827,8 +28924,8 @@
           "name": "Lian Li UNI Fan CL Wireless Triple Pack – White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 15490,
-          "oldPrice": null,
+          "price": 13990,
+          "oldPrice": 15490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Unifan-CL-triple-pack-wireless-price-in-pakistan-pakbyte.jpg?v=1771265649",
@@ -28845,7 +28942,7 @@
             15490,
             15490,
             15490,
-            15490
+            13990
           ]
         },
         {
@@ -29129,7 +29226,7 @@
             59990,
             59990,
             59990,
-            59990,
+            54990,
             54990,
             54990
           ]
@@ -30969,7 +31066,7 @@
             13790,
             13790,
             13790,
-            13790,
+            16590,
             16590,
             16590,
             16590,
@@ -30995,7 +31092,7 @@
             12990,
             12990,
             12990,
-            12990,
+            13990,
             13990,
             13990,
             13990,
@@ -37121,8 +37218,8 @@
           "name": "Lian Li Vector V100 ATX Mid-Tower PC Case - White",
           "brand": "Lian Li",
           "category": "case",
-          "price": 23490,
-          "oldPrice": null,
+          "price": 23990,
+          "oldPrice": 23490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-white-price-in-pakistan-pakbyte_2.webp?v=1766068916",
@@ -37139,7 +37236,7 @@
             23490,
             23490,
             23490,
-            23490
+            23990
           ]
         },
         {
@@ -37147,8 +37244,8 @@
           "name": "Lian Li Vector V100 ATX Mid-Tower PC Case -  Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 22490,
-          "oldPrice": null,
+          "price": 22990,
+          "oldPrice": 22490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-black-price-in-pakistan-pakbyte_1.webp?v=1766068438",
@@ -37165,7 +37262,7 @@
             22490,
             22490,
             22490,
-            22490
+            22990
           ]
         },
         {
@@ -39677,7 +39774,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-k525-shiva-pro-wireless-anti-ghosting-membrane-gaming-keyboard",
           "history": [
             7090,
-            7090,
+            7190,
             7190,
             7190,
             7190,
@@ -39731,7 +39828,7 @@
             6990,
             6990,
             6990,
-            6990,
+            7290,
             7290,
             7290,
             7290,
@@ -46340,7 +46437,7 @@
             7290,
             7290,
             7290,
-            7290,
+            7499,
             7499,
             7499,
             7499
@@ -48493,7 +48590,7 @@
             16590,
             16590,
             16590,
-            16590,
+            16690,
             16690,
             16690,
             16690,
@@ -48595,7 +48692,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-k521-rainbow-gaming-keyboard",
           "history": [
             3690,
-            3690,
+            3740,
             3740,
             3740,
             3740,
@@ -48724,7 +48821,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-m816-pro-price-in-pakistan-pakbyte_2.jpg?v=1761952413",
           "url": "https://www.pakbyte.pk/products/redragon-m816-pro-wireless-gaming-mouse",
           "history": [
-            7990,
+            8150,
             8150,
             8150,
             8150,
@@ -48776,7 +48873,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-m618-lit-wireless-mouse-price-in-pakistan_2.jpg?v=1761949895",
           "url": "https://www.pakbyte.pk/products/redragon-m618-lit-wireless-gaming-mouse",
           "history": [
-            4350,
+            4540,
             4540,
             4540,
             4540,
@@ -52682,7 +52779,7 @@
             72999,
             72999,
             72999,
-            72999,
+            88999,
             88999,
             88999,
             88999,
@@ -53745,7 +53842,7 @@
             16290,
             16290,
             16290,
-            16290,
+            15190,
             15190,
             15190,
             15190,
@@ -54028,7 +54125,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-TRIDENT-M693-Wireless-Bluetooth-RGB-Gaming-Mouse.jpg?v=1756553449",
           "url": "https://www.pakbyte.pk/products/redragon-trident-lite-m693-wireless-bluetooth-rgb-gaming-mouse",
           "history": [
-            5890,
+            5190,
             5190,
             5190,
             5190,
@@ -62679,9 +62776,9 @@
           "name": "Lian Li O11 Dynamic EVO XL ATX Gaming Case - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 86990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 80990,
+          "oldPrice": 86990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-O11-Dynamic-EVO-XL-ATX-Gaming-Case-Black-PakByte-Computers-26336994525251.jpg?v=1753669720",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-dynamic-evo-xl-atx-gaming-case-black",
@@ -62697,7 +62794,7 @@
             86990,
             86990,
             86990,
-            86990
+            80990
           ]
         },
         {
@@ -62707,7 +62804,7 @@
           "category": "case",
           "price": 40990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-O11-Vision-Compact-ATX-Mid-Tower-Gaming-Case-White-PakByte-Computers-26336992657475.jpg?v=1753669720",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-compact-atx-mid-tower-gaming-case-white",
@@ -75471,8 +75568,8 @@
           "name": "Lian Li UNI Fan SL-Infinity 120 with L Wireless Controller  - Triple Pack - White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 24490,
-          "oldPrice": null,
+          "price": 21990,
+          "oldPrice": 24490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-UNI-Fan-SL-Infinity-120-Triple-Pack-White-PakByte-Computers-25890167390275.jpg?v=1753672300",
@@ -75489,7 +75586,7 @@
             24490,
             24490,
             24490,
-            24490
+            21990
           ]
         },
         {
@@ -75497,8 +75594,8 @@
           "name": "Lian Li UNI Fan SL-Infinity 120 with L Wireless Controller - Triple Pack - Black",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 24490,
-          "oldPrice": null,
+          "price": 21990,
+          "oldPrice": 24490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
@@ -75515,7 +75612,7 @@
             24490,
             24490,
             24490,
-            24490
+            21990
           ]
         },
         {
@@ -75549,9 +75646,9 @@
           "name": "Lian Li O11 Dynamic EVO XL ATX Gaming Case - White",
           "brand": "Lian Li",
           "category": "case",
-          "price": 89990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 82990,
+          "oldPrice": 89990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-O11-Dynamic-EVO-XL-ATX-Gaming-Case-White-PakByte-Computers-26336995934275.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-dynamic-evo-full-tower-xl-case-white",
@@ -75567,7 +75664,7 @@
             89990,
             89990,
             89990,
-            89990
+            82990
           ]
         },
         {
@@ -80707,7 +80804,7 @@
             13490,
             13490,
             13490,
-            13490,
+            11790,
             11790,
             11790,
             11790,
@@ -80837,7 +80934,7 @@
             11390,
             11390,
             11390,
-            11390,
+            10490,
             10490,
             10490,
             10490,
@@ -80863,7 +80960,7 @@
             7920,
             7920,
             7920,
-            7920,
+            7890,
             7890,
             7890,
             7890,
@@ -80889,7 +80986,7 @@
             7890,
             7890,
             7890,
-            7890,
+            8490,
             8490,
             8490,
             8490,
@@ -99560,7 +99657,7 @@
             36999,
             36999,
             36999,
-            36999,
+            42999,
             42999,
             42999,
             42999,
@@ -110321,7 +110418,7 @@
             10890,
             10890,
             10890,
-            10890,
+            12290,
             12290,
             12290,
             12290,
@@ -112373,7 +112470,7 @@
           "url": "https://www.pakbyte.pk/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard",
           "history": [
             6190,
-            6190,
+            6390,
             6390,
             6390,
             6390,
@@ -113932,7 +114029,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-Suzaku-P003-Huge-Professional-Gaming-Mouse-Pad-PakByte-Computers-24397721993283.webp?v=1753679912",
           "url": "https://www.pakbyte.pk/products/redragon-suzaku-p003-huge-professional-gaming-mouse-pad",
           "history": [
-            2290,
+            2990,
             2990,
             2990,
             2990,
@@ -118579,8 +118676,8 @@
           "name": "Lian Li Uni Fan P28 120mm PWM - Triple Pack - White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 17490,
-          "oldPrice": null,
+          "price": 11990,
+          "oldPrice": 17490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-P28-120mm-PWM-Triple-Pack-White-PakByte-Computers-26337011564611.jpg?v=1753680646",
@@ -118597,7 +118694,7 @@
             17490,
             17490,
             17490,
-            17490
+            11990
           ]
         },
         {
@@ -119012,6 +119109,7 @@
             4690,
             4690,
             4690,
+            4690,
             4690
           ]
         },
@@ -119027,6 +119125,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M711-COBRA-GAMING-MOUSE-WHITE-PakByte-Computers-24397631029315.webp?v=1753680693",
           "url": "https://www.pakbyte.pk/products/redragon-m711-cobra-gaming-mouse-white",
           "history": [
+            5450,
             5450,
             5450,
             5450,
@@ -119208,7 +119307,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-TRIDENT-PRO-M693-Wireless-Bluetooth-RGB-Gaming-Mouse-PakByte-Computers-24397629030467.webp?v=1753680716",
           "url": "https://www.pakbyte.pk/products/redragon-trident-m693-wireless-bluetooth-rgb-gaming-mouse",
           "history": [
-            6590,
+            6390,
             6390,
             6390,
             6390,
@@ -119260,7 +119359,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/REDRAGON-M686-VAMPIRE-ELITE-WIRELESS-GAMING-MOUSE-PakByte-Computers-24397627686979.webp?v=1753680716",
           "url": "https://www.pakbyte.pk/products/redragon-m686-vampire-elite-wireless-gaming-mouse",
           "history": [
-            6990,
+            8290,
             8290,
             8290,
             8290,
@@ -127719,7 +127818,7 @@
             59990,
             59990,
             59990,
-            59990,
+            52990,
             52990,
             52990
           ]
@@ -127729,8 +127828,8 @@
           "name": "LIAN LI Lancool III RGB Glass Gaming Case - White",
           "brand": "Lian Li",
           "category": "case",
-          "price": 42790,
-          "oldPrice": null,
+          "price": 49490,
+          "oldPrice": 42790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-Lancool-III-RGB-Glass-Gaming-Case-White-PakByte-Computers-24397419806787.webp?v=1753682363",
@@ -127747,7 +127846,7 @@
             42790,
             42790,
             42790,
-            42790
+            49490
           ]
         },
         {
@@ -127755,9 +127854,9 @@
           "name": "LIAN LI Lancool III RGB Tempered Glass Gaming Case - Black",
           "brand": "Lian Li",
           "category": "case",
-          "price": 49490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 48490,
+          "oldPrice": 49490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-Lancool-III-RGB-Tempered-Glass-Gaming-Case-Black-PakByte-Computers-24397419020355.webp?v=1753682375",
           "url": "https://www.pakbyte.pk/products/lian-li-lancool-iii-rgb-black",
@@ -127773,7 +127872,7 @@
             49490,
             49490,
             49490,
-            49490
+            48490
           ]
         },
         {
@@ -151808,6 +151907,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_cyborg_15_a13v_translucent_black.webp",
           "url": "https://rbtechngames.com/product/msi-cyborg-15-a13v-a13ve-1090ca-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-translucent-black-used",
           "history": [
+            262999,
             262999
           ]
         },
@@ -151823,6 +151923,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_gigabyte_aero_15_oled.webp",
           "url": "https://rbtechngames.com/product/gigabyte-aero-15-oled-rp75-intel-core-i7-11th-gen-16gb-ram-512gb-ssd-rtx-3060-15-6-uhd-4k-60hz-oled-display-black-used",
           "history": [
+            257999,
             257999
           ]
         },
@@ -151838,6 +151939,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_hp_hyperx_omen_max_16.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-max-16-ah1023dx-intel-core-ultra-9-32gb-ram-1tb-ssd-rtx-5070-ti-16-qhd-240hz-oled-display-shadow-black-new",
           "history": [
+            964999,
             964999
           ]
         },
@@ -151853,6 +151955,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_acer_nitro_5_rtx_4050_i5_12.jpeg",
           "url": "https://rbtechngames.com/product/acer-nitro-5-an515-58-54ze-intel-core-i5-12th-gen-16gb-ram-512gb-ssd-rtx-4050-15-6-fhd-165hz-ips-display-black-used",
           "history": [
+            257999,
             257999
           ]
         },
@@ -151868,6 +151971,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_loq_15_15irx10.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-core-i5-13th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-luna-grey-used",
           "history": [
+            382999,
             382999
           ]
         },
@@ -151883,6 +151987,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-ips-display-eclipse-black-used",
           "history": [
+            489999,
             489999
           ]
         },
@@ -151898,6 +152003,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_acer_predator_helios_neo_16_abyssal_black.jpg",
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-phn16-71-54w3-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-16-qhd-165hz-ips-display-abyssal-black-used",
           "history": [
+            262999,
             262999
           ]
         },
@@ -151913,6 +152019,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/MSIKatana-4.png",
           "url": "https://rbtechngames.com/product/msi-katana-15-hx-b14w-b14wek-665xae-intel-i7-14th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-core-black-used",
           "history": [
+            389999,
             389999
           ]
         },
@@ -151928,6 +152035,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/MSIKatana-4.png",
           "url": "https://rbtechngames.com/product/msi-katana-15-hx-b14w-b14wek-436ca-intel-i7-14th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-core-black-used",
           "history": [
+            384999,
             384999
           ]
         },
@@ -151943,6 +152051,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/LOQ_15IRX9_CT1_02.avif",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx9-intel-core-i7-13th-gen-16gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-luna-grey-used",
           "history": [
+            272999,
             272999
           ]
         },
@@ -151958,6 +152067,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_rtx_2060_super_ventus.webp",
           "url": "https://rbtechngames.com/product/msi-geforce-rtx-2060-super-ventus-8gb-graphics-card-used",
           "history": [
+            84999,
             84999
           ]
         },
@@ -151973,6 +152083,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_asus_dual_gtx_1660_super.png",
           "url": "https://rbtechngames.com/product/asus-dual-geforce-gtx-1660-super-6gb-graphics-card-used",
           "history": [
+            64999,
             64999
           ]
         },
@@ -151988,6 +152099,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_mag_b550_tomahawk_wifi_ddr4.webp",
           "url": "https://rbtechngames.com/product/msi-mag-b550-tomahawk-wifi-atx-am4-ddr4-gaming-motherboard",
           "history": [
+            64999,
             64999
           ]
         },
@@ -152003,6 +152115,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_vxe_Dragonfly_x3_turbo_black.webp",
           "url": "https://rbtechngames.com/product/atk-vxe-dragonfly-x3-turbo-lightwight-wireless-gaming-mouse-black-white",
           "history": [
+            12999,
             12999
           ]
         },
@@ -152018,6 +152131,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_vxe_dragonfly_x3_pro_metallic_silver.webp",
           "url": "https://rbtechngames.com/product/atk-vxe-dragonfly-x3-pro-lightwight-wireless-gaming-mouse-metallic-silver-metallic-black-metallic-red",
           "history": [
+            10999,
             10999
           ]
         },
@@ -152033,6 +152147,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_blaze_xsoft_lake_green.webp",
           "url": "https://rbtechngames.com/product/atk-blaze-xsoft-large-esport-gaming-mousepad-red-black-lake-green",
           "history": [
+            4999,
             4999
           ]
         },
@@ -152048,6 +152163,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_reverie_black_white.webp",
           "url": "https://rbtechngames.com/product/atk-anime-gaming-mousepad-reverie-black-white-pink",
           "history": [
+            4499,
             4499
           ]
         },
@@ -152063,6 +152179,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_nana.webp",
           "url": "https://rbtechngames.com/product/atk-anime-gaming-mousepad-nana",
           "history": [
+            4499,
             4499
           ]
         },
@@ -152078,6 +152195,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_crimson.webp",
           "url": "https://rbtechngames.com/product/atk-tempered-glass-gaming-mousepad-crimson-limited-edition",
           "history": [
+            15499,
             15499
           ]
         },
@@ -152093,6 +152211,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_x99g_air_matcha_green.webp",
           "url": "https://rbtechngames.com/product/atk-99g-air-xsoft-esport-gaming-mousepad-matcha-green",
           "history": [
+            3999,
             3999
           ]
         },
@@ -154795,7 +154914,7 @@
             294999,
             294999,
             294999,
-            294999,
+            299999,
             299999,
             299999
           ]
@@ -155003,7 +155122,7 @@
             259999,
             259999,
             259999,
-            259999,
+            264999,
             264999,
             264999
           ]
@@ -155410,7 +155529,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_hyperx_omen_15.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-15-15-ga0031tx-intel-core-i7-14th-gen-24gb-ram-1tb-ssd-rtx-5060-15-3-qhd-180hz-ips-display-shadow-black-new",
           "history": [
-            489999,
+            509999,
             509999,
             509999,
             509999,
@@ -155705,7 +155824,7 @@
             564999,
             564999,
             564999,
-            564999,
+            724999,
             724999,
             724999
           ]
@@ -155780,7 +155899,7 @@
             114999,
             114999,
             114999,
-            114999,
+            144999,
             144999,
             144999,
             144999,
@@ -155990,36 +156109,10 @@
             899999,
             899999,
             899999,
-            899999,
+            964999,
             964999,
             964999,
             964999
-          ]
-        },
-        {
-          "id": "rbtechgames_fa2ea3a8",
-          "name": "Asus ProArt Z890-Creator WiFi ATX LGA1851 DDR5 Gaming Motherboard",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 174999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_asus_proart_z890-creator_wifi.webp",
-          "url": "https://rbtechngames.com/product/asus-proart-z890-creator-wifi-atx-lga1851-ddr5-gaming-motherboard",
-          "history": [
-            174999,
-            174999,
-            174999,
-            174999,
-            174999,
-            174999,
-            174999,
-            174999,
-            174999,
-            174999,
-            174999,
-            174999
           ]
         },
         {
@@ -156303,7 +156396,7 @@
             118999,
             118999,
             118999,
-            118999,
+            132499,
             132499,
             132499
           ]
@@ -157369,7 +157462,7 @@
             269999,
             269999,
             269999,
-            269999,
+            274999,
             274999,
             274999
           ]
@@ -157438,7 +157531,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_attack_shark_x82pro_he_wireless_comic.webp",
           "url": "https://rbtechngames.com/product/attack-shark-x82pro-he-75-rapid-trigger-magnetic-wireless-rgb-gaming-keyboard-comic-black-contours-white-contours",
           "history": [
-            17999,
+            16499,
             16499,
             16499,
             16499,
@@ -157681,7 +157774,7 @@
             429999,
             429999,
             429999,
-            429999,
+            464999,
             464999,
             464999
           ]
@@ -157759,7 +157852,7 @@
             694999,
             694999,
             694999,
-            694999,
+            874999,
             874999,
             874999
           ]
@@ -157941,7 +158034,7 @@
             259999,
             259999,
             259999,
-            259999,
+            269999,
             269999,
             269999
           ]
@@ -158383,35 +158476,9 @@
             26499,
             26499,
             26499,
-            26499,
+            42499,
             42499,
             42499
-          ]
-        },
-        {
-          "id": "rbtechgames_6f51d93e",
-          "name": "Gigabyte GeForce RTX 5080 Windforce OC SFF 16GB Graphics Card",
-          "brand": "Gigabyte",
-          "category": "gpu",
-          "price": 679999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5080_windforce_oc_sff_16gb.webp",
-          "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card",
-          "history": [
-            544999,
-            544999,
-            544999,
-            544999,
-            544999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999
           ]
         },
         {
@@ -158556,6 +158623,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_aula_f99_pro_blue_white_black.webp",
           "url": "https://rbtechngames.com/product/aula-f99-pro-wireless-rgb-magnetic-gaming-keyboard-blue-white-black-white-black-grey-black-green-blue-side-printed-black-side-printed",
           "history": [
+            15499,
             15499,
             15499,
             15499,
@@ -158902,7 +158970,7 @@
             264999,
             264999,
             264999,
-            264999,
+            274999,
             274999,
             274999
           ]
@@ -159058,6 +159126,7 @@
             284999,
             284999,
             294999,
+            294999,
             294999
           ]
         },
@@ -159082,7 +159151,7 @@
             259999,
             259999,
             259999,
-            259999,
+            269999,
             269999,
             269999
           ]
@@ -159264,7 +159333,7 @@
             549999,
             549999,
             549999,
-            549999,
+            699999,
             699999,
             699999
           ]
@@ -159281,13 +159350,13 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5070_ti_solid_oc_sff_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-ti-solid-16gb-oc-sff-graphics-card",
           "history": [
-            379999,
             389999,
             389999,
             389999,
             389999,
             449999,
             449999,
+            484999,
             484999,
             484999,
             484999,
@@ -159316,7 +159385,7 @@
             299999,
             299999,
             299999,
-            299999,
+            309999,
             309999,
             309999
           ]
@@ -159420,7 +159489,7 @@
             299999,
             299999,
             299999,
-            299999,
+            309999,
             309999,
             309999
           ]
@@ -161685,32 +161754,6 @@
             39999,
             39999,
             39999
-          ]
-        },
-        {
-          "id": "rbtechgames_6aa1972c",
-          "name": "Gainward GeForce RTX 3070 Ti Phoenix 8GB &#8211; USED",
-          "brand": "Gainward",
-          "category": "gpu",
-          "price": 112499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2023/04/rbtech_gainward_rtx3070ti_chasin_1.jpg",
-          "url": "https://rbtechngames.com/product/gainward-geforce-rtx-3070-ti-phoenix-8gb-used",
-          "history": [
-            112499,
-            112499,
-            112499,
-            112499,
-            112499,
-            112499,
-            112499,
-            112499,
-            112499,
-            112499,
-            112499,
-            112499
           ]
         },
         {
