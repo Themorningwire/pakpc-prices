@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T04:51:10.790993+00:00",
+  "lastUpdated": "2026-11-09T15:18:32.919810+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,246 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_2b6404e6",
+          "name": "XYZ Thermax 6 Pulsar ARGB Air Cooler - White",
+          "brand": "XYZ",
+          "category": "cooler",
+          "price": 11290,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Thermax-6-Pulsar-Air-Cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1794236492",
+          "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pulsar-argb-air-cooler-white",
+          "history": [
+            11290
+          ]
+        },
+        {
+          "id": "pakbyte_3b4fda13",
+          "name": "XYZ Thermax 6 Pulsar ARGB Air Cooler - Black",
+          "brand": "XYZ",
+          "category": "cooler",
+          "price": 10790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Thermax-6-pulsar-price-in-pakistan-pakbyte_1.webp?v=1794236129",
+          "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pulsar-argb-air-cooler-black",
+          "history": [
+            10790
+          ]
+        },
+        {
+          "id": "pakbyte_d2aa7574",
+          "name": "XYZ Hydroview 360 AIO CPU Cooler - White",
+          "brand": "XYZ",
+          "category": "cooler",
+          "price": 48990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-360-price-in-pakistan-pakbyte_1.webp?v=1794235736",
+          "url": "https://www.pakbyte.pk/products/xyz-hydroview-360-aio-cpu-cooler-white",
+          "history": [
+            48990
+          ]
+        },
+        {
+          "id": "pakbyte_76ff18ca",
+          "name": "XYZ Hydroview 240 AIO CPU Cooler - White",
+          "brand": "XYZ",
+          "category": "cooler",
+          "price": 42490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-240-price-in-pakistan-pakbyte_1.webp?v=1794235242",
+          "url": "https://www.pakbyte.pk/products/xyz-hydroview-240-aio-cpu-cooler-white",
+          "history": [
+            42490
+          ]
+        },
+        {
+          "id": "pakbyte_f8f34469",
+          "name": "XYZ Hydroview 240 AIO CPU Cooler - Black",
+          "brand": "XYZ",
+          "category": "cooler",
+          "price": 39990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-Price-in-Pakistan-Pakbyte_1.webp?v=1794234978",
+          "url": "https://www.pakbyte.pk/products/xyz-hydroview-240-aio-cpu-cooler-black",
+          "history": [
+            39990
+          ]
+        },
+        {
+          "id": "pakbyte_c716bb4d",
+          "name": "XYZ Hydrotemp 240 AIO CPU Cooler - White",
+          "brand": "XYZ",
+          "category": "cooler",
+          "price": 23990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-240mm-liquid-cpu-cooler-price-in-pakistan-pakbyte_1.webp?v=1794234475",
+          "url": "https://www.pakbyte.pk/products/xyz-hydrotemp-240-aio-cpu-cooler-white",
+          "history": [
+            23990
+          ]
+        },
+        {
+          "id": "pakbyte_7412043a",
+          "name": "XYZ Volt 1000W 80+ Bronze Power Supply",
+          "brand": "XYZ",
+          "category": "psu",
+          "price": 28490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Volt-1000W-Powersupply-price-in-pakistan-pakbyte_3.webp?v=1794234086",
+          "url": "https://www.pakbyte.pk/products/xyz-volt-1000w-80-bronze-power-supply",
+          "history": [
+            28490
+          ]
+        },
+        {
+          "id": "pakbyte_216a8166",
+          "name": "XYZ Volt 750W 80+ Bronze Power Supply",
+          "brand": "XYZ",
+          "category": "psu",
+          "price": 15990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Volt-750W-power-supply-price-in-pakistan-pakbyte_2.webp?v=1794233641",
+          "url": "https://www.pakbyte.pk/products/xyz-volt-750w-80-bronze-power-supply",
+          "history": [
+            15990
+          ]
+        },
+        {
+          "id": "pakbyte_6a43369e",
+          "name": "XYZ Volt 650W 80+ Bronze Power Supply",
+          "brand": "XYZ",
+          "category": "psu",
+          "price": 13990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-650W-Powersupply-price-in-pakistan-pakbyte_3.webp?v=1794233135",
+          "url": "https://www.pakbyte.pk/products/xyz-volt-650w-80-bronze-power-supply",
+          "history": [
+            13990
+          ]
+        },
+        {
+          "id": "pakbyte_59c7b478",
+          "name": "Lian Li Edge Gold V2 1000W, 80 Plus Power Supply with Hub V2 - Black",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 41990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Edge-Gold-V2-1000W-Powersupply-Black-Price-in-Pakistan-Pakbyte_2.webp?v=1794213212",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-gold-v2-1000w-80-plus-power-supply-with-hub-v2-black",
+          "history": [
+            41990
+          ]
+        },
+        {
+          "id": "pakbyte_c4943093",
+          "name": "Lian Li Edge Gold V2 1000W, 80 Plus Power Supply with Hub V2 - White",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 41990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Edge-Gold-V2-1000W-Power-supply-Price-in-pakistan-Pakbyte_1.webp?v=1794211380",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-gold-v2-1000w-80-plus-power-supply-with-hub-v2-white",
+          "history": [
+            41990
+          ]
+        },
+        {
+          "id": "pakbyte_f9aa1980",
+          "name": "Lian Li Edge Gold V2 850W Full Modular Power Supply - Black",
+          "brand": "Lian Li",
+          "category": "psu",
+          "price": 29990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LianLi-Edge-Gold-V2-850W-power-supply-price-in-pakistan-pakbyte_1.jpg?v=1794209319",
+          "url": "https://www.pakbyte.pk/products/lian-li-edge-gold-v2-850w-full-modular-power-supply-black",
+          "history": [
+            29990
+          ]
+        },
+        {
+          "id": "pakbyte_8529aadd",
+          "name": "LIAN LI UNI FAN SL-INF FLEX 120mm Reverse Blade Single Pack Case Fan - White",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 9990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-price-in-pakistan-pakbyte_1_0dc5e8bd-23d1-4f7b-93cd-79b58e3e6730.webp?v=1794206694",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-single-pack-case-fan-white",
+          "history": [
+            9990
+          ]
+        },
+        {
+          "id": "pakbyte_cc0648bc",
+          "name": "LIAN LI UNI FAN SL-INF FLEX 120mm Reverse Blade Single Pack Case Fan - Black",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 9990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-120mm-ARGB-Black-Case-Fans-Price-in-Pakistan-Pakbyte.webp?v=1794205974",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-single-pack-case-fan-black",
+          "history": [
+            9990
+          ]
+        },
+        {
+          "id": "pakbyte_abdacb3c",
+          "name": "Lian Li UNI FAN SL-INF Flex 120 ARGB Fan Single - White",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 9990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-price-in-pakistan-pakbyte_1.webp?v=1794205244",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120-argb-fan-single-white",
+          "history": [
+            9990
+          ]
+        },
+        {
+          "id": "pakbyte_9f5401b1",
+          "name": "Lian Li UNI FAN SL-INF Flex 120 ARGB Fan Single - Black",
+          "brand": "Lian Li",
+          "category": "cooler",
+          "price": 9990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-120mm-ARGB-Black-Case-Fans-Price-in-Pakistan-Pakbyte_eb3f0015-4b44-4242-bb8f-3f0b4fb21092.webp?v=1794205997",
+          "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120-argb-fan-single-black",
+          "history": [
+            9990
+          ]
+        },
         {
           "id": "pakbyte_0744575a",
           "name": "Lian Li UNI Fan SL-INF Flex 120mm Reverse Blade ARGB Fan - 3 Pack - White",
@@ -20,6 +260,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-sl-inf-flex-price-in-pakistan-pakbyte_5_239ea02b-b975-48f0-9a82-53d3d3c14a50.webp?v=1794047038",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-argb-fan-3-pack-white",
           "history": [
+            28490,
             28490,
             28490,
             28490,
@@ -45,6 +286,7 @@
             28490,
             28490,
             28490,
+            28490,
             28490
           ]
         },
@@ -60,6 +302,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v150-inf-price-in-pakistan-pakbyte_1.webp?v=1794038960",
           "url": "https://www.pakbyte.pk/products/lian-li-vector-v150-inf-micro-atx-pc-case-black",
           "history": [
+            24990,
             24990,
             24990,
             24990,
@@ -85,6 +328,7 @@
             42490,
             42490,
             42490,
+            42490,
             42490
           ]
         },
@@ -105,6 +349,7 @@
             41490,
             41490,
             41490,
+            41490,
             41490
           ]
         },
@@ -120,6 +365,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11-vision-m-price-in-pakistan-pakbyte_5.webp?v=1793993407",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-m-matx-pc-case-black-1",
           "history": [
+            23490,
             23490,
             23490,
             23490,
@@ -149,6 +395,7 @@
             22490,
             22490,
             22490,
+            22490,
             22490
           ]
         },
@@ -171,6 +418,7 @@
             23490,
             23490,
             23490,
+            23490,
             23490
           ]
         },
@@ -186,6 +434,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-da360-v2-argb-360mm-aio-liquid-cpu-cooler-price-in-pakistan-pakbyte_8.webp?v=1793859689",
           "url": "https://www.pakbyte.pk/products/pc-cooler-da360-v2-argb-360mm-aio-liquid-cpu-cooler-white",
           "history": [
+            16490,
             16490,
             16490,
             16490,
@@ -221,6 +470,7 @@
             16490,
             16490,
             16490,
+            16490,
             16490
           ]
         },
@@ -236,6 +486,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt620-pro-digital-cpu-air-cooler-price-in-pakistan-pakbyte_1.webp?v=1793858732",
           "url": "https://www.pakbyte.pk/products/pc-cooler-rt620-digital-cpu-air-cooler-black",
           "history": [
+            14490,
             14490,
             14490,
             14490,
@@ -271,6 +522,7 @@
             13790,
             13790,
             13790,
+            13790,
             13790
           ]
         },
@@ -296,6 +548,7 @@
             13490,
             13490,
             13490,
+            13490,
             13490
           ]
         },
@@ -311,6 +564,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/pccooler-rt620pro-tc-argb-price-in-pakistan-pakbyte_5.webp?v=1793856336",
           "url": "https://www.pakbyte.pk/products/pc-cooler-rt620pro-tc-argb-dual-tower-cpu-air-cooler-white",
           "history": [
+            10490,
             10490,
             10490,
             10490,
@@ -4485,8 +4739,8 @@
           ]
         },
         {
-          "id": "pakbyte_5f97db1d",
-          "name": "Lian Li HydroShift II LCD-S 360 N RGB AIO Liquid Cooler – Black (Fanless)",
+          "id": "pakbyte_ad0b6eca",
+          "name": "Lian Li HydroShift II LCD-S 360 N RGB Fanless AIO Liquid Cooler – Black",
           "brand": "Lian Li",
           "category": "cooler",
           "price": 41990,
@@ -4496,17 +4750,6 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1790233855",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-black-fanless",
           "history": [
-            41990,
-            41990,
-            41990,
-            41990,
-            41990,
-            41990,
-            41990,
-            41990,
-            41990,
-            41990,
-            41990,
             41990
           ]
         },
@@ -19267,7 +19510,7 @@
             13990,
             13990,
             13990,
-            13990,
+            11990,
             11990,
             11990,
             11990,
@@ -19293,7 +19536,7 @@
             13990,
             13990,
             13990,
-            13990,
+            10990,
             10990,
             10990,
             10990,
@@ -22533,8 +22776,8 @@
           "name": "Lian Li Hydroshift II 360 CL ARGB Liquid CPU Cooler - White",
           "brand": "Lian Li",
           "category": "cooler",
-          "price": 48490,
-          "oldPrice": null,
+          "price": 49990,
+          "oldPrice": 48490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Hydroshift-II-360-CL-ARGB-Liquid-CPU-Cooler-White-Price-in-Pakistan-Pakbyte_1.jpg?v=1773567894",
@@ -22551,7 +22794,7 @@
             48490,
             48490,
             48490,
-            48490
+            49990
           ]
         },
         {
@@ -22597,7 +22840,7 @@
             15490,
             15490,
             15490,
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -22909,7 +23152,7 @@
             18990,
             18990,
             18990,
-            18990,
+            19990,
             19990,
             19990,
             19990,
@@ -29019,7 +29262,7 @@
             15490,
             15490,
             15490,
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -29045,7 +29288,7 @@
             15490,
             15490,
             15490,
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -29329,7 +29572,7 @@
             59990,
             59990,
             59990,
-            59990,
+            54990,
             54990,
             54990,
             54990,
@@ -37339,7 +37582,7 @@
             23490,
             23490,
             23490,
-            23490,
+            23990,
             23990,
             23990,
             23990,
@@ -37365,7 +37608,7 @@
             22490,
             22490,
             22490,
-            22490,
+            22990,
             22990,
             22990,
             22990,
@@ -46540,7 +46783,7 @@
           "history": [
             7290,
             7290,
-            7290,
+            7499,
             7499,
             7499,
             7499,
@@ -52882,7 +53125,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/amd-ryzen-9-5900x-processor-price-in-pakistan-pakbyte_1.jpg?v=1758554534",
           "url": "https://www.pakbyte.pk/products/amd-ryzen-9-5900x-desktop-processor-boxed",
           "history": [
-            72999,
+            88999,
             88999,
             88999,
             88999,
@@ -62897,7 +63140,7 @@
             86990,
             86990,
             86990,
-            86990,
+            80990,
             80990,
             80990,
             80990,
@@ -75689,7 +75932,7 @@
             24490,
             24490,
             24490,
-            24490,
+            21990,
             21990,
             21990,
             21990,
@@ -75715,7 +75958,7 @@
             24490,
             24490,
             24490,
-            24490,
+            21990,
             21990,
             21990,
             21990,
@@ -75767,7 +76010,7 @@
             89990,
             89990,
             89990,
-            89990,
+            82990,
             82990,
             82990,
             82990,
@@ -99760,7 +100003,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Corsair-Vengeance-LPX-16GB-2x8GB-3600MHz-C16-DDR4-DRAM-Memory-Kit-Black-PakByte-Computers-24954012434499.jpg?v=1753677564",
           "url": "https://www.pakbyte.pk/products/corsair-vengeance-lpx-16gb-2x8gb-3600mhz-c16-ddr4-dram-memory-kit-black",
           "history": [
-            36999,
+            42999,
             42999,
             42999,
             42999,
@@ -118797,7 +119040,7 @@
             17490,
             17490,
             17490,
-            17490,
+            11990,
             11990,
             11990,
             11990,
@@ -127921,7 +128164,7 @@
             59990,
             59990,
             59990,
-            59990,
+            52990,
             52990,
             52990,
             52990,
@@ -127949,7 +128192,7 @@
             42790,
             42790,
             42790,
-            42790,
+            49490,
             49490,
             49490,
             49490,
@@ -127975,7 +128218,7 @@
             49490,
             49490,
             49490,
-            49490,
+            48490,
             48490,
             48490,
             48490,
@@ -152020,6 +152263,7 @@
             544999,
             544999,
             544999,
+            544999,
             544999
           ]
         },
@@ -152035,6 +152279,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_cyborg_15_a13v_translucent_black.webp",
           "url": "https://rbtechngames.com/product/msi-cyborg-15-a13v-a13ve-1090ca-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-translucent-black-used",
           "history": [
+            262999,
             262999,
             262999,
             262999,
@@ -152062,6 +152307,7 @@
             257999,
             257999,
             257999,
+            257999,
             257999
           ]
         },
@@ -152077,6 +152323,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_hp_hyperx_omen_max_16.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-max-16-ah1023dx-intel-core-ultra-9-32gb-ram-1tb-ssd-rtx-5070-ti-16-qhd-240hz-oled-display-shadow-black-new",
           "history": [
+            964999,
             964999,
             964999,
             964999,
@@ -152104,6 +152351,7 @@
             257999,
             257999,
             257999,
+            257999,
             257999
           ]
         },
@@ -152119,6 +152367,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_loq_15_15irx10.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-core-i5-13th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-luna-grey-used",
           "history": [
+            382999,
             382999,
             382999,
             382999,
@@ -152146,6 +152395,7 @@
             489999,
             489999,
             489999,
+            489999,
             489999
           ]
         },
@@ -152161,6 +152411,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_acer_predator_helios_neo_16_abyssal_black.jpg",
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-phn16-71-54w3-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-16-qhd-165hz-ips-display-abyssal-black-used",
           "history": [
+            262999,
             262999,
             262999,
             262999,
@@ -152188,6 +152439,7 @@
             389999,
             389999,
             389999,
+            389999,
             389999
           ]
         },
@@ -152203,6 +152455,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/MSIKatana-4.png",
           "url": "https://rbtechngames.com/product/msi-katana-15-hx-b14w-b14wek-436ca-intel-i7-14th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-core-black-used",
           "history": [
+            384999,
             384999,
             384999,
             384999,
@@ -152230,6 +152483,7 @@
             272999,
             272999,
             272999,
+            272999,
             272999
           ]
         },
@@ -152245,6 +152499,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_rtx_2060_super_ventus.webp",
           "url": "https://rbtechngames.com/product/msi-geforce-rtx-2060-super-ventus-8gb-graphics-card-used",
           "history": [
+            84999,
             84999,
             84999,
             84999,
@@ -152272,6 +152527,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -152287,6 +152543,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_vxe_Dragonfly_x3_turbo_black.webp",
           "url": "https://rbtechngames.com/product/atk-vxe-dragonfly-x3-turbo-lightwight-wireless-gaming-mouse-black-white",
           "history": [
+            12999,
             12999,
             12999,
             12999,
@@ -152314,6 +152571,7 @@
             10999,
             10999,
             10999,
+            10999,
             10999
           ]
         },
@@ -152329,6 +152587,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_blaze_xsoft_lake_green.webp",
           "url": "https://rbtechngames.com/product/atk-blaze-xsoft-large-esport-gaming-mousepad-red-black-lake-green",
           "history": [
+            4999,
             4999,
             4999,
             4999,
@@ -152356,6 +152615,7 @@
             4499,
             4499,
             4499,
+            4499,
             4499
           ]
         },
@@ -152371,6 +152631,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_nana.webp",
           "url": "https://rbtechngames.com/product/atk-anime-gaming-mousepad-nana",
           "history": [
+            4499,
             4499,
             4499,
             4499,
@@ -152398,6 +152659,7 @@
             15499,
             15499,
             15499,
+            15499,
             15499
           ]
         },
@@ -152413,6 +152675,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_x99g_air_matcha_green.webp",
           "url": "https://rbtechngames.com/product/atk-99g-air-xsoft-esport-gaming-mousepad-matcha-green",
           "history": [
+            3999,
             3999,
             3999,
             3999,
@@ -155063,7 +155326,7 @@
             294999,
             294999,
             294999,
-            294999,
+            299999,
             299999,
             299999,
             299999,
@@ -155271,7 +155534,7 @@
             259999,
             259999,
             259999,
-            259999,
+            264999,
             264999,
             264999,
             264999,
@@ -155973,7 +156236,7 @@
             564999,
             564999,
             564999,
-            564999,
+            724999,
             724999,
             724999,
             724999,
@@ -156048,7 +156311,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_crucial_sodimm_ddr5_single.jpg",
           "url": "https://rbtechngames.com/product/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory",
           "history": [
-            114999,
+            144999,
             144999,
             144999,
             144999,
@@ -156232,7 +156495,7 @@
           "history": [
             899999,
             899999,
-            899999,
+            964999,
             964999,
             964999,
             964999,
@@ -156519,7 +156782,7 @@
             118999,
             118999,
             118999,
-            118999,
+            132499,
             132499,
             132499,
             132499,
@@ -157533,7 +157796,7 @@
             269999,
             269999,
             269999,
-            269999,
+            274999,
             274999,
             274999,
             274999,
@@ -157845,7 +158108,7 @@
             429999,
             429999,
             429999,
-            429999,
+            464999,
             464999,
             464999,
             464999,
@@ -157923,7 +158186,7 @@
             694999,
             694999,
             694999,
-            694999,
+            874999,
             874999,
             874999,
             874999,
@@ -158105,7 +158368,7 @@
             259999,
             259999,
             259999,
-            259999,
+            269999,
             269999,
             269999,
             269999,
@@ -158547,10 +158810,10 @@
             26499,
             26499,
             26499,
+            42499,
+            42499,
+            42499,
             26499,
-            42499,
-            42499,
-            42499,
             26499,
             26499,
             26499,
@@ -159067,7 +159330,7 @@
             264999,
             264999,
             264999,
-            264999,
+            274999,
             274999,
             274999,
             274999,
@@ -159223,7 +159486,7 @@
             284999,
             284999,
             284999,
-            284999,
+            294999,
             294999,
             294999,
             294999,
@@ -159249,7 +159512,7 @@
             259999,
             259999,
             259999,
-            259999,
+            269999,
             269999,
             269999,
             269999,
@@ -159431,7 +159694,7 @@
             549999,
             549999,
             549999,
-            549999,
+            699999,
             699999,
             699999,
             699999,
@@ -159454,7 +159717,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_zotac_rtx_5070_ti_solid_oc_sff_16gb.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-ti-solid-16gb-oc-sff-graphics-card",
           "history": [
-            449999,
+            484999,
             484999,
             484999,
             484999,
@@ -159483,7 +159746,7 @@
             299999,
             299999,
             299999,
-            299999,
+            309999,
             309999,
             309999,
             309999,
@@ -159587,7 +159850,7 @@
             299999,
             299999,
             299999,
-            299999,
+            309999,
             309999,
             309999,
             309999,
@@ -161202,7 +161465,7 @@
             82999,
             82999,
             82999,
-            82999,
+            94999,
             94999,
             94999,
             94999,
