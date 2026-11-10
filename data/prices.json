@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T01:12:37.528106+00:00",
+  "lastUpdated": "2026-11-10T14:24:28.332714+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,96 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_65c8cdc5",
+          "name": "XYZ NEUTRON X PRO ARGB Gaming Case - White",
+          "brand": "XYZ",
+          "category": "case",
+          "price": 49990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Neutron-X-Pro-Gaming-Case-Price-in-Pakistan-Pakbyte_2.webp?v=1794290785",
+          "url": "https://www.pakbyte.pk/products/xyz-neutron-x-pro-argb-gaming-case-white",
+          "history": [
+            49990
+          ]
+        },
+        {
+          "id": "pakbyte_cd87476c",
+          "name": "XYZ TESSERACT X50 Dual Chamber ARGB Gaming Case - White",
+          "brand": "XYZ",
+          "category": "case",
+          "price": 24690,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Xyz-Tessaract-x50-gaming-case-price-in-pakistan-pakbyte_1.webp?v=1794290312",
+          "url": "https://www.pakbyte.pk/products/xyz-tesseract-x50-dual-chamber-argb-gaming-case-white",
+          "history": [
+            24690
+          ]
+        },
+        {
+          "id": "pakbyte_9df97b95",
+          "name": "XYZ Tesseract X ARGB Gaming Case - White",
+          "brand": "XYZ",
+          "category": "case",
+          "price": 46490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Tessaract-X-Price-in-Pakistan-Pakbyte_1.webp?v=1794288818",
+          "url": "https://www.pakbyte.pk/products/xyz-tesseract-x-argb-gaming-case-white",
+          "history": [
+            46490
+          ]
+        },
+        {
+          "id": "pakbyte_4fc613ef",
+          "name": "XYZ Trifecta ARGB Gaming Case - Black",
+          "brand": "XYZ",
+          "category": "case",
+          "price": 35990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-trifecta-Pc-Casing-Price-in-Pakistan-Pakbyte_1.webp?v=1794288380",
+          "url": "https://www.pakbyte.pk/products/xyz-trifecta-argb-gaming-case-black",
+          "history": [
+            35990
+          ]
+        },
+        {
+          "id": "pakbyte_3dffd699",
+          "name": "XYZ THERMAX 6 DUO ARGB Air Cooler - Black",
+          "brand": "XYZ",
+          "category": "cooler",
+          "price": 14790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermax-duo-6-bk-1price-in-Paksitan-pakbyte.webp?v=1794287876",
+          "url": "https://www.pakbyte.pk/products/xyz-thermax-6-duo-argb-air-cooler-black",
+          "history": [
+            14790
+          ]
+        },
+        {
+          "id": "pakbyte_7a99ad7e",
+          "name": "XYZ Thermax 6 Duo ARGB Air Cooler - White",
+          "brand": "XYZ",
+          "category": "cooler",
+          "price": 14790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermax-duo-6-argb-air-cooler-price-in-pakistan-pakbyte_2.webp?v=1794287114",
+          "url": "https://www.pakbyte.pk/products/xyz-thermax-6-duo-argb-air-cooler-white",
+          "history": [
+            14790
+          ]
+        },
         {
           "id": "pakbyte_5a0321da",
           "name": "XYZ THERMAX 6 PRO DUO ARGB Air Cooler - White",
@@ -20,6 +110,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-thermax-6-pro-duo-argb-air-cooler-price-in-pakistan-pakbyte_3.webp?v=1794240347",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pro-duo-argb-air-cooler-white",
           "history": [
+            18990,
             18990
           ]
         },
@@ -35,6 +126,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Thermax-6-Pro-Duo-Air-Cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1794239408",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pro-duo-argb-air-cooler-black",
           "history": [
+            18490,
             18490
           ]
         },
@@ -50,6 +142,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Thermax-6-Pulsar-Air-Cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1794236492",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pulsar-argb-air-cooler-white",
           "history": [
+            11290,
             11290,
             11290
           ]
@@ -67,6 +160,7 @@
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pulsar-argb-air-cooler-black",
           "history": [
             10790,
+            10790,
             10790
           ]
         },
@@ -82,6 +176,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-360-price-in-pakistan-pakbyte_1.webp?v=1794235736",
           "url": "https://www.pakbyte.pk/products/xyz-hydroview-360-aio-cpu-cooler-white",
           "history": [
+            48990,
             48990,
             48990
           ]
@@ -99,6 +194,7 @@
           "url": "https://www.pakbyte.pk/products/xyz-hydroview-240-aio-cpu-cooler-white",
           "history": [
             42490,
+            42490,
             42490
           ]
         },
@@ -114,6 +210,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-Price-in-Pakistan-Pakbyte_1.webp?v=1794234978",
           "url": "https://www.pakbyte.pk/products/xyz-hydroview-240-aio-cpu-cooler-black",
           "history": [
+            39990,
             39990,
             39990
           ]
@@ -131,6 +228,7 @@
           "url": "https://www.pakbyte.pk/products/xyz-hydrotemp-240-aio-cpu-cooler-white",
           "history": [
             23990,
+            23990,
             23990
           ]
         },
@@ -146,6 +244,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Volt-1000W-Powersupply-price-in-pakistan-pakbyte_3.webp?v=1794234086",
           "url": "https://www.pakbyte.pk/products/xyz-volt-1000w-80-bronze-power-supply",
           "history": [
+            28490,
             28490,
             28490
           ]
@@ -163,6 +262,7 @@
           "url": "https://www.pakbyte.pk/products/xyz-volt-750w-80-bronze-power-supply",
           "history": [
             15990,
+            15990,
             15990
           ]
         },
@@ -178,6 +278,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-650W-Powersupply-price-in-pakistan-pakbyte_3.webp?v=1794233135",
           "url": "https://www.pakbyte.pk/products/xyz-volt-650w-80-bronze-power-supply",
           "history": [
+            13990,
             13990,
             13990
           ]
@@ -195,6 +296,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-edge-gold-v2-1000w-80-plus-power-supply-with-hub-v2-black",
           "history": [
             41990,
+            41990,
             41990
           ]
         },
@@ -210,6 +312,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Edge-Gold-V2-1000W-Power-supply-Price-in-pakistan-Pakbyte_1.webp?v=1794211380",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-gold-v2-1000w-80-plus-power-supply-with-hub-v2-white",
           "history": [
+            41990,
             41990,
             41990
           ]
@@ -227,6 +330,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-edge-gold-v2-850w-full-modular-power-supply-black",
           "history": [
             29990,
+            29990,
             29990
           ]
         },
@@ -242,6 +346,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-price-in-pakistan-pakbyte_1_0dc5e8bd-23d1-4f7b-93cd-79b58e3e6730.webp?v=1794206694",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-single-pack-case-fan-white",
           "history": [
+            9990,
             9990,
             9990
           ]
@@ -259,6 +364,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-single-pack-case-fan-black",
           "history": [
             9990,
+            9990,
             9990
           ]
         },
@@ -274,6 +380,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-price-in-pakistan-pakbyte_1.webp?v=1794205244",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120-argb-fan-single-white",
           "history": [
+            9990,
             9990,
             9990
           ]
@@ -291,6 +398,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120-argb-fan-single-black",
           "history": [
             9990,
+            9990,
             9990
           ]
         },
@@ -306,6 +414,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-sl-inf-flex-price-in-pakistan-pakbyte_5_239ea02b-b975-48f0-9a82-53d3d3c14a50.webp?v=1794047038",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-argb-fan-3-pack-white",
           "history": [
+            28490,
             28490,
             28490,
             28490,
@@ -335,6 +444,7 @@
             28490,
             28490,
             28490,
+            28490,
             28490
           ]
         },
@@ -350,6 +460,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v150-inf-price-in-pakistan-pakbyte_1.webp?v=1794038960",
           "url": "https://www.pakbyte.pk/products/lian-li-vector-v150-inf-micro-atx-pc-case-black",
           "history": [
+            24990,
             24990,
             24990,
             24990,
@@ -379,6 +490,7 @@
             42490,
             42490,
             42490,
+            42490,
             42490
           ]
         },
@@ -401,6 +513,7 @@
             41490,
             41490,
             41490,
+            41490,
             41490
           ]
         },
@@ -416,6 +529,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-o11-vision-m-price-in-pakistan-pakbyte_5.webp?v=1793993407",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-m-matx-pc-case-black-1",
           "history": [
+            23490,
             23490,
             23490,
             23490,
@@ -449,6 +563,7 @@
             22490,
             22490,
             22490,
+            22490,
             22490
           ]
         },
@@ -464,6 +579,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-b4-matx-compact-case-price-in-Pakistan-pakbyte_1.webp?v=1793991720",
           "url": "https://www.pakbyte.pk/products/lian-li-b4-matx-mesh-compact-21-3l-micro-atx-pc-case-white",
           "history": [
+            23490,
             23490,
             23490,
             23490,
@@ -4435,7 +4551,7 @@
           "category": "keyboard",
           "price": 17490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Aula-F108Pro-Keyboard-Price-in-Pakistan-Pakbyte_1.webp?v=1790609665",
           "url": "https://www.pakbyte.pk/products/aula-f108-pro-tri-mode-mechanical-gaming-keyboard-grey-orange-deep-grey-reaper-switch",
@@ -4804,6 +4920,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1790233855",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-black-fanless",
           "history": [
+            41990,
             41990,
             41990
           ]
@@ -9261,7 +9378,7 @@
           "category": "monitor",
           "price": 15990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/micropack-mwc-3100-price-in-pakistan-pakbyte_1.webp?v=1784534867",
           "url": "https://www.pakbyte.pk/products/micropack-mwc-3100-100w-gan-fast-charging-wall-charger-4-in-1-travel-adapter-with-led-display-retractable-cable",
@@ -19563,7 +19680,7 @@
           "url": "https://www.pakbyte.pk/products/ease-ec124if-pro-panoramic-atx-gaming-case",
           "history": [
             13990,
-            13990,
+            11990,
             11990,
             11990,
             11990,
@@ -19589,7 +19706,7 @@
           "url": "https://www.pakbyte.pk/products/ease-ec124if-argb-atx-gaming-case",
           "history": [
             13990,
-            13990,
+            10990,
             10990,
             10990,
             10990,
@@ -22847,7 +22964,7 @@
             48490,
             48490,
             48490,
-            48490,
+            49990,
             49990,
             49990
           ]
@@ -22893,7 +23010,7 @@
             15490,
             15490,
             15490,
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -23205,7 +23322,7 @@
             18990,
             18990,
             18990,
-            18990,
+            19990,
             19990,
             19990,
             19990,
@@ -29315,7 +29432,7 @@
             15490,
             15490,
             15490,
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -29341,7 +29458,7 @@
             15490,
             15490,
             15490,
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -29625,7 +29742,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-o11d-evo-rgb-mid-tower-e-atx-gaming-case-white",
           "history": [
             59990,
-            59990,
+            54990,
             54990,
             54990,
             54990,
@@ -37635,7 +37752,7 @@
             23490,
             23490,
             23490,
-            23490,
+            23990,
             23990,
             23990,
             23990,
@@ -37661,7 +37778,7 @@
             22490,
             22490,
             22490,
-            22490,
+            22990,
             22990,
             22990,
             22990,
@@ -44255,8 +44372,8 @@
           "name": "G.SKILL Trident Z5 RGB Series 32GB (2x16GB) DDR5 6400MHz CL32 Desktop Memory - White",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 151990,
-          "oldPrice": null,
+          "price": 175990,
+          "oldPrice": 151990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/g-skill-trident-z5-ddr5-6400mhz_2.webp?v=1764227622",
@@ -44273,7 +44390,7 @@
             151990,
             151990,
             151990,
-            151990
+            175990
           ]
         },
         {
@@ -44281,8 +44398,8 @@
           "name": "G.SKILL Trident Z5 RGB 32GB (2x16GB) DDR5 6400MHz CL32 Desktop Memory - Matte Black",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 151990,
-          "oldPrice": null,
+          "price": 175990,
+          "oldPrice": 151990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gskill-Trident-Z5-32GB-6400mhz-intel-price-in-pakistan-pakbyte.jpg?v=1764226956",
@@ -44299,7 +44416,7 @@
             151990,
             151990,
             151990,
-            151990
+            175990
           ]
         },
         {
@@ -46836,7 +46953,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g304-lightspeed-white-gaming-mouse-price-in-pakistan-pakbyte_1.jpg?v=1763213136",
           "url": "https://www.pakbyte.pk/products/logitech-g304-hero-lightspeed-wireless-gaming-mouse-white",
           "history": [
-            7290,
+            7499,
             7499,
             7499,
             7499,
@@ -63193,7 +63310,7 @@
             86990,
             86990,
             86990,
-            86990,
+            80990,
             80990,
             80990,
             80990,
@@ -67005,8 +67122,8 @@
           "name": "G.Skill Trident Z5 Neo RGB 32GB (2x16GB) 6000MHz CL36 DDR5 Desktop Memory - Matte Black",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 151990,
-          "oldPrice": null,
+          "price": 175990,
+          "oldPrice": 151990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-Neo-RGB-32GB-2x16GB-6000MHz-C36-DDR5-36-36-36-96-DRAM-Desktop-Memory-Matte-Black-PakByte-Computers-26167513579587.jpg?v=1753670835",
@@ -67023,7 +67140,7 @@
             151990,
             151990,
             151990,
-            151990
+            175990
           ]
         },
         {
@@ -67109,8 +67226,8 @@
           "name": "G.Skill Trident Z5 RGB 32GB (2x16GB) 6000MHz CL30 DDR5 Desktop Memory - Metallic Silver",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 161990,
-          "oldPrice": null,
+          "price": 175990,
+          "oldPrice": 161990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-RGB-32GB-2x16GB-6000MHz-CL30-Intel-XMP-3-0-30-40-40-96-DDR5-RAM-1-35V-Desktop-Computer-Memory-UDIMM-Metallic-Silver-PakByte-Computers-26167510564931.jpg?v=1753670625",
@@ -67127,7 +67244,7 @@
             161990,
             161990,
             161990,
-            161990
+            175990
           ]
         },
         {
@@ -67161,8 +67278,8 @@
           "name": "G.SKILL Trident Z5 RGB Series 32GB (2x16GB) DDR5 CL36 6000MHz Desktop Memory - Matte Black",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 151990,
-          "oldPrice": null,
+          "price": 175990,
+          "oldPrice": 151990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-SKILL-Trident-Z5-RGB-Series-32GB-2x16GB-DDR5-RAM-6000MHz-Intel-XMP-3-0-Desktop-Computer-Memory-Matte-Black-PakByte-Computers-26167508631619.jpg?v=1753670713",
@@ -67179,33 +67296,7 @@
             151990,
             151990,
             151990,
-            151990
-          ]
-        },
-        {
-          "id": "pakbyte_742169d0",
-          "name": "G.SKILL Trident Z5 RGB Series 32GB (2x16GB) DDR5 RAM 6000MHz (Intel XMP 3.0) Desktop Compu",
-          "brand": "G.Skill",
-          "category": "ram",
-          "price": 36999,
-          "oldPrice": null,
-          "inStock": false,
-          "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-SKILL-Trident-Z5-RGB-Series-32GB-2x16GB-DDR5-RAM-6000MHz-Intel-XMP-3-0-Desktop-Computer-Memory-UDIMM-Matte-White-PakByte-Computers-26167507189827.jpg?v=1753670726",
-          "url": "https://www.pakbyte.pk/products/g-skill-trident-z5-rgb-series-32gb-2x16gb-ddr5-ram-6000mhz-intel-xmp-3-0-desktop-computer-memory-udimm-matte-white",
-          "history": [
-            36999,
-            36999,
-            36999,
-            36999,
-            36999,
-            36999,
-            36999,
-            36999,
-            36999,
-            36999,
-            36999,
-            36999
+            175990
           ]
         },
         {
@@ -67213,8 +67304,8 @@
           "name": "G.Skill Trident Z5 RGB 32GB (2x16GB) 6000MHz CL30 DDR5 Desktop Memory - Matte Black",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 161990,
-          "oldPrice": null,
+          "price": 175990,
+          "oldPrice": 161990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-RGB-32GB-2x16GB-6000MT-s-CL30-Intel-XMP-3-0-DDR5-RAM-Desktop-Computer-Memory-Matte-Black-PakByte-Computers-26167500013635.jpg?v=1753670726",
@@ -67231,7 +67322,7 @@
             161990,
             161990,
             161990,
-            161990
+            175990
           ]
         },
         {
@@ -75985,7 +76076,7 @@
             24490,
             24490,
             24490,
-            24490,
+            21990,
             21990,
             21990,
             21990,
@@ -76011,7 +76102,7 @@
             24490,
             24490,
             24490,
-            24490,
+            21990,
             21990,
             21990,
             21990,
@@ -76063,7 +76154,7 @@
             89990,
             89990,
             89990,
-            89990,
+            82990,
             82990,
             82990,
             82990,
@@ -104369,7 +104460,7 @@
           "category": "gpu",
           "price": 267000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ZOTAC-GeForce-RTX-4070-Ti-Super-Trinity-Graphics-Card-PakByte-Computers-24653058900035.jpg?v=1753678222",
           "url": "https://www.pakbyte.pk/products/zotac-geforce-rtx-4070-ti-super-trinity-graphics-card",
@@ -119093,7 +119184,7 @@
             17490,
             17490,
             17490,
-            17490,
+            11990,
             11990,
             11990,
             11990,
@@ -128217,7 +128308,7 @@
           "url": "https://www.pakbyte.pk/products/lian-li-o11d-evo-black",
           "history": [
             59990,
-            59990,
+            52990,
             52990,
             52990,
             52990,
@@ -128245,7 +128336,7 @@
             42790,
             42790,
             42790,
-            42790,
+            49490,
             49490,
             49490,
             49490,
@@ -128271,7 +128362,7 @@
             49490,
             49490,
             49490,
-            49490,
+            48490,
             48490,
             48490,
             48490,
@@ -152320,6 +152411,7 @@
             544999,
             544999,
             544999,
+            544999,
             544999
           ]
         },
@@ -152335,6 +152427,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_cyborg_15_a13v_translucent_black.webp",
           "url": "https://rbtechngames.com/product/msi-cyborg-15-a13v-a13ve-1090ca-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-translucent-black-used",
           "history": [
+            262999,
             262999,
             262999,
             262999,
@@ -152366,6 +152459,7 @@
             257999,
             257999,
             257999,
+            257999,
             257999
           ]
         },
@@ -152381,6 +152475,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_hp_hyperx_omen_max_16.webp",
           "url": "https://rbtechngames.com/product/hp-hyperx-omen-max-16-ah1023dx-intel-core-ultra-9-32gb-ram-1tb-ssd-rtx-5070-ti-16-qhd-240hz-oled-display-shadow-black-new",
           "history": [
+            964999,
             964999,
             964999,
             964999,
@@ -152412,6 +152507,7 @@
             257999,
             257999,
             257999,
+            257999,
             257999
           ]
         },
@@ -152427,6 +152523,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_lenovo_loq_15_15irx10.webp",
           "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-core-i5-13th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-luna-grey-used",
           "history": [
+            382999,
             382999,
             382999,
             382999,
@@ -152458,6 +152555,7 @@
             489999,
             489999,
             489999,
+            489999,
             489999
           ]
         },
@@ -152473,6 +152571,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_acer_predator_helios_neo_16_abyssal_black.jpg",
           "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16-phn16-71-54w3-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-16-qhd-165hz-ips-display-abyssal-black-used",
           "history": [
+            262999,
             262999,
             262999,
             262999,
@@ -152504,6 +152603,7 @@
             389999,
             389999,
             389999,
+            389999,
             389999
           ]
         },
@@ -152519,6 +152619,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/MSIKatana-4.png",
           "url": "https://rbtechngames.com/product/msi-katana-15-hx-b14w-b14wek-436ca-intel-i7-14th-gen-16gb-ram-1tb-ssd-rtx-5050-15-6-fhd-144hz-ips-display-core-black-used",
           "history": [
+            384999,
             384999,
             384999,
             384999,
@@ -152550,6 +152651,7 @@
             272999,
             272999,
             272999,
+            272999,
             272999
           ]
         },
@@ -152565,6 +152667,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_rtx_2060_super_ventus.webp",
           "url": "https://rbtechngames.com/product/msi-geforce-rtx-2060-super-ventus-8gb-graphics-card-used",
           "history": [
+            84999,
             84999,
             84999,
             84999,
@@ -152596,6 +152699,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -152611,6 +152715,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_vxe_Dragonfly_x3_turbo_black.webp",
           "url": "https://rbtechngames.com/product/atk-vxe-dragonfly-x3-turbo-lightwight-wireless-gaming-mouse-black-white",
           "history": [
+            12999,
             12999,
             12999,
             12999,
@@ -152642,6 +152747,7 @@
             10999,
             10999,
             10999,
+            10999,
             10999
           ]
         },
@@ -152657,6 +152763,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_blaze_xsoft_lake_green.webp",
           "url": "https://rbtechngames.com/product/atk-blaze-xsoft-large-esport-gaming-mousepad-red-black-lake-green",
           "history": [
+            4999,
             4999,
             4999,
             4999,
@@ -152688,6 +152795,7 @@
             4499,
             4499,
             4499,
+            4499,
             4499
           ]
         },
@@ -152711,30 +152819,8 @@
             4499,
             4499,
             4499,
+            4499,
             4499
-          ]
-        },
-        {
-          "id": "rbtechgames_0eda5702",
-          "name": "ATK Tempered Glass Gaming Mousepad &#8211; Crimson Limited Edition",
-          "brand": "ATK",
-          "category": "mouse",
-          "price": 15499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_crimson.webp",
-          "url": "https://rbtechngames.com/product/atk-tempered-glass-gaming-mousepad-crimson-limited-edition",
-          "history": [
-            15499,
-            15499,
-            15499,
-            15499,
-            15499,
-            15499,
-            15499,
-            15499,
-            15499
           ]
         },
         {
@@ -152749,6 +152835,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_atk_x99g_air_matcha_green.webp",
           "url": "https://rbtechngames.com/product/atk-99g-air-xsoft-esport-gaming-mousepad-matcha-green",
           "history": [
+            3999,
             3999,
             3999,
             3999,
@@ -153356,6 +153443,32 @@
             104999,
             104999,
             104999
+          ]
+        },
+        {
+          "id": "rbtechgames_ccc3f439",
+          "name": "HP ZBook Firefly 14 G9, Intel Core i7-1255U, 16GB RAM, 512GB SSD, Nvidia T550 4GB GPU, 14&",
+          "brand": "Intel",
+          "category": "cpu",
+          "price": 164999,
+          "oldPrice": 159999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_hp_zbook_firefly_14_g9.webp",
+          "url": "https://rbtechngames.com/product/hp-zbook-firefly-14-g9-intel-core-i7-1255u-16gb-ram-512gb-ssd-nvidia-t550-4gb-gpu-14-fhd-ips-display-used",
+          "history": [
+            159999,
+            159999,
+            159999,
+            159999,
+            159999,
+            159999,
+            159999,
+            159999,
+            159999,
+            159999,
+            159999,
+            164999
           ]
         },
         {
@@ -155399,7 +155512,7 @@
           "url": "https://rbtechngames.com/product/asus-dual-geforce-rtx-5070-12gb-oc-graphics-card",
           "history": [
             294999,
-            294999,
+            299999,
             299999,
             299999,
             299999,
@@ -155607,7 +155720,7 @@
           "url": "https://rbtechngames.com/product/pny-geforce-rtx-5060-ti-16gb-epic-x-rgb-oc-graphics-card",
           "history": [
             259999,
-            259999,
+            264999,
             264999,
             264999,
             264999,
@@ -156309,7 +156422,7 @@
           "url": "https://rbtechngames.com/product/asus-prime-geforce-rtx-5080-16gb-oc-edition-graphics-card",
           "history": [
             564999,
-            564999,
+            724999,
             724999,
             724999,
             724999,
@@ -156568,7 +156681,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/06/rbtech_msi_raider_16_max_hx_b2w.webp",
           "url": "https://rbtechngames.com/product/msi-raider-16-max-hx-b2w-b2wi-004us-intel-core-ultra-9-290hx-plus-32gb-ram-1tb-ssd-rtx-5070-ti-16-qhd-240hz-oled-display-core-black-new",
           "history": [
-            899999,
+            964999,
             964999,
             964999,
             964999,
@@ -156855,7 +156968,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5050-twin-edge-8gb-graphics-card",
           "history": [
             118999,
-            118999,
+            132499,
             132499,
             132499,
             132499,
@@ -157869,7 +157982,7 @@
           "url": "https://rbtechngames.com/product/asus-dual-geforce-rtx-5060-ti-16gb-oc-edition-graphics-card",
           "history": [
             269999,
-            269999,
+            274999,
             274999,
             274999,
             274999,
@@ -158181,7 +158294,7 @@
           "url": "https://rbtechngames.com/product/pny-geforce-rtx-5070-ti-triple-fan-oc-16gb-graphics-card",
           "history": [
             429999,
-            429999,
+            464999,
             464999,
             464999,
             464999,
@@ -158259,7 +158372,7 @@
           "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5080-16gb-white-oc-edition-graphics-card",
           "history": [
             694999,
-            694999,
+            874999,
             874999,
             874999,
             874999,
@@ -158441,7 +158554,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-white-edition",
           "history": [
             259999,
-            259999,
+            269999,
             269999,
             269999,
             269999,
@@ -158883,10 +158996,10 @@
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
             26499,
+            42499,
+            42499,
+            42499,
             26499,
-            42499,
-            42499,
-            42499,
             26499,
             26499,
             26499,
@@ -159403,7 +159516,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-amp-16gb-graphics-card",
           "history": [
             264999,
-            264999,
+            274999,
             274999,
             274999,
             274999,
@@ -159559,7 +159672,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-twin-edge-oc-12gb-graphics-card",
           "history": [
             284999,
-            284999,
+            294999,
             294999,
             294999,
             294999,
@@ -159585,7 +159698,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-graphics-card",
           "history": [
             259999,
-            259999,
+            269999,
             269999,
             269999,
             269999,
@@ -159767,7 +159880,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5080-solid-core-16gb-oc-graphics-card",
           "history": [
             549999,
-            549999,
+            699999,
             699999,
             699999,
             699999,
@@ -159819,7 +159932,7 @@
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5070-windforce-12gb-oc-sff-graphics-card",
           "history": [
             299999,
-            299999,
+            309999,
             309999,
             309999,
             309999,
@@ -159923,7 +160036,7 @@
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-5070-solid-oc-12gb-graphics-card",
           "history": [
             299999,
-            299999,
+            309999,
             309999,
             309999,
             309999,
@@ -160272,32 +160385,6 @@
             10500,
             10500,
             10500
-          ]
-        },
-        {
-          "id": "rbtechgames_013d8fbc",
-          "name": "MSI PRO B650-S WIFI ATX AM5 DDR5 Gaming Motherboard",
-          "brand": "MSI",
-          "category": "ram",
-          "price": 53499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_b650-s_wifi.png",
-          "url": "https://rbtechngames.com/product/msi-pro-b650-s-wifi-atx-am5-ddr5-gaming-motherboard",
-          "history": [
-            53499,
-            53499,
-            53499,
-            53499,
-            53499,
-            53499,
-            53499,
-            53499,
-            53499,
-            53499,
-            53499,
-            53499
           ]
         },
         {
@@ -161523,32 +161610,6 @@
           ]
         },
         {
-          "id": "rbtechgames_d05ee3e7",
-          "name": "ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge 8GB &#8211; USED",
-          "brand": "Zotac",
-          "category": "gpu",
-          "price": 94999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2022/09/zotac_rtx_3060_4-e1706172609119.jpg",
-          "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3060-ti-twin-edge-8gb-used-non-mined",
-          "history": [
-            82999,
-            82999,
-            82999,
-            82999,
-            82999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999,
-            94999
-          ]
-        },
-        {
           "id": "rbtechgames_973c5010",
           "name": "XPG GAMMIX S70 BLADE PCIe Gen4x4 M.2 2280 SSD &#8211; 512GB/1TB/2TB/4TB",
           "brand": "XPG",
@@ -161962,32 +162023,6 @@
             28499,
             28499,
             28499
-          ]
-        },
-        {
-          "id": "rbtechgames_acdb1455",
-          "name": "Logitech G213 Prodigy RGB Gaming Keyboard",
-          "brand": "Logitech",
-          "category": "keyboard",
-          "price": 12500,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2023/09/rbtech_logitech_g213_1.webp",
-          "url": "https://rbtechngames.com/product/logitech-g213-prodigy-rgb-gaming-keyboard",
-          "history": [
-            12500,
-            12500,
-            12500,
-            12500,
-            12500,
-            12500,
-            12500,
-            12500,
-            12500,
-            12500,
-            12500,
-            12500
           ]
         },
         {
