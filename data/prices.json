@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T04:53:15.907527+00:00",
+  "lastUpdated": "2026-11-11T13:38:14.413468+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,51 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_d5b643dd",
+          "name": "AndaSeat Stealth II Duo Ergonomic Dual Monitor Arm - Black/Blue",
+          "brand": "AndaSeat",
+          "category": "monitor",
+          "price": 14490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/andaseat-stealth-ii-duo-price-in-pakistan-pakbyte_1_6b20cc65-6f2d-4e19-9f05-742ff7176b34.webp?v=1794378565",
+          "url": "https://www.pakbyte.pk/products/andaseat-stealth-ii-duo-ergonomic-dual-monitor-arm-black-blue",
+          "history": [
+            14490
+          ]
+        },
+        {
+          "id": "pakbyte_97e05e89",
+          "name": "AndaSeat Stealth II Duo A6D-2S Dual Monitor Arm - Black/Orange",
+          "brand": "AndaSeat",
+          "category": "monitor",
+          "price": 14490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/andaseat-stealth-ii-duo-dual-monitor-arm-price-in-pakistan-pakbyte_1.webp?v=1794378315",
+          "url": "https://www.pakbyte.pk/products/andaseat-stealth-ii-duo-a6d-2s-dual-monitor-arm-black-orange",
+          "history": [
+            14490
+          ]
+        },
+        {
+          "id": "pakbyte_c813e12a",
+          "name": "AndaSeat Stealth Pro II Ergonomic Single Monitor Arm - Black/White",
+          "brand": "AndaSeat",
+          "category": "monitor",
+          "price": 12490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/andaseat-stealth-pro-II-a9-black-white-price-in-pakistan-pakbyte_1.webp?v=1794377985",
+          "url": "https://www.pakbyte.pk/products/andaseat-stealth-pro-ii-ergonomic-single-monitor-arm-black-white",
+          "history": [
+            12490
+          ]
+        },
         {
           "id": "pakbyte_65c8cdc5",
           "name": "XYZ NEUTRON X PRO ARGB Gaming Case - White",
@@ -20,6 +65,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Neutron-X-Pro-Gaming-Case-Price-in-Pakistan-Pakbyte_2.webp?v=1794290785",
           "url": "https://www.pakbyte.pk/products/xyz-neutron-x-pro-argb-gaming-case-white",
           "history": [
+            49990,
             49990,
             49990,
             49990
@@ -39,6 +85,7 @@
           "history": [
             24690,
             24690,
+            24690,
             24690
           ]
         },
@@ -54,6 +101,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Tessaract-X-Price-in-Pakistan-Pakbyte_1.webp?v=1794288818",
           "url": "https://www.pakbyte.pk/products/xyz-tesseract-x-argb-gaming-case-white",
           "history": [
+            46490,
             46490,
             46490,
             46490
@@ -73,6 +121,7 @@
           "history": [
             35990,
             35990,
+            35990,
             35990
           ]
         },
@@ -88,6 +137,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermax-duo-6-bk-1price-in-Paksitan-pakbyte.webp?v=1794287876",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-duo-argb-air-cooler-black",
           "history": [
+            14790,
             14790,
             14790,
             14790
@@ -107,6 +157,7 @@
           "history": [
             14790,
             14790,
+            14790,
             14790
           ]
         },
@@ -122,6 +173,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-thermax-6-pro-duo-argb-air-cooler-price-in-pakistan-pakbyte_3.webp?v=1794240347",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pro-duo-argb-air-cooler-white",
           "history": [
+            18990,
             18990,
             18990,
             18990,
@@ -143,6 +195,7 @@
             18490,
             18490,
             18490,
+            18490,
             18490
           ]
         },
@@ -158,6 +211,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Thermax-6-Pulsar-Air-Cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1794236492",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pulsar-argb-air-cooler-white",
           "history": [
+            11290,
             11290,
             11290,
             11290,
@@ -181,6 +235,7 @@
             10790,
             10790,
             10790,
+            10790,
             10790
           ]
         },
@@ -196,6 +251,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-360-price-in-pakistan-pakbyte_1.webp?v=1794235736",
           "url": "https://www.pakbyte.pk/products/xyz-hydroview-360-aio-cpu-cooler-white",
           "history": [
+            48990,
             48990,
             48990,
             48990,
@@ -219,6 +275,7 @@
             42490,
             42490,
             42490,
+            42490,
             42490
           ]
         },
@@ -234,6 +291,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-Price-in-Pakistan-Pakbyte_1.webp?v=1794234978",
           "url": "https://www.pakbyte.pk/products/xyz-hydroview-240-aio-cpu-cooler-black",
           "history": [
+            39990,
             39990,
             39990,
             39990,
@@ -257,6 +315,7 @@
             23990,
             23990,
             23990,
+            23990,
             23990
           ]
         },
@@ -272,6 +331,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Volt-1000W-Powersupply-price-in-pakistan-pakbyte_3.webp?v=1794234086",
           "url": "https://www.pakbyte.pk/products/xyz-volt-1000w-80-bronze-power-supply",
           "history": [
+            28490,
             28490,
             28490,
             28490,
@@ -295,6 +355,7 @@
             15990,
             15990,
             15990,
+            15990,
             15990
           ]
         },
@@ -310,6 +371,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-650W-Powersupply-price-in-pakistan-pakbyte_3.webp?v=1794233135",
           "url": "https://www.pakbyte.pk/products/xyz-volt-650w-80-bronze-power-supply",
           "history": [
+            13990,
             13990,
             13990,
             13990,
@@ -333,6 +395,7 @@
             41990,
             41990,
             41990,
+            41990,
             41990
           ]
         },
@@ -348,6 +411,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Edge-Gold-V2-1000W-Power-supply-Price-in-pakistan-Pakbyte_1.webp?v=1794211380",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-gold-v2-1000w-80-plus-power-supply-with-hub-v2-white",
           "history": [
+            41990,
             41990,
             41990,
             41990,
@@ -371,6 +435,7 @@
             29990,
             29990,
             29990,
+            29990,
             29990
           ]
         },
@@ -386,6 +451,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-price-in-pakistan-pakbyte_1_0dc5e8bd-23d1-4f7b-93cd-79b58e3e6730.webp?v=1794206694",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-single-pack-case-fan-white",
           "history": [
+            9990,
             9990,
             9990,
             9990,
@@ -409,6 +475,7 @@
             9990,
             9990,
             9990,
+            9990,
             9990
           ]
         },
@@ -424,6 +491,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-price-in-pakistan-pakbyte_1.webp?v=1794205244",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120-argb-fan-single-white",
           "history": [
+            9990,
             9990,
             9990,
             9990,
@@ -447,6 +515,7 @@
             9990,
             9990,
             9990,
+            9990,
             9990
           ]
         },
@@ -462,6 +531,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-sl-inf-flex-price-in-pakistan-pakbyte_5_239ea02b-b975-48f0-9a82-53d3d3c14a50.webp?v=1794047038",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-argb-fan-3-pack-white",
           "history": [
+            28490,
             28490,
             28490,
             28490,
@@ -497,6 +567,7 @@
             28490,
             28490,
             28490,
+            28490,
             28490
           ]
         },
@@ -512,6 +583,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v150-inf-price-in-pakistan-pakbyte_1.webp?v=1794038960",
           "url": "https://www.pakbyte.pk/products/lian-li-vector-v150-inf-micro-atx-pc-case-black",
           "history": [
+            24990,
             24990,
             24990,
             24990,
@@ -547,6 +619,7 @@
             42490,
             42490,
             42490,
+            42490,
             42490
           ]
         },
@@ -562,6 +635,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lianli-011-Digital-casing-price-in-pakistan-pakbyte_1.jpg?v=1794034275",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-vision-m-digital-m-atx-computer-case-black",
           "history": [
+            41490,
             41490,
             41490,
             41490,
@@ -3078,7 +3152,7 @@
           "category": "mouse",
           "price": 4490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Anime-Mousepad-Riverie-Price-in-Pakistan-Pakbyte.webp?v=1792590698",
           "url": "https://www.pakbyte.pk/products/atk-anime-mouse-pad-reverie",
@@ -4981,6 +5055,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1790233855",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-black-fanless",
           "history": [
+            41990,
             41990,
             41990,
             41990,
@@ -19373,7 +19448,7 @@
           "category": "headset",
           "price": 2990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kz-edx-pro-x-iem-earphones-black-mic-price-in-pakistan-pakbyte_1_52320ffa-0755-4df2-a7b8-41af8873370a.jpg?v=1776269139",
           "url": "https://www.pakbyte.pk/products/kz-edx-pro-x-in-ear-earphone-iems-single-dynamic-driver-wired-gaming-earbud-black",
@@ -20437,8 +20512,8 @@
           "name": "Rapoo M10 Plus Wireless Optical Mouse - Black",
           "brand": "Rapoo",
           "category": "mouse",
-          "price": 1590,
-          "oldPrice": null,
+          "price": 1690,
+          "oldPrice": 1590,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M10-Plus-mouse-price-in-pakistan-pakbyte_e295c8e1-fcb0-4d6b-844d-fa6c5fb8330b.jpg?v=1775491091",
@@ -20455,7 +20530,7 @@
             1590,
             1590,
             1590,
-            1590
+            1690
           ]
         },
         {
@@ -23024,7 +23099,7 @@
             48490,
             48490,
             48490,
-            48490,
+            49990,
             49990,
             49990,
             49990,
@@ -23070,7 +23145,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-cl120-argb-black-price-in-pakistan-pakbyte_1_a96262c7-c56b-4638-b080-ceeb93ee04de.webp?v=1773559214",
           "url": "https://www.pakbyte.pk/products/lian-li-cl120-wireless-triple-fan-pack-black",
           "history": [
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -23382,7 +23457,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-mini-price-in-pakistan-pakbyte_1.webp?v=1773515689",
           "url": "https://www.pakbyte.pk/products/lian-li-vector-v100-mini-micro-form-factor-compact-pc-case-black",
           "history": [
-            18990,
+            19990,
             19990,
             19990,
             19990,
@@ -23455,7 +23530,7 @@
           "category": "monitor",
           "price": 14490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/andaseat_stealth_ii_duo_a6d_white-price-in-pakistan-pakbyte_1.jpg?v=1773504940",
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-ii-duo-a6d-ergonomic-dual-monitor-arm-black-white",
@@ -29492,7 +29567,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-uni-fan-cl120-price-in-pakistan-pakbyte_1.webp?v=1771265981",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-cl120-argb-120mm-pwm-fans-triple-pack-reverse-blade-white",
           "history": [
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -29518,7 +29593,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Unifan-CL-triple-pack-wireless-price-in-pakistan-pakbyte.jpg?v=1771265649",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-cl-wireless-triple-pack-white",
           "history": [
-            15490,
+            13990,
             13990,
             13990,
             13990,
@@ -31279,8 +31354,8 @@
           "name": "Rapoo M350 Silent Multi-Mode Wireless Mouse - Dark Grey",
           "brand": "Rapoo",
           "category": "mouse",
-          "price": 3440,
-          "oldPrice": null,
+          "price": 3140,
+          "oldPrice": 3440,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-m350-silent-price-in-pakistan-pakbyte_1.webp?v=1770911873",
@@ -31297,7 +31372,7 @@
             3440,
             3440,
             3440,
-            3440
+            3140
           ]
         },
         {
@@ -31331,8 +31406,8 @@
           "name": "Rapoo M300 Silent Wireless Mouse - Dark Grey",
           "brand": "Rapoo",
           "category": "mouse",
-          "price": 3390,
-          "oldPrice": null,
+          "price": 3140,
+          "oldPrice": 3390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-m300-silent-price-in-pakistan-pakbyte_1.webp?v=1770911410",
@@ -31349,7 +31424,7 @@
             3390,
             3390,
             3390,
-            3390
+            3140
           ]
         },
         {
@@ -31383,8 +31458,8 @@
           "name": "Rapoo M10 Plus Wireless Optical Mouse - White",
           "brand": "Rapoo",
           "category": "mouse",
-          "price": 1840,
-          "oldPrice": null,
+          "price": 1690,
+          "oldPrice": 1840,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-m10-plus-price-in-pakistan-pakbyte.webp?v=1770910882",
@@ -31401,7 +31476,7 @@
             1840,
             1840,
             1840,
-            1840
+            1690
           ]
         },
         {
@@ -31461,8 +31536,8 @@
           "name": "Rapoo N200 Wired Optical Silent Mouse - Black",
           "brand": "Rapoo",
           "category": "mouse",
-          "price": 890,
-          "oldPrice": null,
+          "price": 1140,
+          "oldPrice": 890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-n200-price-in-pakistan-pakbyte_1.webp?v=1770910284",
@@ -31479,7 +31554,7 @@
             890,
             890,
             890,
-            890
+            1140
           ]
         },
         {
@@ -35181,7 +35256,7 @@
           "category": "headset",
           "price": 4590,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Bloody-G565-Surround-Sound-Headset-Energy-White-Price-in-Pakistan-Pakbyte_4.jpg?v=1766678851",
           "url": "https://www.pakbyte.pk/products/bloody-g565-7-1-virtual-surround-sound-headset-energy-white",
@@ -37812,7 +37887,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-white-price-in-pakistan-pakbyte_2.webp?v=1766068916",
           "url": "https://www.pakbyte.pk/products/casing-1",
           "history": [
-            23490,
+            23990,
             23990,
             23990,
             23990,
@@ -37838,7 +37913,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-vector-v100-black-price-in-pakistan-pakbyte_1.webp?v=1766068438",
           "url": "https://www.pakbyte.pk/products/lian-li-vector-v100-atx-mid-tower-pc-case-black",
           "history": [
-            22490,
+            22990,
             22990,
             22990,
             22990,
@@ -44450,7 +44525,7 @@
             151990,
             151990,
             151990,
-            151990,
+            175990,
             175990,
             175990,
             175990
@@ -44476,7 +44551,7 @@
             151990,
             151990,
             151990,
-            151990,
+            175990,
             175990,
             175990,
             175990
@@ -57333,7 +57408,7 @@
           "category": "monitor",
           "price": 12490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/andaseat-stealth-pro-ii-a9-black-monitor-arm-price-in-pakistan-pakbyte_2.jpg?v=1755314071",
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-pro-ii-a9-ergonomic-single-monitor-arm-black",
@@ -63370,7 +63445,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-O11-Dynamic-EVO-XL-ATX-Gaming-Case-Black-PakByte-Computers-26336994525251.jpg?v=1753669720",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-dynamic-evo-xl-atx-gaming-case-black",
           "history": [
-            86990,
+            80990,
             80990,
             80990,
             80990,
@@ -67200,7 +67275,7 @@
             151990,
             151990,
             151990,
-            151990,
+            175990,
             175990,
             175990,
             175990
@@ -67304,7 +67379,7 @@
             161990,
             161990,
             161990,
-            161990,
+            175990,
             175990,
             175990,
             175990
@@ -67356,7 +67431,7 @@
             151990,
             151990,
             151990,
-            151990,
+            175990,
             175990,
             175990,
             175990
@@ -67382,7 +67457,7 @@
             161990,
             161990,
             161990,
-            161990,
+            175990,
             175990,
             175990,
             175990
@@ -67549,9 +67624,9 @@
           "name": "AndaSeat Stealth Pro II RGB Ergonomic Single Monitor Arm - Black/White",
           "brand": "AndaSeat",
           "category": "monitor",
-          "price": 15900,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 15990,
+          "oldPrice": 15900,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AndaSeat-Stealth-Pro-II-RGB-Ergonomic-Single-Monitor-Arm-Black-White-PakByte-Computers-26155687837763.jpg?v=1753670764",
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-pro-ii-rgb-ergonomic-single-monitor-arm-black-white",
@@ -67567,7 +67642,7 @@
             15900,
             15900,
             15900,
-            15900
+            15990
           ]
         },
         {
@@ -67653,9 +67728,9 @@
           "name": "AndaSeat Stealth Pro II RGB Ergonomic Single Monitor Arm - Black",
           "brand": "AndaSeat",
           "category": "monitor",
-          "price": 14490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 12490,
+          "oldPrice": 14490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AndaSeat-Stealth-Pro-II-RGB-Ergonomic-Single-Monitor-Arm-Black-PakByte-Computers-26155593662531.jpg?v=1753670788",
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-pro-ii-rgb-ergonomic-single-monitor-arm-black",
@@ -67671,7 +67746,7 @@
             14490,
             14490,
             14490,
-            14490
+            12490
           ]
         },
         {
@@ -67679,9 +67754,9 @@
           "name": "Anda Seat Stealth II A6D Ergonomic Monitor Arm - White",
           "brand": "Anda",
           "category": "monitor",
-          "price": 8440,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 7490,
+          "oldPrice": 8440,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Anda-Seat-Stealth-II-A6D-Ergonomic-Monitor-Arm-White-PakByte-Computers-26155587534915.jpg?v=1753670801",
           "url": "https://www.pakbyte.pk/products/anda-seat-stealth-ii-a6d-ergonomic-monitor-arm-white",
@@ -67697,7 +67772,7 @@
             8440,
             8440,
             8440,
-            8440
+            7490
           ]
         },
         {
@@ -67705,9 +67780,9 @@
           "name": "Anda Seat Stealth II Ergonomic Single Monitor Arm - Black",
           "brand": "Anda",
           "category": "monitor",
-          "price": 8440,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 7490,
+          "oldPrice": 8440,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Anda-Seat-Stealth-II-Ergonomic-Single-Monitor-Arm-Black-PakByte-Computers-26155583930435.jpg?v=1753670801",
           "url": "https://www.pakbyte.pk/products/anda-seat-stealth-ii-ergonomic-single-monitor-arm-black",
@@ -67723,7 +67798,7 @@
             8440,
             8440,
             8440,
-            8440
+            7490
           ]
         },
         {
@@ -76136,7 +76211,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-UNI-Fan-SL-Infinity-120-Triple-Pack-White-PakByte-Computers-25890167390275.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120-triple-pack-white",
           "history": [
-            24490,
+            21990,
             21990,
             21990,
             21990,
@@ -76162,7 +76237,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-SL-Infinity-120mm-ARGB-Black-Triple-Pack-PakByte-Computers-25890143141955.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-infinity-120mm-argb-black-triple-pack",
           "history": [
-            24490,
+            21990,
             21990,
             21990,
             21990,
@@ -76214,7 +76289,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-O11-Dynamic-EVO-XL-ATX-Gaming-Case-White-PakByte-Computers-26336995934275.jpg?v=1753672300",
           "url": "https://www.pakbyte.pk/products/lian-li-o11-dynamic-evo-full-tower-xl-case-white",
           "history": [
-            89990,
+            82990,
             82990,
             82990,
             82990,
@@ -100415,7 +100490,7 @@
           "category": "psu",
           "price": 28490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-MAG-A850GL-PCIE5-850W-80-Plus-Gold-Fully-Modular-Power-Supply-PakByte-Computers-24952793497667.jpg?v=1753677590",
           "url": "https://www.pakbyte.pk/products/msi-mag-a850gl-pcie5-850w-80-plus-gold-fully-modular-power-supply",
@@ -112271,7 +112346,7 @@
           "category": "mouse",
           "price": 1090,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GOFREETECH-GFT-M006-Wireless-Optical-Mouse-PakByte-Computers-24397768654915.webp?v=1753679587",
           "url": "https://www.pakbyte.pk/products/gofreetech-gft-m006-wireless-optical-mouse",
@@ -119244,7 +119319,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lian-Li-Uni-Fan-P28-120mm-PWM-Triple-Pack-White-PakByte-Computers-26337011564611.jpg?v=1753680646",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-p28-triple-case-fan-white",
           "history": [
-            17490,
+            11990,
             11990,
             11990,
             11990,
@@ -128396,7 +128471,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-Lancool-III-RGB-Glass-Gaming-Case-White-PakByte-Computers-24397419806787.webp?v=1753682363",
           "url": "https://www.pakbyte.pk/products/lian-li-lancool-iii-rgb-white",
           "history": [
-            42790,
+            49490,
             49490,
             49490,
             49490,
@@ -128422,7 +128497,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-Lancool-III-RGB-Tempered-Glass-Gaming-Case-Black-PakByte-Computers-24397419020355.webp?v=1753682375",
           "url": "https://www.pakbyte.pk/products/lian-li-lancool-iii-rgb-black",
           "history": [
-            49490,
+            48490,
             48490,
             48490,
             48490,
@@ -152477,6 +152552,7 @@
             544999,
             544999,
             544999,
+            544999,
             544999
           ]
         },
@@ -152761,7 +152837,7 @@
             84999,
             84999,
             84999,
-            84999,
+            77999,
             77999,
             77999
           ]
@@ -153235,6 +153311,32 @@
           ]
         },
         {
+          "id": "rbtechgames_682fee25",
+          "name": "Asus ROG Crosshair X870E Dark Hero ATX AM5 DDR5 Gaming Motherboard",
+          "brand": "ASUS",
+          "category": "ram",
+          "price": 297999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_asus_rog_crosshair_x870e_dark_hero.png",
+          "url": "https://rbtechngames.com/product/asus-rog-crosshair-x870e-dark-hero-atx-am5-ddr5-gaming-motherboard",
+          "history": [
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999
+          ]
+        },
+        {
           "id": "rbtechgames_06ffbbf7",
           "name": "AMD Ryzen 7 5700G AM4 Processor with Radeon Graphics &#8211; TRAY",
           "brand": "AMD",
@@ -153566,7 +153668,7 @@
             159999,
             159999,
             159999,
-            159999,
+            164999,
             164999,
             164999,
             164999
@@ -155777,7 +155879,7 @@
             84999,
             84999,
             84999,
-            84999,
+            74999,
             74999,
             74999
           ]
@@ -156612,6 +156714,32 @@
             214999,
             214999,
             214999
+          ]
+        },
+        {
+          "id": "rbtechgames_9e080c91",
+          "name": "Asus ROG Astral GeForce RTX 5090 32GB White OC Edition Graphics Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 3199999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
+          "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card",
+          "history": [
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999
           ]
         },
         {
@@ -158725,8 +158853,8 @@
           "name": "Patriot Viper Venom RGB 32GB (2x16GB) 6000MT/s CL30 DDR5 Ram",
           "brand": "Patriot",
           "category": "ram",
-          "price": 184999,
-          "oldPrice": null,
+          "price": 194999,
+          "oldPrice": 184999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_patriot_viper_venom_rgb_ddr5.jpg",
@@ -158743,7 +158871,7 @@
             184999,
             184999,
             184999,
-            184999
+            194999
           ]
         },
         {
@@ -159045,7 +159173,7 @@
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
             42499,
-            42499,
+            26499,
             26499,
             26499,
             26499,
