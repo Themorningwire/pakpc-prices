@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T00:05:49.482822+00:00",
+  "lastUpdated": "2026-11-12T14:41:53.895546+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,231 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_a1159df7",
+          "name": "Rapoo H180 USB Foldable Wired Stereo Headset - Black",
+          "brand": "Rapoo",
+          "category": "headset",
+          "price": 7790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-H180-USB-Foldable-Wired-Stereo-Headset-Black-Price-in-Pakistan-Pakbyte.webp?v=1794488442",
+          "url": "https://www.pakbyte.pk/products/rapoo-h180-usb-foldable-wired-stereo-headset-black",
+          "history": [
+            7790
+          ]
+        },
+        {
+          "id": "pakbyte_f3430de8",
+          "name": "Rapoo 8810ME Wireless Ergonomic Keyboard Mouse Combo",
+          "brand": "Rapoo",
+          "category": "keyboard",
+          "price": 17990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-8810me-price-in-pakistan-pakbyte_1.webp?v=1794488187",
+          "url": "https://www.pakbyte.pk/products/rapoo-8810me-wireless-ergonomic-keyboard-mouse-combo",
+          "history": [
+            17990
+          ]
+        },
+        {
+          "id": "pakbyte_9d646011",
+          "name": "Rapoo 9360M Wireless Keyboard and Mouse Combo - Black",
+          "brand": "Rapoo",
+          "category": "keyboard",
+          "price": 9790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-9360M-keyboard-mouse-combo-price-in-pakistan-pakbyte_1.webp?v=1794487811",
+          "url": "https://www.pakbyte.pk/products/rapoo-9360m-wireless-keyboard-and-mouse-combo-black",
+          "history": [
+            9790
+          ]
+        },
+        {
+          "id": "pakbyte_57a77c79",
+          "name": "Rapoo X1800S Wireless Keyboard and Mouse Combo - Black",
+          "brand": "Rapoo",
+          "category": "keyboard",
+          "price": 4190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-X1800S-Keyboard-Mouse-Combo-Price-in-Pakistan-Pakbyte_1.webp?v=1794487450",
+          "url": "https://www.pakbyte.pk/products/rapoo-x1800s-wireless-keyboard-and-mouse-combo-black",
+          "history": [
+            4190
+          ]
+        },
+        {
+          "id": "pakbyte_65baf130",
+          "name": "Rapoo E900T Mini Wireless Keyboard with Touchpad",
+          "brand": "Rapoo",
+          "category": "keyboard",
+          "price": 9260,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-E900T-keyboard-price-in-pakistan-pakbyte_1.webp?v=1794477604",
+          "url": "https://www.pakbyte.pk/products/rapoo-e900t-mini-wireless-keyboard-with-touchpad",
+          "history": [
+            9260
+          ]
+        },
+        {
+          "id": "pakbyte_d4e7f279",
+          "name": "Rapoo MT760 PRO NearLink Bluetooth 5.0 Multi-Device Wireless Mouse - Matte Black",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 14990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-mt760-pro-price-in-pakistan-pakbyte_1.webp?v=1794466376",
+          "url": "https://www.pakbyte.pk/products/rapoo-mt760-pro-nearlink-bluetooth-5-0-multi-device-wireless-mouse-matte-black",
+          "history": [
+            14990
+          ]
+        },
+        {
+          "id": "pakbyte_dddd2bd7",
+          "name": "Rapoo M300L Rechargable multi mode Mouse - Dark Gray",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 4190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M300L-Rechargable-multi-mode-mouse-Dark-Gray-price-in-pakistan-pakbyte.webp?v=1794466082",
+          "url": "https://www.pakbyte.pk/products/rapoo-m300l-rechargable-multi-mode-mouse-dark-gray",
+          "history": [
+            4190
+          ]
+        },
+        {
+          "id": "pakbyte_e91ca7a2",
+          "name": "Rapoo M360 Smart Dual-Mode Wireless Mouse with Copilot Button - Misty Blue",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 2640,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M360-mouse-Mystic-Blue-Price-in-Pakistan-Pakbyte_1.webp?v=1794465832",
+          "url": "https://www.pakbyte.pk/products/rapoo-m360-smart-dual-mode-wireless-mouse-with-copilot-button-misty-blue",
+          "history": [
+            2640
+          ]
+        },
+        {
+          "id": "pakbyte_1860eab4",
+          "name": "Rapoo M360 Smart Dual-Mode Wireless Mouse with Copilot Button - Rock Grey",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 2640,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M360-Optical-Mouse-Price-in-Pakistan-Pakbyte.webp?v=1794465502",
+          "url": "https://www.pakbyte.pk/products/rapoo-m360-smart-dual-mode-wireless-mouse-with-copilot-button-rock-grey",
+          "history": [
+            2640
+          ]
+        },
+        {
+          "id": "pakbyte_df9bffc3",
+          "name": "Rapoo M360 Smart Dual-Mode Wireless Mouse with Copilot Button - Cloudy White",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 2640,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M360-mouse-price-in-pakistan-pakbyte_1.webp?v=1794465049",
+          "url": "https://www.pakbyte.pk/products/rapoo-m360-smart-dual-mode-wireless-mouse-with-copilot-button-cloudy-white",
+          "history": [
+            2640
+          ]
+        },
+        {
+          "id": "pakbyte_7cb37285",
+          "name": "Rapoo M100 Silent Wireless Optical  Mouse - Light Grey",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 2190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M100-optical-Gaming-Mouse-Price-in-Pakistan-Pakbyte.webp?v=1794464719",
+          "url": "https://www.pakbyte.pk/products/rapoo-m100-silent-wireless-optical-mouse-light-grey",
+          "history": [
+            2190
+          ]
+        },
+        {
+          "id": "pakbyte_e93b8a23",
+          "name": "Rapoo M100 Silent Wireless Optical  Mouse - Dark Grey",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 2190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M100-Optical-Mouse-Price-in-Pakistan-Pakbyte_1.webp?v=1794464449",
+          "url": "https://www.pakbyte.pk/products/rapoo-m100-silent-wireless-optical-mouse-dark-grey",
+          "history": [
+            2190
+          ]
+        },
+        {
+          "id": "pakbyte_c5e37d99",
+          "name": "Rapoo B30 Silent 2.4G Wireless Mouse - Black",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 1690,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-B30-Silent-mouse-price-in-pakistan-pakbyte_1.webp?v=1794464057",
+          "url": "https://www.pakbyte.pk/products/rapoo-b30-silent-2-4g-wireless-mouse-black",
+          "history": [
+            1690
+          ]
+        },
+        {
+          "id": "pakbyte_65aaf8eb",
+          "name": "Rapoo M1 2.4G Wireless Mouse - Black",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 1540,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M1-wired-mouse-price-in-pakistan-pakbyte_1.webp?v=1794463792",
+          "url": "https://www.pakbyte.pk/products/rapoo-m1-2-4g-wireless-mouse-black",
+          "history": [
+            1540
+          ]
+        },
+        {
+          "id": "pakbyte_c185c050",
+          "name": "Rapoo N100 3-Button USB Wired  Mouse - Black",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 740,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-N100-wired-mouse-black-price-in-pakistan-pakbyte.webp?v=1794463483",
+          "url": "https://www.pakbyte.pk/products/rapoo-n100-3-button-usb-wired-mouse-black",
+          "history": [
+            740
+          ]
+        },
         {
           "id": "pakbyte_d5b643dd",
           "name": "AndaSeat Stealth II Duo Ergonomic Dual Monitor Arm - Black/Blue",
@@ -20,6 +245,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/andaseat-stealth-ii-duo-price-in-pakistan-pakbyte_1_6b20cc65-6f2d-4e19-9f05-742ff7176b34.webp?v=1794378565",
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-ii-duo-ergonomic-dual-monitor-arm-black-blue",
           "history": [
+            14490,
             14490,
             14490
           ]
@@ -37,6 +263,7 @@
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-ii-duo-a6d-2s-dual-monitor-arm-black-orange",
           "history": [
             14490,
+            14490,
             14490
           ]
         },
@@ -53,6 +280,7 @@
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-pro-ii-ergonomic-single-monitor-arm-black-white",
           "history": [
             12490,
+            12490,
             12490
           ]
         },
@@ -68,6 +296,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Neutron-X-Pro-Gaming-Case-Price-in-Pakistan-Pakbyte_2.webp?v=1794290785",
           "url": "https://www.pakbyte.pk/products/xyz-neutron-x-pro-argb-gaming-case-white",
           "history": [
+            49990,
             49990,
             49990,
             49990,
@@ -91,6 +320,7 @@
             24690,
             24690,
             24690,
+            24690,
             24690
           ]
         },
@@ -106,6 +336,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Tessaract-X-Price-in-Pakistan-Pakbyte_1.webp?v=1794288818",
           "url": "https://www.pakbyte.pk/products/xyz-tesseract-x-argb-gaming-case-white",
           "history": [
+            46490,
             46490,
             46490,
             46490,
@@ -129,6 +360,7 @@
             35990,
             35990,
             35990,
+            35990,
             35990
           ]
         },
@@ -144,6 +376,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermax-duo-6-bk-1price-in-Paksitan-pakbyte.webp?v=1794287876",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-duo-argb-air-cooler-black",
           "history": [
+            14790,
             14790,
             14790,
             14790,
@@ -167,6 +400,7 @@
             14790,
             14790,
             14790,
+            14790,
             14790
           ]
         },
@@ -182,6 +416,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-thermax-6-pro-duo-argb-air-cooler-price-in-pakistan-pakbyte_3.webp?v=1794240347",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pro-duo-argb-air-cooler-white",
           "history": [
+            18990,
             18990,
             18990,
             18990,
@@ -207,6 +442,7 @@
             18490,
             18490,
             18490,
+            18490,
             18490
           ]
         },
@@ -222,6 +458,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Thermax-6-Pulsar-Air-Cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1794236492",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-pulsar-argb-air-cooler-white",
           "history": [
+            11290,
             11290,
             11290,
             11290,
@@ -249,6 +486,7 @@
             10790,
             10790,
             10790,
+            10790,
             10790
           ]
         },
@@ -264,6 +502,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-360-price-in-pakistan-pakbyte_1.webp?v=1794235736",
           "url": "https://www.pakbyte.pk/products/xyz-hydroview-360-aio-cpu-cooler-white",
           "history": [
+            48990,
             48990,
             48990,
             48990,
@@ -291,6 +530,7 @@
             42490,
             42490,
             42490,
+            42490,
             42490
           ]
         },
@@ -306,6 +546,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Hydroview-Price-in-Pakistan-Pakbyte_1.webp?v=1794234978",
           "url": "https://www.pakbyte.pk/products/xyz-hydroview-240-aio-cpu-cooler-black",
           "history": [
+            39990,
             39990,
             39990,
             39990,
@@ -333,6 +574,7 @@
             23990,
             23990,
             23990,
+            23990,
             23990
           ]
         },
@@ -348,6 +590,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Volt-1000W-Powersupply-price-in-pakistan-pakbyte_3.webp?v=1794234086",
           "url": "https://www.pakbyte.pk/products/xyz-volt-1000w-80-bronze-power-supply",
           "history": [
+            28490,
             28490,
             28490,
             28490,
@@ -375,6 +618,7 @@
             15990,
             15990,
             15990,
+            15990,
             15990
           ]
         },
@@ -390,6 +634,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-650W-Powersupply-price-in-pakistan-pakbyte_3.webp?v=1794233135",
           "url": "https://www.pakbyte.pk/products/xyz-volt-650w-80-bronze-power-supply",
           "history": [
+            13990,
             13990,
             13990,
             13990,
@@ -417,6 +662,7 @@
             41990,
             41990,
             41990,
+            41990,
             41990
           ]
         },
@@ -432,6 +678,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Lianli-Edge-Gold-V2-1000W-Power-supply-Price-in-pakistan-Pakbyte_1.webp?v=1794211380",
           "url": "https://www.pakbyte.pk/products/lian-li-edge-gold-v2-1000w-80-plus-power-supply-with-hub-v2-white",
           "history": [
+            41990,
             41990,
             41990,
             41990,
@@ -459,6 +706,7 @@
             29990,
             29990,
             29990,
+            29990,
             29990
           ]
         },
@@ -474,6 +722,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-3-Pack-120mm-ARGB-White-price-in-pakistan-pakbyte_1_0dc5e8bd-23d1-4f7b-93cd-79b58e3e6730.webp?v=1794206694",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120mm-reverse-blade-single-pack-case-fan-white",
           "history": [
+            9990,
             9990,
             9990,
             9990,
@@ -501,6 +750,7 @@
             9990,
             9990,
             9990,
+            9990,
             9990
           ]
         },
@@ -522,6 +772,7 @@
             9990,
             9990,
             9990,
+            9990,
             9990
           ]
         },
@@ -537,6 +788,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/LIAN-LI-UNI-FAN-SL-INF-FLEX-120mm-ARGB-Black-Case-Fans-Price-in-Pakistan-Pakbyte_eb3f0015-4b44-4242-bb8f-3f0b4fb21092.webp?v=1794205997",
           "url": "https://www.pakbyte.pk/products/lian-li-uni-fan-sl-inf-flex-120-argb-fan-single-black",
           "history": [
+            9990,
             9990,
             9990,
             9990,
@@ -5082,6 +5334,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-Price-in-Pakistan-Pakbyte_1.webp?v=1790233855",
           "url": "https://www.pakbyte.pk/products/lian-li-hydroshift-ii-lcd-s-360-n-rgb-aio-liquid-cooler-black-fanless",
           "history": [
+            41990,
             41990,
             41990,
             41990,
@@ -10298,7 +10551,7 @@
           "category": "mouse",
           "price": 9990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x3-gaming-mouse-red-price-in-pakistan-pakbyte_1.png?v=1784276477",
           "url": "https://www.pakbyte.pk/products/attack-shark-x3-49g-tri-mode-lightweight-wireless-gaming-mouse-berry-red",
@@ -20385,7 +20638,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 12120,
-          "oldPrice": 10690,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v520-price-in-pakistan-pakbyte_1.webp?v=1775580078",
@@ -20401,7 +20654,7 @@
             10690,
             10690,
             10690,
-            10690,
+            12120,
             12120
           ]
         },
@@ -20556,7 +20809,7 @@
             1590,
             1590,
             1590,
-            1590,
+            1690,
             1690,
             1690
           ]
@@ -23125,7 +23378,7 @@
             48490,
             48490,
             48490,
-            48490,
+            49990,
             49990,
             49990,
             49990,
@@ -26782,7 +27035,7 @@
           "category": "mouse",
           "price": 9990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/atk-dragonfly-a9-plus-price-in-pakistan-pakbyte_1.webp?v=1772023488",
           "url": "https://www.pakbyte.pk/products/atk-dragonfly-a9-plus-wireless-gaming-mouse-black",
@@ -30031,7 +30284,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 16890,
-          "oldPrice": 14990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-9560M-price-in-pakistan-pakbyte_1.jpg?v=1771000627",
@@ -30047,7 +30300,7 @@
             14990,
             14990,
             14990,
-            14990,
+            16890,
             16890
           ]
         },
@@ -30057,7 +30310,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 9840,
-          "oldPrice": 9490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-9350S-price-in-pakistan-pakbyte_1.jpg?v=1771000105",
@@ -30073,7 +30326,7 @@
             9490,
             9490,
             9490,
-            9490,
+            9840,
             9840
           ]
         },
@@ -30083,7 +30336,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 8840,
-          "oldPrice": 8990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-9510M-Price-in-Pakistan-Pakbyte_1.jpg?v=1770999780",
@@ -30099,7 +30352,7 @@
             8990,
             8990,
             8990,
-            8990,
+            8840,
             8840
           ]
         },
@@ -30187,7 +30440,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 7790,
-          "oldPrice": 8490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/RAPOO-8210M-Price-in-Pakistan-Pakbyte_1.jpg?v=1770998947",
@@ -30203,7 +30456,7 @@
             8490,
             8490,
             8490,
-            8490,
+            7790,
             7790
           ]
         },
@@ -30239,7 +30492,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 4570,
-          "oldPrice": 4690,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-X1960-Price-in-Pakistan-Pakbyte_1.jpg?v=1770998205",
@@ -30255,7 +30508,7 @@
             4690,
             4690,
             4690,
-            4690,
+            4570,
             4570
           ]
         },
@@ -30291,7 +30544,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 4190,
-          "oldPrice": 4140,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-X1500-Pro-White-Price-in-Pakistan-Pakbyte.jpg?v=1770997772",
@@ -30307,7 +30560,7 @@
             4140,
             4140,
             4140,
-            4140,
+            4190,
             4190
           ]
         },
@@ -30317,7 +30570,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 4190,
-          "oldPrice": 4140,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-X1500-ProPrice-in-Pakistan-Pakbyte_1.jpg?v=1770997467",
@@ -30333,7 +30586,7 @@
             4140,
             4140,
             4140,
-            4140,
+            4190,
             4190
           ]
         },
@@ -30369,7 +30622,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 2390,
-          "oldPrice": 2540,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-x130-price-in-pakistan-pakbyte.jpg?v=1770996882",
@@ -30385,7 +30638,7 @@
             2540,
             2540,
             2540,
-            2540,
+            2390,
             2390
           ]
         },
@@ -30395,7 +30648,7 @@
           "brand": "RAPOO",
           "category": "headset",
           "price": 14990,
-          "oldPrice": 9990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-VH800-price-in-pakistan-pakbyte_1.webp?v=1770996688",
@@ -30411,7 +30664,7 @@
             9990,
             9990,
             9990,
-            9990,
+            14990,
             14990
           ]
         },
@@ -30421,7 +30674,7 @@
           "brand": "Rapoo",
           "category": "headset",
           "price": 6240,
-          "oldPrice": 4890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-VH500C-price-in-pakistan-pakbyte_1.jpg?v=1770996428",
@@ -30437,7 +30690,7 @@
             4890,
             4890,
             4890,
-            4890,
+            6240,
             6240
           ]
         },
@@ -30473,7 +30726,7 @@
           "brand": "RAPOO",
           "category": "headset",
           "price": 4790,
-          "oldPrice": 7190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-VH160-price-in-pakistan-pakbyte_1.jpg?v=1770995839",
@@ -30489,7 +30742,7 @@
             7190,
             7190,
             7190,
-            7190,
+            4790,
             4790
           ]
         },
@@ -30499,7 +30752,7 @@
           "brand": "Rapoo",
           "category": "headset",
           "price": 6840,
-          "oldPrice": 6490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-H200-price-in-pakistan-pakbyte_1.jpg?v=1770995495",
@@ -30515,7 +30768,7 @@
             6490,
             6490,
             6490,
-            6490,
+            6840,
             6840
           ]
         },
@@ -30525,7 +30778,7 @@
           "brand": "Rapoo",
           "category": "headset",
           "price": 3370,
-          "oldPrice": 3190,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-H150S-Wired-Stereo-Headset-price-in-pakistan-pakbyte_1.webp?v=1770995181",
@@ -30541,7 +30794,7 @@
             3190,
             3190,
             3190,
-            3190,
+            3370,
             3370
           ]
         },
@@ -30551,7 +30804,7 @@
           "brand": "Rapoo",
           "category": "headset",
           "price": 2990,
-          "oldPrice": 3140,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-H120-price-in-pakistan-pakbyte_1.jpg?v=1770994826",
@@ -30567,7 +30820,7 @@
             3140,
             3140,
             3140,
-            3140,
+            2990,
             2990
           ]
         },
@@ -30629,7 +30882,7 @@
           "brand": "Rapoo",
           "category": "headset",
           "price": 1790,
-          "oldPrice": 1890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-H101-price-in-pakistan-pakbyte_1.jpg?v=1770993488",
@@ -30645,7 +30898,7 @@
             1890,
             1890,
             1890,
-            1890,
+            1790,
             1790
           ]
         },
@@ -30681,7 +30934,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 1690,
-          "oldPrice": 1140,
+          "oldPrice": null,
           "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-V1l-price-in-pakistan-pakbyte_1.jpg?v=1770990017",
@@ -30697,7 +30950,7 @@
             1140,
             1140,
             1140,
-            1140,
+            1690,
             1690
           ]
         },
@@ -30707,7 +30960,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 10190,
-          "oldPrice": 8990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-E9550L-price-in-pakistan-pakbyte_1.jpg?v=1770987515",
@@ -30723,7 +30976,7 @@
             8990,
             8990,
             8990,
-            8990,
+            10190,
             10190
           ]
         },
@@ -30733,7 +30986,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 8990,
-          "oldPrice": 3990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-e9350l-price-in-pakistan-pakbyte_5.webp?v=1770986936",
@@ -30749,7 +31002,7 @@
             3990,
             3990,
             3990,
-            3990,
+            8990,
             8990
           ]
         },
@@ -30759,7 +31012,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 8990,
-          "oldPrice": 7890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-e9350l-price-in-pakistan-pakbyte_1.webp?v=1770986642",
@@ -30775,7 +31028,7 @@
             7890,
             7890,
             7890,
-            7890,
+            8990,
             8990
           ]
         },
@@ -30785,7 +31038,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 7790,
-          "oldPrice": 3990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v500-pro-price-in-pakistan-pakbyte.jpg?v=1770985930",
@@ -30801,7 +31054,7 @@
             3990,
             3990,
             3990,
-            3990,
+            7790,
             7790
           ]
         },
@@ -30811,7 +31064,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 6990,
-          "oldPrice": 6240,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v500-pro-87-price-in-pakistan-pakbyte_1.webp?v=1770985682",
@@ -30827,7 +31080,7 @@
             6240,
             6240,
             6240,
-            6240,
+            6990,
             6990
           ]
         },
@@ -30837,7 +31090,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 7440,
-          "oldPrice": 3640,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-e9050l-price-in-pakistan-pakbyte_5.webp?v=1770985348",
@@ -30853,7 +31106,7 @@
             3640,
             3640,
             3640,
-            3640,
+            7440,
             7440
           ]
         },
@@ -30863,7 +31116,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 7440,
-          "oldPrice": 6790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-e9050l-price-in-pakistan-pakbyte_1.webp?v=1770985117",
@@ -30879,7 +31132,7 @@
             6790,
             6790,
             6790,
-            6790,
+            7440,
             7440
           ]
         },
@@ -30889,7 +31142,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 4590,
-          "oldPrice": 3890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v50s-price-in-pakistan-pakbyte_1.webp?v=1770984162",
@@ -30905,7 +31158,7 @@
             3890,
             3890,
             3890,
-            3890,
+            4590,
             4590
           ]
         },
@@ -30915,7 +31168,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 1690,
-          "oldPrice": 1790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-nk2600-price-in-pakistan-pakbyte_1.webp?v=1770983862",
@@ -30931,7 +31184,7 @@
             1790,
             1790,
             1790,
-            1790,
+            1690,
             1690
           ]
         },
@@ -30941,7 +31194,7 @@
           "brand": "Rapoo",
           "category": "keyboard",
           "price": 1680,
-          "oldPrice": 1790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-nk1900-price-in-pakistan-pakbyte_1.webp?v=1770983562",
@@ -30957,7 +31210,7 @@
             1790,
             1790,
             1790,
-            1790,
+            1680,
             1680
           ]
         },
@@ -30967,7 +31220,7 @@
           "brand": "RAPOO",
           "category": "keyboard",
           "price": 1290,
-          "oldPrice": 1240,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-k10-price-in-pakistan-pakbyte_1.webp?v=1770983269",
@@ -30983,7 +31236,7 @@
             1240,
             1240,
             1240,
-            1240,
+            1290,
             1290
           ]
         },
@@ -31227,7 +31480,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 7440,
-          "oldPrice": 5990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v30l-price-in-pakistan-pakbyte_1.webp?v=1770913469",
@@ -31243,7 +31496,7 @@
             5990,
             5990,
             5990,
-            5990,
+            7440,
             7440
           ]
         },
@@ -31253,7 +31506,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 5440,
-          "oldPrice": 5340,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-vt200-price-in-pakistan-pakbyte_1.webp?v=1770913205",
@@ -31269,7 +31522,7 @@
             5340,
             5340,
             5340,
-            5340,
+            5440,
             5440
           ]
         },
@@ -31331,7 +31584,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 2890,
-          "oldPrice": 2690,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v16-rgb-price-in-pakistan-pakbyte_1.webp?v=1770912386",
@@ -31347,7 +31600,7 @@
             2690,
             2690,
             2690,
-            2690,
+            2890,
             2890
           ]
         },
@@ -31357,7 +31610,7 @@
           "brand": "Rapoo",
           "category": "mouse",
           "price": 3140,
-          "oldPrice": 3280,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-m350-silent-price-in-pakistan-pakbyte_3.webp?v=1770912063",
@@ -31373,7 +31626,7 @@
             3280,
             3280,
             3280,
-            3280,
+            3140,
             3140
           ]
         },
@@ -31398,7 +31651,7 @@
             3440,
             3440,
             3440,
-            3440,
+            3140,
             3140,
             3140
           ]
@@ -31450,7 +31703,7 @@
             3390,
             3390,
             3390,
-            3390,
+            3140,
             3140,
             3140
           ]
@@ -31502,7 +31755,7 @@
             1840,
             1840,
             1840,
-            1840,
+            1690,
             1690,
             1690
           ]
@@ -31580,7 +31833,7 @@
             890,
             890,
             890,
-            890,
+            1140,
             1140,
             1140
           ]
@@ -32526,8 +32779,8 @@
           "name": "Samsung 9100 PRO 1TB with Heatsink SSD, PCIe 5.0x4 M.2 2280",
           "brand": "Samsung",
           "category": "storage",
-          "price": 65399,
-          "oldPrice": null,
+          "price": 89999,
+          "oldPrice": 65399,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-9100-pro-ssd-nvme-gen5-price-in-pakistan-pakbyte-7.webp?v=1768431798",
@@ -32544,7 +32797,7 @@
             65399,
             65399,
             65399,
-            65399
+            89999
           ]
         },
         {
@@ -44551,7 +44804,7 @@
             151990,
             151990,
             151990,
-            151990,
+            175990,
             175990,
             175990,
             175990,
@@ -44577,7 +44830,7 @@
             151990,
             151990,
             151990,
-            151990,
+            175990,
             175990,
             175990,
             175990,
@@ -56862,8 +57115,8 @@
           "name": "Attack Shark X3 Max Wireless Gaming Mouse - White",
           "brand": "Attack",
           "category": "mouse",
-          "price": 10890,
-          "oldPrice": null,
+          "price": 10899,
+          "oldPrice": 10890,
           "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-x3-max-wireless-mouse-white-price-in-pakistan-pakbyte_1.png?v=1756099272",
@@ -56880,7 +57133,7 @@
             10890,
             10890,
             10890,
-            10890
+            10899
           ]
         },
         {
@@ -61700,7 +61953,7 @@
           "category": "keyboard",
           "price": 14490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-k580-slim-keyboard-price-in-pakistan-pakbyte_1.jpg?v=1753808404",
           "url": "https://www.pakbyte.pk/products/logitech-k580-slim-multi-device-wireless-keyboard-graphite",
@@ -67301,7 +67554,7 @@
             151990,
             151990,
             151990,
-            151990,
+            175990,
             175990,
             175990,
             175990,
@@ -67405,7 +67658,7 @@
             161990,
             161990,
             161990,
-            161990,
+            175990,
             175990,
             175990,
             175990,
@@ -67457,7 +67710,7 @@
             151990,
             151990,
             151990,
-            151990,
+            175990,
             175990,
             175990,
             175990,
@@ -67483,7 +67736,7 @@
             161990,
             161990,
             161990,
-            161990,
+            175990,
             175990,
             175990,
             175990,
@@ -67668,7 +67921,7 @@
             15900,
             15900,
             15900,
-            15900,
+            15990,
             15990,
             15990
           ]
@@ -67772,7 +68025,7 @@
             14490,
             14490,
             14490,
-            14490,
+            12490,
             12490,
             12490
           ]
@@ -67798,7 +68051,7 @@
             8440,
             8440,
             8440,
-            8440,
+            7490,
             7490,
             7490
           ]
@@ -67824,7 +68077,7 @@
             8440,
             8440,
             8440,
-            8440,
+            7490,
             7490,
             7490
           ]
@@ -70592,7 +70845,7 @@
           "category": "headset",
           "price": 28990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-Zone-Wired-Headset-UC-Version-PakByte-Computers-26036243398723.jpg?v=1748004392",
           "url": "https://www.pakbyte.pk/products/logitech-zone-wired-headset-uc-version",
@@ -73504,7 +73757,7 @@
           "category": "mouse",
           "price": 3499,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SWIPE-Performance-Large-Gaming-Mouse-Pad-RUBY-PakByte-Computers-25911853908035.webp?v=1753671629",
           "url": "https://www.pakbyte.pk/products/swipe-performance-large-gaming-mouse-pad-ruby",
@@ -152571,6 +152824,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_mpg_x570_gaming_edge_wifi.webp",
           "url": "https://rbtechngames.com/product/msi-mpg-x570-gaming-edge-wifi-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            54999,
             54999
           ]
         },
@@ -152586,6 +152840,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_lenovo_thinkpad_t14_gen_3_thunder_black.webp",
           "url": "https://rbtechngames.com/product/lenovo-thinkpad-t14-gen-3-intel-core-i5-1245u-16gb-ram-256gb-ssd-14-fhd-ips-display-thunder-black-used",
           "history": [
+            104999,
             104999
           ]
         },
@@ -152601,6 +152856,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-021916.png",
           "url": "https://rbtechngames.com/product/lenovo-ideapad-slim-3-gen-10-14ahp10-amd-ryzen-5-8640hs-8gb-ram-256gb-ssd-14-fhd-60hz-oled-display-luna-grey-new",
           "history": [
+            219999,
             219999
           ]
         },
@@ -152616,6 +152872,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_hp_zbook_firefly_14_g8_turbo_silver_2.webp",
           "url": "https://rbtechngames.com/product/hp-zbook-firefly-14-g8-intel-core-i7-11th-gen-16gb-ram-256gb-ssd-14-fhd-ips-display-turbo-silver-used",
           "history": [
+            107999,
             107999
           ]
         },
@@ -152631,6 +152888,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_gigabyte_z590_d.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z590-d-atx-lga1200-ddr4-gaming-motherboard-used",
           "history": [
+            34999,
             34999
           ]
         },
@@ -152939,7 +153197,7 @@
             84999,
             84999,
             84999,
-            84999,
+            77999,
             77999,
             77999,
             77999,
@@ -153744,7 +154002,7 @@
             159999,
             159999,
             159999,
-            159999,
+            164999,
             164999,
             164999,
             164999,
@@ -155877,7 +156135,7 @@
             84999,
             84999,
             84999,
-            84999,
+            74999,
             74999,
             74999,
             74999,
@@ -158178,7 +158436,7 @@
           "brand": "Attack",
           "category": "keyboard",
           "price": 18499,
-          "oldPrice": 16499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_attack_shark_x820ultra_star_white.webp",
@@ -158194,7 +158452,7 @@
             16499,
             16499,
             16499,
-            16499,
+            18499,
             18499
           ]
         },
@@ -158817,7 +159075,7 @@
             184999,
             184999,
             184999,
-            184999,
+            194999,
             194999,
             194999
           ]
@@ -158827,8 +159085,8 @@
           "name": "AMD Ryzen 9 9950X3D Desktop Processor &#8211; Tray",
           "brand": "AMD",
           "category": "cpu",
-          "price": 184999,
-          "oldPrice": null,
+          "price": 164999,
+          "oldPrice": 184999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/07/rbtech_amd_ryzen_9_9950x3d.avif",
@@ -158845,7 +159103,7 @@
             184999,
             184999,
             184999,
-            184999
+            164999
           ]
         },
         {
@@ -159114,7 +159372,7 @@
           "brand": "Lexar",
           "category": "storage",
           "price": 149999,
-          "oldPrice": 26499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
@@ -159130,7 +159388,7 @@
             26499,
             26499,
             26499,
-            26499,
+            149999,
             149999
           ]
         },
