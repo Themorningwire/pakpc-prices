@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T05:07:10.831518+00:00",
+  "lastUpdated": "2026-11-14T13:00:41.744336+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,152 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_d751d233",
+          "name": "Rapoo CF300 High Efficiency Laptop Cooling Pad - Black",
+          "brand": "Rapoo",
+          "category": "cooler",
+          "price": 4190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-cf300-laptop-cooler-price-in-pakistan-pakbyte_1.webp?v=1794650863",
+          "url": "https://www.pakbyte.pk/products/rapoo-cf300-high-efficiency-laptop-cooling-pad-black",
+          "history": [
+            4190
+          ]
+        },
+        {
+          "id": "pakbyte_5769465c",
+          "name": "Rapoo CF200 Laptop Cooling Pad - Black",
+          "brand": "Rapoo",
+          "category": "cooler",
+          "price": 2520,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-CF200-Laptop-cooler-price-in-pakistan-pakbyte_1.webp?v=1794649409",
+          "url": "https://www.pakbyte.pk/products/rapoo-cf200-laptop-cooling-pad-black",
+          "history": [
+            2520
+          ]
+        },
+        {
+          "id": "pakbyte_3e171edc",
+          "name": "Rapoo CF100 Laptop Cooling Pad with 6-Level Adjustable Stand - Black",
+          "brand": "Rapoo",
+          "category": "cooler",
+          "price": 2290,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-CF500-cooling-pad-price-in-pakistan-pakbyte.webp?v=1794648149",
+          "url": "https://www.pakbyte.pk/products/rapoo-cf100-laptop-cooling-pad-with-6-level-adjustable-stand-black",
+          "history": [
+            2290
+          ]
+        },
+        {
+          "id": "pakbyte_5a5c2904",
+          "name": "Rapoo VH850 Tri-Mode Wireless Gaming Headset - Black",
+          "brand": "Rapoo",
+          "category": "headset",
+          "price": 14390,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-vh850-headset-price-in-pakistan-pakbyte_1.webp?v=1794643440",
+          "url": "https://www.pakbyte.pk/products/rapoo-vh850-tri-mode-wireless-gaming-headset-black",
+          "history": [
+            14390
+          ]
+        },
+        {
+          "id": "pakbyte_cdf34d5f",
+          "name": "Rapoo VH350S Wired 7.1 Surround Gaming Headset - Black",
+          "brand": "Rapoo",
+          "category": "headset",
+          "price": 6190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-vpro-vh350s-virtual-71-channel-rgb-gaming-headphone-price-in-pakistan-pakbyte.webp?v=1794642763",
+          "url": "https://www.pakbyte.pk/products/rapoo-vh350s-wired-7-1-surround-gaming-headset-black",
+          "history": [
+            6190
+          ]
+        },
+        {
+          "id": "pakbyte_3cd2c8c6",
+          "name": "Rapoo V500 PRO-98 Gaming Mechanical Keyboard - Black",
+          "brand": "Rapoo",
+          "category": "keyboard",
+          "price": 7440,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v500pro-98-rgb-wired-black-red-switch-price-in-pakistan-pakbyte.webp?v=1794642161",
+          "url": "https://www.pakbyte.pk/products/rapoo-v500-pro-98-gaming-mechanical-keyboard-black",
+          "history": [
+            7440
+          ]
+        },
+        {
+          "id": "pakbyte_97cc727b",
+          "name": "Rapoo GK500-87 Backlit Mechanical Gaming Keyboard - Black",
+          "brand": "Rapoo",
+          "category": "keyboard",
+          "price": 4190,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-GK500-keyboard-price-in-pakistan-pakbyte_1.webp?v=1794641774",
+          "url": "https://www.pakbyte.pk/products/rapoo-gk500-87-backlit-mechanical-gaming-keyboard-black",
+          "history": [
+            4190
+          ]
+        },
+        {
+          "id": "pakbyte_b7d3c0cf",
+          "name": "Rapoo V25S RGB Optical Wired Gaming Mouse - Black",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 5440,
+          "oldPrice": 4190,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v25s-price-in-pakistan-pakbyte_1_2d61a8ba-85b4-4ff4-bf4a-f39ccb3eacfe.webp?v=1794641258",
+          "url": "https://www.pakbyte.pk/products/rapoo-v25s-rgb-optical-wired-gaming-mouse-black-1",
+          "history": [
+            4190,
+            4190,
+            4190,
+            4190,
+            4190,
+            4190,
+            4190,
+            4190,
+            4190,
+            4190,
+            4190,
+            5440
+          ]
+        },
+        {
+          "id": "pakbyte_a4c19c65",
+          "name": "Rapoo V11S Entry Wired Gaming Mouse - Black",
+          "brand": "Rapoo",
+          "category": "mouse",
+          "price": 1840,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-V11S-wired-gaming-mouse-price-in-pakistan-pakbyte_1.webp?v=1794640552",
+          "url": "https://www.pakbyte.pk/products/rapoo-v11s-entry-wired-gaming-mouse-black",
+          "history": [
+            1840
+          ]
+        },
         {
           "id": "pakbyte_a1159df7",
           "name": "Rapoo H180 USB Foldable Wired Stereo Headset - Black",
@@ -20,6 +166,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-H180-USB-Foldable-Wired-Stereo-Headset-Black-Price-in-Pakistan-Pakbyte.webp?v=1794488442",
           "url": "https://www.pakbyte.pk/products/rapoo-h180-usb-foldable-wired-stereo-headset-black",
           "history": [
+            7790,
             7790,
             7790,
             7790,
@@ -45,6 +192,7 @@
             17990,
             17990,
             17990,
+            17990,
             17990
           ]
         },
@@ -60,6 +208,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-9360M-keyboard-mouse-combo-price-in-pakistan-pakbyte_1.webp?v=1794487811",
           "url": "https://www.pakbyte.pk/products/rapoo-9360m-wireless-keyboard-and-mouse-combo-black",
           "history": [
+            9790,
             9790,
             9790,
             9790,
@@ -85,6 +234,7 @@
             4190,
             4190,
             4190,
+            4190,
             4190
           ]
         },
@@ -100,6 +250,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-E900T-keyboard-price-in-pakistan-pakbyte_1.webp?v=1794477604",
           "url": "https://www.pakbyte.pk/products/rapoo-e900t-mini-wireless-keyboard-with-touchpad",
           "history": [
+            9260,
             9260,
             9260,
             9260,
@@ -125,6 +276,7 @@
             14990,
             14990,
             14990,
+            14990,
             14990
           ]
         },
@@ -140,6 +292,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M300L-Rechargable-multi-mode-mouse-Dark-Gray-price-in-pakistan-pakbyte.webp?v=1794466082",
           "url": "https://www.pakbyte.pk/products/rapoo-m300l-rechargable-multi-mode-mouse-dark-gray",
           "history": [
+            4190,
             4190,
             4190,
             4190,
@@ -165,6 +318,7 @@
             2640,
             2640,
             2640,
+            2640,
             2640
           ]
         },
@@ -180,6 +334,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M360-Optical-Mouse-Price-in-Pakistan-Pakbyte.webp?v=1794465502",
           "url": "https://www.pakbyte.pk/products/rapoo-m360-smart-dual-mode-wireless-mouse-with-copilot-button-rock-grey",
           "history": [
+            2640,
             2640,
             2640,
             2640,
@@ -205,6 +360,7 @@
             2640,
             2640,
             2640,
+            2640,
             2640
           ]
         },
@@ -220,6 +376,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-M100-optical-Gaming-Mouse-Price-in-Pakistan-Pakbyte.webp?v=1794464719",
           "url": "https://www.pakbyte.pk/products/rapoo-m100-silent-wireless-optical-mouse-light-grey",
           "history": [
+            2190,
             2190,
             2190,
             2190,
@@ -245,6 +402,7 @@
             2190,
             2190,
             2190,
+            2190,
             2190
           ]
         },
@@ -260,6 +418,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-B30-Silent-mouse-price-in-pakistan-pakbyte_1.webp?v=1794464057",
           "url": "https://www.pakbyte.pk/products/rapoo-b30-silent-2-4g-wireless-mouse-black",
           "history": [
+            1690,
             1690,
             1690,
             1690,
@@ -285,6 +444,7 @@
             1540,
             1540,
             1540,
+            1540,
             1540
           ]
         },
@@ -305,6 +465,7 @@
             740,
             740,
             740,
+            740,
             740
           ]
         },
@@ -320,6 +481,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/andaseat-stealth-ii-duo-price-in-pakistan-pakbyte_1_6b20cc65-6f2d-4e19-9f05-742ff7176b34.webp?v=1794378565",
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-ii-duo-ergonomic-dual-monitor-arm-black-blue",
           "history": [
+            14490,
             14490,
             14490,
             14490,
@@ -349,6 +511,7 @@
             14490,
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -371,6 +534,7 @@
             12490,
             12490,
             12490,
+            12490,
             12490
           ]
         },
@@ -386,6 +550,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Neutron-X-Pro-Gaming-Case-Price-in-Pakistan-Pakbyte_2.webp?v=1794290785",
           "url": "https://www.pakbyte.pk/products/xyz-neutron-x-pro-argb-gaming-case-white",
           "history": [
+            49990,
             49990,
             49990,
             49990,
@@ -421,6 +586,7 @@
             24690,
             24690,
             24690,
+            24690,
             24690
           ]
         },
@@ -436,6 +602,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XYZ-Tessaract-X-Price-in-Pakistan-Pakbyte_1.webp?v=1794288818",
           "url": "https://www.pakbyte.pk/products/xyz-tesseract-x-argb-gaming-case-white",
           "history": [
+            46490,
             46490,
             46490,
             46490,
@@ -471,6 +638,7 @@
             35990,
             35990,
             35990,
+            35990,
             35990
           ]
         },
@@ -496,6 +664,7 @@
             14790,
             14790,
             14790,
+            14790,
             14790
           ]
         },
@@ -511,6 +680,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermax-duo-6-argb-air-cooler-price-in-pakistan-pakbyte_2.webp?v=1794287114",
           "url": "https://www.pakbyte.pk/products/xyz-thermax-6-duo-argb-air-cooler-white",
           "history": [
+            14790,
             14790,
             14790,
             14790,
@@ -3443,7 +3613,7 @@
           "category": "mouse",
           "price": 4490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-Blaze-xsoft-gaming-mousepad-price-in-pakistan-pakbyte.webp?v=1792600466",
           "url": "https://www.pakbyte.pk/products/atk-blaze-xsoft-esport-gaming-mouse-pad-black",
@@ -20846,7 +21016,7 @@
             10690,
             10690,
             10690,
-            10690,
+            12120,
             12120,
             12120,
             12120,
@@ -21001,7 +21171,7 @@
             1590,
             1590,
             1590,
-            1590,
+            1690,
             1690,
             1690,
             1690,
@@ -30492,7 +30662,7 @@
             14990,
             14990,
             14990,
-            14990,
+            16890,
             16890,
             16890,
             16890,
@@ -30518,7 +30688,7 @@
             9490,
             9490,
             9490,
-            9490,
+            9840,
             9840,
             9840,
             9840,
@@ -30544,7 +30714,7 @@
             8990,
             8990,
             8990,
-            8990,
+            8840,
             8840,
             8840,
             8840,
@@ -30648,7 +30818,7 @@
             8490,
             8490,
             8490,
-            8490,
+            7790,
             7790,
             7790,
             7790,
@@ -30700,7 +30870,7 @@
             4690,
             4690,
             4690,
-            4690,
+            4570,
             4570,
             4570,
             4570,
@@ -30752,7 +30922,7 @@
             4140,
             4140,
             4140,
-            4140,
+            4190,
             4190,
             4190,
             4190,
@@ -30778,7 +30948,7 @@
             4140,
             4140,
             4140,
-            4140,
+            4190,
             4190,
             4190,
             4190,
@@ -30830,7 +31000,7 @@
             2540,
             2540,
             2540,
-            2540,
+            2390,
             2390,
             2390,
             2390,
@@ -30856,7 +31026,7 @@
             9990,
             9990,
             9990,
-            9990,
+            14990,
             14990,
             14990,
             14990,
@@ -30882,7 +31052,7 @@
             4890,
             4890,
             4890,
-            4890,
+            6240,
             6240,
             6240,
             6240,
@@ -30934,7 +31104,7 @@
             7190,
             7190,
             7190,
-            7190,
+            4790,
             4790,
             4790,
             4790,
@@ -30960,7 +31130,7 @@
             6490,
             6490,
             6490,
-            6490,
+            6840,
             6840,
             6840,
             6840,
@@ -30986,7 +31156,7 @@
             3190,
             3190,
             3190,
-            3190,
+            3370,
             3370,
             3370,
             3370,
@@ -31012,7 +31182,7 @@
             3140,
             3140,
             3140,
-            3140,
+            2990,
             2990,
             2990,
             2990,
@@ -31090,7 +31260,7 @@
             1890,
             1890,
             1890,
-            1890,
+            1790,
             1790,
             1790,
             1790,
@@ -31142,7 +31312,7 @@
             1140,
             1140,
             1140,
-            1140,
+            1690,
             1690,
             1690,
             1690,
@@ -31168,7 +31338,7 @@
             8990,
             8990,
             8990,
-            8990,
+            10190,
             10190,
             10190,
             10190,
@@ -31194,7 +31364,7 @@
             3990,
             3990,
             3990,
-            3990,
+            8990,
             8990,
             8990,
             8990,
@@ -31220,7 +31390,7 @@
             7890,
             7890,
             7890,
-            7890,
+            8990,
             8990,
             8990,
             8990,
@@ -31246,7 +31416,7 @@
             3990,
             3990,
             3990,
-            3990,
+            7790,
             7790,
             7790,
             7790,
@@ -31272,7 +31442,7 @@
             6240,
             6240,
             6240,
-            6240,
+            6990,
             6990,
             6990,
             6990,
@@ -31298,7 +31468,7 @@
             3640,
             3640,
             3640,
-            3640,
+            7440,
             7440,
             7440,
             7440,
@@ -31324,7 +31494,7 @@
             6790,
             6790,
             6790,
-            6790,
+            7440,
             7440,
             7440,
             7440,
@@ -31350,7 +31520,7 @@
             3890,
             3890,
             3890,
-            3890,
+            4590,
             4590,
             4590,
             4590,
@@ -31376,7 +31546,7 @@
             1790,
             1790,
             1790,
-            1790,
+            1690,
             1690,
             1690,
             1690,
@@ -31402,7 +31572,7 @@
             1790,
             1790,
             1790,
-            1790,
+            1680,
             1680,
             1680,
             1680,
@@ -31428,7 +31598,7 @@
             1240,
             1240,
             1240,
-            1240,
+            1290,
             1290,
             1290,
             1290,
@@ -31688,7 +31858,7 @@
             5990,
             5990,
             5990,
-            5990,
+            7440,
             7440,
             7440,
             7440,
@@ -31714,7 +31884,7 @@
             5340,
             5340,
             5340,
-            5340,
+            5440,
             5440,
             5440,
             5440,
@@ -31722,32 +31892,6 @@
             5440,
             5440,
             5440
-          ]
-        },
-        {
-          "id": "pakbyte_b7d3c0cf",
-          "name": "Rapoo V25S RGB Optical Wired Gaming Mouse - Black",
-          "brand": "Rapoo",
-          "category": "mouse",
-          "price": 4190,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-v25s-price-in-pakistan-pakbyte_1.webp?v=1770912886",
-          "url": "https://www.pakbyte.pk/products/rapoo-v25s-rgb-optical-wired-gaming-mouse-black",
-          "history": [
-            4190,
-            4190,
-            4190,
-            4190,
-            4190,
-            4190,
-            4190,
-            4190,
-            4190,
-            4190,
-            4190,
-            4190
           ]
         },
         {
@@ -31792,7 +31936,7 @@
             2690,
             2690,
             2690,
-            2690,
+            2890,
             2890,
             2890,
             2890,
@@ -31818,7 +31962,7 @@
             3280,
             3280,
             3280,
-            3280,
+            3140,
             3140,
             3140,
             3140,
@@ -31843,7 +31987,7 @@
             3440,
             3440,
             3440,
-            3440,
+            3140,
             3140,
             3140,
             3140,
@@ -31895,7 +32039,7 @@
             3390,
             3390,
             3390,
-            3390,
+            3140,
             3140,
             3140,
             3140,
@@ -31947,7 +32091,7 @@
             1840,
             1840,
             1840,
-            1840,
+            1690,
             1690,
             1690,
             1690,
@@ -32025,7 +32169,7 @@
             890,
             890,
             890,
-            890,
+            1140,
             1140,
             1140,
             1140,
@@ -32989,7 +33133,7 @@
             65399,
             65399,
             65399,
-            65399,
+            89999,
             89999,
             89999,
             89999,
@@ -44996,7 +45140,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/g-skill-trident-z5-ddr5-6400mhz_2.webp?v=1764227622",
           "url": "https://www.pakbyte.pk/products/g-skill-trident-z5-rgb-series-32gb-2x16gb-ddr5-6400mhz-desktop-memory-white",
           "history": [
-            151990,
+            175990,
             175990,
             175990,
             175990,
@@ -45022,7 +45166,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gskill-Trident-Z5-32GB-6400mhz-intel-price-in-pakistan-pakbyte.jpg?v=1764226956",
           "url": "https://www.pakbyte.pk/products/g-skill-trident-z5-rgb-series-32gb-2-x-16gb-ddr5-6400mhz-desktop-memory",
           "history": [
-            151990,
+            175990,
             175990,
             175990,
             175990,
@@ -57325,7 +57469,7 @@
             10890,
             10890,
             10890,
-            10890,
+            10899,
             10899,
             10899,
             10899,
@@ -67455,7 +67599,7 @@
           "category": "mouse",
           "price": 7490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-SE-White-Wireless-Gaming-Mouse-PakByte-Computers-26167566204995.jpg?v=1753670555",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-se-white-wireless-gaming-mouse",
@@ -67746,7 +67890,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-Neo-RGB-32GB-2x16GB-6000MHz-C36-DDR5-36-36-36-96-DRAM-Desktop-Memory-Matte-Black-PakByte-Computers-26167513579587.jpg?v=1753670835",
           "url": "https://www.pakbyte.pk/products/g-skill-trident-z5-neo-rgb-32gb-2x16gb-6000mhz-c36-ddr5-dram-desktop-memory-matte-black",
           "history": [
-            151990,
+            175990,
             175990,
             175990,
             175990,
@@ -67850,7 +67994,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-RGB-32GB-2x16GB-6000MHz-CL30-Intel-XMP-3-0-30-40-40-96-DDR5-RAM-1-35V-Desktop-Computer-Memory-UDIMM-Metallic-Silver-PakByte-Computers-26167510564931.jpg?v=1753670625",
           "url": "https://www.pakbyte.pk/products/g-skill-trident-z5-rgb-32gb-2x16gb-6000mhz-cl30-intel-xmp-3-0-ddr5-ram-1-35v-desktop-computer-memory-udimm-metallic-silver",
           "history": [
-            161990,
+            175990,
             175990,
             175990,
             175990,
@@ -67902,7 +68046,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-SKILL-Trident-Z5-RGB-Series-32GB-2x16GB-DDR5-RAM-6000MHz-Intel-XMP-3-0-Desktop-Computer-Memory-Matte-Black-PakByte-Computers-26167508631619.jpg?v=1753670713",
           "url": "https://www.pakbyte.pk/products/g-skill-trident-z5-rgb-series-32gb-2x16gb-ddr5-ram-6000mhz-intel-xmp-3-0-desktop-computer-memory-matte-black",
           "history": [
-            151990,
+            175990,
             175990,
             175990,
             175990,
@@ -67928,7 +68072,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/G-Skill-Trident-Z5-RGB-32GB-2x16GB-6000MT-s-CL30-Intel-XMP-3-0-DDR5-RAM-Desktop-Computer-Memory-Matte-Black-PakByte-Computers-26167500013635.jpg?v=1753670726",
           "url": "https://www.pakbyte.pk/products/g-skill-trident-z5-rgb-32gb-2x16gb-6000mt-s-cl30-intel-xmp-3-0-ddr5-ram-desktop-computer-memory-matte-black",
           "history": [
-            161990,
+            175990,
             175990,
             175990,
             175990,
@@ -68113,7 +68257,7 @@
             15900,
             15900,
             15900,
-            15900,
+            15990,
             15990,
             15990,
             15990,
@@ -68217,7 +68361,7 @@
             14490,
             14490,
             14490,
-            14490,
+            12490,
             12490,
             12490,
             12490,
@@ -68243,7 +68387,7 @@
             8440,
             8440,
             8440,
-            8440,
+            7490,
             7490,
             7490,
             7490,
@@ -68269,7 +68413,7 @@
             8440,
             8440,
             8440,
-            8440,
+            7490,
             7490,
             7490,
             7490,
@@ -82847,7 +82991,7 @@
           "category": "storage",
           "price": 37999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SanDisk-1TB-Portable-SSD-Up-to-800MB-s-USB-C-USB-3-2-Gen-2-Updated-Firmware-External-Solid-State-Drive-PakByte-Computers-25765410799683.jpg?v=1753673475",
           "url": "https://www.pakbyte.pk/products/sandisk-1tb-portable-ssd-up-to-800mb-s-usb-c-usb-3-2-gen-2-updated-firmware-external-solid-state-drive",
@@ -153026,6 +153170,7 @@
             24999,
             24999,
             24999,
+            24999,
             24999
           ]
         },
@@ -153041,6 +153186,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/10/zotac_3050_1.webp",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3050-twin-edge-oc-8gb-graphics-card-used",
           "history": [
+            74999,
             74999,
             74999,
             74999,
@@ -153064,6 +153210,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -153079,6 +153226,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/01/msi_b550m-a_pro_1.jpg",
           "url": "https://rbtechngames.com/product/msi-b550m-a-pro-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            25999,
             25999,
             25999,
             25999,
@@ -153102,6 +153250,7 @@
             23499,
             23499,
             23499,
+            23499,
             23499
           ]
         },
@@ -153117,6 +153266,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/02/rbtech_gigabyte_A520M_K_V2.png",
           "url": "https://rbtechngames.com/product/gigabyte-a520m-k-v2-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -153140,6 +153290,7 @@
             19999,
             19999,
             19999,
+            19999,
             19999
           ]
         },
@@ -153155,6 +153306,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_mpg_x570_gaming_edge_wifi.webp",
           "url": "https://rbtechngames.com/product/msi-mpg-x570-gaming-edge-wifi-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            54999,
             54999,
             54999,
             54999,
@@ -153182,6 +153334,7 @@
             104999,
             104999,
             104999,
+            104999,
             104999
           ]
         },
@@ -153197,6 +153350,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-021916.png",
           "url": "https://rbtechngames.com/product/lenovo-ideapad-slim-3-gen-10-14ahp10-amd-ryzen-5-8640hs-8gb-ram-256gb-ssd-14-fhd-60hz-oled-display-luna-grey-new",
           "history": [
+            219999,
             219999,
             219999,
             219999,
@@ -153224,6 +153378,7 @@
             107999,
             107999,
             107999,
+            107999,
             107999
           ]
         },
@@ -153239,6 +153394,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_gigabyte_z590_d.webp",
           "url": "https://rbtechngames.com/product/gigabyte-z590-d-atx-lga1200-ddr4-gaming-motherboard-used",
           "history": [
+            34999,
             34999,
             34999,
             34999,
@@ -153547,7 +153703,7 @@
           "url": "https://rbtechngames.com/product/msi-geforce-rtx-2060-super-ventus-8gb-graphics-card-used",
           "history": [
             84999,
-            84999,
+            77999,
             77999,
             77999,
             77999,
@@ -154352,7 +154508,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_hp_zbook_firefly_14_g9.webp",
           "url": "https://rbtechngames.com/product/hp-zbook-firefly-14-g9-intel-core-i7-1255u-16gb-ram-512gb-ssd-nvidia-t550-4gb-gpu-14-fhd-ips-display-used",
           "history": [
-            159999,
+            164999,
             164999,
             164999,
             164999,
@@ -156485,7 +156641,7 @@
           "url": "https://rbtechngames.com/product/asus-dual-geforce-rtx-3050-6gb-oc-graphics-card-new-without-box",
           "history": [
             84999,
-            84999,
+            74999,
             74999,
             74999,
             74999,
@@ -157250,32 +157406,6 @@
             164999,
             164999,
             164999
-          ]
-        },
-        {
-          "id": "rbtechgames_f71a62db",
-          "name": "PNY SODIMM 32GB (2x16GB) 5600MT/s CL46 DDR5 Laptop Memory",
-          "brand": "PNY",
-          "category": "ram",
-          "price": 99999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_pny_sodimm_drr5_kit.webp",
-          "url": "https://rbtechngames.com/product/pny-sodimm-32gb-2x16gb-5600mt-s-cl46-ddr5-laptop-memory",
-          "history": [
-            99999,
-            99999,
-            99999,
-            99999,
-            99999,
-            99999,
-            99999,
-            99999,
-            99999,
-            99999,
-            99999,
-            99999
           ]
         },
         {
@@ -158828,7 +158958,7 @@
             16499,
             16499,
             16499,
-            16499,
+            18499,
             18499,
             18499,
             18499,
@@ -159451,7 +159581,7 @@
             184999,
             184999,
             184999,
-            184999,
+            194999,
             194999,
             194999,
             194999,
@@ -159479,7 +159609,7 @@
             184999,
             184999,
             184999,
-            184999,
+            164999,
             164999,
             164999,
             164999,
@@ -159584,7 +159714,7 @@
             294999,
             294999,
             294999,
-            294999,
+            299999,
             299999,
             299999,
             299999,
@@ -159764,9 +159894,9 @@
             26499,
             26499,
             26499,
-            26499,
             149999,
             149999,
+            42499,
             42499,
             42499,
             42499,
@@ -160618,6 +160748,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/04/rbtech_aula_f75_black.webp",
           "url": "https://rbtechngames.com/product/aula-f75-75-wireless-rgb-mechanical-gaming-keyboard-black-light-blue-black-side-printed-blue-side-printed-reaper-linear-switches-ice-vein-linear-switches",
           "history": [
+            12999,
             12999,
             12999,
             12999,
@@ -162437,7 +162568,7 @@
             89999,
             89999,
             89999,
-            89999,
+            96999,
             96999,
             96999,
             96999,
