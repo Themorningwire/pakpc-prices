@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T04:57:46.381531+00:00",
+  "lastUpdated": "2026-11-16T14:54:28.356359+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,81 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_0b089265",
+          "name": "EASE NVIDIA GeForce GTX 1660 Ti 6GB GDDR6 Graphics Card",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 70999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ease-1660-ti-price-in-pakistan-pakbyte-1.png?v=1794818637",
+          "url": "https://www.pakbyte.pk/products/ease-nvidia-geforce-gtx-1660-ti-6gb-gddr6-graphics-card",
+          "history": [
+            70999
+          ]
+        },
+        {
+          "id": "pakbyte_91b05aff",
+          "name": "Asus ProArt LC 360 All-in-One AIO CPU Liquid Cooler - Matte Black",
+          "brand": "ASUS",
+          "category": "cooler",
+          "price": 64490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-proart-lc-360-cooler-price-in-pakistan-pakbyte_1.jpg?v=1794812138",
+          "url": "https://www.pakbyte.pk/products/asus-proart-lc-360-all-in-one-aio-cpu-liquid-cooler-matte-black",
+          "history": [
+            64490
+          ]
+        },
+        {
+          "id": "pakbyte_5514a180",
+          "name": "Asus Max Gaming LC 360 ARGB LCD All-in-One CPU Liquid Cooler - Black",
+          "brand": "ASUS",
+          "category": "cooler",
+          "price": 44990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-max-gaming-lc-360-argb-lcd-price-in-pakistan-pakbyte_5.webp?v=1794811244",
+          "url": "https://www.pakbyte.pk/products/asus-max-gaming-lc-360-argb-lcd-all-in-one-cpu-liquid-cooler-black",
+          "history": [
+            44990
+          ]
+        },
+        {
+          "id": "pakbyte_8c3fe836",
+          "name": "Asus Max Gaming LC 360 ARGB LCD All-in-One CPU Liquid Cooler - White",
+          "brand": "ASUS",
+          "category": "cooler",
+          "price": 44990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-max-gaming-lc-360-argb-lcd-price-in-pakistan-pakbyte_1.webp?v=1794810650",
+          "url": "https://www.pakbyte.pk/products/asus-max-gaming-lc-360-argb-lcd-all-in-one-cpu-liquid-cooler-white",
+          "history": [
+            44990
+          ]
+        },
+        {
+          "id": "pakbyte_7bbfa103",
+          "name": "Asus Tuf Gaming 1000W Gold EVO Fully Modular Power Supply",
+          "brand": "ASUS",
+          "category": "psu",
+          "price": 42990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-1000G-Gold-Evo-Power-supply-Price-in-Pakistan-Pakbyte_1.webp?v=1794809952",
+          "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-1000w-gold-evo-fully-modular-power-supply",
+          "history": [
+            42990
+          ]
+        },
         {
           "id": "pakbyte_d751d233",
           "name": "Rapoo CF300 High Efficiency Laptop Cooling Pad - Black",
@@ -20,6 +95,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-cf300-laptop-cooler-price-in-pakistan-pakbyte_1.webp?v=1794650863",
           "url": "https://www.pakbyte.pk/products/rapoo-cf300-high-efficiency-laptop-cooling-pad-black",
           "history": [
+            4190,
             4190,
             4190,
             4190,
@@ -45,6 +121,7 @@
             2520,
             2520,
             2520,
+            2520,
             2520
           ]
         },
@@ -60,6 +137,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-CF500-cooling-pad-price-in-pakistan-pakbyte.webp?v=1794648149",
           "url": "https://www.pakbyte.pk/products/rapoo-cf100-laptop-cooling-pad-with-6-level-adjustable-stand-black",
           "history": [
+            2290,
             2290,
             2290,
             2290,
@@ -85,6 +163,7 @@
             14390,
             14390,
             14390,
+            14390,
             14390
           ]
         },
@@ -100,6 +179,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-vpro-vh350s-virtual-71-channel-rgb-gaming-headphone-price-in-pakistan-pakbyte.webp?v=1794642763",
           "url": "https://www.pakbyte.pk/products/rapoo-vh350s-wired-7-1-surround-gaming-headset-black",
           "history": [
+            6190,
             6190,
             6190,
             6190,
@@ -125,6 +205,7 @@
             7440,
             7440,
             7440,
+            7440,
             7440
           ]
         },
@@ -140,6 +221,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-GK500-keyboard-price-in-pakistan-pakbyte_1.webp?v=1794641774",
           "url": "https://www.pakbyte.pk/products/rapoo-gk500-87-backlit-mechanical-gaming-keyboard-black",
           "history": [
+            4190,
             4190,
             4190,
             4190,
@@ -165,7 +247,7 @@
             4190,
             4190,
             4190,
-            4190,
+            5440,
             5440,
             5440,
             5440,
@@ -186,6 +268,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-V11S-wired-gaming-mouse-price-in-pakistan-pakbyte_1.webp?v=1794640552",
           "url": "https://www.pakbyte.pk/products/rapoo-v11s-entry-wired-gaming-mouse-black",
           "history": [
+            1840,
             1840,
             1840,
             1840,
@@ -5763,8 +5846,8 @@
           "name": "KTC M27T6 Mini LED 27\" 180Hz 2K HDR1400 Gaming Monitor",
           "brand": "KTC",
           "category": "monitor",
-          "price": 81990,
-          "oldPrice": null,
+          "price": 79990,
+          "oldPrice": 81990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/KTC-M27T6-Gaming-Monitor-Price-in-Pakistan-pakbyte_1.webp?v=1790405356",
@@ -5781,7 +5864,7 @@
             81990,
             81990,
             81990,
-            81990
+            79990
           ]
         },
         {
@@ -34597,8 +34680,8 @@
           "name": "Asus Tuf Gaming GT302 ARGB Mid-Tower ATX Case - Black",
           "brand": "ASUS",
           "category": "case",
-          "price": 34990,
-          "oldPrice": null,
+          "price": 32990,
+          "oldPrice": 34990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-tuf-gaming-gt302-black-casing-price-in-pakistan-pakbyte_4.jpg?v=1767257666",
@@ -34615,7 +34698,7 @@
             34990,
             34990,
             34990,
-            34990
+            32990
           ]
         },
         {
@@ -43251,29 +43334,18 @@
           ]
         },
         {
-          "id": "pakbyte_2e119a6a",
-          "name": "Asus Rog Strix Helios II EATX Mid-Tower Gaming PC Case - White",
+          "id": "pakbyte_7d86a015",
+          "name": "Asus GX 601S Rog Strix Helios II EATX Mid-Tower Gaming PC Case - White",
           "brand": "ASUS",
           "category": "case",
-          "price": 94790,
+          "price": 86990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-helios-ii-white-price-in-pakistan-pakbyte_4.webp?v=1764953996",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-helios-ii-eatx-mid-tower-gaming-pc-case-white",
           "history": [
-            94790,
-            94790,
-            94790,
-            94790,
-            94790,
-            94790,
-            94790,
-            94790,
-            94790,
-            94790,
-            94790,
-            94790
+            86990
           ]
         },
         {
@@ -43307,8 +43379,8 @@
           "name": "Asus ProArt PA401 Wood Edition ATX PC Case Metal Panel",
           "brand": "ASUS",
           "category": "case",
-          "price": 37790,
-          "oldPrice": null,
+          "price": 31690,
+          "oldPrice": 37790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-proart-pa401-wood-edition-metal-case-price-in-pakistan-pakbyte_2.jpg?v=1764953381",
@@ -43325,7 +43397,7 @@
             37790,
             37790,
             37790,
-            37790
+            31690
           ]
         },
         {
@@ -43333,8 +43405,8 @@
           "name": "ASUS ProArt PA401 Wood Edition ATX Mid-Tower PC Case",
           "brand": "ASUS",
           "category": "case",
-          "price": 37790,
-          "oldPrice": null,
+          "price": 31690,
+          "oldPrice": 37790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-PROART-PA401-WOOD-TG-PWM-BLACK-PRICE-IN-PAKISTAN-PAKBYTE_3.jpg?v=1764953104",
@@ -43351,7 +43423,7 @@
             37790,
             37790,
             37790,
-            37790
+            31690
           ]
         },
         {
@@ -49833,8 +49905,8 @@
           "name": "Redragon Sparda H375 Wired Gaming Headset",
           "brand": "Redragon",
           "category": "headset",
-          "price": 6190,
-          "oldPrice": null,
+          "price": 6799,
+          "oldPrice": 6190,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/61aBJykvkfL._AC_SL1500.jpg?v=1761956403",
@@ -49851,7 +49923,7 @@
             6190,
             6190,
             6190,
-            6190
+            6799
           ]
         },
         {
@@ -60545,8 +60617,8 @@
           "name": "Asus Rog Delta S Wireless Lightweight Gaming Headset",
           "brand": "ASUS",
           "category": "headset",
-          "price": 42390,
-          "oldPrice": null,
+          "price": 42490,
+          "oldPrice": 42390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-delta-s-wireless-headset-price-in-pakistan_1.jpg?v=1754728444",
@@ -60563,7 +60635,7 @@
             42390,
             42390,
             42390,
-            42390
+            42490
           ]
         },
         {
@@ -60571,8 +60643,8 @@
           "name": "Asus Rog Delta S Core Lightweight Gaming Headset",
           "brand": "ASUS",
           "category": "headset",
-          "price": 29390,
-          "oldPrice": null,
+          "price": 21990,
+          "oldPrice": 29390,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-delta-s-core-headset-price-in-pakistan_1.jpg?v=1754727914",
@@ -60589,7 +60661,7 @@
             29390,
             29390,
             29390,
-            29390
+            21990
           ]
         },
         {
@@ -60701,8 +60773,8 @@
           "name": "ASUS ROG RYUYJIN III 360 ARGB Extreme All-in-one AIO CPU Liquid Cooler - Black",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 114790,
-          "oldPrice": null,
+          "price": 121990,
+          "oldPrice": 114790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-_RYUYJIN-III-360-_ARGB-Extreme_2.jpg?v=1754670419",
@@ -60719,7 +60791,7 @@
             114790,
             114790,
             114790,
-            114790
+            121990
           ]
         },
         {
@@ -60727,8 +60799,8 @@
           "name": "ASUS ROG RYUJIN III 360 ARGB Extreme CPU Liquid Cooler - White",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 117790,
-          "oldPrice": null,
+          "price": 121990,
+          "oldPrice": 117790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ROG-RUYJIN-III-360-ARGB-EXTREME_1.jpg?v=1754670005",
@@ -60745,7 +60817,7 @@
             117790,
             117790,
             117790,
-            117790
+            121990
           ]
         },
         {
@@ -60753,8 +60825,8 @@
           "name": "Asus Prime LC 360 ARGB All-in-One CPU Liquid Cooler - White",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 26790,
-          "oldPrice": null,
+          "price": 24990,
+          "oldPrice": 26790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-lc-360-argb-aio-cpu-liquid-cooler_1.webp?v=1754650375",
@@ -60771,7 +60843,7 @@
             26790,
             26790,
             26790,
-            26790
+            24990
           ]
         },
         {
@@ -60779,8 +60851,8 @@
           "name": "Asus Prime LC 360 ARGB All-in-One CPU Liquid Cooler",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 26690,
-          "oldPrice": null,
+          "price": 24990,
+          "oldPrice": 26690,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-lc-360-argb-cooler-price-in-pakistan_1.jpg?v=1754650043",
@@ -60797,7 +60869,7 @@
             26690,
             26690,
             26690,
-            26690
+            24990
           ]
         },
         {
@@ -66135,8 +66207,8 @@
           "name": "ASUS Prime LC 360 ARGB 2.3” LCD AIO CPU Liquid Cooler",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 37490,
-          "oldPrice": null,
+          "price": 34990,
+          "oldPrice": 37490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-Prime-LC-360-ARGB-2-3-LCD-AIO-CPU-Liquid-Cooler-PakByte-Computers-26302307532867.webp?v=1753670266",
@@ -66153,7 +66225,7 @@
             37490,
             37490,
             37490,
-            37490
+            34990
           ]
         },
         {
@@ -93021,7 +93093,7 @@
           "category": "mouse",
           "price": 6490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Razer-DeathAdder-Essential-Black-Wired-Mouse-PakByte-Computers-25477075173443.jpg?v=1753675895",
           "url": "https://www.pakbyte.pk/products/razer-deathadder-essential-black-wired-mouse",
@@ -104147,8 +104219,8 @@
           "name": "ASUS TUF Gaming 1200W Gold, ATX 3.0 Fully Modular 80+ Gold Power Supply",
           "brand": "ASUS",
           "category": "psu",
-          "price": 64990,
-          "oldPrice": null,
+          "price": 52990,
+          "oldPrice": 64990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-Gaming-1200W-Gold-ATX-3-0-Fully-Modular-80-Gold-Military-Grade-PakByte-Computers-24759447027779.jpg?v=1753678020",
@@ -104165,7 +104237,7 @@
             64990,
             64990,
             64990,
-            64990
+            52990
           ]
         },
         {
@@ -104173,8 +104245,8 @@
           "name": "Asus Tuf Gaming 1000W Gold Fully Modular Power Supply",
           "brand": "ASUS",
           "category": "psu",
-          "price": 51490,
-          "oldPrice": null,
+          "price": 42990,
+          "oldPrice": 51490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-TUF-Gaming-1000W-Gold-Fully-Modular-PSU-90YE00S1-B0NA00-PakByte-Computers-24759425761347.jpg?v=1753678020",
@@ -104191,7 +104263,7 @@
             51490,
             51490,
             51490,
-            51490
+            42990
           ]
         },
         {
@@ -104641,8 +104713,8 @@
           "name": "ASUS TUF Gaming K1 RGB Keyboard – Black",
           "brand": "ASUS",
           "category": "keyboard",
-          "price": 11490,
-          "oldPrice": null,
+          "price": 10990,
+          "oldPrice": 11490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-Gaming-K1-RGB-Keyboard-Black-PakByte-Computers-24736237551683.jpg?v=1753678106",
@@ -104659,7 +104731,7 @@
             11490,
             11490,
             11490,
-            11490
+            10990
           ]
         },
         {
@@ -104771,8 +104843,8 @@
           "name": "ASUS ProArt PA602 Full-Tower E-ATX Case",
           "brand": "ASUS",
           "category": "case",
-          "price": 74790,
-          "oldPrice": null,
+          "price": 74990,
+          "oldPrice": 74790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ProArt-PA602-Full-Tower-E-ATX-Case-PakByte-Computers-24657533796419.jpg?v=1753678132",
@@ -104789,7 +104861,7 @@
             74790,
             74790,
             74790,
-            74790
+            74990
           ]
         },
         {
@@ -104797,9 +104869,9 @@
           "name": "ASUS ProArt LC 420 AIO 420mm Liquid CPU Cooler",
           "brand": "ASUS",
           "category": "cooler",
-          "price": 87800,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 78990,
+          "oldPrice": 87800,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ProArt-LC-420-AIO-420mm-Liquid-CPU-Cooler-PakByte-Computers-24657514922051.jpg?v=1753678144",
           "url": "https://www.pakbyte.pk/products/asus-proart-lc-420-aio-420mm-liquid-cpu-cooler",
@@ -104815,7 +104887,7 @@
             87800,
             87800,
             87800,
-            87800
+            78990
           ]
         },
         {
@@ -108931,11 +109003,11 @@
           "name": "Asus A21 Mid-Tower microATX Case - White",
           "brand": "ASUS",
           "category": "case",
-          "price": 23990,
-          "oldPrice": null,
+          "price": 22490,
+          "oldPrice": 23990,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-A21-Mid-Tower-microATX-Case-White-PakByte-Computers-24397849657411.webp?v=1753678907",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-A21-Mid-Tower-microATX-Case-White-PakByte-Computers-24397849690179.webp?v=1753678907",
           "url": "https://www.pakbyte.pk/products/asus-a21-mid-tower-microatx-case-white",
           "history": [
             23990,
@@ -108949,7 +109021,7 @@
             23990,
             23990,
             23990,
-            23990
+            22490
           ]
         },
         {
@@ -108957,8 +109029,8 @@
           "name": "Asus A21 Mid-Tower microATX Case - Black",
           "brand": "ASUS",
           "category": "case",
-          "price": 23490,
-          "oldPrice": null,
+          "price": 22490,
+          "oldPrice": 23490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-A21-Mid-Tower-microATX-Case-Black-PakByte-Computers-24397848576067.webp?v=1753678919",
@@ -108975,7 +109047,7 @@
             23490,
             23490,
             23490,
-            23490
+            22490
           ]
         },
         {
@@ -122035,8 +122107,8 @@
           "name": "ASUS TUF Gaming H1 Wireless Headset - Black",
           "brand": "ASUS",
           "category": "headset",
-          "price": 19990,
-          "oldPrice": null,
+          "price": 19690,
+          "oldPrice": 19990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-Gaming-H1-Wireless-Headset-Black-PakByte-Computers-24397608845379.webp?v=1753680981",
@@ -122053,7 +122125,7 @@
             19990,
             19990,
             19990,
-            19990
+            19690
           ]
         },
         {
@@ -122139,8 +122211,8 @@
           "name": "ASUS ROG Strix Helios GX601 RGB Mid-Tower Computer Case - White",
           "brand": "ASUS",
           "category": "case",
-          "price": 89790,
-          "oldPrice": null,
+          "price": 86990,
+          "oldPrice": 89790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-Strix-Helios-GX601-RGB-Mid-Tower-Computer-Case-White-PakByte-Computers-24397606453315.webp?v=1753681004",
@@ -122157,7 +122229,7 @@
             89790,
             89790,
             89790,
-            89790
+            86990
           ]
         },
         {
@@ -131579,7 +131651,7 @@
           "category": "mouse",
           "price": 37390,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-Spatha-X-Wireless-Gaming-Mouse-PakByte-Computers-24397330513987.jpg?v=1753683075",
           "url": "https://www.pakbyte.pk/products/asus-rog-spatha-x-wireless-gaming-mouse",
@@ -153300,6 +153372,7 @@
             24999,
             24999,
             24999,
+            24999,
             24999
           ]
         },
@@ -153315,6 +153388,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/10/zotac_3050_1.webp",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3050-twin-edge-oc-8gb-graphics-card-used",
           "history": [
+            74999,
             74999,
             74999,
             74999,
@@ -153350,6 +153424,7 @@
             64999,
             64999,
             64999,
+            64999,
             64999
           ]
         },
@@ -153365,6 +153440,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/01/msi_b550m-a_pro_1.jpg",
           "url": "https://rbtechngames.com/product/msi-b550m-a-pro-m-atx-am4-ddr4-gaming-motherboard-used",
           "history": [
+            25999,
             25999,
             25999,
             25999,
@@ -153400,6 +153476,7 @@
             23499,
             23499,
             23499,
+            23499,
             23499
           ]
         },
@@ -153425,6 +153502,7 @@
             19999,
             19999,
             19999,
+            19999,
             19999
           ]
         },
@@ -153440,6 +153518,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2024/08/rbtech_gigabyte_a520m_h.png",
           "url": "https://rbtechngames.com/product/gigabyte-a520m-h-ddr4-m-atx-am4-gaming-motherboard-used",
           "history": [
+            19999,
             19999,
             19999,
             19999,
@@ -155096,8 +155175,8 @@
           "name": "G.Skill Trident Z5 RGB 32GB (2x16GB) 6000MHz CL36 DDR5 Ram &#8211; Black",
           "brand": "G.Skill",
           "category": "ram",
-          "price": 174999,
-          "oldPrice": null,
+          "price": 179999,
+          "oldPrice": 174999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/06/rbtech_gskill_trident_z5_rgb_black.webp",
@@ -155114,7 +155193,7 @@
             174999,
             174999,
             174999,
-            174999
+            179999
           ]
         },
         {
@@ -155924,6 +156003,32 @@
           ]
         },
         {
+          "id": "rbtechgames_976cdc4a",
+          "name": "Acer Predator Helios Neo 16S AI (PHN16-71-91AW), Intel Core 9 275HX, 16GB RAM, 1TB SSD, RT",
+          "brand": "Intel",
+          "category": "gpu",
+          "price": 524999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
+          "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16s-ai-phn16-71-91aw-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5060-16-qhd-240hz-oled-display-obsidian-black-new",
+          "history": [
+            524999,
+            524999,
+            524999,
+            524999,
+            524999,
+            524999,
+            524999,
+            524999,
+            524999,
+            524999,
+            524999,
+            524999
+          ]
+        },
+        {
           "id": "rbtechgames_0687bd28",
           "name": "WD Blue SN5100 NVMe M.2 Gen 4 SSD &#8211; 500GB/1TB/2TB/4TB",
           "brand": "WD",
@@ -156077,32 +156182,6 @@
             374999,
             374999,
             374999
-          ]
-        },
-        {
-          "id": "rbtechgames_209b74a9",
-          "name": "Acer Predator Helios Neo 16S AI (PHN16-73-91AW), Intel Core 9 275HX, 16GB RAM, 1TB SSD, RT",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 489999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_acer_predator_helios_neo_16_ai.png",
-          "url": "https://rbtechngames.com/product/acer-predator-helios-neo-16s-ai-phn16-73-91aw-intel-core-9-275hx-16gb-ram-1tb-ssd-rtx-5060-16-qhd-240hz-oled-display-abyssal-black-open-box",
-          "history": [
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999
           ]
         },
         {
@@ -157562,32 +157641,6 @@
           ]
         },
         {
-          "id": "rbtechgames_be0a5f7f",
-          "name": "Crucial SODIMM 32GB (1x32GB) 5600MT/s CL46 DDR5 Laptop Memory",
-          "brand": "Crucial",
-          "category": "ram",
-          "price": 144999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_crucial_sodimm_ddr5_single.jpg",
-          "url": "https://rbtechngames.com/product/crucial-sodimm-32gb-1x32gb-5600mt-s-cl46-ddr5-laptop-memory",
-          "history": [
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999,
-            144999
-          ]
-        },
-        {
           "id": "rbtechgames_a1782ae4",
           "name": "Dell Latitude 7450, Intel Core Ultra 7, 32GB RAM, 256GB SSD, 14&#8243; QHD+, IPS Touch Dis",
           "brand": "Intel",
@@ -158183,32 +158236,6 @@
             164999,
             164999,
             164999
-          ]
-        },
-        {
-          "id": "rbtechgames_17056166",
-          "name": "Lenovo LOQ 15 (15IRX10), Intel i7 13th Gen, 16GB RAM, 512GB SSD, RTX 5060, 15.6&#8243; FHD",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 424999,
-          "oldPrice": 449999,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/05/rbtech_lenovo_loq_15_15irx10_rgb.webp",
-          "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx10-intel-i7-13th-gen-16gb-ram-512gb-ssd-rtx-5060-15-6-fhd-144hz-ips-display-luna-grey-new",
-          "history": [
-            424999,
-            424999,
-            424999,
-            424999,
-            424999,
-            424999,
-            424999,
-            424999,
-            424999,
-            424999,
-            424999,
-            424999
           ]
         },
         {
@@ -158862,32 +158889,6 @@
           ]
         },
         {
-          "id": "rbtechgames_cbf269fe",
-          "name": "MSI Katana 15 B13V (B13VFK-817US), Intel Core i7 13th Gen, 16GB RAM, 1TB SSD, RTX 4060, 15",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 279999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_msi_katana_15_b13v.webp",
-          "url": "https://rbtechngames.com/product/msi-katana-15-b13v-b13vfk-817us-intel-core-i7-13th-gen-16gb-ram-1tb-ssd-rtx-4060-15-6-fhd-144hz-ips-display-black-used",
-          "history": [
-            279999,
-            279999,
-            279999,
-            279999,
-            279999,
-            279999,
-            279999,
-            279999,
-            279999,
-            279999,
-            279999,
-            279999
-          ]
-        },
-        {
           "id": "rbtechgames_3946f100",
           "name": "Attack Shark R11 Ultra Carbon Fiber Wireless 8K Mouse &#8211; Forged Black/Weave Black",
           "brand": "Attack",
@@ -159067,32 +159068,6 @@
             259999,
             259999,
             259999
-          ]
-        },
-        {
-          "id": "rbtechgames_6187ace0",
-          "name": "Attack Shark X820Ultra 75% Wireless RGB Mechanical Gaming Keyboard &#8211; Star White/Star",
-          "brand": "Attack",
-          "category": "keyboard",
-          "price": 18499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/02/rbtech_attack_shark_x820ultra_star_white.webp",
-          "url": "https://rbtechngames.com/product/attack-shark-x820ultra-75-wireless-rgb-mechanical-gaming-keyboard-star-white-star-black-moonlit-night-white-contours-gift-switch-shark-switch",
-          "history": [
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499,
-            18499
           ]
         },
         {
@@ -159750,8 +159725,8 @@
           "name": "XPG Lancer Blade RGB 32GB DDR5 6000MHz CL36 (2x16GB) Desktop Memory",
           "brand": "XPG",
           "category": "ram",
-          "price": 174999,
-          "oldPrice": null,
+          "price": 184999,
+          "oldPrice": 174999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/rbtech_xpg_lancer_32GB_6000mhz.jpg",
@@ -159768,7 +159743,7 @@
             174999,
             174999,
             174999,
-            174999
+            184999
           ]
         },
         {
@@ -159828,14 +159803,13 @@
           "name": "Asus Prime Radeon RX 9070 XT 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 299999,
-          "oldPrice": null,
+          "price": 304999,
+          "oldPrice": 299999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/09/rbtech_asus_prime_radeon_9070_xt_16gb_oc_1.png",
           "url": "https://rbtechngames.com/product/asus-prime-radeon-rx-9070-xt-16gb-oc-graphics-card",
           "history": [
-            294999,
             299999,
             299999,
             299999,
@@ -159846,7 +159820,8 @@
             299999,
             299999,
             299999,
-            299999
+            299999,
+            304999
           ]
         },
         {
@@ -160017,7 +159992,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
-            149999,
             42499,
             42499,
             42499,
@@ -160025,6 +159999,7 @@
             42499,
             42499,
             42499,
+            26499,
             26499,
             26499,
             26499,
@@ -160648,7 +160623,7 @@
             144999,
             144999,
             144999,
-            144999,
+            79499,
             79499,
             79499,
             79499,
@@ -160859,6 +160834,7 @@
             12999,
             12999,
             12999,
+            12999,
             12999
           ]
         },
@@ -160945,8 +160921,8 @@
           "name": "Intel Core i7-12700KF Desktop Processor &#8211; Tray",
           "brand": "Intel",
           "category": "cpu",
-          "price": 67000,
-          "oldPrice": 68000,
+          "price": 64999,
+          "oldPrice": 67000,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/09/rbtech_intel_i7-12700kf.jpg",
@@ -160955,7 +160931,8 @@
             67000,
             67000,
             67000,
-            67000
+            67000,
+            64999
           ]
         },
         {
@@ -161275,8 +161252,8 @@
           "name": "Intel Core i5-14400F Desktop Processor &#8211; TRAY",
           "brand": "Intel",
           "category": "cpu",
-          "price": 45499,
-          "oldPrice": null,
+          "price": 42499,
+          "oldPrice": 45499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/02/rbtech_intel_i5_14400f.jpg",
@@ -161293,7 +161270,7 @@
             45499,
             45499,
             45499,
-            45499
+            42499
           ]
         },
         {
@@ -162523,8 +162500,8 @@
           "name": "Intel Core i5 14600KF &#8211; TRAY &#8211; 14 Core (6 P-cores + 8 E-cores)",
           "brand": "Intel",
           "category": "cpu",
-          "price": 67999,
-          "oldPrice": null,
+          "price": 62499,
+          "oldPrice": 67999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/11/rbtech_intel_core_i5_14600KF.jpeg",
@@ -162533,7 +162510,8 @@
             67999,
             67999,
             67999,
-            67999
+            67999,
+            62499
           ]
         },
         {
@@ -162541,8 +162519,8 @@
           "name": "Intel Core i7-13700KF &#8211; TRAY &#8211; 3.4GHz 16-Core Processor",
           "brand": "Intel",
           "category": "cpu",
-          "price": 87999,
-          "oldPrice": null,
+          "price": 79999,
+          "oldPrice": 87999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/01/i7_13700kf.jpg",
@@ -162551,7 +162529,8 @@
             87999,
             87999,
             87999,
-            87999
+            87999,
+            79999
           ]
         },
         {
@@ -162637,8 +162616,8 @@
           "name": "Intel Core i7 14700K 20 cores (8 P-cores + 12 E-cores)  &#8211; TRAY",
           "brand": "Intel",
           "category": "cpu",
-          "price": 104999,
-          "oldPrice": null,
+          "price": 112499,
+          "oldPrice": 104999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2021/09/intel_i9_11900k_2.jpg",
@@ -162655,7 +162634,7 @@
             104999,
             104999,
             104999,
-            104999
+            112499
           ]
         },
         {
@@ -162663,8 +162642,8 @@
           "name": "Intel Core i5 14600K 14 cores (6 P-cores + 8 E-cores) &#8211; TRAY",
           "brand": "Intel",
           "category": "cpu",
-          "price": 82999,
-          "oldPrice": null,
+          "price": 72499,
+          "oldPrice": 82999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2024/01/14600K-TRAY.png",
@@ -162673,7 +162652,8 @@
             82999,
             82999,
             82999,
-            82999
+            82999,
+            72499
           ]
         },
         {
@@ -162740,7 +162720,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/12/rbtech_msi_z790_tomahawk_wifi.jpg",
           "url": "https://rbtechngames.com/product/msi-mag-z790-tomahawk-wifi-ddr5-gaming-motherboard",
           "history": [
-            89999,
+            96999,
             96999,
             96999,
             96999,
@@ -162837,8 +162817,8 @@
           "name": "Intel Core i7 12700K TRAY &#8211; 25M Cache, up to 5.00 GHz",
           "brand": "Intel",
           "category": "cpu",
-          "price": 83999,
-          "oldPrice": null,
+          "price": 79999,
+          "oldPrice": 83999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/12/rbtech_intel_12700K.webp",
@@ -162847,7 +162827,8 @@
             83999,
             83999,
             83999,
-            83999
+            83999,
+            79999
           ]
         },
         {
@@ -162907,8 +162888,8 @@
           "name": "Intel Core i9 14900K 24 cores (8 P-cores + 16 E-cores)",
           "brand": "Intel",
           "category": "cpu",
-          "price": 134999,
-          "oldPrice": null,
+          "price": 129999,
+          "oldPrice": 134999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/11/rbtech_intel_core_i9_14900K.jpeg",
@@ -162925,7 +162906,7 @@
             134999,
             134999,
             134999,
-            134999
+            129999
           ]
         },
         {
@@ -162933,8 +162914,8 @@
           "name": "Intel Core i7 14700KF 20 cores (8 P-cores + 12 E-cores) &#8211; TRAY",
           "brand": "Intel",
           "category": "cpu",
-          "price": 114999,
-          "oldPrice": null,
+          "price": 102499,
+          "oldPrice": 114999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/11/rbtech_intel_core_i7_14700KF.jpeg",
@@ -162951,7 +162932,7 @@
             114999,
             114999,
             114999,
-            114999
+            102499
           ]
         },
         {
@@ -163181,7 +163162,7 @@
             69999,
             69999,
             69999,
-            69999,
+            73999,
             73999,
             73999,
             73999,
@@ -163245,8 +163226,8 @@
           "name": "Intel Core i5-13600KF 14-Core TRAY Processor",
           "brand": "Intel",
           "category": "cpu",
-          "price": 69999,
-          "oldPrice": null,
+          "price": 59999,
+          "oldPrice": 69999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2022/11/13600k.jpg",
@@ -163255,7 +163236,8 @@
             69999,
             69999,
             69999,
-            69999
+            69999,
+            59999
           ]
         },
         {
@@ -163263,8 +163245,8 @@
           "name": "Intel Core i5-13400F 10 Cores Desktop Processor &#8211; TRAY",
           "brand": "Intel",
           "category": "cpu",
-          "price": 41499,
-          "oldPrice": null,
+          "price": 40499,
+          "oldPrice": 41499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2023/01/intel_corei5_13.jpg",
@@ -163281,7 +163263,7 @@
             41499,
             41499,
             41499,
-            41499
+            40499
           ]
         },
         {
@@ -163523,8 +163505,8 @@
           "name": "Intel Core i5-12400F TRAY Processor LGA 1700 (Only Chip)",
           "brand": "Intel",
           "category": "cpu",
-          "price": 38499,
-          "oldPrice": null,
+          "price": 37999,
+          "oldPrice": 38499,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/i5_12400F_1.jpg",
@@ -163541,7 +163523,7 @@
             38499,
             38499,
             38499,
-            38499
+            37999
           ]
         },
         {
