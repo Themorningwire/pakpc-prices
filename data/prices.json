@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T01:37:27.994928+00:00",
+  "lastUpdated": "2026-11-17T15:32:48.281172+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,111 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_85b492a7",
+          "name": "Plantronics Poly Blackwire C3220 Stereo USB-C Headset + USB-C/A Adapter",
+          "brand": "Plantronics",
+          "category": "headset",
+          "price": 10999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/plantronics-blackwire-c3220-headset-price-in-pakistan-pakbyte.webp?v=1794909193",
+          "url": "https://www.pakbyte.pk/products/plantronics-poly-blackwire-c3220-stereo-usb-c-headset-usb-c-a-adapter",
+          "history": [
+            10999
+          ]
+        },
+        {
+          "id": "pakbyte_ce0ae0d8",
+          "name": "Attack Shark RS3 Ultra Carbon Fiber Wireless Gaming Mouse - Black",
+          "brand": "Attack",
+          "category": "mouse",
+          "price": 19990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-rs3-ultra-wireless-gaming-mouse-price-in-pakistan-pakbyte-2.webp?v=1794908766",
+          "url": "https://www.pakbyte.pk/products/attack-shark-rs3-ultra-carbon-fiber-wireless-gaming-mouse-black",
+          "history": [
+            19990
+          ]
+        },
+        {
+          "id": "pakbyte_2bb52672",
+          "name": "Kingston NV3 500GB M.2 2280 NVMe SSD, PCIe 4.0 Gen 4x4",
+          "brand": "Kingston",
+          "category": "storage",
+          "price": 26999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kingston-nv3-500gb-m.2-nvme-price-in-pakistan-pakbyte-2.webp?v=1794907857",
+          "url": "https://www.pakbyte.pk/products/kingston-nv3-500gb-m-2-2280-nvme-ssd-pcie-4-0-gen-4x4",
+          "history": [
+            26999
+          ]
+        },
+        {
+          "id": "pakbyte_e4ac2466",
+          "name": "Bloody GR520 Gaming Wireless Headset",
+          "brand": "Bloody",
+          "category": "headset",
+          "price": 7290,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/bloody-gr520-wireless-headset-price-in-pakistan-pakbyte-2.webp?v=1794907361",
+          "url": "https://www.pakbyte.pk/products/bloody-gr520-gaming-wireless-headset",
+          "history": [
+            7290
+          ]
+        },
+        {
+          "id": "pakbyte_a4737146",
+          "name": "Asus B850M AYW Gaming Wifi Motherboard",
+          "brand": "ASUS",
+          "category": "motherboard",
+          "price": 46790,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-b850m-ayw-gaming-wifi-price-in-pakistan-pakbyte_1.webp?v=1794896800",
+          "url": "https://www.pakbyte.pk/products/asus-b850m-ayw-gaming-wifi-motherboard",
+          "history": [
+            46790
+          ]
+        },
+        {
+          "id": "pakbyte_92d44740",
+          "name": "ASUS PRIME A620AM-K-CSM Micro-ATX Motherboard",
+          "brand": "ASUS",
+          "category": "motherboard",
+          "price": 29490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-PRIME-A620AM-K-CSM-Micro-ATX-Motherboard-price-in-paistan-pakbyte_1.jpg?v=1794896498",
+          "url": "https://www.pakbyte.pk/products/asus-prime-a620am-k-csm-micro-atx-motherboard",
+          "history": [
+            29490
+          ]
+        },
+        {
+          "id": "pakbyte_31214350",
+          "name": "Asus B760M-AYW WiFi DDR5 Intel mATX Motherboard",
+          "brand": "ASUS",
+          "category": "ram",
+          "price": 38490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-b760m-ayw-wifi-price-in-pakistan-pakbyte_1.webp?v=1794894881",
+          "url": "https://www.pakbyte.pk/products/asus-b760m-ayw-wifi-ddr5-intel-matx-motherboard",
+          "history": [
+            38490
+          ]
+        },
         {
           "id": "pakbyte_d2eca83c",
           "name": "ASUS ROG Strix OLED XG34WCDMTG 34-inch 240Hz WQHD Curved QD-OLED Gaming Monitor",
@@ -20,6 +125,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-xg34wcdmtg-34-inch-wqhd-curved-monitor-price-in-pakistan-pakbyte_1.webp?v=1794848912",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-oled-xg34wcdmtg-34-inch-240hz-wqhd-curved-qd-oled-gaming-monitor",
           "history": [
+            397990,
             397990
           ]
         },
@@ -35,6 +141,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-oled-xg32uqdms-4k-qd-oled-gaming-monitor-price-in-pakistan-pakbyte_1.webp?v=1794848046",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-oled-xg32uqdms-32-inch-4k-qd-oled-240hz-gaming-monitor",
           "history": [
+            334990,
             334990
           ]
         },
@@ -50,6 +157,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-xg27uqdms-price-in-pakistan-pakbyte_1.webp?v=1794847022",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-xg27uqdms-27-qd-oled-display-4k-uhd-resolution-240hz-gaming-monitor",
           "history": [
+            297990,
             297990
           ]
         },
@@ -65,6 +173,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-oled-xg27aqwmg-gaming-monitor-price-in-pakistan-pakbyte_1.webp?v=1794846259",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-oled-xg27aqwmg-27-inch-qhd-280hz-0-03ms-gaming-monitor-true-black",
           "history": [
+            224990,
             224990
           ]
         },
@@ -80,6 +189,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-xg27aqdmes-price-in-pakistan-pakbyte_1.webp?v=1794845916",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-xg27aqdmes-1440p-qd-oled-240-hz-gaming-monitor",
           "history": [
+            188990,
             188990
           ]
         },
@@ -95,6 +205,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-xg27ucsr-price-in-pakistan-pakbyte_1.webp?v=1794845646",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-xg27ucsr-ips-27-dual-mode-gaming-monitor",
           "history": [
+            129990,
             129990
           ]
         },
@@ -110,6 +221,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ease-1660-ti-price-in-pakistan-pakbyte-1.png?v=1794818637",
           "url": "https://www.pakbyte.pk/products/ease-nvidia-geforce-gtx-1660-ti-6gb-gddr6-graphics-card",
           "history": [
+            70999,
             70999,
             70999
           ]
@@ -127,6 +239,7 @@
           "url": "https://www.pakbyte.pk/products/asus-proart-lc-360-all-in-one-aio-cpu-liquid-cooler-matte-black",
           "history": [
             64490,
+            64490,
             64490
           ]
         },
@@ -142,6 +255,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-max-gaming-lc-360-argb-lcd-price-in-pakistan-pakbyte_5.webp?v=1794811244",
           "url": "https://www.pakbyte.pk/products/asus-max-gaming-lc-360-argb-lcd-all-in-one-cpu-liquid-cooler-black",
           "history": [
+            44990,
             44990,
             44990
           ]
@@ -159,6 +273,7 @@
           "url": "https://www.pakbyte.pk/products/asus-max-gaming-lc-360-argb-lcd-all-in-one-cpu-liquid-cooler-white",
           "history": [
             44990,
+            44990,
             44990
           ]
         },
@@ -175,6 +290,7 @@
           "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-1000w-gold-evo-fully-modular-power-supply",
           "history": [
             42990,
+            42990,
             42990
           ]
         },
@@ -190,6 +306,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-cf300-laptop-cooler-price-in-pakistan-pakbyte_1.webp?v=1794650863",
           "url": "https://www.pakbyte.pk/products/rapoo-cf300-high-efficiency-laptop-cooling-pad-black",
           "history": [
+            4190,
             4190,
             4190,
             4190,
@@ -219,6 +336,7 @@
             2520,
             2520,
             2520,
+            2520,
             2520
           ]
         },
@@ -234,6 +352,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-CF500-cooling-pad-price-in-pakistan-pakbyte.webp?v=1794648149",
           "url": "https://www.pakbyte.pk/products/rapoo-cf100-laptop-cooling-pad-with-6-level-adjustable-stand-black",
           "history": [
+            2290,
             2290,
             2290,
             2290,
@@ -263,6 +382,7 @@
             14390,
             14390,
             14390,
+            14390,
             14390
           ]
         },
@@ -278,6 +398,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/rapoo-vpro-vh350s-virtual-71-channel-rgb-gaming-headphone-price-in-pakistan-pakbyte.webp?v=1794642763",
           "url": "https://www.pakbyte.pk/products/rapoo-vh350s-wired-7-1-surround-gaming-headset-black",
           "history": [
+            6190,
             6190,
             6190,
             6190,
@@ -307,6 +428,7 @@
             7440,
             7440,
             7440,
+            7440,
             7440
           ]
         },
@@ -322,6 +444,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-GK500-keyboard-price-in-pakistan-pakbyte_1.webp?v=1794641774",
           "url": "https://www.pakbyte.pk/products/rapoo-gk500-87-backlit-mechanical-gaming-keyboard-black",
           "history": [
+            4190,
             4190,
             4190,
             4190,
@@ -347,7 +470,7 @@
             4190,
             4190,
             4190,
-            4190,
+            5440,
             5440,
             5440,
             5440,
@@ -370,6 +493,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Rapoo-V11S-wired-gaming-mouse-price-in-pakistan-pakbyte_1.webp?v=1794640552",
           "url": "https://www.pakbyte.pk/products/rapoo-v11s-entry-wired-gaming-mouse-black",
           "history": [
+            1840,
             1840,
             1840,
             1840,
@@ -5965,7 +6089,7 @@
             81990,
             81990,
             81990,
-            81990,
+            79990,
             79990,
             79990
           ]
@@ -19313,8 +19437,8 @@
           "name": "Asus Tuf Gaming GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Graphics Card - White",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 389990,
-          "oldPrice": null,
+          "price": 469990,
+          "oldPrice": 389990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-tuf-rtx-5070-ti-white-price-in-pakistan-pakbyte_1.webp?v=1777783696",
@@ -19331,7 +19455,7 @@
             389990,
             389990,
             389990,
-            389990
+            469990
           ]
         },
         {
@@ -19339,8 +19463,8 @@
           "name": "Asus X870 Max Gaming WIFI7 AMD AM5 ATX Motherboard - Black",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 98490,
-          "oldPrice": null,
+          "price": 96790,
+          "oldPrice": 98490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-x870-max-gaming-wifi7-ddr5-am5-atx-motherboard-price-in-pakistan-pakbyte_1.webp?v=1777530620",
@@ -19357,7 +19481,7 @@
             98490,
             98490,
             98490,
-            98490
+            96790
           ]
         },
         {
@@ -20353,8 +20477,8 @@
           "name": "Samsung 9100 PRO  2TB NVMe M.2 GEN 5 SSD",
           "brand": "Samsung",
           "category": "storage",
-          "price": 99990,
-          "oldPrice": null,
+          "price": 132999,
+          "oldPrice": 99990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-9100-pro-price-in-pakistan-pakbyte.jpg?v=1776272713",
@@ -20371,7 +20495,7 @@
             99990,
             99990,
             99990,
-            99990
+            132999
           ]
         },
         {
@@ -34799,7 +34923,7 @@
             34990,
             34990,
             34990,
-            34990,
+            32990,
             32990,
             32990
           ]
@@ -34939,8 +35063,8 @@
           "name": "Asus Prime B850-Plus Wifi-CSM AMD AM5 B850 ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 70800,
-          "oldPrice": null,
+          "price": 59990,
+          "oldPrice": 70800,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-b850-plus-wifi-csm-motherboard-price-in-pakistan-pakbyte_2.png?v=1767168083",
@@ -34957,7 +35081,7 @@
             70800,
             70800,
             70800,
-            70800
+            59990
           ]
         },
         {
@@ -43449,6 +43573,7 @@
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-helios-ii-eatx-mid-tower-gaming-pc-case-white",
           "history": [
             86990,
+            86990,
             86990
           ]
         },
@@ -43499,7 +43624,7 @@
             37790,
             37790,
             37790,
-            37790,
+            31690,
             31690,
             31690
           ]
@@ -43525,7 +43650,7 @@
             37790,
             37790,
             37790,
-            37790,
+            31690,
             31690,
             31690
           ]
@@ -44030,7 +44155,7 @@
           "brand": "ASUS",
           "category": "monitor",
           "price": 324990,
-          "oldPrice": 359790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-proart-display-pa27jcv-price-in-pakistan-pakbyte_1.webp?v=1764860285",
@@ -44046,7 +44171,7 @@
             359790,
             359790,
             359790,
-            359790,
+            324990,
             324990
           ]
         },
@@ -44056,7 +44181,7 @@
           "brand": "ASUS",
           "category": "monitor",
           "price": 324990,
-          "oldPrice": 349790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-proart-display-pa27ucge-price-in-pakistan-pakbyte_1.webp?v=1764859945",
@@ -44072,7 +44197,7 @@
             349790,
             349790,
             349790,
-            349790,
+            324990,
             324990
           ]
         },
@@ -50025,7 +50150,7 @@
             6190,
             6190,
             6190,
-            6190,
+            6799,
             6799,
             6799
           ]
@@ -50737,8 +50862,8 @@
           "name": "Asus Rog Astral GeForce RTX 5080 OC Edition Gaming Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 634999,
-          "oldPrice": null,
+          "price": 689990,
+          "oldPrice": 634999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-astral-rtx-5080-oc-price-in-pakistan-pakbyte_1.webp?v=1761395723",
@@ -50755,7 +50880,7 @@
             634999,
             634999,
             634999,
-            634999
+            689990
           ]
         },
         {
@@ -50789,8 +50914,8 @@
           "name": "Asus Prime RTX 5080 OC Edition 16GB GDDR7 Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 511990,
-          "oldPrice": null,
+          "price": 567990,
+          "oldPrice": 511990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-rtx-5080-oc-edition-16gb-gpu-price-in-pakistan-pakbyte_1.webp?v=1761395087",
@@ -50807,7 +50932,7 @@
             511990,
             511990,
             511990,
-            511990
+            567990
           ]
         },
         {
@@ -50815,8 +50940,8 @@
           "name": "Asus Dual GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 232990,
-          "oldPrice": null,
+          "price": 329990,
+          "oldPrice": 232990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-dual-rtx-5070-12gb-price-in-pakistan-pakbyte_1.webp?v=1761394938",
@@ -50833,7 +50958,7 @@
             232990,
             232990,
             232990,
-            232990
+            329990
           ]
         },
         {
@@ -50842,7 +50967,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 316990,
-          "oldPrice": 264990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-dual-rtx-5060-ti-16gb-oc-price-in-pakistan-pakbyte_1.webp?v=1761394702",
@@ -50858,7 +50983,7 @@
             264990,
             264990,
             264990,
-            264990,
+            316990,
             316990
           ]
         },
@@ -50868,7 +50993,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 194990,
-          "oldPrice": 154990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-dual-rtx-5060-ti-8gb-oc-price-in-pakistan-pakbyte_1.webp?v=1761394557",
@@ -50884,7 +51009,7 @@
             154990,
             154990,
             154990,
-            154990,
+            194990,
             194990
           ]
         },
@@ -50894,7 +51019,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 184990,
-          "oldPrice": 128490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-dual-rtx-5060-oc-white-price-in-pakistan-pakbyte_1.webp?v=1761394295",
@@ -50910,7 +51035,7 @@
             128490,
             128490,
             128490,
-            128490,
+            184990,
             184990
           ]
         },
@@ -50920,7 +51045,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 181990,
-          "oldPrice": 125990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-dual-rtx-5060-8gb-oc-price-in-pakistan-pakbyte_1.webp?v=1761394150",
@@ -50936,7 +51061,7 @@
             125990,
             125990,
             125990,
-            125990,
+            181990,
             181990
           ]
         },
@@ -50946,7 +51071,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 141990,
-          "oldPrice": 104990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-dual-rtx-5050-oc-price-in-pakistan-pakbyte_1.webp?v=1761394024",
@@ -50962,7 +51087,7 @@
             104990,
             104990,
             104990,
-            104990,
+            141990,
             141990
           ]
         },
@@ -51023,8 +51148,8 @@
           "name": "ASUS TUF GAMING X870E - PLUS WIFI7 AM5 Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 109990,
-          "oldPrice": null,
+          "price": 115490,
+          "oldPrice": 109990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-tuf-gaming-x870e-plus-wifi-price-in-pakistan-pakbyte_1.jpg?v=1761393101",
@@ -51041,7 +51166,7 @@
             109990,
             109990,
             109990,
-            109990
+            115490
           ]
         },
         {
@@ -51049,8 +51174,8 @@
           "name": "Asus X870 Max Gaming WIFI7 AMD AM5 ATX Motherboard - White",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 98490,
-          "oldPrice": null,
+          "price": 96990,
+          "oldPrice": 98490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-x870-max-gaming-wifi7-w-price-in-pakistan-pakbyte_1.webp?v=1761392794",
@@ -51067,7 +51192,7 @@
             98490,
             98490,
             98490,
-            98490
+            96990
           ]
         },
         {
@@ -51413,8 +51538,8 @@
           "name": "Asus Tuf Gaming RTX 5070 Ti 16GB GDDR7 OC Edition Gaming Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 359990,
-          "oldPrice": null,
+          "price": 454990,
+          "oldPrice": 359990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-tuf-gaming-rtx-5070-ti-oc-price-in-pakistan-pakbyte_8.webp?v=1761304110",
@@ -51431,7 +51556,7 @@
             359990,
             359990,
             359990,
-            359990
+            454990
           ]
         },
         {
@@ -52012,7 +52137,7 @@
           "brand": "ASUS",
           "category": "storage",
           "price": 17790,
-          "oldPrice": 17990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-arion-esd-s1c-aluminum-alloy-enclosure-price-in-pakistan-pakbyte_2.webp?v=1760489034",
@@ -52028,7 +52153,7 @@
             17990,
             17990,
             17990,
-            17990,
+            17790,
             17790
           ]
         },
@@ -52037,8 +52162,8 @@
           "name": "ASUS Prime RX 9070 XT 16GB GDDR6 OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 294999,
-          "oldPrice": 299999,
+          "price": 349990,
+          "oldPrice": 294999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-rx-9070-xt-16gb-gddr6-oc-graphics-card-price-in-pakistan-pakbyte_2.webp?v=1760487029",
@@ -52055,7 +52180,7 @@
             294999,
             294999,
             294999,
-            294999
+            349990
           ]
         },
         {
@@ -52063,8 +52188,8 @@
           "name": "Asus Prime RTX 5070 Ti 16GB GDDR7 Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 341990,
-          "oldPrice": null,
+          "price": 399990,
+          "oldPrice": 341990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-rtx-5070-ti-16gb-gpu-price-in-pakistan-pakbyte_1.webp?v=1760486867",
@@ -52081,7 +52206,7 @@
             341990,
             341990,
             341990,
-            341990
+            399990
           ]
         },
         {
@@ -52401,9 +52526,9 @@
           "name": "Attack Shark R5 Ultra 8K Carbon Fiber Wireless Gaming Mouse - Black",
           "brand": "Attack",
           "category": "mouse",
-          "price": 17890,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 17990,
+          "oldPrice": 17890,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/attack-shark-r5-ultra-black-mouse-price-in-pakistan-pakbyte_1.jpg?v=1760009038",
           "url": "https://www.pakbyte.pk/products/attack-shark-r5-ultra-8k-carbon-fiber-wireless-gaming-mouse-black",
@@ -52419,7 +52544,7 @@
             17890,
             17890,
             17890,
-            17890
+            17990
           ]
         },
         {
@@ -54689,8 +54814,8 @@
           "name": "MSI Gaming RTX 5060 Ti 16G Ventus 3X OC Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 194990,
-          "oldPrice": null,
+          "price": 289999,
+          "oldPrice": 194990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5060-ti-16g-ventus-3x-oc-gpu_1.webp?v=1757155826",
@@ -54707,7 +54832,7 @@
             194990,
             194990,
             194990,
-            194990
+            289999
           ]
         },
         {
@@ -60617,9 +60742,9 @@
           "name": "Asus Rog Crosshair X870E Hero DDR5 AMD AM5 ATX Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 234990,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 297990,
+          "oldPrice": 234990,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-crosshair-x870e-hero-motherboard-price-in-pakistan_1.jpg?v=1754849202",
           "url": "https://www.pakbyte.pk/products/asus-rog-crosshair-x870e-hero-ddr5-amd-am5-atx-motherboard",
@@ -60635,7 +60760,7 @@
             234990,
             234990,
             234990,
-            234990
+            297990
           ]
         },
         {
@@ -60737,7 +60862,7 @@
             42390,
             42390,
             42390,
-            42390,
+            42490,
             42490,
             42490
           ]
@@ -60763,7 +60888,7 @@
             29390,
             29390,
             29390,
-            29390,
+            21990,
             21990,
             21990
           ]
@@ -60826,7 +60951,7 @@
           "brand": "ASUS",
           "category": "keyboard",
           "price": 49990,
-          "oldPrice": 49790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Rog-Falchion-Ace-HFX-65_-Gaming-Keyboard_1.jpg?v=1754725504",
@@ -60842,7 +60967,7 @@
             49790,
             49790,
             49790,
-            49790,
+            49990,
             49990
           ]
         },
@@ -60893,7 +61018,7 @@
             114790,
             114790,
             114790,
-            114790,
+            121990,
             121990,
             121990
           ]
@@ -60919,7 +61044,7 @@
             117790,
             117790,
             117790,
-            117790,
+            121990,
             121990,
             121990
           ]
@@ -60945,7 +61070,7 @@
             26790,
             26790,
             26790,
-            26790,
+            24990,
             24990,
             24990
           ]
@@ -60971,7 +61096,7 @@
             26690,
             26690,
             26690,
-            26690,
+            24990,
             24990,
             24990
           ]
@@ -61839,8 +61964,8 @@
           "name": "Asus Prime B760M-A WIFI DDR5 microATX Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 44990,
-          "oldPrice": null,
+          "price": 42990,
+          "oldPrice": 44990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-prime-b760m-a-wifi-motherboard-price-in-pakistan-pakbyte_1.png?v=1753973161",
@@ -61857,7 +61982,7 @@
             44990,
             44990,
             44990,
-            44990
+            42990
           ]
         },
         {
@@ -66104,7 +66229,7 @@
           "brand": "ASUS",
           "category": "storage",
           "price": 17790,
-          "oldPrice": 17990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-STRIX-Arion-ESD-S1C-Aluminum-Alloy-M-2-NVMe-SSD-External-Portable-Enclosure-USB-3-2-Gen-2-Type-C-10-Gbps-USB-C-to-C-and-USB-C-to-A-Cables-PakByte-Computers-26307523149891.webp?v=1753670246",
@@ -66120,7 +66245,7 @@
             17990,
             17990,
             17990,
-            17990,
+            17790,
             17790
           ]
         },
@@ -66136,6 +66261,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Cobble-USB-C-3-2-Gen-2x1-SSD-Enclosure-up-to-10-Gbps-Transmission-Dual-M-2-NVMe-PCIe-and-SATA-Interfaces-M-2-Q-Latch-IP55-Water-and-Dust-Protection-Windows-macOS-Black-PakByte-Computers-26307490218051.jpg?v=1753670246",
           "url": "https://www.pakbyte.pk/products/asus-cobble-usb-c-3-2-gen-2x1-ssd-enclosure-up-to-10-gbps-transmission-dual-m-2-nvme-pcie-and-sata-interfaces-m-2-q-latch-ip55-water-and-dust-protection-windows-macos-black",
           "history": [
+            13490,
             13490
           ]
         },
@@ -66316,7 +66442,7 @@
             37490,
             37490,
             37490,
-            37490,
+            34990,
             34990,
             34990
           ]
@@ -69394,8 +69520,8 @@
           "name": "ASUS TUF GAMING B860M-PLUS WIFI DDR5 microATX Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 64990,
-          "oldPrice": null,
+          "price": 65990,
+          "oldPrice": 64990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-GAMING-B860M-PLUS-WIFI-DDR5-LGA1851-microATX-Motherboard-PakByte-Computers-26078860804163.webp?v=1753671095",
@@ -69412,7 +69538,7 @@
             64990,
             64990,
             64990,
-            64990
+            65990
           ]
         },
         {
@@ -69420,8 +69546,8 @@
           "name": "ASUS TUF GAMING B860-PLUS WIFI DDR5 LGA1851 ATX Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 67990,
-          "oldPrice": null,
+          "price": 71490,
+          "oldPrice": 67990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-GAMING-B860-PLUS-WIFI-DDR5-LGA1851-ATX-Motherboard-PakByte-Computers-26078859919427.webp?v=1753671095",
@@ -69438,7 +69564,7 @@
             67990,
             67990,
             67990,
-            67990
+            71490
           ]
         },
         {
@@ -69446,8 +69572,8 @@
           "name": "ASUS ROG STRIX B860-A GAMING WIFI DDR5 ATX Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 78490,
-          "oldPrice": null,
+          "price": 75990,
+          "oldPrice": 78490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-STRIX-B860-A-GAMING-WIFI-DDR5-LGA1851-ATX-Motherboard-PakByte-Computers-26078859526211.webp?v=1753671107",
@@ -69464,7 +69590,7 @@
             78490,
             78490,
             78490,
-            78490
+            75990
           ]
         },
         {
@@ -69498,8 +69624,8 @@
           "name": "Asus Prime Z890-P Wifi-CSM Z890 LGA 1851 ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 94990,
-          "oldPrice": null,
+          "price": 85490,
+          "oldPrice": 94990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Prime-Z890-P-Wifi-CSM-Z890-LGA-1851-ATX-Motherboard-PakByte-Computers-26078857625667.png?v=1753671107",
@@ -69516,7 +69642,7 @@
             94990,
             94990,
             94990,
-            94990
+            85490
           ]
         },
         {
@@ -69524,8 +69650,8 @@
           "name": "Asus Tuf Gaming Z890-Plus Wifi Z890 LGA 1851 ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 111990,
-          "oldPrice": null,
+          "price": 114490,
+          "oldPrice": 111990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Tuf-Gaming-Z890-Plus-Wifi-Z890-LGA-1851-ATX-Motherboard-PakByte-Computers-26078855856195.jpg?v=1753671119",
@@ -69542,7 +69668,7 @@
             111990,
             111990,
             111990,
-            111990
+            114490
           ]
         },
         {
@@ -69628,8 +69754,8 @@
           "name": "ASUS ProArt Z890-CREATOR WIFI DDR5 LGA1851 ATX Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 179990,
-          "oldPrice": null,
+          "price": 181490,
+          "oldPrice": 179990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ProArt-Z890-CREATOR-WIFI-DDR5-LGA1851-ATX-Motherboard-PakByte-Computers-26078844747843.webp?v=1753671130",
@@ -69646,7 +69772,7 @@
             179990,
             179990,
             179990,
-            179990
+            181490
           ]
         },
         {
@@ -70045,7 +70171,7 @@
           "brand": "ASUS",
           "category": "monitor",
           "price": 459990,
-          "oldPrice": 439790,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-Swift-OLED-PG32UCDP-32-4K-240Hz-FHD-480Hz-Dual-Mode-WOLED-Gaming-Monitor-PakByte-Computers-26072824414275.webp?v=1748004191",
@@ -70061,7 +70187,7 @@
             439790,
             439790,
             439790,
-            439790,
+            459990,
             459990
           ]
         },
@@ -70461,7 +70587,7 @@
           "brand": "ASUS",
           "category": "monitor",
           "price": 127990,
-          "oldPrice": 104799,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Rog-Strix-XG259QNS-380Hz-1080p-FHD-IPS-25-Gaming-Monitor-PakByte-Computers-26067693961283.jpg?v=1748004238",
@@ -70477,7 +70603,7 @@
             104799,
             104799,
             104799,
-            104799,
+            127990,
             127990
           ]
         },
@@ -70513,7 +70639,7 @@
           "brand": "ASUS",
           "category": "monitor",
           "price": 94990,
-          "oldPrice": 77999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Rog-Strix-XG259CMS-310Hz-1080p-FHD-IPS-25-Type-C-Gaming-Monitor-PakByte-Computers-26067653296195.jpg?v=1748004250",
@@ -70529,7 +70655,7 @@
             77999,
             77999,
             77999,
-            77999,
+            94990,
             94990
           ]
         },
@@ -104328,7 +104454,7 @@
             64990,
             64990,
             64990,
-            64990,
+            52990,
             52990,
             52990
           ]
@@ -104354,7 +104480,7 @@
             51490,
             51490,
             51490,
-            51490,
+            42990,
             42990,
             42990
           ]
@@ -104677,7 +104803,7 @@
           "brand": "ASUS",
           "category": "keyboard",
           "price": 37990,
-          "oldPrice": 39490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-ROG-Falchion-RX-Wireless-65-Gaming-Keyboard-with-RX-Red-Switches-and-MacOS-Support-PakByte-Computers-24743836909635.jpg?v=1753678079",
@@ -104693,7 +104819,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990
           ]
         },
@@ -104822,7 +104948,7 @@
             11490,
             11490,
             11490,
-            11490,
+            10990,
             10990,
             10990
           ]
@@ -104952,7 +105078,7 @@
             74790,
             74790,
             74790,
-            74790,
+            74990,
             74990,
             74990
           ]
@@ -104978,7 +105104,7 @@
             87800,
             87800,
             87800,
-            87800,
+            78990,
             78990,
             78990
           ]
@@ -105430,8 +105556,8 @@
           "name": "Asus Prime H610M-K D5 micro-ATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 24990,
-          "oldPrice": null,
+          "price": 24490,
+          "oldPrice": 24990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Prime-H610M-K-D5-Intel-H610-LGA-1700-micro-ATX-Motherboard-PakByte-Computers-24653378617411.jpg?v=1753678222",
@@ -105448,7 +105574,7 @@
             24990,
             24990,
             24990,
-            24990
+            24490
           ]
         },
         {
@@ -109112,7 +109238,7 @@
             23990,
             23990,
             23990,
-            23990,
+            22490,
             22490,
             22490
           ]
@@ -109138,7 +109264,7 @@
             23490,
             23490,
             23490,
-            23490,
+            22490,
             22490,
             22490
           ]
@@ -121421,7 +121547,7 @@
           "brand": "ASUS",
           "category": "monitor",
           "price": 144990,
-          "oldPrice": 164990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-PA278CGV-27-144Hz-2K-Gaming-Monitor-PakByte-Computers-24397618806851.webp?v=1753680798",
@@ -121437,7 +121563,7 @@
             164990,
             164990,
             164990,
-            164990,
+            144990,
             144990
           ]
         },
@@ -122044,8 +122170,8 @@
           "name": "ASUS PRIME B760M-A D4 LGA1700 mATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 35990,
-          "oldPrice": null,
+          "price": 35490,
+          "oldPrice": 35990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-PRIME-B760M-A-Intel-B760-LGA1700-mATX-Gaming-Motherboard-PakByte-Computers-24397610352707.webp?v=1753680969",
@@ -122062,7 +122188,7 @@
             35990,
             35990,
             35990,
-            35990
+            35490
           ]
         },
         {
@@ -122070,8 +122196,8 @@
           "name": "ASUS Prime B760M-K DDR5 LGA 1700 mATX Gaming Motherboard",
           "brand": "ASUS",
           "category": "ram",
-          "price": 30990,
-          "oldPrice": null,
+          "price": 29490,
+          "oldPrice": 30990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-Prime-B760M-K-Intel-B760-LGA-1700-mATX-Gaming-Motherboard-PakByte-Computers-24397609205827.webp?v=1753680969",
@@ -122088,7 +122214,7 @@
             30990,
             30990,
             30990,
-            30990
+            29490
           ]
         },
         {
@@ -122216,7 +122342,7 @@
             19990,
             19990,
             19990,
-            19990,
+            19690,
             19690,
             19690
           ]
@@ -122320,7 +122446,7 @@
             89790,
             89790,
             89790,
-            89790,
+            86990,
             86990,
             86990
           ]
@@ -127634,8 +127760,8 @@
           "name": "Asus PRIME H610M-K D4 LGA1700 mATX Motherboard",
           "brand": "ASUS",
           "category": "motherboard",
-          "price": 24990,
-          "oldPrice": null,
+          "price": 24490,
+          "oldPrice": 24990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-PRIME-H610M-K-D4-Intel-H610-LGA1700-mic-ATX-Motherboard-PakByte-Computers-24397471121475.webp?v=1753682029",
@@ -127652,7 +127778,7 @@
             24990,
             24990,
             24990,
-            24990
+            24490
           ]
         },
         {
@@ -153455,6 +153581,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_powercolor_hellhound_spectral_white_amd_radeon_rx_9060_xt_16gb.webp",
           "url": "https://rbtechngames.com/product/powercolor-hellhound-spectral-white-amd-radeon-rx-9060-xt-16gb-graphics-card",
           "history": [
+            209999,
             209999
           ]
         },
@@ -153470,6 +153597,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_asus_tuf_gaming_gtx_1660_ti.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-gtx-1660-ti-6gb-graphics-card-used",
           "history": [
+            64999,
             64999
           ]
         },
@@ -153812,32 +153940,6 @@
           ]
         },
         {
-          "id": "rbtechgames_1f9652a1",
-          "name": "MSI Cyborg 15 A13V (A13VE-1090CA), Intel Core i5 13th Gen, 16GB RAM, 512GB SSD, RTX 4050, ",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 262999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_msi_cyborg_15_a13v_translucent_black.webp",
-          "url": "https://rbtechngames.com/product/msi-cyborg-15-a13v-a13ve-1090ca-intel-core-i5-13th-gen-16gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-translucent-black-used",
-          "history": [
-            262999,
-            262999,
-            262999,
-            262999,
-            262999,
-            262999,
-            262999,
-            262999,
-            262999,
-            262999,
-            262999,
-            262999
-          ]
-        },
-        {
           "id": "rbtechgames_2fc12c44",
           "name": "Gigabyte Aero 15 OLED (RP75), Intel Core i7 11th Gen, 16GB RAM, 512GB SSD, RTX 3060, 15.6&",
           "brand": "Gigabyte",
@@ -154043,32 +154145,6 @@
             384999,
             384999,
             384999
-          ]
-        },
-        {
-          "id": "rbtechgames_2aaf50d4",
-          "name": "Lenovo LOQ 15 (15IRX9), Intel Core i7 13th Gen, 16GB RAM, 512GB SSD, RTX 4050, 15.6&#8243;",
-          "brand": "Intel",
-          "category": "gpu",
-          "price": 272999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/01/LOQ_15IRX9_CT1_02.avif",
-          "url": "https://rbtechngames.com/product/lenovo-loq-15-15irx9-intel-core-i7-13th-gen-16gb-ram-512gb-ssd-rtx-4050-15-6-fhd-144hz-ips-display-luna-grey-used",
-          "history": [
-            272999,
-            272999,
-            272999,
-            272999,
-            272999,
-            272999,
-            272999,
-            272999,
-            272999,
-            272999,
-            272999,
-            272999
           ]
         },
         {
@@ -155314,7 +155390,7 @@
             174999,
             174999,
             174999,
-            174999,
+            179999,
             179999,
             179999
           ]
@@ -159454,32 +159530,6 @@
           ]
         },
         {
-          "id": "rbtechgames_93b8be98",
-          "name": "UGREEN 90264 M.2 NVMe SSD Enclosure USB-C",
-          "brand": "UGREEN",
-          "category": "storage",
-          "price": 4999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_ugreen_90264.png",
-          "url": "https://rbtechngames.com/product/ugreen-90264-m-2-nvme-ssd-enclosure-usb-c",
-          "history": [
-            4999,
-            4999,
-            4999,
-            4999,
-            4999,
-            4999,
-            4999,
-            4999,
-            4999,
-            4999,
-            4999,
-            4999
-          ]
-        },
-        {
           "id": "rbtechgames_020b1758",
           "name": "Asus ROG Astral GeForce RTX 5080 16GB White OC Edition Graphics Card",
           "brand": "ASUS",
@@ -159864,7 +159914,7 @@
             174999,
             174999,
             174999,
-            174999,
+            184999,
             184999,
             184999
           ]
@@ -159942,7 +159992,7 @@
             299999,
             299999,
             299999,
-            299999,
+            304999,
             304999,
             304999
           ]
@@ -160120,7 +160170,7 @@
             42499,
             42499,
             42499,
-            42499,
+            26499,
             26499,
             26499,
             26499,
@@ -160598,32 +160648,6 @@
           ]
         },
         {
-          "id": "rbtechgames_d4ca1068",
-          "name": "ATK VXE Dragonfly R1 SE+ Wireless Gaming Mouse &#8211; Black/White",
-          "brand": "ATK",
-          "category": "mouse",
-          "price": 6999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_atk_vxe_dragonfly_r1_black.webp",
-          "url": "https://rbtechngames.com/product/atk-vxe-dragonfly-r1-se-wireless-gaming-mouse-black-white",
-          "history": [
-            6999,
-            6999,
-            6999,
-            6999,
-            6999,
-            6999,
-            6999,
-            6999,
-            6999,
-            6999,
-            6999,
-            6999
-          ]
-        },
-        {
           "id": "rbtechgames_aa26353a",
           "name": "ATK VXE Dragonfly R1 Pro Wireless Gaming Mouse &#8211; Black/White",
           "brand": "ATK",
@@ -160770,7 +160794,7 @@
             144999,
             144999,
             144999,
-            144999,
+            79499,
             79499,
             79499,
             79499,
@@ -161081,6 +161105,7 @@
             67000,
             67000,
             67000,
+            64999,
             64999,
             64999
           ]
@@ -161418,7 +161443,7 @@
             45499,
             45499,
             45499,
-            45499,
+            42499,
             42499,
             42499
           ]
@@ -162662,6 +162687,7 @@
             67999,
             67999,
             62499,
+            62499,
             62499
           ]
         },
@@ -162681,6 +162707,7 @@
             87999,
             87999,
             87999,
+            79999,
             79999,
             79999
           ]
@@ -162784,7 +162811,7 @@
             104999,
             104999,
             104999,
-            104999,
+            112499,
             112499,
             112499
           ]
@@ -162805,6 +162832,7 @@
             82999,
             82999,
             82999,
+            72499,
             72499,
             72499
           ]
@@ -162982,6 +163010,7 @@
             83999,
             83999,
             79999,
+            79999,
             79999
           ]
         },
@@ -163058,7 +163087,7 @@
             134999,
             134999,
             134999,
-            134999,
+            129999,
             129999,
             129999
           ]
@@ -163084,7 +163113,7 @@
             114999,
             114999,
             114999,
-            114999,
+            102499,
             102499,
             102499
           ]
@@ -163314,7 +163343,7 @@
             69999,
             69999,
             69999,
-            69999,
+            73999,
             73999,
             73999,
             73999,
@@ -163392,6 +163421,7 @@
             69999,
             69999,
             59999,
+            59999,
             59999
           ]
         },
@@ -163416,7 +163446,7 @@
             41499,
             41499,
             41499,
-            41499,
+            40499,
             40499,
             40499
           ]
@@ -163676,7 +163706,7 @@
             38499,
             38499,
             38499,
-            38499,
+            37999,
             37999,
             37999
           ]
