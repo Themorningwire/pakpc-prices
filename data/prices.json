@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T06:05:11.304185+00:00",
+  "lastUpdated": "2026-11-19T19:59:09.916060+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,36 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_7e1ba342",
+          "name": "MSI MAG X870E Tomahawk Max WiFi Motherboard",
+          "brand": "MSI",
+          "category": "motherboard",
+          "price": 129990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-mag-x870e-tomahawk-wifi-price-in-pakistan-pakbyte_1.webp?v=1795071157",
+          "url": "https://www.pakbyte.pk/products/msi-mag-x870e-tomahawk-max-wifi-motherboard",
+          "history": [
+            129990
+          ]
+        },
+        {
+          "id": "pakbyte_7462b490",
+          "name": "MSI MAG Z890 Tomahawk WiFi II Motherboard",
+          "brand": "MSI",
+          "category": "motherboard",
+          "price": 127990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-mag-z890-tomahawk-wifi-ii-price-in-pakistan-pakbyte_1.webp?v=1795069125",
+          "url": "https://www.pakbyte.pk/products/msi-mag-z890-tomahawk-wifi-ii-motherboard",
+          "history": [
+            127990
+          ]
+        },
         {
           "id": "pakbyte_487e5316",
           "name": "MSI Gaming GeForce RTX 5050 8G GAMING OC Graphics Card",
@@ -20,6 +50,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-gaming-geforce-rtx-5050-8g-gaming-oc-graphics-card-price-in-pakistan-pakbyte_1.webp?v=1794934399",
           "url": "https://www.pakbyte.pk/products/msi-gaming-geforce-rtx-5050-8g-gaming-oc-graphics-card",
           "history": [
+            139990,
             139990,
             139990,
             139990,
@@ -41,6 +72,7 @@
             39990,
             39990,
             39990,
+            39990,
             39990
           ]
         },
@@ -56,6 +88,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-forge-gk110-combo-price-in-pakistan-pakbyte_1.webp?v=1794930767",
           "url": "https://www.pakbyte.pk/products/msi-forge-gk110-combo-gaming-rgb-keyboard-mouse",
           "history": [
+            6490,
             6490,
             6490,
             6490,
@@ -77,6 +110,7 @@
             10990,
             10990,
             10990,
+            10990,
             10990
           ]
         },
@@ -92,6 +126,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/plantronics-blackwire-c3220-headset-price-in-pakistan-pakbyte.webp?v=1794909193",
           "url": "https://www.pakbyte.pk/products/plantronics-poly-blackwire-c3220-stereo-usb-c-headset-usb-c-a-adapter",
           "history": [
+            10999,
             10999,
             10999,
             10999,
@@ -115,6 +150,7 @@
             19990,
             19990,
             19990,
+            19990,
             19990
           ]
         },
@@ -130,6 +166,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/kingston-nv3-500gb-m.2-nvme-price-in-pakistan-pakbyte-2.webp?v=1794907857",
           "url": "https://www.pakbyte.pk/products/kingston-nv3-500gb-m-2-2280-nvme-ssd-pcie-4-0-gen-4x4",
           "history": [
+            26999,
             26999,
             26999,
             26999,
@@ -153,6 +190,7 @@
             7290,
             7290,
             7290,
+            7290,
             7290
           ]
         },
@@ -168,6 +206,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-b850m-ayw-gaming-wifi-price-in-pakistan-pakbyte_1.webp?v=1794896800",
           "url": "https://www.pakbyte.pk/products/asus-b850m-ayw-gaming-wifi-motherboard",
           "history": [
+            46790,
             46790,
             46790,
             46790,
@@ -191,6 +230,7 @@
             29490,
             29490,
             29490,
+            29490,
             29490
           ]
         },
@@ -210,6 +250,7 @@
             38490,
             38490,
             38490,
+            38490,
             38490
           ]
         },
@@ -225,6 +266,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-xg34wcdmtg-34-inch-wqhd-curved-monitor-price-in-pakistan-pakbyte_1.webp?v=1794848912",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-oled-xg34wcdmtg-34-inch-240hz-wqhd-curved-qd-oled-gaming-monitor",
           "history": [
+            397990,
             397990,
             397990,
             397990,
@@ -250,6 +292,7 @@
             334990,
             334990,
             334990,
+            334990,
             334990
           ]
         },
@@ -265,6 +308,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-xg27uqdms-price-in-pakistan-pakbyte_1.webp?v=1794847022",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-xg27uqdms-27-qd-oled-display-4k-uhd-resolution-240hz-gaming-monitor",
           "history": [
+            297990,
             297990,
             297990,
             297990,
@@ -290,6 +334,7 @@
             224990,
             224990,
             224990,
+            224990,
             224990
           ]
         },
@@ -305,6 +350,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-xg27aqdmes-price-in-pakistan-pakbyte_1.webp?v=1794845916",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-xg27aqdmes-1440p-qd-oled-240-hz-gaming-monitor",
           "history": [
+            188990,
             188990,
             188990,
             188990,
@@ -330,6 +376,7 @@
             129990,
             129990,
             129990,
+            129990,
             129990
           ]
         },
@@ -345,6 +392,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ease-1660-ti-price-in-pakistan-pakbyte-1.png?v=1794818637",
           "url": "https://www.pakbyte.pk/products/ease-nvidia-geforce-gtx-1660-ti-6gb-gddr6-graphics-card",
           "history": [
+            70999,
             70999,
             70999,
             70999,
@@ -372,6 +420,7 @@
             64490,
             64490,
             64490,
+            64490,
             64490
           ]
         },
@@ -387,6 +436,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-max-gaming-lc-360-argb-lcd-price-in-pakistan-pakbyte_5.webp?v=1794811244",
           "url": "https://www.pakbyte.pk/products/asus-max-gaming-lc-360-argb-lcd-all-in-one-cpu-liquid-cooler-black",
           "history": [
+            44990,
             44990,
             44990,
             44990,
@@ -414,6 +464,7 @@
             44990,
             44990,
             44990,
+            44990,
             44990
           ]
         },
@@ -429,6 +480,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-1000G-Gold-Evo-Power-supply-Price-in-Pakistan-Pakbyte_1.webp?v=1794809952",
           "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-1000w-gold-evo-fully-modular-power-supply",
           "history": [
+            42990,
             42990,
             42990,
             42990,
@@ -4040,6 +4092,7 @@
           "history": [
             14490,
             14490,
+            14490,
             14490
           ]
         },
@@ -5062,8 +5115,8 @@
           "name": "MSI B550M-A Pro AMD AM4 microATX Motherboard",
           "brand": "MSI",
           "category": "motherboard",
-          "price": 29999,
-          "oldPrice": null,
+          "price": 28990,
+          "oldPrice": 29999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b550m-a-pro-motherboard-price-in-pakistan-pakbyte-4.jpg?v=1791811512",
@@ -5080,7 +5133,7 @@
             29999,
             29999,
             29999,
-            29999
+            28990
           ]
         },
         {
@@ -6243,7 +6296,7 @@
             81990,
             81990,
             81990,
-            81990,
+            79990,
             79990,
             79990,
             79990,
@@ -7001,7 +7054,7 @@
             14490,
             14490,
             14490,
-            14490,
+            16999,
             16999,
             16999,
             16999
@@ -10314,8 +10367,8 @@
           "name": "Gigabyte Radeon RX 9060 XT Gaming OC 8GB Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 119990,
-          "oldPrice": null,
+          "price": 160999,
+          "oldPrice": 119990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rx-9060-xt-gaming-oc-8gb-price-in-pakistan-pakbyte_1.webp?v=1784737363",
@@ -10332,7 +10385,7 @@
             119990,
             119990,
             119990,
-            119990
+            160999
           ]
         },
         {
@@ -12044,7 +12097,7 @@
             76990,
             76990,
             76990,
-            76990,
+            96990,
             96990,
             96990,
             96990,
@@ -12122,7 +12175,7 @@
             39490,
             39490,
             39490,
-            39490,
+            34990,
             34990,
             34990,
             34990,
@@ -14033,7 +14086,7 @@
           "brand": "MSI",
           "category": "motherboard",
           "price": 74990,
-          "oldPrice": 77990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-Z890-S-Wifi6E-Price-in-Pakistan-Pakbyte_1.webp?v=1783321253",
@@ -14049,7 +14102,7 @@
             77990,
             77990,
             77990,
-            77990,
+            74990,
             74990
           ]
         },
@@ -14110,8 +14163,8 @@
           "name": "MSI Pro X870E-S EVO Wifi DDR5 AMD AM5 ATX Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 90490,
-          "oldPrice": null,
+          "price": 88990,
+          "oldPrice": 90490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-pro-x870e-s-evo-wifi-price-in-pakistan-pakbyte_3.webp?v=1783319355",
@@ -14128,7 +14181,7 @@
             90490,
             90490,
             90490,
-            90490
+            88990
           ]
         },
         {
@@ -14136,9 +14189,9 @@
           "name": "MSI PRO B550M-B AM4 AMD B550 ATX AMD Motherboard",
           "brand": "MSI",
           "category": "motherboard",
-          "price": 29490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 29990,
+          "oldPrice": 29490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-PRO-B550M-B-PRO-AM4-AMD-B550-ATX-AMD-Motherboard-Price-in-Pakistan-Pakbyte_1.jpg?v=1783318742",
           "url": "https://www.pakbyte.pk/products/msi-pro-b550m-b-am4-amd-b550-atx-amd-motherboard",
@@ -14154,7 +14207,7 @@
             29490,
             29490,
             29490,
-            29490
+            29990
           ]
         },
         {
@@ -19609,7 +19662,7 @@
             389990,
             389990,
             389990,
-            389990,
+            469990,
             469990,
             469990,
             469990,
@@ -19635,7 +19688,7 @@
             98490,
             98490,
             98490,
-            98490,
+            96790,
             96790,
             96790,
             96790,
@@ -20649,7 +20702,7 @@
             99990,
             99990,
             99990,
-            99990,
+            132999,
             132999,
             132999,
             132999,
@@ -21925,7 +21978,7 @@
             155990,
             155990,
             155990,
-            155990,
+            199990,
             199990,
             199990,
             199990
@@ -28983,7 +29036,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 24490,
-          "oldPrice": 28890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-pro-h610m-s-wifi-price-in-pakistan-pakbyte.webp?v=1771919124",
@@ -28999,7 +29052,7 @@
             28890,
             28890,
             28890,
-            28890,
+            24490,
             24490
           ]
         },
@@ -29008,8 +29061,8 @@
           "name": "MSI Pro A620AM-B EVO DDR5 AMD AM5 microATX Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 29890,
-          "oldPrice": null,
+          "price": 31490,
+          "oldPrice": 29890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-pro-a620am-b-evo-price-in-pakistan-pakbyte_1.webp?v=1771917813",
@@ -29026,7 +29079,7 @@
             29890,
             29890,
             29890,
-            29890
+            31490
           ]
         },
         {
@@ -29060,8 +29113,8 @@
           "name": "MSI X870E Gaming Plus WiFi ATX Motherboard",
           "brand": "MSI",
           "category": "motherboard",
-          "price": 98990,
-          "oldPrice": null,
+          "price": 104990,
+          "oldPrice": 98990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-PRO-X870-E-GAMING-PLUS-WIFI-Price-in-Pakistan-Pakistan_1.webp?v=1771916033",
@@ -29078,7 +29131,7 @@
             98990,
             98990,
             98990,
-            98990
+            104990
           ]
         },
         {
@@ -34482,7 +34535,7 @@
             117999,
             117999,
             117999,
-            117999,
+            137990,
             137990,
             137990,
             137990,
@@ -34509,7 +34562,7 @@
             126490,
             126490,
             126490,
-            126490,
+            189990,
             189990,
             189990,
             189990
@@ -34535,7 +34588,7 @@
             230990,
             230990,
             230990,
-            230990,
+            309990,
             309990,
             309990,
             309990
@@ -35077,7 +35130,7 @@
             34990,
             34990,
             34990,
-            34990,
+            32990,
             32990,
             32990,
             32990,
@@ -35211,7 +35264,7 @@
             404999,
             404999,
             404999,
-            404999,
+            459999,
             459999,
             459999,
             459999
@@ -35235,7 +35288,7 @@
             70800,
             70800,
             70800,
-            70800,
+            59990,
             59990,
             59990,
             59990,
@@ -35795,7 +35848,7 @@
           "brand": "MSI",
           "category": "motherboard",
           "price": 51990,
-          "oldPrice": 48490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B860M-Gaming-Plus-WiFi-Motherboard-Price-in-Pakistan-Pakbyte_2.jpg?v=1767024087",
@@ -35811,7 +35864,7 @@
             48490,
             48490,
             48490,
-            48490,
+            51990,
             51990
           ]
         },
@@ -43737,6 +43790,7 @@
             86990,
             86990,
             86990,
+            86990,
             86990
           ]
         },
@@ -43782,7 +43836,7 @@
             37790,
             37790,
             37790,
-            37790,
+            31690,
             31690,
             31690,
             31690,
@@ -43808,7 +43862,7 @@
             37790,
             37790,
             37790,
-            37790,
+            31690,
             31690,
             31690,
             31690,
@@ -44329,7 +44383,7 @@
             359790,
             359790,
             359790,
-            359790,
+            324990,
             324990,
             324990,
             324990,
@@ -44355,7 +44409,7 @@
             349790,
             349790,
             349790,
-            349790,
+            324990,
             324990,
             324990,
             324990,
@@ -45851,8 +45905,8 @@
           "name": "Seagate IronWolf 18TB NAS 3.5\" SATA Hard Drive",
           "brand": "Seagate",
           "category": "storage",
-          "price": 182000,
-          "oldPrice": null,
+          "price": 224999,
+          "oldPrice": 182000,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/seagate-18tb-ironwolf-hard-drive-price-in-pakistan-pakbyte.jpg?v=1764151181",
@@ -45869,7 +45923,7 @@
             182000,
             182000,
             182000,
-            182000
+            224999
           ]
         },
         {
@@ -46527,8 +46581,8 @@
           "name": "MSI MAG X870E Carbon Wifi DDR5 AMD AM5 ATX Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 144990,
-          "oldPrice": null,
+          "price": 154990,
+          "oldPrice": 144990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-mpg-x870e-carbon-wifi-motherboard-price-in-pakistan-pakbyte_1.jpg?v=1764058333",
@@ -46545,7 +46599,7 @@
             144990,
             144990,
             144990,
-            144990
+            154990
           ]
         },
         {
@@ -46553,8 +46607,8 @@
           "name": "MSI B850 Gaming Plus Wifi6E DDR5 Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 64990,
-          "oldPrice": null,
+          "price": 67990,
+          "oldPrice": 64990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b850-gaming-plus-wifi6e-price-in-pakistan-pakbyte_7.webp?v=1764058588",
@@ -46571,7 +46625,7 @@
             64990,
             64990,
             64990,
-            64990
+            67990
           ]
         },
         {
@@ -46579,8 +46633,8 @@
           "name": "MSI Pro B850-S Wifi6E DDR5 Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 57499,
-          "oldPrice": null,
+          "price": 54990,
+          "oldPrice": 57499,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-pro-b850-s-wifi6e-price-in-pakistan-pakbyte_2.webp?v=1764057701",
@@ -46597,7 +46651,7 @@
             57499,
             57499,
             57499,
-            57499
+            54990
           ]
         },
         {
@@ -50308,7 +50362,7 @@
             6190,
             6190,
             6190,
-            6190,
+            6799,
             6799,
             6799,
             6799,
@@ -51038,7 +51092,7 @@
             634999,
             634999,
             634999,
-            634999,
+            689990,
             689990,
             689990,
             689990,
@@ -51090,7 +51144,7 @@
             511990,
             511990,
             511990,
-            511990,
+            567990,
             567990,
             567990,
             567990,
@@ -51116,7 +51170,7 @@
             232990,
             232990,
             232990,
-            232990,
+            329990,
             329990,
             329990,
             329990,
@@ -51141,7 +51195,7 @@
             264990,
             264990,
             264990,
-            264990,
+            316990,
             316990,
             316990,
             316990,
@@ -51167,7 +51221,7 @@
             154990,
             154990,
             154990,
-            154990,
+            194990,
             194990,
             194990,
             194990,
@@ -51193,7 +51247,7 @@
             128490,
             128490,
             128490,
-            128490,
+            184990,
             184990,
             184990,
             184990,
@@ -51219,7 +51273,7 @@
             125990,
             125990,
             125990,
-            125990,
+            181990,
             181990,
             181990,
             181990,
@@ -51245,7 +51299,7 @@
             104990,
             104990,
             104990,
-            104990,
+            141990,
             141990,
             141990,
             141990,
@@ -51324,7 +51378,7 @@
             109990,
             109990,
             109990,
-            109990,
+            115490,
             115490,
             115490,
             115490,
@@ -51350,7 +51404,7 @@
             98490,
             98490,
             98490,
-            98490,
+            96990,
             96990,
             96990,
             96990,
@@ -51714,7 +51768,7 @@
             359990,
             359990,
             359990,
-            359990,
+            454990,
             454990,
             454990,
             454990,
@@ -52311,7 +52365,7 @@
             17990,
             17990,
             17990,
-            17990,
+            17790,
             17790,
             17790,
             17790,
@@ -52338,7 +52392,7 @@
             294999,
             294999,
             294999,
-            294999,
+            349990,
             349990,
             349990,
             349990,
@@ -52364,7 +52418,7 @@
             341990,
             341990,
             341990,
-            341990,
+            399990,
             399990,
             399990,
             399990,
@@ -52702,7 +52756,7 @@
             17890,
             17890,
             17890,
-            17890,
+            17990,
             17990,
             17990,
             17990,
@@ -53172,7 +53226,7 @@
             153990,
             153990,
             153990,
-            153990,
+            199990,
             199990,
             199990,
             199990
@@ -53198,7 +53252,7 @@
             162999,
             162999,
             162999,
-            162999,
+            184990,
             184990,
             184990,
             184990
@@ -54784,7 +54838,7 @@
             1474990,
             1474990,
             1474990,
-            1474990,
+            3200000,
             3200000,
             3200000,
             3200000
@@ -54836,7 +54890,7 @@
             511490,
             511490,
             511490,
-            511490,
+            719990,
             719990,
             719990,
             719990
@@ -54914,7 +54968,7 @@
             227990,
             227990,
             227990,
-            227990,
+            324990,
             324990,
             324990,
             324990
@@ -54990,7 +55044,7 @@
             194990,
             194990,
             194990,
-            194990,
+            289999,
             289999,
             289999,
             289999,
@@ -55018,7 +55072,7 @@
             247490,
             247490,
             247490,
-            247490,
+            309990,
             309990,
             309990,
             309990
@@ -55044,7 +55098,7 @@
             148490,
             148490,
             148490,
-            148490,
+            199990,
             199990,
             199990,
             199990
@@ -55082,7 +55136,7 @@
           "brand": "MSI",
           "category": "motherboard",
           "price": 49490,
-          "oldPrice": 46990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b760-gaming-plus-wifi-motherboard_1.jpg?v=1757150939",
@@ -55098,7 +55152,7 @@
             46990,
             46990,
             46990,
-            46990,
+            49490,
             49490
           ]
         },
@@ -55148,7 +55202,7 @@
             354999,
             354999,
             354999,
-            354999,
+            409999,
             409999,
             409999,
             409999
@@ -55174,7 +55228,7 @@
             424999,
             424999,
             424999,
-            424999,
+            459990,
             459990,
             459990,
             459990
@@ -60918,7 +60972,7 @@
             234990,
             234990,
             234990,
-            234990,
+            297990,
             297990,
             297990,
             297990,
@@ -61020,7 +61074,7 @@
             42390,
             42390,
             42390,
-            42390,
+            42490,
             42490,
             42490,
             42490,
@@ -61046,7 +61100,7 @@
             29390,
             29390,
             29390,
-            29390,
+            21990,
             21990,
             21990,
             21990,
@@ -61125,7 +61179,7 @@
             49790,
             49790,
             49790,
-            49790,
+            49990,
             49990,
             49990,
             49990,
@@ -61176,7 +61230,7 @@
             114790,
             114790,
             114790,
-            114790,
+            121990,
             121990,
             121990,
             121990,
@@ -61202,7 +61256,7 @@
             117790,
             117790,
             117790,
-            117790,
+            121990,
             121990,
             121990,
             121990,
@@ -61228,7 +61282,7 @@
             26790,
             26790,
             26790,
-            26790,
+            24990,
             24990,
             24990,
             24990,
@@ -61254,7 +61308,7 @@
             26690,
             26690,
             26690,
-            26690,
+            24990,
             24990,
             24990,
             24990,
@@ -61518,7 +61572,7 @@
             424999,
             424999,
             424999,
-            424999,
+            719990,
             719990,
             719990,
             719990
@@ -62140,7 +62194,7 @@
             44990,
             44990,
             44990,
-            44990,
+            42990,
             42990,
             42990,
             42990,
@@ -65587,7 +65641,7 @@
           "category": "keyboard",
           "price": 56799,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G915-X-Lightspeed-TKL-Wireless-Mechanical-Gaming-Keyboard-Black-GL-Clicky-Switches-PakByte-Computers-26323875889219.webp?v=1753670130",
           "url": "https://www.pakbyte.pk/products/logitech-g915-x-lightspeed-tkl-wireless-mechanical-gaming-keyboard-black-gl-clicky-switches",
@@ -66403,7 +66457,7 @@
             17990,
             17990,
             17990,
-            17990,
+            17790,
             17790,
             17790,
             17790,
@@ -66424,6 +66478,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Cobble-USB-C-3-2-Gen-2x1-SSD-Enclosure-up-to-10-Gbps-Transmission-Dual-M-2-NVMe-PCIe-and-SATA-Interfaces-M-2-Q-Latch-IP55-Water-and-Dust-Protection-Windows-macOS-Black-PakByte-Computers-26307490218051.jpg?v=1753670246",
           "url": "https://www.pakbyte.pk/products/asus-cobble-usb-c-3-2-gen-2x1-ssd-enclosure-up-to-10-gbps-transmission-dual-m-2-nvme-pcie-and-sata-interfaces-m-2-q-latch-ip55-water-and-dust-protection-windows-macos-black",
           "history": [
+            13490,
             13490,
             13490,
             13490,
@@ -66604,7 +66659,7 @@
             37490,
             37490,
             37490,
-            37490,
+            34990,
             34990,
             34990,
             34990,
@@ -67842,7 +67897,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 76990,
-          "oldPrice": 72490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Z790-Gaming-Plus-Wifi-DDR5-Intel-12-13-14th-Gen-ATX-Motherboard-PakByte-Computers-26188455182403.jpg?v=1753670505",
@@ -67858,7 +67913,7 @@
             72490,
             72490,
             72490,
-            72490,
+            76990,
             76990
           ]
         },
@@ -68103,7 +68158,7 @@
           "category": "mouse",
           "price": 8490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167569776707.jpg?v=1753670543",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-wireless-gaming-mouse-black",
@@ -69700,7 +69755,7 @@
             64990,
             64990,
             64990,
-            64990,
+            65990,
             65990,
             65990,
             65990,
@@ -69726,7 +69781,7 @@
             67990,
             67990,
             67990,
-            67990,
+            71490,
             71490,
             71490,
             71490,
@@ -69752,7 +69807,7 @@
             78490,
             78490,
             78490,
-            78490,
+            75990,
             75990,
             75990,
             75990,
@@ -69804,7 +69859,7 @@
             94990,
             94990,
             94990,
-            94990,
+            85490,
             85490,
             85490,
             85490,
@@ -69830,7 +69885,7 @@
             111990,
             111990,
             111990,
-            111990,
+            114490,
             114490,
             114490,
             114490,
@@ -69934,7 +69989,7 @@
             179990,
             179990,
             179990,
-            179990,
+            181490,
             181490,
             181490,
             181490,
@@ -70349,7 +70404,7 @@
             439790,
             439790,
             439790,
-            439790,
+            459990,
             459990,
             459990,
             459990,
@@ -70765,7 +70820,7 @@
             104799,
             104799,
             104799,
-            104799,
+            127990,
             127990,
             127990,
             127990,
@@ -70817,7 +70872,7 @@
             77999,
             77999,
             77999,
-            77999,
+            94990,
             94990,
             94990,
             94990,
@@ -72184,7 +72239,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 96990,
-          "oldPrice": 91990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-MAG-Z790-Tomahawk-Max-Wifi-DDR5-Intel-12-13-14th-Gen-ATX-Motherboard-PakByte-Computers-26019972022339.jpg?v=1748004441",
@@ -72200,7 +72255,7 @@
             91990,
             91990,
             91990,
-            91990,
+            96990,
             96990
           ]
         },
@@ -78815,7 +78870,7 @@
           "category": "gpu",
           "price": 358999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-GeForce-RTX-5070-Ti-16GB-Vanguard-SOC-Launch-Edition-Graphics-Card-PakByte-Computers-25846116089923.png?v=1753672587",
           "url": "https://www.pakbyte.pk/products/msi-geforce-rtx-5070-ti-16gb-vanguard-soc-launch-edition-graphics-card",
@@ -78944,7 +78999,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 24490,
-          "oldPrice": 24990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-H610M-S-DDR4-Intel-Motherboard-PakByte-Computers-25845382578243.jpg?v=1753672611",
@@ -78960,7 +79015,7 @@
             24990,
             24990,
             24990,
-            24990,
+            24490,
             24490
           ]
         },
@@ -82298,7 +82353,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 35490,
-          "oldPrice": 35990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-B760M-P-DDR5-Intel-12-13-14th-Gen-microATX-Motherboard-PakByte-Computers-25770795204675.png?v=1753673120",
@@ -82314,7 +82369,7 @@
             35990,
             35990,
             35990,
-            35990,
+            35490,
             35490
           ]
         },
@@ -85067,7 +85122,7 @@
             64990,
             64990,
             64990,
-            64990,
+            62490,
             62490,
             62490,
             62490,
@@ -85249,7 +85304,7 @@
             76990,
             76990,
             76990,
-            76990,
+            96990,
             96990,
             96990,
             96990,
@@ -85443,8 +85498,8 @@
           "name": "MSI Pro B650-S WIFI DDR5 Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 49890,
-          "oldPrice": null,
+          "price": 54990,
+          "oldPrice": 49890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-B650-S-Wifi-DDR5-Motherboard-PakByte-Computers-25845535801411.jpg?v=1753674346",
@@ -85461,7 +85516,7 @@
             49890,
             49890,
             49890,
-            49890
+            54990
           ]
         },
         {
@@ -85469,8 +85524,8 @@
           "name": "MSI B650M Project Zero Gaming Motherboard",
           "brand": "MSI",
           "category": "motherboard",
-          "price": 58490,
-          "oldPrice": null,
+          "price": 61990,
+          "oldPrice": 58490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B650M-Project-Zero-Gaming-Motherboard-PakByte-Computers-25845526757443.jpg?v=1753674346",
@@ -85487,7 +85542,7 @@
             58490,
             58490,
             58490,
-            58490
+            61990
           ]
         },
         {
@@ -85521,8 +85576,8 @@
           "name": "MSI B650M Gaming WIFI DDR5 Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 44990,
-          "oldPrice": null,
+          "price": 46990,
+          "oldPrice": 44990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B650M-Gaming-WIFI-DDR5-Motherboard-PakByte-Computers-25845492351043.jpg?v=1753674360",
@@ -85539,7 +85594,7 @@
             44990,
             44990,
             44990,
-            44990
+            46990
           ]
         },
         {
@@ -85575,7 +85630,7 @@
           "category": "motherboard",
           "price": 22990,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B450M-A-Pro-Max-II-ProSeries-Motherboard-PakByte-Computers-25758107369539.jpg?v=1753674373",
           "url": "https://www.pakbyte.pk/products/msi-b450m-a-pro-max-ii-proseries-motherboard",
@@ -85678,7 +85733,7 @@
           "brand": "MSI",
           "category": "motherboard",
           "price": 67990,
-          "oldPrice": 64990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B860-Gaming-Plus-Wifi-Motherboard-PakByte-Computers-25845394735171.webp?v=1753674386",
@@ -85694,7 +85749,7 @@
             64990,
             64990,
             64990,
-            64990,
+            67990,
             67990
           ]
         },
@@ -85704,7 +85759,7 @@
           "brand": "MSI",
           "category": "motherboard",
           "price": 58490,
-          "oldPrice": 54990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B760M-Project-Zero-Gaming-Motherboard-PakByte-Computers-25845363310659.webp?v=1753674397",
@@ -85720,7 +85775,7 @@
             54990,
             54990,
             54990,
-            54990,
+            58490,
             58490
           ]
         },
@@ -100121,7 +100176,7 @@
             87990,
             87990,
             87990,
-            87990,
+            124990,
             124990,
             124990,
             124990,
@@ -101044,7 +101099,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 29490,
-          "oldPrice": 28890,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-B760M-E-DDR4-Intel-12-13th-Gen-microATX-Motherboard-PakByte-Computers-24976211968067.jpg?v=1753677397",
@@ -101060,7 +101115,7 @@
             28890,
             28890,
             28890,
-            28890,
+            29490,
             29490
           ]
         },
@@ -101096,7 +101151,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 34990,
-          "oldPrice": 35990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b760m-p-motherboard-price-in-pakistan-pakbyte_1.jpg?v=1775129947",
@@ -101112,7 +101167,7 @@
             35990,
             35990,
             35990,
-            35990,
+            34990,
             34990
           ]
         },
@@ -101122,7 +101177,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 39990,
-          "oldPrice": 39490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B760M-Bomber-Wifi-DDR5-Intel-12-13-14th-Gen-microATX-Motheboard-PakByte-Computers-24969236447299.jpg?v=1753677413",
@@ -101138,7 +101193,7 @@
             39490,
             39490,
             39490,
-            39490,
+            39990,
             39990
           ]
         },
@@ -101148,7 +101203,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 71990,
-          "oldPrice": 67990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-Z790-P-Wifi-DDR5-Intel-12-13th-Gen-ATX-Motherboard-PakByte-Computers-24969185493059.jpg?v=1753677413",
@@ -101164,7 +101219,7 @@
             67990,
             67990,
             67990,
-            67990,
+            71990,
             71990
           ]
         },
@@ -101251,8 +101306,8 @@
           "name": "MSI Pro A520M-A Gaming Motherboard",
           "brand": "MSI",
           "category": "motherboard",
-          "price": 20490,
-          "oldPrice": null,
+          "price": 21490,
+          "oldPrice": 20490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-A520M-A-Gaming-Motherboard-PakByte-Computers-25845414854723.jpg?v=1753677426",
@@ -101269,7 +101324,7 @@
             20490,
             20490,
             20490,
-            20490
+            21490
           ]
         },
         {
@@ -101303,8 +101358,8 @@
           "name": "MSI Pro B650M-B DDR5 Motherboard",
           "brand": "MSI",
           "category": "ram",
-          "price": 30890,
-          "oldPrice": null,
+          "price": 32490,
+          "oldPrice": 30890,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-B650M-B-DDR5-Motherboard-PakByte-Computers-25845435465795.jpg?v=1753677436",
@@ -101321,7 +101376,7 @@
             30890,
             30890,
             30890,
-            30890
+            32490
           ]
         },
         {
@@ -101369,7 +101424,7 @@
             119990,
             119990,
             119990,
-            119990,
+            174990,
             174990,
             174990,
             174990,
@@ -101655,7 +101710,7 @@
             54990,
             54990,
             54990,
-            54990,
+            51990,
             51990,
             51990,
             51990,
@@ -101681,7 +101736,7 @@
             41990,
             41990,
             41990,
-            41990,
+            39990,
             39990,
             39990,
             39990,
@@ -104616,7 +104671,7 @@
             64990,
             64990,
             64990,
-            64990,
+            52990,
             52990,
             52990,
             52990,
@@ -104642,7 +104697,7 @@
             51490,
             51490,
             51490,
-            51490,
+            42990,
             42990,
             42990,
             42990,
@@ -104981,7 +105036,7 @@
             39490,
             39490,
             39490,
-            39490,
+            37990,
             37990,
             37990,
             37990,
@@ -105110,7 +105165,7 @@
             11490,
             11490,
             11490,
-            11490,
+            10990,
             10990,
             10990,
             10990,
@@ -105240,7 +105295,7 @@
             74790,
             74790,
             74790,
-            74790,
+            74990,
             74990,
             74990,
             74990,
@@ -105266,7 +105321,7 @@
             87800,
             87800,
             87800,
-            87800,
+            78990,
             78990,
             78990,
             78990,
@@ -105736,7 +105791,7 @@
             24990,
             24990,
             24990,
-            24990,
+            24490,
             24490,
             24490,
             24490,
@@ -109400,7 +109455,7 @@
             23990,
             23990,
             23990,
-            23990,
+            22490,
             22490,
             22490,
             22490,
@@ -109426,7 +109481,7 @@
             23490,
             23490,
             23490,
-            23490,
+            22490,
             22490,
             22490,
             22490,
@@ -111055,7 +111110,7 @@
           "category": "psu",
           "price": 12190,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Darkflash-AIGO-GP650-650W-80-Plus-Bronze-Power-Supply-PakByte-Computers-25844463599683.jpg?v=1753679137",
           "url": "https://www.pakbyte.pk/products/darkflash-aigo-gp650-650w-80-plus-bronze-power-supply",
@@ -112771,7 +112826,7 @@
           "category": "psu",
           "price": 10190,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-GC-PS002-600W-Gaming-PC-Power-Supply-PakByte-Computers-24397784350787.webp?v=1753679429",
           "url": "https://www.pakbyte.pk/products/redragon-gc-ps002-600w-gaming-pc-power-supply",
@@ -121725,7 +121780,7 @@
             164990,
             164990,
             164990,
-            164990,
+            144990,
             144990,
             144990,
             144990,
@@ -122350,7 +122405,7 @@
             35990,
             35990,
             35990,
-            35990,
+            35490,
             35490,
             35490,
             35490,
@@ -122376,7 +122431,7 @@
             30990,
             30990,
             30990,
-            30990,
+            29490,
             29490,
             29490,
             29490,
@@ -122504,7 +122559,7 @@
             19990,
             19990,
             19990,
-            19990,
+            19690,
             19690,
             19690,
             19690,
@@ -122608,7 +122663,7 @@
             89790,
             89790,
             89790,
-            89790,
+            86990,
             86990,
             86990,
             86990,
@@ -127940,7 +127995,7 @@
             24990,
             24990,
             24990,
-            24990,
+            24490,
             24490,
             24490,
             24490,
@@ -153749,6 +153804,7 @@
           "url": "https://rbtechngames.com/product/apacer-nox-rgb-32gb-32gbx1-6000mhz-cl38-ddr5-ram-black-white",
           "history": [
             154999,
+            154999,
             154999
           ]
         },
@@ -153757,8 +153813,8 @@
           "name": "PowerColor Hellhound Spectral White AMD Radeon RX 9060 XT 16GB Graphics Card",
           "brand": "PowerColor",
           "category": "gpu",
-          "price": 209999,
-          "oldPrice": null,
+          "price": 194999,
+          "oldPrice": 209999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_powercolor_hellhound_spectral_white_amd_radeon_rx_9060_xt_16gb.webp",
@@ -153769,7 +153825,8 @@
             209999,
             209999,
             209999,
-            209999
+            209999,
+            194999
           ]
         },
         {
@@ -153784,6 +153841,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_asus_tuf_gaming_gtx_1660_ti.png",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-geforce-gtx-1660-ti-6gb-graphics-card-used",
           "history": [
+            64999,
             64999,
             64999,
             64999,
@@ -155524,7 +155582,7 @@
             174999,
             174999,
             174999,
-            174999,
+            179999,
             179999,
             179999,
             179999,
@@ -157723,8 +157781,8 @@
           "name": "Asus TUF Gaming Radeon RX 9070 XT 16GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 334999,
-          "oldPrice": null,
+          "price": 344999,
+          "oldPrice": 334999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_tuf_gaming_rx_9070_xt_oc.webp",
@@ -157741,7 +157799,7 @@
             334999,
             334999,
             334999,
-            334999
+            344999
           ]
         },
         {
@@ -159725,8 +159783,8 @@
           "name": "ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB &#8211; USED",
           "brand": "Zotac",
           "category": "gpu",
-          "price": 99999,
-          "oldPrice": null,
+          "price": 114999,
+          "oldPrice": 99999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/zotac_rtx_3060_1-1.jpg",
@@ -159741,9 +159799,9 @@
             84999,
             84999,
             84999,
-            84999,
             99999,
-            99999
+            99999,
+            114999
           ]
         },
         {
@@ -160126,7 +160184,7 @@
             174999,
             174999,
             174999,
-            174999,
+            184999,
             184999,
             184999,
             184999,
@@ -160204,7 +160262,7 @@
             299999,
             299999,
             299999,
-            299999,
+            304999,
             304999,
             304999,
             304999,
@@ -160382,7 +160440,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_lexar_nq780.webp",
           "url": "https://rbtechngames.com/product/lexar-nq780-m-2-2280-pcie-gen-4-nvme-ssd-1tb-2tb-4tb",
           "history": [
-            42499,
+            26499,
             26499,
             26499,
             26499,
@@ -161032,7 +161090,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_samsung_9100_pro.jpg",
           "url": "https://rbtechngames.com/product/samsung-9100-pro-nvme-m-2-gen-5-ssd-1tb-2tb-4tb",
           "history": [
-            144999,
+            79499,
             79499,
             79499,
             79499,
@@ -161249,7 +161307,7 @@
             50999,
             50999,
             50999,
-            50999,
+            69999,
             69999,
             69999
           ]
@@ -161374,6 +161432,7 @@
             67000,
             67000,
             67000,
+            64999,
             64999,
             64999,
             64999,
@@ -161711,7 +161770,7 @@
             45499,
             45499,
             45499,
-            45499,
+            42499,
             42499,
             42499,
             42499,
@@ -162722,6 +162781,7 @@
           "url": "https://rbtechngames.com/product/lexar-nm620-1tb-m-2-2280-nvme-ssd",
           "history": [
             37499,
+            37499,
             37499
           ]
         },
@@ -162955,6 +163015,7 @@
             62499,
             62499,
             62499,
+            62499,
             62499
           ]
         },
@@ -162974,6 +163035,7 @@
             87999,
             87999,
             87999,
+            79999,
             79999,
             79999,
             79999,
@@ -163077,7 +163139,7 @@
             104999,
             104999,
             104999,
-            104999,
+            112499,
             112499,
             112499,
             112499,
@@ -163103,6 +163165,7 @@
             82999,
             82999,
             82999,
+            72499,
             72499,
             72499,
             72499,
@@ -163290,6 +163353,7 @@
             79999,
             79999,
             79999,
+            79999,
             79999
           ]
         },
@@ -163361,7 +163425,7 @@
             134999,
             134999,
             134999,
-            134999,
+            129999,
             129999,
             129999,
             129999,
@@ -163387,7 +163451,7 @@
             114999,
             114999,
             114999,
-            114999,
+            102499,
             102499,
             102499,
             102499,
@@ -163617,7 +163681,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2023/08/rbtech_samsung_990pro_1tb_1.jpg",
           "url": "https://rbtechngames.com/product/samsung-990-pro-1tb-pcie-4-0-nvme-m-2-ssd",
           "history": [
-            69999,
+            73999,
             73999,
             73999,
             73999,
@@ -163705,6 +163769,7 @@
             59999,
             59999,
             59999,
+            59999,
             59999
           ]
         },
@@ -163724,7 +163789,7 @@
             41499,
             41499,
             41499,
-            41499,
+            40499,
             40499,
             40499,
             40499,
@@ -163958,7 +164023,7 @@
             38499,
             38499,
             38499,
-            38499,
+            37999,
             37999,
             37999,
             37999,
