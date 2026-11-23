@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T05:57:13.326065+00:00",
+  "lastUpdated": "2026-11-23T17:44:55.366627+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,21 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_0fe70018",
+          "name": "Thermalright Frozen Vision 360 ARGB V2 AIO 360mm Liquid CPU Cooler - Black",
+          "brand": "Thermalright",
+          "category": "cooler",
+          "price": 36990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-vision-360-argb-black-v2-price-in-pakistan-pakbyte_1.webp?v=1795445525",
+          "url": "https://www.pakbyte.pk/products/thermalright-frozen-vision-360-argb-v2-aio-360mm-liquid-cpu-cooler-black",
+          "history": [
+            36990
+          ]
+        },
         {
           "id": "pakbyte_ae47d91a",
           "name": "DeepCool PF600X 600W 80 Plus Bronze Power Supply",
@@ -20,6 +35,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-pf600x-price-in-pakistan-pakbyte_3.webp?v=1795258468",
           "url": "https://www.pakbyte.pk/products/deepcool-pf600x-600w-80-plus-bronze-power-supply",
           "history": [
+            12490,
             12490,
             12490,
             12490,
@@ -45,6 +61,7 @@
             17490,
             17490,
             17490,
+            17490,
             17490
           ]
         },
@@ -60,6 +77,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-gamerstorm-pf750d-v2-750w-80-plus-silver-power-supply-price-in-pakistan-pakbyte.webp?v=1795257431",
           "url": "https://www.pakbyte.pk/products/deepcool-pf750d-v2-750w-80-plus-silver-power-supply",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -85,6 +103,7 @@
             13990,
             13990,
             13990,
+            13990,
             13990
           ]
         },
@@ -100,6 +119,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/mchose-v9-pro-2-price-in-pakistan-pakbyte_1.webp?v=1795254470",
           "url": "https://www.pakbyte.pk/products/mchose-v9-pro-2-wireless-gaming-headset-green-black",
           "history": [
+            13990,
             13990,
             13990,
             13990,
@@ -130,6 +150,7 @@
             129990,
             129990,
             129990,
+            129990,
             129990
           ]
         },
@@ -145,6 +166,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-mag-z890-tomahawk-wifi-ii-price-in-pakistan-pakbyte_1.webp?v=1795069125",
           "url": "https://www.pakbyte.pk/products/msi-mag-z890-tomahawk-wifi-ii-motherboard",
           "history": [
+            127990,
             127990,
             127990,
             127990,
@@ -5370,7 +5392,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b550m-a-pro-motherboard-price-in-pakistan-pakbyte-4.jpg?v=1791811512",
           "url": "https://www.pakbyte.pk/products/msi-b550m-a-pro-amd-am4-microatx-motherboard",
           "history": [
-            29999,
+            28990,
             28990,
             28990,
             28990,
@@ -10622,7 +10644,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rx-9060-xt-gaming-oc-8gb-price-in-pakistan-pakbyte_1.webp?v=1784737363",
           "url": "https://www.pakbyte.pk/products/gigabyte-radeon-rx-9060-xt-gaming-oc-8gb-graphics-card",
           "history": [
-            119990,
+            160999,
             160999,
             160999,
             160999,
@@ -14418,7 +14440,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-pro-x870e-s-evo-wifi-price-in-pakistan-pakbyte_3.webp?v=1783319355",
           "url": "https://www.pakbyte.pk/products/msi-pro-x870e-s-evo-wifi-ddr5-amd-am5-atx-motherboard",
           "history": [
-            90490,
+            88990,
             88990,
             88990,
             88990,
@@ -14444,7 +14466,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-PRO-B550M-B-PRO-AM4-AMD-B550-ATX-AMD-Motherboard-Price-in-Pakistan-Pakbyte_1.jpg?v=1783318742",
           "url": "https://www.pakbyte.pk/products/msi-pro-b550m-b-am4-amd-b550-atx-amd-motherboard",
           "history": [
-            29490,
+            29990,
             29990,
             29990,
             29990,
@@ -14475,7 +14497,7 @@
             39490,
             39490,
             39490,
-            39490,
+            33490,
             33490,
             33490,
             33490,
@@ -15489,7 +15511,7 @@
             40490,
             40490,
             40490,
-            40490,
+            33490,
             33490,
             33490,
             33490,
@@ -17063,8 +17085,8 @@
           "name": "ASUS Dual GeForce RTX™ 3060 Ti OC Edition 8GB GDDR6 Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 89990,
-          "oldPrice": null,
+          "price": 99990,
+          "oldPrice": 89990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Dual-RTX-3060Ti-Graphics-Card-Price-in-Pakistan-Pakbyte_1.webp?v=1780550007",
@@ -17081,7 +17103,7 @@
             89990,
             89990,
             89990,
-            89990
+            99990
           ]
         },
         {
@@ -19299,8 +19321,8 @@
           "name": "Asus ProArt GeForce RTX 5080 OC Edition Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 489999,
-          "oldPrice": null,
+          "price": 684999,
+          "oldPrice": 489999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-proart-rtx-5080-oc-edition-price-in-pakistan-pakbyte_1.webp?v=1778136480",
@@ -19317,7 +19339,7 @@
             489999,
             489999,
             489999,
-            489999
+            684999
           ]
         },
         {
@@ -19507,8 +19529,8 @@
           "name": "Thermalright Frozen Warframe 360 SE ARGB V2 360mm AIO Liquid CPU Cooler - White",
           "brand": "Thermalright",
           "category": "ram",
-          "price": 24490,
-          "oldPrice": null,
+          "price": 25790,
+          "oldPrice": 24490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-warframe-360-se-argb-white-v2-price-in-pakistan-pakbyte_1.webp?v=1777877872",
@@ -19525,7 +19547,7 @@
             24490,
             24490,
             24490,
-            24490
+            25790
           ]
         },
         {
@@ -19533,8 +19555,8 @@
           "name": "Thermalright Frozen Warframe 360 SE ARGB V2 360mm AIO Liquid CPU Cooler -  Black",
           "brand": "Thermalright",
           "category": "ram",
-          "price": 23990,
-          "oldPrice": null,
+          "price": 24990,
+          "oldPrice": 23990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-warframe-360-se-argb-black-v2-price-in-pakistan-pakbyte_1.webp?v=1777877624",
@@ -19551,7 +19573,7 @@
             23990,
             23990,
             23990,
-            23990
+            24990
           ]
         },
         {
@@ -19559,8 +19581,8 @@
           "name": "Thermalright Frozen Horizon 360 Digital ARGB CPU Liquid Cooler - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 20990,
-          "oldPrice": null,
+          "price": 21790,
+          "oldPrice": 20990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-horizon-360-digital-argb-white-price-in-pakistan-pakbyte_1.webp?v=1777877330",
@@ -19577,7 +19599,7 @@
             20990,
             20990,
             20990,
-            20990
+            21790
           ]
         },
         {
@@ -19585,8 +19607,8 @@
           "name": "Thermalright Frozen Horizon 360 Digital ARGB CPU Liquid Cooler - Black",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 20490,
-          "oldPrice": null,
+          "price": 20990,
+          "oldPrice": 20490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-horizon-360-digital-argb-cooler-price-in-pakistan-pakbyte_1.webp?v=1777877047",
@@ -19603,7 +19625,7 @@
             20490,
             20490,
             20490,
-            20490
+            20990
           ]
         },
         {
@@ -28089,7 +28111,7 @@
           "category": "monitor",
           "price": 74990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/xp-pen-artist-13-2nd-gen-graphic-tablet-display-price-in-pakistan-pakbyte_1.jpg?v=1772082734",
           "url": "https://www.pakbyte.pk/products/xp-pen-artist-13-2nd-gen-graphic-drawing-tablet-display",
@@ -29316,7 +29338,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-pro-a620am-b-evo-price-in-pakistan-pakbyte_1.webp?v=1771917813",
           "url": "https://www.pakbyte.pk/products/msi-pro-a620am-b-evo-ddr5-amd-am5-microatx-motherboard",
           "history": [
-            29890,
+            31490,
             31490,
             31490,
             31490,
@@ -29368,7 +29390,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-PRO-X870-E-GAMING-PLUS-WIFI-Price-in-Pakistan-Pakistan_1.webp?v=1771916033",
           "url": "https://www.pakbyte.pk/products/msi-x870e-gaming-plus-wifi-atx-motherboard",
           "history": [
-            98990,
+            104990,
             104990,
             104990,
             104990,
@@ -30673,7 +30695,7 @@
             29990,
             29990,
             29990,
-            29990,
+            25490,
             25490,
             25490,
             25490,
@@ -30699,7 +30721,7 @@
             28990,
             28990,
             28990,
-            28990,
+            25490,
             25490,
             25490,
             25490,
@@ -46164,7 +46186,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/seagate-18tb-ironwolf-hard-drive-price-in-pakistan-pakbyte.jpg?v=1764151181",
           "url": "https://www.pakbyte.pk/products/seagate-ironwolf-18tb-nas-3-5-sata-hard-drive",
           "history": [
-            182000,
+            224999,
             224999,
             224999,
             224999,
@@ -46840,7 +46862,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-mpg-x870e-carbon-wifi-motherboard-price-in-pakistan-pakbyte_1.jpg?v=1764058333",
           "url": "https://www.pakbyte.pk/products/msi-mpg-x870e-carbon-wifi-ddr5-amd-am5-atx-motherboard-1",
           "history": [
-            144990,
+            154990,
             154990,
             154990,
             154990,
@@ -46866,7 +46888,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-b850-gaming-plus-wifi6e-price-in-pakistan-pakbyte_7.webp?v=1764058588",
           "url": "https://www.pakbyte.pk/products/msi-b850-gaming-plus-wifi6e-ddr5-motherboard",
           "history": [
-            64990,
+            67990,
             67990,
             67990,
             67990,
@@ -46892,7 +46914,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-pro-b850-s-wifi6e-price-in-pakistan-pakbyte_2.webp?v=1764057701",
           "url": "https://www.pakbyte.pk/products/msi-pro-b850-s-wifi6e-ddr5-motherboard",
           "history": [
-            57499,
+            54990,
             54990,
             54990,
             54990,
@@ -48107,8 +48129,8 @@
           "name": "Thermalright Stream Vision 360 AIO CPU Liquid Cooler - Black",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 42990,
-          "oldPrice": null,
+          "price": 39490,
+          "oldPrice": 42990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-stream-vision-360-black-price-in-pakistan-pakbyte_3.webp?v=1763447124",
@@ -48125,7 +48147,7 @@
             42990,
             42990,
             42990,
-            42990
+            39490
           ]
         },
         {
@@ -48133,8 +48155,8 @@
           "name": "Thermalright Hyper Vision 360 ARGB AIO CPU Liquid Cooler - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 49990,
-          "oldPrice": null,
+          "price": 47990,
+          "oldPrice": 49990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-hyper-vision-360-argb-white-price-in-pakistan-pakbyte_2.webp?v=1763445519",
@@ -48151,7 +48173,7 @@
             49990,
             49990,
             49990,
-            49990
+            47990
           ]
         },
         {
@@ -48159,8 +48181,8 @@
           "name": "Thermalright Hyper Vision 360 ARGB AIO CPU Liquid Cooler - Black",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 49990,
-          "oldPrice": null,
+          "price": 47990,
+          "oldPrice": 49990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Hyper-Vision-360-ARGB-AIO-CPU-Liquid-Cooler-Black_1.jpg?v=1763444809",
@@ -48177,7 +48199,7 @@
             49990,
             49990,
             49990,
-            49990
+            47990
           ]
         },
         {
@@ -56725,7 +56747,7 @@
             19490,
             19490,
             19490,
-            19490,
+            16990,
             16990,
             16990,
             16990,
@@ -56751,7 +56773,7 @@
             19990,
             19990,
             19990,
-            19990,
+            16990,
             16990,
             16990,
             16990,
@@ -61731,8 +61753,8 @@
           "name": "MSI Gaming GeForce RTX 5090 32G GDDR7 Suprim SOC Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 1149799,
-          "oldPrice": null,
+          "price": 2649999,
+          "oldPrice": 1149799,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5090-32g-suprim-soc-gpu_1.jpg?v=1754399814",
@@ -61749,7 +61771,7 @@
             1149799,
             1149799,
             1149799,
-            1149799
+            2649999
           ]
         },
         {
@@ -73847,8 +73869,8 @@
           "name": "Thermalright Aqua Elite 360 V3 ARGB AIO 360mm Liquid CPU Cooler - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 20990,
-          "oldPrice": null,
+          "price": 16990,
+          "oldPrice": 20990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Aqua-Elite-360-V3-ARGB-AIO-360mm-Liquid-CPU-Cooler-White-PakByte-Computers-25950851891267.jpg?v=1753671387",
@@ -73865,7 +73887,7 @@
             20990,
             20990,
             20990,
-            20990
+            16990
           ]
         },
         {
@@ -73873,8 +73895,8 @@
           "name": "Thermalright Aqua Elite 240 V3 ARGB AIO 240mm Liquid CPU Cooler - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 15990,
-          "oldPrice": null,
+          "price": 12990,
+          "oldPrice": 15990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Aqua-Elite-240-V3-ARGB-AIO-240mm-Liquid-CPU-Cooler-White-PakByte-Computers-25950830526531.jpg?v=1753671400",
@@ -73891,7 +73913,7 @@
             15990,
             15990,
             15990,
-            15990
+            12990
           ]
         },
         {
@@ -74577,7 +74599,7 @@
           "category": "mouse",
           "price": 1240,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Ugreen-25244-Ergonomic-Mouse-Pad-with-Wrist-Rest-PakByte-Computers-25922460221507.jpg?v=1753671590",
           "url": "https://www.pakbyte.pk/products/ugreen-25245-ergonomic-mouse-pad-with-wrist-rest",
@@ -79163,7 +79185,7 @@
             389990,
             389990,
             389990,
-            389990,
+            434999,
             434999,
             434999,
             434999,
@@ -82319,29 +82341,18 @@
           ]
         },
         {
-          "id": "pakbyte_f0a6fc7b",
-          "name": "Thermalright Frozen Edge 360 White ARGB AIO 360mm Liquid CPU Cooler",
+          "id": "pakbyte_aa4a670c",
+          "name": "Thermalright Frozen Edge 360 ARGB AIO 360mm Liquid CPU Cooler - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 29490,
+          "price": 21990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Frozen-Edge-360-White-ARGB-AIO-360mm-Liquid-CPU-Cooler-PakByte-Computers-25771893653571.jpg?v=1753673082",
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-edge-360-white-argb-aio-360mm-liquid-cpu-cooler",
           "history": [
-            29490,
-            29490,
-            29490,
-            29490,
-            29490,
-            29490,
-            29490,
-            29490,
-            29490,
-            29490,
-            29490,
-            29490
+            21990
           ]
         },
         {
@@ -85762,7 +85773,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-B650-S-Wifi-DDR5-Motherboard-PakByte-Computers-25845535801411.jpg?v=1753674346",
           "url": "https://www.pakbyte.pk/products/msi-pro-b650-s-wifi-ddr5-amd-am5-atx-motherboard",
           "history": [
-            49890,
+            54990,
             54990,
             54990,
             54990,
@@ -85788,7 +85799,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B650M-Project-Zero-Gaming-Motherboard-PakByte-Computers-25845526757443.jpg?v=1753674346",
           "url": "https://www.pakbyte.pk/products/msi-b650m-project-zero-gaming-motherboard",
           "history": [
-            58490,
+            61990,
             61990,
             61990,
             61990,
@@ -85840,7 +85851,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-B650M-Gaming-WIFI-DDR5-Motherboard-PakByte-Computers-25845492351043.jpg?v=1753674360",
           "url": "https://www.pakbyte.pk/products/msi-b650m-gaming-wifi-ddr5-amd-am5-microatx-motherboard",
           "history": [
-            44990,
+            46990,
             46990,
             46990,
             46990,
@@ -101570,7 +101581,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-A520M-A-Gaming-Motherboard-PakByte-Computers-25845414854723.jpg?v=1753677426",
           "url": "https://www.pakbyte.pk/products/msi-a520m-a-pro-amd-am4-microatx-motherboard",
           "history": [
-            20490,
+            21490,
             21490,
             21490,
             21490,
@@ -101622,7 +101633,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Pro-B650M-B-DDR5-Motherboard-PakByte-Computers-25845435465795.jpg?v=1753677436",
           "url": "https://www.pakbyte.pk/products/msi-pro-b650m-b-ddr5-amd-am5-microatx-motherboard",
           "history": [
-            30890,
+            32490,
             32490,
             32490,
             32490,
@@ -102943,7 +102954,7 @@
           "category": "psu",
           "price": 16000,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Corsair-CX-Series-CX550-550W-80-Plus-Bronze-ATX-Power-Supply-PakByte-Computers-24896264110147.jpg?v=1753677744",
           "url": "https://www.pakbyte.pk/products/corsair-cx-series-cx550-550w-80-plus-bronze-atx-power-supply",
@@ -106635,7 +106646,7 @@
           "category": "psu",
           "price": 9400,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/EASE-EB550W-Pro-80-Bronze-Fully-Modular-Power-Supplies-PakByte-Computers-24651027644483.webp?v=1753678413",
           "url": "https://www.pakbyte.pk/products/ease-eb550w-pro-80-bronze-fully-modular-power-supplies",
@@ -113272,7 +113283,7 @@
           "history": [
             143990,
             143990,
-            143990,
+            239999,
             239999,
             239999,
             239999,
@@ -135885,7 +135896,7 @@
           "category": "mouse",
           "price": 9500,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Glorious-XXL-Extended-Gaming-MousePad-Black-PakByte-Computers-24397135380547.jpg?v=1753683900",
           "url": "https://www.pakbyte.pk/products/glorious-xxl-extended-gaming-mousepad-black",
@@ -154064,6 +154075,7 @@
             249999,
             249999,
             249999,
+            249999,
             249999
           ]
         },
@@ -154105,7 +154117,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_powercolor_hellhound_spectral_white_amd_radeon_rx_9060_xt_16gb.webp",
           "url": "https://rbtechngames.com/product/powercolor-hellhound-spectral-white-amd-radeon-rx-9060-xt-16gb-graphics-card",
           "history": [
-            209999,
+            194999,
             194999,
             194999,
             194999,
@@ -154318,7 +154330,7 @@
             104999,
             104999,
             104999,
-            104999,
+            108999,
             108999,
             108999,
             108999,
@@ -154536,7 +154548,7 @@
           ]
         },
         {
-          "id": "rbtechgames_8778cb2f",
+          "id": "rbtechgames_910861a2",
           "name": "Lenovo Legion 5 2026 (15AHP11), AMD Ryzen 7 250, 16GB RAM, 512GB SSD, RTX 5060, 15.3&#8243",
           "brand": "AMD",
           "category": "gpu",
@@ -154547,17 +154559,6 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-ips-display-eclipse-black-used",
           "history": [
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
-            489999,
             489999
           ]
         },
@@ -155027,6 +155028,32 @@
             96999,
             96999,
             96999
+          ]
+        },
+        {
+          "id": "rbtechgames_682fee25",
+          "name": "Asus ROG Crosshair X870E Dark Hero ATX AM5 DDR5 Gaming Motherboard",
+          "brand": "ASUS",
+          "category": "ram",
+          "price": 297999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/10/rbtech_asus_rog_crosshair_x870e_dark_hero.png",
+          "url": "https://rbtechngames.com/product/asus-rog-crosshair-x870e-dark-hero-atx-am5-ddr5-gaming-motherboard",
+          "history": [
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999,
+            297999
           ]
         },
         {
@@ -157901,7 +157928,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_tuf_gaming_rx_9070_xt_oc.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-gaming-radeon-rx-9070-xt-16gb-oc-graphics-card",
           "history": [
-            334999,
+            344999,
             344999,
             344999,
             344999,
@@ -158219,12 +158246,38 @@
             474999,
             474999,
             474999,
-            474999,
+            524999,
             524999,
             524999,
             524999,
             524999,
             524999
+          ]
+        },
+        {
+          "id": "rbtechgames_9e080c91",
+          "name": "Asus ROG Astral GeForce RTX 5090 32GB White OC Edition Graphics Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 3199999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_astral_rtx_5090_oc_white.png",
+          "url": "https://rbtechngames.com/product/asus-rog-astral-geforce-rtx-5090-32gb-white-oc-edition-graphics-card",
+          "history": [
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999,
+            3199999
           ]
         },
         {
@@ -159903,12 +159956,12 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2022/09/zotac_rtx_3060_1-1.jpg",
           "url": "https://rbtechngames.com/product/zotac-gaming-geforce-rtx-3060-twin-edge-12gb-used",
           "history": [
-            99999,
             114999,
             114999,
             114999,
             114999,
             114999,
+            109999,
             109999,
             109999,
             109999,
@@ -164579,164 +164632,7 @@
       "url": "https://www.paklap.pk",
       "city": "Nationwide",
       "verified": true,
-      "products": [
-        {
-          "id": "paklap_2b437f24",
-          "name": "Ninja Nvidia GeForce 4GB GT 730 128-Bit Graphic Card",
-          "brand": "NVIDIA",
-          "category": "gpu",
-          "price": 24900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/d/o/download_80__1.jpg",
-          "url": "https://www.paklap.pk/ninja-nvidia-geforce-4gb-gt-730-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900,
-            24900
-          ]
-        },
-        {
-          "id": "paklap_842a569c",
-          "name": "EASE GeForce RTX 3050 6GB GDDR6 128-Bit Graphics Card",
-          "brand": "EASE",
-          "category": "gpu",
-          "price": 75900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/e/a/ease_geforce_rtx_3050_gddr6_128-bit_graphics_card_2.jpg",
-          "url": "https://www.paklap.pk/ease-geforce-rtx-3050-gddr6-128-bit-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900,
-            75900
-          ]
-        },
-        {
-          "id": "paklap_81761541",
-          "name": "MSI GeForce RTX 4060 Ti Gaming X Trio 8G (8GB GDDR6/PCI Express 4.0/2685MHz/18000MHz)",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 166900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/7/1/713uqznzghl._ac_sx679_.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4060-ti-gaming-x-trio-8g-8gb-gddr6-pci-express-4-0-2685mhz-18000mhz.html",
-          "history": [
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900,
-            166900
-          ]
-        },
-        {
-          "id": "paklap_a291d46d",
-          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 2x OC GDDR6X 256-Bit Graphics Card (White)",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 305900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_2x_oc_gddr6x_256-bit_graphics_card_white_.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-2x-oc-256-bit-graphic-card-white-price-reviews-pakistan.html",
-          "history": [
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900,
-            305900
-          ]
-        },
-        {
-          "id": "paklap_95010bc1",
-          "name": "MSI GeForce RTX 4070 Ti Super 16GB Ventus 3X OC GDDR6X 256-Bit Graphics Card",
-          "brand": "MSI",
-          "category": "gpu",
-          "price": 310900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/m/s/msi_geforce_rtx_4070_ti_super_16gb_ventus_3x_oc_gddr6x_256-bit_graphics_card_1.jpg",
-          "url": "https://www.paklap.pk/msi-geforce-rtx-4070-ti-super-16gb-ventus-3x-oc-256-bit-graphic-card-price-reviews-pakistan.html",
-          "history": [
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900,
-            310900
-          ]
-        },
-        {
-          "id": "paklap_f39f7953",
-          "name": "PALIT NVIDIA GeForce 16GB RTX4080 Gaming Pro 256-Bit GDDR6X",
-          "brand": "NVIDIA",
-          "category": "gpu",
-          "price": 372900,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/p/a/palit_nvidia_geforce_16gb_rtx4080_gaming_pro_gddr6x.jpg",
-          "url": "https://www.paklap.pk/palit-nvidia-geforce-16gb-rtx-4080-gaming-pro-256-bit-gddr6x-price-reviews-pakistan.html",
-          "history": [
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900,
-            372900
-          ]
-        }
-      ]
+      "products": []
     },
     {
       "id": "sigma",
