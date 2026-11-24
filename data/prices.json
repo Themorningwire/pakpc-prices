@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T03:50:36.697127+00:00",
+  "lastUpdated": "2026-11-24T17:00:39.442698+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -21,6 +21,7 @@
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-vision-360-argb-v2-aio-360mm-liquid-cpu-cooler-black",
           "history": [
             36990,
+            36990,
             36990
           ]
         },
@@ -36,6 +37,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-pf600x-price-in-pakistan-pakbyte_3.webp?v=1795258468",
           "url": "https://www.pakbyte.pk/products/deepcool-pf600x-600w-80-plus-bronze-power-supply",
           "history": [
+            12490,
             12490,
             12490,
             12490,
@@ -65,6 +67,7 @@
             17490,
             17490,
             17490,
+            17490,
             17490
           ]
         },
@@ -80,6 +83,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-gamerstorm-pf750d-v2-750w-80-plus-silver-power-supply-price-in-pakistan-pakbyte.webp?v=1795257431",
           "url": "https://www.pakbyte.pk/products/deepcool-pf750d-v2-750w-80-plus-silver-power-supply",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -109,6 +113,7 @@
             13990,
             13990,
             13990,
+            13990,
             13990
           ]
         },
@@ -124,6 +129,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/mchose-v9-pro-2-price-in-pakistan-pakbyte_1.webp?v=1795254470",
           "url": "https://www.pakbyte.pk/products/mchose-v9-pro-2-wireless-gaming-headset-green-black",
           "history": [
+            13990,
             13990,
             13990,
             13990,
@@ -5679,7 +5685,7 @@
           "category": "gpu",
           "price": 93999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/zotac-rtx-3060-blower-edition-pakbyte.jpg?v=1791380036",
           "url": "https://www.pakbyte.pk/products/zotac-geforce-rtx-3060-blower-edition-12gb-graphics-card",
@@ -14501,7 +14507,7 @@
             39490,
             39490,
             39490,
-            39490,
+            33490,
             33490,
             33490,
             33490,
@@ -15515,7 +15521,7 @@
             40490,
             40490,
             40490,
-            40490,
+            33490,
             33490,
             33490,
             33490,
@@ -16365,7 +16371,7 @@
           "category": "mouse",
           "price": 6290,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/eweadn-x23-pro-price-in-pakistan-pakbyte_1.webp?v=1781763908",
           "url": "https://www.pakbyte.pk/products/eweadn-x23-pro-wireless-gaming-mouse-white",
@@ -17107,7 +17113,7 @@
             89990,
             89990,
             89990,
-            89990,
+            99990,
             99990,
             99990
           ]
@@ -18809,7 +18815,7 @@
           "category": "keyboard",
           "price": 7490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AULA-WIN68HE-Black-Price-in-pakistan-pakbyte.jpg?v=1778414397",
           "url": "https://www.pakbyte.pk/products/aula-win68he-gray-wood-magnetic-rt-extreme-response-gaming-keyboard-black",
@@ -19343,7 +19349,7 @@
             489999,
             489999,
             489999,
-            489999,
+            684999,
             684999,
             684999
           ]
@@ -19551,7 +19557,7 @@
             24490,
             24490,
             24490,
-            24490,
+            25790,
             25790,
             25790
           ]
@@ -19577,7 +19583,7 @@
             23990,
             23990,
             23990,
-            23990,
+            24990,
             24990,
             24990
           ]
@@ -19603,7 +19609,7 @@
             20990,
             20990,
             20990,
-            20990,
+            21790,
             21790,
             21790
           ]
@@ -19629,7 +19635,7 @@
             20490,
             20490,
             20490,
-            20490,
+            20990,
             20990,
             20990
           ]
@@ -27959,8 +27965,8 @@
           "name": "Thermalright AT-1650 1650W 80 Plus Titanium Fully Modular ATX 3.1 Power Supply",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 111990,
-          "oldPrice": null,
+          "price": 118990,
+          "oldPrice": 111990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-at-1650-price-in-pakistan-pakbyte.webp?v=1772168977",
@@ -27977,7 +27983,7 @@
             111990,
             111990,
             111990,
-            111990
+            118990
           ]
         },
         {
@@ -28427,8 +28433,8 @@
           "name": "Thermalright Trofeo Vision LCD AIO Display 9.16” PC Monitor - White",
           "brand": "Thermalright",
           "category": "monitor",
-          "price": 17990,
-          "oldPrice": null,
+          "price": 19490,
+          "oldPrice": 17990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Trofeo-Vision-LCD-price-in-pakistan-pakbyte_1.jpg?v=1771997108",
@@ -28445,7 +28451,7 @@
             17990,
             17990,
             17990,
-            17990
+            19490
           ]
         },
         {
@@ -28453,8 +28459,8 @@
           "name": "Thermalright Trofeo Vision LCD AIO Display 9.16” PC Monitor - Black",
           "brand": "Thermalright",
           "category": "monitor",
-          "price": 16990,
-          "oldPrice": null,
+          "price": 18490,
+          "oldPrice": 16990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-trofeo-vision-lcd-price-in-pakistan-pakbyte_9.webp?v=1771996644",
@@ -28471,7 +28477,7 @@
             16990,
             16990,
             16990,
-            16990
+            18490
           ]
         },
         {
@@ -30699,7 +30705,7 @@
             29990,
             29990,
             29990,
-            29990,
+            25490,
             25490,
             25490,
             25490,
@@ -30725,7 +30731,7 @@
             28990,
             28990,
             28990,
-            28990,
+            25490,
             25490,
             25490,
             25490,
@@ -48151,7 +48157,7 @@
             42990,
             42990,
             42990,
-            42990,
+            39490,
             39490,
             39490
           ]
@@ -48177,7 +48183,7 @@
             49990,
             49990,
             49990,
-            49990,
+            47990,
             47990,
             47990
           ]
@@ -48203,7 +48209,7 @@
             49990,
             49990,
             49990,
-            49990,
+            47990,
             47990,
             47990
           ]
@@ -53725,8 +53731,8 @@
           "name": "Thermalright AX-1000 1000W 80 Plus Gold Fully Modular Power Supply",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 34490,
-          "oldPrice": null,
+          "price": 39490,
+          "oldPrice": 34490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-ax-1000-price-in-pakistan-pakbyte_2.webp?v=1759330170",
@@ -53743,7 +53749,7 @@
             34490,
             34490,
             34490,
-            34490
+            39490
           ]
         },
         {
@@ -54037,8 +54043,8 @@
           "name": "Thermalright KG-750-W 750W 80 Plus Gold Fully Modular Power Supply - White",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 23999,
-          "oldPrice": null,
+          "price": 22490,
+          "oldPrice": 23999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-kg-750-w-price-in-pakistan-pakbyte_2.webp?v=1759249338",
@@ -54055,7 +54061,7 @@
             23999,
             23999,
             23999,
-            23999
+            22490
           ]
         },
         {
@@ -56751,7 +56757,7 @@
             19490,
             19490,
             19490,
-            19490,
+            16990,
             16990,
             16990,
             16990,
@@ -56777,7 +56783,7 @@
             19990,
             19990,
             19990,
-            19990,
+            16990,
             16990,
             16990,
             16990,
@@ -61775,7 +61781,7 @@
             1149799,
             1149799,
             1149799,
-            1149799,
+            2649999,
             2649999,
             2649999
           ]
@@ -67089,8 +67095,8 @@
           "name": "Thermalright AG-1000 1000W 80 Plus Gold Fully Modular ATX 3.1 Power Supply",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 40990,
-          "oldPrice": null,
+          "price": 39490,
+          "oldPrice": 40990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-AG-1000-1000W-80-Plus-Gold-Fully-Modular-ATX-3-1-Power-Supply-PakByte-Computers-26298319175747.jpg?v=1753670353",
@@ -67107,7 +67113,7 @@
             40990,
             40990,
             40990,
-            40990
+            39490
           ]
         },
         {
@@ -68495,7 +68501,7 @@
           "category": "mouse",
           "price": 7490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-SE-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167567810627.jpg?v=1753670555",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-se-wireless-gaming-mouse-black",
@@ -68521,7 +68527,7 @@
           "category": "mouse",
           "price": 7490,
           "oldPrice": null,
-          "inStock": false,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-SE-White-Wireless-Gaming-Mouse-PakByte-Computers-26167566204995.jpg?v=1753670555",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-se-white-wireless-gaming-mouse",
@@ -71797,7 +71803,7 @@
           "category": "motherboard",
           "price": 45390,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Colorful-BATTLE-AX-B650M-PLUS-WiFi-V15-AM5-microATX-Motherboard-PakByte-Computers-26040684609603.webp?v=1748004357",
           "url": "https://www.pakbyte.pk/products/colorful-battle-ax-b650m-plus-wifi-v15-am5-microatx-motherboard",
@@ -73797,8 +73803,8 @@
           "name": "Thermalright Fan Hub X4 Fan Hub Controller",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1499,
-          "oldPrice": null,
+          "price": 1290,
+          "oldPrice": 1499,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Fan-Hub-X4-Fan-Hub-Controller-PakByte-Computers-25950882168899.jpg?v=1753671375",
@@ -73815,7 +73821,7 @@
             1499,
             1499,
             1499,
-            1499
+            1290
           ]
         },
         {
@@ -73891,7 +73897,7 @@
             20990,
             20990,
             20990,
-            20990,
+            16990,
             16990,
             16990
           ]
@@ -73917,7 +73923,7 @@
             15990,
             15990,
             15990,
-            15990,
+            12990,
             12990,
             12990
           ]
@@ -79189,7 +79195,7 @@
             389990,
             389990,
             389990,
-            389990,
+            434999,
             434999,
             434999,
             434999,
@@ -82358,6 +82364,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Frozen-Edge-360-White-ARGB-AIO-360mm-Liquid-CPU-Cooler-PakByte-Computers-25771893653571.jpg?v=1753673082",
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-edge-360-white-argb-aio-360mm-liquid-cpu-cooler",
           "history": [
+            21990,
             21990,
             21990
           ]
@@ -86969,8 +86976,8 @@
           "name": "Thermalright TG-1000 1000W 80+ Gold Fully Modular Power Supply - Black",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 34490,
-          "oldPrice": null,
+          "price": 33990,
+          "oldPrice": 34490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-TG-1000-1000W-80-Gold-Fully-Modular-Power-Supply-Black-PakByte-Computers-25832131657795.jpg?v=1753674561",
@@ -86987,7 +86994,7 @@
             34490,
             34490,
             34490,
-            34490
+            33990
           ]
         },
         {
@@ -86995,8 +87002,8 @@
           "name": "Thermalright TG-1000-W 1000W 80 Plus Gold Fully Modular Power Supply - White",
           "brand": "Thermalright",
           "category": "psu",
-          "price": 35490,
-          "oldPrice": null,
+          "price": 33990,
+          "oldPrice": 35490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-TG-1000-W-1000W-ATX-3-0-PCIe-5-0-80-Gold-Full-Modular-Power-Supply-White-PakByte-Computers-25832139194435.jpg?v=1753674573",
@@ -87013,7 +87020,7 @@
             35490,
             35490,
             35490,
-            35490
+            33990
           ]
         },
         {
@@ -87151,8 +87158,8 @@
           "name": "Thermalright TL-M12W-S Case Fan - White",
           "brand": "Thermalright",
           "category": "cooler",
-          "price": 1690,
-          "oldPrice": null,
+          "price": 3190,
+          "oldPrice": 1690,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-TL-M12W-S-Case-Fan-White-PakByte-Computers-25832254767171.jpg?v=1753674600",
@@ -87169,7 +87176,7 @@
             1690,
             1690,
             1690,
-            1690
+            3190
           ]
         },
         {
@@ -112789,7 +112796,7 @@
           "category": "headset",
           "price": 7340,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Redragon-H320W-LAMIA-2-RGB-Gaming-Headset-With-Noise-Cancellation-White-PakByte-Computers-24397789429827.webp?v=1753679383",
           "url": "https://www.pakbyte.pk/products/redragon-h320w-lamia-2-rgb-gaming-headset-with-noise-cancellation-white",
@@ -113288,7 +113295,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ZOTAC-GAMING-GEFORCE-RTX-4060-Ti-16GB-AMP-SPIDER-MAN-Across-the-Spider-Verse-Bundle-PakByte-Computers-24397778976835.webp?v=1753679493",
           "url": "https://www.pakbyte.pk/products/zotac-gaming-geforce-rtx-4060-ti-16gb-amp-spider-man-across-the-spider-verse-bundle",
           "history": [
-            143990,
+            239999,
             239999,
             239999,
             239999,
@@ -128753,7 +128760,7 @@
           "category": "cpu",
           "price": 49999,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AMD-Ryzen-7-5700X-8-Core-16-Thread-Unlocked-Desktop-Processor-Tray-PakByte-Computers-24397456572483.webp?v=1753682151",
           "url": "https://www.pakbyte.pk/products/amd-ryzen-7-5700x-desktop-processor-tray",
@@ -154078,6 +154085,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_gigabyte_rtx_3080_vision_oc.png",
           "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-3080-vision-oc-10gb-graphics-card-used",
           "history": [
+            147999,
             147999
           ]
         },
@@ -154093,6 +154101,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_asus_tuf_dash_f15_2022_off_black.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-dash-f15-2022-fx517z-intel-core-i7-12th-gen-16gb-ram-512gb-ssd-rtx-3060-15-6-fhd-144hz-ips-display-off-black-used",
           "history": [
+            249999,
             249999,
             249999,
             249999,
@@ -154351,7 +154360,7 @@
             104999,
             104999,
             104999,
-            104999,
+            108999,
             108999,
             108999,
             108999,
@@ -154582,6 +154591,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-ips-display-eclipse-black-used",
           "history": [
+            489999,
             489999,
             489999
           ]
@@ -156723,8 +156733,8 @@
           "name": "Lexar Ares RGB 2nd Gen 64GB (2x32GB) 6400MHz CL32 DDR5 Desktop Memory &#8211; Black (USED)",
           "brand": "Lexar",
           "category": "ram",
-          "price": 374999,
-          "oldPrice": null,
+          "price": 299999,
+          "oldPrice": 374999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_lexar_ares_rgb_2nd_gen_ddr5.webp",
@@ -156741,7 +156751,7 @@
             374999,
             374999,
             374999,
-            374999
+            299999
           ]
         },
         {
@@ -158268,7 +158278,7 @@
             474999,
             474999,
             474999,
-            474999,
+            524999,
             524999,
             524999,
             524999,
@@ -159033,32 +159043,6 @@
           ]
         },
         {
-          "id": "rbtechgames_87627ad9",
-          "name": "Rapoo V30L Wireless E-Sports Gaming Mouse &#8211; Black",
-          "brand": "Rapoo",
-          "category": "mouse",
-          "price": 7499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_rapoo_v30l.webp",
-          "url": "https://rbtechngames.com/product/rapoo-v30l-wireless-e-sports-gaming-mouse-black",
-          "history": [
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499,
-            7499
-          ]
-        },
-        {
           "id": "rbtechgames_7f6a5a89",
           "name": "Rapoo V25S RGB Optical Wired Gaming Mouse &#8211; Black",
           "brand": "Rapoo",
@@ -159531,8 +159515,8 @@
           "name": "Crucial Pro OC 64GB (2x32GB) 6000MT/s CL40 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Crucial",
           "category": "ram",
-          "price": 364999,
-          "oldPrice": null,
+          "price": 324999,
+          "oldPrice": 364999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_crucial_pro_oc_ddr5_black.png",
@@ -159549,7 +159533,7 @@
             364999,
             364999,
             364999,
-            364999
+            324999
           ]
         },
         {
@@ -159583,8 +159567,8 @@
           "name": "Crucial Pro OC 64GB (2x32GB) 6400MT/s CL40 DDR5 Desktop Memory &#8211; Black/White",
           "brand": "Crucial",
           "category": "ram",
-          "price": 274999,
-          "oldPrice": null,
+          "price": 324999,
+          "oldPrice": 274999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_crucial_pro_oc_ddr5_black.png",
@@ -159601,7 +159585,7 @@
             274999,
             274999,
             274999,
-            274999
+            324999
           ]
         },
         {
@@ -160035,7 +160019,7 @@
             114999,
             114999,
             114999,
-            114999,
+            109999,
             109999,
             109999,
             109999,
@@ -160077,8 +160061,8 @@
           "name": "Asus TUF Gaming GeForce RTX 5070 12GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 343999,
-          "oldPrice": 329999,
+          "price": 339999,
+          "oldPrice": 343999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_asus_tuf_gaming_rtx_5070_12gb_oc_4.webp",
@@ -160094,8 +160078,8 @@
             329999,
             329999,
             329999,
-            329999,
-            343999
+            343999,
+            339999
           ]
         },
         {
@@ -161195,8 +161179,8 @@
           "name": "Asus Prime GeForce RTX 5070 12GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 329999,
-          "oldPrice": 279999,
+          "price": 324999,
+          "oldPrice": 329999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_asus_prime_rtx_5070_12gb_oc_5.png",
@@ -161212,8 +161196,8 @@
             279999,
             279999,
             279999,
-            279999,
-            329999
+            329999,
+            324999
           ]
         },
         {
@@ -164656,7 +164640,112 @@
       "url": "https://www.paklap.pk",
       "city": "Nationwide",
       "verified": true,
-      "products": []
+      "products": [
+        {
+          "id": "paklap_2b437f24",
+          "name": "Ninja Nvidia GeForce 4GB GT 730 128-Bit Graphic Card",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 24900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/d/o/download_80__1.jpg",
+          "url": "https://www.paklap.pk/ninja-nvidia-geforce-4gb-gt-730-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900,
+            24900
+          ]
+        },
+        {
+          "id": "paklap_842a569c",
+          "name": "EASE GeForce RTX 3050 6GB GDDR6 128-Bit Graphics Card",
+          "brand": "EASE",
+          "category": "gpu",
+          "price": 75900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/e/a/ease_geforce_rtx_3050_gddr6_128-bit_graphics_card_2.jpg",
+          "url": "https://www.paklap.pk/ease-geforce-rtx-3050-gddr6-128-bit-graphic-card-price-reviews-pakistan.html",
+          "history": [
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900,
+            75900
+          ]
+        },
+        {
+          "id": "paklap_81761541",
+          "name": "MSI GeForce RTX 4060 Ti Gaming X Trio 8G (8GB GDDR6/PCI Express 4.0/2685MHz/18000MHz)",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 166900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/7/1/713uqznzghl._ac_sx679_.jpg",
+          "url": "https://www.paklap.pk/msi-geforce-rtx-4060-ti-gaming-x-trio-8g-8gb-gddr6-pci-express-4-0-2685mhz-18000mhz.html",
+          "history": [
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900,
+            166900
+          ]
+        },
+        {
+          "id": "paklap_f39f7953",
+          "name": "PALIT NVIDIA GeForce 16GB RTX4080 Gaming Pro 256-Bit GDDR6X",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 372900,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://www.paklap.pk/media/catalog/product/cache/aa00bc85d0f554bb56f3e16e55e21cbc/p/a/palit_nvidia_geforce_16gb_rtx4080_gaming_pro_gddr6x.jpg",
+          "url": "https://www.paklap.pk/palit-nvidia-geforce-16gb-rtx-4080-gaming-pro-256-bit-gddr6x-price-reviews-pakistan.html",
+          "history": [
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900,
+            372900
+          ]
+        }
+      ]
     },
     {
       "id": "sigma",
