@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T17:44:55.366627+00:00",
+  "lastUpdated": "2026-11-24T03:50:36.697127+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -20,6 +20,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-vision-360-argb-black-v2-price-in-pakistan-pakbyte_1.webp?v=1795445525",
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-vision-360-argb-v2-aio-360mm-liquid-cpu-cooler-black",
           "history": [
+            36990,
             36990
           ]
         },
@@ -35,6 +36,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-pf600x-price-in-pakistan-pakbyte_3.webp?v=1795258468",
           "url": "https://www.pakbyte.pk/products/deepcool-pf600x-600w-80-plus-bronze-power-supply",
           "history": [
+            12490,
             12490,
             12490,
             12490,
@@ -62,6 +64,7 @@
             17490,
             17490,
             17490,
+            17490,
             17490
           ]
         },
@@ -77,6 +80,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/deepcool-gamerstorm-pf750d-v2-750w-80-plus-silver-power-supply-price-in-pakistan-pakbyte.webp?v=1795257431",
           "url": "https://www.pakbyte.pk/products/deepcool-pf750d-v2-750w-80-plus-silver-power-supply",
           "history": [
+            15990,
             15990,
             15990,
             15990,
@@ -104,6 +108,7 @@
             13990,
             13990,
             13990,
+            13990,
             13990
           ]
         },
@@ -119,6 +124,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/mchose-v9-pro-2-price-in-pakistan-pakbyte_1.webp?v=1795254470",
           "url": "https://www.pakbyte.pk/products/mchose-v9-pro-2-wireless-gaming-headset-green-black",
           "history": [
+            13990,
             13990,
             13990,
             13990,
@@ -14496,7 +14502,7 @@
             39490,
             39490,
             39490,
-            39490,
+            33490,
             33490,
             33490,
             33490,
@@ -15510,7 +15516,7 @@
             40490,
             40490,
             40490,
-            40490,
+            33490,
             33490,
             33490,
             33490,
@@ -17086,7 +17092,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 99990,
-          "oldPrice": 89990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Dual-RTX-3060Ti-Graphics-Card-Price-in-Pakistan-Pakbyte_1.webp?v=1780550007",
@@ -17102,7 +17108,7 @@
             89990,
             89990,
             89990,
-            89990,
+            99990,
             99990
           ]
         },
@@ -19322,7 +19328,7 @@
           "brand": "ASUS",
           "category": "gpu",
           "price": 684999,
-          "oldPrice": 489999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-proart-rtx-5080-oc-edition-price-in-pakistan-pakbyte_1.webp?v=1778136480",
@@ -19338,7 +19344,7 @@
             489999,
             489999,
             489999,
-            489999,
+            684999,
             684999
           ]
         },
@@ -19530,7 +19536,7 @@
           "brand": "Thermalright",
           "category": "ram",
           "price": 25790,
-          "oldPrice": 24490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-warframe-360-se-argb-white-v2-price-in-pakistan-pakbyte_1.webp?v=1777877872",
@@ -19546,7 +19552,7 @@
             24490,
             24490,
             24490,
-            24490,
+            25790,
             25790
           ]
         },
@@ -19556,7 +19562,7 @@
           "brand": "Thermalright",
           "category": "ram",
           "price": 24990,
-          "oldPrice": 23990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-warframe-360-se-argb-black-v2-price-in-pakistan-pakbyte_1.webp?v=1777877624",
@@ -19572,7 +19578,7 @@
             23990,
             23990,
             23990,
-            23990,
+            24990,
             24990
           ]
         },
@@ -19582,7 +19588,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 21790,
-          "oldPrice": 20990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-horizon-360-digital-argb-white-price-in-pakistan-pakbyte_1.webp?v=1777877330",
@@ -19598,7 +19604,7 @@
             20990,
             20990,
             20990,
-            20990,
+            21790,
             21790
           ]
         },
@@ -19608,7 +19614,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 20990,
-          "oldPrice": 20490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-horizon-360-digital-argb-cooler-price-in-pakistan-pakbyte_1.webp?v=1777877047",
@@ -19624,7 +19630,7 @@
             20490,
             20490,
             20490,
-            20490,
+            20990,
             20990
           ]
         },
@@ -30694,7 +30700,7 @@
             29990,
             29990,
             29990,
-            29990,
+            25490,
             25490,
             25490,
             25490,
@@ -30720,7 +30726,7 @@
             28990,
             28990,
             28990,
-            28990,
+            25490,
             25490,
             25490,
             25490,
@@ -48130,7 +48136,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 39490,
-          "oldPrice": 42990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-stream-vision-360-black-price-in-pakistan-pakbyte_3.webp?v=1763447124",
@@ -48146,7 +48152,7 @@
             42990,
             42990,
             42990,
-            42990,
+            39490,
             39490
           ]
         },
@@ -48156,7 +48162,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 47990,
-          "oldPrice": 49990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-hyper-vision-360-argb-white-price-in-pakistan-pakbyte_2.webp?v=1763445519",
@@ -48172,7 +48178,7 @@
             49990,
             49990,
             49990,
-            49990,
+            47990,
             47990
           ]
         },
@@ -48182,7 +48188,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 47990,
-          "oldPrice": 49990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Hyper-Vision-360-ARGB-AIO-CPU-Liquid-Cooler-Black_1.jpg?v=1763444809",
@@ -48198,7 +48204,7 @@
             49990,
             49990,
             49990,
-            49990,
+            47990,
             47990
           ]
         },
@@ -56746,7 +56752,7 @@
             19490,
             19490,
             19490,
-            19490,
+            16990,
             16990,
             16990,
             16990,
@@ -56772,7 +56778,7 @@
             19990,
             19990,
             19990,
-            19990,
+            16990,
             16990,
             16990,
             16990,
@@ -61754,7 +61760,7 @@
           "brand": "MSI",
           "category": "gpu",
           "price": 2649999,
-          "oldPrice": 1149799,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-5090-32g-suprim-soc-gpu_1.jpg?v=1754399814",
@@ -61770,7 +61776,7 @@
             1149799,
             1149799,
             1149799,
-            1149799,
+            2649999,
             2649999
           ]
         },
@@ -68489,7 +68495,7 @@
           "category": "mouse",
           "price": 7490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ATK-VXE-Dragonfly-R1-SE-Wireless-Gaming-Mouse-Black-PakByte-Computers-26167567810627.jpg?v=1753670555",
           "url": "https://www.pakbyte.pk/products/atk-vxe-dragonfly-r1-se-wireless-gaming-mouse-black",
@@ -73870,7 +73876,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 16990,
-          "oldPrice": 20990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Aqua-Elite-360-V3-ARGB-AIO-360mm-Liquid-CPU-Cooler-White-PakByte-Computers-25950851891267.jpg?v=1753671387",
@@ -73886,7 +73892,7 @@
             20990,
             20990,
             20990,
-            20990,
+            16990,
             16990
           ]
         },
@@ -73896,7 +73902,7 @@
           "brand": "Thermalright",
           "category": "cooler",
           "price": 12990,
-          "oldPrice": 15990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Aqua-Elite-240-V3-ARGB-AIO-240mm-Liquid-CPU-Cooler-White-PakByte-Computers-25950830526531.jpg?v=1753671400",
@@ -73912,7 +73918,7 @@
             15990,
             15990,
             15990,
-            15990,
+            12990,
             12990
           ]
         },
@@ -79184,7 +79190,7 @@
             389990,
             389990,
             389990,
-            389990,
+            434999,
             434999,
             434999,
             434999,
@@ -82352,6 +82358,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Frozen-Edge-360-White-ARGB-AIO-360mm-Liquid-CPU-Cooler-PakByte-Computers-25771893653571.jpg?v=1753673082",
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-edge-360-white-argb-aio-360mm-liquid-cpu-cooler",
           "history": [
+            21990,
             21990
           ]
         },
@@ -113282,7 +113289,7 @@
           "url": "https://www.pakbyte.pk/products/zotac-gaming-geforce-rtx-4060-ti-16gb-amp-spider-man-across-the-spider-verse-bundle",
           "history": [
             143990,
-            143990,
+            239999,
             239999,
             239999,
             239999,
@@ -154060,6 +154067,21 @@
       "verified": true,
       "products": [
         {
+          "id": "rbtechgames_8453f076",
+          "name": "Gigabyte GeForce RTX 3080 Vision OC 10GB Graphics Card – USED",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 147999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_gigabyte_rtx_3080_vision_oc.png",
+          "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-3080-vision-oc-10gb-graphics-card-used",
+          "history": [
+            147999
+          ]
+        },
+        {
           "id": "rbtechgames_d2d9c1d3",
           "name": "Asus Tuf Dash F15 2022 (FX517Z), Intel Core i7 12th Gen, 16GB RAM, 512GB SSD, RTX 3060, 15",
           "brand": "ASUS",
@@ -154071,6 +154093,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_asus_tuf_dash_f15_2022_off_black.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-dash-f15-2022-fx517z-intel-core-i7-12th-gen-16gb-ram-512gb-ssd-rtx-3060-15-6-fhd-144hz-ips-display-off-black-used",
           "history": [
+            249999,
             249999,
             249999,
             249999,
@@ -154329,7 +154352,7 @@
             104999,
             104999,
             104999,
-            104999,
+            108999,
             108999,
             108999,
             108999,
@@ -154559,6 +154582,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-ips-display-eclipse-black-used",
           "history": [
+            489999,
             489999
           ]
         },
@@ -158245,7 +158269,7 @@
             474999,
             474999,
             474999,
-            474999,
+            524999,
             524999,
             524999,
             524999,
@@ -159503,6 +159527,32 @@
           ]
         },
         {
+          "id": "rbtechgames_80940066",
+          "name": "Crucial Pro OC 64GB (2x32GB) 6000MT/s CL40 DDR5 Desktop Memory &#8211; Black/White",
+          "brand": "Crucial",
+          "category": "ram",
+          "price": 364999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_crucial_pro_oc_ddr5_black.png",
+          "url": "https://rbtechngames.com/product/crucial-pro-oc-64gb-2x32gb-6000mt-s-cl40-ddr5-desktop-memory-black-white",
+          "history": [
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999,
+            364999
+          ]
+        },
+        {
           "id": "rbtechgames_3946f100",
           "name": "Attack Shark R11 Ultra Carbon Fiber Wireless 8K Mouse &#8211; Forged Black/Weave Black",
           "brand": "Attack",
@@ -159526,6 +159576,32 @@
             21999,
             21999,
             21999
+          ]
+        },
+        {
+          "id": "rbtechgames_2e2df808",
+          "name": "Crucial Pro OC 64GB (2x32GB) 6400MT/s CL40 DDR5 Desktop Memory &#8211; Black/White",
+          "brand": "Crucial",
+          "category": "ram",
+          "price": 274999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_crucial_pro_oc_ddr5_black.png",
+          "url": "https://rbtechngames.com/product/crucial-pro-oc-64gb-2x32gb-6400mt-s-cl40-ddr5-desktop-memory-black-white",
+          "history": [
+            274999,
+            274999,
+            274999,
+            274999,
+            274999,
+            274999,
+            274999,
+            274999,
+            274999,
+            274999,
+            274999,
+            274999
           ]
         },
         {
@@ -159960,7 +160036,7 @@
             114999,
             114999,
             114999,
-            114999,
+            109999,
             109999,
             109999,
             109999,
@@ -160001,8 +160077,8 @@
           "name": "Asus TUF Gaming GeForce RTX 5070 12GB OC Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 329999,
-          "oldPrice": null,
+          "price": 343999,
+          "oldPrice": 329999,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/12/rbtech_asus_tuf_gaming_rtx_5070_12gb_oc_4.webp",
@@ -160019,7 +160095,7 @@
             329999,
             329999,
             329999,
-            329999
+            343999
           ]
         },
         {
@@ -160621,32 +160697,6 @@
           ]
         },
         {
-          "id": "rbtechgames_6f51d93e",
-          "name": "Gigabyte GeForce RTX 5080 Windforce OC SFF 16GB Graphics Card",
-          "brand": "Gigabyte",
-          "category": "gpu",
-          "price": 679999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2025/08/rbtech_gigabyte_rtx_5080_windforce_oc_sff_16gb.webp",
-          "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-5080-windforce-oc-sff-16gb-graphics-card",
-          "history": [
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999,
-            679999
-          ]
-        },
-        {
           "id": "rbtechgames_d1edf714",
           "name": "Crucial P310 NVMe 2280 M.2 PCIe Gen 4 SSD &#8211; 500GB/1TB/2TB/4TB (Non-Heatsink/Heatsink",
           "brand": "Crucial",
@@ -161138,6 +161188,32 @@
             274999,
             274999,
             274999
+          ]
+        },
+        {
+          "id": "rbtechgames_00fa6dc1",
+          "name": "Asus Prime GeForce RTX 5070 12GB OC Graphics Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 329999,
+          "oldPrice": 279999,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://rbtechngames.com/wp-content/uploads/2025/06/rbtech_asus_prime_rtx_5070_12gb_oc_5.png",
+          "url": "https://rbtechngames.com/product/asus-prime-geforce-rtx-5070-12gb-oc-graphics-card",
+          "history": [
+            279999,
+            279999,
+            279999,
+            279999,
+            279999,
+            279999,
+            279999,
+            279999,
+            279999,
+            279999,
+            279999,
+            329999
           ]
         },
         {
@@ -162490,58 +162566,6 @@
             59999,
             59999,
             59999
-          ]
-        },
-        {
-          "id": "rbtechgames_9a36c822",
-          "name": "MSI PRO H610M-S DDR4 M-ATX LGA 1700 Gaming Motherboard",
-          "brand": "MSI",
-          "category": "ram",
-          "price": 24499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/08/rbtech_msi_pro_h610m-s_ddr4.png",
-          "url": "https://rbtechngames.com/product/msi-pro-h610m-s-ddr4-m-atx-lga-1700-gaming-motherboard",
-          "history": [
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499
-          ]
-        },
-        {
-          "id": "rbtechgames_c1e93eb7",
-          "name": "MSI B650M Gaming WIFI DDR5 M-ATX AM5 Gaming Motherboard",
-          "brand": "MSI",
-          "category": "ram",
-          "price": 44999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/08/rbtech_gigabyte_b650m_gaming_wifi.png",
-          "url": "https://rbtechngames.com/product/msi-b650m-gaming-wifi-ddr5-m-atx-am5-gaming-motherboard",
-          "history": [
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999,
-            44999
           ]
         },
         {
