@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T01:36:54.344844+00:00",
+  "lastUpdated": "2026-11-26T16:27:46.762955+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -9,48 +9,168 @@
       "verified": true,
       "products": [
         {
-          "id": "pakbyte_b5b73f96",
-          "name": "Gigabyte C201 PANORAMIC PC Case with 3 ARGB Fans",
-          "brand": "Gigabyte",
-          "category": "ram",
-          "price": 16490,
+          "id": "pakbyte_f0fb4110",
+          "name": "Asus Tuf Gaming Radeon RX 6800 OC Edition Graphics Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 117990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-CASING-GB-C201P-WITH-3-ARGB-FANS-Price-in-Pakistan-Pakbyte_1.webp?v=1795629473",
-          "url": "https://www.pakbyte.pk/products/gigabyte-c201-panoramic-pc-case-with-3-argb-fans",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-GAMING-Radeon-RX-6800-OC-Edition_price-in-pakistan-pakbyte_1.webp?v=1795699616",
+          "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-radeon-rx-6800-oc-edition-graphics-card",
           "history": [
-            16490
+            117990
           ]
         },
         {
-          "id": "pakbyte_54de8d5b",
-          "name": "Gigabyte C200 Glass Mid-Tower ATX Case",
-          "brand": "Gigabyte",
-          "category": "case",
-          "price": 14490,
+          "id": "pakbyte_61d2e711",
+          "name": "MSI Radeon RX 6800 GAMING X TRIO 16G Graphics Card",
+          "brand": "MSI",
+          "category": "gpu",
+          "price": 117990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-C200-Glass-Mid-Tower-ATX-Case-Price-in-Pakistan-Pakbyte_1.jpg?v=1795628847",
-          "url": "https://www.pakbyte.pk/products/gigabyte-c200-glass-mid-tower-atx-case",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MSI-Radeon-RX-6800-GAMING-X-TRIO-16G-Graphics-Card-Price-in-Pakistan-Pakbyte.jpg?v=1795699238",
+          "url": "https://www.pakbyte.pk/products/msi-radeon-rx-6800-gaming-x-trio-16g-graphics-card",
           "history": [
-            14490
+            117990
           ]
         },
         {
-          "id": "pakbyte_6fe31330",
-          "name": "Gigabyte C103G Glass Mid-Tower Gaming PC Case",
-          "brand": "Gigabyte",
-          "category": "case",
-          "price": 12990,
+          "id": "pakbyte_e07ca416",
+          "name": "Asus Rog Strix Radeon RX 6700 XT OC Edition 12GB Graphics Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 99990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
-          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c103-glass-price-in-pakistan-pakbyte_3_d212994f-113e-4797-b418-abf464cee142.webp?v=1795628373",
-          "url": "https://www.pakbyte.pk/products/gigabyte-c103g-glass-mid-tower-gaming-pc-case",
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-rx-6700-xt-price-in-pakistan-pakbyte_1.jpg?v=1795697941",
+          "url": "https://www.pakbyte.pk/products/asus-rog-strix-radeon-rx-6700-xt-oc-edition-12gb-graphics-card",
           "history": [
-            12990
+            99990
+          ]
+        },
+        {
+          "id": "pakbyte_beaf1216",
+          "name": "Gigabyte GeForce RTX 3070 VISION OC 8GB GDDR6 Graphics Card",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 104990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-GeForce-RTX-3070-VISION-OC-8GB-GDDR6-Graphics-Card-Price-in-Pakistan-Pakbyte_1.webp?v=1795697481",
+          "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-3070-vision-oc-8gb-gddr6-graphics-card",
+          "history": [
+            104990
+          ]
+        },
+        {
+          "id": "pakbyte_7bbd7627",
+          "name": "Gigabyte AORUS GeForce RTX 3060 Ti MASTER 8GB Graphics Card",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 104990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-RTX3060-Aorus-Elite-Master-8gb-Graphics-Card-Price-in-Pakistan-Pakbyte_1.jpg?v=1795696951",
+          "url": "https://www.pakbyte.pk/products/gigabyte-aorus-geforce-rtx-3060-ti-master-8gb-graphics-card",
+          "history": [
+            104990
+          ]
+        },
+        {
+          "id": "pakbyte_a389e5be",
+          "name": "Gigabyte Aorus GeForce RTX 3060 Ti Elite 8G Graphics Card",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 99990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rtx3060ti-aorus-elite-graphics-card-price-in-pakistan-pakbyte_1.jpg?v=1795689344",
+          "url": "https://www.pakbyte.pk/products/gigabyte-aorus-geforce-rtx-3060-ti-elite-8g-graphics-card",
+          "history": [
+            99990
+          ]
+        },
+        {
+          "id": "pakbyte_b34e59b1",
+          "name": "Gigabyte GeForce RTX 2070 Gaming 8GB 3x Fan Graphics Card",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 74990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-GeForce-RTX-2070-GAMING-8G-Graphics-Card-Price-in-Pakistan-Pakbyte_1.webp?v=1795677583",
+          "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-2070-gaming-8gb-3x-fan-graphics-card",
+          "history": [
+            74990
+          ]
+        },
+        {
+          "id": "pakbyte_a2b0b996",
+          "name": "Gigabyte GeForce RTX 2070 WINDFORCE 2X Graphics Card",
+          "brand": "Gigabyte",
+          "category": "gpu",
+          "price": 74990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-GeForce-RTX-2070-WINDFORCE-2X-Graphics-Card-Used-Price-in-Pakistan-Pakbyte_1.jpg?v=1795677248",
+          "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-2070-windforce-2x-graphics-card",
+          "history": [
+            74990
+          ]
+        },
+        {
+          "id": "pakbyte_dad7a8bc",
+          "name": "ASUS GeForce RTX 2060 SUPER EVO 8GB GDDR6 Graphic Card",
+          "brand": "ASUS",
+          "category": "gpu",
+          "price": 79990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rtx-2060-super-8gb-graphics-card-price-in-pakistan-pakbyte_1.jpg?v=1795676559",
+          "url": "https://www.pakbyte.pk/products/asus-geforce-rtx-2060-super-evo-8gb-gddr6-graphic-card",
+          "history": [
+            79990
+          ]
+        },
+        {
+          "id": "pakbyte_bb6d65db",
+          "name": "Colorful iGame GeForce GTX 1660 SUPER Ultra 6GB Graphics Card",
+          "brand": "Colorful",
+          "category": "gpu",
+          "price": 56990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Colorful-iGame-GeForce-GTX-1660-SUPER-Ultra-price-in-pakistan-pakbyte_1.webp?v=1795675433",
+          "url": "https://www.pakbyte.pk/products/colorful-igame-geforce-gtx-1660-super-ultra-6gb-graphics-card",
+          "history": [
+            56990
+          ]
+        },
+        {
+          "id": "pakbyte_0e2dde60",
+          "name": "NVIDIA GeForce GTX 1660 SUPER 6GB GDDR6 Graphics Card",
+          "brand": "NVIDIA",
+          "category": "gpu",
+          "price": 55990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Nvidia-GTX1660S-Graphics-Card-Price-in-Pakistan-Pakbyte.jpg?v=1795674932",
+          "url": "https://www.pakbyte.pk/products/nvidia-geforce-gtx-1660-super-6gb-gddr6-graphics-card",
+          "history": [
+            55990
           ]
         },
         {
@@ -65,6 +185,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-radeon-rx-9070-gaming-oc-16g-graphics-card-price-in-pakistan-pakbyte_1.webp?v=1795604209",
           "url": "https://www.pakbyte.pk/products/gigabyte-radeon-rx-9070-gaming-oc-16g-graphics-card",
           "history": [
+            265990,
             265990,
             265990
           ]
@@ -82,6 +203,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-radeon-rx-9070-gre-gaming-oc-12gb-gddr6-pci-express-5-0-atx-graphics-card",
           "history": [
             215990,
+            215990,
             215990
           ]
         },
@@ -97,6 +219,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rx-9050-gaming-oc-8g-price-in-pakistan-pakbyte_1.webp?v=1795602535",
           "url": "https://www.pakbyte.pk/products/gigabyte-radeon-rx-9050-gaming-oc-8g-video-graphics-card",
           "history": [
+            110990,
             110990,
             110990
           ]
@@ -114,6 +237,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-g34wqc2-ek-34-200hz-ultrawide-curved-gaming-monitor",
           "history": [
             101990,
+            101990,
             101990
           ]
         },
@@ -129,6 +253,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-LED-GS27F2-EK-240Hz-FHD-IPS27-Price-in-Pakistan-Pakbyte_1.webp?v=1795587487",
           "url": "https://www.pakbyte.pk/products/gigabyte-gs27f2-ek-fhd-240hz-27in-ss-ips-gaming-monitor",
           "history": [
+            45990,
             45990,
             45990
           ]
@@ -146,6 +271,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-x870e-eagle-x3d-wifi7-amd-am5-atx-motherboard",
           "history": [
             96990,
+            96990,
             96990
           ]
         },
@@ -161,6 +287,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-B550M-DS3H-AC-R2-Motherboard-Price-in-Pakistan-Pakbyte.webp?v=1795586390",
           "url": "https://www.pakbyte.pk/products/gigabyte-b550m-ds3h-ac-amd-am4-microatx-motherboard",
           "history": [
+            34990,
             34990,
             34990
           ]
@@ -178,6 +305,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-b550m-k-wifi6e-ddr4-amd-am4-microatx-motherboard",
           "history": [
             32990,
+            32990,
             32990
           ]
         },
@@ -193,6 +321,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-a520m-ds3h-wifi6e-price-in-pakistan-pakbyte_1.webp?v=1795584849",
           "url": "https://www.pakbyte.pk/products/gigabyte-a520m-ds3h-wifi6e-ddr4-amd-am4-microatx-motherboard",
           "history": [
+            27490,
             27490,
             27490
           ]
@@ -210,6 +339,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-a520m-h-argb-ddr4-amd-am4-microatx-motherboard",
           "history": [
             20990,
+            20990,
             20990
           ]
         },
@@ -225,6 +355,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-vision-360-argb-black-v2-price-in-pakistan-pakbyte_1.webp?v=1795445525",
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-vision-360-argb-v2-aio-360mm-liquid-cpu-cooler-black",
           "history": [
+            36990,
             36990,
             36990,
             36990,
@@ -10560,8 +10691,8 @@
           "name": "Gigabyte Aorus C601 Glass Mid-Tower Computer Case - Black",
           "brand": "Gigabyte",
           "category": "case",
-          "price": 81790,
-          "oldPrice": null,
+          "price": 73990,
+          "oldPrice": 81790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-CASING-GB-AC601G-WITH-4-ARGB-FANS-Price-in-Pakistan-Pakbyte_3.webp?v=1784745052",
@@ -10578,7 +10709,7 @@
             81790,
             81790,
             81790,
-            81790
+            73990
           ]
         },
         {
@@ -10586,8 +10717,8 @@
           "name": "GIGABYTE AORUS C500 GLASS E-ATX Mid Tower PC Gaming Case, Pre-installed 4x ARGB Fans – Bla",
           "brand": "Gigabyte",
           "category": "cooler",
-          "price": 56790,
-          "oldPrice": null,
+          "price": 49990,
+          "oldPrice": 56790,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-aorus-c500-glass-e-atx-pc-gaming-case-price-in-pakistan-pakbyte_1.webp?v=1784744611",
@@ -10604,33 +10735,22 @@
             56790,
             56790,
             56790,
-            56790
+            49990
           ]
         },
         {
-          "id": "pakbyte_29b85b01",
-          "name": "GIGABYTE C500 PANORAMIC STEALTH ICE ATX Mid Tower PC Gaming Case, Pre-installed 4x ARGB Fa",
+          "id": "pakbyte_5834217a",
+          "name": "GIGABYTE C500 PANORAMIC STEALTH ATX Mid Tower PC Gaming Case, Pre-installed 4x ARGB Fans –",
           "brand": "Gigabyte",
           "category": "ram",
-          "price": 26499,
+          "price": 24490,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c500p-pc-casing-price-in-pakistan-pakbyte_2.jpg?v=1784741840",
           "url": "https://www.pakbyte.pk/products/gigabyte-c500-panoramic-stealth-ice-atx-mid-tower-pc-gaming-case-pre-installed-4x-argb-fans-white-1",
           "history": [
-            26499,
-            26499,
-            26499,
-            26499,
-            26499,
-            26499,
-            26499,
-            26499,
-            26499,
-            26499,
-            26499,
-            26499
+            24490
           ]
         },
         {
@@ -10638,8 +10758,8 @@
           "name": "GIGABYTE C500 PANORAMIC STEALTH ICE ATX Mid Tower PC Gaming Case, Pre-installed 4x ARGB Fa",
           "brand": "Gigabyte",
           "category": "ram",
-          "price": 25990,
-          "oldPrice": null,
+          "price": 24990,
+          "oldPrice": 25990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c500-panoramic-stealth-ice-gaming-case-price-in-pakistan-pakbyte_1.webp?v=1784741519",
@@ -10656,7 +10776,7 @@
             25990,
             25990,
             25990,
-            25990
+            24990
           ]
         },
         {
@@ -10664,8 +10784,8 @@
           "name": "Gigabyte C301 Glass ARGB Mid-Tower ATX Case - White",
           "brand": "Gigabyte",
           "category": "case",
-          "price": 26490,
-          "oldPrice": null,
+          "price": 21990,
+          "oldPrice": 26490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c301-glass-white-casing-price-in-pakistan-pakbyte_1.jpg?v=1784741203",
@@ -10682,7 +10802,7 @@
             26490,
             26490,
             26490,
-            26490
+            21990
           ]
         },
         {
@@ -10690,8 +10810,8 @@
           "name": "Gigabyte C301 Glass ARGB Mid-Tower ATX Case - Black",
           "brand": "Gigabyte",
           "category": "case",
-          "price": 22990,
-          "oldPrice": null,
+          "price": 20990,
+          "oldPrice": 22990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c301-glass-black-pc-casing-price-in-pakistan-pakbyte_1.jpg?v=1784740944",
@@ -10708,7 +10828,7 @@
             22990,
             22990,
             22990,
-            22990
+            20990
           ]
         },
         {
@@ -10742,8 +10862,8 @@
           "name": "GIGABYTE C201 PANORAMIC Micro-ATX Mid Tower PC Gaming Case, Pre-installed 3x ARGB Fans – B",
           "brand": "Gigabyte",
           "category": "ram",
-          "price": 17999,
-          "oldPrice": null,
+          "price": 16490,
+          "oldPrice": 17999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c201-panoramic-micro-atx-pc-gaming-case-price-in-pakistan-pakbyte_1.webp?v=1784740244",
@@ -10760,7 +10880,7 @@
             17999,
             17999,
             17999,
-            17999
+            16490
           ]
         },
         {
@@ -10768,8 +10888,8 @@
           "name": "Gigabyte C200 Glass Mid-Tower ATX Case with 1 ARGB Fan",
           "brand": "Gigabyte",
           "category": "cooler",
-          "price": 15490,
-          "oldPrice": null,
+          "price": 14490,
+          "oldPrice": 15490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-CASING-GB-C200G-WITH-1-FAN-Price-in-Pakistan-Pakbyte_1.jpg?v=1784739851",
@@ -10786,7 +10906,7 @@
             15490,
             15490,
             15490,
-            15490
+            14490
           ]
         },
         {
@@ -10820,8 +10940,8 @@
           "name": "Gigabyte C103 Glass Mid-Tower Gaming PC Case with 1 ARGB Fan",
           "brand": "Gigabyte",
           "category": "cooler",
-          "price": 10990,
-          "oldPrice": null,
+          "price": 12990,
+          "oldPrice": 10990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c103-glass-price-in-pakistan-pakbyte_1.webp?v=1784738983",
@@ -10838,7 +10958,7 @@
             10990,
             10990,
             10990,
-            10990
+            12990
           ]
         },
         {
@@ -10862,7 +10982,7 @@
             274990,
             274990,
             274990,
-            274990,
+            305990,
             305990,
             305990
           ]
@@ -10888,7 +11008,7 @@
             160999,
             160999,
             160999,
-            160999,
+            155990,
             155990,
             155990
           ]
@@ -11148,7 +11268,7 @@
             34490,
             34490,
             34490,
-            34490,
+            33990,
             33990,
             33990
           ]
@@ -11200,7 +11320,7 @@
             29490,
             29490,
             29490,
-            29490,
+            26990,
             26990,
             26990
           ]
@@ -17332,7 +17452,7 @@
             89990,
             89990,
             89990,
-            89990,
+            99990,
             99990,
             99990,
             99990,
@@ -17450,8 +17570,8 @@
           "name": "ASUS Dual GeForce RTX 2070 Graphics Card",
           "brand": "ASUS",
           "category": "gpu",
-          "price": 67990,
-          "oldPrice": null,
+          "price": 74990,
+          "oldPrice": 67990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Asus-Dual-RTX-2070-Graphics-Card-Price-in-Pakistan-Pakbyte_1.webp?v=1780500847",
@@ -17468,7 +17588,7 @@
             67990,
             67990,
             67990,
-            67990
+            74990
           ]
         },
         {
@@ -17476,8 +17596,8 @@
           "name": "GIGABYTE GeForce RTX 2060 OC 6G Graphics Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 56990,
-          "oldPrice": null,
+          "price": 64990,
+          "oldPrice": 56990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-RTX2060-graphics-card-price-in-pakistan-pakbyte_1.jpg?v=1780470886",
@@ -17494,7 +17614,7 @@
             56990,
             56990,
             56990,
-            56990
+            64990
           ]
         },
         {
@@ -19568,7 +19688,7 @@
             489999,
             489999,
             489999,
-            489999,
+            684999,
             684999,
             684999,
             684999,
@@ -19776,7 +19896,7 @@
             24490,
             24490,
             24490,
-            24490,
+            25790,
             25790,
             25790,
             25790,
@@ -19802,7 +19922,7 @@
             23990,
             23990,
             23990,
-            23990,
+            24990,
             24990,
             24990,
             24990,
@@ -19828,7 +19948,7 @@
             20990,
             20990,
             20990,
-            20990,
+            21790,
             21790,
             21790,
             21790,
@@ -19854,7 +19974,7 @@
             20490,
             20490,
             20490,
-            20490,
+            20990,
             20990,
             20990,
             20990,
@@ -28202,7 +28322,7 @@
             111990,
             111990,
             111990,
-            111990,
+            118990,
             118990,
             118990,
             118990,
@@ -28670,7 +28790,7 @@
             17990,
             17990,
             17990,
-            17990,
+            19490,
             19490,
             19490,
             19490,
@@ -28696,7 +28816,7 @@
             16990,
             16990,
             16990,
-            16990,
+            18490,
             18490,
             18490,
             18490,
@@ -33846,7 +33966,7 @@
             159990,
             159990,
             159990,
-            159990,
+            225990,
             225990,
             225990
           ]
@@ -48094,7 +48214,7 @@
             94790,
             94790,
             94790,
-            94790,
+            89990,
             89990,
             89990
           ]
@@ -48350,7 +48470,7 @@
             42990,
             42990,
             42990,
-            42990,
+            39490,
             39490,
             39490,
             39490,
@@ -48376,7 +48496,7 @@
             49990,
             49990,
             49990,
-            49990,
+            47990,
             47990,
             47990,
             47990,
@@ -48402,7 +48522,7 @@
             49990,
             49990,
             49990,
-            49990,
+            47990,
             47990,
             47990,
             47990,
@@ -50236,8 +50356,8 @@
           "name": "Logitech G435 Lightspeed Wireless Gaming Headset - Blue & Raspberry",
           "brand": "Logitech",
           "category": "headset",
-          "price": 14100,
-          "oldPrice": null,
+          "price": 19999,
+          "oldPrice": 14100,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/logitech-g435-gaming-headset-gallery-2-1-blue-price-in-pakistan-pakbyte_5.webp?v=1762466356",
@@ -50254,7 +50374,7 @@
             14100,
             14100,
             14100,
-            14100
+            19999
           ]
         },
         {
@@ -51500,7 +51620,7 @@
             254999,
             254999,
             254999,
-            254999,
+            259999,
             259999,
             259999
           ]
@@ -53942,7 +54062,7 @@
             34490,
             34490,
             34490,
-            34490,
+            39490,
             39490,
             39490,
             39490,
@@ -54254,7 +54374,7 @@
             23999,
             23999,
             23999,
-            23999,
+            22490,
             22490,
             22490,
             22490,
@@ -54372,7 +54492,7 @@
           "category": "cooler",
           "price": 4899,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-assassin-x-120-refined-se-argb-am4-am5-price-in-pakistan-pakbyte_1.webp?v=1759247772",
           "url": "https://www.pakbyte.pk/products/thermalright-assassin-x-120-refined-se-argb-am4-am5-cpu-air-cooler-black",
@@ -57594,8 +57714,8 @@
           "name": "Gigabyte RTX 3070 Gaming OC 8G Graphic Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 94990,
-          "oldPrice": null,
+          "price": 109990,
+          "oldPrice": 94990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rtx-3070-gaming-oc-price-in-pakistan-pakbyte_1.jpg?v=1756114967",
@@ -57612,7 +57732,7 @@
             94990,
             94990,
             94990,
-            94990
+            109990
           ]
         },
         {
@@ -57646,8 +57766,8 @@
           "name": "MSI Ventus RTX 2070 8GB GDRR6 Graphic Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 67990,
-          "oldPrice": null,
+          "price": 74990,
+          "oldPrice": 67990,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-ventus-rtx-2070-price-in-pakistan-pakbyte_1.jpg?v=1756114339",
@@ -57664,7 +57784,7 @@
             67990,
             67990,
             67990,
-            67990
+            74990
           ]
         },
         {
@@ -57672,9 +57792,9 @@
           "name": "MSI Gaming X RTX 2060 Super 8GB GDRR6 Graphic Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 67999,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 74990,
+          "oldPrice": 67999,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-gaming-x-2060-price-in-pakistan-pakbyte_1.jpg?v=1756114162",
           "url": "https://www.pakbyte.pk/products/msi-gaming-x-rtx-2060-super-8gb-gdrr6-graphic-card",
@@ -57690,7 +57810,7 @@
             67999,
             67999,
             67999,
-            67999
+            74990
           ]
         },
         {
@@ -57698,9 +57818,9 @@
           "name": "MSI GeForce RTX 2060 Ventus OC 12GB Graphics Card",
           "brand": "MSI",
           "category": "gpu",
-          "price": 54999,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 63990,
+          "oldPrice": 54999,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/msi-rtx-2060-graphic-card-price-in-pakistan_2.jpg?v=1756113909",
           "url": "https://www.pakbyte.pk/products/msi-geforce-rtx-2060-ventus-oc-12gb-graphics-card",
@@ -57716,7 +57836,7 @@
             54999,
             54999,
             54999,
-            54999
+            63990
           ]
         },
         {
@@ -57724,8 +57844,8 @@
           "name": "Gigabyte GTX 1660 Super Gaming OC 6G Graphic Card",
           "brand": "Gigabyte",
           "category": "gpu",
-          "price": 50999,
-          "oldPrice": null,
+          "price": 56990,
+          "oldPrice": 50999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-gtx-1660-super-gaming-price-in-pakistan-pakbyte_2.jpg?v=1756113465",
@@ -57742,7 +57862,7 @@
             50999,
             50999,
             50999,
-            50999
+            56990
           ]
         },
         {
@@ -59248,7 +59368,7 @@
             25990,
             25990,
             25990,
-            25990,
+            25490,
             25490,
             25490
           ]
@@ -59274,7 +59394,7 @@
             26490,
             26490,
             26490,
-            26490,
+            25990,
             25990,
             25990
           ]
@@ -59300,7 +59420,7 @@
             30490,
             30490,
             30490,
-            30490,
+            28990,
             28990,
             28990
           ]
@@ -59482,7 +59602,7 @@
             78990,
             78990,
             78990,
-            78990,
+            70990,
             70990,
             70990
           ]
@@ -59560,7 +59680,7 @@
             34990,
             34990,
             34990,
-            34990,
+            31490,
             31490,
             31490
           ]
@@ -59586,7 +59706,7 @@
             38499,
             38499,
             38499,
-            38499,
+            34990,
             34990,
             34990
           ]
@@ -59690,7 +59810,7 @@
             28990,
             28990,
             28990,
-            28990,
+            19990,
             19990,
             19990
           ]
@@ -59716,7 +59836,7 @@
             41999,
             41999,
             41999,
-            41999,
+            36990,
             36990,
             36990
           ]
@@ -61974,7 +62094,7 @@
             1149799,
             1149799,
             1149799,
-            1149799,
+            2649999,
             2649999,
             2649999,
             2649999,
@@ -62004,7 +62124,7 @@
             1494999,
             1494999,
             1494999,
-            1494999,
+            2649990,
             2649990,
             2649990
           ]
@@ -67306,7 +67426,7 @@
             40990,
             40990,
             40990,
-            40990,
+            39490,
             39490,
             39490,
             39490,
@@ -72336,8 +72456,8 @@
           "name": "Logitech G435 Lightspeed Wireless Gaming Headset - Off White And Lilac",
           "brand": "Logitech",
           "category": "headset",
-          "price": 14100,
-          "oldPrice": null,
+          "price": 19999,
+          "oldPrice": 14100,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G435-Lightspeed-Wireless-Gaming-Headset-Off-White-And-Lilac-PakByte-Computers-26034650349635.jpg?v=1748004392",
@@ -72354,7 +72474,7 @@
             14100,
             14100,
             14100,
-            14100
+            19999
           ]
         },
         {
@@ -74014,7 +74134,7 @@
             1499,
             1499,
             1499,
-            1499,
+            1290,
             1290,
             1290,
             1290,
@@ -74090,7 +74210,7 @@
             20990,
             20990,
             20990,
-            20990,
+            16990,
             16990,
             16990,
             16990,
@@ -74116,7 +74236,7 @@
             15990,
             15990,
             15990,
-            15990,
+            12990,
             12990,
             12990,
             12990,
@@ -74962,8 +75082,8 @@
           "name": "Sapphire Nitro+ Radeon RX 6700 XT 12GB Graphics Card",
           "brand": "Sapphire",
           "category": "gpu",
-          "price": 93999,
-          "oldPrice": null,
+          "price": 99990,
+          "oldPrice": 93999,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Sapphire-Nitro-Radeon-RX-6700-XT-12GB-Graphics-Card-PakByte-Computers-25915621408835.jpg?v=1753671602",
@@ -74980,7 +75100,7 @@
             93999,
             93999,
             93999,
-            93999
+            99990
           ]
         },
         {
@@ -82566,6 +82686,7 @@
             21990,
             21990,
             21990,
+            21990,
             21990
           ]
         },
@@ -87190,7 +87311,7 @@
             34490,
             34490,
             34490,
-            34490,
+            33990,
             33990,
             33990,
             33990,
@@ -87216,7 +87337,7 @@
             35490,
             35490,
             35490,
-            35490,
+            33990,
             33990,
             33990,
             33990,
@@ -87372,7 +87493,7 @@
             1690,
             1690,
             1690,
-            1690,
+            3190,
             3190,
             3190,
             3190,
@@ -87670,8 +87791,8 @@
           "name": "Logitech G335 Gaming Headset - White",
           "brand": "Logitech",
           "category": "headset",
-          "price": 13000,
-          "oldPrice": null,
+          "price": 14999,
+          "oldPrice": 13000,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G335-Gaming-Headset-White-PakByte-Computers-25586718212163.jpg?v=1753674702",
@@ -87688,7 +87809,7 @@
             13000,
             13000,
             13000,
-            13000
+            14999
           ]
         },
         {
@@ -98918,7 +99039,7 @@
             41500,
             41500,
             41500,
-            41500,
+            41990,
             41990,
             41990
           ]
@@ -105002,7 +105123,7 @@
             43500,
             43500,
             43500,
-            43500,
+            40990,
             40990,
             40990
           ]
@@ -112214,8 +112335,8 @@
           "name": "Logitech G435 Lightspeed Wireless Gaming Headset – Black",
           "brand": "Logitech",
           "category": "headset",
-          "price": 18499,
-          "oldPrice": null,
+          "price": 19999,
+          "oldPrice": 18499,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G435-Lightspeed-Wireless-Gaming-Headset-Black-PakByte-Computers-24397808336963.webp?v=1753679232",
@@ -112232,7 +112353,7 @@
             18499,
             18499,
             18499,
-            18499
+            19999
           ]
         },
         {
@@ -112240,8 +112361,8 @@
           "name": "Logitech G335 Wired Gaming Headset - Black",
           "brand": "Logitech",
           "category": "headset",
-          "price": 13000,
-          "oldPrice": null,
+          "price": 14999,
+          "oldPrice": 13000,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Logitech-G335-Wired-Gaming-Headset-Black-PakByte-Computers-24397808009283.webp?v=1753679232",
@@ -112258,7 +112379,7 @@
             13000,
             13000,
             13000,
-            13000
+            14999
           ]
         },
         {
@@ -115064,7 +115185,7 @@
             13990,
             13990,
             13990,
-            13990,
+            9490,
             9490,
             9490
           ]
@@ -115142,7 +115263,7 @@
             28990,
             28990,
             28990,
-            28990,
+            27490,
             27490,
             27490
           ]
@@ -119900,7 +120021,7 @@
             35990,
             35990,
             35990,
-            35990,
+            32990,
             32990,
             32990
           ]
@@ -154289,6 +154410,7 @@
             147999,
             147999,
             147999,
+            147999,
             147999
           ]
         },
@@ -154304,6 +154426,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_asus_tuf_dash_f15_2022_off_black.webp",
           "url": "https://rbtechngames.com/product/asus-tuf-dash-f15-2022-fx517z-intel-core-i7-12th-gen-16gb-ram-512gb-ssd-rtx-3060-15-6-fhd-144hz-ips-display-off-black-used",
           "history": [
+            249999,
             249999,
             249999,
             249999,
@@ -154797,6 +154920,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-ips-display-eclipse-black-used",
           "history": [
+            489999,
             489999,
             489999,
             489999,
@@ -156930,7 +157054,7 @@
             374999,
             374999,
             374999,
-            374999,
+            299999,
             299999,
             299999,
             299999,
@@ -156987,32 +157111,6 @@
             394999,
             394999,
             394999
-          ]
-        },
-        {
-          "id": "rbtechgames_b905f4ef",
-          "name": "Gigabyte Z690 Aorus Master ATX LGA1700 DDR5 Gaming Motherboard &#8211; USED",
-          "brand": "Gigabyte",
-          "category": "ram",
-          "price": 74999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/09/rbtech_gigabyte_z690_aorus_master_ddr5.webp",
-          "url": "https://rbtechngames.com/product/gigabyte-z690-aorus-master-atx-lga1700-ddr5-gaming-motherboard-used",
-          "history": [
-            74999,
-            74999,
-            74999,
-            74999,
-            74999,
-            74999,
-            74999,
-            74999,
-            74999,
-            74999,
-            74999,
-            74999
           ]
         },
         {
@@ -158016,6 +158114,7 @@
           "url": "https://rbtechngames.com/product/dell-latitude-5450-intel-core-ultra-7-16gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-titan-grey-used",
           "history": [
             154999,
+            154999,
             154999
           ]
         },
@@ -158121,32 +158220,6 @@
             109999,
             109999,
             109999
-          ]
-        },
-        {
-          "id": "rbtechgames_0f45914d",
-          "name": "HP EliteBook 840 G8, Intel i5 11th Gen, 16GB RAM, 256GB SSD, 14.0″ FHD, IPS Display, Pike ",
-          "brand": "Intel",
-          "category": "ram",
-          "price": 89999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/11/hp-elitebook-840-aero-g8-11thgen-ci7-silver-laptop-rates-in-pakistan.jpg",
-          "url": "https://rbtechngames.com/product/hp-elitebook-840-g8-intel-i5-11th-gen-16gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-pike-silver-used",
-          "history": [
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            84999,
-            89999,
-            89999
           ]
         },
         {
@@ -158473,7 +158546,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/07/rbtech_asus_rog_zephrus_g14_ga403_platinum_white.png",
           "url": "https://rbtechngames.com/product/asus-rog-zephyrus-g14-2025-ga403um-amd-ryzen-9-270-16gb-ram-1tb-ssd-rtx-5060-14-3k-120hz-oled-display-platinum-white-used",
           "history": [
-            474999,
+            524999,
             524999,
             524999,
             524999,
@@ -159702,7 +159775,7 @@
             364999,
             364999,
             364999,
-            364999,
+            324999,
             324999,
             324999,
             324999,
@@ -159754,7 +159827,7 @@
             274999,
             274999,
             274999,
-            274999,
+            324999,
             324999,
             324999,
             324999,
@@ -160074,32 +160147,6 @@
           ]
         },
         {
-          "id": "rbtechgames_4ce09af4",
-          "name": "BenQ Zowie EC2-C Wired Gaming Mouse for Esports &#8211; Black",
-          "brand": "BenQ",
-          "category": "mouse",
-          "price": 24499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/01/rbtech_benq_zowie_ec2-c_black.avif",
-          "url": "https://rbtechngames.com/product/benq-zowie-ec2-c-wired-gaming-mouse-for-esports-black",
-          "history": [
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499,
-            24499
-          ]
-        },
-        {
           "id": "rbtechgames_5566e43b",
           "name": "PNY GeForce RTX 5070 Ti Triple Fan OC 16GB Graphics Card",
           "brand": "PNY",
@@ -160221,8 +160268,8 @@
             329999,
             329999,
             329999,
-            329999,
             343999,
+            339999,
             339999,
             339999,
             339999,
@@ -161339,8 +161386,8 @@
             279999,
             279999,
             279999,
-            279999,
             329999,
+            324999,
             324999,
             324999,
             324999,
@@ -162200,7 +162247,7 @@
             10500,
             10500,
             10500,
-            10500,
+            9999,
             9999,
             9999
           ]
@@ -163916,7 +163963,7 @@
             40999,
             40999,
             40999,
-            40999,
+            37499,
             37499,
             37499
           ]
@@ -163945,32 +163992,6 @@
             73999,
             73999,
             73999
-          ]
-        },
-        {
-          "id": "rbtechgames_a28eaed2",
-          "name": "ADATA LEGEND 710 256GB NVMe M.2 SSD",
-          "brand": "ADATA",
-          "category": "storage",
-          "price": 16499,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2023/07/rbtech_adata_legend710_256gb_1.jpg",
-          "url": "https://rbtechngames.com/product/adata-legend-710-256gb-nvme-m-2-ssd",
-          "history": [
-            16499,
-            16499,
-            16499,
-            16499,
-            16499,
-            16499,
-            16499,
-            16499,
-            16499,
-            16499,
-            16499,
-            16499
           ]
         },
         {
