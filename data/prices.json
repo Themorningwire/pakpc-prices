@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T01:30:23.856724+00:00",
+  "lastUpdated": "2026-11-27T16:13:12.493774+00:00",
   "shops": [
     {
       "id": "pakbyte",
@@ -8,6 +8,156 @@
       "city": "Karachi",
       "verified": true,
       "products": [
+        {
+          "id": "pakbyte_220c9961",
+          "name": "Samsung 27\" (S30GD) 100Hz Essential Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 40990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-24-s30gd-essential-monitor-s3-price-in-pakistan-pakbyte_1_963f80c4-8aeb-4de5-b694-20c83106560b.webp?v=1795795571",
+          "url": "https://www.pakbyte.pk/products/samsung-27-s30gd-100hz-essential-monitor",
+          "history": [
+            40990
+          ]
+        },
+        {
+          "id": "pakbyte_3fa0cef5",
+          "name": "Samsung 24\" (S30GD) 100Hz Essential Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 35990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-24-s30gd-essential-monitor-s3-price-in-pakistan-pakbyte_1.webp?v=1795794913",
+          "url": "https://www.pakbyte.pk/products/samsung-24-s30gd-100hz-essential-monitor",
+          "history": [
+            35990
+          ]
+        },
+        {
+          "id": "pakbyte_c5028756",
+          "name": "Samsung G3 G31H LS27HG310EUXEN 27\" FHD IPS 144Hz Essential Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 39490,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-full-hd-1080p-ls27hg310eexxy-black-price-in-pakistan-pakbyte_1.webp?v=1795794393",
+          "url": "https://www.pakbyte.pk/products/samsung-g3-g31h-ls27hg310euxen-27-fhd-ips-144hz-essential-monitor",
+          "history": [
+            39490
+          ]
+        },
+        {
+          "id": "pakbyte_f40393ad",
+          "name": "Samsung G3 G31H LS24HG310EUXEN 24\" FHD IPS 144Hz Essential Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 34990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-essential-g3-g31h-monitor-price-in-pakistan-pakbyte_3.webp?v=1795793307",
+          "url": "https://www.pakbyte.pk/products/samsung-g3-g31h-ls24hg310euxen-24-fhd-ips-144hz-essential-monitor",
+          "history": [
+            34990
+          ]
+        },
+        {
+          "id": "pakbyte_bee0072b",
+          "name": "Samsung 32\" ViewFinity S7 (S70H) 4K UHD Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 114990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-s70h-hdr-monitor-price-in-pakistan-pakbyte.jpg?v=1795792027",
+          "url": "https://www.pakbyte.pk/products/samsung-32-viewfinity-s7-s70h-4k-uhd-monitor",
+          "history": [
+            114990
+          ]
+        },
+        {
+          "id": "pakbyte_752292cc",
+          "name": "Samsung 24\" ViewFinity S6 (S60UD) Series QHD 100Hz Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 85990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-viewfinity-s6-price-in-pakistan-pakbyte_1_771b3b97-1e40-40e4-b64e-c68a7355314a.webp?v=1795791416",
+          "url": "https://www.pakbyte.pk/products/samsung-24-viewfinity-s6-s60ud-series-qhd-100hz-monitor",
+          "history": [
+            85990
+          ]
+        },
+        {
+          "id": "pakbyte_a058b3a2",
+          "name": "Samsung 27\" ViewFinity S6 (S60UD) Series QHD 100Hz Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 88990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-viewfinity-s6-price-in-pakistan-pakbyte_1.webp?v=1795790846",
+          "url": "https://www.pakbyte.pk/products/samsung-27-viewfinity-s6-s60ud-series-qhd-100hz-monitor",
+          "history": [
+            88990
+          ]
+        },
+        {
+          "id": "pakbyte_541af87e",
+          "name": "Samsung 32\" Inch Odyssey G5 G50F QHD 180Hz Gaming Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 114990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-odyssey-g5-g50f-ls32fg502euxen-monitor-price-in-pakistan-pakyte_1.webp?v=1795789935",
+          "url": "https://www.pakbyte.pk/products/samsung-32-inch-odyssey-g5-g50f-qhd-180hz-gaming-monitor",
+          "history": [
+            114990
+          ]
+        },
+        {
+          "id": "pakbyte_ed98591b",
+          "name": "Samsung 27\" Odyssey G5 G50F QHD 180Hz Gaming Monitor",
+          "brand": "Samsung",
+          "category": "monitor",
+          "price": 93990,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-odyssey-g5-27-ls27fg502euxen-qhd-monitor-price-in-pakistan-pakbyte_1.webp?v=1795789575",
+          "url": "https://www.pakbyte.pk/products/samsung-27-odyssey-g5-g50f-qhd-180hz-gaming-monitor",
+          "history": [
+            93990
+          ]
+        },
+        {
+          "id": "pakbyte_04d5871a",
+          "name": "WD 16TB My Book Desktop External Hard Drive",
+          "brand": "WD",
+          "category": "storage",
+          "price": 164999,
+          "oldPrice": null,
+          "inStock": true,
+          "lowStock": false,
+          "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/wd-my-book-16tb-price-in-pakistan-pakbyte-2.webp?v=1795781164",
+          "url": "https://www.pakbyte.pk/products/wd-16tb-my-book-desktop-external-hard-drive",
+          "history": [
+            164999
+          ]
+        },
         {
           "id": "pakbyte_3b9c8c27",
           "name": "Samsung Odyssey G5 G55C 27\" - 165Hz 2K 1440p QHD VA Curved Gaming Monitor",
@@ -20,6 +170,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-odyssey-g5-g55c-27-gaming-monitor-price-in-pakistan-pakbyte_1.jpg?v=1795712424",
           "url": "https://www.pakbyte.pk/products/samsung-odyssey-g5-g55c-27-165hz-2k-1440p-qhd-va-curved-gaming-monitor",
           "history": [
+            73990,
             73990
           ]
         },
@@ -35,6 +186,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/samsung-oddessey-g55c-monitor-price-in-pakistan-pakbyte_1.jpg?v=1795712038",
           "url": "https://www.pakbyte.pk/products/samsung-odyssey-g5-g55c-32-165hz-2k-1440p-qhd-va-curved-gaming-monitor",
           "history": [
+            86990,
             86990
           ]
         },
@@ -50,6 +202,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-GAMING-Radeon-RX-6800-OC-Edition_price-in-pakistan-pakbyte_1.webp?v=1795699616",
           "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-radeon-rx-6800-oc-edition-graphics-card",
           "history": [
+            117990,
             117990,
             117990
           ]
@@ -67,6 +220,7 @@
           "url": "https://www.pakbyte.pk/products/msi-radeon-rx-6800-gaming-x-trio-16g-graphics-card",
           "history": [
             117990,
+            117990,
             117990
           ]
         },
@@ -82,6 +236,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rog-strix-rx-6700-xt-price-in-pakistan-pakbyte_1.jpg?v=1795697941",
           "url": "https://www.pakbyte.pk/products/asus-rog-strix-radeon-rx-6700-xt-oc-edition-12gb-graphics-card",
           "history": [
+            99990,
             99990,
             99990
           ]
@@ -99,6 +254,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-3070-vision-oc-8gb-gddr6-graphics-card",
           "history": [
             104990,
+            104990,
             104990
           ]
         },
@@ -114,6 +270,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-RTX3060-Aorus-Elite-Master-8gb-Graphics-Card-Price-in-Pakistan-Pakbyte_1.jpg?v=1795696951",
           "url": "https://www.pakbyte.pk/products/gigabyte-aorus-geforce-rtx-3060-ti-master-8gb-graphics-card",
           "history": [
+            104990,
             104990,
             104990
           ]
@@ -131,6 +288,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-aorus-geforce-rtx-3060-ti-elite-8g-graphics-card",
           "history": [
             99990,
+            99990,
             99990
           ]
         },
@@ -146,6 +304,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-GeForce-RTX-2070-GAMING-8G-Graphics-Card-Price-in-Pakistan-Pakbyte_1.webp?v=1795677583",
           "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-2070-gaming-8gb-3x-fan-graphics-card",
           "history": [
+            74990,
             74990,
             74990
           ]
@@ -163,6 +322,7 @@
           "url": "https://www.pakbyte.pk/products/gigabyte-geforce-rtx-2070-windforce-2x-graphics-card",
           "history": [
             74990,
+            74990,
             74990
           ]
         },
@@ -178,6 +338,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/asus-rtx-2060-super-8gb-graphics-card-price-in-pakistan-pakbyte_1.jpg?v=1795676559",
           "url": "https://www.pakbyte.pk/products/asus-geforce-rtx-2060-super-evo-8gb-gddr6-graphic-card",
           "history": [
+            79990,
             79990,
             79990
           ]
@@ -195,6 +356,7 @@
           "url": "https://www.pakbyte.pk/products/colorful-igame-geforce-gtx-1660-super-ultra-6gb-graphics-card",
           "history": [
             56990,
+            56990,
             56990
           ]
         },
@@ -211,6 +373,7 @@
           "url": "https://www.pakbyte.pk/products/nvidia-geforce-gtx-1660-super-6gb-gddr6-graphics-card",
           "history": [
             55990,
+            55990,
             55990
           ]
         },
@@ -226,6 +389,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-radeon-rx-9070-gaming-oc-16g-graphics-card-price-in-pakistan-pakbyte_1.webp?v=1795604209",
           "url": "https://www.pakbyte.pk/products/gigabyte-radeon-rx-9070-gaming-oc-16g-graphics-card",
           "history": [
+            265990,
             265990,
             265990,
             265990,
@@ -247,6 +411,7 @@
             215990,
             215990,
             215990,
+            215990,
             215990
           ]
         },
@@ -262,6 +427,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-rx-9050-gaming-oc-8g-price-in-pakistan-pakbyte_1.webp?v=1795602535",
           "url": "https://www.pakbyte.pk/products/gigabyte-radeon-rx-9050-gaming-oc-8g-video-graphics-card",
           "history": [
+            110990,
             110990,
             110990,
             110990,
@@ -283,6 +449,7 @@
             101990,
             101990,
             101990,
+            101990,
             101990
           ]
         },
@@ -298,6 +465,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/GIGABYTE-LED-GS27F2-EK-240Hz-FHD-IPS27-Price-in-Pakistan-Pakbyte_1.webp?v=1795587487",
           "url": "https://www.pakbyte.pk/products/gigabyte-gs27f2-ek-fhd-240hz-27in-ss-ips-gaming-monitor",
           "history": [
+            45990,
             45990,
             45990,
             45990,
@@ -319,6 +487,7 @@
             96990,
             96990,
             96990,
+            96990,
             96990
           ]
         },
@@ -334,6 +503,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Gigabyte-B550M-DS3H-AC-R2-Motherboard-Price-in-Pakistan-Pakbyte.webp?v=1795586390",
           "url": "https://www.pakbyte.pk/products/gigabyte-b550m-ds3h-ac-amd-am4-microatx-motherboard",
           "history": [
+            34990,
             34990,
             34990,
             34990,
@@ -355,6 +525,7 @@
             32990,
             32990,
             32990,
+            32990,
             32990
           ]
         },
@@ -370,6 +541,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-a520m-ds3h-wifi6e-price-in-pakistan-pakbyte_1.webp?v=1795584849",
           "url": "https://www.pakbyte.pk/products/gigabyte-a520m-ds3h-wifi6e-ddr4-amd-am4-microatx-motherboard",
           "history": [
+            27490,
             27490,
             27490,
             27490,
@@ -391,6 +563,7 @@
             20990,
             20990,
             20990,
+            20990,
             20990
           ]
         },
@@ -406,6 +579,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/thermalright-frozen-vision-360-argb-black-v2-price-in-pakistan-pakbyte_1.webp?v=1795445525",
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-vision-360-argb-v2-aio-360mm-liquid-cpu-cooler-black",
           "history": [
+            36990,
             36990,
             36990,
             36990,
@@ -4635,7 +4809,7 @@
           "category": "keyboard",
           "price": 6490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ugreen-75163-price-in-pakistan-pakbyte_1.webp?v=1792863636",
           "url": "https://www.pakbyte.pk/products/ugreen-75163-wireless-bluetooth-keyboard",
@@ -9418,7 +9592,7 @@
           "brand": "ID-Cooling",
           "category": "cooler",
           "price": 13499,
-          "oldPrice": 12990,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-ware-310-argb-price-in-pakistan-pakbyte_5.webp?v=1786948450",
@@ -9434,7 +9608,7 @@
             12990,
             12990,
             12990,
-            12990,
+            13499,
             13499
           ]
         },
@@ -9444,7 +9618,7 @@
           "brand": "ID-Cooling",
           "category": "cooler",
           "price": 13499,
-          "oldPrice": 12490,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/id-cooling-ware-310-argb-price-in-pakistan-pakbyte_2.webp?v=1786948194",
@@ -9460,7 +9634,7 @@
             12490,
             12490,
             12490,
-            12490,
+            13499,
             13499
           ]
         },
@@ -10759,7 +10933,7 @@
             81790,
             81790,
             81790,
-            81790,
+            73990,
             73990,
             73990
           ]
@@ -10785,7 +10959,7 @@
             56790,
             56790,
             56790,
-            56790,
+            49990,
             49990,
             49990
           ]
@@ -10802,6 +10976,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/gigabyte-c500p-pc-casing-price-in-pakistan-pakbyte_2.jpg?v=1784741840",
           "url": "https://www.pakbyte.pk/products/gigabyte-c500-panoramic-stealth-ice-atx-mid-tower-pc-gaming-case-pre-installed-4x-argb-fans-white-1",
           "history": [
+            24490,
             24490,
             24490
           ]
@@ -10827,7 +11002,7 @@
             25990,
             25990,
             25990,
-            25990,
+            24990,
             24990,
             24990
           ]
@@ -10853,7 +11028,7 @@
             26490,
             26490,
             26490,
-            26490,
+            21990,
             21990,
             21990
           ]
@@ -10879,7 +11054,7 @@
             22990,
             22990,
             22990,
-            22990,
+            20990,
             20990,
             20990
           ]
@@ -10931,7 +11106,7 @@
             17999,
             17999,
             17999,
-            17999,
+            16490,
             16490,
             16490
           ]
@@ -10957,7 +11132,7 @@
             15490,
             15490,
             15490,
-            15490,
+            14490,
             14490,
             14490
           ]
@@ -11009,7 +11184,7 @@
             10990,
             10990,
             10990,
-            10990,
+            12990,
             12990,
             12990
           ]
@@ -11033,7 +11208,7 @@
             274990,
             274990,
             274990,
-            274990,
+            305990,
             305990,
             305990,
             305990,
@@ -11059,7 +11234,7 @@
             160999,
             160999,
             160999,
-            160999,
+            155990,
             155990,
             155990,
             155990,
@@ -11319,7 +11494,7 @@
             34490,
             34490,
             34490,
-            34490,
+            33990,
             33990,
             33990,
             33990,
@@ -11371,7 +11546,7 @@
             29490,
             29490,
             29490,
-            29490,
+            26990,
             26990,
             26990,
             26990,
@@ -17503,7 +17678,7 @@
             89990,
             89990,
             89990,
-            89990,
+            99990,
             99990,
             99990,
             99990,
@@ -17639,7 +17814,7 @@
             67990,
             67990,
             67990,
-            67990,
+            74990,
             74990,
             74990
           ]
@@ -17665,7 +17840,7 @@
             56990,
             56990,
             56990,
-            56990,
+            64990,
             64990,
             64990
           ]
@@ -19739,7 +19914,7 @@
             489999,
             489999,
             489999,
-            489999,
+            684999,
             684999,
             684999,
             684999,
@@ -19947,7 +20122,7 @@
             24490,
             24490,
             24490,
-            24490,
+            25790,
             25790,
             25790,
             25790,
@@ -19973,7 +20148,7 @@
             23990,
             23990,
             23990,
-            23990,
+            24990,
             24990,
             24990,
             24990,
@@ -19999,7 +20174,7 @@
             20990,
             20990,
             20990,
-            20990,
+            21790,
             21790,
             21790,
             21790,
@@ -20025,7 +20200,7 @@
             20490,
             20490,
             20490,
-            20490,
+            20990,
             20990,
             20990,
             20990,
@@ -28373,7 +28548,7 @@
             111990,
             111990,
             111990,
-            111990,
+            118990,
             118990,
             118990,
             118990,
@@ -28595,8 +28770,8 @@
           "name": "Arktek NVIDIA GeForce GTX1050Ti 4GB GDDR5 128-bit Graphics Card",
           "brand": "NVIDIA",
           "category": "gpu",
-          "price": 37490,
-          "oldPrice": null,
+          "price": 39990,
+          "oldPrice": 37490,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Arktek-1050Ti-4GB-graphics-card-price-in-pakistan-pakbyte_1.jpg?v=1772079503",
@@ -28613,7 +28788,7 @@
             37490,
             37490,
             37490,
-            37490
+            39990
           ]
         },
         {
@@ -28841,7 +29016,7 @@
             17990,
             17990,
             17990,
-            17990,
+            19490,
             19490,
             19490,
             19490,
@@ -28867,7 +29042,7 @@
             16990,
             16990,
             16990,
-            16990,
+            18490,
             18490,
             18490,
             18490,
@@ -34017,7 +34192,7 @@
             159990,
             159990,
             159990,
-            159990,
+            225990,
             225990,
             225990,
             225990,
@@ -48265,7 +48440,7 @@
             94790,
             94790,
             94790,
-            94790,
+            89990,
             89990,
             89990,
             89990,
@@ -48521,7 +48696,7 @@
             42990,
             42990,
             42990,
-            42990,
+            39490,
             39490,
             39490,
             39490,
@@ -48547,7 +48722,7 @@
             49990,
             49990,
             49990,
-            49990,
+            47990,
             47990,
             47990,
             47990,
@@ -48573,7 +48748,7 @@
             49990,
             49990,
             49990,
-            49990,
+            47990,
             47990,
             47990,
             47990,
@@ -50425,7 +50600,7 @@
             14100,
             14100,
             14100,
-            14100,
+            19999,
             19999,
             19999
           ]
@@ -51671,7 +51846,7 @@
             254999,
             254999,
             254999,
-            254999,
+            259999,
             259999,
             259999,
             259999,
@@ -54113,7 +54288,7 @@
             34490,
             34490,
             34490,
-            34490,
+            39490,
             39490,
             39490,
             39490,
@@ -54425,7 +54600,7 @@
             23999,
             23999,
             23999,
-            23999,
+            22490,
             22490,
             22490,
             22490,
@@ -56313,7 +56488,7 @@
           "category": "headset",
           "price": 4540,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/redragon-h314-grendel-headset_1.webp?v=1756809710",
           "url": "https://www.pakbyte.pk/products/redragon-h314-grendel-rgb-gaming-headset",
@@ -57783,7 +57958,7 @@
             94990,
             94990,
             94990,
-            94990,
+            109990,
             109990,
             109990
           ]
@@ -57835,7 +58010,7 @@
             67990,
             67990,
             67990,
-            67990,
+            74990,
             74990,
             74990
           ]
@@ -57861,7 +58036,7 @@
             67999,
             67999,
             67999,
-            67999,
+            74990,
             74990,
             74990
           ]
@@ -57887,7 +58062,7 @@
             54999,
             54999,
             54999,
-            54999,
+            63990,
             63990,
             63990
           ]
@@ -57913,7 +58088,7 @@
             50999,
             50999,
             50999,
-            50999,
+            56990,
             56990,
             56990
           ]
@@ -59419,7 +59594,7 @@
             25990,
             25990,
             25990,
-            25990,
+            25490,
             25490,
             25490,
             25490,
@@ -59445,7 +59620,7 @@
             26490,
             26490,
             26490,
-            26490,
+            25990,
             25990,
             25990,
             25990,
@@ -59471,7 +59646,7 @@
             30490,
             30490,
             30490,
-            30490,
+            28990,
             28990,
             28990,
             28990,
@@ -59653,7 +59828,7 @@
             78990,
             78990,
             78990,
-            78990,
+            70990,
             70990,
             70990,
             70990,
@@ -59731,7 +59906,7 @@
             34990,
             34990,
             34990,
-            34990,
+            31490,
             31490,
             31490,
             31490,
@@ -59757,7 +59932,7 @@
             38499,
             38499,
             38499,
-            38499,
+            34990,
             34990,
             34990,
             34990,
@@ -59861,7 +60036,7 @@
             28990,
             28990,
             28990,
-            28990,
+            19990,
             19990,
             19990,
             19990,
@@ -59887,7 +60062,7 @@
             41999,
             41999,
             41999,
-            41999,
+            36990,
             36990,
             36990,
             36990,
@@ -62145,7 +62320,7 @@
             1149799,
             1149799,
             1149799,
-            1149799,
+            2649999,
             2649999,
             2649999,
             2649999,
@@ -62175,7 +62350,7 @@
             1494999,
             1494999,
             1494999,
-            1494999,
+            2649990,
             2649990,
             2649990,
             2649990,
@@ -67477,7 +67652,7 @@
             40990,
             40990,
             40990,
-            40990,
+            39490,
             39490,
             39490,
             39490,
@@ -69519,9 +69694,9 @@
           "name": "AndaSeat Stealth II Duo A6D-2S Ergonomic Dual Monitor Arm - Black",
           "brand": "AndaSeat",
           "category": "monitor",
-          "price": 14490,
-          "oldPrice": null,
-          "inStock": false,
+          "price": 15290,
+          "oldPrice": 14490,
+          "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/AndaSeat-Stealth-II-Duo-A6D-2S-Ergonomic-Dual-Monitor-Arm-Black-PakByte-Computers-26155706777667.jpg?v=1753670764",
           "url": "https://www.pakbyte.pk/products/andaseat-stealth-ii-duo-a6d-2s-ergonomic-dual-monitor-arm-black",
@@ -69537,7 +69712,7 @@
             14490,
             14490,
             14490,
-            14490
+            15290
           ]
         },
         {
@@ -72525,7 +72700,7 @@
             14100,
             14100,
             14100,
-            14100,
+            19999,
             19999,
             19999
           ]
@@ -73889,7 +74064,7 @@
           "category": "case",
           "price": 15690,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/XPG-VALOR-AIR-Plus-Mid-Tower-Gaming-Case-White-PakByte-Computers-25955597287491.webp?v=1753671325",
           "url": "https://www.pakbyte.pk/products/xpg-valor-air-plus-mid-tower-gaming-case-white",
@@ -74185,7 +74360,7 @@
             1499,
             1499,
             1499,
-            1499,
+            1290,
             1290,
             1290,
             1290,
@@ -74261,7 +74436,7 @@
             20990,
             20990,
             20990,
-            20990,
+            16990,
             16990,
             16990,
             16990,
@@ -74287,7 +74462,7 @@
             15990,
             15990,
             15990,
-            15990,
+            12990,
             12990,
             12990,
             12990,
@@ -75151,7 +75326,7 @@
             93999,
             93999,
             93999,
-            93999,
+            99990,
             99990,
             99990
           ]
@@ -80389,7 +80564,7 @@
           "category": "monitor",
           "price": 10490,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/MXG-EMA-24-Economical-Mechanical-Spring-Dual-Monitor-Arm-PakByte-Computers-25828376215619.jpg?v=1753672698",
           "url": "https://www.pakbyte.pk/products/mxg-ema-24-economical-mechanical-spring-dual-monitor-arm",
@@ -82734,6 +82909,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Thermalright-Frozen-Edge-360-White-ARGB-AIO-360mm-Liquid-CPU-Cooler-PakByte-Computers-25771893653571.jpg?v=1753673082",
           "url": "https://www.pakbyte.pk/products/thermalright-frozen-edge-360-white-argb-aio-360mm-liquid-cpu-cooler",
           "history": [
+            21990,
             21990,
             21990,
             21990,
@@ -87363,7 +87539,7 @@
             34490,
             34490,
             34490,
-            34490,
+            33990,
             33990,
             33990,
             33990,
@@ -87389,7 +87565,7 @@
             35490,
             35490,
             35490,
-            35490,
+            33990,
             33990,
             33990,
             33990,
@@ -87545,7 +87721,7 @@
             1690,
             1690,
             1690,
-            1690,
+            3190,
             3190,
             3190,
             3190,
@@ -87861,7 +88037,7 @@
             13000,
             13000,
             13000,
-            13000,
+            14999,
             14999,
             14999
           ]
@@ -91955,7 +92131,7 @@
           "category": "headset",
           "price": 19990,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SteelSeries-Arctis-Nova-1-Gaming-Headset-White-PakByte-Computers-25566680711235.jpg?v=1753675386",
           "url": "https://www.pakbyte.pk/products/steelseries-arctis-nova-1-wired-white",
@@ -99091,7 +99267,7 @@
             41500,
             41500,
             41500,
-            41500,
+            41990,
             41990,
             41990,
             41990,
@@ -105175,7 +105351,7 @@
             43500,
             43500,
             43500,
-            43500,
+            40990,
             40990,
             40990,
             40990,
@@ -110591,29 +110767,18 @@
           ]
         },
         {
-          "id": "pakbyte_f8a26c59",
-          "name": "Samsung Odyssey G4 27\" FHD IPS Gaming Monitor 240Hz 1ms HDR10 99% sRGB G-Sync Compatible |",
+          "id": "pakbyte_4ab78352",
+          "name": "Samsung Odyssey G4 G40B 27\" 240Hz 1ms HDR10 FHD IPS Gaming Monitor",
           "brand": "Samsung",
           "category": "monitor",
-          "price": 74000,
+          "price": 74990,
           "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/Samsung-Odyssey-G4-27-FHD-IPS-Gaming-Monitor-240Hz-1ms-HDR10-99-sRGB-G-Sync-Compatible-LS27BG402EMXZN-PakByte-Computers-24397841694787.webp?v=1753678988",
           "url": "https://www.pakbyte.pk/products/samsung-odyssey-g4-27-fhd-ips-gaming-monitor",
           "history": [
-            74000,
-            74000,
-            74000,
-            74000,
-            74000,
-            74000,
-            74000,
-            74000,
-            74000,
-            74000,
-            74000,
-            74000
+            74990
           ]
         },
         {
@@ -112405,7 +112570,7 @@
             18499,
             18499,
             18499,
-            18499,
+            19999,
             19999,
             19999
           ]
@@ -112431,7 +112596,7 @@
             13000,
             13000,
             13000,
-            13000,
+            14999,
             14999,
             14999
           ]
@@ -115237,7 +115402,7 @@
             13990,
             13990,
             13990,
-            13990,
+            9490,
             9490,
             9490,
             9490,
@@ -115315,7 +115480,7 @@
             28990,
             28990,
             28990,
-            28990,
+            27490,
             27490,
             27490,
             27490,
@@ -117409,7 +117574,7 @@
           "category": "motherboard",
           "price": 60800,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/ASUS-TUF-GAMING-B650-PLUS-GAMING-MOTHERBOARD-PakByte-Computers-24397708427331.webp?v=1753680040",
           "url": "https://www.pakbyte.pk/products/asus-tuf-gaming-b650-plus-gaming-motherboard",
@@ -120073,7 +120238,7 @@
             35990,
             35990,
             35990,
-            35990,
+            32990,
             32990,
             32990,
             32990,
@@ -135718,6 +135883,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SAMSUNG-32-Inch-144Hz-Odyssey-G5-Gaming-Monitor-with-1000R-Curved-Screen-1ms-FreeSync-Premium-QHD-LC32G55TQWNXZA-Black-PakByte-Computers-24397184368707.jpg?v=1753683808",
           "url": "https://www.pakbyte.pk/products/samsung-32-inch-144hz-odyssey-g5-gaming-monitor-with-1000r-curved-screen-1ms-freesync-premium-qhd-lc32g55tqwnxza-black",
           "history": [
+            114990,
             114990
           ]
         },
@@ -136305,6 +136471,7 @@
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/SAMSUNG-49-inch-Odyssey-G9-Gaming-Monitor-QHD-240hz-1000R-Curved-QLED-NVIDIA-G-SYNC-FreeSync-LC49G95TSSNXZA-Model-PakByte-Computers-24397135183939.jpg?v=1753683900",
           "url": "https://www.pakbyte.pk/products/samsung-49-inch-odyssey-g9-gaming-monitor-qhd-240hz-1000r-curved-qled-nvidia-g-sync-freesync-lc49g95tssnxza-model",
           "history": [
+            349990,
             349990
           ]
         },
@@ -139097,7 +139264,7 @@
           "category": "cooler",
           "price": 6400,
           "oldPrice": null,
-          "inStock": true,
+          "inStock": false,
           "lowStock": false,
           "img": "https://cdn.shopify.com/s/files/1/0589/8049/9523/files/CoolerMaster-MasterFan-SF360R-ARGB-PakByte-Computers-24396962791491.jpg?v=1753684352",
           "url": "https://www.pakbyte.pk/products/masterfan-sf360r-argb-cooler-master",
@@ -154427,27 +154594,6 @@
       "verified": true,
       "products": [
         {
-          "id": "rbtechgames_8453f076",
-          "name": "Gigabyte GeForce RTX 3080 Vision OC 10GB Graphics Card – USED",
-          "brand": "Gigabyte",
-          "category": "gpu",
-          "price": 147999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2026/11/rbtech_gigabyte_rtx_3080_vision_oc.png",
-          "url": "https://rbtechngames.com/product/gigabyte-geforce-rtx-3080-vision-oc-10gb-graphics-card-used",
-          "history": [
-            147999,
-            147999,
-            147999,
-            147999,
-            147999,
-            147999,
-            147999
-          ]
-        },
-        {
           "id": "rbtechgames_d2d9c1d3",
           "name": "Asus Tuf Dash F15 2022 (FX517Z), Intel Core i7 12th Gen, 16GB RAM, 512GB SSD, RTX 3060, 15",
           "brand": "ASUS",
@@ -154953,6 +155099,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-200458.png",
           "url": "https://rbtechngames.com/product/lenovo-legion-5-2026-15ahp11-amd-ryzen-7-250-16gb-ram-512gb-ssd-rtx-5060-15-3-qhd-165hz-ips-display-eclipse-black-used",
           "history": [
+            489999,
             489999,
             489999,
             489999,
@@ -157060,7 +157207,7 @@
             374999,
             374999,
             374999,
-            374999,
+            299999,
             299999,
             299999,
             299999,
@@ -157197,32 +157344,6 @@
             74999,
             74999,
             74999
-          ]
-        },
-        {
-          "id": "rbtechgames_e254c1ab",
-          "name": "Asus TUF Gaming B650-Plus WIFI DDR5 ATX AM5 Gaming Motherboard &#8211; USED",
-          "brand": "ASUS",
-          "category": "ram",
-          "price": 54999,
-          "oldPrice": null,
-          "inStock": true,
-          "lowStock": false,
-          "img": "https://rbtechngames.com/wp-content/uploads/2024/08/rbtech_asus_tuf_b650-plus_wifi_4.png",
-          "url": "https://rbtechngames.com/product/asus-tuf-gaming-b650-plus-wifi-ddr5-atx-am5-gaming-motherboard-used",
-          "history": [
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999,
-            54999
           ]
         },
         {
@@ -158095,6 +158216,7 @@
           "img": "https://rbtechngames.com/wp-content/uploads/2026/08/rbtech_dell_latitude_5450_1.webp",
           "url": "https://rbtechngames.com/product/dell-latitude-5450-intel-core-ultra-7-16gb-ram-256gb-ssd-14-0%e2%80%b3-fhd-ips-display-titan-grey-used",
           "history": [
+            154999,
             154999,
             154999,
             154999,
@@ -159756,7 +159878,7 @@
             364999,
             364999,
             364999,
-            364999,
+            324999,
             324999,
             324999,
             324999,
@@ -159808,7 +159930,7 @@
             274999,
             274999,
             274999,
-            274999,
+            324999,
             324999,
             324999,
             324999,
@@ -159849,7 +159971,7 @@
           "brand": "Crucial",
           "category": "ram",
           "price": 179999,
-          "oldPrice": 109999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2026/04/rbtech_crucial_pro_oc_ddr5_black.png",
@@ -159865,7 +159987,7 @@
             109999,
             109999,
             109999,
-            109999,
+            179999,
             179999
           ]
         },
@@ -160275,8 +160397,8 @@
             329999,
             329999,
             329999,
-            329999,
             343999,
+            339999,
             339999,
             339999,
             339999,
@@ -160525,7 +160647,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 56999,
-          "oldPrice": 55999,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/10/rbtech_msi_pro_b850-s_wifi6e.png",
@@ -160541,7 +160663,7 @@
             55999,
             55999,
             55999,
-            55999,
+            56999,
             56999
           ]
         },
@@ -161393,8 +161515,8 @@
             279999,
             279999,
             279999,
-            279999,
             329999,
+            324999,
             324999,
             324999,
             324999,
@@ -162254,7 +162376,7 @@
             10500,
             10500,
             10500,
-            10500,
+            9999,
             9999,
             9999,
             9999,
@@ -162267,7 +162389,7 @@
           "brand": "MSI",
           "category": "ram",
           "price": 54999,
-          "oldPrice": 53499,
+          "oldPrice": null,
           "inStock": true,
           "lowStock": false,
           "img": "https://rbtechngames.com/wp-content/uploads/2025/01/rbtech_msi_b650-s_wifi.png",
@@ -162283,7 +162405,7 @@
             53499,
             53499,
             53499,
-            53499,
+            54999,
             54999
           ]
         },
@@ -163996,7 +164118,7 @@
             40999,
             40999,
             40999,
-            40999,
+            37499,
             37499,
             37499,
             37499,
